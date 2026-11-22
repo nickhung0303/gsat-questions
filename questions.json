@@ -354,4 +354,3 @@
     "explanation": "正確答案為 (E)。\n1. 初速單位換算與鉛直分量拆解：\n• 初速量值 $v_0 = 126\\text{ km/h} = \\frac{126}{3.6}\\text{ m/s} = 35\\text{ m/s}$\n• 已知仰角 $\\cos\\theta = \\frac{3}{5}$，由直角三角形邊長比 $3:4:5$ 可得 $\\sin\\theta = \\frac{4}{5}$\n• 鉛直方向初速（向上為正）：$v_{0y} = v_0\\sin\\theta = 35 \\times \\frac{4}{5} = 28\\text{ m/s}$\n2. 計算 $5.0\\text{ s}$ 內的鉛直位移 $\\Delta y$：\n$$\\Delta y = v_{0y}t - \\frac{1}{2}gt^2 = 28 \\times 5.0 - \\frac{1}{2} \\times 10 \\times (5.0)^2 = 140 - 125 = 15\\text{ m}$$\n3. 計算最終離地高度 $H$：\n擊球點原本已離地 $y_0 = 1.0\\text{ m}$，故飛越全壘打牆瞬間的離地總高度為：\n$$H = y_0 + \\Delta y = 1.0 + 15 = 16\\text{ m}$$"
   }
 ]
-]
