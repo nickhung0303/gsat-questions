@@ -405,5 +405,55 @@
     "answerIndex": 0,
     "explanation": "【開管駐波模型與邊界條件解析】\n1. 判斷駐波邊界條件（兩端自由端）：\n水面在兩側浴缸壁上下起伏最大，代表兩側牆壁處皆為「波腹 (A)」。\n且題目指出「一邊高時、另一邊低」（兩端相位相反），代表兩端波腹之間包含奇數個半波長：\n$$L = \\frac{2k - 1}{2}\\lambda \\implies \\lambda = \\frac{2L}{2k - 1} \\quad (k = 1, 2, 3, \\dots)$$\n\n2. 計算可能之共振頻率：\n代入波速 $v = 1.0\\text{ m/s}$ 與寬度 $L = 0.75\\text{ m}$：\n$$f = \\frac{v}{\\lambda} = \\frac{(2k - 1)v}{2L} = \\frac{(2k - 1) \\times 1.0}{2 \\times 0.75} = \\frac{2k - 1}{1.5}\\text{ Hz}$$\n當 $k = 1$（基音）時，$f_1 = \\dfrac{1}{1.5} = \\dfrac{2}{3} \\approx 0.67\\text{ Hz}$。\n\n故選 (A)",
     "explanationSvg": "<svg viewBox=\"0 0 340 220\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:380px;height:auto;display:block;\"><polyline points=\"40,40 40,180 300,180 300,40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"3.5\"/><line x1=\"40\" y1=\"110\" x2=\"300\" y2=\"110\" stroke=\"rgba(255,255,255,0.4)\" stroke-width=\"1.5\" stroke-dasharray=\"4,4\"/><path d=\"M 40 65 Q 170 110 300 155\" fill=\"none\" stroke=\"#ffeb3b\" stroke-width=\"3\"/><path d=\"M 40 155 Q 170 110 300 65\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"2.5\" stroke-dasharray=\"6,4\"/><circle cx=\"170\" cy=\"110\" r=\"5\" fill=\"#ffffff\"/><text x=\"48\" y=\"55\" fill=\"#ffeb3b\" font-size=\"15\" font-weight=\"bold\">波腹 A</text><text x=\"240\" y=\"55\" fill=\"#80deea\" font-size=\"15\" font-weight=\"bold\">波腹 A</text><text x=\"150\" y=\"95\" fill=\"#ffffff\" font-size=\"15\">波節 N</text><text x=\"115\" y=\"205\" fill=\"#ffeb3b\" font-size=\"16\" font-weight=\"bold\">L = 0.75 m = (2k-1) λ/2</text></svg>"
+  },
+  {
+    "id": "91-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "4. 已知當一圓周的四分之一均勻帶有電荷 $q$ 時，圓心的電場量值為 $0.50\\text{ V/m}$。若此圓周的一半均勻帶有電荷 $2q$，另一半均勻帶有電荷 $-2q$，則圓心的電場量值為若干 $\\text{V/m}$？",
+    "options": [
+      "$1.4$",
+      "$1.6$",
+      "$1.8$",
+      "$2.0$",
+      "$2.2$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【對稱分割與向量合成解析】\n1. 四等分圓弧之獨立電場：\n已知 $\\dfrac{1}{4}$ 圓弧帶電 $q$ 時，在圓心產生之電場量值為 $E_0 = 0.50\\text{ V/m}$。將整座圓周切分為四個象限的 $\\dfrac{1}{4}$ 圓弧：\n• 上半圓（帶電 $+2q$）：由第一、二象限兩個帶 $+q$ 的 $\\dfrac{1}{4}$ 圓弧組成，各自在圓心產生夾角 $90^\\circ$、斜向下方的斥力電場 $E_0$。\n• 下半圓（帶電 $-2q$）：由第三、四象限兩個帶 $-q$ 的 $\\dfrac{1}{4}$ 圓弧組成，各自在圓心產生夾角 $90^\\circ$、斜向下方的引力電場 $E_0$。\n\n2. 向量疊加計算：\n水平分量完全對稱抵消，四段 $\\dfrac{1}{4}$ 圓弧在鉛直方向（向下）的分量皆同向相加：\n$$E_{\\text{total}} = 4 \\times (E_0 \\cos 45^\\circ) = 4 \\times 0.50 \\times \\frac{\\sqrt{2}}{2} = \\sqrt{2} \\approx 1.4\\text{ V/m}$$\n\n故選 (A)",
+    "explanationSvg": "<svg viewBox=\"0 0 320 250\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:360px;height:auto;display:block;\"><defs><marker id=\"ay4\" viewBox=\"0 0 10 10\" refX=\"6\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#ffeb3b\"/></marker><marker id=\"ac4\" viewBox=\"0 0 10 10\" refX=\"6\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#80deea\"/></marker></defs><line x1=\"40\" y1=\"125\" x2=\"280\" y2=\"125\" stroke=\"rgba(255,255,255,0.3)\" stroke-width=\"1.5\" stroke-dasharray=\"4,4\"/><line x1=\"160\" y1=\"15\" x2=\"160\" y2=\"235\" stroke=\"rgba(255,255,255,0.3)\" stroke-width=\"1.5\" stroke-dasharray=\"4,4\"/><path d=\"M 70 125 A 90 90 0 0 1 250 125\" fill=\"none\" stroke=\"#ffeb3b\" stroke-width=\"4\"/><path d=\"M 250 125 A 90 90 0 0 1 70 125\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"4\"/><text x=\"75\" y=\"45\" fill=\"#ffeb3b\" font-size=\"16\" font-weight=\"bold\">上半圓 +2q</text><text x=\"195\" y=\"45\" fill=\"#ffeb3b\" font-size=\"14\">(兩段 +q)</text><text x=\"75\" y=\"220\" fill=\"#80deea\" font-size=\"16\" font-weight=\"bold\">下半圓 -2q</text><text x=\"195\" y=\"220\" fill=\"#80deea\" font-size=\"14\">(兩段 -q)</text><line x1=\"160\" y1=\"125\" x2=\"115\" y2=\"170\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#ay4)\"/><line x1=\"160\" y1=\"125\" x2=\"205\" y2=\"170\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#ay4)\"/><line x1=\"160\" y1=\"125\" x2=\"160\" y2=\"195\" stroke=\"#ffffff\" stroke-width=\"3\" marker-end=\"url(#ac4)\"/><text x=\"170\" y=\"190\" fill=\"#ffffff\" font-size=\"15\" font-weight=\"bold\">E_合 = 4 E₀ cos45°</text></svg>"
+  },
+  {
+    "id": "91-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "5. 二極體 D、小燈泡 L 和電動勢為 $1.5\\text{ V}$ 的電池（內電阻可以不計）組成如圖所示的串聯電路。已知通過小燈泡的電流為 $2.0\\text{ mA}$，則此燈泡的耗電功率約為何？\n\n【二極體電流－電壓特性表】\n• 電壓 $0\\text{ V}$：電流 $0$\n• 電壓 $0.10\\text{ V}$：電流 $0.02\\ \\mu\\text{A}$\n• 電壓 $0.20\\text{ V}$：電流 $0.90\\ \\mu\\text{A}$\n• 電壓 $0.30\\text{ V}$：電流 $41\\ \\mu\\text{A}$\n• 電壓 $0.40\\text{ V}$：電流 $2.0\\text{ mA}$\n• 電壓 $0.50\\text{ V}$：電流 $96\\text{ mA}$",
+    "svg": "<svg viewBox=\"0 0 280 150\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:320px;height:auto;display:block;\"><rect x=\"40\" y=\"30\" width=\"200\" height=\"95\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"2.5\"/><rect x=\"25\" y=\"68\" width=\"30\" height=\"16\" fill=\"#1b4d3e\"/><line x1=\"22\" y1=\"70\" x2=\"58\" y2=\"70\" stroke=\"#ffffff\" stroke-width=\"2.5\"/><line x1=\"30\" y1=\"82\" x2=\"50\" y2=\"82\" stroke=\"#ffffff\" stroke-width=\"4.5\"/><text x=\"0\" y=\"60\" fill=\"#ffeb3b\" font-size=\"15\" font-weight=\"bold\">1.5V</text><polygon points=\"130,18 130,42 152,30\" fill=\"#ffeb3b\"/><line x1=\"152\" y1=\"16\" x2=\"152\" y2=\"44\" stroke=\"#ffeb3b\" stroke-width=\"3\"/><text x=\"135\" y=\"62\" fill=\"#ffeb3b\" font-size=\"15\" font-weight=\"bold\">D</text><circle cx=\"240\" cy=\"78\" r=\"18\" fill=\"#1b4d3e\" stroke=\"#80deea\" stroke-width=\"2.5\"/><path d=\"M 240 60 C 230 68, 250 72, 240 78 C 230 84, 250 88, 240 96\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"2\"/><text x=\"265\" y=\"84\" fill=\"#80deea\" font-size=\"16\" font-weight=\"bold\">L</text></svg>",
+    "options": [
+      "$0.8\\text{ mW}$",
+      "$1.6\\text{ mW}$",
+      "$2.2\\text{ mW}$",
+      "$2.5\\text{ mW}$",
+      "$3.0\\text{ mW}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【迴路電壓定律與功率解析】\n1. 由特性表查出二極體兩端電位差：\n因二極體 D 與小燈泡 L 為串聯連接，通過二極體的電流即等於通過小燈泡的電流 $I = 2.0\\text{ mA}$。\n對照題目附表，當電流 $I = 2.0\\text{ mA}$ 時，二極體兩端的順向偏壓為：\n$$V_{\\text{D}} = 0.40\\text{ V}$$\n\n2. 計算小燈泡之跨壓與消耗電功率：\n由克希荷夫電壓定律（總電動勢 $\\varepsilon = 1.5\\text{ V}$）：\n$$V_{\\text{L}} = \\varepsilon - V_{\\text{D}} = 1.5\\text{ V} - 0.40\\text{ V} = 1.1\\text{ V}$$\n代入電功率公式 $P_{\\text{L}} = I V_{\\text{L}}$：\n$$P_{\\text{L}} = 2.0\\text{ mA} \\times 1.1\\text{ V} = 2.2\\text{ mW}$$\n\n故選 (C)"
+  },
+  {
+    "id": "91-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "6. 小明想利用自由落體運動公式 $v = gt$，測量一靜止物體由同一高度下墜抵地時的速率 $v$。他先由實地測量，得到重力加速度 $g$ 為 $9.8\\text{ m/s}^2$，接著對物體下墜抵地所需之時間 $t$，作了 $8$ 次測量，得到以下結果：\n\n【$8$ 次測量之抵地時間 $t\\ (\\text{s})$】\n第 1～4 次：$1.28$、$1.27$、$1.28$、$1.28$\n第 5～8 次：$1.28$、$1.27$、$1.28$、$1.27$\n\n下列以有效數字表示之抵地時間 $t$ 的平均值與抵地速率 $v$，何者最能適當地表示此實驗測量之結果？",
+    "options": [
+      "$t$ 平均值 $= 1.27625\\text{ s}$，速率 $v = 12.50725\\text{ m/s}$",
+      "$t$ 平均值 $= 1.276\\text{ s}$，速率 $v = 12.5\\text{ m/s}$",
+      "$t$ 平均值 $= 1.28\\text{ s}$，速率 $v = 12.50\\text{ m/s}$",
+      "$t$ 平均值 $= 1.28\\text{ s}$，速率 $v = 12.51\\text{ m/s}$",
+      "$t$ 平均值 $= 1.28\\text{ s}$，速率 $v = 13\\text{ m/s}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【有效數字位數判定解析】\n1. 抵地時間平均值 $\\bar{t}$ 的有效數字：\n將 $8$ 次測量值相加得總和：\n$$\\sum t = 1.28 \\times 5 + 1.27 \\times 3 = 10.21\\text{ s}\\quad (\\text{具 } 4 \\text{ 位有效數字})$$\n除以完全準確之測量次數 $8$：\n$$\\bar{t} = \\frac{10.21}{8} = 1.27625\\text{ s}$$\n多次測量取平均可提高精確度（對應總和之 $4$ 位有效數字），故取 $4$ 位有效數字記為 $\\bar{t} = 1.276\\text{ s}$。\n\n2. 抵地速率 $v$ 的有效數字：\n$$v = g \\bar{t} = 9.8 \\times 1.276 = 12.5048\\text{ m/s}$$\n由於 $g = 9.8\\text{ m/s}^2$ 的首數為 $9$（數值極接近 $10.0$ 的三位有效數字精確度），相乘後若僅取兩位會損失精確度，故保留 $3$ 位有效數字，四捨五入記為 $v = 12.5\\text{ m/s}$。\n\n故選 (B)"
   }
 ]
