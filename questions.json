@@ -506,5 +506,55 @@
     ],
     "answerIndex": 1,
     "explanation": "【碰撞實驗選項解析】\n• (A) 正確：為了確保碰撞時力作用在球心連線（水平面）上，兩球球心必須等高。\n• (B) 錯誤（本題答案）：弧形尺不需要光滑。因為實驗中我們是利用「位移成比例代換速度」，只要釋放位置相同，即使軌道有摩擦力，球下滑時的初速與動能依然保持固定，不影響實驗結果。\n• (C) 正確：若末端未水平，碰撞後兩球具有鉛直分速，導致落地時間 $t$ 不同。\n• (D) 正確：已知飛行時間 $t$ 與水平落點位移 $\\vec{r}$，即可由 $\\vec{v} = \\vec{r}/t$ 求出碰撞後的瞬時速度。\n• (E) 正確：軌道末端若斜向下或斜向上，鉛直初速不為零，飛行時間會異於 $\\sqrt{2h/g}$。\n\n故選 (B)"
+  },
+  {
+    "id": "91-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "10. 將電子從金屬鋁表面移出需要 $4.2\\text{ eV}$ 的能量。若以波長為 $200\\text{ nm}$ 的光照射鋁的表面，則釋出的光電子其最大動能為何？（已知普朗克常數 $h \\approx 6.63 \\times 10^{-34}\\text{ J}\\cdot\\text{s}$，光速 $c = 3 \\times 10^8\\text{ m/s}$， $1\\text{ eV} = 1.6 \\times 10^{-19}\\text{ J}$）",
+    "options": [
+      "$9.9 \\times 10^{-19}\\text{ J}$",
+      "$6.4 \\times 10^{-19}\\text{ J}$",
+      "$4.3 \\times 10^{-19}\\text{ J}$",
+      "$3.2 \\times 10^{-19}\\text{ J}$",
+      "$0$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【光子能量與愛因斯坦光電方程式解析】\n1. 計算入射光子的能量 $E$：\n利用光子能量公式 $E = \\dfrac{hc}{\\lambda}$：\n$$E = \\frac{(6.63 \\times 10^{-34}\\text{ J}\\cdot\\text{s}) \\times (3 \\times 10^8\\text{ m/s})}{200 \\times 10^{-9}\\text{ m}} = 9.945 \\times 10^{-19}\\text{ J}$$\n換算為 $\\text{eV}$ 單位：\n$$E = \\frac{9.945 \\times 10^{-19}}{1.6 \\times 10^{-19}}\\text{ eV} \\approx 6.22\\text{ eV}$$\n\n2. 代入愛因斯坦光電方程式求最大動能 $K_{\\text{max}}$：\n已知功函數（導出能）$\\Phi = 4.2\\text{ eV}$：\n$$K_{\\text{max}} = E - \\Phi = 6.22\\text{ eV} - 4.2\\text{ eV} = 2.02\\text{ eV}$$\n將其轉換回焦耳（$\\text{J}$）單位：\n$$K_{\\text{max}} = 2.02 \\times (1.6 \\times 10^{-19}\\text{ J}) \\approx 3.23 \\times 10^{-19}\\text{ J} \\approx 3.2 \\times 10^{-19}\\text{ J}$$\n\n故選 (D)"
+  },
+  {
+    "id": "91-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "11. 一水平輸送帶恆以等速度 $v$ 沿 $+x$ 方向移動，在時刻 $t=0$ 時，將一質量為 $m$ 的箱子以水平速度 $u=0$ 置於輸送帶上，如圖 5 所示。若箱子與輸送帶之間的靜摩擦係數為 $\\mu_s$，動摩擦係數為 $\\mu_k$，重力加速度為 $g$，則下列有關此箱子的敘述，何者正確？",
+    "svg": "<svg viewBox=\"0 0 350 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:400px;height:auto;display:block;\"><defs><marker id=\"ay11\" viewBox=\"0 0 10 10\" refX=\"6\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#ffeb3b\"/></marker></defs><rect x=\"20\" y=\"70\" width=\"280\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.08)\" stroke=\"#ffffff\" stroke-width=\"2.5\"/><circle cx=\"50\" cy=\"90\" r=\"16\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"2\"/><circle cx=\"270\" cy=\"90\" r=\"16\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"2\"/><path d=\"M 115 70 L 135 70 M 175 70 L 195 70\" stroke=\"#ffeb3b\" stroke-width=\"2\"/><line x1=\"225\" y1=\"50\" x2=\"265\" y2=\"50\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#ay11)\"/><text x=\"240\" y=\"42\" fill=\"#ffeb3b\" font-size=\"15\" font-weight=\"bold\">v</text><rect x=\"75\" y=\"30\" width=\"35\" height=\"40\" fill=\"rgba(255,255,255,0.15)\" stroke=\"#ffffff\" stroke-width=\"2\"/><text x=\"85\" y=\"55\" fill=\"#ffffff\" font-size=\"15\" font-weight=\"bold\">m</text><line x1=\"310\" y1=\"130\" x2=\"338\" y2=\"130\" stroke=\"#ffffff\" stroke-width=\"2\" marker-end=\"url(#ay11)\"/><line x1=\"310\" y1=\"130\" x2=\"310\" y2=\"105\" stroke=\"#ffffff\" stroke-width=\"2\"/><text x=\"322\" y=\"147\" fill=\"#ffffff\" font-size=\"14\">+x</text><text x=\"145\" y=\"147\" fill=\"#ffffff\" font-size=\"14\">圖 5</text></svg>",
+    "options": [
+      "摩擦力對箱子所做的總功為 $-0.5 mv^2$",
+      "當 $t = v/(\\mu_k g)$ 時，箱子的速度會等於輸送帶的速度",
+      "在時刻 $t=0$ 時，箱子所受的淨力為 $\\mu_s mg$，向 $+x$ 方向",
+      "在時刻 $t=0$ 時，箱子所受的淨力為 $\\mu_k mg$，向 $-x$ 方向",
+      "當箱子的速度等於 $v$ 時，箱子所受的摩擦力為 $\\mu_s mg$，向 $+x$ 方向"
+    ],
+    "answerIndex": 1,
+    "explanation": "【動力學與摩擦力作用解析】\n1. 分析摩擦力性質與運動狀態：\n• 箱子初速 $u = 0$ 且輸送帶以 $v$ 向右移動，兩者存在相對滑動，故箱子受到的摩擦力為動摩擦力：\n$$f_k = \\mu_k N = \\mu_k mg \\quad (\\text{方向向 }+x\\text{ 方向})$$\n• 由牛頓第二運動定律，箱子的加速度為：\n$$a = \\frac{f_k}{m} = \\mu_k g$$\n\n2. 檢驗各選項正確性：\n• (A) 錯誤：由功能定理，摩擦力作功等於動能變化量：$W = \\Delta K = \\frac{1}{2}mv^2 - 0 = +0.5 mv^2$（正功）。\n• (B) 正確：由等加速度公式 $v = u + at \\implies v = 0 + (\\mu_k g)t$，可得加速至與輸送帶同速所需時間為 $t = \\dfrac{v}{\\mu_k g}$。\n• (C)(D) 錯誤：$t=0$ 時為滑動狀態，淨力即為動摩擦力 $\\mu_k mg$，方向向 $+x$。\n• (E) 錯誤：當箱子速度等於 $v$ 時，兩者無相對運動，摩擦力變為 $0$。\n\n故選 (B)"
+  },
+  {
+    "id": "91-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "12. 如圖 6 所示，在無摩擦之水平地面上，有一彈簧-物體系統，彈簧之力常數為 $k$，物體 $m$ 離開平衡位置之位移以 $x$ 表示。若物體受到如圖 7 所示之水平施力 $F$ 與彈簧力 $-kx$ 作用，由平衡位置移動至 $x = 1.00\\text{ m}$ 處，則下列關於此運動過程之敘述，何者正確？",
+    "svg": "<svg viewBox=\"0 0 540 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:540px;height:auto;display:block;\"><defs><marker id=\"ay12\" viewBox=\"0 0 10 10\" refX=\"6\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#ffeb3b\"/></marker><marker id=\"aw12\" viewBox=\"0 0 10 10\" refX=\"6\" refY=\"5\" markerWidth=\"5\" markerHeight=\"5\" orient=\"auto-start-reverse\"><path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#ffffff\"/></marker></defs><line x1=\"20\" y1=\"125\" x2=\"260\" y2=\"125\" stroke=\"#ffffff\" stroke-width=\"2.5\"/><line x1=\"20\" y1=\"25\" x2=\"20\" y2=\"125\" stroke=\"#ffffff\" stroke-width=\"3\"/><path d=\"M 20 75 L 35 75 L 40 65 L 48 85 L 56 65 L 64 85 L 72 65 L 80 85 L 88 65 L 96 85 L 100 75 L 115 75\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"2.5\"/><text x=\"62\" y=\"52\" fill=\"#80deea\" font-size=\"14\" font-weight=\"bold\">k</text><rect x=\"115\" y=\"50\" width=\"42\" height=\"50\" fill=\"rgba(255,255,255,0.15)\" stroke=\"#ffffff\" stroke-width=\"2\"/><text x=\"130\" y=\"80\" fill=\"#ffffff\" font-size=\"15\" font-weight=\"bold\">m</text><line x1=\"157\" y1=\"75\" x2=\"205\" y2=\"75\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#ay12)\"/><text x=\"212\" y=\"80\" fill=\"#ffeb3b\" font-size=\"15\" font-weight=\"bold\">F</text><text x=\"95\" y=\"148\" fill=\"#ffffff\" font-size=\"13\">x = 0 (平衡位置)</text><text x=\"125\" y=\"175\" fill=\"#ffffff\" font-size=\"14\">圖 6</text><line x1=\"330\" y1=\"15\" x2=\"330\" y2=\"155\" stroke=\"#ffffff\" stroke-width=\"2\" marker-start=\"url(#aw12)\"/><line x1=\"320\" y1=\"95\" x2=\"515\" y2=\"95\" stroke=\"#ffffff\" stroke-width=\"2\" marker-end=\"url(#aw12)\"/><text x=\"292\" y=\"22\" fill=\"#ffffff\" font-size=\"13\">力(N)</text><text x=\"495\" y=\"113\" fill=\"#ffffff\" font-size=\"13\">x(m)</text><text x=\"295\" y=\"40\" fill=\"#ffffff\" font-size=\"12\">1.00</text><text x=\"295\" y=\"68\" fill=\"#ffffff\" font-size=\"12\">0.50</text><text x=\"316\" y=\"108\" fill=\"#ffffff\" font-size=\"12\">0</text><text x=\"290\" y=\"130\" fill=\"#ffffff\" font-size=\"12\">-0.50</text><text x=\"476\" y=\"112\" fill=\"#ffffff\" font-size=\"12\">1.00</text><line x1=\"490\" y1=\"35\" x2=\"490\" y2=\"125\" stroke=\"rgba(255,255,255,0.4)\" stroke-width=\"1.5\" stroke-dasharray=\"4,4\"/><line x1=\"330\" y1=\"95\" x2=\"490\" y2=\"35\" stroke=\"#ffeb3b\" stroke-width=\"2.5\"/><text x=\"405\" y=\"52\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\">施力 F</text><line x1=\"330\" y1=\"95\" x2=\"490\" y2=\"125\" stroke=\"#80deea\" stroke-width=\"2.5\"/><text x=\"395\" y=\"142\" fill=\"#80deea\" font-size=\"13\" font-weight=\"bold\">彈簧力 -kx</text><text x=\"400\" y=\"175\" fill=\"#ffffff\" font-size=\"14\">圖 7</text></svg>",
+    "options": [
+      "施力 $F$ 與彈簧力之合力對物體所作之功為零",
+      "彈簧力對物體所作之功為正，等於 $0.250\\text{ J}$",
+      "彈簧-物體系統的位能減少 $0.250\\text{ J}$",
+      "物體的動能增加 $0.250\\text{ J}$",
+      "物體的速率愈來愈慢"
+    ],
+    "answerIndex": 3,
+    "explanation": "【功與力學能變化解析】\n1. 計算施力 $F$ 與彈簧力所作之功（$F-x$ 圖面積）：\n• 由圖 7 可知，當 $x = 1.00\\text{ m}$ 時，$F = 1.00\\text{ N}$，彈簧力 $-kx = -0.50\\text{ N}$（$k = 0.5\\text{ N/m}$）。\n• 施力 $F$ 作功（正功）：$W_F = \\int_0^{1} F\\,dx = \\frac{1}{2} \\times 1.00\\text{ N} \\times 1.00\\text{ m} = +0.500\\text{ J}$。\n• 彈簧力作功（負功）：$W_s = \\int_0^{1} (-kx)\\,dx = -\\frac{1}{2} \\times 0.50\\text{ N} \\times 1.00\\text{ m} = -0.250\\text{ J}$（故 B 錯）。\n• 合力作功：$W_{\\text{net}} = W_F + W_s = 0.500 - 0.250 = +0.250\\text{ J}$（故 A 錯）。\n\n2. 系統動能與位能變化：\n• 動能增加量：由功能定理 $\\Delta K = W_{\\text{net}} = +0.250\\text{ J}$（故 D 正確，E 錯誤）。\n• 彈簧位能變化：$\\Delta U = -W_s = -(-0.250\\text{ J}) = +0.250\\text{ J}$（位能增加，故 C 錯）。\n\n故選 (D)"
   }
 ]
