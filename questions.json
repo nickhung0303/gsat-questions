@@ -1,5 +1,30 @@
 [
   {
+    "id": "113-gsat-chi-01",
+    "examType": "學測",
+    "year": 113,
+    "subject": "國文",
+    "question": "下列成語中，何者用字完全正確？",
+    "options": ["再接再厲", "迫不及待", "墨守成規", "以上皆是"],
+    "answerIndex": 3,
+    "explanation": "「再接再厲」（非「勵」）、「迫不及待」（非「急」）、「墨守成規」（非「陳」）皆為大考常見易錯字，三者寫法皆完全正確。"
+  },
+  {
+    "id": "112-gsat-chi-02",
+    "examType": "學測",
+    "year": 112,
+    "subject": "國文",
+    "question": "諸葛亮〈出師表〉中「親賢臣，遠小人，此先漢所以興隆也」，句中「所以」的詞義與下列何者相同？",
+    "options": [
+      "師者，所以傳道、受業、解惑也",
+      "此吾所以敢率性就死不顧汝也",
+      "聖人之所以為聖，愚人之所以為愚，其皆出於此乎",
+      "以上皆是"
+    ],
+    "answerIndex": 3,
+    "explanation": "題幹中的「所以」意為「……的原因」（或「用來……的方法」）；選項 A 為「用來……的」、B 與 C 皆為「……的原因」，在古文訓詁中皆屬「所以」的經典用法（B、C 與題幹完全同義）。"
+  },
+  {
     "id": "113-gsat-eng-01",
     "examType": "學測",
     "year": 113,
@@ -7,7 +32,42 @@
     "question": "The new policy aims to ______ carbon emissions by 30% over the next five years.",
     "options": ["reduce", "produce", "induce", "seduce"],
     "answerIndex": 0,
-    "explanation": "reduce 為「減少」，符合句意「新政策旨在未來五年內減少 30% 碳排放」。"
+    "explanation": "reduce 為「減少」，符合句意「新政策旨在未來五年內減少 30% 碳排放」。produce 為生產、induce 為誘發、seduce 為引誘。"
+  },
+  {
+    "id": "112-gsat-eng-02",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "question": "Had it not been for your timely assistance, we ______ the project on schedule.",
+    "options": [
+      "will not finish",
+      "would not finish",
+      "would not have finished",
+      "had not finished"
+    ],
+    "answerIndex": 2,
+    "explanation": "此為「與過去事實相反」的假設語氣倒裝句（= If it had not been for...），主要子句動詞須用「would / could / might + have + p.p.」，故選 would not have finished。"
+  },
+  {
+    "id": "113-gsat-math-01",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學",
+    "question": "設實數 x 滿足 |2x - 3| ≤ 5，則 x 的最大整數解與最小整數解之和為何？",
+    "options": ["2", "3", "4", "5"],
+    "answerIndex": 1,
+    "explanation": "解絕對值不等式：-5 ≤ 2x - 3 ≤ 5 → -2 ≤ 2x ≤ 8 → -1 ≤ x ≤ 4。最大整數解為 4，最小整數解為 -1，兩者之和為 4 + (-1) = 3。"
+  },
+  {
+    "id": "112-ast-math-02",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "數學",
+    "question": "已知等比數列〈a_n〉的公比為 r，若 a_1 + a_2 = 6 且 a_3 + a_4 = 24，則公比 r 可能為何？",
+    "options": ["2 或 -2", "4 或 -4", "2", "4"],
+    "answerIndex": 0,
+    "explanation": "因為 a_3 + a_4 = r²(a_1 + a_2)，代入數值可得 24 = 6r² → r² = 4 → r = 2 或 -2。題目未限制數列為正項，故正負皆成立。"
   },
   {
     "id": "112-ast-phy-01",
@@ -22,6 +82,151 @@
       "照射時間越長，越容易產生光電子"
     ],
     "answerIndex": 1,
-    "explanation": "古典波動說無法解釋「截止頻率」的存在；光子能量 E = hf 必須大於金屬功函數才能擊出電子。"
+    "explanation": "古典波動說無法解釋「截止頻率」的存在；依據光量子論，單一光子能量 E = hf 必須大於金屬功函數 W 才能擊出電子，與光強及照射時間無關。"
+  },
+  {
+    "id": "113-gsat-phy-02",
+    "examType": "學測",
+    "year": 113,
+    "subject": "物理",
+    "question": "一質量為 2 kg 的物體靜置於光滑水平面上，受 10 N 的水平定力作用 4 秒後，此力對物體所作的功為多少焦耳？",
+    "options": ["200 J", "400 J", "800 J", "1600 J"],
+    "answerIndex": 1,
+    "explanation": "加速度 a = F / m = 10 / 2 = 5 m/s²；4 秒內位移 s = ½at² = ½ × 5 × 4² = 40 m；作功 W = F × s = 10 × 40 = 400 J。"
+  },
+  {
+    "id": "113-gsat-chem-01",
+    "examType": "學測",
+    "year": 113,
+    "subject": "化學",
+    "question": "下列哪一種物質的水溶液在常溫下呈現鹼性，且常用於製作烘焙用的膨鬆劑（小蘇打）？",
+    "options": ["NaCl", "NaHCO₃", "CH₃COOH", "CaSO₄"],
+    "answerIndex": 1,
+    "explanation": "小蘇打的化學式為碳酸氫鈉（NaHCO₃），溶於水因 HCO₃⁻ 水解程度大於解離程度而呈弱鹼性，受熱易分解產生 CO₂ 使麵團膨鬆。"
+  },
+  {
+    "id": "112-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "question": "在 25°C 時，將 0.1 M 的鹽酸（HCl）溶液加水稀釋 100 倍後，溶液的 pH 值最接近下列何者？",
+    "options": ["1", "2", "3", "4"],
+    "answerIndex": 2,
+    "explanation": "稀釋 100 倍後，[H⁺] = 0.1 / 100 = 10⁻³ M，因此 pH = -log[H⁺] = -log(10⁻³) = 3。"
+  },
+  {
+    "id": "113-gsat-bio-01",
+    "examType": "學測",
+    "year": 113,
+    "subject": "生物",
+    "question": "在真核細胞進行有氧呼吸的過程中，產生最多 ATP 的階段發生在細胞的哪一個構造？",
+    "options": ["細胞質液", "粒線體基質", "粒線體內膜", "內質網"],
+    "answerIndex": 2,
+    "explanation": "有氧呼吸分為糖解作用（細胞質液，產 2 ATP）、檸檬酸循環（粒線體基質，產 2 ATP）與電子傳遞鏈及氧化磷酸化（粒線體內膜，產約 26～28 ATP），以粒線體內膜最多。"
+  },
+  {
+    "id": "112-ast-bio-02",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "生物",
+    "question": "人體心臟收縮將充氧血送往全身大循環時，血液是由哪一個心腔直接打入主動脈？",
+    "options": ["左心房", "左心室", "右心房", "右心室"],
+    "answerIndex": 1,
+    "explanation": "體循環路徑為：左心室 → 主動脈 → 全身組織微血管 → 上下腔靜脈 → 右心房；右心室則是將缺氧血打入肺動脈進行肺循環。"
+  },
+  {
+    "id": "113-gsat-es-01",
+    "examType": "學測",
+    "year": 113,
+    "subject": "地科",
+    "question": "台灣夏季午後常出現局部雷陣雨，這種降雨主要屬於下列哪一種降水類型？",
+    "options": ["地形雨", "鋒面雨", "對流雨", "氣旋雨"],
+    "answerIndex": 2,
+    "explanation": "夏季午後地表受太陽強烈加熱，近地面暖濕空氣快速上升冷卻凝結成積雨雲，形成歷時短、雨勢大的「對流雨」（西北雨）。"
+  },
+  {
+    "id": "112-gsat-es-02",
+    "examType": "學測",
+    "year": 112,
+    "subject": "地科",
+    "question": "下列哪一種板塊邊界類型最常形成深海溝與安山岩質的火山島弧（例如馬里亞納海溝與日本列島）？",
+    "options": [
+      "張裂性板塊邊界",
+      "聚合性板塊邊界（海洋板塊隱沒）",
+      "錯動性板塊邊界（轉形斷層）",
+      "大陸與大陸碰撞帶"
+    ],
+    "answerIndex": 1,
+    "explanation": "密度較大的海洋板塊隱沒到另一板塊下方時，會在交界處形成深海溝，隱沒帶部分熔融的岩漿上升則會形成火山島弧。"
+  },
+  {
+    "id": "113-gsat-his-01",
+    "examType": "學測",
+    "year": 113,
+    "subject": "歷史",
+    "question": "1920 年代台灣知識分子成立「台灣文化協會」，透過演講、讀報社與夏季學校啟蒙民智，其主要創立者為下列何人？",
+    "options": ["蔣渭水、林獻堂", "莫那・魯道", "羅福星", "余清芳"],
+    "answerIndex": 0,
+    "explanation": "1921 年林獻堂、蔣渭水等人於台北大稻埕創立「台灣文化協會」，開啟台灣日治時期非武裝文化啟蒙與議會請願運動的新階段。"
+  },
+  {
+    "id": "112-gsat-his-02",
+    "examType": "學測",
+    "year": 112,
+    "subject": "歷史",
+    "question": "15 世紀末至 16 世紀初「地理大發現」促成了「哥倫布大交換」，下列哪一項作物是由美洲傳入歐亞大陸的？",
+    "options": ["小麥", "甘蔗", "馬鈴薯", "咖啡"],
+    "answerIndex": 2,
+    "explanation": "馬鈴薯、玉米、蕃薯、番茄、可可皆原產於美洲，隨大航海時代傳入歐亞後大幅提高糧食產量；小麥、甘蔗與咖啡則是從舊大陸傳入美洲。"
+  },
+  {
+    "id": "113-gsat-geo-01",
+    "examType": "學測",
+    "year": 113,
+    "subject": "地理",
+    "question": "在地理資訊系統（GIS）的分析功能中，若要找出「距離捷運站 500 公尺以內」的商業區，最適合使用哪一種空間分析？",
+    "options": ["環域分析", "視域分析", "路網分析", "地勢分析"],
+    "answerIndex": 0,
+    "explanation": "「環域分析（Buffer Analysis）」是以點、線或面狀地理特徵為中心，向外擴張指定距離建立影響範圍，最適合計算「距離某設施 X 公尺內」的區域。"
+  },
+  {
+    "id": "112-gsat-geo-02",
+    "examType": "學測",
+    "year": 112,
+    "subject": "地理",
+    "question": "台灣西南部沿海地區（如雲林、嘉義一帶）過去因超抽地下水，最容易引發下列哪一種環境災害？",
+    "options": ["土石流", "地層下陷與海水倒灌", "酸雨侵蝕", "土壤液化加劇"],
+    "answerIndex": 1,
+    "explanation": "沿海養殖漁業與工業長期超抽地下水，導致地下含水層水壓下降、土層壓密而發生「地層下陷」，進而引發海水倒灌與土壤鹽化。"
+  },
+  {
+    "id": "113-gsat-civ-01",
+    "examType": "學測",
+    "year": 113,
+    "subject": "公民",
+    "question": "當政府對某項商品設定「價格上限（Price Ceiling）」，且該上限低於市場均衡價格時，市場上會產生何種現象？",
+    "options": [
+      "供過於求，產生超額供給",
+      "供不應求，產生超額需求（短缺）",
+      "市場交易量會高於均衡交易量",
+      "生產者剩餘必然增加"
+    ],
+    "answerIndex": 1,
+    "explanation": "有效的價格上限低於均衡價格，會使消費者需求量增加、生產者供給量減少，導致需求量大於供給量，造成市場短缺（超額需求）與黑市交易。"
+  },
+  {
+    "id": "112-gsat-civ-02",
+    "examType": "學測",
+    "year": 112,
+    "subject": "公民",
+    "question": "依據我國《憲法》與相關法律規定，下列哪一項職權屬於「監察院」的憲政職責？",
+    "options": [
+      "統一解釋法律及命令",
+      "對公務人員提出彈劾案與糾舉案",
+      "審查中央政府總預算案",
+      "辦理全國性公職人員選舉"
+    ],
+    "answerIndex": 1,
+    "explanation": "監察院行使彈劾、糾舉、糾正及審計權；解釋憲法與統一解釋法令屬司法院憲法法庭，審查預算屬立法院，辦理選舉屬中央選舉委員會。"
   }
 ]
