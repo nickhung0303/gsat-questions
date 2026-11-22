@@ -1,0 +1,27 @@
+[
+  {
+    "id": "113-gsat-eng-01",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "question": "The new policy aims to ______ carbon emissions by 30% over the next five years.",
+    "options": ["reduce", "produce", "induce", "seduce"],
+    "answerIndex": 0,
+    "explanation": "reduce 為「減少」，符合句意「新政策旨在未來五年內減少 30% 碳排放」。"
+  },
+  {
+    "id": "112-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "物理",
+    "question": "關於光電效應的實驗結果，下列哪一項最能支持愛因斯坦的光量子論？",
+    "options": [
+      "光電流強度與入射光頻率成正比",
+      "存在一個截止頻率，低於此頻率無論光強多大都無法打出光電子",
+      "光電子最大動能僅取決於入射光的強度",
+      "照射時間越長，越容易產生光電子"
+    ],
+    "answerIndex": 1,
+    "explanation": "古典波動說無法解釋「截止頻率」的存在；光子能量 E = hf 必須大於金屬功函數才能擊出電子。"
+  }
+]
