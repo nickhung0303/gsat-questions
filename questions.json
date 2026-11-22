@@ -228,5 +228,65 @@
     ],
     "answerIndex": 1,
     "explanation": "監察院行使彈劾、糾舉、糾正及審計權；解釋憲法與統一解釋法令屬司法院憲法法庭，審查預算屬立法院，辦理選舉屬中央選舉委員會。"
+  },
+  {
+    "id": "113-gsat-eng-01",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "question": "If you put a ______ under a leaking faucet, you will be surprised at the amount of water collected in 24 hours.",
+    "options": ["border", "timer", "container", "marker"],
+    "answerIndex": 2,
+    "explanation": "句意：「如果你在漏水的水龍頭下放一個『容器』，你會對 24 小時內收集到的水量感到驚訝。」(A) 邊界；(B) 計時器；(C) 容器；(D) 記號／馬克筆。"
+  },
+  {
+    "id": "113-gsat-eng-02",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "question": "The local farmers' market is popular as it offers a wide variety of fresh seasonal ______ to people in the community.",
+    "options": ["produce", "fashion", "brand", "trend"],
+    "answerIndex": 0,
+    "explanation": "句意：「當地的農夫市集很受歡迎，因為它為社區民眾提供各式各樣新鮮的當季『農產品』。」produce 作不可數名詞時意為「農產品」；(B) 時尚；(C) 品牌；(D) 趨勢。"
+  },
+  {
+    "id": "113-gsat-eng-03",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "question": "As the desert temperature drops ______ at night, travelers are advised to pack warm clothing for their trip.",
+    "options": ["barely", "sharply", "rarely", "nearly"],
+    "answerIndex": 1,
+    "explanation": "句意：「由於沙漠氣溫在夜間會『急劇』下降，建議旅客為行程準備保暖衣物。」(A) 幾乎不；(B) 急劇地、大幅地；(C) 罕見地；(D) 幾乎。"
+  },
+  {
+    "id": "113-gsat-eng-04",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "question": "To ______ the spread of the infectious disease, the health authorities urged citizens to wear masks in crowded places.",
+    "options": ["prevent", "promote", "propose", "provide"],
+    "answerIndex": 0,
+    "explanation": "句意：「為了『防止』傳染病擴散，衛生當局呼籲民眾在擁擠場所戴上口罩。」(A) 防止、預防；(B) 促進、推銷；(C) 提議；(D) 提供。"
+  },
+  {
+    "id": "113-gsat-eng-05",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "question": "With his remarkable ______ in foreign languages, Kevin was immediately hired as an interpreter for the international conference.",
+    "options": ["fluency", "privacy", "mercy", "agency"],
+    "answerIndex": 0,
+    "explanation": "句意：「憑藉他在外語方面卓越的『流利度』，Kevin 立即受聘為這場國際會議的口譯員。」(A) 流利、流暢；(B) 隱私；(C) 仁慈；(D) 代理機構。"
+  },
+  {
+    "id": "113-gsat-eng-06",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "question": "The new high-speed railway system has ______ reduced the travel time between the two major cities from four hours to ninety minutes.",
+    "options": ["dramatically", "reluctantly", "suspiciously", "deliberately"],
+    "answerIndex": 0,
+    "explanation": "句意：「新的高速鐵路系統已『顯著地』將兩大城市間的通勤時間從四小時縮短至九十分鐘。」(A) 戲劇性地、顯著地；(B) 不情願地；(C) 懷疑地；(D) 故意地。"
   }
 ]
