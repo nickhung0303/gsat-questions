@@ -354,5 +354,56 @@
     ],
     "answerIndex": 4,
     "explanation": "【斜向拋射運動軌跡分析】\n1. 初速單位換算與鉛直分量拆解：\n• 初速量值 $v_0 = 126\\text{ km/h} = 126 \\times \\frac{1000\\text{ m}}{3600\\text{ s}} = 35\\text{ m/s}$\n• 已知仰角 $\\cos\\theta = \\frac{3}{5}$，由直角三角形邊長比 $3:4:5$ 可得 $\\sin\\theta = \\frac{4}{5}$\n• 鉛直方向初速（向上為正）：$v_{0y} = v_0\\sin\\theta = 35 \\times \\frac{4}{5} = 28\\text{ m/s}$\n\n2. 計算 $t = 5.0\\text{ s}$ 內的鉛直位移 $\\Delta y$：\n$$\\Delta y = v_{0y}t - \\frac{1}{2}gt^2 = 28 \\times 5.0 - \\frac{1}{2} \\times 10 \\times (5.0)^2 = 140 - 125 = 15\\text{ m}$$\n\n3. 計算飛越全壘打牆瞬間的離地高度 $H$：\n擊球點原本已離地 $y_0 = 1.0\\text{ m}$，故總離地高度為：\n$$H = y_0 + \\Delta y = 1.0 + 15 = 16\\text{ m}$$\n\n故選 (E)"
+  },
+  {
+    "id": "91-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "1. 甲、乙兩粒質量相同的小石子，自同一高度以水平方向的初速拋出，落在平坦的地面上。已知甲的初速為乙的 $2$ 倍。若不計空氣阻力，則下列敘述何者【錯誤】？",
+    "options": [
+      "甲的射程較大",
+      "落地時，甲的動能較大",
+      "落地時，兩者的加速度相等",
+      "兩者在空中的飛行時間相等",
+      "落地時，甲的速度的鉛直分量較大"
+    ],
+    "answerIndex": 4,
+    "explanation": "【水平拋射運動解析】\n1. 鉛直方向（自由落體運動）：\n兩石子自同一高度 $h$ 水平拋出，鉛直初速皆為 $0$，僅受重力加速度 $g$ 作用（故 (C) 正確）：\n• 飛行時間：$t = \\sqrt{\\dfrac{2h}{g}}$（僅由高度決定，故 (D) 正確）。\n• 鉛直末速：$v_y = gt = \\sqrt{2gh}$（兩者完全相等，故 (E) 錯誤）。\n\n2. 水平方向與力學能：\n• 水平射程 $R = v_0 t$，因 $v_{0\\text{甲}} = 2v_{0\\text{乙}}$，故甲射程為乙的 $2$ 倍（(A) 正確）。\n• 落地動能 $K = \\dfrac{1}{2}mv_0^2 + mgh$，甲初速大故落地總動能較大（(B) 正確）。\n\n故選 (E)",
+    "explanationSvg": "<svg viewBox=\"0 0 340 240\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:380px;height:auto;display:block;\"><defs><marker id=\"ay1\" viewBox=\"0 0 10 10\" refX=\"6\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#ffeb3b\"/></marker><marker id=\"ac1\" viewBox=\"0 0 10 10\" refX=\"6\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#80deea\"/></marker></defs><line x1=\"20\" y1=\"200\" x2=\"320\" y2=\"200\" stroke=\"#ffffff\" stroke-width=\"2.5\"/><line x1=\"45\" y1=\"45\" x2=\"45\" y2=\"200\" stroke=\"#ffffff\" stroke-width=\"2\" stroke-dasharray=\"5,5\"/><text x=\"15\" y=\"125\" fill=\"#ffffff\" font-size=\"16\">h</text><path d=\"M 45 45 Q 115 45 160 200\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"2.5\"/><text x=\"115\" y=\"135\" fill=\"#80deea\" font-size=\"16\" font-weight=\"bold\">乙 (v₀)</text><path d=\"M 45 45 Q 185 45 285 200\" fill=\"none\" stroke=\"#ffeb3b\" stroke-width=\"2.5\"/><text x=\"220\" y=\"115\" fill=\"#ffeb3b\" font-size=\"16\" font-weight=\"bold\">甲 (2v₀)</text><line x1=\"45\" y1=\"45\" x2=\"120\" y2=\"45\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#ay1)\"/><line x1=\"160\" y1=\"200\" x2=\"160\" y2=\"232\" stroke=\"#80deea\" stroke-width=\"2.5\" marker-end=\"url(#ac1)\"/><line x1=\"285\" y1=\"200\" x2=\"285\" y2=\"232\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#ay1)\"/><text x=\"175\" y=\"225\" fill=\"#ffffff\" font-size=\"15\">鉛直末速 v_y 相等</text></svg>"
+  },
+  {
+    "id": "91-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "2. 絕熱良好的密閉容器內封存有定量的理想氣體。已知裝在容器內的一條電熱線若通以 $2\\text{ A}$ 的電流 $30$ 分鐘，則氣體的平衡溫度由 $20^\\circ\\text{C}$ 變為 $22^\\circ\\text{C}$。若通以 $4\\text{ A}$ 的電流 $60$ 分鐘，則氣體的平衡溫度將由 $20^\\circ\\text{C}$ 變為何值？",
+    "options": [
+      "$28^\\circ\\text{C}$",
+      "$30^\\circ\\text{C}$",
+      "$32^\\circ\\text{C}$",
+      "$34^\\circ\\text{C}$",
+      "$36^\\circ\\text{C}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【電熱效應與理想氣體內能解析】\n1. 建立電熱與氣體溫升之正比關係：\n容器絕熱且密閉（體積固定不作功），電熱絲所釋放之電能 $W$ 完全轉為理想氣體的內能變化 $\\Delta U$：\n$$W = I^2 R t = \\Delta U = n C_V \\Delta T \\implies \\Delta T \\propto I^2 t$$\n\n2. 前後兩次實驗條件比值：\n$$\\frac{\\Delta T_2}{\\Delta T_1} = \\left(\\frac{I_2}{I_1}\\right)^2 \\times \\left(\\frac{t_2}{t_1}\\right) = \\left(\\frac{4}{2}\\right)^2 \\times \\left(\\frac{60}{30}\\right) = 4 \\times 2 = 8$$\n已知第一次溫升 $\\Delta T_1 = 22^\\circ\\text{C} - 20^\\circ\\text{C} = 2^\\circ\\text{C}$，故第二次溫升 $\\Delta T_2 = 8 \\times 2^\\circ\\text{C} = 16^\\circ\\text{C}$。\n最終平衡溫度 $T_{\\text{final}} = 20^\\circ\\text{C} + 16^\\circ\\text{C} = 36^\\circ\\text{C}$。\n\n故選 (E)",
+    "explanationSvg": "<svg viewBox=\"0 0 320 220\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:360px;height:auto;display:block;\"><rect x=\"40\" y=\"30\" width=\"240\" height=\"160\" rx=\"8\" fill=\"rgba(255,255,255,0.06)\" stroke=\"#ffffff\" stroke-width=\"3\"/><rect x=\"32\" y=\"22\" width=\"256\" height=\"176\" rx=\"12\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"1.5\" stroke-dasharray=\"6,4\"/><text x=\"105\" y=\"60\" fill=\"#80deea\" font-size=\"16\" font-weight=\"bold\">絕熱密閉容器</text><path d=\"M 80 140 L 110 140 L 120 120 L 135 160 L 150 120 L 165 160 L 180 120 L 195 160 L 205 140 L 240 140\" fill=\"none\" stroke=\"#ffeb3b\" stroke-width=\"3\"/><text x=\"90\" y=\"105\" fill=\"#ffeb3b\" font-size=\"17\" font-weight=\"bold\">W = I²Rt = ΔU ∝ ΔT</text></svg>"
+  },
+  {
+    "id": "91-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "3. 當我們使用正確的頻率來回撥動浴缸裡的水，可以產生駐波，而使靠浴缸壁兩邊的水交替起伏（即一邊高時，另一邊低）。若水的波速為 $1.0\\text{ m/s}$，浴缸寬 $75\\text{ cm}$，則下列何者為正確的頻率？",
+    "options": [
+      "$0.67\\text{ Hz}$",
+      "$1.48\\text{ Hz}$",
+      "$2.65\\text{ Hz}$",
+      "$3.78\\text{ Hz}$",
+      "$4.23\\text{ Hz}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【開管駐波模型與邊界條件解析】\n1. 判斷駐波邊界條件（兩端自由端）：\n水面在兩側浴缸壁上下起伏最大，代表兩側牆壁處皆為「波腹 (A)」。\n且題目指出「一邊高時、另一邊低」（兩端相位相反），代表兩端波腹之間包含奇數個半波長：\n$$L = \\frac{2k - 1}{2}\\lambda \\implies \\lambda = \\frac{2L}{2k - 1} \\quad (k = 1, 2, 3, \\dots)$$\n\n2. 計算可能之共振頻率：\n代入波速 $v = 1.0\\text{ m/s}$ 與寬度 $L = 0.75\\text{ m}$：\n$$f = \\frac{v}{\\lambda} = \\frac{(2k - 1)v}{2L} = \\frac{(2k - 1) \\times 1.0}{2 \\times 0.75} = \\frac{2k - 1}{1.5}\\text{ Hz}$$\n當 $k = 1$（基音）時，$f_1 = \\dfrac{1}{1.5} = \\dfrac{2}{3} \\approx 0.67\\text{ Hz}$。\n\n故選 (A)",
+    "explanationSvg": "<svg viewBox=\"0 0 340 220\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:380px;height:auto;display:block;\"><polyline points=\"40,40 40,180 300,180 300,40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"3.5\"/><line x1=\"40\" y1=\"110\" x2=\"300\" y2=\"110\" stroke=\"rgba(255,255,255,0.4)\" stroke-width=\"1.5\" stroke-dasharray=\"4,4\"/><path d=\"M 40 65 Q 170 110 300 155\" fill=\"none\" stroke=\"#ffeb3b\" stroke-width=\"3\"/><path d=\"M 40 155 Q 170 110 300 65\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"2.5\" stroke-dasharray=\"6,4\"/><circle cx=\"170\" cy=\"110\" r=\"5\" fill=\"#ffffff\"/><text x=\"48\" y=\"55\" fill=\"#ffeb3b\" font-size=\"15\" font-weight=\"bold\">波腹 A</text><text x=\"240\" y=\"55\" fill=\"#80deea\" font-size=\"15\" font-weight=\"bold\">波腹 A</text><text x=\"150\" y=\"95\" fill=\"#ffffff\" font-size=\"15\">波節 N</text><text x=\"115\" y=\"205\" fill=\"#ffeb3b\" font-size=\"16\" font-weight=\"bold\">L = 0.75 m = (2k-1) λ/2</text></svg>"
   }
 ]
