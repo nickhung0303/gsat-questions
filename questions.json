@@ -608,5 +608,56 @@
     ],
     "answerIndex": 3,
     "explanation": "【安培定律與磁場力方向解析】\n1. 計算電流比 $i / i'$：\n• 導線 $\\text{CD}$ 產生的磁場隨距離遞減，線圈上邊（距 $h$）所受磁力大於下邊（距 $2h$），因此合力方向與上邊所受磁力相同，且磁力合力大小與電流成正比（$F \\propto i$）。\n• 最初無電流時：$2T = W$（線圈重）。\n• 通電流 $i$ 時，張力降為 $aT$，代表磁力向上抵消部分重力：$F(i) = 2T - 2aT = 2(1 - a)T$。\n• 通電流 $i'$ 時，張力為零：$F(i') = 2T$。\n• 兩式相除得電流比：\n$$\\frac{i}{i'} = \\frac{F(i)}{F(i')} = \\frac{2(1 - a)T}{2T} = 1 - a$$\n\n2. 判斷 $\\text{C}$ 與 $\\text{D}$ 兩點電壓差 $V_C - V_D$：\n• 由圖 12 可見線圈 $\\text{A}$ 為逆時針電流，上邊電流方向為「向左」（由右向左）。\n• 要使線圈受到向上的吸引力，導線 $\\text{CD}$ 的電流必須與線圈上邊同向（同向平行電流相吸），即電流由 $\\text{D}$ 流向 $\\text{C}$。\n• 電流由高電位流向低電位，故 $V_D > V_C$，即 $V_C - V_D < 0$（為負）。\n\n故選 (D)"
+  },
+  {
+    "id": "91-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "16. 一聲源發出頻率為 $60\\text{ Hz}$ 的聲波，此聲源沿 $x$ 軸正方向以 $40\\text{ m/s}$ 做等速度運動，在時刻 $t = 0.0$ 秒與 $t = 7.0$ 秒發出的聲波，經靜止空氣傳播，分別於時刻 $t = 3.0$ 秒與 $t = 9.0$ 秒時，到達沿 $x$ 軸以等速度 $v$ 運動的聽者。若空氣中的聲速為 $340\\text{ m/s}$，則下列敘述，何者正確？（速度 $v$ 之正、負，分別代表聽者沿 $x$ 軸正、負方向運動）",
+    "options": [
+      "聽者的速度 $v$ 為 $15\\text{ m/s}$",
+      "聽者的速度 $v$ 為 $-20\\text{ m/s}$",
+      "聽者聽到的聲音頻率為 $70\\text{ Hz}$",
+      "聽者聽到的聲音頻率為 $75\\text{ Hz}$",
+      "聽者聽到的聲音頻率為 $80\\text{ Hz}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【波前追蹤與都卜勒頻率解析】\n1. 利用波前抵達時刻求聽者座標與速度 $v$：\n• 設聲源在 $t = 0$ 時位於原點 $x_S(0) = 0$，則在 $t = 7.0\\text{ s}$ 時位置為 $x_S(7) = 40 \\times 7 = 280\\text{ m}$，聲速 $V = 340\\text{ m/s}$。\n• 第一道波（$t=0$ 發出，$t=3.0\\text{ s}$ 被接收）：於 $t=3.0\\text{ s}$ 時到達聽者位置 $x_1$：\n$$x_1 = 0 + V \\times 3.0 = 340 \\times 3.0 = 1020\\text{ m}$$\n• 第二道波（$t=7.0\\text{ s}$ 發出，$t=9.0\\text{ s}$ 被接收）：於 $t=9.0\\text{ s}$ 時到達聽者位置 $x_2$：\n$$x_2 = 280 + V \\times (9.0 - 7.0) = 280 + 340 \\times 2.0 = 960\\text{ m}$$\n• 計算聽者速度 $v$（在 $\\Delta t = 9.0 - 3.0 = 6.0\\text{ s}$ 內由 $x_1$ 移至 $x_2$）：\n$$v = \\frac{x_2 - x_1}{\\Delta t} = \\frac{960 - 1020}{9.0 - 3.0} = \\frac{-60}{6.0} = -10\\text{ m/s}\\quad (\\text{代表聽者沿 }-x\\text{ 方向迎向聲源})$$\n\n2. 計算聽者接收到的頻率 $f'$：\n• 聲源頻率 $f = 60\\text{ Hz}$，聲源遠離／接近速度 $v_s = +40\\text{ m/s}$（向右），聽者向左迎向聲源，代入都卜勒效應公式：\n$$f' = f \\left( \\frac{V - v}{V - v_s} \\right) = 60 \\times \\left( \\frac{340 - (-10)}{340 - 40} \\right) = 60 \\times \\frac{350}{300} = 70\\text{ Hz}$$\n\n故選 (C)",
+    "explanationSvg": "<svg viewBox=\"0 0 350 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:400px;height:auto;display:block;\"><defs><marker id=\"ay16\" viewBox=\"0 0 10 10\" refX=\"6\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#ffeb3b\"/></marker></defs><line x1=\"20\" y1=\"90\" x2=\"330\" y2=\"90\" stroke=\"#ffffff\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"90\" r=\"10\" fill=\"#ffeb3b\"/><text x=\"50\" y=\"75\" fill=\"#ffeb3b\" font-size=\"13\">S₁(t=0)</text><circle cx=\"200\" cy=\"90\" r=\"10\" fill=\"#ffeb3b\"/><text x=\"185\" y=\"75\" fill=\"#ffeb3b\" font-size=\"13\">S₂(t=7s)</text><line x1=\"70\" y1=\"90\" x2=\"110\" y2=\"90\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#ay16)\"/><text x=\"80\" y=\"112\" fill=\"#ffeb3b\" font-size=\"13\">v_s=40</text><rect x=\"250\" y=\"78\" width=\"22\" height=\"24\" fill=\"#1b4d3e\" stroke=\"#80deea\" stroke-width=\"2\"/><text x=\"245\" y=\"65\" fill=\"#80deea\" font-size=\"13\">聽者(v)</text><line x1=\"250\" y1=\"90\" x2=\"222\" y2=\"90\" stroke=\"#80deea\" stroke-width=\"2.5\" marker-end=\"url(#ay16)\"/><text x=\"150\" y=\"145\" fill=\"#ffffff\" font-size=\"14\">圖 13</text></svg>"
+  },
+  {
+    "id": "91-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "17. 在波耳的氫原子模型中，若 $E$ 為電子總能量，$f$ 為電子作圓軌道運動的頻率，$h$ 為普朗克常數，則當量子數為 $n$ 時，下列 $E$ 與 $f$ 的關係式，何者正確？",
+    "options": [
+      "$E = -n^2 hf$",
+      "$E = -nhf$",
+      "$E = -\\dfrac{1}{2}nhf$",
+      "$E = nhf$",
+      "$E = n^2 hf$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【角動量量子化與能量推導解析】\n1. 利用波耳模型基本假設進行推導：\n• 庫侖力提供向心力：\n$$\\frac{k e^2}{r_n^2} = \\frac{m v_n^2}{r_n} \\implies \\text{動能 } K = \\frac{1}{2} m v_n^2 = \\frac{k e^2}{2 r_n}$$\n• 總能量 $E$：\n$$E = K + U = \\frac{k e^2}{2 r_n} - \\frac{k e^2}{r_n} = -\\frac{k e^2}{2 r_n} = -K$$\n• 角動量量子化：\n$$L_n = m v_n r_n = n \\frac{h}{2\\pi}$$\n\n2. 結合頻率 $f$ 與能量關係：\n• 電子圓周運動頻率 $f = \\dfrac{v_n}{2\\pi r_n}$（即 $\\dfrac{v_n}{r_n} = 2\\pi f$），代入動能公式可得：\n$$K = \\frac{1}{2} m v_n^2 = \\frac{1}{2} (m v_n r_n) \\left(\\frac{v_n}{r_n}\\right) = \\frac{1}{2} \\left( \\frac{n h}{2\\pi} \\right) (2\\pi f) = \\frac{1}{2} n h f$$\n• 因為總能量 $E = -K$，故：\n$$E = -\\frac{1}{2} n h f$$\n\n故選 (C)",
+    "explanationSvg": "<svg viewBox=\"0 0 340 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:380px;height:auto;display:block;\"><circle cx=\"170\" cy=\"80\" r=\"16\" fill=\"#ffeb3b\"/><text x=\"163\" y=\"86\" fill=\"#0f2e24\" font-size=\"16\" font-weight=\"bold\">+e</text><circle cx=\"170\" cy=\"80\" r=\"60\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"2\" stroke-dasharray=\"4,4\"/><circle cx=\"230\" cy=\"80\" r=\"8\" fill=\"#80deea\"/><text x=\"245\" y=\"85\" fill=\"#80deea\" font-size=\"14\">e⁻ (v, f)</text><line x1=\"170\" y1=\"80\" x2=\"230\" y2=\"80\" stroke=\"#ffffff\" stroke-width=\"1.5\"/><text x=\"195\" y=\"73\" fill=\"#ffffff\" font-size=\"13\">r_n</text><text x=\"150\" y=\"148\" fill=\"#ffffff\" font-size=\"14\">圖 14</text></svg>"
+  },
+  {
+    "id": "91-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "18. 一束截面為圓形（半徑 $R$）的平行單色光正面射向一玻璃半球的平面，如圖 13 所示，經折射後在屏幕 $S$ 上形成半徑為 $r$ 的亮區。若玻璃半球的半徑為 $R$、折射率為 $n$，屏幕 $S$ 至球心 $O$ 的距離為 $D$（$D > 3R$），則 $r$ 為何值？",
+    "svg": "<svg viewBox=\"0 0 340 250\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:380px;height:auto;display:block;\"><defs><marker id=\"arrow\" viewBox=\"0 0 10 10\" refX=\"6\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#ffffff\"/></marker><marker id=\"arrow-ray\" viewBox=\"0 0 10 10\" refX=\"6\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#ffeb3b\"/></marker></defs><line x1=\"30\" y1=\"40\" x2=\"280\" y2=\"40\" stroke=\"#ffffff\" stroke-width=\"2.5\"/><text x=\"45\" y=\"65\" fill=\"#ffffff\" font-size=\"18\" font-style=\"italic\" font-weight=\"bold\">S</text><line x1=\"140\" y1=\"40\" x2=\"140\" y2=\"160\" stroke=\"#ffffff\" stroke-width=\"1.5\"/><path d=\"M 60 160 A 80 80 0 0 1 220 160 Z\" fill=\"rgba(255,255,255,0.06)\" stroke=\"#80deea\" stroke-width=\"2.5\"/><line x1=\"60\" y1=\"160\" x2=\"220\" y2=\"160\" stroke=\"#80deea\" stroke-width=\"2.5\"/><text x=\"180\" y=\"115\" fill=\"#80deea\" font-size=\"17\" font-style=\"italic\" font-weight=\"bold\">n</text><text x=\"146\" y=\"155\" fill=\"#ffffff\" font-size=\"16\" font-style=\"italic\">O</text><line x1=\"140\" y1=\"160\" x2=\"80\" y2=\"105\" stroke=\"#ffffff\" stroke-width=\"1.5\" marker-end=\"url(#arrow)\"/><text x=\"100\" y=\"145\" fill=\"#ffffff\" font-size=\"16\" font-style=\"italic\">R</text><line x1=\"250\" y1=\"40\" x2=\"250\" y2=\"160\" stroke=\"#ffffff\" stroke-width=\"1.5\" marker-start=\"url(#arrow)\" marker-end=\"url(#arrow)\"/><text x=\"258\" y=\"105\" fill=\"#ffffff\" font-size=\"16\" font-style=\"italic\">D</text><line x1=\"60\" y1=\"220\" x2=\"60\" y2=\"162\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#arrow-ray)\"/><line x1=\"100\" y1=\"220\" x2=\"100\" y2=\"162\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#arrow-ray)\"/><line x1=\"140\" y1=\"220\" x2=\"140\" y2=\"162\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#arrow-ray)\"/><line x1=\"180\" y1=\"220\" x2=\"180\" y2=\"162\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#arrow-ray)\"/><line x1=\"220\" y1=\"220\" x2=\"220\" y2=\"162\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#arrow-ray)\"/><text x=\"235\" y=\"210\" fill=\"#ffeb3b\" font-size=\"15\" font-weight=\"bold\">入射平行光</text><text x=\"125\" y=\"245\" fill=\"#ffffff\" font-size=\"15\" font-weight=\"bold\">圖 13</text></svg>",
+    "options": [
+      "$D - \\dfrac{nR}{\\sqrt{n^2 - 1}}$",
+      "$D - \\dfrac{R}{\\sqrt{n^2 - 1}}$",
+      "$D - \\sqrt{n^2 - 1} R$",
+      "$\\sqrt{n^2 - 1} D - nR$",
+      "$\\sqrt{n^2 - 1} D - \\dfrac{R}{n}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【臨界角邊界與幾何光學解析】\n1. 找出形成亮區邊界的「臨界光線」：\n• 光由底部垂直進入玻璃（不偏折），抵達球面邊界時由介質 $n$ 射向空氣（$n=1$）。\n• 產生折射出射的極限條件為發生全反射的臨界角 $\\theta_c$，超過此角度的入射光將反射回玻璃內部，無法抵達屏幕。\n• 根據司乃耳定律：$n \\sin\\theta_c = 1 \\times \\sin 90^\\circ \\implies \\sin\\theta_c = \\dfrac{1}{n}$。\n\n2. 定位臨界光線的出射點與軌跡：\n• 在球面上，臨界光線入射點的座標為 $(x_0, y_0) = \\left( R\\sin\\theta_c,\\ R\\cos\\theta_c \\right) = \\left( \\dfrac{R}{n},\\ \\dfrac{R\\sqrt{n^2-1}}{n} \\right)$。\n• 此時折射角為 $90^\\circ$，代表出射光線恰好沿著球面在該點的切線方向前進。\n• 圓方程式為 $x^2 + y^2 = R^2$，其切線方程式為 $x_0 x + y_0 y = R^2$：\n$$\\frac{R}{n} x + \\frac{R\\sqrt{n^2-1}}{n} y = R^2 \\implies x + \\sqrt{n^2-1} \\cdot y = nR$$\n\n3. 計算屏幕上亮區的半徑 $r$：\n• 當光線抵達屏幕時 $y = D$，代入直線方程式可解出其落點位置 $x$：\n$$x = nR - D\\sqrt{n^2-1}$$\n• 因題目設定 $D > 3R$（屏幕夠遠），$D\\sqrt{n^2-1}$ 必定大於 $nR$，表示光線折射後向內偏折並跨越中心軸（解出的 $x$ 為負值）。\n• 亮區的半徑 $r$ 即為該落點至中心軸的距離（取絕對值）：\n$$r = |x| = \\sqrt{n^2-1}\\ D - nR$$\n\n故選 (D)"
   }
 ]
