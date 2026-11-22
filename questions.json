@@ -455,5 +455,56 @@
     ],
     "answerIndex": 1,
     "explanation": "【有效數字位數判定解析】\n1. 抵地時間平均值 $\\bar{t}$ 的有效數字：\n將 $8$ 次測量值相加得總和：\n$$\\sum t = 1.28 \\times 5 + 1.27 \\times 3 = 10.21\\text{ s}\\quad (\\text{具 } 4 \\text{ 位有效數字})$$\n除以完全準確之測量次數 $8$：\n$$\\bar{t} = \\frac{10.21}{8} = 1.27625\\text{ s}$$\n多次測量取平均可提高精確度（對應總和之 $4$ 位有效數字），故取 $4$ 位有效數字記為 $\\bar{t} = 1.276\\text{ s}$。\n\n2. 抵地速率 $v$ 的有效數字：\n$$v = g \\bar{t} = 9.8 \\times 1.276 = 12.5048\\text{ m/s}$$\n由於 $g = 9.8\\text{ m/s}^2$ 的首數為 $9$（數值極接近 $10.0$ 的三位有效數字精確度），相乘後若僅取兩位會損失精確度，故保留 $3$ 位有效數字，四捨五入記為 $v = 12.5\\text{ m/s}$。\n\n故選 (B)"
+  },
+  {
+    "id": "91-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "7. 在一水平面上有一線軸，其重量為 $W$、內軸半徑為 $r$、外軸半徑為 $R$，線軸與水平面的動摩擦係數為 $\\mu_k$，如圖 2 所示。將一細繩的一端纏繞於線軸，另一端以力 $F$ 斜向上拉，施力方向與水平面的夾角為 $\\theta$，如圖 3 所示。則當滿足下列哪一條件時，此線軸會在水平面上等速移動而不會轉動？",
+    "svg": "<svg viewBox=\"0 0 360 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:400px;height:auto;display:block;\"><defs><marker id=\"ay7\" viewBox=\"0 0 10 10\" refX=\"6\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#ffeb3b\"/></marker></defs><line x1=\"10\" y1=\"155\" x2=\"155\" y2=\"155\" stroke=\"#ffffff\" stroke-width=\"2\"/><rect x=\"35\" y=\"45\" width=\"12\" height=\"110\" fill=\"rgba(255,255,255,0.1)\" stroke=\"#ffffff\" stroke-width=\"2\"/><rect x=\"105\" y=\"45\" width=\"12\" height=\"110\" fill=\"rgba(255,255,255,0.1)\" stroke=\"#ffffff\" stroke-width=\"2\"/><rect x=\"47\" y=\"75\" width=\"58\" height=\"50\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"2\"/><text x=\"72\" y=\"96\" fill=\"#80deea\" font-size=\"14\" font-style=\"italic\">r</text><text x=\"125\" y=\"140\" fill=\"#ffffff\" font-size=\"14\" font-style=\"italic\">R</text><text x=\"65\" y=\"178\" fill=\"#ffffff\" font-size=\"14\">圖 2</text><line x1=\"185\" y1=\"155\" x2=\"345\" y2=\"155\" stroke=\"#ffffff\" stroke-width=\"2\"/><circle cx=\"255\" cy=\"100\" r=\"55\" fill=\"rgba(255,255,255,0.06)\" stroke=\"#ffffff\" stroke-width=\"2.5\"/><circle cx=\"255\" cy=\"100\" r=\"22\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"2\"/><line x1=\"255\" y1=\"100\" x2=\"216\" y2=\"139\" stroke=\"#ffffff\" stroke-width=\"1.5\"/><text x=\"218\" y=\"125\" fill=\"#ffffff\" font-size=\"14\" font-style=\"italic\">R</text><line x1=\"255\" y1=\"100\" x2=\"270\" y2=\"115\" stroke=\"#80deea\" stroke-width=\"1.5\"/><text x=\"245\" y=\"94\" fill=\"#80deea\" font-size=\"14\" font-style=\"italic\">r</text><line x1=\"270\" y1=\"115\" x2=\"325\" y2=\"60\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#ay7)\"/><line x1=\"270\" y1=\"115\" x2=\"335\" y2=\"115\" stroke=\"#ffffff\" stroke-width=\"1.5\" stroke-dasharray=\"4,4\"/><text x=\"295\" y=\"110\" fill=\"#ffeb3b\" font-size=\"14\" font-style=\"italic\">θ</text><text x=\"305\" y=\"55\" fill=\"#ffeb3b\" font-size=\"15\" font-weight=\"bold\" font-style=\"italic\">F</text><text x=\"245\" y=\"178\" fill=\"#ffffff\" font-size=\"14\">圖 3</text></svg>",
+    "options": [
+      "$F \\sin\\theta = \\mu_k W$",
+      "$W \\cos\\theta = F$",
+      "$F r = \\mu_k W R$",
+      "$\\sin\\theta = r / R$",
+      "$\\cos\\theta = r / R$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【力平衡與力矩平衡解析】\n1. 等速移動條件（水平合力為零）：\n線軸在水平面上向右等速滑動，代表水平方向拉力的分量與向左的動摩擦力 $f_k$ 大小相等、方向相反：\n$$\\sum F_x = 0 \\implies f_k = F \\cos\\theta$$\n（註：此時正向力 $N = W - F \\sin\\theta$，故 $f_k = \\mu_k (W - F \\sin\\theta)$，選項 A、C 忽略了 $F \\sin\\theta$ 對正向力的影響，故不正確。）\n\n2. 不轉動條件（對軸心 $O$ 之合力矩為零）：\n拉力 $F$ 切於內軸（力臂為 $r$，逆時針力矩），動摩擦力 $f_k$ 切於外軸底部（力臂為 $R$，順時針力矩），兩者力矩須互相抵消：\n$$\\sum \\tau_O = 0 \\implies F r = f_k R$$\n將第 1 步的 $f_k = F \\cos\\theta$ 代入上式：\n$$F r = (F \\cos\\theta) R \\implies \\cos\\theta = \\frac{r}{R}$$\n\n故選 (E)",
+    "explanationSvg": "<svg viewBox=\"0 0 320 230\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:360px;height:auto;display:block;\"><defs><marker id=\"ay7b\" viewBox=\"0 0 10 10\" refX=\"6\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#ffeb3b\"/></marker><marker id=\"ac7b\" viewBox=\"0 0 10 10\" refX=\"6\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#80deea\"/></marker></defs><line x1=\"20\" y1=\"185\" x2=\"300\" y2=\"185\" stroke=\"#ffffff\" stroke-width=\"2.5\"/><circle cx=\"150\" cy=\"115\" r=\"70\" fill=\"rgba(255,255,255,0.06)\" stroke=\"#ffffff\" stroke-width=\"2.5\"/><circle cx=\"150\" cy=\"115\" r=\"30\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"115\" r=\"3.5\" fill=\"#ffffff\"/><text x=\"132\" y=\"112\" fill=\"#ffffff\" font-size=\"14\">O</text><line x1=\"171\" y1=\"136\" x2=\"245\" y2=\"62\" stroke=\"#ffeb3b\" stroke-width=\"2.5\" marker-end=\"url(#ay7b)\"/><text x=\"250\" y=\"60\" fill=\"#ffeb3b\" font-size=\"16\" font-weight=\"bold\">F (力臂 r)</text><line x1=\"150\" y1=\"185\" x2=\"70\" y2=\"185\" stroke=\"#80deea\" stroke-width=\"3\" marker-end=\"url(#ac7b)\"/><text x=\"55\" y=\"212\" fill=\"#80deea\" font-size=\"16\" font-weight=\"bold\">f_k = F cosθ (力臂 R)</text></svg>"
+  },
+  {
+    "id": "91-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "8. 如圖 4 所示，一個水平放置的絕熱容器，體積固定為 $V$，以導熱性良好的活動隔板分成左、右兩室，內裝相同的理想氣體，容器與隔板的熱容量均可忽略。最初限制隔板不動，使兩室的氣體溫度均為 $T$，但左室的氣體壓力與體積分別為右室的 $2$ 倍與 $3$ 倍。後來拆除限制，使隔板可以左右自由移動，則在兩室的氣體達成力平衡與熱平衡後，下列敘述，何者正確？",
+    "svg": "<svg viewBox=\"0 0 340 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:380px;height:auto;display:block;\"><rect x=\"25\" y=\"35\" width=\"290\" height=\"75\" fill=\"rgba(255,255,255,0.06)\" stroke=\"#ffffff\" stroke-width=\"3\"/><rect x=\"19\" y=\"29\" width=\"302\" height=\"87\" fill=\"none\" stroke=\"#80deea\" stroke-width=\"1.5\" stroke-dasharray=\"5,4\"/><line x1=\"242\" y1=\"35\" x2=\"242\" y2=\"110\" stroke=\"#ffeb3b\" stroke-width=\"4.5\"/><text x=\"222\" y=\"22\" fill=\"#ffeb3b\" font-size=\"16\" font-weight=\"bold\">活動隔板</text><text x=\"85\" y=\"70\" fill=\"#ffffff\" font-size=\"16\" font-weight=\"bold\">左室 (2P, 3V₀, T)</text><text x=\"105\" y=\"95\" fill=\"#80deea\" font-size=\"15\">n_左 = 6 n_右</text><text x=\"250\" y=\"78\" fill=\"#ffffff\" font-size=\"14\">右室</text><text x=\"247\" y=\"96\" fill=\"#ffffff\" font-size=\"13\">(P, V₀, T)</text><text x=\"150\" y=\"132\" fill=\"#ffffff\" font-size=\"14\">圖 4</text></svg>",
+    "options": [
+      "左室的氣體體積為 $6V / 7$",
+      "兩室的氣體溫度均較 $T$ 為高",
+      "左室的氣體體積為右室的 $2$ 倍",
+      "左室與右室氣體的壓力比為 $3 / 2$",
+      "右室的氣體分子數目為左室的 $6$ 倍"
+    ],
+    "answerIndex": 0,
+    "explanation": "【理想氣體方程式與能量守恆解析】\n1. 由初始狀態求左、右兩室之莫耳數比：\n由理想氣體方程式 $PV = nRT$，因初始溫度均為 $T$，故莫耳數 $n \\propto PV$：\n$$\\frac{n_{\\text{左}}}{n_{\\text{右}}} = \\frac{P_{\\text{左}} V_{\\text{左}}}{P_{\\text{右}} V_{\\text{右}}} = 2 \\times 3 = 6 \\quad (\\text{左室分子數為右室的 } 6 \\text{ 倍，故 E 錯})$$\n\n2. 達成力平衡與熱平衡後之最終狀態：\n• 溫度不變：整個容器絕熱且總體積固定（外力作功 $W = 0$、熱量交換 $Q = 0$），由總內能守恆 $\\Delta U = 0$ 可知，平衡後兩室共同溫度仍為 $T$（故 B 錯）。\n• 壓力相等：活動隔板達成力平衡時，左右兩室壓力必相等 $P'_{\\text{左}} = P'_{\\text{右}}$（故 D 錯）。\n• 體積分配：在同溫同壓下，氣體體積與莫耳數成正比（$V' \\propto n$）：\n$$\\frac{V'_{\\text{左}}}{V'_{\\text{右}}} = \\frac{n_{\\text{左}}}{n_{\\text{右}}} = 6 \\implies V'_{\\text{左}} = \\frac{6}{6 + 1} V = \\frac{6}{7}V$$\n\n故選 (A)"
+  },
+  {
+    "id": "91-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "物理",
+    "question": "9. 下列有關「二維空間的碰撞」實驗的敘述，何者錯誤？",
+    "options": [
+      "入射球與靶球碰撞時，兩球的球心必須在同一水平面上",
+      "弧形尺（或稱為發射架或滑軌）必須要光滑才能達到本實驗的目的",
+      "若入射球撞及靶球時的速度不在水平面上，則兩球在空中的飛行時間可能不一樣",
+      "當入射球以水平方向的初速撞及靶球，若知道兩球在空中的飛行時間及入射球與靶球的落地位置，則碰撞後瞬間兩球的速度可以求得",
+      "當只有入射球從弧形尺（或稱為發射架或滑軌）上方下滑落地，若軌道末端未調整至水平方向，則球在空中的飛行時間將大於或小於 $\\sqrt{2h/g}$ 的理論值，$g$ 為重力加速度，$h$ 為軌道末端距離地面的高度"
+    ],
+    "answerIndex": 1,
+    "explanation": "【碰撞實驗選項解析】\n• (A) 正確：為了確保碰撞時力作用在球心連線（水平面）上，兩球球心必須等高。\n• (B) 錯誤（本題答案）：弧形尺不需要光滑。因為實驗中我們是利用「位移成比例代換速度」，只要釋放位置相同，即使軌道有摩擦力，球下滑時的初速與動能依然保持固定，不影響實驗結果。\n• (C) 正確：若末端未水平，碰撞後兩球具有鉛直分速，導致落地時間 $t$ 不同。\n• (D) 正確：已知飛行時間 $t$ 與水平落點位移 $\\vec{r}$，即可由 $\\vec{v} = \\vec{r}/t$ 求出碰撞後的瞬時速度。\n• (E) 正確：軌道末端若斜向下或斜向上，鉛直初速不為零，飛行時間會異於 $\\sqrt{2h/g}$。\n\n故選 (B)"
   }
 ]
