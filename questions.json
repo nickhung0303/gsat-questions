@@ -1355,79 +1355,22 @@
     "explanationSvg": "<svg viewBox=\"0 0 380 135\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><text x=\"190\" y=\"24\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">第四段主題句與線索對應（29, 30 題）</text><rect x=\"20\" y=\"42\" width=\"152\" height=\"56\" rx=\"8\" fill=\"rgba(128,222,234,0.12)\" stroke=\"#80deea\" stroke-width=\"1.8\"/><text x=\"96\" y=\"66\" fill=\"#80deea\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">A dark space</text><text x=\"96\" y=\"86\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">→ (H) minimal light</text><text x=\"190\" y=\"75\" fill=\"#ffeb3b\" font-size=\"15\" font-weight=\"bold\" text-anchor=\"middle\">＋</text><rect x=\"208\" y=\"42\" width=\"152\" height=\"56\" rx=\"8\" fill=\"rgba(255,235,59,0.12)\" stroke=\"#ffeb3b\" stroke-width=\"1.8\"/><text x=\"284\" y=\"66\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">soothing sounds</text><text x=\"284\" y=\"86\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">→ relaxing (C) atmosphere</text><text x=\"190\" y=\"122\" fill=\"rgba(255,255,255,0.8)\" font-size=\"12\" text-anchor=\"middle\">昏暗光線 ＋ 舒緩音效 ＝ 打造高效午睡環境</text></svg>"
   },
   {
-    "id": "115-gsat-eng-31",
+    "id": "115-gsat-eng-31-34",
     "examType": "學測",
     "year": 115,
     "subject": "英文",
-    "type": "single",
-    "points": 2,
-    "question": "【篇章結構 31-34 題組｜段落脈絡改寫】\n首段說明多數人認為微笑是傳達善意與快樂的日常舉動，並拋出「此觀念是否跨時代與跨文化皆成立」的疑問。\n\n第二段開頭為【 31 】，緊接著以十八世紀前的西方肖像畫為例，指出當時畫中人物多半神情嚴肅、不露笑容（部分原因在於掩飾牙齒蛀蝕，更重要的是當時社會認為大笑缺乏自制與禮儀），直到十八世紀後才逐漸出現露齒微笑的畫作。\n\n第 31 題請選出最適合填入【 31 】的選項：",
+    "type": "multiple",
+    "points": 8,
+    "question": "【篇章結構 31-34 題組｜請選出填入 (31)～(34) 的 4 個正確句子】\nSmiling is a gesture that many people engage in dozens of times a day without thought. Most people believe that smiling is an expression of good feelings, a simple way to show happiness and friendliness. But does this hold true across time and cultures?\n\n___(31)___ In the West, for example, portraits of men and women before the 1700s typically depicted them with a serious, unsmiling expression. The absence of smiles stemmed partly from the attempt to hide their decayed teeth caused by poor dental hygiene. More importantly, smiling and laughter had long been perceived in the society as manifestations of a lack of self-control and good manners. Paintings with white-toothed smiles emerged after the 1700s, with the gradual rise of a culture that valued perception and responsiveness.\n\nRecent studies also show that interpretations of smiling may vary from culture to culture. While in most cultures smiling is associated with positive emotions, in certain cultures the same person can be judged as less intelligent when smiling. ___(32)___\n\nThe amount people smile is culturally influenced as well. People smile more when they are from countries that are high in individualism and low in population. These are often places where the needs and rights of the individual take precedence over those of the group. ___(33)___ Newcomers from different parts of the world are found to smile more. Without a shared language, they often resort to smiling to get along with others. For them, smiling is a straightforward way to indicate that one is reliable and trustworthy.\n\n___(34)___ As many psychologists now point out, this simple gesture is in fact far more complicated than it may appear.",
     "options": [
-      "(A) 另一項關鍵因素在於一個社會的移民多樣性。",
-      "(B) 因此，各式各樣的因素共同促成了微笑這項行為現象。",
-      "(C) 在人類有記載的大部分歷史中，露齒微笑其實相當不流行。",
-      "(D) 真誠的微笑代表滿足，而強顏歡笑則暗示內心的苦惱。",
-      "(E) 事實上，有句著名的俄國俗諺便說道：「無故微笑是愚蠢的表現。」"
+      "Another crucial factor is a society’s immigration diversity.",
+      "Various factors have thus contributed to the phenomenon of smiling.",
+      "For most of recorded human history, the open smile has been deeply unfashionable.",
+      "A genuine smile indicates contentment, while a forced smile suggests underlying distress.",
+      "In fact, there is a well-known Russian proverb that goes, “Smiling with no reason is a sign of stupidity.”"
     ],
-    "answerIndex": 2,
-    "explanation": "【篇章結構與邏輯銜接解析】\n1. 承上啟下：首段末尾提出「微笑的正面意涵是否跨越不同時代與文化」的疑問，第二段隨即從「歷史時間」的維度切入。\n2. 句意線索：空格後方緊接舉例，說明十八世紀前的西方肖像畫多呈現嚴肅不笑的表情，可見空格需要一句能概括整段歷史演變的主題句，點出在人類有記載的漫長歷史中，露齒微笑其實並不盛行。\n\n故選 (C)",
-    "explanationSvg": "<svg viewBox=\"0 0 380 145\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><text x=\"190\" y=\"24\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">第 31 題：段落主題句 ＋ 歷史舉例</text><line x1=\"18\" y1=\"34\" x2=\"362\" y2=\"34\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><rect x=\"22\" y=\"48\" width=\"150\" height=\"56\" rx=\"8\" fill=\"rgba(255,235,59,0.14)\" stroke=\"#ffeb3b\" stroke-width=\"1.8\"/><text x=\"97\" y=\"72\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">空格 31（選 C）</text><text x=\"97\" y=\"92\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">歷史上微笑長期不流行</text><text x=\"190\" y=\"80\" fill=\"#80deea\" font-size=\"15\" font-weight=\"bold\" text-anchor=\"middle\">⇒</text><rect x=\"208\" y=\"48\" width=\"150\" height=\"56\" rx=\"8\" fill=\"rgba(128,222,234,0.12)\" stroke=\"#80deea\" stroke-width=\"1.8\"/><text x=\"283\" y=\"72\" fill=\"#80deea\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">後文舉例佐證</text><text x=\"283\" y=\"92\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">1700年前西方肖像畫不笑</text><text x=\"190\" y=\"128\" fill=\"rgba(255,255,255,0.8)\" font-size=\"12\" text-anchor=\"middle\">解題關鍵：由後句的歷史舉例回推段首的概括性論點</text></svg>"
-  },
-  {
-    "id": "115-gsat-eng-32",
-    "examType": "學測",
-    "year": 115,
-    "subject": "英文",
-    "type": "single",
-    "points": 2,
-    "question": "【篇章結構 31-34 題組｜段落脈絡改寫】\n第三段指出近期研究顯示不同文化對微笑的解讀各異：雖然多數文化將微笑與正面情緒連結，但在特定文化中，一個人在微笑時反而可能被評斷為較不聰明。緊接著在段尾為【 32 】。\n\n第 32 題請選出最適合填入【 32 】的選項：",
-    "options": [
-      "(A) 另一項關鍵因素在於一個社會的移民多樣性。",
-      "(B) 因此，各式各樣的因素共同促成了微笑這項行為現象。",
-      "(C) 在人類有記載的大部分歷史中，露齒微笑其實相當不流行。",
-      "(D) 真誠的微笑代表滿足，而強顏歡笑則暗示內心的苦惱。",
-      "(E) 事實上，有句著名的俄國俗諺便說道：「無故微笑是愚蠢的表現。」"
-    ],
-    "answerIndex": 4,
-    "explanation": "【篇章結構與邏輯銜接解析】\n1. 關鍵詞對應：空格前一句明確提到在特定文化中，微笑的人反而會被認為「較不聰明」。\n2. 語意延續：選項 (E) 以「事實上」引出一句俄國俗諺，指出「無緣無故地微笑是愚蠢的表現」，與前句的「較不聰明」形成精準的同義呼應與文化佐證。\n\n故選 (E)",
-    "explanationSvg": "<svg viewBox=\"0 0 380 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><text x=\"190\" y=\"24\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">第 32 題：同義詞鏈鎖定文化例證</text><line x1=\"18\" y1=\"34\" x2=\"362\" y2=\"34\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><rect x=\"22\" y=\"48\" width=\"150\" height=\"54\" rx=\"8\" fill=\"rgba(128,222,234,0.12)\" stroke=\"#80deea\" stroke-width=\"1.8\"/><text x=\"97\" y=\"71\" fill=\"#80deea\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">前句文化現象</text><text x=\"97\" y=\"91\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">微笑被認為較不聰明</text><text x=\"190\" y=\"79\" fill=\"#ffeb3b\" font-size=\"15\" font-weight=\"bold\" text-anchor=\"middle\">＝</text><rect x=\"208\" y=\"48\" width=\"150\" height=\"54\" rx=\"8\" fill=\"rgba(255,235,59,0.14)\" stroke=\"#ffeb3b\" stroke-width=\"1.8\"/><text x=\"283\" y=\"71\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">空格 32（選 E）</text><text x=\"283\" y=\"91\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">俄國俗諺：無故笑很愚蠢</text><text x=\"190\" y=\"126\" fill=\"rgba(255,255,255,0.8)\" font-size=\"12\" text-anchor=\"middle\">解題關鍵：承接前句論點並舉出具體俗諺佐證</text></svg>"
-  },
-  {
-    "id": "115-gsat-eng-33",
-    "examType": "學測",
-    "year": 115,
-    "subject": "英文",
-    "type": "single",
-    "points": 2,
-    "question": "【篇章結構 31-34 題組｜段落脈絡改寫】\n第四段探討影響人們微笑頻率的文化與社會因素：前半段說明個人主義較高、人口較少的國家，人們較常微笑；接著為【 33 】，後方隨即說明來自世界各地的新移民因為缺乏共同語言，往往透過微笑來與人相處並展現可靠與值得信賴。\n\n第 33 題請選出最適合填入【 33 】的選項：",
-    "options": [
-      "(A) 另一項關鍵因素在於一個社會的移民多樣性。",
-      "(B) 因此，各式各樣的因素共同促成了微笑這項行為現象。",
-      "(C) 在人類有記載的大部分歷史中，露齒微笑其實相當不流行。",
-      "(D) 真誠的微笑代表滿足，而強顏歡笑則暗示內心的苦惱。",
-      "(E) 事實上，有句著名的俄國俗諺便說道：「無故微笑是愚蠢的表現。」"
-    ],
-    "answerIndex": 0,
-    "explanation": "【篇章結構與邏輯銜接解析】\n1. 段落結構：本段前半部先討論「個人主義與人口數量」這項因素，後半部則轉向「來自世界各地的新移民」如何仰賴微笑跨越語言隔閡。\n2. 轉折銜接：選項 (A) 點出「另一項關鍵因素在於社會的移民多樣性」，完美承接前一個因素並引出後文的新移民現象。\n\n故選 (A)",
-    "explanationSvg": "<svg viewBox=\"0 0 380 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><text x=\"190\" y=\"24\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">第 33 題：列舉平行因素的過渡句</text><line x1=\"18\" y1=\"34\" x2=\"362\" y2=\"34\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><text x=\"24\" y=\"60\" fill=\"#80deea\" font-size=\"13\" font-weight=\"bold\">因素 ①：個人主義程度 ＆ 人口數量</text><text x=\"24\" y=\"88\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\">過渡句（空格 33 → 選 A）：另一關鍵因素為移民多樣性</text><text x=\"24\" y=\"116\" fill=\"#ffffff\" font-size=\"13\">因素 ② 展開：新移民靠微笑跨越語言隔閡並建立信任</text></svg>"
-  },
-  {
-    "id": "115-gsat-eng-34",
-    "examType": "學測",
-    "year": 115,
-    "subject": "英文",
-    "type": "single",
-    "points": 2,
-    "question": "【篇章結構 31-34 題組｜段落脈絡改寫】\n末段開頭為【 34 】，緊接著指出正如許多心理學家現在所指出的，微笑這個看似簡單的表情動作，實際上遠比表面看起來複雜得多。\n\n第 34 題請選出最適合填入【 34 】的選項：",
-    "options": [
-      "(A) 另一項關鍵因素在於一個社會的移民多樣性。",
-      "(B) 因此，各式各樣的因素共同促成了微笑這項行為現象。",
-      "(C) 在人類有記載的大部分歷史中，露齒微笑其實相當不流行。",
-      "(D) 真誠的微笑代表滿足，而強顏歡笑則暗示內心的苦惱。",
-      "(E) 事實上，有句著名的俄國俗諺便說道：「無故微笑是愚蠢的表現。」"
-    ],
-    "answerIndex": 1,
-    "explanation": "【篇章結構與邏輯銜接解析】\n1. 結論段功能：前面各段分別從歷史演變、文化解讀、個人主義與移民組成等面向剖析微笑，末段則負責收束全文。\n2. 因果總結：選項 (B) 以「因此，各式各樣的因素共同促成了微笑這項行為現象」總結前文探討的多重成因，並自然銜接後句「這項簡單舉動其實遠比表面更複雜」。\n\n故選 (B)",
-    "explanationSvg": "<svg viewBox=\"0 0 380 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><text x=\"190\" y=\"24\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">第 34 題：結論段因果總結句</text><line x1=\"18\" y1=\"34\" x2=\"362\" y2=\"34\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><text x=\"190\" y=\"60\" fill=\"#80deea\" font-size=\"12.5\" font-weight=\"bold\" text-anchor=\"middle\">歷史演變 ＋ 文化解讀 ＋ 個人主義 ＋ 移民多樣性</text><text x=\"190\" y=\"88\" fill=\"#ffeb3b\" font-size=\"13.5\" font-weight=\"bold\" text-anchor=\"middle\">⇓  因果總結（空格 34 → 選 B：各種因素共同促成）</text><text x=\"190\" y=\"116\" fill=\"#ffffff\" font-size=\"12.5\" text-anchor=\"middle\">總結上述多重因素 → 呼應末句「微笑遠比表面更複雜」</text></svg>"
+    "answerIndices": [0, 1, 2, 4],
+    "explanation": "【篇章結構 31～34 題逐格詳解（依序為 C、E、A、B）】\n\n• 第 31 題選 (C)：\n首段末尾提出「微笑代表善意這件事，是否跨時代（across time）與跨文化皆成立？」的疑問。第二段隨即切入「歷史時間」維度，且空格後緊接「In the West, for example, portraits... before the $1700$s... unsmiling expression（例如在西方，$1700$ 年代前的肖像畫多半神情嚴肅、不露笑容）」。因此段首需要一句概括歷史演變的主題句，點出「在人類有記載的大部分歷史中，露齒微笑其實相當不流行」，故選 (C)。\n\n• 第 32 題選 (E)：\n空格前一句指出「in certain cultures the same person can be judged as less intelligent when smiling（在特定文化中，同一個人在微笑時反而可能被評斷為較不聰明）」。選項 (E) 以「In fact（事實上）」引出俄國諺語「無故微笑是愚蠢（stupidity）的表現」，與前句的 less intelligent 形成精準的同義呼應與文化佐證，故選 (E)。\n\n• 第 33 題選 (A)：\n第四段探討影響微笑頻率的社會文化因素：前半部先說明「個人主義高、人口少」的國家人民較常微笑；空格後方則轉向「Newcomers from different parts of the world（來自世界各地的新移民）」因缺乏共同語言而常靠微笑建立信任。選項 (A)「Another crucial factor is a society’s immigration diversity（另一項關鍵因素在於一個社會的移民多樣性）」完美承接前一個因素並引出後文的新移民現象，故選 (A)。\n\n• 第 34 題選 (B)：\n末段負責總結全文，前幾段已分別剖析歷史演變、文化解讀、個人主義與移民組成等多重因素。選項 (B) 以「Various factors have thus contributed to the phenomenon of smiling（因此，各式各樣的因素共同促成了微笑這項行為現象）」總結前文，並自然銜接後句「這項簡單舉動實際上遠比表面看起來更複雜」，故選 (B)。\n\n• 干擾選項 (D) 說明：\n(D) 探討「真誠微笑代表滿足，強顏歡笑暗示內心苦惱」，全文並未比較真笑與假笑的心理差異，故不選。\n\n依序正解為：31 (C)、32 (E)、33 (A)、34 (B)",
+    "explanationSvg": "<svg viewBox=\"0 0 400 205\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:440px;height:auto;display:block;\"><text x=\"200\" y=\"24\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">篇章結構 31～34 邏輯線索總覽（C → E → A → B）</text><line x1=\"18\" y1=\"34\" x2=\"382\" y2=\"34\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><text x=\"22\" y=\"62\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\">31 → (C)</text><text x=\"102\" y=\"62\" fill=\"#ffffff\" font-size=\"12.5\">段首主題句 → 後接 For example 1700年前肖像畫不笑</text><text x=\"22\" y=\"92\" fill=\"#80deea\" font-size=\"13\" font-weight=\"bold\">32 → (E)</text><text x=\"102\" y=\"92\" fill=\"#ffffff\" font-size=\"12.5\">In fact 俄國諺語 stupidity → 呼應前句 less intelligent</text><text x=\"22\" y=\"122\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\">33 → (A)</text><text x=\"102\" y=\"122\" fill=\"#ffffff\" font-size=\"12.5\">Another crucial factor → 承接因素①並引出新移民</text><text x=\"22\" y=\"152\" fill=\"#80deea\" font-size=\"13\" font-weight=\"bold\">34 → (B)</text><text x=\"102\" y=\"152\" fill=\"#ffffff\" font-size=\"12.5\">Various factors... thus → 結論段總結全文多重成因</text><line x1=\"18\" y1=\"168\" x2=\"382\" y2=\"168\" stroke=\"rgba(255,255,255,0.25)\" stroke-width=\"1\" stroke-dasharray=\"4,4\"/><text x=\"200\" y=\"190\" fill=\"#fca5a5\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">干擾選項 (D) 比較真笑與假笑之心理苦惱，全文並未提及</text></svg>"
   }
 ]
