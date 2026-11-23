@@ -770,5 +770,179 @@
     "blanks": ["10", "94"],
     "explanation": "【滿分參考答案解析】\n一、求平行六面體體積：\n1. 因為 $\\vec{AP} \\perp (\\vec{AD} \\times \\vec{AP})$ 且 $\\vec{AP} \\perp (\\vec{AP} \\times \\vec{AB})$，故 $\\vec{AP}$ 平行於兩外積向量的外積：\n$$(\\vec{AD} \\times \\vec{AP}) \\times (\\vec{AP} \\times \\vec{AB}) = (-2, 0, -4) \\times (6, -10, -8) = (-40, -40, 20) = -20(2, 2, -1)$$\n2. 已知 $\\overline{AP} = 6$ 且 $|(2, 2, -1)| = \\sqrt{2^2 + 2^2 + (-1)^2} = 3$，故：\n$$\\vec{AP} = \\pm 2(2, 2, -1) = \\pm(4, 4, -2)$$\n3. 利用三階行列式（純量三重積）求平行六面體體積：\n$$\\text{體積} = |\\vec{AP} \\cdot (\\vec{AB} \\times \\vec{AD})| = |(4, 4, -2) \\cdot (-5, 5, 5)| = |-20 + 20 - 10| = 10$$\n\n二、求距點 $A$ 的最長距離：\n1. 因封閉凸多面體距一點的最遠距離必發生在頂點上，僅需比較其餘 $7$ 個頂點到 $A$ 的距離。不失一般性，設 $\\vec{AP} = (4, 4, -2)$。\n2. 求 $\\vec{AB}$：因 $\\vec{AB} \\parallel (\\vec{AB} \\times \\vec{AD}) \\times (\\vec{AP} \\times \\vec{AB}) = (-5, 5, 5) \\times (6, -10, -8) = 10(1, -1, 2)$，設 $\\vec{AB} = t(1, -1, 2)$。代入 $\\vec{AP} \\times \\vec{AB} = (4, 4, -2) \\times t(1, -1, 2) = t(6, -10, -8) = (6, -10, -8)$，得 $t = 1$，即 $\\vec{AB} = (1, -1, 2)$。\n3. 求 $\\vec{AD}$：因 $\\vec{AD} \\parallel (\\vec{AB} \\times \\vec{AD}) \\times (\\vec{AD} \\times \\vec{AP}) = (-5, 5, 5) \\times (-2, 0, -4) = -10(2, 3, -1)$，設 $\\vec{AD} = s(2, 3, -1)$。代入 $\\vec{AD} \\times \\vec{AP} = s(2, 3, -1) \\times (4, 4, -2) = s(-2, 0, -4) = (-2, 0, -4)$，得 $s = 1$，即 $\\vec{AD} = (2, 3, -1)$。\n4. 計算各頂點向量與長度：\n• $\\vec{AB} = (1, -1, 2) \\implies \\overline{AB} = \\sqrt{6}$\n• $\\vec{AD} = (2, 3, -1) \\implies \\overline{AD} = \\sqrt{14}$\n• $\\vec{AP} = (4, 4, -2) \\implies \\overline{AP} = 6 = \\sqrt{36}$\n• $\\vec{AC} = \\vec{AB} + \\vec{AD} = (3, 2, 1) \\implies \\overline{AC} = \\sqrt{14}$\n• $\\vec{AQ} = \\vec{AB} + \\vec{AP} = (5, 3, 0) \\implies \\overline{AQ} = \\sqrt{34}$\n• $\\vec{AS} = \\vec{AD} + \\vec{AP} = (6, 7, -3) \\implies \\overline{AS} = \\sqrt{36 + 49 + 9} = \\sqrt{94}$\n• $\\vec{AR} = \\vec{AB} + \\vec{AD} + \\vec{AP} = (7, 6, -1) \\implies \\overline{AR} = \\sqrt{49 + 36 + 1} = \\sqrt{86}$\n\n比較可知最長距離為 $\\overline{AS} = \\sqrt{94}$。",
     "explanationSvg": "<svg viewBox=\"0 0 400 185\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:440px;height:auto;display:block;\"><text x=\"200\" y=\"22\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">平行六面體三稜向量與各頂點距 A 長度比較</text><line x1=\"18\" y1=\"32\" x2=\"382\" y2=\"32\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><text x=\"24\" y=\"54\" fill=\"#80deea\" font-size=\"12.5\" font-weight=\"bold\">三稜向量（設 AP = (4,4,-2)）：</text><text x=\"24\" y=\"75\" fill=\"#ffffff\" font-size=\"12\">• AB = (1, -1, 2)  ⇒  AB = √6</text><text x=\"24\" y=\"95\" fill=\"#ffffff\" font-size=\"12\">• AD = (2, 3, -1)  ⇒  AD = √14</text><text x=\"24\" y=\"115\" fill=\"#ffffff\" font-size=\"12\">• AP = (4, 4, -2)  ⇒  AP = √36</text><text x=\"215\" y=\"54\" fill=\"#ffeb3b\" font-size=\"12.5\" font-weight=\"bold\">對角線頂點距離：</text><text x=\"215\" y=\"75\" fill=\"#ffffff\" font-size=\"12\">• AC = (3, 2, 1)  ⇒  √14</text><text x=\"215\" y=\"95\" fill=\"#ffffff\" font-size=\"12\">• AQ = (5, 3, 0)  ⇒  √34</text><text x=\"215\" y=\"115\" fill=\"#ffffff\" font-size=\"12\">• AR = (7, 6, -1) ⇒  √86</text><text x=\"215\" y=\"135\" fill=\"#ffeb3b\" font-size=\"12.5\" font-weight=\"bold\">• AS = (6, 7, -3) ⇒  √94 ★</text><line x1=\"18\" y1=\"148\" x2=\"382\" y2=\"148\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><text x=\"200\" y=\"170\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">體積 = |AP · (AB × AD)| = 10   ｜   最長距離 AS = √94</text></svg>"
+  },
+  {
+    "id": "115-gsat-eng-01",
+    "examType": "學測",
+    "year": 115,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. The mayor has such a ______ schedule that it takes weeks to arrange an interview with her.",
+    "options": [
+      "hasty",
+      "tight",
+      "diligent",
+      "routine"
+    ],
+    "answerIndex": 1,
+    "explanation": "【句意與字彙解析】\n句意：市長的行程非常緊湊，以至於要花好幾週才能安排到與她的專訪。\n\n• (A) hasty (adj.) 倉促的、草率的\n• (B) tight (adj.) 緊湊的、滿檔的（常見搭配：a tight schedule 緊湊的行程）\n• (C) diligent (adj.) 勤奮的、用功的\n• (D) routine (adj.) 例行的、常規的\n\n依句意「需要數週才能安排訪談」，可知行程非常滿檔，故選 (B)。"
+  },
+  {
+    "id": "115-gsat-eng-02",
+    "examType": "學測",
+    "year": 115,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. Jane started as an ______ art designer, but now she has a professional studio of her own.",
+    "options": [
+      "official",
+      "instant",
+      "amateur",
+      "elementary"
+    ],
+    "answerIndex": 2,
+    "explanation": "【句意與字彙解析】\n句意：珍起初是一名業餘的藝術設計師，但現在她已經擁有一間屬於自己的專業工作室了。\n\n• (A) official (adj.) 官方的、正式的\n• (B) instant (adj.) 立即的、速食的\n• (C) amateur (adj.) 業餘的（與後半句的 professional「專業的」形成強烈對比）\n• (D) elementary (adj.) 初級的、基本的\n\n由轉折連接詞 but 與後方的 professional 推知空格應填入反義詞「業餘的」，故選 (C)。",
+    "explanationSvg": "<svg viewBox=\"0 0 380 145\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><text x=\"190\" y=\"24\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">語意轉折線索（but 前後對比）</text><line x1=\"20\" y1=\"34\" x2=\"360\" y2=\"34\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><rect x=\"24\" y=\"48\" width=\"142\" height=\"54\" rx=\"8\" fill=\"rgba(128,222,234,0.15)\" stroke=\"#80deea\" stroke-width=\"1.5\"/><text x=\"95\" y=\"71\" fill=\"#80deea\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">amateur</text><text x=\"95\" y=\"91\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">業餘的（起步階段）</text><text x=\"190\" y=\"80\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">but</text><rect x=\"214\" y=\"48\" width=\"142\" height=\"54\" rx=\"8\" fill=\"rgba(255,235,59,0.15)\" stroke=\"#ffeb3b\" stroke-width=\"1.5\"/><text x=\"285\" y=\"71\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">professional</text><text x=\"285\" y=\"91\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">專業的（擁有工作室）</text><text x=\"190\" y=\"128\" fill=\"rgba(255,255,255,0.8)\" font-size=\"12\" text-anchor=\"middle\">關鍵字：started as（起初是） ↔ now（現在是）</text></svg>"
+  },
+  {
+    "id": "115-gsat-eng-03",
+    "examType": "學測",
+    "year": 115,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. The teaching ______ at the famous high school soon attracted more than a dozen well-qualified applicants.",
+    "options": [
+      "career",
+      "vacancy",
+      "expectation",
+      "inspiration"
+    ],
+    "answerIndex": 1,
+    "explanation": "【句意與字彙解析】\n句意：這所知名高中的教師職缺很快便吸引了十多位條件優異的應徵者。\n\n• (A) career (n.) 職業生涯\n• (B) vacancy (n.) 空缺、職缺（a teaching vacancy 教職空缺）\n• (C) expectation (n.) 期待、預期\n• (D) inspiration (n.) 靈感、鼓舞\n\n由後方「吸引十多位合格應徵者（well-qualified applicants）」可知是指「職缺」，故選 (B)。"
+  },
+  {
+    "id": "115-gsat-eng-04",
+    "examType": "學測",
+    "year": 115,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. Designed by a young engineer, the new product has created far more profit than ______ expected.",
+    "options": [
+      "initially",
+      "genuinely",
+      "alternatively",
+      "fundamentally"
+    ],
+    "answerIndex": 0,
+    "explanation": "【句意與字彙解析】\n句意：這款由年輕工程師設計的新產品，所創造的利潤遠超過最初的預期。\n\n• (A) initially (adv.) 最初、起初（常見搭配：than initially expected 比最初預期的）\n• (B) genuinely (adv.) 真誠地、真正地\n• (C) alternatively (adv.) 或者、作為替代\n• (D) fundamentally (adv.) 根本地、基本上\n\n依句意比較實際獲利與「起初」預估的落差，故選 (A)。"
+  },
+  {
+    "id": "115-gsat-eng-05",
+    "examType": "學測",
+    "year": 115,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. It has been confirmed that a balanced ______ of fruit and vegetables is a key element to good health.",
+    "options": [
+      "dimension",
+      "integration",
+      "provision",
+      "consumption"
+    ],
+    "answerIndex": 3,
+    "explanation": "【句意與字彙解析】\n句意：目前已證實均衡攝取蔬果是維持健康的關鍵要素。\n\n• (A) dimension (n.) 維度、尺寸、面向\n• (B) integration (n.) 整合、融合\n• (C) provision (n.) 供應、條款\n• (D) consumption (n.) 攝取、食用、消耗（consumption of fruit and vegetables 蔬果攝取量）\n\n搭配後方「蔬果」與「健康」，語意為均衡「攝取」，故選 (D)。"
+  },
+  {
+    "id": "115-gsat-eng-06",
+    "examType": "學測",
+    "year": 115,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. As a shy boy afraid of making public appearances, Timmy ______ the thought of speaking before large audiences.",
+    "options": [
+      "dreads",
+      "stresses",
+      "wanders",
+      "escapes"
+    ],
+    "answerIndex": 0,
+    "explanation": "【句意與字彙解析】\n句意：身為一個害怕公開露面的害羞男孩，提米一想到要在眾多觀眾面前演講就感到非常畏懼。\n\n• (A) dreads (v.) 畏懼、害怕（常見搭配：dread the thought of... 害怕一想到……）\n• (B) stresses (v.) 強調、使承受壓力\n• (C) wanders (v.) 漫步、走神\n• (D) escapes (v.) 逃脫、避開（語意上通常接具體危險或場所，不與 the thought of 搭配表達恐懼心理）\n\n依前半句「害羞且害怕公開露面」推知極度害怕演講，故選 (A)。"
+  },
+  {
+    "id": "115-gsat-eng-07",
+    "examType": "學測",
+    "year": 115,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. To the newly-crowned winner of the piano competition, music is his life’s ______, which he has devoted himself to whole-heartedly.",
+    "options": [
+      "resource",
+      "impact",
+      "passion",
+      "emphasis"
+    ],
+    "answerIndex": 2,
+    "explanation": "【句意與字彙解析】\n句意：對這位新科鋼琴大賽冠軍而言，音樂是他畢生的熱愛，他已全心全意投入其中。\n\n• (A) resource (n.) 資源\n• (B) impact (n.) 衝擊、影響\n• (C) passion (n.) 熱愛、熱情（one's life's passion 畢生的熱愛／志業）\n• (D) emphasis (n.) 強調、重點\n\n由後方關係子句「全心全意投入（devoted himself to whole-heartedly）」可知音樂是他的「熱愛」，故選 (C)。"
+  },
+  {
+    "id": "115-gsat-eng-08",
+    "examType": "學測",
+    "year": 115,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. The drunk driver who shouted at passers-by and ______ them with glass bottles was quickly arrested by the police.",
+    "options": [
+      "shattered",
+      "assaulted",
+      "overturned",
+      "condemned"
+    ],
+    "answerIndex": 1,
+    "explanation": "【句意與字彙解析】\n句意：這名對路人大吼大叫並拿玻璃瓶襲擊他們的酒駕駕駛很快就被警方逮捕了。\n\n• (A) shattered (v.) 粉碎、砸碎（受詞應為玻璃瓶等易碎物，不可接人 them）\n• (B) assaulted (v.) 襲擊、攻擊（assault sb. with sth. 用某物攻擊某人）\n• (C) overturned (v.) 推翻、翻覆\n• (D) condemned (v.) 譴責、判刑\n\n空格後的受詞 them 指的是前面的 passers-by（路人），表示「用玻璃瓶襲擊路人」，故選 (B)。",
+    "explanationSvg": "<svg viewBox=\"0 0 380 145\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><text x=\"190\" y=\"24\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">及物動詞受詞搭配辨析（them = passers-by）</text><line x1=\"20\" y1=\"34\" x2=\"360\" y2=\"34\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><text x=\"26\" y=\"64\" fill=\"#80deea\" font-size=\"13.5\" font-weight=\"bold\">✓ assault + 人 + with 物</text><text x=\"225\" y=\"64\" fill=\"#ffffff\" font-size=\"13\">用玻璃瓶「襲擊」路人</text><text x=\"26\" y=\"94\" fill=\"#fca5a5\" font-size=\"13.5\" font-weight=\"bold\">✗ shatter + 易碎物（非人）</text><text x=\"225\" y=\"94\" fill=\"#b0bec5\" font-size=\"13\">shatter bottles（砸碎瓶子）</text><text x=\"190\" y=\"128\" fill=\"#ffeb3b\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">句中受詞為 them（指路人），故選 (B) assaulted</text></svg>"
+  },
+  {
+    "id": "115-gsat-eng-09",
+    "examType": "學測",
+    "year": 115,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. There were so many people at the bus station that I had to ______ my way through the crowd to board the bus in time.",
+    "options": [
+      "crash",
+      "tumble",
+      "elbow",
+      "struggle"
+    ],
+    "answerIndex": 2,
+    "explanation": "【句意與字彙解析】\n句意：公車站的人太多了，我必須用手肘推開人群擠過去才能及時搭上公車。\n\n• (A) crash (v.) 碰撞、墜毀\n• (B) tumble (v.) 跌倒、滾落\n• (C) elbow (v.) 用手肘推擠（慣用語：elbow one's way through... 推開人群擠過去）\n• (D) struggle (v.) 掙扎、奮鬥（為不及物動詞，不可直接接受詞 my way，須寫作 struggle to make my way）\n\n本題考查慣用語 elbow one's way through the crowd，故選 (C)。",
+    "explanationSvg": "<svg viewBox=\"0 0 380 145\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><text x=\"190\" y=\"24\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">片語結構辨析：V + one's way through...</text><line x1=\"20\" y1=\"34\" x2=\"360\" y2=\"34\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><text x=\"26\" y=\"64\" fill=\"#80deea\" font-size=\"13.5\" font-weight=\"bold\">✓ elbow one's way</text><text x=\"190\" y=\"64\" fill=\"#ffffff\" font-size=\"13\">用手肘推開人群擠過去（及物用法）</text><text x=\"26\" y=\"94\" fill=\"#fca5a5\" font-size=\"13.5\" font-weight=\"bold\">✗ struggle to + V</text><text x=\"190\" y=\"94\" fill=\"#b0bec5\" font-size=\"13\">不及物動詞，不可直接加 my way</text><text x=\"190\" y=\"128\" fill=\"#ffeb3b\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">同類片語：push / force / fight one's way through</text></svg>"
+  },
+  {
+    "id": "115-gsat-eng-10",
+    "examType": "學測",
+    "year": 115,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. Deadly shootings on US campuses have raised ______ concerns about how to prevent such tragic incidents from happening again.",
+    "options": [
+      "swift",
+      "brutal",
+      "harsh",
+      "grave"
+    ],
+    "answerIndex": 3,
+    "explanation": "【句意與字彙解析】\n句意：美國校園發生的致命槍擊案已引起人們對於如何防止此類悲劇再次發生的嚴重關切。\n\n• (A) swift (adj.) 迅速的、敏捷的\n• (B) brutal (adj.) 殘暴的、野蠻的\n• (C) harsh (adj.) 嚴厲的、刺耳的、惡劣的\n• (D) grave (adj.) 嚴重的、重大的（高頻搭配：raise grave concerns 引起嚴重關切）\n\n與 concerns 搭配表示「嚴重的擔憂」，故選 (D)。",
+    "explanationSvg": "<svg viewBox=\"0 0 380 145\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><text x=\"190\" y=\"24\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">一字多義與高頻搭配詞：grave</text><line x1=\"20\" y1=\"34\" x2=\"360\" y2=\"34\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><text x=\"26\" y=\"64\" fill=\"#80deea\" font-size=\"13.5\" font-weight=\"bold\">• adj. 嚴重的、重大的</text><text x=\"195\" y=\"64\" fill=\"#ffffff\" font-size=\"13\">grave concerns / danger</text><text x=\"26\" y=\"94\" fill=\"#b0bec5\" font-size=\"13.5\" font-weight=\"bold\">• n. 墳墓</text><text x=\"195\" y=\"94\" fill=\"#b0bec5\" font-size=\"13\">dig one's own grave</text><text x=\"190\" y=\"128\" fill=\"#ffeb3b\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">raise grave concerns about...（引起對……的嚴重關切）</text></svg>"
   }
 ]
