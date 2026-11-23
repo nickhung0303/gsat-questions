@@ -548,5 +548,40 @@
     "answerIndex": 1,
     "explanation": "【坐標平面等腰三角形分類討論解析】\n先計算線段 $AB$ 的長度：\n$$\\overline{AB} = \\sqrt{(2 - (-1))^2 + (-2 - 2)^2} = \\sqrt{3^2 + (-4)^2} = 5$$\n設點 $C(x, -6)$ 在直線 $y = -6$ 上，依等腰三角形的三種邊長相等情況分開討論：\n\n1. $\\overline{CA} = \\overline{CB}$（$C$ 在 $\\overline{AB}$ 的中垂線上）：\n• $\\overline{AB}$ 中點為 $M\\left(\\frac{1}{2}, 0\\right)$，斜率 $m_{AB} = \\frac{2 - (-2)}{-1 - 2} = -\\frac{4}{3}$，故中垂線斜率為 $\\frac{3}{4}$。\n• 中垂線方程式：$y - 0 = \\frac{3}{4}\\left(x - \\frac{1}{2}\\right)$。代入 $y = -6$ 得：\n$$-6 = \\frac{3}{4}\\left(x - \\frac{1}{2}\\right) \\implies x - \\frac{1}{2} = -8 \\implies x = -\\frac{15}{2}$$\n• 得 $C_1\\left(-\\frac{15}{2}, -6\\right)$（不與 $A, B$ 共線，合乎所求，共 $1$ 點）。\n\n2. $\\overline{AC} = \\overline{AB} = 5$（以 $A$ 為圓心、$5$ 為半徑作圓與 $y = -6$ 相交）：\n• $(x - 2)^2 + (-6 - (-2))^2 = 5^2 \\implies (x - 2)^2 + 16 = 25 \\implies (x - 2)^2 = 9$\n• 解得 $x = 5$ 或 $x = -1$：\n  - 當 $x = 5$ 時，點 $(5, -6)$ 與 $A(2, -2), B(-1, 2)$ 皆在直線 $4x + 3y = 2$ 上（三點共線無法構成三角形，不合！）。\n  - 當 $x = -1$ 時，點 $C_2(-1, -6)$ 不共線，合乎所求（共 $1$ 點）。\n\n3. $\\overline{BC} = \\overline{AB} = 5$（以 $B$ 為圓心、$5$ 為半徑作圓與 $y = -6$ 相交）：\n• 點 $B(-1, 2)$ 到直線 $y = -6$ 的垂直距離為 $|2 - (-6)| = 8 > 5$，圓與直線不相交（共 $0$ 點）。\n\n綜上所述，共有 $1 + 1 + 0 = 2$ 個點 $C$。\n\n故選 (2)",
     "explanationSvg": "<svg viewBox=\"0 0 400 230\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:440px;height:auto;display:block;\"><line x1=\"20\" y1=\"65\" x2=\"380\" y2=\"65\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><line x1=\"190\" y1=\"15\" x2=\"190\" y2=\"215\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><text x=\"372\" y=\"58\" fill=\"rgba(255,255,255,0.7)\" font-size=\"12\">x</text><text x=\"196\" y=\"24\" fill=\"rgba(255,255,255,0.7)\" font-size=\"12\">y</text><line x1=\"20\" y1=\"173\" x2=\"380\" y2=\"173\" stroke=\"#80deea\" stroke-width=\"2\"/><text x=\"335\" y=\"166\" fill=\"#80deea\" font-size=\"13\" font-weight=\"bold\">y = -6</text><circle cx=\"226\" cy=\"101\" r=\"90\" fill=\"none\" stroke=\"rgba(255,235,59,0.45)\" stroke-width=\"1.5\" stroke-dasharray=\"5,4\"/><line x1=\"158\" y1=\"10\" x2=\"295\" y2=\"193\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\" stroke-dasharray=\"3,3\"/><line x1=\"172\" y1=\"29\" x2=\"226\" y2=\"101\" stroke=\"#ffffff\" stroke-width=\"2.5\"/><line x1=\"199\" y1=\"65\" x2=\"55\" y2=\"173\" stroke=\"#80deea\" stroke-width=\"1.5\" stroke-dasharray=\"4,4\"/><circle cx=\"172\" cy=\"29\" r=\"4.5\" fill=\"#ffffff\"/><text x=\"122\" y=\"28\" fill=\"#ffffff\" font-size=\"12\" font-weight=\"bold\">B(-1, 2)</text><circle cx=\"226\" cy=\"101\" r=\"4.5\" fill=\"#ffffff\"/><text x=\"234\" y=\"100\" fill=\"#ffffff\" font-size=\"12\" font-weight=\"bold\">A(2, -2)</text><circle cx=\"55\" cy=\"173\" r=\"5\" fill=\"#ffeb3b\"/><text x=\"55\" y=\"193\" fill=\"#ffeb3b\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">C₁(-7.5, -6) ✓</text><circle cx=\"172\" cy=\"173\" r=\"5\" fill=\"#ffeb3b\"/><text x=\"172\" y=\"193\" fill=\"#ffeb3b\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">C₂(-1, -6) ✓</text><circle cx=\"280\" cy=\"173\" r=\"4.5\" fill=\"#ef4444\"/><text x=\"292\" y=\"193\" fill=\"#fca5a5\" font-size=\"12\" text-anchor=\"middle\">(5, -6) 共線剔除</text></svg>"
+  },
+  {
+    "id": "115-gsat-math-07",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學",
+    "type": "multiple",
+    "question": "【多選題】7. 坐標平面上同時滿足 $\\begin{cases} 2x - y - 3 > 0 \\\\ x + 2y + 1 < 0 \\end{cases}$ 的點 $P(x,y)$ 可能位在下列哪些選項？",
+    "options": [
+      "第一象限",
+      "第二象限",
+      "第三象限",
+      "第四象限",
+      "$x$ 軸"
+    ],
+    "answerIndices": [2, 3],
+    "explanation": "【二元一次聯立不等式與象限判定解析】\n1. 求出兩邊界直線的交點：\n解聯立方程式 $\\begin{cases} 2x - y - 3 = 0 \\\\ x + 2y + 1 = 0 \\end{cases}$，可得交點為 $(1, -1)$（位於第四象限）。\n\n2. 判斷可行解區域（同時滿足 $y < 2x - 3$ 且 $y < -\\frac{1}{2}x - \\frac{1}{2}$）：\n• (1) 第一象限（$x > 0, y > 0$）：此時 $x + 2y + 1 > 1 > 0$，不可能滿足 $x + 2y + 1 < 0$（不合）。\n• (2) 第二象限（$x < 0, y > 0$）：此時 $2x - y - 3 < -3 < 0$，不可能滿足 $2x - y - 3 > 0$（不合）。\n• (3) 第三象限（$x < 0, y < 0$）：例如取點 $(-1, -10)$，代入得 $2(-1) - (-10) - 3 = 5 > 0$ 且 $-1 + 2(-10) + 1 = -20 < 0$，成立（符合）。\n• (4) 第四象限（$x > 0, y < 0$）：例如取點 $(1, -2)$，代入得 $2(1) - (-2) - 3 = 1 > 0$ 且 $1 + 2(-2) + 1 = -2 < 0$，成立（符合）。\n• (5) $x$ 軸（$y = 0$）：代入兩式得 $x > \\frac{3}{2}$ 且 $x < -1$，無交集（不合）。\n\n故選 (3)(4)",
+    "explanationSvg": "<svg viewBox=\"0 0 380 225\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><polygon points=\"152,200 200,120 345,180 345,205 152,205\" fill=\"rgba(255,235,59,0.22)\"/><line x1=\"25\" y1=\"95\" x2=\"355\" y2=\"95\" stroke=\"rgba(255,255,255,0.45)\" stroke-width=\"1.5\"/><line x1=\"170\" y1=\"18\" x2=\"170\" y2=\"210\" stroke=\"rgba(255,255,255,0.45)\" stroke-width=\"1.5\"/><text x=\"348\" y=\"88\" fill=\"rgba(255,255,255,0.75)\" font-size=\"12\">x</text><text x=\"176\" y=\"26\" fill=\"rgba(255,255,255,0.75)\" font-size=\"12\">y</text><text x=\"285\" y=\"52\" fill=\"rgba(255,255,255,0.55)\" font-size=\"12\">第一象限</text><text x=\"75\" y=\"52\" fill=\"rgba(255,255,255,0.55)\" font-size=\"12\">第二象限</text><text x=\"75\" y=\"155\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\">第三象限 ✓</text><text x=\"280\" y=\"142\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\">第四象限 ✓</text><line x1=\"150\" y1=\"203\" x2=\"254\" y2=\"30\" stroke=\"#80deea\" stroke-width=\"2\" stroke-dasharray=\"5,4\"/><text x=\"258\" y=\"34\" fill=\"#80deea\" font-size=\"12\" font-weight=\"bold\">2x - y - 3 = 0</text><line x1=\"45\" y1=\"55\" x2=\"350\" y2=\"182\" stroke=\"#ffeb3b\" stroke-width=\"2\" stroke-dasharray=\"5,4\"/><text x=\"32\" y=\"48\" fill=\"#ffeb3b\" font-size=\"12\" font-weight=\"bold\">x + 2y + 1 = 0</text><circle cx=\"200\" cy=\"120\" r=\"4.5\" fill=\"#ffeb3b\"/><text x=\"208\" y=\"116\" fill=\"#ffeb3b\" font-size=\"12\" font-weight=\"bold\">(1, -1)</text><text x=\"235\" y=\"195\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">可行解區域</text></svg>"
+  },
+  {
+    "id": "115-gsat-math-08",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學",
+    "type": "multiple",
+    "question": "【多選題】8. 已知 $A = \\begin{bmatrix} 2 & 1 \\\\ 1 & 0 \\end{bmatrix}$，且對所有正整數 $n \\ge 2$，令 $A^n = \\begin{bmatrix} a_n & b_n \\\\ c_n & d_n \\end{bmatrix}$。試選出正確的選項。",
+    "options": [
+      "$b_2 < c_2$",
+      "$A^2 = 2A + \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$",
+      "$c_{n+2} = c_{n+1} + 2c_n$",
+      "$\\begin{bmatrix} a_n & b_n \\\\ c_n & d_n \\end{bmatrix} \\begin{bmatrix} 0 \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} b_{n+1} \\\\ d_{n+1} \\end{bmatrix}$",
+      "$d_{2n} - a_{2n} = (d_n)^2 - (a_n)^2$"
+    ],
+    "answerIndices": [1, 4],
+    "explanation": "【二階方陣乘法、特徵方程式與次方運算解析】\n先計算 $A^2$：\n$$A^2 = \\begin{bmatrix} 2 & 1 \\\\ 1 & 0 \\end{bmatrix}\\begin{bmatrix} 2 & 1 \\\\ 1 & 0 \\end{bmatrix} = \\begin{bmatrix} 5 & 2 \\\\ 2 & 1 \\end{bmatrix}$$\n\n逐一檢驗各選項：\n• (1) 錯誤：由 $A^2 = \\begin{bmatrix} 5 & 2 \\\\ 2 & 1 \\end{bmatrix}$ 可知 $b_2 = 2$、$c_2 = 2$，故 $b_2 = c_2$（因 $A$ 為對稱矩陣，所有次方 $A^n$ 皆對稱，恆有 $b_n = c_n$）。\n• (2) 正確：$2A + I = 2\\begin{bmatrix} 2 & 1 \\\\ 1 & 0 \\end{bmatrix} + \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix} = \\begin{bmatrix} 5 & 2 \\\\ 2 & 1 \\end{bmatrix} = A^2$（亦符合凱萊-漢米爾頓定理）。\n• (3) 錯誤：將 $A^2 = 2A + I$ 兩邊同乘 $A^n$ 得 $A^{n+2} = 2A^{n+1} + A^n$，比較左下角元素得 $c_{n+2} = 2c_{n+1} + c_n$（非 $c_{n+1} + 2c_n$）。\n• (4) 錯誤：$\begin{bmatrix} a_n & b_n \\\\ c_n & d_n \\end{bmatrix}\\begin{bmatrix} 0 \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} b_n \\\\ d_n \\end{bmatrix}$，應等於 $\\begin{bmatrix} b_n \\\\ d_n \\end{bmatrix}$ 而非 $\\begin{bmatrix} b_{n+1} \\\\ d_{n+1} \\end{bmatrix}$。\n• (5) 正確：由指數律 $A^{2n} = A^n \\cdot A^n$：\n$$\\begin{bmatrix} a_{2n} & b_{2n} \\\\ c_{2n} & d_{2n} \\end{bmatrix} = \\begin{bmatrix} a_n & b_n \\\\ c_n & d_n \\end{bmatrix}\\begin{bmatrix} a_n & b_n \\\\ c_n & d_n \\end{bmatrix} = \\begin{bmatrix} a_n^2 + b_n c_n & a_n b_n + b_n d_n \\\\ c_n a_n + d_n c_n & c_n b_n + d_n^2 \\end{bmatrix}$$\n因此 $a_{2n} = (a_n)^2 + b_n c_n$、$d_{2n} = c_n b_n + (d_n)^2$，兩式相減消去 $b_n c_n$ 得：\n$$d_{2n} - a_{2n} = (d_n)^2 - (a_n)^2$$\n\n故選 (2)(5)"
   }
 ]
