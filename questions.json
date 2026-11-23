@@ -498,5 +498,55 @@
     ],
     "answerIndex": 0,
     "explanation": "【指數函數與等差、等比數列關係解析】\n1. 利用等差與等比條件求出底數 $a$：\n• 因為 $c_1, c_2, c_3$ 是公差為 $\\frac{10}{3}$ 的等差數列，所以 $c_2 - c_1 = \\frac{10}{3}$。\n• 又 $f(c_1), f(c_2), f(c_3)$ 是公比為 $4$ 的等比數列，由公比定義可得：\n$$\\frac{f(c_2)}{f(c_1)} = \\frac{a^{c_2}}{a^{c_1}} = a^{c_2 - c_1} = a^{\\frac{10}{3}} = 4 = 2^2$$\n• 兩邊同時取 $\\frac{3}{10}$ 次方，解得正實數 $a$：\n$$a = \\left(2^2\\right)^{\\frac{3}{10}} = 2^{\\frac{6}{10}} = 2^{\\frac{3}{5}}$$\n\n2. 求等比數列 $f(10), f(8), f(6)$ 的公比 $r$：\n$$r = \\frac{f(8)}{f(10)} = \\frac{a^8}{a^{10}} = a^{-2} = \\left(2^{\\frac{3}{5}}\\right)^{-2} = 2^{\\frac{-6}{5}}$$\n\n故選 (1)"
+  },
+  {
+    "id": "115-gsat-math-04",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學",
+    "question": "4. 某網遊有 $16$ 種材料，其中 $6$ 種為基本材料，$10$ 種為進階材料。任選 $3$ 種不同材料可以合成出草藥、食物、藥水中的 $1$ 類道具，其合成規則如下：若 $3$ 種材料均為基本材料，則合成結果必為同一種草藥；若 $3$ 種材料中 $2$ 種為基本材料、$1$ 種為進階材料，則合成結果會根據不同的進階材料得到不同種的食物，但不會受到基本材料不同而改變；其他的組合都會合成出不同種的藥水。試問此網遊總共可合成出多少種道具？",
+    "options": [
+      "$256$",
+      "$370$",
+      "$401$",
+      "$455$",
+      "$560$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【分類計數與組合數計算解析】\n依所選 $3$ 種材料中「基本材料」與「進階材料」的數量分成四種情況討論：\n\n1. $3$ 種基本材料（合成草藥）：\n• 不論選哪 $3$ 種基本材料，結果皆為「同一種草藥」，故僅有 $1$ 種道具。\n\n2. $2$ 種基本材料 ＋ $1$ 種進階材料（合成食物）：\n• 合成結果僅取決於所選的「進階材料」，與基本材料無關。進階材料共有 $10$ 種，故可合成出 $10$ 種食物。\n\n3. $1$ 種基本材料 ＋ $2$ 種進階材料（合成藥水）：\n• 每種不同的材料組合皆會產生不同種藥水，方法數為：\n$$C^6_1 \\times C^{10}_2 = 6 \\times \\frac{10 \\times 9}{2} = 6 \\times 45 = 270\\text{（種）}$$\n\n4. $0$ 種基本材料 ＋ $3$ 種進階材料（合成藥水）：\n• 每種不同的材料組合皆會產生不同種藥水，方法數為：\n$$C^{10}_3 = \\frac{10 \\times 9 \\times 8}{3 \\times 2 \\times 1} = 120\\text{（種）}$$\n\n5. 總計可合成的道具種類數：\n$$1 + 10 + 270 + 120 = 401\\text{（種）}$$\n\n故選 (3)",
+    "explanationSvg": "<svg viewBox=\"0 0 400 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:440px;height:auto;display:block;\"><text x=\"200\" y=\"24\" fill=\"#ffeb3b\" font-size=\"15\" font-weight=\"bold\" text-anchor=\"middle\">16 種材料（6 基本＋10 進階）任選 3 種分類統計</text><line x1=\"18\" y1=\"35\" x2=\"382\" y2=\"35\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.5\"/><text x=\"24\" y=\"60\" fill=\"#ffffff\" font-size=\"13\">① 3 基本 + 0 進階（草藥）：</text><text x=\"212\" y=\"60\" fill=\"#80deea\" font-size=\"13\">皆為同一種</text><text x=\"375\" y=\"60\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"end\">1 種</text><text x=\"24\" y=\"88\" fill=\"#ffffff\" font-size=\"13\">② 2 基本 + 1 進階（食物）：</text><text x=\"212\" y=\"88\" fill=\"#80deea\" font-size=\"13\">僅看 10 種進階</text><text x=\"375\" y=\"88\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"end\">10 種</text><text x=\"24\" y=\"116\" fill=\"#ffffff\" font-size=\"13\">③ 1 基本 + 2 進階（藥水）：</text><text x=\"212\" y=\"116\" fill=\"#80deea\" font-size=\"13\">C(6,1) × C(10,2)</text><text x=\"375\" y=\"116\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"end\">270 種</text><text x=\"24\" y=\"144\" fill=\"#ffffff\" font-size=\"13\">④ 0 基本 + 3 進階（藥水）：</text><text x=\"212\" y=\"144\" fill=\"#80deea\" font-size=\"13\">C(10,3)</text><text x=\"375\" y=\"144\" fill=\"#ffeb3b\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"end\">120 種</text><line x1=\"18\" y1=\"156\" x2=\"382\" y2=\"156\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.5\"/><text x=\"200\" y=\"178\" fill=\"#ffeb3b\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">總道具數 ＝ 1 ＋ 10 ＋ 270 ＋ 120 ＝ 401 種</text></svg>"
+  },
+  {
+    "id": "115-gsat-math-05",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學",
+    "question": "5. 已知實數三階方陣 $A$ 滿足 $A\\begin{bmatrix} 1 \\\\ 1 \\\\ 0 \\end{bmatrix} = \\begin{bmatrix} 0 \\\\ -1 \\\\ 1 \\end{bmatrix}$，$A\\begin{bmatrix} 0 \\\\ -1 \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 1 \\\\ 0 \\end{bmatrix}$，$A\\begin{bmatrix} 1 \\\\ 0 \\\\ -1 \\end{bmatrix} = \\begin{bmatrix} 0 \\\\ 0 \\\\ 0 \\end{bmatrix}$。試問有多少個行向量 $\\vec{v} = \\begin{bmatrix} v_1 \\\\ v_2 \\\\ v_3 \\end{bmatrix}$ 滿足 $A\\vec{v} = \\begin{bmatrix} 1 \\\\ 0 \\\\ 1 \\end{bmatrix}$ 且 $\\vec{v}$ 垂直於行向量 $\\begin{bmatrix} 0 \\\\ 1 \\\\ 0 \\end{bmatrix}$？",
+    "options": [
+      "$1$ 個",
+      "$2$ 個",
+      "$3$ 個",
+      "$0$ 個",
+      "無窮多個"
+    ],
+    "answerIndex": 4,
+    "explanation": "【矩陣線性運算與解空間分析】\n1. 利用線性性質找出滿足 $A\\vec{v} = \\begin{bmatrix} 1 \\\\ 0 \\\\ 1 \\end{bmatrix}$ 的一般解：\n• 觀察已知的前兩式，將兩式相加：\n$$A\\left(\\begin{bmatrix} 1 \\\\ 1 \\\\ 0 \\end{bmatrix} + \\begin{bmatrix} 0 \\\\ -1 \\\\ 1 \\end{bmatrix}\\right) = \\begin{bmatrix} 0 \\\\ -1 \\\\ 1 \\end{bmatrix} + \\begin{bmatrix} 1 \\\\ 1 \\\\ 0 \\end{bmatrix} \\implies A\\begin{bmatrix} 1 \\\\ 0 \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 0 \\\\ 1 \\end{bmatrix}$$\n• 又已知 $A\\begin{bmatrix} 1 \\\\ 0 \\\\ -1 \\end{bmatrix} = \\begin{bmatrix} 0 \\\\ 0 \\\\ 0 \\end{bmatrix}$，對任意實數 $t$，將兩式線性組合可得：\n$$A\\left(\\begin{bmatrix} 1 \\\\ 0 \\\\ 1 \\end{bmatrix} + t\\begin{bmatrix} 1 \\\\ 0 \\\\ -1 \\end{bmatrix}\\right) = \\begin{bmatrix} 1 \\\\ 0 \\\\ 1 \\end{bmatrix} + t\\begin{bmatrix} 0 \\\\ 0 \\\\ 0 \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 0 \\\\ 1 \\end{bmatrix}$$\n• 故所有形如 $\\vec{v} = \\begin{bmatrix} 1 + t \\\\ 0 \\\\ 1 - t \\end{bmatrix}$（$t \\in \\mathbb{R}$）的向量皆滿足條件。\n\n2. 檢驗垂直條件：\n• 計算 $\\vec{v}$ 與 $\\begin{bmatrix} 0 \\\\ 1 \\\\ 0 \\end{bmatrix}$ 的內積：\n$$\\vec{v} \\cdot \\begin{bmatrix} 0 \\\\ 1 \\\\ 0 \\end{bmatrix} = (1+t)\\times 0 + 0 \\times 1 + (1-t)\\times 0 = 0$$\n• 此式對任意實數 $t$ 恆成立，因此滿足條件的行向量 $\\vec{v}$ 共有無窮多個。\n\n故選 (5)"
+  },
+  {
+    "id": "115-gsat-math-06",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學",
+    "question": "6. 坐標平面上有 $A(2, -2), B(-1, 2)$ 兩點，試問直線 $y = -6$ 上有多少個點 $C$ 使得 $\\triangle ABC$ 為等腰三角形？",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "$4$",
+      "$5$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【坐標平面等腰三角形分類討論解析】\n先計算線段 $AB$ 的長度：\n$$\\overline{AB} = \\sqrt{(2 - (-1))^2 + (-2 - 2)^2} = \\sqrt{3^2 + (-4)^2} = 5$$\n設點 $C(x, -6)$ 在直線 $y = -6$ 上，依等腰三角形的三種邊長相等情況分開討論：\n\n1. $\\overline{CA} = \\overline{CB}$（$C$ 在 $\\overline{AB}$ 的中垂線上）：\n• $\\overline{AB}$ 中點為 $M\\left(\\frac{1}{2}, 0\\right)$，斜率 $m_{AB} = \\frac{2 - (-2)}{-1 - 2} = -\\frac{4}{3}$，故中垂線斜率為 $\\frac{3}{4}$。\n• 中垂線方程式：$y - 0 = \\frac{3}{4}\\left(x - \\frac{1}{2}\\right)$。代入 $y = -6$ 得：\n$$-6 = \\frac{3}{4}\\left(x - \\frac{1}{2}\\right) \\implies x - \\frac{1}{2} = -8 \\implies x = -\\frac{15}{2}$$\n• 得 $C_1\\left(-\\frac{15}{2}, -6\\right)$（不與 $A, B$ 共線，合乎所求，共 $1$ 點）。\n\n2. $\\overline{AC} = \\overline{AB} = 5$（以 $A$ 為圓心、$5$ 為半徑作圓與 $y = -6$ 相交）：\n• $(x - 2)^2 + (-6 - (-2))^2 = 5^2 \\implies (x - 2)^2 + 16 = 25 \\implies (x - 2)^2 = 9$\n• 解得 $x = 5$ 或 $x = -1$：\n  - 當 $x = 5$ 時，點 $(5, -6)$ 與 $A(2, -2), B(-1, 2)$ 皆在直線 $4x + 3y = 2$ 上（三點共線無法構成三角形，不合！）。\n  - 當 $x = -1$ 時，點 $C_2(-1, -6)$ 不共線，合乎所求（共 $1$ 點）。\n\n3. $\\overline{BC} = \\overline{AB} = 5$（以 $B$ 為圓心、$5$ 為半徑作圓與 $y = -6$ 相交）：\n• 點 $B(-1, 2)$ 到直線 $y = -6$ 的垂直距離為 $|2 - (-6)| = 8 > 5$，圓與直線不相交（共 $0$ 點）。\n\n綜上所述，共有 $1 + 1 + 0 = 2$ 個點 $C$。\n\n故選 (2)",
+    "explanationSvg": "<svg viewBox=\"0 0 400 230\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:440px;height:auto;display:block;\"><line x1=\"20\" y1=\"65\" x2=\"380\" y2=\"65\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><line x1=\"190\" y1=\"15\" x2=\"190\" y2=\"215\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\"/><text x=\"372\" y=\"58\" fill=\"rgba(255,255,255,0.7)\" font-size=\"12\">x</text><text x=\"196\" y=\"24\" fill=\"rgba(255,255,255,0.7)\" font-size=\"12\">y</text><line x1=\"20\" y1=\"173\" x2=\"380\" y2=\"173\" stroke=\"#80deea\" stroke-width=\"2\"/><text x=\"335\" y=\"166\" fill=\"#80deea\" font-size=\"13\" font-weight=\"bold\">y = -6</text><circle cx=\"226\" cy=\"101\" r=\"90\" fill=\"none\" stroke=\"rgba(255,235,59,0.45)\" stroke-width=\"1.5\" stroke-dasharray=\"5,4\"/><line x1=\"158\" y1=\"10\" x2=\"295\" y2=\"193\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.2\" stroke-dasharray=\"3,3\"/><line x1=\"172\" y1=\"29\" x2=\"226\" y2=\"101\" stroke=\"#ffffff\" stroke-width=\"2.5\"/><line x1=\"199\" y1=\"65\" x2=\"55\" y2=\"173\" stroke=\"#80deea\" stroke-width=\"1.5\" stroke-dasharray=\"4,4\"/><circle cx=\"172\" cy=\"29\" r=\"4.5\" fill=\"#ffffff\"/><text x=\"122\" y=\"28\" fill=\"#ffffff\" font-size=\"12\" font-weight=\"bold\">B(-1, 2)</text><circle cx=\"226\" cy=\"101\" r=\"4.5\" fill=\"#ffffff\"/><text x=\"234\" y=\"100\" fill=\"#ffffff\" font-size=\"12\" font-weight=\"bold\">A(2, -2)</text><circle cx=\"55\" cy=\"173\" r=\"5\" fill=\"#ffeb3b\"/><text x=\"55\" y=\"193\" fill=\"#ffeb3b\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">C₁(-7.5, -6) ✓</text><circle cx=\"172\" cy=\"173\" r=\"5\" fill=\"#ffeb3b\"/><text x=\"172\" y=\"193\" fill=\"#ffeb3b\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">C₂(-1, -6) ✓</text><circle cx=\"280\" cy=\"173\" r=\"4.5\" fill=\"#ef4444\"/><text x=\"292\" y=\"193\" fill=\"#fca5a5\" font-size=\"12\" text-anchor=\"middle\">(5, -6) 共線剔除</text></svg>"
   }
 ]
