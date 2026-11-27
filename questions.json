@@ -30833,5 +30833,681 @@
       "誤差比率"
     ],
     "explanation": "$m + \\Delta m = \\dfrac{qB_1L}{2(v + \\Delta v)}$，減去 $m = \\dfrac{qB_1L}{2v}$：\n$\\Delta m = \\dfrac{qB_1L}{2}\\left(\\dfrac{1}{v + \\Delta v} - \\dfrac1v\\right) = -m\\dfrac{\\Delta v}{v + \\Delta v}$\n所以 $\\dfrac{\\Delta m}{m} = -\\dfrac{\\Delta v}{v + \\Delta v} \\approx -\\dfrac{\\Delta v}{v}$（兩種寫法都正確）。"
+  },
+  {
+    "id": "105-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "由 X 與 Y 兩種元素組成的化合物，若化合物中 X 與 Y 的質量比是 3:1，而 X 與 Y 的相對原子量比是 12:1，則下列何者是該化合物的化學式？",
+    "options": [
+      "$\\text{XY}_4$",
+      "$\\text{XY}_3$",
+      "$\\text{XY}_2$",
+      "$\\text{X}_2\\text{Y}$",
+      "$\\text{X}_3\\text{Y}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【由質量比求原子數比】\n莫耳數比 $= \\dfrac{3}{12} : \\dfrac{1}{1} = 1 : 4$，化學式為 $\\text{XY}_4$（例如 $\\text{CH}_4$：C:H 質量比 12:4 = 3:1）。\n\n故選 (A)"
+  },
+  {
+    "id": "105-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "碘可以形成很多種氧化物，且可具有不同的氧化數。有一種很特殊的碘與氧的化合物稱為碘酸碘。已知其中碘的氧化數分別為 +3 與 +5，則下列何者是碘酸碘的化學式？",
+    "options": [
+      "$\\text{I}_2\\text{O}_3$",
+      "$\\text{I}_2\\text{O}_5$",
+      "$\\text{I}_3\\text{O}_6$",
+      "$\\text{I}_4\\text{O}_5$",
+      "$\\text{I}_4\\text{O}_9$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【鹽類的組成】\n碘酸根 $\\text{IO}_3^-$ 中碘為 +5；陽離子 $\\text{I}^{3+}$ 中碘為 +3。電荷平衡：$\\text{I}^{3+}$ 搭配 3 個 $\\text{IO}_3^-$，即 $\\text{I(IO}_3)_3 = \\text{I}_4\\text{O}_9$。\n\n故選 (E)"
+  },
+  {
+    "id": "105-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 3-5 題為題組】圖 1 表示以乙炔為起始物合成一些簡單有機化合物的反應流程圖。圖中①～⑤表示氧化或還原反應等過程，甲～丁為有機化合物的代號。已知所有反應物以等莫耳數在其適當的反應條件下，均可往箭頭所示的方向進行。試依箭頭所示的方向，推出甲～丁的有機化合物後，回答下列問題。\n\n3. 代號乙是什麼化合物？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-03.png\" alt=\"圖1 由乙炔出發的反應流程：甲、乙、丙、丁與乙醇、醋酸鈣\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{CH}_3\\text{OH}$",
+      "$\\text{CH}_3\\text{CHO}$",
+      "$\\text{CH}_3\\text{COOH}$",
+      "$\\text{C}_2\\text{H}_5\\text{OC}_2\\text{H}_5$",
+      "$\\text{CH}_3\\text{COOC}_2\\text{H}_5$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【乙炔的加成】\n乙炔加水先得烯醇 $\\text{CH}_2{=}\\text{CHOH}$，再轉變為乙醛 $\\text{CH}_3\\text{CHO}$。乙醛可還原為乙醇、氧化為乙酸（丙），丙與 $\\text{Ca(OH)}_2$ 生成醋酸鈣，一致。\n\n故選 (B)"
+  },
+  {
+    "id": "105-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 3-5 題為題組】圖 1 表示以乙炔為起始物合成一些簡單有機化合物的反應流程圖。圖中①～⑤表示氧化或還原反應等過程，甲～丁為有機化合物的代號。已知所有反應物以等莫耳數在其適當的反應條件下，均可往箭頭所示的方向進行。試依箭頭所示的方向，推出甲～丁的有機化合物後，回答下列問題。\n\n4. 代號丁是什麼化合物？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-03.png\" alt=\"圖1 由乙炔出發的反應流程：甲、乙、丙、丁與乙醇、醋酸鈣\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{CH}_3\\text{OH}$",
+      "$\\text{CH}_3\\text{CHO}$",
+      "$\\text{CH}_3\\text{COOH}$",
+      "$\\text{C}_2\\text{H}_5\\text{OC}_2\\text{H}_5$",
+      "$\\text{CH}_3\\text{COOC}_2\\text{H}_5$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【酯化反應】\n丁由乙醇與丙（乙酸）脫去一分子水而成，是乙酸乙酯 $\\text{CH}_3\\text{COOC}_2\\text{H}_5$。\n\n故選 (E)"
+  },
+  {
+    "id": "105-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 3-5 題為題組】圖 1 表示以乙炔為起始物合成一些簡單有機化合物的反應流程圖。圖中①～⑤表示氧化或還原反應等過程，甲～丁為有機化合物的代號。已知所有反應物以等莫耳數在其適當的反應條件下，均可往箭頭所示的方向進行。試依箭頭所示的方向，推出甲～丁的有機化合物後，回答下列問題。\n\n5. 過程①～⑤中，哪些屬於氧化反應？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-03.png\" alt=\"圖1 由乙炔出發的反應流程：甲、乙、丙、丁與乙醇、醋酸鈣\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "①②",
+      "②③",
+      "③⑤",
+      "①②⑤",
+      "②③⑤"
+    ],
+    "answerIndex": 3,
+    "explanation": "【有機氧化還原】\n甲是乙炔加氫得到的乙烯 $\\text{C}_2\\text{H}_4$（乙醇脫水亦得乙烯）。\n• ① 乙烯 → 乙醛：加入氧，氧化。\n• ② 乙醛 → 乙酸：氧化。\n• ③ 乙酸 → 乙醛：還原。\n• ⑤ 乙醇 → 乙醛：去氫，氧化；④ 乙醛 → 乙醇：加氫，還原。\n\n故選 (D)"
+  },
+  {
+    "id": "105-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "利用電子組態可以描述原子的特性。下列有關電子組態的敘述，何者正確？\n（甲）C 原子的基態，其電子組態為 $1s^2\\,2s^2\\,2p^2$\n（乙）Ne 原子的激發態，其電子組態<u>不可能</u>是 $1s^2 2s^2 2p^5 3s^1$\n（丙）Mn 原子的基態和 $\\text{Mn}^{2+}$ 離子的基態皆具有未成對電子",
+    "options": [
+      "只有甲",
+      "只有乙",
+      "乙與丙",
+      "甲與丙",
+      "甲與乙"
+    ],
+    "answerIndex": 3,
+    "explanation": "【電子組態】\n• 甲 正確：C 有 6 個電子，$1s^2 2s^2 2p^2$。\n• 乙 錯誤：把一個 2p 電子激發到 3s 正是 Ne 常見的激發態，是可能的。\n• 丙 正確：Mn $[\\text{Ar}]3d^5 4s^2$，$\\text{Mn}^{2+}$ $[\\text{Ar}]3d^5$，都有 5 個未成對電子。\n\n故選 (D)"
+  },
+  {
+    "id": "105-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "某純物質具有下列特性：\n(1) 沸點在高壓環境下會比一大氣壓時的高\n(2) 三相點的溫度比正常熔點的溫度高\n依據上述特性，下列何者為此物質的三相圖？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-07.png\" alt=\"五張三相圖 (A)～(E)，溫度單位與固液線斜率不同\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 1,
+    "explanation": "【三相圖】\n• 三相點溫度高於正常熔點：表示壓力增加時熔點下降，固液平衡線的斜率為負（像水一樣）。\n• 加壓沸點升高：液氣線斜率為正。\n符合的圖中固液線向左傾，且相區由左到右為固、液、氣。(B)、(D) 都是負斜率，但 (D) 溫度單位為 K，0 K 與 100 K 不可能分別是熔點與沸點附近的情形；(B) 以 °C 標示（0°C、100°C），即水的三相圖。\n\n故選 (B)"
+  },
+  {
+    "id": "105-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "甲、乙、丙、丁、戊為五種有機化合物的代號。已知甲可作為抗凍劑，乙可進行酯化反應，丙可還原生成二級醇，丁可做為麻醉劑，且其沸點高低的排列順序為甲＞乙＞丙＞丁＞戊。若五種化合物依甲、乙、丙、丁、戊順序排列，則下列哪一排列正確？",
+    "options": [
+      "乙醇、乙酸、乙烷、乙醚、丙酮",
+      "乙烷、乙酸、乙醇、丙酮、乙醚",
+      "乙酸、乙二醇、丙酮、乙烷、乙醚",
+      "乙二醇、乙酸、丙酮、乙醚、乙烷",
+      "乙二醇、乙酸、乙醚、丙酮、乙烷"
+    ],
+    "answerIndex": 3,
+    "explanation": "【官能基與沸點】\n甲：抗凍劑 → 乙二醇（沸點約 197°C）；乙：可酯化 → 乙酸（118°C）；丙：還原得二級醇 → 丙酮（56°C）；丁：麻醉劑 → 乙醚（35°C）；戊：乙烷（−89°C）。沸點順序也符合。\n\n故選 (D)"
+  },
+  {
+    "id": "105-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "有一單質子弱酸（HX）的鈉鹽 NaX，已知 0.20 M 的 NaX 溶液之 pH 值為 10。現擬以 HX 和 NaX 混合配製 pH 值為 6.0 的緩衝溶液，則此緩衝溶液中 $\\dfrac{[\\text{X}^-]}{[\\text{HX}]}$ 的比值最接近下列哪一數字？",
+    "options": [
+      "0.20",
+      "0.50",
+      "1.0",
+      "2.0",
+      "5.0"
+    ],
+    "answerIndex": 0,
+    "explanation": "【由鹽的 pH 求 Ka】\nNaX 溶液 pH 10，$[\\text{OH}^-] = 10^{-4}$ M：$K_b = \\dfrac{(10^{-4})^2}{0.20} = 5\\times10^{-8}$，$K_a = \\dfrac{10^{-14}}{5\\times10^{-8}} = 2\\times10^{-7}$。\n緩衝溶液：$[\\text{H}^+] = K_a\\dfrac{[\\text{HX}]}{[\\text{X}^-]} \\Rightarrow \\dfrac{[\\text{X}^-]}{[\\text{HX}]} = \\dfrac{2\\times10^{-7}}{10^{-6}} = 0.20$\n\n故選 (A)"
+  },
+  {
+    "id": "105-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "以二鉻酸鉀滴定未知濃度的亞鐵離子酸性水溶液時，常以二苯胺磺酸鈉作為指示劑。其中，二苯胺磺酸根離子作為指示劑的變色原理如下式所示（無色的還原態失去 2 個電子成為紫紅色的氧化態）。在此條件下，下列有關（甲）鉻離子、（乙）亞鐵離子與（丙）二苯胺磺酸根離子之間還原力的比較，哪一項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-10.png\" alt=\"二苯胺磺酸根由無色（還原態）氧化為紫紅色，並放出 2H⁺ 與 2e⁻\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲＞乙＞丙",
+      "乙＞丙＞甲",
+      "丙＞甲＞乙",
+      "丙＞乙＞甲",
+      "乙＞甲＞丙"
+    ],
+    "answerIndex": 1,
+    "explanation": "【指示劑的變色時機】\n滴定時二鉻酸根先氧化亞鐵離子；亞鐵離子用完後，多一滴二鉻酸鉀才氧化指示劑而變紫紅色。表示亞鐵離子比指示劑更容易被氧化（還原力：乙＞丙）。\n鉻離子（$\\text{Cr}^{3+}$）是二鉻酸根被還原後的產物，還原力最弱。\n\n故選 (B)"
+  },
+  {
+    "id": "105-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "王同學在定溫下，進行氣體平衡反應的實驗，想利用實驗數據求得反應的平衡常數。所使用的氣體為 $\\text{NO}_2$ 與 $\\text{N}_2\\text{O}_4$，其初始的濃度及經過一段時間後，到達平衡時的濃度如表 1 所示。試問下列哪一數字最接近 $\\text{N}_2\\text{O}_4(g) \\rightleftharpoons 2\\text{NO}_2(g)$ 反應的平衡常數？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-11.png\" alt=\"表1 四次實驗的 NO2、N2O4 初始濃度與平衡濃度\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "11.7",
+      "7.56",
+      "$9.7\\times10^{-1}$",
+      "$8.5\\times10^{-2}$",
+      "$4.7\\times10^{-3}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【平衡常數只看平衡濃度】\n$K_c = \\dfrac{[\\text{NO}_2]^2}{[\\text{N}_2\\text{O}_4]}$，用平衡濃度：\n實驗 1：$\\dfrac{0.055^2}{0.64} \\approx 4.7\\times10^{-3}$；實驗 2：$\\dfrac{0.046^2}{0.45} \\approx 4.7\\times10^{-3}$；實驗 3：$\\dfrac{0.048^2}{0.49} \\approx 4.7\\times10^{-3}$。\n\n故選 (E)"
+  },
+  {
+    "id": "105-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "圖 2 為一級反應 A→B 的反應物濃度與時間的關係圖。圖 3 為反應速率與反應物濃度的關係圖。試問哪兩條關係線能正確描述此一級反應？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-12.png\" alt=\"圖2 [A] 對時間的甲、乙、丙三條線；圖3 Δ[A]/Δt 對 [A] 的戊、己、庚三條線\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲與己",
+      "乙與庚",
+      "丙與戊",
+      "丙與己",
+      "甲與庚"
+    ],
+    "answerIndex": 3,
+    "explanation": "【一級反應】\n• 一級反應的濃度隨時間指數衰減，先快後慢：丙。\n• 速率與濃度成正比：$\\dfrac{\\Delta[\\text{A}]}{\\Delta t} = -k[\\text{A}]$，縱軸是 $\\dfrac{\\Delta[\\text{A}]}{\\Delta t}$（負值），[A] 愈大其值愈負，成一條斜率為負的直線：己。\n\n故選 (D)"
+  },
+  {
+    "id": "105-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "圖 4 中甲、乙、丙三條曲線，為氣體分子的運動速率與相對分子數目的分布關係。若根據圖 4，則下列敘述，哪一項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-13.png\" alt=\"圖4 速率分布：甲峰最高最靠左、丙最平最靠右\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "若曲線代表三種不同氣體分子，在同溫下的分子運動速率分布，則丙的平均動能最大",
+      "若曲線代表三種不同氣體分子，在同溫下的分子運動速率分布，則甲一定是雙原子分子",
+      "若曲線代表三種不同氣體分子，在同溫下的分子運動速率分布，則平均速率的大小依序為甲＞乙＞丙",
+      "若曲線代表氦氣在三種不同溫度的分子運動速率分布，則甲的平均動能最高",
+      "若曲線代表氦氣在三種不同溫度的分子運動速率分布，則甲的溫度最低"
+    ],
+    "answerIndex": 4,
+    "explanation": "【馬克士威速率分布】\n• 同溫時平均動能都相同，(A) 錯；甲速率最慢、分子量最大，但不能斷定是雙原子，(B) 錯；平均速率丙＞乙＞甲，(C) 錯。\n• 同一氣體不同溫度：溫度愈低分布愈集中在低速，甲溫度最低、平均動能最低，(E) 正確、(D) 錯。\n\n故選 (E)"
+  },
+  {
+    "id": "105-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列反應是製造氫氣的重要方法之一：\n$\\text{CH}_4(g) + \\text{H}_2\\text{O}(g) \\rightleftharpoons \\text{CO}(g) + 3\\text{H}_2(g)$（Ni 催化，700 K），$\\Delta H < 0$\n當反應達平衡後，若改變此反應的條件，則下列有關反應平衡位置移動的敘述，哪一個正確？",
+    "options": [
+      "增加壓力，平衡向產物方向移動",
+      "將溫度提高，平衡向反應物方向移動",
+      "加入鈍氣，平衡向反應物方向移動",
+      "增加 Ni 的量，平衡向反應物方向移動",
+      "將 $\\text{H}_2\\text{O}(g)$ 完全移除，不會改變平衡位置"
+    ],
+    "answerIndex": 1,
+    "explanation": "【勒沙特列原理】\n• (A) 錯：反應物 2 mol 氣體 → 產物 4 mol，加壓使平衡向氣體莫耳數少的反應物方向移動。\n• (B) 正確：題目給 $\\Delta H < 0$（放熱），升溫使平衡向吸熱方向（反應物方向）移動。\n• (C) 錯：定容下加入鈍氣，各成分分壓不變，平衡不移動。\n• (D) 錯：催化劑不影響平衡位置。\n• (E) 錯：移除反應物水蒸氣，平衡向左移。\n\n故選 (B)"
+  },
+  {
+    "id": "105-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關三種化合物 $\\text{CH}_2\\text{O}$、$\\text{C}_2\\text{H}_4\\text{O}_2$（乙酸）和 $\\text{C}_6\\text{H}_{12}\\text{O}_6$（葡萄糖）的敘述，何者正確？",
+    "options": [
+      "三者互為同分異構物",
+      "三者含碳的質量百分率相同",
+      "三者皆可與鋅粉反應，產生氫氣",
+      "三者皆可與斐林試劑反應，產生紅色沉澱",
+      "三者與硝酸銀的氨水溶液反應，均產生銀鏡反應"
+    ],
+    "answerIndex": 1,
+    "explanation": "【實驗式相同】\n三者的實驗式都是 $\\text{CH}_2\\text{O}$，碳的質量百分率都是 $\\dfrac{12}{30} = 40\\%$，(B) 正確。\n• (A) 分子式不同，不是同分異構物。\n• (C) 只有乙酸能與鋅反應產生氫氣。\n• (D)(E) 乙酸不含醛基，不會使斐林試劑產生紅色沉澱，也沒有銀鏡反應。\n\n故選 (B)"
+  },
+  {
+    "id": "105-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列哪一個分子具 $sp^3$ 混成軌域，且其鍵角最小？",
+    "options": [
+      "$\\text{BeCl}_2$",
+      "$\\text{BCl}_3$",
+      "$\\text{CH}_4$",
+      "$\\text{H}_2\\text{O}$",
+      "$\\text{NH}_3$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【混成與鍵角】\n$\\text{BeCl}_2$（sp，180°）、$\\text{BCl}_3$（sp²，120°）不是 sp³。\nsp³ 的分子：$\\text{CH}_4$ 109.5°、$\\text{NH}_3$ 約 107°（一對孤對電子）、$\\text{H}_2\\text{O}$ 約 104.5°（兩對孤對電子，排斥最大），水的鍵角最小。\n\n故選 (D)"
+  },
+  {
+    "id": "105-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "工業上利用電解氧化鋁的方式來製備鋁金屬，若要生產 54 克的鋁金屬約需要多少庫侖的電量？",
+    "options": [
+      "$1.9\\times10^5$",
+      "$2.9\\times10^5$",
+      "$5.8\\times10^5$",
+      "$1.2\\times10^6$",
+      "$1.5\\times10^6$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【法拉第定律】\n$\\text{Al}^{3+} + 3e^- \\to \\text{Al}$。54 克 = 2 mol，需 6 mol 電子：$6\\times96500 \\approx 5.8\\times10^5\\text{ C}$。\n\n故選 (C)"
+  },
+  {
+    "id": "105-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "假設原子序 119 的新元素 Q 為一穩定元素，則根據化學元素的週期性，可預測 Q 的性質。下列有關 Q 的敘述，哪一項正確？（提示：氙與氡的原子序分別為 54 與 86，氙、氡與氦同族）",
+    "options": [
+      "Q 為非金屬元素",
+      "Q 與水反應形成 QOH",
+      "Q 與水反應產生氧氣",
+      "Q 所形成的碳酸鹽，其化學式為 $\\text{QCO}_3$",
+      "Q 形成 $\\text{Q}^-$ 陰離子的電子組態與惰性元素相同"
+    ],
+    "answerIndex": 1,
+    "explanation": "【週期表的推論】\n第 118 號是第七週期的惰性氣體，119 號位於第八週期的第 1 族，是鹼金屬。\n• 鹼金屬與水反應生成 QOH 與氫氣，(B) 正確、(C) 錯。\n• 形成 $\\text{Q}^+$，碳酸鹽為 $\\text{Q}_2\\text{CO}_3$；是金屬元素。\n\n故選 (B)"
+  },
+  {
+    "id": "105-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "將固態碳與氣態二氧化碳在 1.0 升的密閉容器中加熱至 1160 K，可形成一氧化碳。在反應過程中每兩小時測量系統總壓力，如圖 5。反應式如下：\n$\\text{C}(s) + \\text{CO}_2(g) \\rightleftharpoons 2\\text{CO}(g)$\n當反應達成平衡時，仍有固態碳殘留於容器中。假設 $\\text{CO}_2$ 及 CO 均為理想氣體，根據上述資料，則下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-19.png\" alt=\"圖5 總壓力對反應時間：由 5.00 atm 上升，8 小時後維持 8.37 atm\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "反應達成平衡時，$\\text{CO}_2$ 與 CO 的莫耳數比為 1:2",
+      "反應達成平衡時，$\\text{CO}_2$ 與 CO 的總莫耳數為 0.053 莫耳",
+      "反應達成平衡時，CO 的分壓為 3.37 atm",
+      "此反應的平衡常數 $K_p$ 約為 27.9",
+      "若在相同容器中，改注入各 0.0263 莫耳的 $\\text{CO}_2$ 及 CO 的氣體，當反應達成平衡時，$\\text{CO}_2$ 氣體的莫耳數將增加"
+    ],
+    "answerIndex": 3,
+    "explanation": "【由總壓求 Kp】\n起始只有 $\\text{CO}_2$ 5.00 atm。設反應掉 $x$：$P_{\\text{CO}_2} = 5.00 - x$，$P_{\\text{CO}} = 2x$，總壓 $5.00 + x = 8.37 \\Rightarrow x = 3.37$。\n$P_{\\text{CO}} = 6.74$ atm，$P_{\\text{CO}_2} = 1.63$ atm，$K_p = \\dfrac{6.74^2}{1.63} \\approx 27.9$，(D) 正確。\n• (A) 莫耳數比 1.63 : 6.74；(C) CO 分壓 6.74 atm。\n• (B) $n = \\dfrac{PV}{RT} = \\dfrac{8.37\\times1.0}{0.08205\\times1160} \\approx 0.088$ mol。\n• (E) 各 0.0263 mol 相當於各約 2.5 atm，$Q = \\dfrac{2.5^2}{2.5} = 2.5 < K_p$，反應向右進行，$\\text{CO}_2$ 減少。\n\n故選 (D)"
+  },
+  {
+    "id": "105-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列哪一個現象或事實與分子間作用力的大小<u>無關</u>？",
+    "options": [
+      "水滴在玻片上呈現半球形",
+      "$\\text{Br}_2$ 與 ICl 兩者分子量相近，但 ICl 沸點較高",
+      "銀飾在空氣中會慢慢失去光澤",
+      "碘的沸點高於氯的沸點",
+      "正戊烷的沸點比新戊烷高"
+    ],
+    "answerIndex": 2,
+    "explanation": "【分子間作用力】\n• (A) 水的內聚力（氫鍵）大於水與玻片的附著力，形成半球形。\n• (B) ICl 是極性分子，多了偶極力。\n• (D) 碘分子較大、分散力較大。\n• (E) 正戊烷接觸面積大、分散力較大。\n• (C) 銀與空氣中的硫化物反應生成黑色 $\\text{Ag}_2\\text{S}$，是化學變化，與分子間作用力無關。\n\n故選 (C)"
+  },
+  {
+    "id": "105-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列哪些選項中的兩組操作，產生相同的氣體？",
+    "options": [
+      "消毒傷口塗上雙氧水；加熱氯酸鉀與二氧化錳",
+      "檸檬汁加小蘇打；鹽酸滴入大理石",
+      "浴廁清潔劑（鹽酸）加漂白水；金屬鈉加水",
+      "鹽酸滴入鋅粉；電解濃食鹽水陽極產生的氣體",
+      "汽水加食鹽；水滴入電石"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "【常見氣體的製備】\n• (A) 雙氧水分解出 $\\text{O}_2$；$\\text{KClO}_3$ 加熱分解出 $\\text{O}_2$。相同。\n• (B) 酸加碳酸氫鈉、鹽酸加碳酸鈣，都產生 $\\text{CO}_2$。相同。\n• (C) 鹽酸加漂白水產生 $\\text{Cl}_2$；鈉加水產生 $\\text{H}_2$。不同。\n• (D) 鹽酸加鋅產生 $\\text{H}_2$；電解食鹽水陽極產生 $\\text{Cl}_2$。不同。\n• (E) 汽水加食鹽釋出 $\\text{CO}_2$；電石加水產生乙炔。不同。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "105-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在高中化學實驗室，進行滴定或合成等實驗時，下列哪些是安全且正確的實驗操作？",
+    "options": [
+      "進行滴定前，先用去離子水清洗滴定管後，即可將待滴定物倒入管內開始滴定",
+      "在玻璃管上套橡皮管時，可先用水濕潤玻璃管",
+      "氫氧化鈉溶液配製後，可將其置於玻璃瓶中長期存放",
+      "高溫的反應產物，應等其冷卻後，再測量產物質量",
+      "具高揮發性的溶液加熱時，使用水浴法以避免直接加熱造成危險"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "【實驗操作】\n• (A) 錯：水洗後還要以少量待裝溶液潤洗，否則溶液被稀釋。\n• (B) 正確：濕潤可減少摩擦，避免玻璃管斷裂割傷。\n• (C) 錯：強鹼會侵蝕玻璃，應存放於塑膠瓶。\n• (D) 正確：熱的物體會造成對流，使秤量不準，也易燙傷。\n• (E) 正確：水浴加熱溫度不超過 100°C，較安全。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "105-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "將瘦肉精添加於豬隻等動物飼料中，可以促進蛋白質合成，增加動物的瘦肉量，少長脂肪。瘦肉精之一的萊克多巴胺的結構式，如圖 6，分子量為 $301\\text{ g mol}^{-1}$，對於水的溶解度為 $4100\\text{ mg L}^{-1}$。萊克多巴胺原先是研發作為氣喘用藥，但未通過美國食品藥物管理局（FDA）的人體實驗。但允許在飼料中添加，瘦肉精的安全殘留量，則常參考 FDA 標準。下列與瘦肉精相關的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-23.png\" alt=\"圖6 萊克多巴胺的結構：兩個苯酚環以含二級胺與醇羥基的碳鏈相連\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "萊克多巴胺的分子式為 $\\text{C}_{18}\\text{H}_{22}\\text{NO}_3$",
+      "萊克多巴胺的結構具有酚基與胺基",
+      "萊克多巴胺在美國可以少量用於治療氣喘病",
+      "萊克多巴胺對於水的溶解度，比食鹽易溶約 10 倍",
+      "添加 18.5 克的萊克多巴胺於每噸飼料中，其量等於 18.5 ppm"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【有機結構與濃度】\n• (A) 錯：分子式為 $\\text{C}_{18}\\text{H}_{23}\\text{NO}_3$（分子量 301）；含一個 N 的分子，H 數應為奇數。\n• (B) 正確：兩端苯環上的 −OH 為酚基，中間有二級胺。\n• (C) 錯：未通過人體實驗，不能作人用藥物。\n• (D) 錯：4.1 g/L 遠小於食鹽的溶解度（約 360 g/L）。\n• (E) 正確：$\\dfrac{18.5\\text{ g}}{10^6\\text{ g}} = 18.5\\text{ ppm}$。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "105-ast-chem-24",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在某實驗中，先於燒杯內倒入 4 毫升的 0.1 M $[\\text{Ni(H}_2\\text{O)}_6]^{2+}$ 水溶液後，緩緩加入 16 毫升的 0.05 M 的乙二胺（en）水溶液。假設完全反應後，$[\\text{Ni(H}_2\\text{O)}_6]^{2+}$ 與乙二胺皆無剩餘，則產生化合物甲與水。下列有關化合物甲與相關的敘述，哪些正確？（已知乙二胺為雙牙基）",
+    "options": [
+      "含有一個 en 配位基",
+      "含有兩個 $\\text{H}_2\\text{O}$ 配位基",
+      "鎳的氧化數為 +2",
+      "鎳離子的配位數為 4",
+      "反應物 $[\\text{Ni(H}_2\\text{O)}_6]^{2+}$ 具有顏色"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【錯合物的計量】\n$\\text{Ni}^{2+}$：$4\\times0.1 = 0.4$ mmol；en：$16\\times0.05 = 0.8$ mmol，莫耳比 1:2。\n兩個雙牙基 en 占 4 個配位位置，還剩 2 個水：$[\\text{Ni(en)}_2(\\text{H}_2\\text{O})_2]^{2+}$。\n• (A) 錯：兩個 en；(B) 正確。\n• (C) 正確：配位基都是中性分子，Ni 為 +2。\n• (D) 錯：配位數 6。\n• (E) 正確：$[\\text{Ni(H}_2\\text{O)}_6]^{2+}$ 為綠色（d⁸ 過渡金屬離子有顏色）。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "105-ast-chem-25",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在氧化還原滴定實驗中，先用草酸鈉標定過錳酸鉀溶液的濃度，再以標定後的過錳酸鉀溶液測定未知樣品中亞鐵離子的含量。下列有關該實驗的敘述，哪些正確？",
+    "options": [
+      "須精稱乾燥草酸鈉的質量，以得知其準確的莫耳數",
+      "標定後的過錳酸鉀溶液，必須儲存於褐色瓶中，且避免光照",
+      "標定過程中，過錳酸鉀為還原劑，草酸鈉為氧化劑",
+      "在標定過錳酸鉀溶液時，標定一次即可精確求得其濃度，無須進行多次再求平均的方式",
+      "以標定後的過錳酸鉀溶液滴定待測樣品中的亞鐵離子，至溶液淡紫色不消失，即為滴定終點"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "【過錳酸鉀滴定】\n• (A) 正確：草酸鈉是一級標準物，以精確質量求莫耳數。\n• (B) 正確：過錳酸鉀見光易分解，需存於褐色瓶。\n• (C) 錯：過錳酸鉀是氧化劑，草酸鈉是還原劑。\n• (D) 錯：需重複數次取平均以減少誤差。\n• (E) 正確：過錳酸鉀本身為指示劑，稍過量時淡紫色不再消失。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "105-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】張老師給了學生五種水溶液：$\\text{H}_2\\text{SO}_4$、$\\text{NaOH}$、$\\text{CaCl}_2$、$\\text{Cu(NO}_3)_2$、$\\text{Na}_2\\text{CO}_3$ 與一小瓶金屬粉末，請學生以實驗結果表示這些物質之間的關係。學生交了一份報告：如圖 7。圖中的每一連線兩端的物質兩兩相加，均會有明顯的化學反應，其中：\n(1) 連線 1 與連線 9 均會產生氫氣。\n(2) 連線 2 會產生二氧化碳。\n(3) 除了連線 1, 2, 7, 9 以外，其他連線均會產生沉澱。\n(4) 另外，張老師說 X 原子具有 $d^{10}$ 的電子組態，若將 X 溶於稀硝酸後，與硫化鈉溶液作用，亦即 X 離子與硫離子會產生白色沉澱：$\\text{X}^{2+}(aq) + \\text{S}^{2-}(aq) \\to \\text{XS}(s)$\n\n1. 寫出 X 的元素符號。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-non-1.png\" alt=\"圖7 X、Y、Z、U、V、W 六種物質與 1～9 號連線\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "Zn"
+    ],
+    "blankLabels": [
+      "X"
+    ],
+    "acceptedBlanks": [
+      [
+        "鋅",
+        "Zn(s)"
+      ]
+    ],
+    "explanation": "X 是金屬粉末，具 $d^{10}$ 組態、$\\text{X}^{2+}$ 與 $\\text{S}^{2-}$ 生成白色沉澱（ZnS），且能與酸（連線 1）及強鹼（連線 9）都產生氫氣（兩性金屬），所以 X 是鋅 Zn。"
+  },
+  {
+    "id": "105-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】張老師給了學生五種水溶液：$\\text{H}_2\\text{SO}_4$、$\\text{NaOH}$、$\\text{CaCl}_2$、$\\text{Cu(NO}_3)_2$、$\\text{Na}_2\\text{CO}_3$ 與一小瓶金屬粉末，請學生以實驗結果表示這些物質之間的關係。學生交了一份報告：如圖 7。圖中的每一連線兩端的物質兩兩相加，均會有明顯的化學反應，其中：\n(1) 連線 1 與連線 9 均會產生氫氣。\n(2) 連線 2 會產生二氧化碳。\n(3) 除了連線 1, 2, 7, 9 以外，其他連線均會產生沉澱。\n(4) 另外，張老師說 X 原子具有 $d^{10}$ 的電子組態，若將 X 溶於稀硝酸後，與硫化鈉溶液作用，亦即 X 離子與硫離子會產生白色沉澱：$\\text{X}^{2+}(aq) + \\text{S}^{2-}(aq) \\to \\text{XS}(s)$\n\n2. 寫出 Y 的中文名稱。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-non-1.png\" alt=\"圖7 X、Y、Z、U、V、W 六種物質與 1～9 號連線\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "硫酸"
+    ],
+    "blankLabels": [
+      "Y"
+    ],
+    "acceptedBlanks": [
+      [
+        "H2SO4",
+        "稀硫酸"
+      ]
+    ],
+    "explanation": "Y 與 Zn 產生氫氣（連線 1）、與 Z 產生 $\\text{CO}_2$（連線 2，Z 為 $\\text{Na}_2\\text{CO}_3$），所以 Y 是酸：硫酸。\n推得其餘：V 為 NaOH（與 Zn 產生氫氣、與 Y 中和無沉澱）、W 為 $\\text{CaCl}_2$（與 $\\text{Na}_2\\text{CO}_3$ 生成 $\\text{CaCO}_3$、與硫酸生成 $\\text{CaSO}_4$）、U 為 $\\text{Cu(NO}_3)_2$（與 NaOH 生成 $\\text{Cu(OH)}_2$、與 Zn 置換出 Cu）。"
+  },
+  {
+    "id": "105-ast-chem-non-1-3",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】張老師給了學生五種水溶液：$\\text{H}_2\\text{SO}_4$、$\\text{NaOH}$、$\\text{CaCl}_2$、$\\text{Cu(NO}_3)_2$、$\\text{Na}_2\\text{CO}_3$ 與一小瓶金屬粉末，請學生以實驗結果表示這些物質之間的關係。學生交了一份報告：如圖 7。圖中的每一連線兩端的物質兩兩相加，均會有明顯的化學反應，其中：\n(1) 連線 1 與連線 9 均會產生氫氣。\n(2) 連線 2 會產生二氧化碳。\n(3) 除了連線 1, 2, 7, 9 以外，其他連線均會產生沉澱。\n(4) 另外，張老師說 X 原子具有 $d^{10}$ 的電子組態，若將 X 溶於稀硝酸後，與硫化鈉溶液作用，亦即 X 離子與硫離子會產生白色沉澱：$\\text{X}^{2+}(aq) + \\text{S}^{2-}(aq) \\to \\text{XS}(s)$\n\n3. 寫出連線 3 反應的離子反應式，並註明各物質的狀態。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-non-1.png\" alt=\"圖7 X、Y、Z、U、V、W 六種物質與 1～9 號連線\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{Ca}^{2+}(aq) + \\text{CO}_3^{2-}(aq) \\to \\text{CaCO}_3(s)$"
+    ],
+    "blankLabels": [
+      "離子反應式"
+    ],
+    "explanation": "連線 3 為 Z（$\\text{Na}_2\\text{CO}_3$）與 W（$\\text{CaCl}_2$），生成白色碳酸鈣沉澱。寫成完整反應式 $\\text{CaCl}_2(aq) + \\text{Na}_2\\text{CO}_3(aq) \\to \\text{CaCO}_3(s) + 2\\text{NaCl}(aq)$ 亦可。"
+  },
+  {
+    "id": "105-ast-chem-non-1-4",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】張老師給了學生五種水溶液：$\\text{H}_2\\text{SO}_4$、$\\text{NaOH}$、$\\text{CaCl}_2$、$\\text{Cu(NO}_3)_2$、$\\text{Na}_2\\text{CO}_3$ 與一小瓶金屬粉末，請學生以實驗結果表示這些物質之間的關係。學生交了一份報告：如圖 7。圖中的每一連線兩端的物質兩兩相加，均會有明顯的化學反應，其中：\n(1) 連線 1 與連線 9 均會產生氫氣。\n(2) 連線 2 會產生二氧化碳。\n(3) 除了連線 1, 2, 7, 9 以外，其他連線均會產生沉澱。\n(4) 另外，張老師說 X 原子具有 $d^{10}$ 的電子組態，若將 X 溶於稀硝酸後，與硫化鈉溶液作用，亦即 X 離子與硫離子會產生白色沉澱：$\\text{X}^{2+}(aq) + \\text{S}^{2-}(aq) \\to \\text{XS}(s)$\n\n4. 寫出連線 6 反應的離子反應式，並註明各物質的狀態。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-non-1.png\" alt=\"圖7 X、Y、Z、U、V、W 六種物質與 1～9 號連線\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{Zn}(s) + \\text{Cu}^{2+}(aq) \\to \\text{Zn}^{2+}(aq) + \\text{Cu}(s)$"
+    ],
+    "blankLabels": [
+      "離子反應式"
+    ],
+    "explanation": "連線 6 為 X（Zn）與 U（$\\text{Cu(NO}_3)_2$），鋅的活性大於銅，置換出銅（紅色固體析出）。"
+  },
+  {
+    "id": "105-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】在 500 mL 的平底燒瓶內，倒入濃度均為 2% 的葡萄糖與氫氧化鈉的水溶液各 150 mL，然後滴入亞甲藍液（氧化還原指示劑）數滴，亦即燒瓶並沒裝滿溶液。蓋緊瓶蓋後搖一搖燒瓶，溶液立即呈現藍色，如圖 8 的 (a)。然後操作下列實驗：\n(1) 將藍色溶液的燒瓶靜置於桌上，數分鐘後溶液變為無色透明，如圖 8 的 (b) 所示。這是「亞甲藍」還原為「無色亞甲藍」。\n(2) 搖動燒瓶 (b) 無色亞甲藍溶液數次後，溶液立即變回藍色，在此過程中，不見有任何氣泡。\n如此上述實驗 (1) 與 (2)，可輪流操作，溶液會由藍色變為無色，再由無色變為藍色。\n\n1. 寫出實驗 (1) 還原反應的還原劑。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-non-2.png\" alt=\"圖8 藍瓶實驗：靜置變無色、搖動變藍色\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "葡萄糖"
+    ],
+    "blankLabels": [
+      "還原劑"
+    ],
+    "acceptedBlanks": [
+      [
+        "C6H12O6"
+      ]
+    ],
+    "explanation": "靜置時，鹼性溶液中的葡萄糖（具醛基，為還原糖）把藍色亞甲藍還原為無色亞甲藍。"
+  },
+  {
+    "id": "105-ast-chem-non-2-2",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】在 500 mL 的平底燒瓶內，倒入濃度均為 2% 的葡萄糖與氫氧化鈉的水溶液各 150 mL，然後滴入亞甲藍液（氧化還原指示劑）數滴，亦即燒瓶並沒裝滿溶液。蓋緊瓶蓋後搖一搖燒瓶，溶液立即呈現藍色，如圖 8 的 (a)。然後操作下列實驗：\n(1) 將藍色溶液的燒瓶靜置於桌上，數分鐘後溶液變為無色透明，如圖 8 的 (b) 所示。這是「亞甲藍」還原為「無色亞甲藍」。\n(2) 搖動燒瓶 (b) 無色亞甲藍溶液數次後，溶液立即變回藍色，在此過程中，不見有任何氣泡。\n如此上述實驗 (1) 與 (2)，可輪流操作，溶液會由藍色變為無色，再由無色變為藍色。\n\n2. 寫出實驗 (2)，當搖動燒瓶，使無色亞甲藍氧化為藍色亞甲藍反應的氧化劑。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-non-2.png\" alt=\"圖8 藍瓶實驗：靜置變無色、搖動變藍色\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "氧氣"
+    ],
+    "blankLabels": [
+      "氧化劑"
+    ],
+    "acceptedBlanks": [
+      [
+        "O2",
+        "氧",
+        "空氣中的氧",
+        "空氣中的氧氣"
+      ]
+    ],
+    "explanation": "燒瓶沒有裝滿，上方有空氣。搖動時空氣中的氧氣溶入溶液，把無色亞甲藍氧化回藍色（沒有氣泡產生，表示是溶入的氧在反應）。"
+  },
+  {
+    "id": "105-ast-chem-non-3-1",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】本題為化學在醫藥上偉大貢獻的實例。2015 年諾貝爾生醫獎頒給青蒿素的研究，因其是現今抗瘧疾最佳的藥物。化學家自傳統的中藥材黃花蒿中提取出青蒿素，並以其為起始物製成一系列衍生物，以獲得更高藥效。青蒿素的化學構造如圖 9 之 A 化合物，其具有藥效的主因是含有一種罕見於天然物的官能基。將青蒿素 A 在特定的條件下進行加氫還原，可得到二氫青蒿素 B。若將化合物 B 與試劑甲在適當條件下進行酯化反應，可得到化合物 C。另一方面，若將化合物 B 與試劑乙在適當條件下進行反應，可得到化合物 D。使用青蒿素及這些衍生物的聯合療法，就成為現今全世界治療惡性瘧原蟲瘧疾的標準方法。\n\n1. 畫出青蒿素構造中的一個罕見於天然物，且較不穩定的化學鍵。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-non-3.png\" alt=\"圖9 青蒿素 A、二氫青蒿素 B 及其衍生物 C、D 的結構\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "過氧鍵：−O−O−（−C−O−O−C−）"
+    ],
+    "blankLabels": [
+      "化學鍵"
+    ],
+    "explanation": "青蒿素結構中有一個含 O−O 單鍵的過氧橋（內過氧化物），這種過氧鍵在天然物中很少見且不穩定，是青蒿素殺死瘧原蟲的關鍵。"
+  },
+  {
+    "id": "105-ast-chem-non-3-2",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】本題為化學在醫藥上偉大貢獻的實例。2015 年諾貝爾生醫獎頒給青蒿素的研究，因其是現今抗瘧疾最佳的藥物。化學家自傳統的中藥材黃花蒿中提取出青蒿素，並以其為起始物製成一系列衍生物，以獲得更高藥效。青蒿素的化學構造如圖 9 之 A 化合物，其具有藥效的主因是含有一種罕見於天然物的官能基。將青蒿素 A 在特定的條件下進行加氫還原，可得到二氫青蒿素 B。若將化合物 B 與試劑甲在適當條件下進行酯化反應，可得到化合物 C。另一方面，若將化合物 B 與試劑乙在適當條件下進行反應，可得到化合物 D。使用青蒿素及這些衍生物的聯合療法，就成為現今全世界治療惡性瘧原蟲瘧疾的標準方法。\n\n2. 寫出由青蒿素 A 製備二氫青蒿素 B，青蒿素 A 中被還原的官能基名稱。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-non-3.png\" alt=\"圖9 青蒿素 A、二氫青蒿素 B 及其衍生物 C、D 的結構\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "酯基"
+    ],
+    "blankLabels": [
+      "官能基"
+    ],
+    "acceptedBlanks": [
+      [
+        "酯",
+        "內酯",
+        "內酯基"
+      ]
+    ],
+    "explanation": "比較 A 與 B：A 中的 C=O（環狀酯，內酯）在 B 中變成 C−OH（半縮醛），被還原的是酯基中的羰基；過氧鍵保留未變。"
+  },
+  {
+    "id": "105-ast-chem-non-3-3",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】本題為化學在醫藥上偉大貢獻的實例。2015 年諾貝爾生醫獎頒給青蒿素的研究，因其是現今抗瘧疾最佳的藥物。化學家自傳統的中藥材黃花蒿中提取出青蒿素，並以其為起始物製成一系列衍生物，以獲得更高藥效。青蒿素的化學構造如圖 9 之 A 化合物，其具有藥效的主因是含有一種罕見於天然物的官能基。將青蒿素 A 在特定的條件下進行加氫還原，可得到二氫青蒿素 B。若將化合物 B 與試劑甲在適當條件下進行酯化反應，可得到化合物 C。另一方面，若將化合物 B 與試劑乙在適當條件下進行反應，可得到化合物 D。使用青蒿素及這些衍生物的聯合療法，就成為現今全世界治療惡性瘧原蟲瘧疾的標準方法。\n\n3. 寫出由化合物 B 製備得到化合物 C，所加入試劑甲的化學名稱。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-non-3.png\" alt=\"圖9 青蒿素 A、二氫青蒿素 B 及其衍生物 C、D 的結構\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "己二酸"
+    ],
+    "blankLabels": [
+      "試劑甲"
+    ],
+    "acceptedBlanks": [
+      [
+        "1,6-己二酸",
+        "1,6己二酸",
+        "adipicacid"
+      ]
+    ],
+    "explanation": "C 的側鏈為 $-\\text{O}-\\text{CO}-(\\text{CH}_2)_4-\\text{COOH}$：B 的 −OH 與一個六碳二元酸的其中一個羧基酯化，所以試劑甲是己二酸 $\\text{HOOC}(\\text{CH}_2)_4\\text{COOH}$。"
+  },
+  {
+    "id": "105-ast-chem-non-3-4",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】本題為化學在醫藥上偉大貢獻的實例。2015 年諾貝爾生醫獎頒給青蒿素的研究，因其是現今抗瘧疾最佳的藥物。化學家自傳統的中藥材黃花蒿中提取出青蒿素，並以其為起始物製成一系列衍生物，以獲得更高藥效。青蒿素的化學構造如圖 9 之 A 化合物，其具有藥效的主因是含有一種罕見於天然物的官能基。將青蒿素 A 在特定的條件下進行加氫還原，可得到二氫青蒿素 B。若將化合物 B 與試劑甲在適當條件下進行酯化反應，可得到化合物 C。另一方面，若將化合物 B 與試劑乙在適當條件下進行反應，可得到化合物 D。使用青蒿素及這些衍生物的聯合療法，就成為現今全世界治療惡性瘧原蟲瘧疾的標準方法。\n\n4. 化合物 D 的分子中，具有多少個三級碳。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-chem-non-3.png\" alt=\"圖9 青蒿素 A、二氫青蒿素 B 及其衍生物 C、D 的結構\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "5"
+    ],
+    "blankLabels": [
+      "三級碳數目"
+    ],
+    "acceptedBlanks": [
+      [
+        "5個",
+        "五"
+      ]
+    ],
+    "explanation": "三級碳是與 3 個碳原子相連的碳。在 D 的骨架中，環上帶有甲基的碳與環接合處的碳等共 5 個符合（連接氧原子的碳不算入碳–碳鍵數）。"
   }
 ]
