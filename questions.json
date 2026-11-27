@@ -56325,5 +56325,391 @@
       "36"
     ],
     "explanation": "• 半圓 $QRT$ 面積 $= \\dfrac12\\pi(\\sqrt3)^2 = \\dfrac{3\\pi}{2}$。\n• 圓 $P$（半徑 2）中弦 $\\overline{QT} = 2\\sqrt3$ 所對圓心角 $120^\\circ$，弦與弧 $QST$ 所圍弓形面積 $= \\dfrac12\\cdot4\\cdot\\dfrac{2\\pi}{3} - \\dfrac12\\cdot4\\cdot\\sin120^\\circ = \\dfrac{4\\pi}{3} - \\sqrt3$。\n• 灰色 $= \\dfrac{3\\pi}{2} - \\dfrac{4\\pi}{3} + \\sqrt3 = \\dfrac{\\pi}{6} + \\sqrt3$，$a = \\dfrac16$、$b = 3$。"
+  },
+  {
+    "id": "108-gsat-math-01",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "points": 5,
+    "question": "1. 點 $A(1, 0)$ 在單位圓 $\\Gamma: x^2 + y^2 = 1$ 上。試問：$\\Gamma$ 上除了 $A$ 點以外，還有幾個點到直線 $L: y = 2x$ 的距離，等於 $A$ 點到 $L$ 的距離？",
+    "options": [
+      "1 個",
+      "2 個",
+      "3 個",
+      "4 個",
+      "0 個"
+    ],
+    "answerIndex": 2,
+    "explanation": "$A$ 到 $L$ 的距離 $\\dfrac{2}{\\sqrt5}$。到 $L$ 距離為 $\\dfrac{2}{\\sqrt5}$ 的點在兩條平行線 $2x - y = \\pm2$ 上，它們到原點的距離 $\\dfrac{2}{\\sqrt5} < 1$，各與單位圓交於 2 點，共 4 點，扣掉 $A$ 剩 3 個。\n\n故選 (C)"
+  },
+  {
+    "id": "108-gsat-math-02",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "points": 5,
+    "question": "2. 下列哪一個選項是方程式 $x^3 - x^2 + 4x - 4 = 0$ 的解？（註：$i = \\sqrt{-1}$）",
+    "options": [
+      "$-2i$",
+      "$-i$",
+      "$i$",
+      "2",
+      "4"
+    ],
+    "answerIndex": 0,
+    "explanation": "$x^2(x - 1) + 4(x - 1) = (x - 1)(x^2 + 4)$，根為 $1, \\pm2i$。\n\n故選 (A)"
+  },
+  {
+    "id": "108-gsat-math-03",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "points": 5,
+    "question": "3. 試問共有多少組正整數 $(k, m, n)$ 滿足 $2^k4^m8^n = 512$？",
+    "options": [
+      "1 組",
+      "2 組",
+      "3 組",
+      "4 組",
+      "0 組"
+    ],
+    "answerIndex": 2,
+    "explanation": "$k + 2m + 3n = 9$：$n = 1$ 時 $k + 2m = 6$，$(k, m) = (4, 1), (2, 2)$；$n = 2$ 時 $k + 2m = 3$，$(1, 1)$。共 3 組。\n\n故選 (C)"
+  },
+  {
+    "id": "108-gsat-math-04",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "points": 5,
+    "question": "4. 廚師買了豬、雞、牛三種肉類食材以及白菜、豆腐、香菇三種素類食材。若廚師想用完這六種食材作三道菜，每道菜可以只用一種食材或用多種食材，但每種食材只能使用一次，且每道菜一定要有肉，試問食材的分配共有幾種方法？",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "18",
+      "27"
+    ],
+    "answerIndex": 4,
+    "explanation": "三道菜都要有肉、肉只有三種，所以每道菜恰好一種肉（三道菜就以肉來區分）。三種素料各自選擇放進哪一道菜：$3^3 = 27$ 種。\n\n故選 (E)"
+  },
+  {
+    "id": "108-gsat-math-05",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "points": 5,
+    "question": "5. 設正實數 $b$ 滿足 $(\\log100)(\\log b) + \\log100 + \\log b = 7$。試選出正確的選項。",
+    "options": [
+      "$1 \\le b \\le \\sqrt{10}$",
+      "$\\sqrt{10} \\le b \\le 10$",
+      "$10 \\le b \\le 10\\sqrt{10}$",
+      "$10\\sqrt{10} \\le b \\le 100$",
+      "$100 \\le b \\le 100\\sqrt{10}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "$2\\log b + 2 + \\log b = 7 \\implies \\log b = \\dfrac53 \\approx 1.67$，介於 $\\log(10\\sqrt{10}) = 1.5$ 與 $\\log100 = 2$ 之間。\n\n故選 (D)"
+  },
+  {
+    "id": "108-gsat-math-06",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "points": 5,
+    "question": "6. 某超商依據過去的銷售紀錄，冬天平均氣溫在 6°C 到 24°C 時，每日平均售出的咖啡數量與當天的平均氣溫之相關係數為 −0.99，部分紀錄如下：平均氣溫 11、13、15、17、19、21°C 時，平均售出量依序為 512、437、361、279、203、135 杯。某日平均氣溫為 8°C，依據上述資訊推測，試問該日賣出的咖啡數量應接近下列哪一個選項？",
+    "options": [
+      "570 杯",
+      "625 杯",
+      "700 杯",
+      "755 杯",
+      "800 杯"
+    ],
+    "answerIndex": 1,
+    "explanation": "相關係數接近 $-1$，可用迴歸直線推估。$\\bar x = 16$、$\\bar y \\approx 321.2$，\n$$\\text{斜率} = \\frac{\\sum(x - \\bar x)y}{\\sum(x - \\bar x)^2} = \\frac{-2669}{70} \\approx -38.1$$\n8°C 時約 $321.2 + 38.1\\times8 \\approx 626$ 杯，最接近 625。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-math-07",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "7. 設各項都是實數的等差數列 $a_1, a_2, a_3, \\ldots$ 之公差為正實數 $\\alpha$。試選出正確的選項。",
+    "options": [
+      "若 $b_n = -a_n$，則 $b_1 > b_2 > b_3 > \\cdots$",
+      "若 $c_n = a_n^2$，則 $c_1 < c_2 < c_3 < \\cdots$",
+      "若 $d_n = a_n + a_{n+1}$，則 $d_1, d_2, d_3, \\ldots$ 是公差為 $\\alpha$ 的等差數列",
+      "若 $e_n = a_n + n$，則 $e_1, e_2, e_3, \\ldots$ 是公差為 $\\alpha + 1$ 的等差數列",
+      "若 $f_n$ 為 $a_1, a_2, \\ldots, a_n$ 的算術平均數，則 $f_1, f_2, f_3, \\ldots$ 是公差為 $\\alpha$ 的等差數列"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "• (A) 正確：$b_{n+1} - b_n = -\\alpha < 0$。\n• (B) 錯誤：例如 $a_n$ 由 $-3, -2, -1$ 開始，平方遞減。\n• (C) 錯誤：$d_{n+1} - d_n = 2\\alpha$。\n• (D) 正確：$e_{n+1} - e_n = \\alpha + 1$。\n• (E) 錯誤：$f_n = a_1 + \\dfrac{(n-1)\\alpha}{2}$，公差 $\\dfrac\\alpha2$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "108-gsat-math-08",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 在數線上，甲從點 $-8$ 開始做等速運動，同時乙也從點 10 開始做等速運動，乙移動的速率是甲的 $a$ 倍，且 $a > 1$。試選出正確的選項。",
+    "options": [
+      "若甲朝負向移動而乙朝正向移動，則他們會相遇",
+      "若甲朝負向移動且乙朝負向移動，則他們不會相遇",
+      "若甲朝正向移動而乙朝負向移動，則乙先到達原點 0",
+      "若甲朝正向移動且乙朝正向移動，則他們之間的距離會越來越大",
+      "若甲朝正向移動而乙朝負向移動，且他們在點 $-2$ 相遇，則 $a = 2$"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "• (A) 錯誤：背向而行，越離越遠。\n• (B) 錯誤：都往負向，乙在後面且較快，會追上甲。\n• (C) 錯誤：甲需 $\\dfrac8v$、乙需 $\\dfrac{10}{av}$，乙先到 $\\iff a > 1.25$，不一定。\n• (D) 正確：乙在前面且較快。\n• (E) 正確：相遇時甲走 6、乙走 12，$a = 2$。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "108-gsat-math-09",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 從 1, 2, 3, 4, 5, 6, 7 這七個數字中隨機任取兩數。試選出正確的選項。",
+    "options": [
+      "其和大於 10 的機率為 $\\dfrac17$",
+      "其和小於 5 的機率為 $\\dfrac17$",
+      "其和為奇數的機率為 $\\dfrac47$",
+      "其差為偶數的機率為 $\\dfrac57$",
+      "其積為奇數的機率為 $\\dfrac27$"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "共 $C^7_2 = 21$ 種；奇數 4 個、偶數 3 個。\n• (A) 錯誤：和 $> 10$：$(4,7), (5,6), (5,7), (6,7)$，$\\dfrac{4}{21}$。\n• (B) 錯誤：和 $< 5$：$(1,2), (1,3)$，$\\dfrac{2}{21}$。\n• (C) 正確：一奇一偶 $4\\times3 = 12$，$\\dfrac{12}{21} = \\dfrac47$。\n• (D) 錯誤：同奇偶 $6 + 3 = 9$，$\\dfrac37$。\n• (E) 正確：兩奇 $C^4_2 = 6$，$\\dfrac27$。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "108-gsat-math-10",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 在 $\\triangle ABC$ 中，已知 $50^\\circ \\le \\angle A < \\angle B \\le 60^\\circ$。試選出正確的選項。",
+    "options": [
+      "$\\sin A < \\sin B$",
+      "$\\sin B < \\sin C$",
+      "$\\cos A < \\cos B$",
+      "$\\sin C < \\cos C$",
+      "$\\overline{AB} < \\overline{BC}$"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "$C = 180^\\circ - A - B$，由 $A < 60^\\circ$、$B \\le 60^\\circ$ 得 $C > 60^\\circ$；$A \\ge 50^\\circ$、$B > 50^\\circ$ 得 $C < 80^\\circ$。\n• (A) 正確：$A < B$ 都是銳角。\n• (B) 正確：$B \\le 60^\\circ < C < 80^\\circ$。\n• (C) 錯誤：$\\cos A > \\cos B$。\n• (D) 錯誤：$C > 45^\\circ$，$\\sin C > \\cos C$。\n• (E) 錯誤：$\\overline{AB}$ 對 $C$、$\\overline{BC}$ 對 $A$，$C > A$，$\\overline{AB} > \\overline{BC}$。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "108-gsat-math-11",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 某地區衛生機構成功訪問了 500 人，其中年齡為 50−59 歲及 60 歲（含）以上者分別有 220 名及 280 名。這 500 名受訪者中，120 名曾做過大腸癌篩檢，其中有 75 名是在一年之前做的，有 45 名是在一年之內做的。已知受訪者中，60 歲（含）以上者曾做過大腸癌篩檢比率是 50−59 歲者曾做過大腸癌篩檢比率的 3.5 倍。試選出正確的選項。",
+    "options": [
+      "受訪者中年齡為 60 歲（含）以上者超過 60%",
+      "由受訪者中隨機抽取兩人，此兩人的年齡皆落在 50−59 歲間的機率大於 0.25",
+      "由曾做過大腸癌篩檢的受訪者中隨機抽取兩人，其中一人在一年之內受檢而另一人在一年之前受檢的機率為 $2\\cdot\\left(\\dfrac{45}{120}\\right)\\left(\\dfrac{75}{119}\\right)$",
+      "這 500 名受訪者中，未曾做過大腸癌篩檢的比率低於 75%",
+      "受訪者中 60 歲（含）以上者，曾做過大腸癌篩檢的人數超過 90 名"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "設 50−59 歲篩檢率 $x$：$220x + 280\\cdot3.5x = 1200x = 120$，$x = 0.1$。\n• (A) 錯誤：$\\dfrac{280}{500} = 56\\%$。\n• (B) 錯誤：$\\dfrac{220\\cdot219}{500\\cdot499} \\approx 0.193$。\n• (C) 正確：$\\dfrac{45\\times75}{C^{120}_2} = \\dfrac{2\\cdot45\\cdot75}{120\\cdot119}$。\n• (D) 錯誤：$\\dfrac{380}{500} = 76\\%$。\n• (E) 正確：$280\\times0.35 = 98$。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "108-gsat-math-12",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 設 $f_1(x), f_2(x)$ 為實係數三次多項式，$g(x)$ 為實係數二次多項式。已知 $f_1(x), f_2(x)$ 除以 $g(x)$ 的餘式分別為 $r_1(x), r_2(x)$。試選出正確的選項。",
+    "options": [
+      "$-f_1(x)$ 除以 $g(x)$ 的餘式為 $-r_1(x)$",
+      "$f_1(x) + f_2(x)$ 除以 $g(x)$ 的餘式為 $r_1(x) + r_2(x)$",
+      "$f_1(x)f_2(x)$ 除以 $g(x)$ 的餘式為 $r_1(x)r_2(x)$",
+      "$f_1(x)$ 除以 $-3g(x)$ 的餘式為 $\\dfrac{-1}{3}r_1(x)$",
+      "$f_1(x)r_2(x) - f_2(x)r_1(x)$ 可被 $g(x)$ 整除"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "$f_1 = q_1g + r_1$、$f_2 = q_2g + r_2$，$\\deg r_i \\le 1$。\n• (A)(B) 正確：餘式次數仍小於 2。\n• (C) 錯誤：$r_1r_2$ 可能是二次式，次數不小於除式。\n• (D) 錯誤：$f_1 = \\left(-\\dfrac{q_1}{3}\\right)(-3g) + r_1$，餘式仍是 $r_1$。\n• (E) 正確：$f_1r_2 - f_2r_1 = (q_1r_2 - q_2r_1)g + (r_1r_2 - r_2r_1)$，餘式為 0。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "108-gsat-math-13",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "13. 坐標空間中有一平面 $P$ 過 $(0, 0, 0)$、$(1, 2, 3)$ 及 $(-1, 2, 3)$ 三點。試選出正確的選項。",
+    "options": [
+      "向量 $(0, 3, 2)$ 與平面 $P$ 垂直",
+      "平面 $P$ 與 $xy$ 平面垂直",
+      "點 $(0, 4, 6)$ 在平面 $P$ 上",
+      "平面 $P$ 包含 $x$ 軸",
+      "點 $(1, 1, 1)$ 到平面 $P$ 的距離是 1"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "法向量 $(1, 2, 3)\\times(-1, 2, 3) = (0, -6, 4) \\parallel (0, 3, -2)$，$P: 3y - 2z = 0$。\n• (A) 錯誤：$(0, 3, 2)$ 不平行於法向量。\n• (B) 錯誤：$(0, 3, -2)\\cdot(0, 0, 1) \\ne 0$。\n• (C) 正確：$12 - 12 = 0$。\n• (D) 正確：方程式不含 $x$ 且過原點，$x$ 軸 $(t, 0, 0)$ 都在 $P$ 上。\n• (E) 錯誤：$\\dfrac{|3 - 2|}{\\sqrt{13}} = \\dfrac{1}{\\sqrt{13}}$。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "108-gsat-math-A",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 設 $x, y$ 為實數，且滿足 $\\begin{bmatrix} 3 & -1 & 3 \\\\ 2 & 4 & -1 \\end{bmatrix}\\begin{bmatrix} x \\\\ y \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} 6 \\\\ -6 \\end{bmatrix}$，則 $x + 3y =$ ⑭⑮。",
+    "blanks": [
+      "-",
+      "4"
+    ],
+    "blankLabels": [
+      "14",
+      "15"
+    ],
+    "explanation": "$3x - y = 3$、$2x + 4y = -5$。解得 $x = \\dfrac{1}{2}$、$y = -\\dfrac{3}{2}$，$x + 3y = \\dfrac12 - \\dfrac92 = -4$。"
+  },
+  {
+    "id": "108-gsat-math-B",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 如圖（此為示意圖），$A, B, C, D$ 是橢圓 $\\dfrac{x^2}{a^2} + \\dfrac{y^2}{16} = 1$ 的頂點。若四邊形 $ABCD$ 的面積為 58，則 $a = \\dfrac{⑯⑰}{⑱}$。（化為最簡分數）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-gsat-math-B.png\" alt=\"橢圓與四個頂點 A、B、C、D 連成的菱形\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "2",
+      "9",
+      "4"
+    ],
+    "blankLabels": [
+      "16",
+      "17",
+      "18"
+    ],
+    "explanation": "菱形對角線長 $2a$ 與 8：面積 $\\dfrac{2a\\cdot8}{2} = 8a = 58$，$a = \\dfrac{29}{4}$。"
+  },
+  {
+    "id": "108-gsat-math-C",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 某高中已有一個長 90 公尺、寬 60 公尺的足球練習場。若想要在足球練習場的外圍鋪設內圈總長度為 400 公尺的跑道，跑道規格為左右兩側各是直徑相同的半圓，而中間是上下各一條的直線跑道，直線跑道與足球練習場的長邊平行（如示意圖）。則圖中一條直線跑道 AB 長度的最大可能整數值為 ⑲⑳㉑ 公尺。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-gsat-math-C.png\" alt=\"足球練習場外圍的跑道：兩側半圓、上下直線\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "1",
+      "0",
+      "5"
+    ],
+    "blankLabels": [
+      "19",
+      "20",
+      "21"
+    ],
+    "explanation": "設直線長 $L$、半圓直徑 $d$：$2L + \\pi d = 400$。練習場寬 60 要放得進，$d \\ge 60$，所以\n$$L = \\frac{400 - \\pi d}{2} \\le 200 - 30\\pi \\approx 105.75$$\n（$d = 60$ 時練習場長 90 也放得在長 105.75 的直線段之間。）最大整數 105。"
+  },
+  {
+    "id": "108-gsat-math-D",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "D. 某次選舉中進行甲、乙、丙三項公投案，每項公投案一張選票，投票人可選擇領或不領。投票結束後清點某投票所的選票，發現甲案有 765 人領票、乙案有 537 人領票、丙案有 648 人領票，同時領甲、乙、丙三案公投票的有 224 人，並且每個人都至少領了兩張公投票。根據以上資訊，可知同時領甲、乙兩案但沒有領丙案公投票者共有 ㉒㉓㉔ 人。",
+    "blanks": [
+      "2",
+      "1",
+      "5"
+    ],
+    "blankLabels": [
+      "22",
+      "23",
+      "24"
+    ],
+    "explanation": "設只領甲乙 $x$、只領甲丙 $y$、只領乙丙 $z$：\n$x + y = 765 - 224 = 541$、$x + z = 537 - 224 = 313$、$y + z = 648 - 224 = 424$。\n三式相加 $x + y + z = 639$，$x = 639 - 424 = 215$。"
+  },
+  {
+    "id": "108-gsat-math-E",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "E. 如圖（此為示意圖），在 $\\triangle ABC$ 中，$\\overline{AD}$ 交 $\\overline{BC}$ 於 $D$ 點，$\\overline{BE}$ 交 $\\overline{AD}$ 於 $E$ 點，且 $\\angle ACB = 30^\\circ$，$\\angle EDB = 60^\\circ$，$\\angle AEB = 120^\\circ$。若 $\\overline{CD} = 15$，$\\overline{ED} = 7$，則 $\\overline{AB} =$ ㉕㉖。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-gsat-math-E.png\" alt=\"三角形 ABC，D 在 BC 上，E 在 AD 上\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "1",
+      "3"
+    ],
+    "blankLabels": [
+      "25",
+      "26"
+    ],
+    "explanation": "• $\\angle BED = 180^\\circ - 120^\\circ = 60^\\circ$，又 $\\angle EDB = 60^\\circ$，$\\triangle BED$ 為正三角形，$\\overline{BD} = 7$。\n• $\\angle ADC = 180^\\circ - 60^\\circ = 120^\\circ$，$\\angle C = 30^\\circ$，所以 $\\angle CAD = 30^\\circ$，$\\overline{AD} = \\overline{CD} = 15$。\n• $\\triangle ABD$：$\\overline{AB}^2 = 15^2 + 7^2 - 2\\cdot15\\cdot7\\cos60^\\circ = 169$，$\\overline{AB} = 13$。"
+  },
+  {
+    "id": "108-gsat-math-F",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "F. 坐標空間中，考慮有一個頂點在平面 $z = 0$ 上、且有另一個頂點在平面 $z = 6$ 上的正立方體。則滿足前述條件之正立方體之邊長最小可能值為 ㉗$\\sqrt{㉘}$。（化成最簡根式）",
+    "blanks": [
+      "2",
+      "3"
+    ],
+    "blankLabels": [
+      "27",
+      "28"
+    ],
+    "explanation": "兩頂點的高度差 6 不超過兩頂點的距離，而正立方體中兩頂點最遠是體對角線 $s\\sqrt3$。所以 $s\\sqrt3 \\ge 6$，$s \\ge 2\\sqrt3$（讓體對角線鉛直即可達到）。"
+  },
+  {
+    "id": "108-gsat-math-G",
+    "examType": "學測",
+    "year": 108,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "G. 如圖（此為示意圖），$A, B, C, D$ 為平面上的四個點。已知 $\\overrightarrow{BC} = \\overrightarrow{AB} + \\overrightarrow{AD}$，$\\overrightarrow{AC}$、$\\overrightarrow{BD}$ 兩向量等長且互相垂直，則 $\\tan\\angle BAD =$ ㉙㉚。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-gsat-math-G.png\" alt=\"四點 A、B、C、D，對角線 AC 與 BD 垂直\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "-",
+      "3"
+    ],
+    "blankLabels": [
+      "29",
+      "30"
+    ],
+    "explanation": "以 $A$ 為原點，$\\vec b = \\overrightarrow{AB}$、$\\vec d = \\overrightarrow{AD}$，則 $\\overrightarrow{AC} = \\overrightarrow{AB} + \\overrightarrow{BC} = 2\\vec b + \\vec d$、$\\overrightarrow{BD} = \\vec d - \\vec b$。\n• 等長：$4|\\vec b|^2 + 4\\vec b\\cdot\\vec d + |\\vec d|^2 = |\\vec d|^2 - 2\\vec b\\cdot\\vec d + |\\vec b|^2 \\implies \\vec b\\cdot\\vec d = -\\dfrac{|\\vec b|^2}{2}$。\n• 垂直：$(2\\vec b + \\vec d)\\cdot(\\vec d - \\vec b) = \\vec b\\cdot\\vec d - 2|\\vec b|^2 + |\\vec d|^2 = 0 \\implies |\\vec d|^2 = \\dfrac52|\\vec b|^2$。\n• $\\cos\\angle BAD = \\dfrac{-\\frac12}{\\sqrt{5/2}} = -\\dfrac{1}{\\sqrt{10}}$，$\\sin = \\dfrac{3}{\\sqrt{10}}$，$\\tan\\angle BAD = -3$。"
   }
 ]
