@@ -97925,5 +97925,1314 @@
     ],
     "answerIndex": 2,
     "explanation": "要能看出速率的增加或減少，應選在曲線斜率大、未達飽和的條件下。1.5 個光強度單位、0.40% 二氧化碳時，速率約在中段，往上或往下都有變化空間；0.03% 時速率很低且很快飽和，不易看出差異。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-01",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "points": 2,
+    "question": "1. 一般的胃痛大都與胃酸過多有關。在 NaOH、KOH、Ca(OH)₂、Mg(OH)₂ 四種物質中，只有一種物質不會傷害口腔、食道，因而適合用於胃藥。關於這一種物質的性質描述，下列哪一項正確？",
+    "options": [
+      "是兩性物質，可以當作鹼或酸",
+      "在水中的溶解度是四種物質中最小",
+      "為共價化合物",
+      "1 莫耳物質可中和 1 莫耳鹽酸",
+      "可作氧化劑"
+    ],
+    "answerIndex": 1,
+    "explanation": "適合當胃藥的是 Mg(OH)₂。它難溶於水，不會形成強鹼溶液傷害口腔與食道（B）。它是離子化合物、不是兩性物質；1 莫耳可中和 2 莫耳 HCl；不是氧化劑。\n\n故選 (B)"
+  },
+  {
+    "id": "95-gsat-nat-02",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "points": 2,
+    "question": "2. 聚合物是由很多小分子經化學反應後連結而成的巨大分子，具有很高的分子量，是我們生活中經常使用或接觸的物質。下列哪一種物質不是聚合物？",
+    "options": [
+      "澱粉",
+      "肥皂",
+      "塑膠",
+      "纖維素",
+      "蛋白質"
+    ],
+    "answerIndex": 1,
+    "explanation": "肥皂是長鏈脂肪酸的鈉鹽（如硬脂酸鈉），是小分子。澱粉、纖維素、蛋白質、塑膠都是聚合物。\n\n故選 (B)"
+  },
+  {
+    "id": "95-gsat-nat-03",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "3. 酸雨的危害包括腐蝕大理石的建築物及雕像，也會酸化河水、湖泊，影響水中的生態。位於下列哪一種地質環境的湖泊，其湖水的 pH 值受酸雨的影響最小？",
+    "options": [
+      "花崗岩",
+      "安山岩",
+      "石灰岩",
+      "玄武岩"
+    ],
+    "answerIndex": 2,
+    "explanation": "石灰岩的主要成分是碳酸鈣，能與酸反應中和酸雨，使湖水 pH 值不易下降。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-04",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "points": 2,
+    "question": "4. 圖 1 是碳鋅乾電池的剖面圖。當這種乾電池放電時，下列哪一種物質獲得電子？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-04.png\" alt=\"圖1 碳鋅乾電池剖面：外殼為負極（鋅），中央為正極（碳棒），兩者之間為氯化銨、氯化鋅、二氧化錳等的混合物\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "鋅",
+      "碳棒",
+      "氯化銨",
+      "氯化鋅",
+      "二氧化錳"
+    ],
+    "answerIndex": 4,
+    "explanation": "放電時鋅被氧化失去電子，電子經外電路流到碳棒，在正極由二氧化錳獲得電子被還原（2MnO₂ ＋ 2NH₄⁺ ＋ 2e⁻ → Mn₂O₃ ＋ 2NH₃ ＋ H₂O）。碳棒只傳導電子，本身不反應。\n\n大考中心公布的答案為 (E) 或 (C) 皆給分（NH₄⁺ 也參與正極反應），本題以 (E) 記錄。\n\n故選 (E)"
+  },
+  {
+    "id": "95-gsat-nat-05",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "points": 2,
+    "question": "5. 硬水中含有鈣、鎂等金屬離子，因為生活上或工業上的需要，有時必須先將硬水利用不同的方法處理。若將 1 公升的硬水分成四等份，分別用下列的方法處理：(甲) 陽離子交換法，將水中的陽離子交換鈉離子 (乙) 蒸餾法 (丙) 陰陽離子交換法，將水中的陽離子交換氫離子，陰離子交換氫氧根離子 (丁) 逆滲透法。經處理後的水，其導電度大幅下降的有哪幾種？",
+    "options": [
+      "甲乙",
+      "甲丙",
+      "甲乙丙",
+      "甲丙丁",
+      "乙丙丁"
+    ],
+    "answerIndex": 4,
+    "explanation": "蒸餾（乙）與逆滲透（丁）都能除去大部分離子；陰陽離子交換（丙）的 H⁺ 與 OH⁻ 結合成水，離子大減，導電度大幅下降。陽離子交換（甲）只把 Ca²⁺、Mg²⁺ 換成 Na⁺，水中仍有大量離子。\n\n故選 (E)"
+  },
+  {
+    "id": "95-gsat-nat-06",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "points": 2,
+    "question": "【第 6-7 題為題組】表 1 是硝酸銀、硝酸鉛、硝酸鋇、硝酸鎳等四種溶液分別與氯化鈉、硫酸鈉、硫化鈉等三種溶液作用的結果（所有溶液的濃度都是 0.01 M；「—」表示無沉澱發生）：\n• NaCl：AgNO₃ 白色沉澱；Pb(NO₃)₂ 白色沉澱；Ba(NO₃)₂ —；Ni(NO₃)₂ —\n• Na₂SO₄：AgNO₃ —；Pb(NO₃)₂ 白色沉澱；Ba(NO₃)₂ 白色沉澱；Ni(NO₃)₂ —\n• Na₂S：AgNO₃ 黑色沉澱；Pb(NO₃)₂ 黑色沉澱；Ba(NO₃)₂ —；Ni(NO₃)₂ 黑色沉澱\n6. 硝酸鉛與氯化鈉作用產生的白色沉澱，其正確的化學式為下列哪一項？",
+    "options": [
+      "NaNO₃",
+      "Na₂NO₃",
+      "PbCl",
+      "PbCl₂",
+      "Pb(OH)₂"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pb²⁺ 與 Cl⁻ 以 1 : 2 結合成 PbCl₂ 白色沉澱。\n\n故選 (D)"
+  },
+  {
+    "id": "95-gsat-nat-07",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "points": 2,
+    "question": "【第 6-7 題為題組】表 1 是硝酸銀、硝酸鉛、硝酸鋇、硝酸鎳等四種溶液分別與氯化鈉、硫酸鈉、硫化鈉等三種溶液作用的結果（所有溶液的濃度都是 0.01 M；「—」表示無沉澱發生）：\n• NaCl：AgNO₃ 白色沉澱；Pb(NO₃)₂ 白色沉澱；Ba(NO₃)₂ —；Ni(NO₃)₂ —\n• Na₂SO₄：AgNO₃ —；Pb(NO₃)₂ 白色沉澱；Ba(NO₃)₂ 白色沉澱；Ni(NO₃)₂ —\n• Na₂S：AgNO₃ 黑色沉澱；Pb(NO₃)₂ 黑色沉澱；Ba(NO₃)₂ —；Ni(NO₃)₂ 黑色沉澱\n7. 有一溶液含 Ag⁺、Pb²⁺、Ni²⁺ 三種離子各 0.01 M，若使用均為 0.01 M 的 NaCl、Na₂SO₄、Na₂S 溶液作為試劑，使 Ag⁺、Pb²⁺、Ni²⁺ 分離，則滴加試劑的順序應為下列哪一項？",
+    "options": [
+      "NaCl、Na₂SO₄、Na₂S",
+      "Na₂SO₄、NaCl、Na₂S",
+      "NaCl、Na₂S、NaSO₄",
+      "Na₂SO₄、Na₂S、NaCl",
+      "Na₂S、NaCl、Na₂SO₄"
+    ],
+    "answerIndex": 1,
+    "explanation": "每次只能沉澱一種離子。Na₂SO₄ 只沉澱 Pb²⁺；接著 NaCl 只沉澱 Ag⁺；最後 Na₂S 沉澱 Ni²⁺。若先加 NaCl，Ag⁺ 與 Pb²⁺ 會一起沉澱。\n\n故選 (B)"
+  },
+  {
+    "id": "95-gsat-nat-08",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "points": 2,
+    "question": "【第 8-9 題為題組】甲、乙、丙、丁、戊五種不同化合物的沸點及其 1.0 M 水溶液的導電電流數據如表 2（沸點／1.0 M 水溶液的導電電流）：\n• 甲：400℃（分解，表示該化合物到 400℃ 時就分解了，因此沒有所謂的沸點）／1.10×10⁻¹ 安培\n• 乙：140℃／9.93×10⁻⁴ 安培\n• 丙：64.8℃／1.07×10⁻⁴ 安培\n• 丁：56.5℃／4.95×10⁻⁵ 安培\n• 戊：−84.8℃／2.59×10⁻¹ 安培\n測量導電電流的實驗裝置如圖 2 所示，實驗時取用的化合物水溶液均為 1.0 M 及 100 毫升，分別置於燒杯中，然後記錄安培計的導電電流讀數。\n8. 由表 2 的數據推測，最可能為離子化合物的是下列哪一種物質？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-08.png\" alt=\"圖2 1.5 伏特電池、燈泡、安培計與兩支插入燒杯水溶液中的鉑電極串聯\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "離子化合物熔沸點高，水溶液導電性好。甲加熱到 400℃ 才分解，且導電電流大，最可能是離子化合物。\n\n故選 (A)"
+  },
+  {
+    "id": "95-gsat-nat-09",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "points": 2,
+    "question": "【第 8-9 題為題組】甲、乙、丙、丁、戊五種不同化合物的沸點及其 1.0 M 水溶液的導電電流數據如表 2（沸點／1.0 M 水溶液的導電電流）：\n• 甲：400℃（分解，表示該化合物到 400℃ 時就分解了，因此沒有所謂的沸點）／1.10×10⁻¹ 安培\n• 乙：140℃／9.93×10⁻⁴ 安培\n• 丙：64.8℃／1.07×10⁻⁴ 安培\n• 丁：56.5℃／4.95×10⁻⁵ 安培\n• 戊：−84.8℃／2.59×10⁻¹ 安培\n測量導電電流的實驗裝置如圖 2 所示，實驗時取用的化合物水溶液均為 1.0 M 及 100 毫升，分別置於燒杯中，然後記錄安培計的導電電流讀數。\n9. 由表 2 的數據推測，最可能為分子化合物又是強電解質的是下列哪一種物質？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-08.png\" alt=\"圖2 1.5 伏特電池、燈泡、安培計與兩支插入燒杯水溶液中的鉑電極串聯\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 4,
+    "explanation": "戊的沸點只有 −84.8℃，是分子化合物（如 HCl），但水溶液導電電流最大，表示在水中完全解離，是強電解質。\n\n故選 (E)"
+  },
+  {
+    "id": "95-gsat-nat-10",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "points": 2,
+    "question": "10. 從適應和演化的角度來看，養雞場平時不宜在雞隻飼料中添加抗生素的最主要原因為下列哪一項？",
+    "options": [
+      "會增加雞隻飼養的成本",
+      "會加速雞隻對抗生素產生抗藥性",
+      "會加速有抗藥性病原體的發生",
+      "會讓病原體滅絕，減少地球的生物多樣性",
+      "避免讓人吃到抗生素，因有些人會對抗生素過敏"
+    ],
+    "answerIndex": 2,
+    "explanation": "長期使用抗生素會淘汰敏感的細菌，使具抗藥性的病原體留存並大量繁殖（天擇）。產生抗藥性的是病原體，不是雞。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-11",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "points": 2,
+    "question": "【第 11-12 題為題組】亞硝酸和氨等成分對魚具有毒性，若要維持水族箱裡魚兒悠遊的景致，水族箱內必須維持良好的氮循環機制。表 3 為氮循環中各階段過程的內容說明：\n甲 魚的排洩物和飼料殘渣，被氨化細菌作用產生氨\n乙 硝酸菌進行作用，產生硝酸根離子\n丙 魚吃水草及水棲小生物\n丁 亞硝酸菌進行作用，產生亞硝酸根離子\n戊 水草吸收水中的含氮養分\n11. 圖 3 為已建立氮循環系統的水族箱內，其氮循環過程的簡單示意圖。若要將圖 3 的過程（1→2→3→4→5）與表 3 的內容說明加以配對，則下列哪一選項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-11.png\" alt=\"圖3 水族箱氮循環示意圖：魚的排泄物與飼料殘渣沉到底部為 1，箭頭依序經 2、3 到水草（4），再由水草到魚（5）\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲→乙→丙→丁→戊",
+      "甲→丁→乙→戊→丙",
+      "甲→乙→丁→戊→丙",
+      "甲→戊→乙→丁→丙",
+      "甲→戊→丁→乙→丙"
+    ],
+    "answerIndex": 1,
+    "explanation": "排泄物經氨化產生氨（甲）→ 亞硝酸菌產生亞硝酸根（丁）→ 硝酸菌產生硝酸根（乙）→ 水草吸收（戊）→ 魚吃水草（丙）。\n\n故選 (B)"
+  },
+  {
+    "id": "95-gsat-nat-12",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "points": 2,
+    "question": "【第 11-12 題為題組】亞硝酸和氨等成分對魚具有毒性，若要維持水族箱裡魚兒悠遊的景致，水族箱內必須維持良好的氮循環機制。表 3 為氮循環中各階段過程的內容說明：\n甲 魚的排洩物和飼料殘渣，被氨化細菌作用產生氨\n乙 硝酸菌進行作用，產生硝酸根離子\n丙 魚吃水草及水棲小生物\n丁 亞硝酸菌進行作用，產生亞硝酸根離子\n戊 水草吸收水中的含氮養分\n12. 在圖 3 的水族箱內，硝酸菌和亞硝酸菌兩者之間的生態關係為下列哪一項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-11.png\" alt=\"圖3 水族箱氮循環示意圖：魚的排泄物與飼料殘渣沉到底部為 1，箭頭依序經 2、3 到水草（4），再由水草到魚（5）\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "競爭",
+      "掠食",
+      "寄生",
+      "片利共生",
+      "互利共生"
+    ],
+    "answerIndex": 4,
+    "explanation": "亞硝酸菌產生的亞硝酸根是硝酸菌的能量來源；硝酸菌把亞硝酸根轉成硝酸根，避免亞硝酸根累積，對雙方都有利。\n\n故選 (E)"
+  },
+  {
+    "id": "95-gsat-nat-13",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "points": 2,
+    "question": "13. 去年夏天，林同學在某地區進行野兔的族群調查研究，結果發現該族群中的野兔毛色不一如圖 4。試問造成該族群的野兔毛色不同之最主要原因為下列哪一項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-13.png\" alt=\"圖4 五隻野兔，毛色由白、淺灰、灰、深灰到黑\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "變異",
+      "競爭",
+      "適應",
+      "消長",
+      "天擇"
+    ],
+    "answerIndex": 0,
+    "explanation": "同一族群個體間性狀的差異，主要來自遺傳變異。\n\n故選 (A)"
+  },
+  {
+    "id": "95-gsat-nat-14",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "points": 2,
+    "question": "【第 14-15 題為題組】一生態系中包含有不同營養階層的生物。它們彼此間的關係常可用能量、個體數或生物量等參數來作圖表示。這種關係圖在多數情況下呈一塔狀結構，因此被稱為生態塔。常見的生態塔呈金字塔形；然而在海洋中，藻類和以它們為食的魚類所形成的生態塔，卻可能呈現如圖 5 的倒金字塔形。\n14. 試問，圖 5 的倒金字塔形生態塔，最可能是利用下列哪一項參數（單位）作圖出來的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-14.png\" alt=\"圖5 倒金字塔形生態塔：上層魚類（21 單位）寬，下層藻類（4 單位）窄\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "能量（卡/平方公尺·年）",
+      "能量（千卡/平方公尺·年）",
+      "能量（焦耳/平方公尺·年）",
+      "生物量（克/平方公尺）",
+      "個體數（個體/100 平方公尺）"
+    ],
+    "answerIndex": 3,
+    "explanation": "能量塔一定是正金字塔。藻類個體微小且數量極多，個體數塔也應是正的。藻類生長快、不斷被魚吃掉，某一時刻的現存生物量可能比魚少，生物量塔可以呈倒金字塔。\n\n故選 (D)"
+  },
+  {
+    "id": "95-gsat-nat-15",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "points": 2,
+    "question": "【第 14-15 題為題組】一生態系中包含有不同營養階層的生物。它們彼此間的關係常可用能量、個體數或生物量等參數來作圖表示。這種關係圖在多數情況下呈一塔狀結構，因此被稱為生態塔。常見的生態塔呈金字塔形；然而在海洋中，藻類和以它們為食的魚類所形成的生態塔，卻可能呈現如圖 5 的倒金字塔形。\n15. 圖 5 的生態塔，會呈倒金字塔形的最可能原因，為下列哪一項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-14.png\" alt=\"圖5 倒金字塔形生態塔：上層魚類（21 單位）寬，下層藻類（4 單位）窄\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "魚類因海洋污染，而突變增多",
+      "魚類的食量大，使藻類所剩無幾",
+      "海洋生態系中有許多種魚能直接固定光能",
+      "在海洋生態系中，魚類因生物放大效應而變多",
+      "藻類的光合作用效率極高且繁殖快速，所以可以支持重量遠大於自身的魚類"
+    ],
+    "answerIndex": 4,
+    "explanation": "藻類繁殖與更新極快，雖然某一時刻的生物量少，但一段時間內生產的總量很多，足以支持較大生物量的魚類。\n\n故選 (E)"
+  },
+  {
+    "id": "95-gsat-nat-16",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "points": 2,
+    "question": "【第 16-17 題為題組】眾所周知，昆蟲的繁殖能力驚人，而估算一種昆蟲的繁殖潛能應該以族群作為基準。以某種蝴蝶為例，其族群中個體增加量（Nb）可用下列公式表示：Nb ＝ E × f/(m ＋ f)，E：一隻雌蝶的平均產卵量；m：雄蝶個體數；f：雌蝶個體數。\n16. 假若這種蝴蝶的不同世代不會重疊，雌雄的比例為 1：1，一生只交配一次，每隻雌蝶一生的平均產卵數為 100，則這種蝴蝶的下一個世代族群數量，在子代沒有任何損失的情形下，可增加為原來的幾倍？",
+    "options": [
+      "1",
+      "2",
+      "50",
+      "100",
+      "200"
+    ],
+    "answerIndex": 2,
+    "explanation": "Nb ＝ 100 × f/(m ＋ f) ＝ 100 × 1/2 ＝ 50 倍。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-17",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "points": 2,
+    "question": "【第 16-17 題為題組】眾所周知，昆蟲的繁殖能力驚人，而估算一種昆蟲的繁殖潛能應該以族群作為基準。以某種蝴蝶為例，其族群中個體增加量（Nb）可用下列公式表示：Nb ＝ E × f/(m ＋ f)，E：一隻雌蝶的平均產卵量；m：雄蝶個體數；f：雌蝶個體數。\n17. 承上題，如果 Rb 表示這種蝴蝶經過若干（n）世代後，其族群數量增加的理論值，並可用下列公式估算：Rb ＝ [E × f/(m ＋ f)]ⁿ。根據這項公式，如果有一對這種蝴蝶，其交配後產生的子代不會有任何折損，則經過至少多少世代之後，其子代數量會超過一百萬隻（不含親代）？",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answerIndex": 3,
+    "explanation": "一對蝴蝶（2 隻）每代增為 50 倍：2 × 50³ ＝ 2.5×10⁵，2 × 50⁴ ＝ 1.25×10⁷。至少 4 個世代才超過一百萬隻。\n\n故選 (D)"
+  },
+  {
+    "id": "95-gsat-nat-18",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "points": 2,
+    "question": "18. 圖 6 為某科生物，在世界不同區域及不同緯度條件下，其種數的分布情形。根據圖中的資料，下列哪一項敘述正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-18.png\" alt=\"圖6 美洲、非洲歐洲、亞洲澳洲三區各緯度（北緯 70°～南緯 50°）的種數長條圖：美洲赤道附近約 80，北緯 70° 約 4，南緯 40°～50° 為 10、0；非洲歐洲赤道約 50～58，北緯 30° 只有 6、北緯 40° 有 29；亞洲澳洲赤道約 108～123，北緯 40° 有 86，南緯 40°～50° 為 8、1\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "在赤道地區，該科生物的種數較少",
+      "該科生物的分布北限，位於北緯 60 度",
+      "南緯 50 度以南，仍然有該科生物的存在",
+      "三個大區域之中，美洲有最多該科生物的種數",
+      "該科生物在北緯 23 度地區的種數，不一定都會多於在北緯 35 度地區的種數"
+    ],
+    "answerIndex": 4,
+    "explanation": "非洲歐洲區北緯 30° 附近只有 6 種，北緯 40° 有 29 種，可見低緯度的種數不一定較多（E）。赤道附近種數最多；北緯 70° 仍有分布；南緯 50° 以南已無；亞洲澳洲區種數最多。\n\n故選 (E)"
+  },
+  {
+    "id": "95-gsat-nat-19",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "【第 19-22 題為題組】地球的形貌持續在改變當中，圖 7 是夏威夷群島主島（編號 1 號）與其 3 個鏈狀火山島嶼（編號 2，3，4 號）的分布示意圖（未按比例繪製）。許多的科學家相信，夏威夷群島主島和這些鏈狀火山島嶼，應該是因為太平洋板塊在一個可視為固定不動且噴發岩漿的「熱點」上移動（箭頭指向代表板塊移動方向）造成的。噴出岩漿凝固逐一形成這些火山島嶼。\n19. 火山島嶼 1 至 4 主要由下列何種岩石組成？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-19.png\" alt=\"圖7 太平洋板塊向左（西）移動，下方為地函與岩漿庫（熱點）；熱點正上方為正在噴發的夏威夷主島 1，往左依序為逐漸變小的鏈狀火山島嶼 2、3、4\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "火成岩",
+      "沈積岩",
+      "變質岩",
+      "資料不足，無法判斷"
+    ],
+    "answerIndex": 0,
+    "explanation": "火山島由噴出的岩漿冷凝而成，主要是火成岩（玄武岩）。\n\n故選 (A)"
+  },
+  {
+    "id": "95-gsat-nat-20",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "【第 19-22 題為題組】地球的形貌持續在改變當中，圖 7 是夏威夷群島主島（編號 1 號）與其 3 個鏈狀火山島嶼（編號 2，3，4 號）的分布示意圖（未按比例繪製）。許多的科學家相信，夏威夷群島主島和這些鏈狀火山島嶼，應該是因為太平洋板塊在一個可視為固定不動且噴發岩漿的「熱點」上移動（箭頭指向代表板塊移動方向）造成的。噴出岩漿凝固逐一形成這些火山島嶼。\n20. 下列何者在真實地球的實際體積最大？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-19.png\" alt=\"圖7 太平洋板塊向左（西）移動，下方為地函與岩漿庫（熱點）；熱點正上方為正在噴發的夏威夷主島 1，往左依序為逐漸變小的鏈狀火山島嶼 2、3、4\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "夏威夷群島",
+      "鏈狀火山島嶼",
+      "地殼",
+      "太平洋板塊",
+      "地函"
+    ],
+    "answerIndex": 4,
+    "explanation": "地函約占地球體積的 80% 以上，遠大於地殼或任何一個板塊。\n\n故選 (E)"
+  },
+  {
+    "id": "95-gsat-nat-21",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "【第 19-22 題為題組】地球的形貌持續在改變當中，圖 7 是夏威夷群島主島（編號 1 號）與其 3 個鏈狀火山島嶼（編號 2，3，4 號）的分布示意圖（未按比例繪製）。許多的科學家相信，夏威夷群島主島和這些鏈狀火山島嶼，應該是因為太平洋板塊在一個可視為固定不動且噴發岩漿的「熱點」上移動（箭頭指向代表板塊移動方向）造成的。噴出岩漿凝固逐一形成這些火山島嶼。\n21. 此處應位於地球的哪一個位置？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-19.png\" alt=\"圖7 太平洋板塊向左（西）移動，下方為地函與岩漿庫（熱點）；熱點正上方為正在噴發的夏威夷主島 1，往左依序為逐漸變小的鏈狀火山島嶼 2、3、4\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "位於張裂性板塊交界處",
+      "位於聚合性板塊交界處",
+      "位於錯動性板塊交界處",
+      "不位於板塊交界處"
+    ],
+    "answerIndex": 3,
+    "explanation": "夏威夷位於太平洋板塊內部，火山是由地函中的熱點形成，不在板塊交界處。\n\n故選 (D)"
+  },
+  {
+    "id": "95-gsat-nat-22",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "【第 19-22 題為題組】地球的形貌持續在改變當中，圖 7 是夏威夷群島主島（編號 1 號）與其 3 個鏈狀火山島嶼（編號 2，3，4 號）的分布示意圖（未按比例繪製）。許多的科學家相信，夏威夷群島主島和這些鏈狀火山島嶼，應該是因為太平洋板塊在一個可視為固定不動且噴發岩漿的「熱點」上移動（箭頭指向代表板塊移動方向）造成的。噴出岩漿凝固逐一形成這些火山島嶼。\n22. 下列哪一圖最能代表從鏈狀火山島嶼（4，3，2）到夏威夷群島主島（1）的年齡分布情形？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-19.png\" alt=\"圖7 太平洋板塊向左（西）移動，下方為地函與岩漿庫（熱點）；熱點正上方為正在噴發的夏威夷主島 1，往左依序為逐漸變小的鏈狀火山島嶼 2、3、4\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-22.png\" alt=\"五張年齡對島嶼編號（4、3、2、1）圖：(A) 水平線；(B) 由 4 到 1 逐漸變老；(C) 由 4 到 1 逐漸變年輕；(D) 先變年輕再變老；(E) 先變老再變年輕\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)",
+      "(E)"
+    ],
+    "answerIndex": 2,
+    "explanation": "板塊向西移動，島嶼形成後被帶離熱點。目前在熱點上的主島 1 最年輕，愈往西（4）愈老。由 4 到 1 年齡遞減。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-23",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "【第 23-24 題為題組】圖 8 為以太陽作光源，地球和月球在一個月中相對位置關係的示意圖（未按比例繪製），地球和月球上的白色區域代表受光面，黑色區域代表背光面。甲、乙、丙、丁四點分別代表在一個月中月球與地球相對的四個位置。\n23. 根據歷史記載，唐朝人為中秋節的月亮取了個名字叫做「端正月」。試問端正月那一天，月球應該在圖 8 中的哪一個位置上？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-23.png\" alt=\"圖8 陽光由左方射入，地球在中央，月球沿逆時針軌道繞地球；丙在地球左方（太陽側），甲在地球右方（背對太陽），乙在上方，丁在下方\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "中秋節（農曆八月十五）是滿月，月球位於地球背對太陽的一側，即甲。\n\n故選 (A)"
+  },
+  {
+    "id": "95-gsat-nat-24",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "【第 23-24 題為題組】圖 8 為以太陽作光源，地球和月球在一個月中相對位置關係的示意圖（未按比例繪製），地球和月球上的白色區域代表受光面，黑色區域代表背光面。甲、乙、丙、丁四點分別代表在一個月中月球與地球相對的四個位置。\n24. 台灣地區的人在 2005 年 10 月 17 日晚間，可看到難得一見的「月偏食」，當天月球應該在圖 8 中的哪一個位置上？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-23.png\" alt=\"圖8 陽光由左方射入，地球在中央，月球沿逆時針軌道繞地球；丙在地球左方（太陽側），甲在地球右方（背對太陽），乙在上方，丁在下方\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "月食時地球位於太陽與月球之間，月球進入地球影子，月相是望，位置在甲。\n\n故選 (A)"
+  },
+  {
+    "id": "95-gsat-nat-25",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "25. 『福爾摩沙衛星三號』預計於 2006 年 3 月發射，其為一氣象觀測衛星，觀測範圍涵蓋全球大氣層及電離層。試問除了利用氣象衛星進行大氣觀測外，下列哪一項也是收集高空氣象資料的正確方式？",
+    "options": [
+      "藉由光譜儀可得知不同雲種的分布",
+      "由溫鹽深儀（CTD）可以得知降水多寡",
+      "雷文送（亦稱雷送）可以提供高層大氣的氣象資料",
+      "可由百葉箱觀測到高空的風向、風速、氣壓、溫度等"
+    ],
+    "answerIndex": 2,
+    "explanation": "雷文送是由氣球攜帶上升的探空儀，可測量各高度的溫度、氣壓、濕度與風。溫鹽深儀用於海洋；百葉箱只測地面氣象。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-26",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "26. 圖 9 為 1971 至 2000 年間台北測站的月平均降雨量圖，由圖 9 可以看出，台北測站逐月的降雨變化出現兩個高峰值，試問造成此兩降水高峰的主要天氣現象為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-26.png\" alt=\"圖9 台北月平均雨量（1971-2000）：1 月約 90 毫米，逐月增加，6 月約 320 毫米為第一個高峰，7 月降到約 250，8 月約 305 為第二個高峰，之後減少，12 月約 80\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "梅雨、冷鋒",
+      "梅雨、颱風",
+      "春雨、梅雨",
+      "颱風、冷鋒"
+    ],
+    "answerIndex": 1,
+    "explanation": "5～6 月的高峰來自梅雨鋒面；8～9 月的高峰來自颱風。\n\n故選 (B)"
+  },
+  {
+    "id": "95-gsat-nat-27",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "27. 下列有關『臭氧』的敘述，何者正確？",
+    "options": [
+      "臭氧濃度在地面最高",
+      "臭氧可以吸收紫外線",
+      "臭氧屬於大氣中的固定成分",
+      "近年來，臭氧層的臭氧濃度因人類的活動而日漸增大"
+    ],
+    "answerIndex": 1,
+    "explanation": "平流層的臭氧吸收太陽紫外線（B）。臭氧集中在平流層，不在地面；它是變動成分；氟氯碳化物使臭氧層變薄。\n\n故選 (B)"
+  },
+  {
+    "id": "95-gsat-nat-28",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "points": 2,
+    "question": "28. 圖 10 中，甲與乙兩物體在等臂天平兩端，天平保持平衡靜止，其中 W甲 與 W乙 分別代表甲與乙所受的重力，N甲 與 N乙 分別為天平對甲與乙的向上拉力，若 G甲 與 G乙 分別代表甲與乙對地球的萬有引力，則下列選項中哪一對力互為作用力與反作用力？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-28.png\" alt=\"圖10 等臂天平兩端分別懸掛甲與乙：每個物體上方有向上的 N，下方有向下的 W；物體下方另有向上的 G 代表物體對地球的引力\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "W甲 與 W乙",
+      "N甲 與 W甲",
+      "N甲 與 N乙",
+      "G甲 與 W甲"
+    ],
+    "answerIndex": 3,
+    "explanation": "地球吸引甲（W甲）與甲吸引地球（G甲）是一對作用力與反作用力。N甲 與 W甲 都作用在甲上，是平衡力。\n\n故選 (D)"
+  },
+  {
+    "id": "95-gsat-nat-29",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "points": 2,
+    "question": "29. 動物跳躍時會將腿部彎曲然後伸直加速跳起。表 4 是袋鼠與跳蚤跳躍時的垂直高度（袋鼠 2.5 公尺、跳蚤 0.1 公尺）。若不計空氣阻力，則袋鼠躍起離地的瞬時速率約是跳蚤的多少倍？",
+    "options": [
+      "1000",
+      "25",
+      "5",
+      "1"
+    ],
+    "answerIndex": 2,
+    "explanation": "v ＝ √(2gh)，速率比 ＝ √(2.5 ÷ 0.1) ＝ √25 ＝ 5。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-30",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "points": 2,
+    "question": "30. 玩具飛機懸吊在一細繩下端，繞水平圓形軌道等速率飛行，如圖 11 所示。下列有關此玩具飛機運動的敘述哪一項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-30.png\" alt=\"圖11 玩具飛機以細繩懸吊在天花板下，沿水平圓形軌道飛行\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "飛機的速度保持不變",
+      "重力做功提供飛機的動能",
+      "飛機的加速度指向前進方向",
+      "飛機所受合力指向軌道圓心"
+    ],
+    "answerIndex": 3,
+    "explanation": "等速率圓周運動的速度方向不斷改變，合力（向心力）指向圓心。高度不變，重力不作功；加速度指向圓心而非前進方向。\n\n故選 (D)"
+  },
+  {
+    "id": "95-gsat-nat-31",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "points": 2,
+    "question": "31. 圖 12 中，甲、乙、丙、丁為空氣中四種聲波的波形，下列敘述哪一項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-31.png\" alt=\"圖12 空氣分子振動位移對時間（0～10 毫秒）：甲有約 4 個重複週期；乙約 3 個；丙約 4 個但振幅較小；丁與乙的週期相近但波形不同\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "丙的響度大於丁",
+      "甲的音調高於乙",
+      "丁的音色與甲相同",
+      "丁的傳播速率大於丙"
+    ],
+    "answerIndex": 1,
+    "explanation": "相同時間內甲的週期數比乙多，頻率較高，音調較高（B）。丙振幅較小，響度較小；丁與甲波形不同，音色不同；空氣中聲速相同。\n\n故選 (B)"
+  },
+  {
+    "id": "95-gsat-nat-32",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "points": 2,
+    "question": "32. 人們常用分貝來描述聲音，下列有關分貝的敘述哪一項正確？",
+    "options": [
+      "分貝是音調的單位",
+      "零分貝時，空氣分子的振動振幅不為零",
+      "演唱會聲音超過 100 多分貝對身心毫無傷害",
+      "40 分貝聲波所傳播的能量恰是 20 分貝聲波的 2 倍"
+    ],
+    "answerIndex": 1,
+    "explanation": "分貝是聲音強度級的單位，0 分貝是人耳剛好聽得到的強度，振幅不為零（B）。每增加 10 分貝強度增為 10 倍，40 分貝是 20 分貝的 100 倍；長時間處在 100 分貝以上會傷害聽力。\n\n故選 (B)"
+  },
+  {
+    "id": "95-gsat-nat-33",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "points": 2,
+    "question": "33. 以相同強度的紅、綠、藍三原色的光，同時投射在白色光屏上時，所顯現的顏色標示如圖 13。一般室內燈光所見為綠色的地毯，在下列哪一種色光照射下最可能呈現黑色？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-33.png\" alt=\"圖13 紅、綠、藍三個圓光重疊：紅綠重疊為黃，綠藍重疊為青，紅藍重疊為洋紅，三者重疊為白\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "白",
+      "黃",
+      "青",
+      "洋紅"
+    ],
+    "answerIndex": 3,
+    "explanation": "綠色地毯只反射綠光。洋紅光由紅光與藍光組成，不含綠光，照在綠色地毯上沒有光被反射，看起來是黑色。\n\n故選 (D)"
+  },
+  {
+    "id": "95-gsat-nat-34",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "points": 2,
+    "question": "34. 游泳時戴上泳鏡，在水中可看清景物；若不戴泳鏡，即使是視力正常的人在水中，所看到的景物也模糊不清。不戴泳鏡時，無法看清水中景物的主要原因為下列哪一項？",
+    "options": [
+      "在水中瞳孔會縮小，使進入眼睛的光線不足",
+      "在水中時，不戴泳鏡會比較緊張，無法集中精神",
+      "水分子會碰撞射向眼睛的光，使進入眼睛的光線不足",
+      "與光在空氣中傳播的情形相比，光在水中的傳播速率更接近光在眼睛內的傳播速率"
+    ],
+    "answerIndex": 3,
+    "explanation": "眼睛主要靠角膜與空氣間的折射聚焦。水的折射率與眼睛相近，光進入眼睛時幾乎不偏折，無法在視網膜上清楚成像。戴泳鏡使眼前保有空氣，恢復正常折射。\n\n故選 (D)"
+  },
+  {
+    "id": "95-gsat-nat-35",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "points": 2,
+    "question": "35. 如圖 14 所示，在一直線上有兩個點電荷。電量為 ＋4Q 的點電荷固定於 x ＝ 5a，電量為 −Q 的點電荷固定於 x ＝ 9a。將一點電荷 ＋Q 置於直線上何處時，此 ＋Q 電荷所受的靜電力為零？",
+    "options": [
+      "3a",
+      "7a",
+      "11a",
+      "13a",
+      "15a"
+    ],
+    "answerIndex": 3,
+    "explanation": "兩電荷異號，合力為零的點在兩電荷外側、靠近電量小的 −Q 一側（x ＞ 9a）。設距 −Q 為 d：4/(d ＋ 4a)² ＝ 1/d²，2d ＝ d ＋ 4a，d ＝ 4a，x ＝ 13a。\n\n故選 (D)"
+  },
+  {
+    "id": "95-gsat-nat-36",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "points": 2,
+    "question": "36. 甲生走路時每單位時間所消耗的能量，與行進速率的關係如圖 15。假設甲生每天都沿著相同的路徑自學校走回家，則甲生以 2.0 公尺/秒等速率走回家所消耗的總能量，約為以 1.0 公尺/秒等速率走回家的多少倍？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-36.png\" alt=\"圖15 每分鐘消耗的能量（千焦耳/分）對走路速率（公尺/秒）：0.5 時約 0.8，1.0 時約 1.2，1.5 時約 2.1，2.0 時約 3.2，2.25 時約 4.9，2.5 時約 7.3\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1.5",
+      "2.0",
+      "2.5",
+      "3.0",
+      "3.5"
+    ],
+    "answerIndex": 0,
+    "explanation": "總能量 ＝ 功率 × 時間。速率加倍，時間減半。由圖，2.0 m/s 約 3.2 kJ/分，1.0 m/s 約 1.1～1.2 kJ/分：比值 ≈ (3.2 × ½) ÷ 1.1 ≈ 1.5。\n\n故選 (A)"
+  },
+  {
+    "id": "95-gsat-nat-37",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "type": "multiple",
+    "points": 2,
+    "question": "37. 尿素 (NH₂)₂CO（分子量 ＝ 60）是工業上重要的化學原料，也可作為農作物的肥料成份。由氨與二氧化碳反應可得尿素和水，若在高壓反應容器內加入 34 克氨（分子量 ＝ 17）與 66 克二氧化碳（分子量 ＝ 44），假設氨與二氧化碳完全反應後，則下列有關此反應化學計量的敘述，哪幾項是正確的？（應選三項）",
+    "options": [
+      "平衡的化學反應式是 NH₃(g) ＋ CO₂(g) → (NH₂)₂CO(aq) ＋ H₂O(l)",
+      "剩餘 8.5 克的氨未反應",
+      "剩餘 22 克的二氧化碳未反應",
+      "生成 60 克的尿素",
+      "生成 18 克的水"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "2NH₃ ＋ CO₂ → (NH₂)₂CO ＋ H₂O（A 未平衡）。NH₃ 2 莫耳、CO₂ 1.5 莫耳，NH₃ 為限量試劑，反應 CO₂ 1 莫耳，剩 0.5 莫耳 ＝ 22 克（C）；生成尿素 1 莫耳 ＝ 60 克（D）、水 18 克（E）。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "95-gsat-nat-38",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "type": "multiple",
+    "points": 2,
+    "question": "38. 加油站販售的無鉛汽油都標示著汽油的辛烷值，下列有關辛烷值的敘述，哪幾項是正確的？（應選二項）",
+    "options": [
+      "市售九五無鉛汽油含 95% 正辛烷",
+      "市售九八無鉛汽油含 98% 異辛烷",
+      "市售九二無鉛汽油含 8% 正庚烷",
+      "配製辛烷值超過 100 的汽油是可能的",
+      "辛烷值愈高的汽油抗震爆能力愈好"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "辛烷值是與異辛烷（100）、正庚烷（0）混合物比較的抗震爆能力指標，並非實際成分比例，所以 (A)(B)(C) 錯。添加抗震劑可使辛烷值超過 100（D）；辛烷值愈高抗震爆能力愈好（E）。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "95-gsat-nat-39",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "type": "multiple",
+    "points": 2,
+    "question": "39. 下列市售電池中，不使用鹼性氫氧化物為電解液的有哪幾種？（應選二項）",
+    "options": [
+      "乾電池",
+      "鹼性電池",
+      "水銀電池",
+      "鎳鎘電池",
+      "鉛蓄電池"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "碳鋅乾電池用氯化銨、氯化鋅糊；鉛蓄電池用稀硫酸。鹼性電池、水銀電池、鎳鎘電池都用 KOH 等鹼性電解液。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "95-gsat-nat-40",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "type": "multiple",
+    "points": 2,
+    "question": "40. 表 5 為六種陸地的生物相（草原、寒原、沙漠、闊葉林、針葉林、熱帶雨林），圖 16 則為這六種陸地生物相與「溫度」和「降雨量」的關係圖。根據表 5 和圖 16 的資料，下列哪幾項敘述最為恰當？（應選三項）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-40.png\" alt=\"圖16 縱軸溫度向上增加，橫軸降雨量向右增加：左側由上而下為甲（高溫少雨）、乙（中溫）、丙（低溫少雨）；右側由上而下為丁（高溫多雨）、戊（中溫多雨）、己（低溫多雨）\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "「甲」為沙漠",
+      "「乙」為闊葉林",
+      "「丙」為草原",
+      "「丁」為熱帶雨林",
+      "「戊」為寒原",
+      "「己」為針葉林"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      5
+    ],
+    "explanation": "高溫少雨為沙漠（甲）；高溫多雨為熱帶雨林（丁）；低溫但雨量較多為針葉林（己）。乙為草原，丙為寒原，戊為闊葉林。\n\n故選 (A)(D)(F)"
+  },
+  {
+    "id": "95-gsat-nat-41",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "type": "multiple",
+    "points": 2,
+    "question": "41. 某同學在上生態課時舉手發問：「很多農作物的野生種，只是野外的雜草罷了，為什麼值得我們保存它們呢？」。從自然保育的觀點，下列哪幾項理由較為適切？（應選三項）",
+    "options": [
+      "保存這些雜草，可減少地球的溫室效應",
+      "保存這些雜草，可強化當地生態系的穩定性",
+      "保存這些雜草，可增加澱粉的生成量，供人類社會使用",
+      "這些雜草的保存，或可提供有用基因，供農作物的育種使用",
+      "這些雜草的保存，或可提供特定的藥用成分，供人類社會使用"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "保存野生種可維持生態系的多樣性與穩定（B），保留可用於作物育種的基因（D），以及可能的藥用資源（E）。保存雜草對溫室效應影響很小，也不是為了生產澱粉。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "95-gsat-nat-42",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "type": "multiple",
+    "points": 2,
+    "question": "42. 以下哪幾項作為，可避免過度利用自然資源？（應選二項）",
+    "options": [
+      "將垃圾分類回收利用",
+      "廣闢山坡地為茶園，以增加農產收成",
+      "於河川中，普設攔砂壩，以避免砂土流失",
+      "於春季設定日光節約時間，將時鐘撥快 1 小時",
+      "進行漁塭養殖時，儘量使用地下水，以避免水資源的無謂流失浪費"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "資源回收可減少原料開採（A）；日光節約時間多利用自然光，節省電力（D）。開墾山坡地、普設攔砂壩會破壞自然環境；超抽地下水會造成地層下陷。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "95-gsat-nat-43",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "type": "multiple",
+    "points": 2,
+    "question": "【第 43-44 題為題組】表 6 是北半球甲、乙、丙、丁四個觀測站記錄到的氣壓值（甲 1022、乙 1028、丙 1035、丁 1026 百帕），圖 17 為該區域的等壓線分布示意圖。\n43. 此四觀測站當地的天氣型態，可能是下列哪幾項？（應選二項）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-43.png\" alt=\"圖17 橢圓形同心等壓線，丙在中心，丁在左側（等壓線較密），乙在右側內圈外，甲在最外圈外右方\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "颱風侵襲",
+      "熱低壓滯留",
+      "梅雨鋒面滯留",
+      "極地大陸氣團籠罩",
+      "太平洋高壓籠罩"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "中心的丙氣壓最高（1035 百帕），是高氣壓系統，可能是冬季的極地大陸氣團或夏季的太平洋高壓。颱風與熱低壓中心氣壓低；梅雨鋒面是低壓帶。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "95-gsat-nat-44",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "type": "multiple",
+    "points": 2,
+    "question": "【第 43-44 題為題組】表 6 是北半球甲、乙、丙、丁四個觀測站記錄到的氣壓值（甲 1022、乙 1028、丙 1035、丁 1026 百帕），圖 17 為該區域的等壓線分布示意圖。\n44. 關於各地的天氣預報內容，下列哪幾項正確？（應選二項）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-43.png\" alt=\"圖17 橢圓形同心等壓線，丙在中心，丁在左側（等壓線較密），乙在右側內圈外，甲在最外圈外右方\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "丙地為下降氣流",
+      "丁地的風速比甲地大",
+      "乙地居民可感受到南風",
+      "甲地居民可感受到南風",
+      "甲地天氣晴朗乾燥，而丙地需嚴防豪雨"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "高壓中心盛行下降氣流（A）。丁附近等壓線較密，氣壓梯度大，風速較大（B）。北半球高壓順時針向外吹，中心東側的乙、甲吹偏北風；高壓中心天氣晴朗，不需防豪雨。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "95-gsat-nat-45",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "type": "multiple",
+    "points": 2,
+    "question": "45. 圖 18 為太平洋某地海水溫度與深度的關係圖。若依海水溫度的垂直變化特徵，將海水分為甲、乙、丙三層，則下列哪幾項敘述正確？（應選二項）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-45.png\" alt=\"圖18 海水溫度（0～30℃）對深度（0～4 公里）：甲層（表層約 0.1 公里內）約 28℃ 幾乎不變；乙層（約 0.1～0.8 公里）溫度急降到約 5℃；丙層（0.8 公里以下）溫度緩慢降到約 2℃\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "海水溫度最低處出現在丙層",
+      "乙層海水溫度的垂直變化最大，稱為混合層",
+      "丙層海水溫度的垂直變化最大，稱為斜溫層",
+      "甲層為混合層，海水溫度的垂直變化不大",
+      "乙層海水溫度隨深度遞減率大約為 1℃/km"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "甲層為混合層，溫度上下均勻（D）；乙層為斜溫層，溫度急降，遞減率約每公里數十度；丙層為深層水，溫度最低（A）。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "95-gsat-nat-46",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "type": "multiple",
+    "points": 2,
+    "question": "46. 一警車接獲搶案通報之後，以最高車速 40 公尺/秒（144 公里/時），沿直線道路向東趕往搶案現場。當警車距離搶匪 250 公尺時，搶匪開始駕車從靜止以 4 公尺/秒² 的加速度，沿同一道路向東逃逸。警車保持其最高車速，繼續追逐匪車。若匪車最高車速也是 40 公尺/秒，則下列敘述哪幾項正確？（應選三項）",
+    "options": [
+      "搶匪駕車 10 秒後被警車追上",
+      "兩車相距最近距離為 50 公尺",
+      "搶匪駕車從靜止經過 10 秒，前進了 200 公尺",
+      "搶匪駕車從靜止經過 10 秒，車速為 40 公尺/秒",
+      "追逐過程警車引擎持續運轉，警車的動能持續增加"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "匪車 10 秒後達 40 m/s（D），前進 ½ × 4 × 10² ＝ 200 m（C）。警車 10 秒前進 400 m，兩車距離 ＝ 250 ＋ 200 − 400 ＝ 50 m；之後兩車同速，距離不再縮小，最近 50 m（B），警車追不上。警車等速，動能不變。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "95-gsat-nat-47",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "type": "multiple",
+    "points": 2,
+    "question": "47. 人們利用變壓器將電壓升高或降低，變壓器的應用使得發電廠不須設在住家附近。下列有關變壓器的敘述，哪幾項正確？（應選三項）",
+    "options": [
+      "變壓器的環形鐵心是永久磁鐵",
+      "變壓器能變壓，與電流的磁效應有關",
+      "變壓器能變壓，與電流的熱效應有關",
+      "變壓器能變壓，與磁場改變時會產生感應電動勢有關",
+      "變壓器可使兩電力系統不須直接連結，就可以作電能的轉移"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "主線圈的交流電產生變化的磁場（磁效應，B），使副線圈產生感應電動勢（D）；兩線圈沒有導線相連，靠磁場轉移電能（E）。鐵心是軟鐵，不是永久磁鐵；與熱效應無關。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "95-gsat-nat-48",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "type": "multiple",
+    "points": 2,
+    "question": "48. 某次閃電的過程中，雲的底部和地面之間，電壓高達 1 千萬伏特，並在約 0.02 秒內輸送 20 庫侖的電量至地面。下列與閃電有關的敘述，哪幾項正確？（應選二項）",
+    "options": [
+      "該次閃電所產生的電功率約為 10⁷ 瓦特",
+      "雲和地面間高電壓的產生與摩擦起電有關",
+      "飛機在空中飛行時不可能遭雷擊，因此不須裝置避雷針",
+      "閃電時的大電流，使空氣產生高熱而快速膨脹，故常伴隨有雷聲",
+      "當閃電擊中住家電路的屋外電線時，屋內電視若未拔掉插頭，則可能會受損"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "大電流使空氣急遽受熱膨脹產生雷聲（D）；雷擊電線產生的突波會沿電路進入電器（E）。功率 ＝ 10⁷ × 20 ÷ 0.02 ＝ 10¹⁰ W；雲中電荷分離主要來自冰晶、水滴碰撞等過程；飛機也可能遭雷擊。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "95-gsat-nat-49",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "points": 2,
+    "question": "【第 49-50 題為題組】在固定體積的密閉容器內，置入 X 和 Y 兩種氣體反應物後，會生成一種 Z 氣體產物，圖 19 表示反應物和產物的濃度隨反應時間的變化關係。\n49. 下列哪一項可表示 X 和 Y 的化學反應式？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-49.png\" alt=\"圖19 濃度（M）對時間（0～120 秒）：X 由 0.8 降到約 0.6；Y 由約 0.7 降到約 0.3；Z 由 0 升到約 0.2，約 60 秒後都不再變化\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "X ＋ Y → Z",
+      "X ＋ 2Y → Z",
+      "2X ＋ Y → Z",
+      "X ＋ Y → 2Z",
+      "X ＋ 2Y → 2Z"
+    ],
+    "answerIndex": 1,
+    "explanation": "濃度變化：X 減少 0.2、Y 減少 0.4、Z 增加 0.2，比例 1 : 2 : 1，即 X ＋ 2Y → Z。\n\n故選 (B)"
+  },
+  {
+    "id": "95-gsat-nat-50",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "points": 2,
+    "question": "【第 49-50 題為題組】在固定體積的密閉容器內，置入 X 和 Y 兩種氣體反應物後，會生成一種 Z 氣體產物，圖 19 表示反應物和產物的濃度隨反應時間的變化關係。\n50. 若於相同的反應條件下，但在 X 和 Y 反應開始時加入催化劑，下列哪一圖最可表示反應物和產物的濃度隨反應時間的變化？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-49.png\" alt=\"圖19 濃度（M）對時間（0～120 秒）：X 由 0.8 降到約 0.6；Y 由約 0.7 降到約 0.3；Z 由 0 升到約 0.2，約 60 秒後都不再變化\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-50.png\" alt=\"五張濃度對時間圖：(A) 最終濃度與圖 19 相同，但更快達到不變；(B) 最終濃度相同但變化較慢；(C)(D)(E) 最終濃度與圖 19 不同\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)",
+      "(E)"
+    ],
+    "answerIndex": 0,
+    "explanation": "催化劑只加快反應速率，不改變最終的濃度（平衡位置）。(A) 最終濃度與圖 19 相同，且更快達到。\n\n故選 (A)"
+  },
+  {
+    "id": "95-gsat-nat-51",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "type": "multiple",
+    "points": 2,
+    "question": "【第 51-52 題為題組】在 25℃、1 大氣壓下，取 0.5 公升氦氣，在溫度不變的情況下，測得該氦氣的壓力（P）與體積（V）的變化如表 7（P 大氣壓／V 升）：1.00／0.50；1.11／0.45；1.25／0.40；1.43／0.35；1.67／0.30；1.99／0.25；2.50／0.20；5.00／0.10。有五學生根據表 7 的數據以不同方式作圖，分別得甲、乙、丙、丁、戊圖。\n51. 甲圖至戊圖中，哪二個圖是符合實驗數據的正確作圖？（應選二項）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-51.png\" alt=\"五張圖：甲 P 對 V，點呈雙曲線遞減；乙 P 對 1/V（橫軸 0～0.6），點也呈遞減曲線；丙 P 對 V（橫軸 0～12），點呈直線上升；丁 P 對 1/V（橫軸 0～12），點呈過原點直線上升；戊 PV 對 V，點呈 PV 約 1.0 的水平線\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "甲為 P 對 V，呈反比的雙曲線，正確。丁為 P 對 1/V，呈過原點直線，正確。乙標示為 1/V 卻畫成雙曲線；丙標示為 V 卻畫成直線；戊的 PV 應為 0.5 大氣壓·升，不是 1.0。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "95-gsat-nat-52",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "points": 2,
+    "question": "【第 51-52 題為題組】在 25℃、1 大氣壓下，取 0.5 公升氦氣，在溫度不變的情況下，測得該氦氣的壓力（P）與體積（V）的變化如表 7（P 大氣壓／V 升）：1.00／0.50；1.11／0.45；1.25／0.40；1.43／0.35；1.67／0.30；1.99／0.25；2.50／0.20；5.00／0.10。有五學生根據表 7 的數據以不同方式作圖，分別得甲、乙、丙、丁、戊圖。\n52. 承上題，若要預測壓力為 0.5 大氣壓時氦氣的體積，使用哪一個圖較佳？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-51.png\" alt=\"五張圖：甲 P 對 V，點呈雙曲線遞減；乙 P 對 1/V（橫軸 0～0.6），點也呈遞減曲線；丙 P 對 V（橫軸 0～12），點呈直線上升；丁 P 對 1/V（橫軸 0～12），點呈過原點直線上升；戊 PV 對 V，點呈 PV 約 1.0 的水平線\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "丁圖為直線，最容易延伸（外插）求出 P ＝ 0.5 時對應的 1/V（＝ 1），即 V ＝ 1 升。\n\n故選 (D)"
+  },
+  {
+    "id": "95-gsat-nat-53",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "points": 2,
+    "question": "53. 如圖 20，我們的腳拇指和第二腳趾的長短差別，其實是由一對等位（對偶）基因所控制的性狀。其中腳拇指比第二腳趾短的特徵，是由顯性基因（T）控制，而腳拇指比第二腳趾長的特徵，則是由隱性基因（t）控制。某對夫婦每次只生一個小孩，共生了 11 個小孩，其中 10 個小孩的腳拇指比第二腳趾短，1 個小孩的腳拇指比第二腳趾長，試問該對夫婦的基因型最可能為下列哪一項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-53.png\" alt=\"圖20 兩隻腳掌：左為顯性性狀（腳拇指比第二腳趾短），右為隱性性狀（腳拇指比第二腳趾長）\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "TT、TT",
+      "TT、Tt",
+      "Tt、Tt",
+      "Tt、tt",
+      "tt、tt"
+    ],
+    "answerIndex": 2,
+    "explanation": "有一個 tt 的孩子，父母都帶有 t；大多數孩子是顯性，比例接近 3 : 1 而非 1 : 1，所以父母最可能都是 Tt。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-54",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "type": "multiple",
+    "points": 2,
+    "question": "【第 54-56 題為題組】流行性感冒病毒（流感病毒）的構造很簡單，是一個由「基質蛋白」形成的球狀殼，內部有 7-8 條分別由「遺傳物質」與「核蛋白」纏繞形成的螺旋構造，其外部則包覆著脂質的「膜套」，膜套上鑲嵌有「血凝素（H）」和「神經氨酸酶（N）」兩種表面蛋白。依照核蛋白及基質蛋白的抗原性差異，流感病毒可區分為 A、B 和 C 三個型別。A 型流感病毒的宿主範圍廣泛，除了人、豬、馬等哺乳動物之外，亦能感染多種禽鳥的細胞。B 型和 C 型流感病毒則以感染人類為主。\n流感病毒的傳染能力，主要與病毒表面蛋白的作用有關：血凝素使病毒能吸附並感染宿主細胞，神經氨酸酶則可溶解宿主細胞，讓增殖後的病毒從宿主細胞中釋出。依其表面蛋白的抗原性差異，A 型流感病毒可進一步區分成多種亞型，目前已知血凝素有 15 種亞型（H1～H15），而神經氨酸酶則有 9 種亞型（N1～N9）。會造成人類流行性感冒疾病（人流感）的病毒株，主要具有 H1、H2、H3 三種之一的血凝素亞型，與 N1、N2 二種之一的神經氨酸酶亞型。\n人類對流感病毒的防疫能力，與體內能否及時產生可辨識病毒表面蛋白的抗體有密切關係。由於流感病毒的遺傳物質為單股 RNA，複製時的突變率高，易導致所生成的血凝素與神經氨酸酶發生抗原特性的改變，這也是為何流感病毒的疫苗需要每年重新接種的主要原因。若人流感病毒的突變，僅造成病毒表面蛋白少數幾個胺基酸發生改變，則先前注射的流感疫苗還有可能因交叉免疫而有局部的防疫效果；最令人擔心的是，原先不會感染人類的流感病毒（如高病源性的 H5N1 亞型禽流感病毒），在某種情況下進入人體細胞，並與人流感病毒的遺傳物質發生重組交換，新產生的病毒株不但擁有人體免疫系統從未接觸過的表面蛋白，並且具有從人群中傳染開來的能力，如此將對全人類的健康造成嚴重的威脅。\n54. 圖 21 為流感病毒的剖面構造示意圖，試問圖中標示「甲」的部位，是由下列哪幾種成份組成的？（應選二項）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-54.png\" alt=\"圖21 流感病毒剖面：外圍有棒狀與蕈狀的表面突起，內部有螺旋構造，甲指向內部的螺旋構造\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "血凝素",
+      "核蛋白",
+      "核糖核酸",
+      "基質蛋白",
+      "神經氨酸酶",
+      "去氧核糖核酸"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "甲是病毒內部的螺旋構造，由遺傳物質（單股 RNA）與核蛋白纏繞而成。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "95-gsat-nat-55",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "type": "multiple",
+    "points": 2,
+    "question": "【第 54-56 題為題組】流行性感冒病毒（流感病毒）的構造很簡單，是一個由「基質蛋白」形成的球狀殼，內部有 7-8 條分別由「遺傳物質」與「核蛋白」纏繞形成的螺旋構造，其外部則包覆著脂質的「膜套」，膜套上鑲嵌有「血凝素（H）」和「神經氨酸酶（N）」兩種表面蛋白。依照核蛋白及基質蛋白的抗原性差異，流感病毒可區分為 A、B 和 C 三個型別。A 型流感病毒的宿主範圍廣泛，除了人、豬、馬等哺乳動物之外，亦能感染多種禽鳥的細胞。B 型和 C 型流感病毒則以感染人類為主。\n流感病毒的傳染能力，主要與病毒表面蛋白的作用有關：血凝素使病毒能吸附並感染宿主細胞，神經氨酸酶則可溶解宿主細胞，讓增殖後的病毒從宿主細胞中釋出。依其表面蛋白的抗原性差異，A 型流感病毒可進一步區分成多種亞型，目前已知血凝素有 15 種亞型（H1～H15），而神經氨酸酶則有 9 種亞型（N1～N9）。會造成人類流行性感冒疾病（人流感）的病毒株，主要具有 H1、H2、H3 三種之一的血凝素亞型，與 N1、N2 二種之一的神經氨酸酶亞型。\n人類對流感病毒的防疫能力，與體內能否及時產生可辨識病毒表面蛋白的抗體有密切關係。由於流感病毒的遺傳物質為單股 RNA，複製時的突變率高，易導致所生成的血凝素與神經氨酸酶發生抗原特性的改變，這也是為何流感病毒的疫苗需要每年重新接種的主要原因。若人流感病毒的突變，僅造成病毒表面蛋白少數幾個胺基酸發生改變，則先前注射的流感疫苗還有可能因交叉免疫而有局部的防疫效果；最令人擔心的是，原先不會感染人類的流感病毒（如高病源性的 H5N1 亞型禽流感病毒），在某種情況下進入人體細胞，並與人流感病毒的遺傳物質發生重組交換，新產生的病毒株不但擁有人體免疫系統從未接觸過的表面蛋白，並且具有從人群中傳染開來的能力，如此將對全人類的健康造成嚴重的威脅。\n55. 流感疫苗需要每年重新接種的原因，與下列哪幾項敘述有關？（應選二項）",
+    "options": [
+      "人體的免疫系統每年會更新一次",
+      "流感病毒的遺傳物質為單股 DNA",
+      "流感病毒的遺傳物質容易發生突變",
+      "流感病毒感染宿主後，會有一年的潛伏期",
+      "流感病毒表面蛋白的抗原特性容易發生改變"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "文中說流感病毒的單股 RNA 突變率高（C），使血凝素與神經氨酸酶的抗原特性改變（E），舊疫苗產生的抗體無法辨識。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "95-gsat-nat-56",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "type": "multiple",
+    "points": 2,
+    "question": "【第 54-56 題為題組】流行性感冒病毒（流感病毒）的構造很簡單，是一個由「基質蛋白」形成的球狀殼，內部有 7-8 條分別由「遺傳物質」與「核蛋白」纏繞形成的螺旋構造，其外部則包覆著脂質的「膜套」，膜套上鑲嵌有「血凝素（H）」和「神經氨酸酶（N）」兩種表面蛋白。依照核蛋白及基質蛋白的抗原性差異，流感病毒可區分為 A、B 和 C 三個型別。A 型流感病毒的宿主範圍廣泛，除了人、豬、馬等哺乳動物之外，亦能感染多種禽鳥的細胞。B 型和 C 型流感病毒則以感染人類為主。\n流感病毒的傳染能力，主要與病毒表面蛋白的作用有關：血凝素使病毒能吸附並感染宿主細胞，神經氨酸酶則可溶解宿主細胞，讓增殖後的病毒從宿主細胞中釋出。依其表面蛋白的抗原性差異，A 型流感病毒可進一步區分成多種亞型，目前已知血凝素有 15 種亞型（H1～H15），而神經氨酸酶則有 9 種亞型（N1～N9）。會造成人類流行性感冒疾病（人流感）的病毒株，主要具有 H1、H2、H3 三種之一的血凝素亞型，與 N1、N2 二種之一的神經氨酸酶亞型。\n人類對流感病毒的防疫能力，與體內能否及時產生可辨識病毒表面蛋白的抗體有密切關係。由於流感病毒的遺傳物質為單股 RNA，複製時的突變率高，易導致所生成的血凝素與神經氨酸酶發生抗原特性的改變，這也是為何流感病毒的疫苗需要每年重新接種的主要原因。若人流感病毒的突變，僅造成病毒表面蛋白少數幾個胺基酸發生改變，則先前注射的流感疫苗還有可能因交叉免疫而有局部的防疫效果；最令人擔心的是，原先不會感染人類的流感病毒（如高病源性的 H5N1 亞型禽流感病毒），在某種情況下進入人體細胞，並與人流感病毒的遺傳物質發生重組交換，新產生的病毒株不但擁有人體免疫系統從未接觸過的表面蛋白，並且具有從人群中傳染開來的能力，如此將對全人類的健康造成嚴重的威脅。\n56. 有關 H5N1 亞型禽流感病毒的敘述，下列哪幾項正確？（應選二項）",
+    "options": [
+      "宿主細胞向來都是以人類細胞為主",
+      "其核蛋白的抗原特性與 A 型流感病毒的最相似",
+      "會造成人的流感疾病，但不會造成雞的流感疾病",
+      "其血凝素亞型與人流感常見病毒株的血凝素亞型完全不同",
+      "其神經氨酸酶亞型與人流感常見病毒株的神經氨酸酶亞型完全不同"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "H5N1 是 A 型流感病毒，核蛋白屬 A 型（B）。人流感常見的血凝素是 H1～H3，H5 完全不同（D）；但 N1 與人流感的 N1 相同。H5N1 原本主要感染禽鳥。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "95-gsat-nat-57",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "【第 57-60 題為題組】科學家們發現在現今的氣候狀況下，海溫高於 26℃ 是颱風形成的必要條件之一。基本上，海面的水汽蒸發量與海溫相關，而飽和水汽壓也和溫度相關，圖 22 粗黑曲線顯示飽和水汽壓和溫度之間的關係。海溫上升，颱風頻率會不會增加？颱風強度會不會增強？這些議題仍在熱烈爭辯中。\n57. 試問在海溫由 25℃ 上升至 30℃ 的狀況下，飽和水汽壓會如何變化？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-57.png\" alt=\"圖22 水汽壓（0～80 百帕）對氣溫（5～40℃）：粗黑飽和曲線由 5℃ 約 9 百帕上升到 40℃ 約 74 百帕，曲線上方為液態、下方為氣態；乙約在 33℃、44 百帕（接近曲線），丙約在 18℃、19 百帕（接近曲線），丁約在 31℃、12 百帕，甲約在 38℃、16 百帕\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "減少約 5 百帕",
+      "增加約 5 百帕",
+      "增加約 10 百帕",
+      "不變"
+    ],
+    "answerIndex": 2,
+    "explanation": "由圖 22，25℃ 飽和水汽壓約 32 百帕，30℃ 約 42 百帕，增加約 10 百帕。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-58",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "【第 57-60 題為題組】科學家們發現在現今的氣候狀況下，海溫高於 26℃ 是颱風形成的必要條件之一。基本上，海面的水汽蒸發量與海溫相關，而飽和水汽壓也和溫度相關，圖 22 粗黑曲線顯示飽和水汽壓和溫度之間的關係。海溫上升，颱風頻率會不會增加？颱風強度會不會增強？這些議題仍在熱烈爭辯中。\n58. 一般而言，強烈颱風伴隨劇烈的風雨，試問圖 22 中的甲、乙、丙、丁四點，何者最能代表颱風雲雨區，近地面大氣的氣溫和飽和水汽壓狀況？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-57.png\" alt=\"圖22 水汽壓（0～80 百帕）對氣溫（5～40℃）：粗黑飽和曲線由 5℃ 約 9 百帕上升到 40℃ 約 74 百帕，曲線上方為液態、下方為氣態；乙約在 33℃、44 百帕（接近曲線），丙約在 18℃、19 百帕（接近曲線），丁約在 31℃、12 百帕，甲約在 38℃、16 百帕\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "颱風雲雨區氣溫高（約 30℃ 以上）且水汽壓高、接近飽和，四點中乙最符合（丙雖接近飽和但氣溫偏低）。\n\n大考中心公布的答案為 (B) 或 (C) 皆給分，本題以 (B) 記錄。\n\n故選 (B)"
+  },
+  {
+    "id": "95-gsat-nat-59",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "【第 57-60 題為題組】科學家們發現在現今的氣候狀況下，海溫高於 26℃ 是颱風形成的必要條件之一。基本上，海面的水汽蒸發量與海溫相關，而飽和水汽壓也和溫度相關，圖 22 粗黑曲線顯示飽和水汽壓和溫度之間的關係。海溫上升，颱風頻率會不會增加？颱風強度會不會增強？這些議題仍在熱烈爭辯中。\n59. 表 8 中哪些現象或人類的活動可能會造成全球海溫的增加？\nI 沙塵暴造成大氣中的懸浮微粒增加\nII 人類大量使用煤、石油等化石燃料\nIII 火山噴發，大量火山灰進入大氣\nIV 人類為取得更多可使用的土地，大量砍伐雨林",
+    "options": [
+      "I",
+      "I、III",
+      "II、IV",
+      "I、II、III、IV"
+    ],
+    "answerIndex": 2,
+    "explanation": "燃燒化石燃料與砍伐雨林都使大氣 CO₂ 增加，加強溫室效應，使海溫上升。沙塵與火山灰會反射陽光，反而使地表降溫。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-60",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "【第 57-60 題為題組】科學家們發現在現今的氣候狀況下，海溫高於 26℃ 是颱風形成的必要條件之一。基本上，海面的水汽蒸發量與海溫相關，而飽和水汽壓也和溫度相關，圖 22 粗黑曲線顯示飽和水汽壓和溫度之間的關係。海溫上升，颱風頻率會不會增加？颱風強度會不會增強？這些議題仍在熱烈爭辯中。\n60. 如果西元 2100 年時全球熱帶海溫較現在增高 2℃，地表大氣溫度亦增高 2℃，而對流層頂的溫度及高度均不變。相較於現在的狀況，下列哪一項為西元 2100 年，熱帶地區之對流層大氣穩定度的變化情形？（穩定度是指一上升氣塊，若其氣溫較同高度周圍大氣溫度為冷，因密度較大，上升運動會受到抑制，此種情形稱為穩定；反之，稱為不穩定）",
+    "options": [
+      "增高",
+      "不變",
+      "下降",
+      "資料不足，無法判斷"
+    ],
+    "answerIndex": 2,
+    "explanation": "地面增溫而對流層頂溫度不變，溫度隨高度遞減得更快，地面暖空氣上升時較容易比周圍空氣暖，大氣變得較不穩定，穩定度下降。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-61",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "points": 2,
+    "question": "【第 61-68 題為題組】在正常體溫之下，如果腦部的血流停止，則腦細胞會在幾分鐘之內缺氧而死。若是將體溫降低約 20℃，腦細胞的耗氧量也隨之降低，如此可容許血流暫停時間延長，以利腦部手術進行。準備手術之前，病患的心肺功能開始由心肺機取代，示意如圖 23。心肺機包含三大部分：「氧合器」作為人工肺，對血液供氧；「抽送幫浦」代表心臟，推動血液循環；「熱交換器」則提供熱量交換，經由血液循環調節體溫。體重約 60 公斤重的病患，其體溫監測紀錄如圖 24 所示。\n61. 流經腦部的血液中，除了含氧之外，還可能含有表 9 中的幾種成分？（表 9：澱粉、抗體、尿素、肝醣、激素、維生素、胺基酸、葡萄糖、礦物質、二氧化碳）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-61.png\" alt=\"圖23 心肺機示意圖：抽送幫浦、氧合器、熱交換器以管路連接病患心臟。圖24 體溫（℃）對時刻（10～20 時）：約 13 時前維持 37℃，13～14 時降到約 15℃，14～15 時維持約 15℃，15～16 時回升到約 38℃，之後維持約 37℃\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "6 種",
+      "7 種",
+      "8 種",
+      "9 種",
+      "10 種"
+    ],
+    "answerIndex": 2,
+    "explanation": "血液中有抗體、尿素、激素、維生素、胺基酸、葡萄糖、礦物質、二氧化碳共 8 種。澱粉在消化道就被分解；肝醣儲存在肝臟與肌肉細胞內。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-62",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "points": 2,
+    "question": "【第 61-68 題為題組】在正常體溫之下，如果腦部的血流停止，則腦細胞會在幾分鐘之內缺氧而死。若是將體溫降低約 20℃，腦細胞的耗氧量也隨之降低，如此可容許血流暫停時間延長，以利腦部手術進行。準備手術之前，病患的心肺功能開始由心肺機取代，示意如圖 23。心肺機包含三大部分：「氧合器」作為人工肺，對血液供氧；「抽送幫浦」代表心臟，推動血液循環；「熱交換器」則提供熱量交換，經由血液循環調節體溫。體重約 60 公斤重的病患，其體溫監測紀錄如圖 24 所示。\n62. 如圖 25 所示，工程師考慮將線圈纏繞在活塞下端，利用與固定磁鐵之間的相對運動，帶動「抽送幫浦」中的活塞，抽送血液。圖中左活門只能向外自由開啟，反向則封閉管路；右活門只能向內自由開啟，反向則封閉管路。下列有關此設計構想的敘述哪一項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-62.png\" alt=\"圖25 抽送幫浦：上方腔室左側為左活門、右側為右活門，活塞下端纏有線圈，兩端導線為甲、乙；下方為 N 極朝上的固定磁鐵\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "血液由左活門吸入，右活門推出",
+      "當甲電極為正，乙電極為負時，活塞向上運動",
+      "當甲電極為正，乙電極為負時，幫浦將血液吸入",
+      "當甲電極為負，乙電極為正時，幫浦內壓力降低"
+    ],
+    "answerIndex": 2,
+    "explanation": "右活門只能向內開，血液由右活門吸入；左活門只能向外開，由左活門推出，(A) 錯。依圖中線圈繞法，甲正乙負時線圈下端與磁鐵 N 極相吸，活塞向下，幫浦內壓力降低，血液由右活門吸入（C）。電流反向時線圈與磁鐵相斥，活塞向上，壓力升高把血液推出。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-63",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "生物",
+    "points": 2,
+    "question": "【第 61-68 題為題組】在正常體溫之下，如果腦部的血流停止，則腦細胞會在幾分鐘之內缺氧而死。若是將體溫降低約 20℃，腦細胞的耗氧量也隨之降低，如此可容許血流暫停時間延長，以利腦部手術進行。準備手術之前，病患的心肺功能開始由心肺機取代，示意如圖 23。心肺機包含三大部分：「氧合器」作為人工肺，對血液供氧；「抽送幫浦」代表心臟，推動血液循環；「熱交換器」則提供熱量交換，經由血液循環調節體溫。體重約 60 公斤重的病患，其體溫監測紀錄如圖 24 所示。\n63. 此病患的腦部手術最適宜在哪個時段進行？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-61.png\" alt=\"圖23 心肺機示意圖：抽送幫浦、氧合器、熱交換器以管路連接病患心臟。圖24 體溫（℃）對時刻（10～20 時）：約 13 時前維持 37℃，13～14 時降到約 15℃，14～15 時維持約 15℃，15～16 時回升到約 38℃，之後維持約 37℃\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "10 時至 12 時",
+      "13 時 30 分至 14 時",
+      "14 時至 15 時",
+      "15 時至 16 時"
+    ],
+    "answerIndex": 2,
+    "explanation": "由圖 24，14～15 時體溫維持在最低的約 15℃，腦細胞耗氧量最低，最適合暫停血流進行腦部手術。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-64",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "地科",
+    "points": 2,
+    "question": "【第 61-68 題為題組】在正常體溫之下，如果腦部的血流停止，則腦細胞會在幾分鐘之內缺氧而死。若是將體溫降低約 20℃，腦細胞的耗氧量也隨之降低，如此可容許血流暫停時間延長，以利腦部手術進行。準備手術之前，病患的心肺功能開始由心肺機取代，示意如圖 23。心肺機包含三大部分：「氧合器」作為人工肺，對血液供氧；「抽送幫浦」代表心臟，推動血液循環；「熱交換器」則提供熱量交換，經由血液循環調節體溫。體重約 60 公斤重的病患，其體溫監測紀錄如圖 24 所示。\n64. 許多現代科技產品常使用矽作為材料，如人工肺氧合器的矽膠薄膜，而矽又是地殼中次多的元素，所以地殼中常見的造岩礦物大都是矽酸鹽類礦物，下列哪一種不屬於矽酸鹽類礦物？",
+    "options": [
+      "石英",
+      "長石",
+      "雲母",
+      "橄欖石",
+      "方解石"
+    ],
+    "answerIndex": 4,
+    "explanation": "方解石是碳酸鈣（CaCO₃），屬碳酸鹽礦物。石英、長石、雲母、橄欖石都是矽酸鹽類（石英為 SiO₂ 架狀結構）。\n\n故選 (E)"
+  },
+  {
+    "id": "95-gsat-nat-65",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "points": 2,
+    "question": "【第 61-68 題為題組】在正常體溫之下，如果腦部的血流停止，則腦細胞會在幾分鐘之內缺氧而死。若是將體溫降低約 20℃，腦細胞的耗氧量也隨之降低，如此可容許血流暫停時間延長，以利腦部手術進行。準備手術之前，病患的心肺功能開始由心肺機取代，示意如圖 23。心肺機包含三大部分：「氧合器」作為人工肺，對血液供氧；「抽送幫浦」代表心臟，推動血液循環；「熱交換器」則提供熱量交換，經由血液循環調節體溫。體重約 60 公斤重的病患，其體溫監測紀錄如圖 24 所示。\n65. 人類大動脈的截面積約是 5.0×10⁻⁴ 平方公尺。若心臟推送血液的平均壓力約 12000 帕，平均流速約 0.20 公尺/秒，則心臟推動血液流動的平均功率約是多少瓦特？",
+    "options": [
+      "0.20",
+      "1.2",
+      "6.0",
+      "2400"
+    ],
+    "answerIndex": 1,
+    "explanation": "P ＝ Fv ＝ (壓力 × 截面積) × 流速 ＝ 12000 × 5.0×10⁻⁴ × 0.20 ＝ 1.2 W。\n\n故選 (B)"
+  },
+  {
+    "id": "95-gsat-nat-66",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "points": 2,
+    "question": "【第 61-68 題為題組】在正常體溫之下，如果腦部的血流停止，則腦細胞會在幾分鐘之內缺氧而死。若是將體溫降低約 20℃，腦細胞的耗氧量也隨之降低，如此可容許血流暫停時間延長，以利腦部手術進行。準備手術之前，病患的心肺功能開始由心肺機取代，示意如圖 23。心肺機包含三大部分：「氧合器」作為人工肺，對血液供氧；「抽送幫浦」代表心臟，推動血液循環；「熱交換器」則提供熱量交換，經由血液循環調節體溫。體重約 60 公斤重的病患，其體溫監測紀錄如圖 24 所示。\n66. 調節病患體溫的過程中，熱量在血液循環系統之內傳播，主要是利用下列哪一種方式？",
+    "options": [
+      "輻射",
+      "傳導",
+      "對流",
+      "散射"
+    ],
+    "answerIndex": 2,
+    "explanation": "血液流動把熱量帶到全身，是流體本身移動傳熱的對流。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-nat-67",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "化學",
+    "points": 2,
+    "question": "【第 61-68 題為題組】在正常體溫之下，如果腦部的血流停止，則腦細胞會在幾分鐘之內缺氧而死。若是將體溫降低約 20℃，腦細胞的耗氧量也隨之降低，如此可容許血流暫停時間延長，以利腦部手術進行。準備手術之前，病患的心肺功能開始由心肺機取代，示意如圖 23。心肺機包含三大部分：「氧合器」作為人工肺，對血液供氧；「抽送幫浦」代表心臟，推動血液循環；「熱交換器」則提供熱量交換，經由血液循環調節體溫。體重約 60 公斤重的病患，其體溫監測紀錄如圖 24 所示。\n67. 人體內每一莫耳葡萄糖（C₆H₁₂O₆；分子量 ＝ 180）經代謝後，可以產生熱量 670 千卡。某人手術後僅能依靠注射 5%（重量百分濃度）葡萄糖水溶液補充能量。假使維持身體的能量每小時是 100 千卡，則至少需要每小時注射葡萄糖水溶液多少公克？",
+    "options": [
+      "33.8",
+      "67.5",
+      "135",
+      "270",
+      "540"
+    ],
+    "answerIndex": 4,
+    "explanation": "每小時需葡萄糖 100 ÷ 670 ≈ 0.149 莫耳 × 180 ≈ 26.9 克；5% 溶液需 26.9 ÷ 0.05 ≈ 537 克，約 540 克。\n\n故選 (E)"
+  },
+  {
+    "id": "95-gsat-nat-68",
+    "examType": "學測",
+    "year": 95,
+    "subject": "自然",
+    "section": "物理",
+    "points": 2,
+    "question": "【第 61-68 題為題組】在正常體溫之下，如果腦部的血流停止，則腦細胞會在幾分鐘之內缺氧而死。若是將體溫降低約 20℃，腦細胞的耗氧量也隨之降低，如此可容許血流暫停時間延長，以利腦部手術進行。準備手術之前，病患的心肺功能開始由心肺機取代，示意如圖 23。心肺機包含三大部分：「氧合器」作為人工肺，對血液供氧；「抽送幫浦」代表心臟，推動血液循環；「熱交換器」則提供熱量交換，經由血液循環調節體溫。體重約 60 公斤重的病患，其體溫監測紀錄如圖 24 所示。\n68. 人體組織的比熱約與水相當。圖 24 之中 15 時至 16 時升溫階段，假設所需熱量完全由心肺機的熱交換器所提供，則熱交換器於該時段約耗電多少度？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-nat-61.png\" alt=\"圖23 心肺機示意圖：抽送幫浦、氧合器、熱交換器以管路連接病患心臟。圖24 體溫（℃）對時刻（10～20 時）：約 13 時前維持 37℃，13～14 時降到約 15℃，14～15 時維持約 15℃，15～16 時回升到約 38℃，之後維持約 37℃\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1400",
+      "70",
+      "1.4",
+      "0.33",
+      "0.07"
+    ],
+    "answerIndex": 2,
+    "explanation": "15～16 時體溫約由 15℃ 升到 35℃ 以上，約升高 20℃。Q ＝ 60 × 4.2×10³ × 20 ≈ 5.0×10⁶ J，1 度 ＝ 3.6×10⁶ J，約 1.4 度。\n\n故選 (C)"
   }
 ]
