@@ -53628,5 +53628,385 @@
       "OP 最小長度"
     ],
     "explanation": "• $P$ 在 $E$ 上：$a = c + 4$；$b = 0$ 代入 19 題：$(c + 4)^2 \\ge 3c^2 \\implies c^2 - 4c - 8 \\le 0$，得 $2 - 2\\sqrt3 \\le c \\le 2 + 2\\sqrt3$（此時 $a = c + 4 > 0$，滿足 $\\theta \\le \\dfrac\\pi6$）。\n• $\\overline{OP} = \\sqrt{(c + 4)^2 + c^2} = \\sqrt{2(c + 2)^2 + 8}$，對稱軸 $c = -2$ 不在範圍內，範圍內 $c$ 越小越短，最小值在 $c = 2 - 2\\sqrt3$：\n$$\\overline{OP} = \\sqrt{2(4 - 2\\sqrt3)^2 + 8} = \\sqrt{64 - 32\\sqrt3} = 4(\\sqrt3 - 1)$$\n（另解：此時 $a^2 = 3c^2$，$\\overline{OP} = \\sqrt{4c^2} = 2|c| = 4(\\sqrt3 - 1)$。）"
+  },
+  {
+    "id": "113-gsat-mathB-01",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "points": 5,
+    "question": "1. 某遊戲共有 210 位玩家，每位玩家均持有寶石，其中持有 1 顆的有 1 位，持有 2 顆的有 2 位，依此類推，持有 20 顆寶石的有 20 位。試問這些玩家每人持有寶石數量的第 90 百分位數為下列哪一個選項？",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "answerIndex": 3,
+    "explanation": "由小到大排列，$210\\times0.9 = 189$ 為整數，第 90 百分位數取第 189、190 筆的平均。\n持有 $k$ 顆以下的人數為 $\\dfrac{k(k+1)}{2}$：$k = 18$ 時 171，$k = 19$ 時 190。第 189、190 筆都是 19。\n\n故選 (D)"
+  },
+  {
+    "id": "113-gsat-mathB-02",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "points": 5,
+    "question": "2. 已知 $a, b, c$ 為實數，且滿足 $1 < a < 10$、$b = \\log a$、$c = \\log b$，試選出正確的選項。",
+    "options": [
+      "$c < 0 < b < 1$",
+      "$0 < c < 1 < b$",
+      "$0 < c < b < 1$",
+      "$1 < c < b$",
+      "$c < b < 0$"
+    ],
+    "answerIndex": 0,
+    "explanation": "$1 < a < 10 \\implies 0 < b = \\log a < 1 \\implies c = \\log b < 0$。\n\n故選 (A)"
+  },
+  {
+    "id": "113-gsat-mathB-03",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "points": 5,
+    "question": "3. 某射擊遊戲的玩家要避開障礙物射擊目標。今在遊戲畫面中設立一直角坐標系，以長方形螢幕左下角點 $O$ 為原點，螢幕下方的邊緣為 $x$ 軸、螢幕左方的邊緣為 $y$ 軸，目標物放在點 $P(12, 10)$。畫面中有兩面牆（牆厚度可忽略不計），一面牆由點 $A(10, 5)$ 水平延伸到點 $B(15, 5)$，另一面牆由點 $C(0, 6)$ 水平延伸到點 $D(9, 6)$，如右圖之示意圖。若玩家在點 $Q$ 可直線射擊點 $P$ 的目標物，不會被兩面牆阻擋。下列哪一個選項有可能是點 $Q$ 的坐標？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-gsat-mathB-03.png\" alt=\"螢幕坐標示意：牆 CD 在 y = 6、牆 AB 在 y = 5，目標 P 在右上\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "(6, 3)",
+      "(7, 3)",
+      "(8, 5)",
+      "(9, 1)",
+      "(9, 2)"
+    ],
+    "answerIndex": 1,
+    "explanation": "檢查線段 $QP$ 在 $y = 5$ 時的 $x$ 是否落在 $[10, 15]$（被 $AB$ 擋），在 $y = 6$ 時是否落在 $[0, 9]$（被 $CD$ 擋）：\n• (A) $(6,3)$：$y = 6$ 時 $x = 6 + \\dfrac{3}{7}\\cdot6 \\approx 8.57$，被擋。\n• (B) $(7,3)$：$y = 5$ 時 $x = 7 + \\dfrac{2}{7}\\cdot5 \\approx 8.43$（不在 $[10,15]$）；$y = 6$ 時 $x = 7 + \\dfrac37\\cdot5 \\approx 9.14 > 9$，都不被擋 ✓\n• (C) $(8,5)$：$y = 6$ 時 $x = 8 + \\dfrac15\\cdot4 = 8.8$，被擋。\n• (D) $(9,1)$：$y = 5$ 時 $x = 9 + \\dfrac49\\cdot3 \\approx 10.33$，被擋。\n• (E) $(9,2)$：$y = 5$ 時 $x = 9 + \\dfrac38\\cdot3 = 10.125$，被擋。\n\n故選 (B)"
+  },
+  {
+    "id": "113-gsat-mathB-04",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "points": 5,
+    "question": "4. 已知坐標平面上有一向量 $\\vec v = (-2, 3)$ 及兩點 $A$、$B$，且點 $A$ 的 $x$ 坐標和 $y$ 坐標、點 $B$ 的 $x$ 坐標和 $y$ 坐標都落在區間 $[0, 1]$ 內，試問 $|\\vec v + \\overrightarrow{AB}|$ 的最大值為下列哪一個選項？",
+    "options": [
+      "$\\sqrt{13}$",
+      "$\\sqrt{17}$",
+      "$3\\sqrt2$",
+      "5",
+      "$\\sqrt2 + \\sqrt{13}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "$\\overrightarrow{AB} = (\\Delta x, \\Delta y)$，$\\Delta x, \\Delta y \\in [-1, 1]$。要使長度最大，讓 $x$ 分量往負、$y$ 分量往正：取 $\\overrightarrow{AB} = (-1, 1)$，得 $(-3, 4)$，長度 5。\n\n故選 (D)"
+  },
+  {
+    "id": "113-gsat-mathB-05",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "points": 5,
+    "question": "5. 設二次函數 $f(x) = x^2 + bx + c$，其中 $b, c$ 為實數。已知 $f(x - 2) = f(-x - 2)$ 對任意實數 $x$ 均成立，且當 $-3 \\le x \\le 1$ 時，$f(x)$ 的最大值會是最小值的 4 倍，則 $f(x)$ 的最小值是下列哪一個選項？",
+    "options": [
+      "0",
+      "$\\dfrac53$",
+      "3",
+      "4",
+      "6"
+    ],
+    "answerIndex": 2,
+    "explanation": "對稱軸 $x = -2$，$f(x) = (x + 2)^2 + k$。在 $[-3, 1]$ 上最小值 $f(-2) = k$，最大值 $f(1) = 9 + k$：\n$$9 + k = 4k \\implies k = 3$$\n\n故選 (C)"
+  },
+  {
+    "id": "113-gsat-mathB-06",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "points": 5,
+    "question": "6. 某大樓居民在大樓外牆展示聖誕樹造型燈飾，如圖所示，從五樓外牆某處 $P$ 向四樓地板的兩端 $A, B$ 拉小燈泡形成等腰三角形 $PAB$，其中 $\\overline{PA} = \\overline{PB}$；向三樓地板的兩端 $C, D$ 拉小燈泡形成等腰三角形 $PCD$；向二樓地板的兩端 $E, F$ 拉小燈泡形成等腰三角形 $PEF$。假設每層樓等高且樓地板等長。若五樓地板在三角形 $PAB$ 內部所截出的線段長度為樓地板長度的 $\\dfrac13$，則五樓地板在三角形 $PEF$ 內部所截出的線段長度是樓地板長度的幾分之幾？（燈飾粗細可忽略不計）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-gsat-mathB-06.png\" alt=\"大樓外牆聖誕樹燈飾：P 在五樓，向四、三、二樓地板兩端拉燈\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac17$",
+      "$\\dfrac16$",
+      "$\\dfrac15$",
+      "$\\dfrac29$",
+      "$\\dfrac14$"
+    ],
+    "answerIndex": 0,
+    "explanation": "設樓高 $h$，$P$ 在五樓地板上方 $d$ 處，樓地板長 $W$。由相似三角形，五樓地板截出的長度 $= W\\times\\dfrac{d}{P\\text{ 到底邊的高}}$。\n• $\\triangle PAB$：底邊在四樓地板，高 $d + h$：$\\dfrac{d}{d + h} = \\dfrac13 \\implies d = \\dfrac h2$。\n• $\\triangle PEF$：底邊在二樓地板，高 $d + 3h = \\dfrac{7h}{2}$：比例 $= \\dfrac{h/2}{7h/2} = \\dfrac17$。\n\n故選 (A)"
+  },
+  {
+    "id": "113-gsat-mathB-07",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "points": 5,
+    "question": "7. 有一城市分為東、西兩區。兩區各有一個氣溫偵測站，該城市當天的最高溫（單位：攝氏度）是取這兩區當天氣溫的最大值來記錄。東、西兩區某月（共 30 天）每日最高溫分布為：東區 18≤t<24 有 0 天、24≤t<30 有 11 天、30≤t<36 有 14 天、36≤t 有 5 天；西區依序 3、12、15、0 天。該城市當月每日最高溫分布依序為 A、B、C、D 天。試選出有可能為數組 (A, B, C, D) 的選項。",
+    "options": [
+      "(0, 15, 15, 0)",
+      "(3, 12, 15, 5)",
+      "(0, 9, 16, 5)",
+      "(3, 7, 15, 5)",
+      "(0, 12, 13, 5)"
+    ],
+    "answerIndex": 2,
+    "explanation": "• $D$：城市最高溫 $\\ge 36$ 只可能來自東區的 5 天（西區沒有），所以 $D = 5$。\n• $A$：要兩區都低於 24，但東區沒有低於 24 的日子，$A = 0$。只剩 (C)、(E)。\n• $B$：城市在 $[24, 30)$ 時，東區必須也在 $[24, 30)$，所以 $B \\le 11$，(E) 不可能。\n• (C) 可行：東區 11 個 $[24,30)$ 的日子中，9 天搭配西區低於 30、2 天搭配西區 $[30,36)$；其餘日子東區都 $\\ge 30$，可以排出 $C = 16$。\n\n故選 (C)"
+  },
+  {
+    "id": "113-gsat-mathB-08",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 已知正實數數列 $a, b, c, d, e$ 為等比數列，且 $a < b < c < d < e$，試選出下列為等比數列的選項。",
+    "options": [
+      "$a, -b, c, -d, e$",
+      "$e, d, c, b, a$",
+      "$\\log a, \\log b, \\log c, \\log d, \\log e$",
+      "$3^a, 3^b, 3^c, 3^d, 3^e$",
+      "$abc, bcd, cde$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "設公比 $r > 1$。\n• (A) 公比 $-r$ ✓\n• (B) 公比 $\\dfrac1r$ ✓\n• (C) 錯誤：這是公差 $\\log r \\ne 0$ 的等差數列；非常數的等差數列不可能同時是等比數列（例如 $a = 1$ 時首項為 0，更不可能等比）。\n• (D) $\\dfrac{3^b}{3^a} = 3^{b - a}$，但 $b - a \\ne c - b$（公比 $r \\ne 1$），比值不固定。\n• (E) 比值都是 $r^3$ ✓\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "113-gsat-mathB-09",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 已知多項式 $f(x)$ 除以 $x^2 + 5x + 1$ 後，所得出的商式為 $x^3 + 7x^2 + x + 3$，試選出下列可能為 $f(x)$ 的選項。",
+    "options": [
+      "$2(x^3 + 7x^2 + x + 3)(x^2 + 5x + 1)$",
+      "$(x^3 + 7x^2 + x + 3)(x^2 + 5x + 1) - x$",
+      "$(x^3 + 7x^2 + x + 3)(x^2 + 5x + 1) + x^2$",
+      "$(x^3 + 7x^2 + x + 4)(x^2 + 5x + 1) - x$",
+      "$(x^3 + 7x^2 + x + 4)(x^2 + 5x + 1) - x^2$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "令 $Q = x^3 + 7x^2 + x + 3$、$D = x^2 + 5x + 1$，需 $f = QD + (\\text{一次以下的餘式})$。\n• (A) 商式為 $2Q$。\n• (B) 餘式 $-x$ ✓\n• (C) $x^2 = D - 5x - 1$，商式變成 $Q + 1$。\n• (D) $(Q + 1)D - x = QD + x^2 + 4x + 1$，餘式不是一次以下，商式為 $Q + 1$。\n• (E) $(Q + 1)D - x^2 = QD + 5x + 1$ ✓\n\n故選 (B)(E)"
+  },
+  {
+    "id": "113-gsat-mathB-10",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 有兩個光點在一條長度為 120 公分的直線形軌道上移動，碰到端點就反向繼續移動。一開始兩點分別在軌道的兩端相向而動，光點 A、光點 B 的移動速率分別為每秒 5 公分及每秒 10 公分。試選出正確的選項。",
+    "options": [
+      "兩個光點第一次相遇的位置，與其中一個端點的距離為 40 公分",
+      "光點 A 的位置呈週期現象，週期為 24 秒",
+      "當光點 A 回到 A 的出發點時，光點 B 也在 B 的出發點",
+      "兩個光點第二次相遇在其中一個端點上",
+      "兩個光點在軌道上共有 3 個不同的相遇位置"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "以 A 的出發端為 0。A 往返一趟 48 秒，B 往返一趟 24 秒。\n• 第一次相遇：$t = \\dfrac{120}{15} = 8$，位置 40 ✓ (A)\n• (B) 錯誤：A 的週期 48 秒。\n• (C) 正確：$t = 48$ 時 A 回到 0，B 已往返兩趟回到 120。\n• 第二次：B 在 $t = 12$ 到 0 後折返，追上 A：$10(t - 12) = 5t$，$t = 24$，位置 120（端點）✓ (D)\n• 第三次：$t = 24$ 後兩者都往左，B 在 $t = 36$ 到 0 折返，$10(t - 36) = 120 - 5(t - 24)$，$t = 40$，位置 40；$t = 48$ 時又回到初始狀態。\n• (E) 錯誤：相遇位置只有 40 與 120 兩處。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "113-gsat-mathB-11",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 某國家過去五年的碳排放總量，由第 1 年的 $X$ 億公噸二氧化碳當量下降至第 5 年的 $Y$ 億公噸二氧化碳當量，達到每年平均減碳 5% 的效益，亦即 $Y = (1 - 0.05)^4X$。將五年的碳排放總量與年成長率記錄如下：第 1～5 年碳排放總量依序為 $X, A, B, C, Y$；第 2～5 年的碳排放年成長率依序為 $-0.07, p, q, r$，其中第 $n$ 年碳排放成長率 $= \\dfrac{(\\text{第 }n\\text{ 年}) - (\\text{第 }n-1\\text{ 年})}{\\text{第 }n-1\\text{ 年}}$。試選出正確的選項。",
+    "options": [
+      "$A = 0.93X$",
+      "$Y \\le 0.8X$",
+      "$\\dfrac{-0.07 + p + q + r}{4} = -0.05$",
+      "$\\sqrt[4]{\\dfrac YX} - 1 = -0.05$",
+      "$0.93(1 + p)(1 + q)(1 + r) = (0.95)^4$"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "• (A) 正確：$A = X(1 - 0.07)$。\n• (B) 錯誤：$0.95^4 \\approx 0.8145 > 0.8$。\n• (C) 錯誤：平均減碳 5% 是幾何平均，成長率的算術平均不一定是 $-0.05$。\n• (D) 正確：$\\sqrt[4]{0.95^4} - 1 = -0.05$。\n• (E) 正確：$Y = X\\cdot0.93(1 + p)(1 + q)(1 + r) = 0.95^4X$。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "113-gsat-mathB-12",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 小明寫了一個程式讓機器人在 $2\\times2$ 的棋盤中移動，如圖所示（上排 $A$、$B$，下排 $C$、$D$）。每執行一次，程式會選擇「上、下、左、右」中的某一個方向，不同方向被選擇的機率均相等，並指示機器人依該方向移動一格，但若選到的方向會跑出棋盤，則機器人該次會停在原地。每次執行都是從上次所在位置依程式重新選取的方向移動，假設機器人的初始位置在 $A$。令執行程式 $n$ 次後，機器人停留在 $A$、$B$、$C$、$D$ 的機率分別為 $a_n$、$b_n$、$c_n$ 和 $d_n$。試選出正確的選項。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-gsat-mathB-12.png\" alt=\"2×2 棋盤：上排 A、B，下排 C、D\" style=\"width:100%;max-width:100px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$b_1 = \\dfrac14$",
+      "$b_2 = \\dfrac18$",
+      "$a_2 + d_2 = \\dfrac34$",
+      "$b_{99} = c_{99}$",
+      "$a_{100} + d_{100} > \\dfrac12$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "每一格都有 2 個方向會跑出棋盤（停在原地），所以每次：停留機率 $\\dfrac12$，移到兩個相鄰格各 $\\dfrac14$。\n• (A) 正確：$a_1 = \\dfrac12$、$b_1 = c_1 = \\dfrac14$、$d_1 = 0$。\n• (B) 錯誤：$b_2 = \\dfrac12b_1 + \\dfrac14(a_1 + d_1) = \\dfrac18 + \\dfrac18 = \\dfrac14$。\n• (C) 錯誤：$a_{n+1} + d_{n+1} = \\dfrac12(a_n + d_n) + \\dfrac12(b_n + c_n) = \\dfrac12$，所以 $a_2 + d_2 = \\dfrac12$。\n• (D) 正確：從 $A$ 出發，$B$ 與 $C$ 的地位對稱，$b_n = c_n$。\n• (E) 錯誤：由 (C) 的推導，$a_{100} + d_{100} = \\dfrac12$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "113-gsat-mathB-13",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "13. 已知 $a, b, c, d$ 為實數，且 $\\begin{bmatrix} 1 & -1 \\\\ 3 & -2 \\end{bmatrix}\\begin{bmatrix} a \\\\ b \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix}$。若 $\\begin{bmatrix} 1 & -1 \\\\ 3 & -2 \\end{bmatrix}\\begin{bmatrix} 2a + 1 \\\\ 2b + 1 \\end{bmatrix} = \\begin{bmatrix} c \\\\ d \\end{bmatrix}$，則 $c - 3d$ 的值為 ⑬-1 ⑬-2。",
+    "blanks": [
+      "-",
+      "1"
+    ],
+    "blankLabels": [
+      "13-1",
+      "13-2"
+    ],
+    "explanation": "令 $M = \\begin{bmatrix} 1 & -1 \\\\ 3 & -2 \\end{bmatrix}$：\n$$M\\begin{bmatrix} 2a + 1 \\\\ 2b + 1 \\end{bmatrix} = 2M\\begin{bmatrix} a \\\\ b \\end{bmatrix} + M\\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} 2 \\\\ 0 \\end{bmatrix} + \\begin{bmatrix} 0 \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} 2 \\\\ 1 \\end{bmatrix}$$\n$c - 3d = 2 - 3 = -1$。"
+  },
+  {
+    "id": "113-gsat-mathB-14",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "14. 某校全體高三學生都有報考學測數學 $A$ 或數學 $B$，在這些學生中只報考數學 $A$ 的學生占全體高三學生的 $\\dfrac{3}{10}$。報考數學 $A$ 的學生中有 $\\dfrac58$ 的學生同時也報考數學 $B$。則只報考數學 $B$ 的學生在該校所有報考數學 $B$ 的學生中所占的比例為 $\\dfrac{⑭\\text{-}1}{⑭\\text{-}2}$。（化為最簡分數）",
+    "blanks": [
+      "2",
+      "7"
+    ],
+    "blankLabels": [
+      "14-1",
+      "14-2"
+    ],
+    "explanation": "設報考 A 的比例為 $x$，只考 A 的是 $\\dfrac38x = \\dfrac{3}{10}$，$x = \\dfrac45$；兩科都考 $\\dfrac58\\cdot\\dfrac45 = \\dfrac12$。\n只考 B $= 1 - \\dfrac45 = \\dfrac15$；報考 B $= \\dfrac12 + \\dfrac15 = \\dfrac{7}{10}$。\n比例 $= \\dfrac{1/5}{7/10} = \\dfrac27$。"
+  },
+  {
+    "id": "113-gsat-mathB-15",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "15. 已知 $P_1$、$P_2$、$Q_1$、$Q_2$、$R$ 為平面上相異五點，其中 $P_1$、$P_2$、$R$ 三點不共線，且滿足 $\\overrightarrow{P_1R} = 4\\overrightarrow{P_1Q_1}$，$\\overrightarrow{P_2R} = 7\\overrightarrow{P_2Q_2}$，則 $\\overrightarrow{Q_1Q_2} =$ ⑮-1 $\\overrightarrow{P_1Q_1}$ + ⑮-2 ⑮-3 $\\overrightarrow{P_2Q_2}$。",
+    "blanks": [
+      "3",
+      "-",
+      "6"
+    ],
+    "blankLabels": [
+      "15-1",
+      "15-2",
+      "15-3"
+    ],
+    "explanation": "$\\overrightarrow{Q_1R} = \\overrightarrow{P_1R} - \\overrightarrow{P_1Q_1} = 3\\overrightarrow{P_1Q_1}$，$\\overrightarrow{Q_2R} = 6\\overrightarrow{P_2Q_2}$。\n$$\\overrightarrow{Q_1Q_2} = \\overrightarrow{Q_1R} - \\overrightarrow{Q_2R} = 3\\overrightarrow{P_1Q_1} - 6\\overrightarrow{P_2Q_2}$$"
+  },
+  {
+    "id": "113-gsat-mathB-16",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "16. 在空間坐標系中，有一球心坐標在 $O(0,0,0)$ 且北極點在 $N(0,0,2)$ 的地球儀。已知球面上點 $A$ 坐標為 $\\left(\\dfrac{\\sqrt3}{2}, \\dfrac12, \\sqrt3\\right)$，赤道上距離點 $A$ 最遠的點為點 $P$，則在通過點 $A$、點 $P$ 的大圓上這兩點的劣弧長為 $\\dfrac{⑯\\text{-}1\\ \\pi}{⑯\\text{-}2}$。（化為最簡分數）",
+    "blanks": [
+      "4",
+      "3"
+    ],
+    "blankLabels": [
+      "16-1",
+      "16-2"
+    ],
+    "explanation": "半徑 2。赤道上離 $A$ 最遠的點在 $A$ 的反向經度：$A$ 的水平分量為 $\\left(\\dfrac{\\sqrt3}{2}, \\dfrac12\\right)$，$P = (-\\sqrt3, -1, 0)$。\n$$\\cos\\angle AOP = \\frac{-\\frac32 - \\frac12 + 0}{2\\cdot2} = -\\frac12 \\implies \\angle AOP = \\frac{2\\pi}{3}$$\n劣弧長 $= 2\\cdot\\dfrac{2\\pi}{3} = \\dfrac{4\\pi}{3}$。"
+  },
+  {
+    "id": "113-gsat-mathB-17",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "17. 在一圓的圓周上取 12 個等分點並以順時針方向依序編 1 號至 12 號。由這 12 個點任取 3 點為頂點所形成的三角形中，三個內角的角度由小到大會成等差數列的三角形有 ⑰-1 ⑰-2 個。",
+    "blanks": [
+      "7",
+      "6"
+    ],
+    "blankLabels": [
+      "17-1",
+      "17-2"
+    ],
+    "explanation": "三內角成等差 $\\iff$ 中間的角為 $60^\\circ$（三角和 $180^\\circ$，只要有一角是 $60^\\circ$，另兩角和 $120^\\circ$ 就自然對稱於 $60^\\circ$）。\n每段弧 $30^\\circ$，所對圓周角 $15^\\circ$；$60^\\circ$ 的角所對的弧占 4 段。\n• 數「有一邊跨 4 段弧」的三角形：這種弦有 12 條，第三點在另一側 8 段弧的內部 7 個點中任選，共 84 個。\n• 正三角形（三邊都跨 4 段）共 4 個，每個被計了 3 次，多算 $2\\times4 = 8$。\n共 $84 - 8 = 76$ 個。"
+  },
+  {
+    "id": "113-gsat-mathB-18",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "points": 3,
+    "question": "【第 18-20 題為題組】如圖所示，考慮長方體的石塊上某一頂點 $A$ 及包含點 $A$ 的一個面，令這個面的各邊中點分別為 $B, E, F, D$。此長方體上包含點 $B$ 的另一個面，令其各邊中點分別為 $B, C, H, G$。已知 $\\overline{BC} = 8$，$\\overline{BD} = \\overline{DC} = 9$。現將此石塊截去八個角，使得每個截角的截面恰通過該截角之三鄰邊的中點。\n18. 截角後的石塊為幾面體？（單選題，3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-gsat-mathB-18.png\" alt=\"長方體截角示意：頂點 A 與三鄰邊中點 B、C、D 形成截面三角形 BCD（DB = DC = 9、BC = 8）\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "八面體",
+      "十面體",
+      "十二面體",
+      "十四面體",
+      "十六面體"
+    ],
+    "answerIndex": 3,
+    "explanation": "原本 6 個面都還保留（被截成較小的多邊形），另外 8 個角各多出一個三角形截面，共 $6 + 8 = 14$ 個面。\n\n故選 (D)"
+  },
+  {
+    "id": "113-gsat-mathB-19",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 4,
+    "question": "【第 18-20 題為題組】如圖所示，考慮長方體的石塊上某一頂點 $A$ 及包含點 $A$ 的一個面，令這個面的各邊中點分別為 $B, E, F, D$。此長方體上包含點 $B$ 的另一個面，令其各邊中點分別為 $B, C, H, G$。已知 $\\overline{BC} = 8$，$\\overline{BD} = \\overline{DC} = 9$。現將此石塊截去八個角，使得每個截角的截面恰通過該截角之三鄰邊的中點。\n19. 試求 $\\triangle BCD$ 的面積。（非選擇題，4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-gsat-mathB-18.png\" alt=\"長方體截角示意：頂點 A 與三鄰邊中點 B、C、D 形成截面三角形 BCD（DB = DC = 9、BC = 8）\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "selfGrade": true,
+    "blanks": [
+      "$4\\sqrt{65}$"
+    ],
+    "blankLabels": [
+      "面積"
+    ],
+    "explanation": "$\\triangle BCD$ 為等腰（$\\overline{DB} = \\overline{DC} = 9$）。取 $\\overline{BC}$ 中點 $P$，$\\overline{DP} = \\sqrt{9^2 - 4^2} = \\sqrt{65}$：\n$$\\triangle BCD = \\frac12\\cdot8\\cdot\\sqrt{65} = 4\\sqrt{65}$$\n（也可用海龍公式：$s = 13$，$\\sqrt{13\\cdot4\\cdot4\\cdot5} = 4\\sqrt{65}$。）"
+  },
+  {
+    "id": "113-gsat-mathB-20",
+    "examType": "學測",
+    "year": 113,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 8,
+    "question": "【第 18-20 題為題組】如圖所示，考慮長方體的石塊上某一頂點 $A$ 及包含點 $A$ 的一個面，令這個面的各邊中點分別為 $B, E, F, D$。此長方體上包含點 $B$ 的另一個面，令其各邊中點分別為 $B, C, H, G$。已知 $\\overline{BC} = 8$，$\\overline{BD} = \\overline{DC} = 9$。現將此石塊截去八個角，使得每個截角的截面恰通過該截角之三鄰邊的中點。\n20. 試求 $\\overline{AD}$ 的長度與四面體 $ABCD$ 的體積，並求此四面體以 $\\triangle BCD$ 為底面時，頂點 $A$ 到底面的高度。（角錐體積 $= \\dfrac{\\text{底面積}\\times\\text{高}}{3}$）（非選擇題，8 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-gsat-mathB-18.png\" alt=\"長方體截角示意：頂點 A 與三鄰邊中點 B、C、D 形成截面三角形 BCD（DB = DC = 9、BC = 8）\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "selfGrade": true,
+    "blanks": [
+      "7",
+      "$\\dfrac{112}{3}$",
+      "$\\dfrac{28\\sqrt{65}}{65}$"
+    ],
+    "blankLabels": [
+      "AD",
+      "體積",
+      "高"
+    ],
+    "explanation": "【截角四面體 $ABCD$】$A$ 是長方體的頂點，$\\overline{AB}$、$\\overline{AC}$、$\\overline{AD}$ 沿三條互相垂直的稜，所以 $\\angle BAC = \\angle CAD = \\angle DAB = 90^\\circ$。\n設 $\\overline{AD} = x$、$\\overline{AB} = y$、$\\overline{AC} = z$：$x^2 + y^2 = 81$、$x^2 + z^2 = 81$、$y^2 + z^2 = 64$，得 $y = z = 4\\sqrt2$、$x = 7$。\n• 體積：以 $\\triangle ABC$（兩股 $4\\sqrt2$ 的直角三角形）為底、$\\overline{AD} = 7$ 為高：\n$$V = \\frac13\\cdot\\left(\\frac12\\cdot4\\sqrt2\\cdot4\\sqrt2\\right)\\cdot7 = \\frac{112}{3}$$\n• 以 $\\triangle BCD$ 為底：$\\dfrac13\\cdot4\\sqrt{65}\\cdot h = \\dfrac{112}{3}$，$h = \\dfrac{28}{\\sqrt{65}} = \\dfrac{28\\sqrt{65}}{65}$。"
   }
 ]
