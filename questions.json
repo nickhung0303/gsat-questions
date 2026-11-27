@@ -219022,5 +219022,921 @@
       "判斷與依據"
     ],
     "explanation": "【參考答案】丙（2 分）。依據：HDI 排名比美國、日本差，但比巴西、中國、埃及好（2 分）；人口金字塔顯示老年人口明顯女多於男（2 分）。\\n\\n俄羅斯男性受酗酒、心血管疾病等影響，平均壽命比女性短十年以上，加上二次大戰大量男性死亡，老年人口女性遠多於男性；蘇聯解體後出生率大降，金字塔中也有明顯的凹陷。"
+  },
+  {
+    "id": "109m-ast-geo-01",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "清代一首描寫臺灣某處地理景觀的詩詞：「小小門廬矮矮房，玲瓏海石築圍牆。牛柴煨處炊煙起，飽啖魚蝦勝稻粱。」（註：牛柴是指以牛糞當燃料）。該地最可能位於下列哪裡？",
+    "options": [
+      "彰化鹿港",
+      "臺南七股",
+      "新北淡水",
+      "澎湖馬公"
+    ],
+    "answerIndex": 3,
+    "explanation": "澎湖冬季東北季風強勁，房屋低矮；當地以珊瑚礁岩（咾咕石）等「海石」堆砌圍牆（菜宅）擋風；島上樹木少、缺乏柴薪，居民以牛糞當燃料；土壤貧瘠、少種稻，以捕撈魚蝦為主要食物。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-geo-02",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖1為1989年及2018年同一地點的二萬五千分之一經建版地形圖，某生想根據此資訊來發想其研究課題，下列哪個題目最為合理？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-02.png\" alt=\"圖1 同一地點 1989 年與 2018 年的經建版地形圖：1989 年市街範圍較小、周圍多為農地；2018 年增加了高速公路、交流道與新的道路，市街範圍明顯擴大\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "傳統地名的演變歷程",
+      "移居人口對傳統信仰的衝擊",
+      "道路系統的建置與聚落發展的關係",
+      "埤圳系統的興築與土地利用的關係"
+    ],
+    "answerIndex": 2,
+    "explanation": "比較兩圖，2018 年多了高速公路、交流道與新的道路，聚落與建築範圍也明顯擴大，適合探討道路系統建置與聚落發展的關係。地形圖無法看出信仰變化；兩圖的地名與埤圳變化不明顯。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-geo-03",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖2為全球六大洲（南極洲除外）的面積與人口百分比資料，俄羅斯全境併入歐洲計算；表1為2013年全世界HDI指數排名前十名國家，這些國家分屬於圖2中的不同大洲，其中哪個大洲擁有的數量最多？\n表1\n｜排名｜國家｜排名｜國家｜\n｜1｜挪威｜6｜德國｜\n｜2｜澳洲｜7｜紐西蘭｜\n｜3｜瑞士｜8｜加拿大｜\n｜4｜荷蘭｜9｜新加坡｜\n｜5｜美國｜10｜丹麥｜",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-03.png\" alt=\"圖2 六大洲面積（2008 年）與人口（2010 年）百分比堆疊圖：面積由上而下為甲 6.3%、乙 13.1%、丙 18.0%、丁 16.9%、戊 22.3%、己 23.4%；人口為甲 0.5%、乙 5.7%、丙 7.9%、丁 10.6%、戊 15.0%、己 60.3%\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "丙",
+      "丁",
+      "己"
+    ],
+    "answerIndex": 2,
+    "explanation": "由圖2判斷：己的人口占 60.3%，是亞洲；戊面積 22.3%、人口 15%，是非洲；丁面積 16.9%、人口 10.6%（含俄羅斯），是歐洲；丙是北美洲；乙是南美洲；甲面積與人口最少，是大洋洲。表1中挪威、瑞士、荷蘭、德國、丹麥共 5 國位於歐洲（丁），數量最多。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-geo-04",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "臺灣中央山脈尾端，東側有「鳳梨釋迦園」、西側有「洋蔥田」的農作景觀，每到冬季盛產期時，兩地農民各自忙著採收，好不熱鬧。下列關於兩地鳳梨釋迦與洋蔥生長條件的敘述哪項最正確？",
+    "options": [
+      "西側的冬季，地方風風速較為強勁，洋蔥適應良好",
+      "東側黑潮流經，冬季較為乾燥，有利鳳梨釋迦生長",
+      "兩側冬季皆有迎風坡潮濕多雨的情況，不利農作成熟",
+      "兩側冬季皆有盛行風翻越山脈的增溫效應，有利農作成熟"
+    ],
+    "answerIndex": 0,
+    "explanation": "中央山脈尾端西側是恆春半島，冬季東北季風越過低矮的山地後形成強勁的落山風，乾燥少雨、日照充足，洋蔥植株低矮、耐風，適應良好。東側臺東冬季溫暖，適合鳳梨釋迦生長，但黑潮帶來的是暖濕而非乾燥。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-geo-05",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖3為中國某種地理現象的分層設色圖，顏色愈深表示數值愈高。此地理現象最可能為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-05.png\" alt=\"圖3 中國分層設色圖：西北的新疆南部、內蒙古西部一帶顏色最深，向東南沿海顏色逐漸變淺\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "七月月均溫",
+      "年平均降水量",
+      "年平均降雪日數",
+      "沙塵暴年發生率"
+    ],
+    "answerIndex": 3,
+    "explanation": "圖中顏色最深的地區在新疆塔里木盆地、內蒙古、甘肅河西走廊一帶的沙漠與乾燥區，東南沿海顏色最淺，這是沙塵暴的發生頻率。若是年降水量，應該是東南沿海最高；若是降雪日數，青藏高原與東北會最高。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-geo-06",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖4為南海某島嶼不同年度的衛星影像圖，可以看出因填海造陸的人為設施，造成島嶼形狀、面積產生變化。此變化與臺灣下列哪個地區最為相似？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-06.png\" alt=\"圖4 南海某島嶼 2005 年與 2016 年衛星影像：2005 年島嶼呈圓形，有一條跑道；2016 年島嶼周圍經填海擴建，面積與形狀明顯改變\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "新北貢寮海岸",
+      "雲林麥寮外海",
+      "雲林外傘頂洲",
+      "屏東佳冬沿海"
+    ],
+    "answerIndex": 1,
+    "explanation": "雲林麥寮的六輕工業區是在外海淺灘以抽砂填海造陸的方式興建的，與南海島嶼填海擴大面積的情形相似。外傘頂洲是自然的沙洲，面積因侵蝕而縮小；佳冬沿海是地層下陷問題。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-geo-07",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "近年來印度與巴基斯坦在水資源議題上時有衝突，衝突原因與下列何者關係最密切？",
+    "options": [
+      "印度指控巴國在恆河兩岸發展棉花農業，導致該國河水受農藥汙染",
+      "印度指控巴國在恆河上游建立重工業區，導致該國西北部用水不足",
+      "巴國指控印度在印度河三角洲設引水工程，導致該國灌溉水源短缺",
+      "巴國指控印度在印度河上游發展水力發電，導致該國水源供應受限"
+    ],
+    "answerIndex": 3,
+    "explanation": "印度河發源於中國西藏，流經印度控制的喀什米爾後進入巴基斯坦，巴基斯坦在下游。印度在上游興建水壩發電，巴基斯坦擔心水源被控制，雙方常因此衝突。恆河不流經巴基斯坦；印度河三角洲在巴基斯坦境內。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-geo-08",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "「世界地質公園」為聯合國教科文組織（UNESCO）所推動設置的保護區類型之一，下列哪些是設置地質公園的主要目的？\n甲、保護地景資源　乙、永續提供地質建材　丙、提升地方經濟發展\n丁、推廣地球科學教育　戊、保護世界文化遺產",
+    "options": [
+      "甲乙丙",
+      "甲丙丁",
+      "乙丙戊",
+      "乙丁戊"
+    ],
+    "answerIndex": 1,
+    "explanation": "地質公園的目標是保育特殊的地質地景（甲），透過地景旅遊帶動地方經濟發展（丙），並推廣地球科學教育（丁）。地質公園禁止開採建材；文化遺產不是地質公園的保護對象。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-geo-09",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "地景可以反映一地的人地互動結果。下列四張照片呈現的地景，哪些是由土石流所造成？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-09.png\" alt=\"四張災害照片：甲為街道旁倒塌的房屋；乙為屋頂塌陷、倒在地面的建築；丙為山谷中被土石掩埋的房屋；丁為山區溪谷中堆滿砂石的河床\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "甲丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "丙照片中房屋被大量土石掩埋在谷地中；丁照片中山谷的溪床堆滿土石，都是土石流造成的景觀。甲、乙照片是房屋倒塌、建築損毀，較可能是地震造成。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-geo-10",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "照片1為某生在國內進行地理實察時所拍攝的照片，下列哪個坐標最有可能是此照片的拍攝地點？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-10.png\" alt=\"照片1 鹽田：方格狀的淺水鹽田中堆著白色的鹽堆，有人在田中工作\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "21.92°N, 120.71°E",
+      "23.13°N, 121.34°E",
+      "23.26°N, 120.11°E",
+      "24.56°N, 121.82°E"
+    ],
+    "answerIndex": 2,
+    "explanation": "照片是曬鹽的鹽田與堆積的鹽堆。臺灣的鹽田集中在西南沿海，日照強、降雨少、地勢平坦。23.26°N、120.11°E 位於臺南北門一帶（如井仔腳瓦盤鹽田）。21.92°N 是恆春半島南端；23.13°N、121.34°E 在臺東沿海；24.56°N、121.82°E 在宜蘭。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-geo-11",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖5為利用地理資訊系統將等高線向量資料轉換成數值高程模型（DEM）網格資料的示意圖，圖上方格為轉換後的DEM網格，每個網格的數值為其中心點的高度值。圖中A4的數值最可能為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-11.png\" alt=\"圖5 等高線圖疊上 5×5 的 DEM 網格，欄位 A～E、列 1～5，圖中有 300、500 等等高線標示\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "400",
+      "500",
+      "600",
+      "700"
+    ],
+    "answerIndex": 0,
+    "explanation": "在圖5中依網格中心點所在位置的等高線判讀高度：A4 位於圖的左側較低處，鄰近的等高線數值約 400，因此 A4 網格中心點的高度最接近 400。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-geo-12",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "水資源利用可區分為農業、工業和生活用水三類型，下列哪個區域的工業用水類型占該區內的用水比例最高？",
+    "options": [
+      "亞洲",
+      "歐洲",
+      "非洲",
+      "大洋洲"
+    ],
+    "answerIndex": 1,
+    "explanation": "歐洲工業化程度高，又多屬溫帶海洋性氣候，農業多靠降雨、灌溉需求少，因此工業用水（含發電冷卻用水）占總用水的比例最高。亞洲、非洲以農業灌溉用水為主。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-geo-13",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "下列哪個氣候類型分布區內的物理風化作用強度遠大於化學風化作用？",
+    "options": [
+      "熱帶沙漠氣候",
+      "地中海型氣候",
+      "熱帶莽原氣候",
+      "溫帶海洋性氣候"
+    ],
+    "answerIndex": 0,
+    "explanation": "熱帶沙漠氣候乾燥少雨、日夜溫差大，岩石反覆熱脹冷縮而崩解，物理風化作用強；缺乏水分使化學風化作用很弱。濕潤地區的化學風化較旺盛。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-geo-14",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖6為某研究法國各大區能否滿足遊客住宿需求的調查結果，圖中數字表示能滿足多少遊客在該地能獲得住宿服務，例如圖中75%代表有四分之三的遊客在該地能獲得住宿服務。根據圖6的資訊，下列哪項推論最為合理？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-14.png\" alt=\"圖6 法國各大區住宿滿足率地圖：北部臨英吉利海峽的地區為 93%、87%，巴黎周邊約 70%，東北部 35%～55%，西南部 46%、67%，東南臨地中海地區最低為 24%\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "北部臨英吉利海峽地區的遊客數最多",
+      "南部庇里牛斯山區的旅遊資源最豐富",
+      "沿地中海地區最無法滿足遊客的需求",
+      "都市地區比鄉村地區較能滿足遊客的需求"
+    ],
+    "answerIndex": 2,
+    "explanation": "圖中數值最低的是東南部臨地中海的地區（24%），代表只有約四分之一的遊客能獲得住宿，住宿最無法滿足遊客需求。圖中的比例只反映住宿的供需，看不出遊客總數或旅遊資源的多寡；北部臨英吉利海峽的地區比例反而最高（93%）。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-geo-15",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "都市化會造成洪峰流量的增加，形成此現象的最可能原因為何者？",
+    "options": [
+      "工業家庭廢水排放增加",
+      "地表逕流整體流量增加",
+      "休閒農業灌溉用水增加",
+      "不透水面導致蒸發增加"
+    ],
+    "answerIndex": 1,
+    "explanation": "都市化使地面被柏油、水泥等不透水面覆蓋，雨水無法入滲，地表逕流增加且匯流速度加快，河川的洪峰流量因而增大、出現時間提早。不透水面主要減少的是入滲，而非增加蒸發。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-geo-16",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "地球表面與陸地（圖7中淺灰色處）最遠距離的點稱為尼莫點（圖中的X處），X最可能位於哪個海洋？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-16.png\" alt=\"圖7 以 X 為中心的地球影像：X 位於廣大的海洋中央，周圍以圓圈標示；下方邊緣是南極洲，右側邊緣可見南美洲南端\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "北太平洋",
+      "南太平洋",
+      "南大西洋",
+      "印度洋"
+    ],
+    "answerIndex": 1,
+    "explanation": "尼莫點（海洋難抵極）位於南太平洋，距離最近的陸地（復活節島、南極洲附近的島嶼等）約 2700 公里。圖中 X 周圍是廣大的海洋，下方可見南極洲，右上方是南美洲南端。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-geo-17",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "熱帶雨林的分布具有下列哪些特徵？\n甲、只分布在南美和東南亞地區　乙、分布於高溫多雨的熱帶環境\n丙、生物種類豐富具有高多樣性　丁、植被茂密陽光不易照射地面\n戊、土壤肥沃有利農業的發展",
+    "options": [
+      "甲乙丙",
+      "乙丙丁",
+      "丙丁戊",
+      "甲丁戊"
+    ],
+    "answerIndex": 1,
+    "explanation": "熱帶雨林分布在赤道附近高溫多雨的地區（乙），生物多樣性最高（丙），林冠層層覆蓋，陽光很難照到地面（丁）。非洲剛果盆地也有熱帶雨林（甲錯）；雨林土壤受強烈淋溶，養分貧瘠（戊錯）。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-geo-18",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "下列哪張地圖最可能是表達歐洲的主要宗教文化分區？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-18.png\" alt=\"四張歐洲分區地圖選項 (A)～(D)，各以不同深淺把歐洲分成幾個區塊；(B) 圖將西南歐、西北歐與東歐分為三區\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖中 (A) 的地圖",
+      "圖中 (B) 的地圖",
+      "圖中 (C) 的地圖",
+      "圖中 (D) 的地圖"
+    ],
+    "answerIndex": 1,
+    "explanation": "歐洲的宗教可分為三區：西南歐（義大利、西班牙、法國等）以天主教為主；西北歐（英國、北歐、德國北部）以基督新教為主；東歐（俄羅斯、希臘、巴爾幹東部）以東正教為主。(B) 圖把歐洲分成西南、西北與東部三個區塊，最符合這三大宗教分區。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-geo-19",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "表2為某都市的土地使用分區管制規定，若各分區均以建蔽率的最大值為計算基準，最高的建築物最可能出現在下列哪個土地使用分區？\n表2\n｜土地使用分區｜建蔽率（%）｜容積率（%）｜\n｜住三｜45｜225｜\n｜商三｜65｜560｜\n｜風景區｜15｜60｜\n｜行政區｜35｜400｜",
+    "options": [
+      "住三",
+      "商三",
+      "風景區",
+      "行政區"
+    ],
+    "answerIndex": 3,
+    "explanation": "以建蔽率的最大值蓋滿時，樓層數約為容積率 ÷ 建蔽率：住三 225÷45＝5、商三 560÷65≒8.6、風景區 60÷15＝4、行政區 400÷35≒11.4。行政區的建築物最高。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-geo-20",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "沿海地區若超抽地下水而發生地層下陷，可能會引發哪些環境議題？\n甲、河流侵蝕加速　乙、潮汐週期改變　丙、地下水層鹽化\n丁、海岸侵蝕加速　戊、濕地範圍擴增",
+    "options": [
+      "甲乙丙",
+      "乙丙丁",
+      "丙丁戊",
+      "甲丁戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "沿海超抽地下水，海水會入侵地下含水層，造成地下水鹽化（丙）；地層下陷使海岸地勢降低，海水更容易侵蝕海岸（丁），低窪地也容易積水，形成濕地（戊）。地面下陷不會改變潮汐週期，也不會加速河流侵蝕。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-geo-21",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "照片2是某種傳統的灌溉系統景觀，下列哪個地區最常見到此景觀？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-21.png\" alt=\"照片2 乾燥地表上一連串排列成線、延伸到遠方的圓形豎井口\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "西亞",
+      "撒赫爾",
+      "西伯利亞",
+      "澳洲中部"
+    ],
+    "answerIndex": 0,
+    "explanation": "照片中一連串排列成線的豎井口，是地下水道「坎兒井（Qanat）」的地面景觀：在山麓開挖地下渠道，把地下水引到綠洲灌溉，以減少蒸發。這種灌溉系統起源於伊朗，常見於西亞（伊朗、阿富汗）與中國新疆吐魯番。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-geo-22",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "下列哪些區域會同時受到地震與熱帶氣旋的災害威脅？\n甲、東南亞南海周邊　乙、南亞孟加拉灣沿岸　丙、非洲北部紅海沿岸\n丁、北美洲太平洋沿岸　戊、中美洲墨西哥灣周邊",
+    "options": [
+      "甲乙丙",
+      "乙丙丁",
+      "丙丁戊",
+      "甲乙戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "東南亞南海周邊（菲律賓等）位於環太平洋地震帶，又是颱風路徑（甲）；孟加拉灣沿岸受熱帶氣旋侵襲，也鄰近喜馬拉雅地震帶（乙）；中美洲墨西哥灣周邊有颶風，中美洲也是板塊交界的地震帶（戊）。紅海沿岸沒有熱帶氣旋；北美太平洋沿岸雖有地震，但颶風很少侵襲。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-geo-23",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "臺灣人均可利用水資源分配量相當有限，主要是受到哪些因素的影響？\n甲、降雨在時空的分布不均　乙、山地農業灌溉需水量大　丙、地下水抽取使用量太多\n丁、地形陡峭降雨快速入海　戊、土地狹小人口數量太高",
+    "options": [
+      "甲乙丙",
+      "乙丙丁",
+      "甲丙丁",
+      "甲丁戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "臺灣雨量雖多，但集中在夏季與山區（甲）；河川短促、坡陡流急，雨水很快流入海中，難以蓄留（丁）；加上土地狹小、人口稠密，平均每人可分配的水量就很少（戊）。農業灌溉用水主要在平原，地下水超抽是結果而非原因。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-geo-24",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖8與表3為某地區爆發未知疾病群聚病例的分布與病例統計。根據該地區各分區的病例統計研判，該疾病最可能透過下列何種方式傳播？\n表3\n｜分區｜人口密度（人／km²）｜致病率（每一萬人）｜分區｜人口密度（人／km²）｜致病率（每一萬人）｜\n｜I｜1,436｜0.2｜VIII｜3,514｜4.4｜\n｜II｜1,539｜0.4｜IX｜1,304｜23.0｜\n｜III｜4,429｜0.1｜X｜1,280｜0.4｜\n｜IV｜4,169｜0.1｜XI｜949｜19.5｜\n｜V｜1,194｜0.5｜XII｜696｜0.1｜\n｜VI｜794｜0.6｜XIII｜1,290｜0.6｜\n｜VII｜2,281｜0.2｜｜｜｜",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-24.png\" alt=\"圖8 某地區分區圖，劃分為 I～XIII 共十三個分區；VIII、IX、XI 位於地區中南部，彼此相鄰\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "血液",
+      "空氣",
+      "飛沫",
+      "飲用水"
+    ],
+    "answerIndex": 3,
+    "explanation": "致病率與人口密度沒有關係：人口最密集的 III、IV 致病率很低，致病率最高的 IX、XI、VIII 人口密度並不高，而且它們在圖8中相鄰、集中在某一區域。若經空氣或飛沫傳播，人口愈密集應愈容易傳染；病例集中在特定相鄰分區，較可能是共用同一水源，透過飲用水傳播。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-geo-25",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "若某新興傳染病於2月在臺中爆發初始病例，3月開始疫情往南部傳播，5月已至嘉義地區，圖9為每個鄉鎮的病例人數與該鄉鎮到初始病例發生處的距離關係示意圖。請問：\n\n依照圖9中的擴散趨勢判斷，此新興傳染病的擴散類型最可能為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-25.png\" alt=\"圖9 各鄉鎮病例人數與到初始病例距離（0～80 公里）的散布圖：3 月、4 月、5 月的點都集中在距離較近處、病例較多，距離愈遠病例愈少；5 月的點分布範圍最廣\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "擴張型",
+      "位移型",
+      "階層型",
+      "混合型"
+    ],
+    "answerIndex": 0,
+    "explanation": "病例由臺中向外、往南逐漸蔓延，距離愈近病例愈多，原發地的病例仍持續存在，範圍不斷擴大，屬於擴張型擴散。位移型擴散的原發地會不再有病例；階層型則會跳躍傳播。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-geo-26",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "若某新興傳染病於2月在臺中爆發初始病例，3月開始疫情往南部傳播，5月已至嘉義地區，圖9為每個鄉鎮的病例人數與該鄉鎮到初始病例發生處的距離關係示意圖。請問：\n\n在不考量其他條件下，若僅以圖9中的疫情發展趨勢判斷，5月時何處疫情可能最為嚴重？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-25.png\" alt=\"圖9 各鄉鎮病例人數與到初始病例距離（0～80 公里）的散布圖：3 月、4 月、5 月的點都集中在距離較近處、病例較多，距離愈遠病例愈少；5 月的點分布範圍最廣\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "臺中",
+      "雲林",
+      "嘉義",
+      "臺南"
+    ],
+    "answerIndex": 0,
+    "explanation": "圖9顯示距離初始病例愈近的鄉鎮病例數愈多，呈現距離衰減的現象，5 月時距離最近的臺中仍是病例最多的地方。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-geo-27",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖10以海拔高度與距海距離將全球陸地劃分為11個區域，每個區域的數字是其所占陸地的比例。請問：\n\n人口密度最高的區域，最可能位於何處？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-27.png\" alt=\"圖10 依海拔高度（縱軸：5、20、100、1000、8848 公尺）與距海距離（橫軸：5、20、100、500、2484 公里）劃分的 11 個區域：甲 1%（海拔最低、最靠海）、乙 2%（低地、近海）、丙 6%、丁 4%、戊 3%、己 11%、庚 24%（海拔 100～1000 公尺、距海 100～500 公里）、辛 28%（海拔 100～1000 公尺、距海 500 公里以上）、子 2%、丑 8%、寅 11%（海拔 1000 公尺以上）\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "乙",
+      "丙",
+      "庚",
+      "寅"
+    ],
+    "answerIndex": 0,
+    "explanation": "人類多聚居在地勢低平、靠近海岸的地區，氣候溫和、交通便利、利於農業與貿易，世界大都市也多位於沿海低地。乙是海拔 20 公尺以下、距海 20 公里以內的低地，面積只占 2%，人口密度最高。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-geo-28",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖10以海拔高度與距海距離將全球陸地劃分為11個區域，每個區域的數字是其所占陸地的比例。請問：\n\n世界主要農牧業面積分布最廣的地區，最主要位於圖10中的哪兩個區域？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-27.png\" alt=\"圖10 依海拔高度（縱軸：5、20、100、1000、8848 公尺）與距海距離（橫軸：5、20、100、500、2484 公里）劃分的 11 個區域：甲 1%（海拔最低、最靠海）、乙 2%（低地、近海）、丙 6%、丁 4%、戊 3%、己 11%、庚 24%（海拔 100～1000 公尺、距海 100～500 公里）、辛 28%（海拔 100～1000 公尺、距海 500 公里以上）、子 2%、丑 8%、寅 11%（海拔 1000 公尺以上）\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙",
+      "丙丁",
+      "庚辛",
+      "子丑"
+    ],
+    "answerIndex": 2,
+    "explanation": "庚、辛是海拔 100～1000 公尺、距海 100 公里以上的內陸地區，合計占陸地面積一半以上（24%＋28%），包括廣大的平原、高原與草原，是世界主要的穀物種植區與放牧區，農牧業面積最廣。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-geo-29",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "猢猻樹主要生長於年均溫20~30℃且年平均降水量300~800mm的地區。乾季時落葉以減少水分蒸發，雨季時可大量儲水於樹幹中。請問：\n\n主要分布於馬達加斯加的猢猻樹，最可能出現在圖11的哪個地區？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-29.png\" alt=\"圖11 馬達加斯加地圖（南緯 14～26 度、東經 44～52 度）：甲在北端，乙在中部高地，丙在西部，丁在南部；照片3 粗大的猢猻樹，樹冠有枝葉\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "馬達加斯加東部迎著東南信風，終年多雨；中部是高地，氣溫較低；西部位於背風側，乾濕季分明、年雨量約 500～1000 毫米，符合猢猻樹的生長條件（如西部穆龍達瓦的猢猻樹大道）。丙位於西部。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-geo-30",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "猢猻樹主要生長於年均溫20~30℃且年平均降水量300~800mm的地區。乾季時落葉以減少水分蒸發，雨季時可大量儲水於樹幹中。請問：\n\n照片3的猢猻樹最可能是在馬達加斯加的哪個月份所拍攝？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-29.png\" alt=\"圖11 馬達加斯加地圖（南緯 14～26 度、東經 44～52 度）：甲在北端，乙在中部高地，丙在西部，丁在南部；照片3 粗大的猢猻樹，樹冠有枝葉\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1月",
+      "4月",
+      "7月",
+      "10月"
+    ],
+    "answerIndex": 0,
+    "explanation": "照片中的猢猻樹長出枝葉，表示正值雨季。馬達加斯加位於南半球，雨季在夏季（約 11 月至隔年 3 月），1 月正是雨季；7 月是乾季，猢猻樹會落葉。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-geo-31",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "臺灣的農業在全球化、都市化與生活環境快速變遷等因素影響下逐漸式微，為了確保糧食安全與環境保育，政府積極推動各項農業升級政策，因而近年出現許多不同的農業經營型態，例如：農家開放消費者自行採摘水果；農戶以溫室或網室進行作物栽培，避免蟲害，增加產量；農民採取鴨間稻模式來防治病蟲害與除草，免除農藥的使用；農民藉由無人飛機監控作物生長狀況，進行有效的農藥與化肥施用等。請問：\n\n上述近年出現的各種農業經營型態，最符合下列哪些概念？\n甲、農業轉型　乙、混合農業　丙、知識經濟　丁、農業企業化",
+    "options": [
+      "甲乙",
+      "乙丁",
+      "丙丁",
+      "甲丙"
+    ],
+    "answerIndex": 3,
+    "explanation": "觀光採果、溫室栽培、鴨間稻、無人機監控等，都是傳統農業朝向休閒、精緻、生態與科技化的轉型（甲）；運用溫室技術、生態知識與無人機等科技提升生產，屬於知識經濟（丙）。混合農業是指同時經營作物與畜牧；文中也沒有提到企業化經營。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-geo-32",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "臺灣的農業在全球化、都市化與生活環境快速變遷等因素影響下逐漸式微，為了確保糧食安全與環境保育，政府積極推動各項農業升級政策，因而近年出現許多不同的農業經營型態，例如：農家開放消費者自行採摘水果；農戶以溫室或網室進行作物栽培，避免蟲害，增加產量；農民採取鴨間稻模式來防治病蟲害與除草，免除農藥的使用；農民藉由無人飛機監控作物生長狀況，進行有效的農藥與化肥施用等。請問：\n\n農民採取「鴨間稻模式來防治病蟲害與除草，免除農藥的使用」，其經營方式最符合下列哪種概念？",
+    "options": [
+      "傳統農業",
+      "生態農業",
+      "休閒農業",
+      "科技農業"
+    ],
+    "answerIndex": 1,
+    "explanation": "在稻田中放養鴨子，讓鴨子吃害蟲與雜草，鴨糞又可作為肥料，不使用農藥與化學肥料，利用生物間的關係維持農田生態平衡，屬於生態農業。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-geo-33",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖12為某個國家1970年和2019年的人口金字塔圖。請問：\n\n該國近50年間的人口金字塔變化過程，可歸納出該國具有下列哪些人口特徵？\n甲、出生率日益降低　乙、移出率日益增加　丙、性別比嚴重失衡　丁、進入低穩定階段",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-33.png\" alt=\"圖12 某國 1970 年（灰色）與 2019 年（白色）人口金字塔：1970 年為底部寬大的金字塔；2019 年底部明顯收窄，30～60 歲人口最多\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲丙",
+      "甲丁",
+      "乙丙",
+      "丙丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "1970 年金字塔底部寬，出生率高；2019 年底部明顯縮小，幼年人口比例大降，出生率日益降低（甲），出生率與死亡率都低，進入人口轉型的低穩定階段（丁）。圖中男女比例大致對稱；人口金字塔無法看出移出率。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-geo-34",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖12為某個國家1970年和2019年的人口金字塔圖。請問：\n\n該國最可能是下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-33.png\" alt=\"圖12 某國 1970 年（灰色）與 2019 年（白色）人口金字塔：1970 年為底部寬大的金字塔；2019 年底部明顯收窄，30～60 歲人口最多\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "印度",
+      "法國",
+      "臺灣",
+      "巴西"
+    ],
+    "answerIndex": 2,
+    "explanation": "該國在 50 年間由年輕的金字塔快速轉變為底部急遽收窄的形態，生育率在短時間內大幅下降，符合臺灣的情況（戰後嬰兒潮之後出生率快速下降，目前為全球最低之一）。法國在 1970 年已經是低出生率；印度、巴西的幼年人口比例仍高。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-geo-35",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖13與表4是某沿海鄉鎮的統計區與等高線套疊所得的GIS資料。請問：\n表4\n｜統計區ID｜人口密度（人／公頃）｜面積（公頃）｜\n｜001｜0｜20｜\n｜002｜5｜10｜\n｜003｜5｜20｜\n｜004｜10｜10｜\n｜005｜15｜10｜\n｜006｜15｜10｜\n｜007｜100｜5｜\n｜008｜120｜12｜\n｜009｜130｜12｜\n｜010｜120｜8｜\n\n當海嘯淹沒高度達20公尺時，約有多少人口會暴露於危險中？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-35.png\" alt=\"圖13 沿海鄉鎮統計區與等高線圖：海岸在下方（0 公尺等高線），001 位於最靠海處，002、003 在 10 公尺等高線附近，004、005、006 在 10～20 公尺之間；20～40 公尺的等高線在 004 上方密集排列成陡坡，007、008、009、010 位於陡坡上方的平坦高處\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "150",
+      "400",
+      "550",
+      "4,460"
+    ],
+    "answerIndex": 2,
+    "explanation": "20 公尺以下的統計區是 001～006，人口＝人口密度 × 面積：001：0×20＝0；002：5×10＝50；003：5×20＝100；004：10×10＝100；005：15×10＝150；006：15×10＝150，合計 550 人。007～010 位於 40 公尺以上的高處。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-geo-36",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖13與表4是某沿海鄉鎮的統計區與等高線套疊所得的GIS資料。請問：\n表4\n｜統計區ID｜人口密度（人／公頃）｜面積（公頃）｜\n｜001｜0｜20｜\n｜002｜5｜10｜\n｜003｜5｜20｜\n｜004｜10｜10｜\n｜005｜15｜10｜\n｜006｜15｜10｜\n｜007｜100｜5｜\n｜008｜120｜12｜\n｜009｜130｜12｜\n｜010｜120｜8｜\n\n圖13中統計區007至010，最有可能位於哪種地形上？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-35.png\" alt=\"圖13 沿海鄉鎮統計區與等高線圖：海岸在下方（0 公尺等高線），001 位於最靠海處，002、003 在 10 公尺等高線附近，004、005、006 在 10～20 公尺之間；20～40 公尺的等高線在 004 上方密集排列成陡坡，007、008、009、010 位於陡坡上方的平坦高處\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "海階",
+      "海崖",
+      "海蝕平台",
+      "海岸沙洲"
+    ],
+    "answerIndex": 0,
+    "explanation": "007～010 位於密集等高線（陡坡）上方的平坦高地，海拔約 40 公尺以上，是由舊海蝕平台隆起形成的海階，地勢平坦，人口也較密集。海崖是陡坡本身；海蝕平台與沙洲都在海岸線附近的低處。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-geo-37",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "某縣市利用其轄內列管之高關懷家戶地址資料表，進行圖14的GIS分析流程，可產生表5的分析成果。請問：\n表5\n｜服務區｜高關懷家戶數｜\n｜甲｜54｜\n｜乙｜32｜\n｜丙｜59｜\n｜丁｜21｜\n｜戊｜28｜\n｜己｜36｜\n｜庚｜47｜\n｜辛｜32｜\n\n圖14中的「分析功能一」最有可能是下列哪項GIS分析功能？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-37.png\" alt=\"圖14 GIS 分析流程：「關懷家戶地址」經「地址對位分析」成為「關懷家戶點資料」，再與「社工服務區」經「分析功能一」得到「資料一」，最後經「屬性分析」產生表5\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "視域分析",
+      "疊圖分析",
+      "環域分析",
+      "路網分析"
+    ],
+    "answerIndex": 1,
+    "explanation": "把高關懷家戶的點資料與社工服務區的面資料疊合，判斷每一戶位於哪個服務區，再統計各服務區的家戶數，運用的是疊圖分析。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-geo-38",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "某縣市利用其轄內列管之高關懷家戶地址資料表，進行圖14的GIS分析流程，可產生表5的分析成果。請問：\n表5\n｜服務區｜高關懷家戶數｜\n｜甲｜54｜\n｜乙｜32｜\n｜丙｜59｜\n｜丁｜21｜\n｜戊｜28｜\n｜己｜36｜\n｜庚｜47｜\n｜辛｜32｜\n\n下列哪種地圖符號設計最適合用來表達表5的高關懷家戶數的分布資訊？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-38.png\" alt=\"四張服務區地圖選項 (A)～(D)：(A) 全部使用同一種斜線網紋，以疏密不同表示數量多寡；(B) 斜線網紋並以深淺不同的灰色填塗；(C) 使用直線、橫線、斜線等不同方向的網紋；(D) 使用點狀、格紋等不同種類的網紋\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖中 (A) 的地圖",
+      "圖中 (B) 的地圖",
+      "圖中 (C) 的地圖",
+      "圖中 (D) 的地圖"
+    ],
+    "answerIndex": 0,
+    "explanation": "高關懷家戶數是有大小順序的數量資料，應以同一種網紋、依數值高低改變疏密（或深淺）來表示，讀者才能看出多寡的差異，(A) 圖最適合。用不同方向或不同種類的網紋（C、D）適合表示類別資料，無法顯示數量高低。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-geo-non-1-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "fill",
+    "points": 4,
+    "selfGrade": true,
+    "question": "一、某部卡通描述某位小孩跟著媽媽趕著由驢子拉的篷車橫越大半個歐洲，去投靠住在法國北部大城祖父的故事。圖15甲至癸依序為他們經過的都市，卡通的主題曲中寫道，主角「急著要回家，不管山高谷深路顛簸，不怕風吹雨打行程遠，一刻不停留」。請問：\n\n1. 這段旅行路線中己、癸分別是哪種氣候類型？（答題時請標示己與癸，及其氣候類型，4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-non1.png\" alt=\"圖15 中歐地圖：甲、乙位於右下方的東南歐，丙在義大利東北部，丁、戊、己、庚、辛位於阿爾卑斯山區由東向西排列，壬、癸位於法國北部\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "acceptedBlanks": [
+      [
+        "高地氣候",
+        "高山氣候"
+      ],
+      [
+        "溫帶海洋性氣候",
+        "溫帶海洋氣候",
+        "西岸海洋性氣候"
+      ]
+    ],
+    "blanks": [
+      "高地氣候",
+      "溫帶海洋性氣候"
+    ],
+    "blankLabels": [
+      "己",
+      "癸"
+    ],
+    "explanation": "【參考答案】己：高地氣候；癸：溫帶海洋性氣候（各 2 分）。\\n\\n己位於阿爾卑斯山區，海拔高，屬於高地氣候；癸在法國北部，受西風與北大西洋暖流影響，冬暖夏涼、全年有雨，屬於溫帶海洋性氣候。"
+  },
+  {
+    "id": "109m-ast-geo-non-1-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、某部卡通描述某位小孩跟著媽媽趕著由驢子拉的篷車橫越大半個歐洲，去投靠住在法國北部大城祖父的故事。圖15甲至癸依序為他們經過的都市，卡通的主題曲中寫道，主角「急著要回家，不管山高谷深路顛簸，不怕風吹雨打行程遠，一刻不停留」。請問：\n\n2. 主題曲中「不管山高谷深路顛簸」是指哪座山脈？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-non1.png\" alt=\"圖15 中歐地圖：甲、乙位於右下方的東南歐，丙在義大利東北部，丁、戊、己、庚、辛位於阿爾卑斯山區由東向西排列，壬、癸位於法國北部\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "acceptedBlanks": [
+      [
+        "阿爾卑斯山",
+        "阿爾卑斯山脈"
+      ]
+    ],
+    "blanks": [
+      "阿爾卑斯山"
+    ],
+    "blankLabels": [
+      "山脈"
+    ],
+    "explanation": "【參考答案】阿爾卑斯山。\\n\\n丁到辛一連串都市位於阿爾卑斯山區，山高谷深，道路崎嶇。"
+  },
+  {
+    "id": "109m-ast-geo-non-1-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、某部卡通描述某位小孩跟著媽媽趕著由驢子拉的篷車橫越大半個歐洲，去投靠住在法國北部大城祖父的故事。圖15甲至癸依序為他們經過的都市，卡通的主題曲中寫道，主角「急著要回家，不管山高谷深路顛簸，不怕風吹雨打行程遠，一刻不停留」。請問：\n\n3. 主角旅行路線中，哪個國家擁有4種官方語言？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-non1.png\" alt=\"圖15 中歐地圖：甲、乙位於右下方的東南歐，丙在義大利東北部，丁、戊、己、庚、辛位於阿爾卑斯山區由東向西排列，壬、癸位於法國北部\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "acceptedBlanks": [
+      [
+        "瑞士"
+      ]
+    ],
+    "blanks": [
+      "瑞士"
+    ],
+    "blankLabels": [
+      "國家"
+    ],
+    "explanation": "【參考答案】瑞士。\\n\\n瑞士以德語、法語、義大利語與羅曼什語四種語言為官方（國家）語言。"
+  },
+  {
+    "id": "109m-ast-geo-non-2-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、不同民族在世界各地受到自然環境的影響，常發展出特殊的住屋型式。請問：\n\n1. 照片4為中國福建地區發展出的住屋型式，其名稱為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-non2.png\" alt=\"照片4 中國福建山區數座圓形的大型集體住屋，中央為露天中庭\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "acceptedBlanks": [
+      [
+        "土樓",
+        "客家土樓",
+        "福建土樓"
+      ]
+    ],
+    "blanks": [
+      "土樓"
+    ],
+    "blankLabels": [
+      "名稱"
+    ],
+    "explanation": "【參考答案】土樓。\\n\\n福建西南山區的客家人以夯土建造大型的圓形或方形土樓，全族聚居，外牆厚實、具有防禦功能。"
+  },
+  {
+    "id": "109m-ast-geo-non-2-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、不同民族在世界各地受到自然環境的影響，常發展出特殊的住屋型式。請問：\n\n2. 時有暴雨河水易突漲的東南亞地區，最可能發展出哪種住屋型式？（2 分）",
+    "acceptedBlanks": [
+      [
+        "高腳屋",
+        "高架屋",
+        "高腳架屋",
+        "干欄式建築"
+      ]
+    ],
+    "blanks": [
+      "高腳屋"
+    ],
+    "blankLabels": [
+      "住屋型式"
+    ],
+    "explanation": "【參考答案】高腳（架）屋。\\n\\n以木樁把房屋墊高，可以防止洪水、潮濕與蟲蛇侵擾，也有利通風。"
+  },
+  {
+    "id": "109m-ast-geo-non-2-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、不同民族在世界各地受到自然環境的影響，常發展出特殊的住屋型式。請問：\n\n3. 中國黃土高原地區居民利用黃土層特性發展出「窯洞」住屋型式，該區的黃土層為哪種地形作用所造成的？（2 分）",
+    "acceptedBlanks": [
+      [
+        "風力堆積作用",
+        "風積作用",
+        "風力堆積",
+        "風積"
+      ]
+    ],
+    "blanks": [
+      "風力堆積（風積）作用"
+    ],
+    "blankLabels": [
+      "地形作用"
+    ],
+    "explanation": "【參考答案】風力堆積（風積）作用。\\n\\n黃土是由西北風從蒙古、中亞的沙漠搬運而來的細小粉砂，長期堆積而成，土質均勻、直立性好，適合挖鑿窯洞。"
+  },
+  {
+    "id": "109m-ast-geo-non-2-4",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、不同民族在世界各地受到自然環境的影響，常發展出特殊的住屋型式。請問：\n\n4. 各地居民因應環境發展出不同的住屋型式，如非洲的「草屋」、美國阿拉斯加的「冰屋」、臺灣排灣族的「石板屋」，此現象最適合以哪個地理學傳統來詮釋？（2 分）",
+    "acceptedBlanks": [
+      [
+        "人地傳統",
+        "生態傳統",
+        "人地關係傳統"
+      ]
+    ],
+    "blanks": [
+      "人地傳統（生態傳統）"
+    ],
+    "blankLabels": [
+      "地理學傳統"
+    ],
+    "explanation": "【參考答案】人地傳統（生態傳統）。\\n\\n人地傳統探討人類與自然環境的互動關係，各地居民就地取材、因應氣候環境發展出不同的住屋，正是人地關係的表現。"
+  },
+  {
+    "id": "109m-ast-geo-non-3-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、圖16為三條不同歐亞大陸橋的路線圖，兩端連接著太平洋與大西洋兩大經濟中心的經濟鐵道，這些鐵道主要載運消費型成品貨物，其中的第二條歐亞大陸橋是中國仿效「古絲路」所建構的東西經濟鐵道。請問：\n\n1. 第二條路線出中國後的第一個國家主要呈現何種自然景觀？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-non3.png\" alt=\"圖16 三條歐亞大陸橋路線圖：第一條由海參崴經伯力、赤塔、新西伯利亞、莫斯科、華沙到柏林；第二條由連雲港經鄭州、西安、蘭州、烏魯木齊、阿克斗卡、阿雷斯到鹿特丹；第三條由深圳經昆明、達卡、新德里、德黑蘭、安卡拉到歐洲\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "acceptedBlanks": [
+      [
+        "溫帶乾草原",
+        "溫帶草原",
+        "乾草原",
+        "草原"
+      ]
+    ],
+    "blanks": [
+      "溫帶乾草原"
+    ],
+    "blankLabels": [
+      "自然景觀"
+    ],
+    "explanation": "【參考答案】溫帶乾草原。\\n\\n第二條路線由新疆阿拉山口出境後進入哈薩克，哈薩克位於中亞內陸，氣候乾燥，主要是溫帶乾草原（與溫帶沙漠）景觀。"
+  },
+  {
+    "id": "109m-ast-geo-non-3-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、圖16為三條不同歐亞大陸橋的路線圖，兩端連接著太平洋與大西洋兩大經濟中心的經濟鐵道，這些鐵道主要載運消費型成品貨物，其中的第二條歐亞大陸橋是中國仿效「古絲路」所建構的東西經濟鐵道。請問：\n\n2. 第一條路線中莫斯科至華沙間的路段居民主要是信奉哪個基督宗教？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-non3.png\" alt=\"圖16 三條歐亞大陸橋路線圖：第一條由海參崴經伯力、赤塔、新西伯利亞、莫斯科、華沙到柏林；第二條由連雲港經鄭州、西安、蘭州、烏魯木齊、阿克斗卡、阿雷斯到鹿特丹；第三條由深圳經昆明、達卡、新德里、德黑蘭、安卡拉到歐洲\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "acceptedBlanks": [
+      [
+        "東方正教",
+        "東正教",
+        "希臘正教"
+      ]
+    ],
+    "blanks": [
+      "東方正教"
+    ],
+    "blankLabels": [
+      "宗教"
+    ],
+    "explanation": "【參考答案】東方正教。\\n\\n莫斯科至華沙之間主要經過俄羅斯與白俄羅斯，居民以信奉東正教為主（波蘭則以天主教為主）。"
+  },
+  {
+    "id": "109m-ast-geo-non-3-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "地理",
+    "type": "fill",
+    "points": 4,
+    "selfGrade": true,
+    "question": "三、圖16為三條不同歐亞大陸橋的路線圖，兩端連接著太平洋與大西洋兩大經濟中心的經濟鐵道，這些鐵道主要載運消費型成品貨物，其中的第二條歐亞大陸橋是中國仿效「古絲路」所建構的東西經濟鐵道。請問：\n\n3. 從國際貿易貨品的供需角度而言，東行或西行的空箱率何者較大？（2 分）並說明理由？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-geo-non3.png\" alt=\"圖16 三條歐亞大陸橋路線圖：第一條由海參崴經伯力、赤塔、新西伯利亞、莫斯科、華沙到柏林；第二條由連雲港經鄭州、西安、蘭州、烏魯木齊、阿克斗卡、阿雷斯到鹿特丹；第三條由深圳經昆明、達卡、新德里、德黑蘭、安卡拉到歐洲\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "東行；中國是主要的生產供給區、歐洲是主要的消費區，由東向西的貨物多於由西向東"
+    ],
+    "blankLabels": [
+      "答案與理由"
+    ],
+    "explanation": "【參考答案】東行（2 分）。理由：中國為主要的生產供給區域，歐洲為主要的消費區域，導致由東向西的貨物數量超過由西向東的數量（2 分）。\\n\\n中國大量出口消費性成品到歐洲，西行列車滿載；回程（東行）時歐洲輸往中國的貨物較少，空箱率因此較高。"
   }
 ]
