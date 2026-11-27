@@ -39623,5 +39623,568 @@
       ]
     ],
     "explanation": "每分子含鐵的質量 $172\\times0.325 \\approx 55.9$，恰為 1 個鐵原子。"
+  },
+  {
+    "id": "92-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 3,
+    "question": "今年初，環保署推動「限塑政策」，限制了購物用塑膠袋以及塑膠類免洗餐具的使用，因此許多店家改用瓷器碗盤。假如要檢驗清粥專賣店的碗盤，是否沖洗乾淨，則選用下列試劑中的哪一種最適當？",
+    "options": [
+      "多侖試劑",
+      "斐林試劑",
+      "酸鹼廣用試劑",
+      "酚酞溶液",
+      "碘酒溶液"
+    ],
+    "answerIndex": 4,
+    "explanation": "【澱粉的檢驗】\n稀飯的主要成分是澱粉，碗盤若殘留澱粉，滴碘酒會變藍黑色。澱粉不是還原醣，多侖、斐林試劑無法檢出。\n\n故選 (E)"
+  },
+  {
+    "id": "92-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 3,
+    "question": "於氫氧化鈉溶液中通入了足夠的二氧化硫，所得產物經過純化結晶後，可得下列哪一種化合物（未表明結晶水）？",
+    "options": [
+      "$\\text{NaHSO}_2$",
+      "$\\text{Na}_2\\text{SO}_3$",
+      "$\\text{Na}_2\\text{SO}_4$",
+      "$\\text{Na}_2\\text{SO}_5$",
+      "$\\text{Na}_2\\text{S}_2\\text{O}_3$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【酸性氧化物與鹼】\n$\\text{SO}_2 + 2\\text{NaOH} \\to \\text{Na}_2\\text{SO}_3 + \\text{H}_2\\text{O}$，S 仍為 +4，產物是亞硫酸鈉。$\\text{Na}_2\\text{SO}_4$（+6）需經氧化；$\\text{Na}_2\\text{S}_2\\text{O}_3$ 需加入硫；(A)(D) 不是正確的化學式。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 3,
+    "question": "將上一題所得化合物溶於水，配成 0.1M 的濃度，所得溶液的 pH 值為何？",
+    "options": [
+      "0",
+      "1",
+      "等於 7",
+      "小於 7",
+      "大於 7"
+    ],
+    "answerIndex": 4,
+    "explanation": "【鹽類水解】\n$\\text{SO}_3^{2-}$ 是弱酸 $\\text{HSO}_3^-$ 的共軛鹼，水解產生 $\\text{OH}^-$：$\\text{SO}_3^{2-} + \\text{H}_2\\text{O} \\rightleftharpoons \\text{HSO}_3^- + \\text{OH}^-$，溶液呈鹼性。\n\n故選 (E)"
+  },
+  {
+    "id": "92-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 4,
+    "question": "在不同濃度的硝酸溶液中通入硫化氫，會產生不同的反應如下：\n甲、$2\\text{HNO}_3 + \\text{H}_2\\text{S} \\to \\text{S} + 2\\text{NO}_2 + 2\\text{H}_2\\text{O}$\n乙、$2\\text{HNO}_3 + 3\\text{H}_2\\text{S} \\to 3\\text{S} + 2\\text{NO} + 4\\text{H}_2\\text{O}$\n丙、$2\\text{HNO}_3 + 4\\text{H}_2\\text{S} \\to 4\\text{S} + \\text{NH}_4\\text{NO}_3 + 3\\text{H}_2\\text{O}$\n丁、$2\\text{HNO}_3 + 5\\text{H}_2\\text{S} \\to 5\\text{S} + \\text{N}_2 + 6\\text{H}_2\\text{O}$\n上列氧化還原反應，若只針對硝酸，氮的氧化數有改變的，將其單一氮原子的氧化數改變的差距，由大至小依序排列，則下列哪一選項是正確的？",
+    "options": [
+      "甲乙丙丁",
+      "乙丙丁甲",
+      "丙丁乙甲",
+      "丁丙乙甲",
+      "丁丙甲乙"
+    ],
+    "answerIndex": 2,
+    "explanation": "【氧化數變化】\n硝酸中 N 為 +5：\n• 甲：→ $\\text{NO}_2$（+4），差 1。\n• 乙：→ NO（+2），差 3。\n• 丙：→ $\\text{NH}_4^+$（−3），差 8（另一個 N 留在 $\\text{NO}_3^-$ 中未改變）。\n• 丁：→ $\\text{N}_2$（0），差 5。\n由大至小：丙 > 丁 > 乙 > 甲。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 3,
+    "question": "原子理論的發展故事是一連串早期的實驗，用來幫助『看無法看到的物，瞭解不易瞭解的事』。有關這些故事中的科學家與其重大科學發現或理論，下列哪個選項的組合是<u>錯誤的</u>？",
+    "options": [
+      "道耳吞：提倡原子學說",
+      "湯木生：發現電子",
+      "拉塞福：提出原子結構的模型",
+      "波耳：建立量子化的氫原子模型",
+      "門得列夫：提出原子序的意義"
+    ],
+    "answerIndex": 4,
+    "explanation": "【化學史】\n門得列夫依原子量排出週期表；原子序（核電荷數）的物理意義是莫斯利由 X 射線光譜確立的。\n\n故選 (E)"
+  },
+  {
+    "id": "92-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 3,
+    "question": "在 1 公升的真空容器中，溫度保持 100 °C，逐漸注入 1 克的水，並測量其內部的壓力，則下列示意圖，哪一個最能表示容器內部水的質量（w）與壓力（P）的關係？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-chem-06.png\" alt=\"五張壓力（atm）對注入水質量（g）的圖 (A)～(E)\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 3,
+    "explanation": "【飽和蒸氣壓】\n水全部汽化時 $P = \\dfrac{wRT}{18V}$，與 w 成正比（直線）。100°C 時飽和蒸氣壓為 1 atm，當 $w = \\dfrac{1\\times1\\times18}{0.082\\times373} \\approx 0.59$ g 時達到 1 atm；再加入的水凝結成液體，壓力維持 1 atm。所以是「直線上升到約 0.6 g、之後水平」的 (D)。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 4,
+    "question": "工廠的廢氣以及汽機車的排氣是空氣污染的主要來源，但廢氣中的氮與氧的化合物可藉由適量的氨氣及催化劑，將其還原成無毒的 $\\text{N}_2$ 和 $\\text{H}_2\\text{O}$。今有 NO 與 $\\text{NO}_2$ 的混合氣體（簡稱為 $\\text{NO}_x$）3.0 升，若用與 $\\text{NO}_x$ 同溫同壓的氨氣 3.0 升，恰好可使該 $\\text{NO}_x$ 完全反應變成 $\\text{N}_2$ 與 $\\text{H}_2\\text{O}$。試問該混合氣體 $\\text{NO}_x$ 中，NO 與 $\\text{NO}_2$ 的莫耳比為何？",
+    "options": [
+      "1：1",
+      "1：2",
+      "1：3",
+      "3：1",
+      "2：1"
+    ],
+    "answerIndex": 0,
+    "explanation": "【電子轉移守恆】\n$\\text{NH}_3$ 中 N 由 −3 變 0，每個失 3 個電子：3.0 升共失 9 單位。\nNO（+2 → 0）得 2、$\\text{NO}_2$（+4 → 0）得 4。設 NO $a$、$\\text{NO}_2$ $b$：$a + b = 3$、$2a + 4b = 9$，得 $a = b = 1.5$，比 1：1。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 8-9 題為題組】光合作用使植物持續生長，實驗證實植物利用根部細胞的滲透膜，將土壤中的水分吸入根部再傳送至樹梢，以便樹梢的葉子得以順利進行光合作用。假設熱帶雨林區內的氣壓與溫度經年保持在 1 atm 與 27°C。\n\n8. 植物細胞內的電解質總濃度，相當於 0.1 M 的 KCl 水溶液，密度約為 $1.033\\text{ g cm}^{-3}$。若土壤中的電解質濃度極低，則熱帶雨林區內的植物高度最高可達幾公尺？",
+    "options": [
+      "20",
+      "50",
+      "100",
+      "150",
+      "200"
+    ],
+    "answerIndex": 1,
+    "explanation": "【滲透壓支撐水柱】\nKCl 解離成 2 個離子：$\\pi = 0.2\\times0.082\\times300 \\approx 4.9$ atm $\\approx 5.0\\times10^5$ Pa。\n$h = \\dfrac{\\pi}{\\rho g} = \\dfrac{5.0\\times10^5}{1033\\times9.8} \\approx 49$ m，約 50 公尺。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 8-9 題為題組】光合作用使植物持續生長，實驗證實植物利用根部細胞的滲透膜，將土壤中的水分吸入根部再傳送至樹梢，以便樹梢的葉子得以順利進行光合作用。假設熱帶雨林區內的氣壓與溫度經年保持在 1 atm 與 27°C。\n\n9. 土壤中若溶有電解質，而其濃度均為 0.01 M，則在含有下列哪一種電解質的土壤中，植物生長高度最高？（土壤中的 pH 值可以不考慮）",
+    "options": [
+      "硫酸鈣",
+      "硫酸銨",
+      "硫酸鈉",
+      "硝酸鈣",
+      "氯化鈣"
+    ],
+    "answerIndex": 0,
+    "explanation": "【內外滲透壓差】\n土壤溶液的粒子濃度愈小，與植物細胞的滲透壓差愈大，水柱可支撐得愈高。硫酸銨、硫酸鈉、硝酸鈣、氯化鈣都解離成 3 個離子；硫酸鈣只解離成 2 個離子（而且溶解度小），粒子濃度最低。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 3,
+    "question": "某水溶液含有甲、乙、丙三種金屬離子。若進行圖 1 所示的實驗操作（加入稀鹽酸得含甲的白色沉澱；濾液加入過量氨水得含乙的紅褐色沉澱；濾液再通入硫化氫氣體得含丙的白色沉澱），即可分離這些離子。試問該水溶液中的甲、乙、丙各為何種離子？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-chem-10.png\" alt=\"圖1 金屬離子分離流程\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{Ag}^+$、$\\text{Fe}^{2+}$、$\\text{Zn}^{2+}$",
+      "$\\text{Ag}^+$、$\\text{Fe}^{2+}$、$\\text{Cu}^{2+}$",
+      "$\\text{Pb}^{2+}$、$\\text{Fe}^{3+}$、$\\text{Cu}^{2+}$",
+      "$\\text{Pb}^{2+}$、$\\text{Fe}^{3+}$、$\\text{Zn}^{2+}$",
+      "$\\text{Pb}^{2+}$、$\\text{Fe}^{2+}$、$\\text{Zn}^{2+}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【陽離子分離】\n• 紅褐色沉澱是 $\\text{Fe(OH)}_3$，乙為 $\\text{Fe}^{3+}$（$\\text{Fe(OH)}_2$ 為白色或灰綠色）。\n• 硫化物白色沉澱是 ZnS（CuS 為黑色），且 $\\text{Zn}^{2+}$ 在過量氨水中形成錯離子留在濾液，丙為 $\\text{Zn}^{2+}$。\n• 甲在稀鹽酸中沉澱：$\\text{PbCl}_2$ 或 AgCl 都是白色；搭配上面兩點只有 (D) 符合。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 3,
+    "question": "根據週期表中元素大小的規律性，判斷甲～戊等分子在氣態時的鍵長，則下列鍵長的關係何者正確？（甲）水（乙）甲烷（丙）氨（丁）氫氣（戊）氟化氫",
+    "options": [
+      "甲 > 乙 > 丙 > 丁 > 戊",
+      "甲 > 丙 > 戊 > 乙 > 丁",
+      "乙 > 丙 > 甲 > 戊 > 丁",
+      "乙 > 丁 > 丙 > 戊 > 甲",
+      "乙 > 甲 > 戊 > 丙 > 丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "【鍵長與原子半徑】\n都是 X−H 鍵，X 的原子半徑 C > N > O > F > H：C−H（109 pm）> N−H（101）> O−H（96）> F−H（92）> H−H（74）。即 乙 > 丙 > 甲 > 戊 > 丁。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列哪一個示意圖是基態鉻原子的電子組態？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-chem-12.png\" alt=\"五種 4s 與 3d 軌域的填法 (A)～(E)\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 4,
+    "explanation": "【鉻的例外組態】\nCr（24 號）基態為 $[\\text{Ar}]3d^5 4s^1$：半滿的 3d 較穩定，6 個電子各自占據一個軌域、自旋平行，即 (E)。\n\n故選 (E)"
+  },
+  {
+    "id": "92-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 3,
+    "question": "含 A、B、X 三元素的某化合物之結構如圖 2，則此化合物之分子式為下列哪一個？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-chem-13.png\" alt=\"圖2 立方晶胞：頂點為 A、體心為 B、面心為 X\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "ABX",
+      "$\\text{AB}_2\\text{X}_4$",
+      "$\\text{AB}_2\\text{X}_2$",
+      "$\\text{ABX}_3$",
+      "$\\text{ABX}_4$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【晶胞計數】\n頂點原子各屬於 8 個晶胞：$8\\times\\dfrac18 = 1$；體心 1 個；面心各屬於 2 個晶胞：$6\\times\\dfrac12 = 3$。組成為 $\\text{ABX}_3$（鈣鈦礦型結構）。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 14-16 題為題組】圖 3 是水的三相圖。圖中 OA、OB、OC 三條實線表示水以兩態共存時，溫度和壓力的關係曲線。\n\n14. 圖中點 a 的壓力為 Pa，點 b 的壓力為 Pb。若壓力由 Pa 逐漸增大至 Pb，則下列哪一個圖最能適切地表示壓力（橫軸）與體積（縱軸）的變化關係？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-chem-14.png\" alt=\"圖3 水的三相圖（a、b 兩點），以及選項 (A)～(E) 的體積對壓力圖\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "explanation": "【等溫加壓】\na 點在液氣平衡線 OA 下方，為氣態；b 點在上方，為液態。定溫加壓：氣體體積依波以耳定律逐漸減小；壓力到達該溫度的飽和蒸氣壓時，氣體在定壓下凝結，體積驟減；全部成液體後，體積幾乎不隨壓力改變。符合的是 (C)。\n\n故選 (C)",
+    "answerIndex": 2
+  },
+  {
+    "id": "92-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 14-16 題為題組】圖 3 是水的三相圖。圖中 OA、OB、OC 三條實線表示水以兩態共存時，溫度和壓力的關係曲線。\n\n15. 已知冰的熔解熱為 6.01 kJ/mol、水的汽化熱為 40.7 kJ/mol。若溫度 T 由圖 3 的點 Y 逐漸增溫到點 X，則下列哪一個圖最能適切地表示所供給的累積熱量 Q（橫軸）和溫度變化（縱軸）的關係？（Y 為 760 mmHg 下的冰，X 為 760 mmHg 下的水蒸氣）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-chem-15.png\" alt=\"選項 (A)～(E)：溫度對累積熱量的加熱曲線\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 0,
+    "explanation": "【加熱曲線】\n一大氣壓下由冰（Y）加熱到水蒸氣（X）：冰升溫 → 熔化（溫度不變，6.01 kJ/mol，平台短）→ 水升溫 0～100°C（約 7.5 kJ/mol）→ 沸騰（40.7 kJ/mol，平台最長）→ 水蒸氣升溫。\n熔化平台短、汽化平台長的是 (A)。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 4,
+    "question": "若以 0.01 M 的鹽酸滴定 NaQ 的水溶液 50.0 mL 時，溶液的 pH 值變化如圖 4。求 HQ 的 $K_a$ 值應接近下列的哪一個選項？（NaQ 是 HQ 的共軛鹼，$K_a = \\dfrac{[\\text{H}^+][\\text{Q}^-]}{[\\text{HQ}]}$）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-chem-16.png\" alt=\"圖4 以鹽酸滴定 NaQ 的 pH 曲線：當量點約 50 mL，25 mL 處 pH 約 8\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$1\\times10^{-2}$ M",
+      "$1\\times10^{-4}$ M",
+      "$1\\times10^{-5}$ M",
+      "$1\\times10^{-8}$ M",
+      "$1\\times10^{-10}$ M"
+    ],
+    "answerIndex": 3,
+    "explanation": "【半當量點】\n當量點在 50 mL，加入 25 mL 時 $[\\text{HQ}] = [\\text{Q}^-]$，此時 pH ≈ 8，$K_a = [\\text{H}^+] \\approx 10^{-8}$ M。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 17-18 題為題組】近來 SARS 疫情影響許多人的生活，衛生署建議大家勤洗手、戴口罩，也建議使用稀釋的漂白水來消毒環境。媒體也出現以光觸媒消毒大樓以及光觸媒口罩新產品的廣告。\n\n17. 試問為什麼要使用可能造成環境污染的漂白水，而不選用較環保的雙氧水或直接用氧氣來消毒？已知次氯酸根、雙氧水及氧氣的還原電位大小如下：\n$\\text{ClO}^- + \\text{H}_2\\text{O} + 2e^- \\to \\text{Cl}^- + 2\\text{OH}^-$　$E^\\circ = 0.89$ V\n$\\text{O}_2 + 4\\text{H}^+ + 4e^- \\to 2\\text{H}_2\\text{O}$　$E^\\circ = 1.23$ V\n$\\text{H}_2\\text{O}_2 + 2\\text{H}^+ + 2e^- \\to 2\\text{H}_2\\text{O}$　$E^\\circ = 1.77$ V",
+    "options": [
+      "漂白水的氧化力最強",
+      "雙氧水只能在鹼性環境中反應",
+      "空氣含氧量太低，不適宜消毒",
+      "雙氧水和氧氣因活化能過高，無法在室溫進行消毒",
+      "漂白水雖會造成環境污染，但對人體無害"
+    ],
+    "answerIndex": 3,
+    "explanation": "【熱力學 vs 動力學】\n雙氧水與氧氣的還原電位都比次氯酸根高，熱力學上氧化力更強，(A) 錯。但它們在室溫下反應的活化能高、反應很慢，消毒效果不如漂白水。漂白水對人體有刺激性，(E) 錯。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 17-18 題為題組】近來 SARS 疫情影響許多人的生活，衛生署建議大家勤洗手、戴口罩，也建議使用稀釋的漂白水來消毒環境。媒體也出現以光觸媒消毒大樓以及光觸媒口罩新產品的廣告。\n\n18. 已知坊間所賣的光觸媒，其主要成分是奈米級的二氧化鈦，而其接受光（吸收光）之波長至少需低於 400 nm。吸收光能後的二氧化鈦具有相當強之氧化力，可以直接將吸附在物質表面之污染物直接氧化，使其分解，或者將吸附於物質表面之水分子氧化為氫氧根自由基（$\\cdot\\text{OH} + \\text{H}^+ + e^- \\to \\text{H}_2\\text{O}$，$E^\\circ = 2.79$ V）進而分解污染物。試問下列敘述何者正確？",
+    "options": [
+      "$\\cdot$OH 為強還原劑可以分解污染物",
+      "奈米級的顆粒大小，是比本土的蓬萊米略大",
+      "二氧化鈦的基態和激發態之能階差約為 3.2 eV",
+      "光觸媒處理過的場所，在黑暗中仍具有消毒效果",
+      "氫氧根自由基中的氧原子之電子恰好是八隅體組態"
+    ],
+    "answerIndex": 2,
+    "explanation": "【光觸媒】\n• (A) 錯：還原電位 2.79 V 很高，·OH 是強氧化劑。\n• (B) 錯：奈米為 $10^{-9}$ m，遠小於米粒（約 $10^{-3}$ m）。\n• (C) 正確：$E = \\dfrac{1240}{400} \\approx 3.1$ eV，需吸收不低於此能量的光，能階差約 3.2 eV。\n• (D) 錯：需要照光才有作用。\n• (E) 錯：·OH 的 O 周圍只有 7 個電子（自由基）。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 19-20 題為題組】有一光電池組成如圖 5，其中的一個半電池內裝有 1 M 的氯化鉀及一支銀棒（棒上鑲有一片氯化銀），另一半電池內則裝有氯化亞銅及一支白金絲。當此電池受光照射時，氯化銀會立即轉變成銀原子與氯原子，而氯原子會暫時吸附在氯化銀上（簡記為 $\\text{Cl}_{(\\text{AgCl})}$）。若將光源移除，電池會立即回復至初始的氯化銀狀態。已知部分還原半反應如下：\n$\\text{AgCl}(s) + e^- \\to \\text{Ag}(s) + \\text{Cl}^-$　$E^\\circ = 0.22$ V\n$\\text{Cu}^{2+} + e^- \\to \\text{Cu}^+$　$E^\\circ = 0.15$ V\n$\\text{Cl}_{(\\text{AgCl})} + e^- \\to \\text{Cl}^-$　$E^\\circ = 3.80$ V\n$\\text{Cu}^+ + e^- \\to \\text{Cu}(s)$　$E^\\circ = 0.52$ V\n$\\text{Ag}^+ + e^- \\to \\text{Ag}(s)$　$E^\\circ = 0.79$ V\n\n19. 當電池受光照射時，下列敘述中何者<u>不正確</u>？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-chem-19.png\" alt=\"圖5 光電池：A 端銀棒（鑲氯化銀）在 KCl 溶液中受光照射，B 端白金絲在含 Cu⁺ 的溶液中\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "電池會產生電壓",
+      "銀棒可作為陰極",
+      "氯化銀會被還原",
+      "電池內會產生 $\\text{Cu}^{2+}$ 離子",
+      "電子會由 A 點流向 B 點"
+    ],
+    "answerIndex": 4,
+    "explanation": "【光電池】\n照光後 AgCl 分解出吸附的氯原子，$\\text{Cl}_{(\\text{AgCl})} + e^- \\to \\text{Cl}^-$（3.80 V）在銀棒上發生還原，銀棒為陰極；白金絲端 $\\text{Cu}^+ \\to \\text{Cu}^{2+} + e^-$ 被氧化，為陽極。電池電壓約 $3.80 - 0.15 = 3.65$ V。\n電子由陽極（B，白金）經外電路流向陰極（A，銀），(E) 說反了。\n\n故選 (E)"
+  },
+  {
+    "id": "92-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "points": 4,
+    "question": "若將奈米級氯化銀與氯化亞銅粒子同置於玻璃鏡片中，便可利用類似反應製得一新型太陽眼鏡（受到陽光照射時，鏡片會立即變成黑褐色）。這種智慧型太陽眼鏡從室外移入室內時，鏡片會自動由黑褐色回復澄清，其主要原因是因為鏡片內進行下列的哪一反應？",
+    "options": [
+      "$\\text{AgCl} \\to \\text{Ag}^+ + \\text{Cl}^-$",
+      "$\\text{Ag} + \\text{Cu}^+ \\to \\text{Ag}^+ + \\text{Cu}$",
+      "$\\text{Cl} + \\text{Cu}^+ \\to \\text{Cl}^- + \\text{Cu}^{2+}$",
+      "$\\text{Ag} + \\text{Cu}^{2+} + \\text{Cl}^- \\to \\text{AgCl} + \\text{Cu}^+$",
+      "$\\text{AgCl} + 2\\text{Cu}^+ \\to \\text{Ag}^+ + \\text{Cl}^- + \\text{Cu}^{2+} + \\text{Cu}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【光致變色眼鏡】\n照光時 AgCl 分解出黑色的銀；其中的氯原子把 $\\text{Cu}^+$ 氧化成 $\\text{Cu}^{2+}$。離開光線後，$\\text{Cu}^{2+}$ 再把銀氧化回 $\\text{Ag}^+$，與 $\\text{Cl}^-$ 結合成無色的 AgCl，鏡片回復澄清：$\\text{Ag} + \\text{Cu}^{2+} + \\text{Cl}^- \\to \\text{AgCl} + \\text{Cu}^+$。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 3,
+    "question": "試管五支，(A) 至 (E)，依序倒入試劑：汽油、酒精、氯仿、四氯化碳、丙酮，然後各加入 1 毫升的水並攪拌。試問哪些試劑會與水完全混合均勻？",
+    "options": [
+      "汽油",
+      "酒精",
+      "氯仿",
+      "四氯化碳",
+      "丙酮"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【互溶性】\n酒精（可與水形成氫鍵）與丙酮（極性大，可接受氫鍵）與水完全互溶；汽油、氯仿、四氯化碳不溶於水，會分層。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "92-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 3,
+    "question": "【第 22-23 題為題組】下列物質為實驗室常見的化學藥品，其中 NaH 為氫化鈉，常作為還原劑：甲、Na　乙、NaH　丙、NaCl　丁、NaOH　戊、NH₄Cl　己、HNO₃　庚、反式-丁烯二酸。\n\n22. 若將上述物質置入純水中，則下列選項中何者可能會產生氫氣？",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "【與水產生氫氣】\n$2\\text{Na} + 2\\text{H}_2\\text{O} \\to 2\\text{NaOH} + \\text{H}_2$；$\\text{NaH} + \\text{H}_2\\text{O} \\to \\text{NaOH} + \\text{H}_2$（$\\text{H}^-$ 與水中的 $\\text{H}^+$ 結合）。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "92-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 3,
+    "question": "【第 22-23 題為題組】下列物質為實驗室常見的化學藥品，其中 NaH 為氫化鈉，常作為還原劑：甲、Na　乙、NaH　丙、NaCl　丁、NaOH　戊、NH₄Cl　己、HNO₃　庚、反式-丁烯二酸。\n\n23. 若將上述物質溶於純水中，則下列選項中何者會使紅色石蕊試紙顯現藍色？",
+    "options": [
+      "乙",
+      "丙",
+      "丁",
+      "己",
+      "庚"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "【鹼性溶液】\nNaH 與水反應生成 NaOH，NaOH 本身是強鹼，兩者溶液都呈鹼性。NaCl 中性；硝酸、反丁烯二酸為酸。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "92-ast-chem-24",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "某一氧化劑 X，雖不能氧化甲醇、乙醇、甲醛或乙醛，但能氧化下列有機化合物，以得醛或酸：R¹−CH(OH)−CH(OH)−R² → R¹−CHO + H−CO−R²；R³−CO−CH(OH)−R⁴ → R³−COOH + H−CO−R⁴。其中 R¹、R²、R³ 與 R⁴ 可能是氫、烷基或其他官能基。若以該氧化劑 X，氧化 2,3,4−戊三醇（CH₃−CH(OH)−CH(OH)−CH(OH)−CH₃），則可能獲得下列哪些產物？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-chem-24.png\" alt=\"鄰二醇與 α-羥基酮被氧化劑 X 切斷的反應，以及 2,3,4-戊三醇的結構\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{CH}_3\\text{COOH}$",
+      "$\\text{CO}_2$",
+      "HCOOH",
+      "$\\text{CH}_3\\text{CHO}$",
+      "$\\text{CH}_2\\text{O}$"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【鄰二醇的氧化斷裂】\nC2−C3 與 C3−C4 都是鄰二醇的碳碳鍵，會被切斷：\n• C2、C4 各成為乙醛 $\\text{CH}_3\\text{CHO}$（X 不能再氧化乙醛）。\n• 中間的 C3 兩邊都被切斷，先成為醛基，相當於第二式中的 R³−CO 部分，最後得到甲酸 HCOOH。\n（或者先切一邊：$\\text{CH}_3\\text{CHO} + \\text{OHC}-\\text{CH(OH)}-\\text{CH}_3$，後者是 α-羥基醛，依第二式再斷成 HCOOH 與 $\\text{CH}_3\\text{CHO}$。）\n\n故選 (C)(D)"
+  },
+  {
+    "id": "92-ast-chem-25",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 3,
+    "question": "【第 25-27 題為題組】取約 5 克的草酸鐵（$\\text{FeC}_2\\text{O}_4\\cdot2\\text{H}_2\\text{O}$）放入試管，用酒精燈加熱。結果黃色粉末的草酸鐵逐漸變灰黑色。試管移出火焰，冷後塞緊試管，以磁鐵靠近試管，可看見試管內有些微細粉末會隨磁鐵移動，有的不會。打開試管塞，高舉試管，使粉末從試管口落下，可看到閃閃火花。\n\n25. 用酒精燈加熱草酸鐵時，下列中的哪些物質，有可能以氣體的狀態從試管口逸出？",
+    "options": [
+      "C",
+      "$\\text{C}_2\\text{H}_2$",
+      "$\\text{CO}_2$",
+      "$\\text{H}_2\\text{O}$",
+      "$\\text{H}_2\\text{O}_2$"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【草酸鹽分解】\n$\\text{FeC}_2\\text{O}_4\\cdot2\\text{H}_2\\text{O} \\to \\text{FeO} + \\text{CO} + \\text{CO}_2 + 2\\text{H}_2\\text{O}$：逸出結晶水（水蒸氣）、CO 與 $\\text{CO}_2$。碳是固體；沒有乙炔或過氧化氫。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "92-ast-chem-26",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 3,
+    "question": "【第 25-27 題為題組】取約 5 克的草酸鐵（$\\text{FeC}_2\\text{O}_4\\cdot2\\text{H}_2\\text{O}$）放入試管，用酒精燈加熱。結果黃色粉末的草酸鐵逐漸變灰黑色。試管移出火焰，冷後塞緊試管，以磁鐵靠近試管，可看見試管內有些微細粉末會隨磁鐵移動，有的不會。打開試管塞，高舉試管，使粉末從試管口落下，可看到閃閃火花。\n\n26. 試管內的黑色粉末，有可能含有下列中的哪些物質？",
+    "options": [
+      "Fe",
+      "FeO",
+      "$\\text{FeO}_2$",
+      "$\\text{Fe}_2\\text{O}_3$",
+      "$\\text{Fe}_3\\text{O}_4$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explanation": "【鐵的氧化物】\n分解先得 FeO；生成的 CO 可把部分 FeO 還原成極細的鐵粉（會被磁鐵吸引）；部分 FeO 也可能歧化或被空氣氧化成 $\\text{Fe}_3\\text{O}_4$（具磁性）、$\\text{Fe}_2\\text{O}_3$。$\\text{FeO}_2$ 不是穩定的鐵氧化物。\n\n故選 (A)(B)(D)(E)"
+  },
+  {
+    "id": "92-ast-chem-27",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 3,
+    "question": "【第 25-27 題為題組】取約 5 克的草酸鐵（$\\text{FeC}_2\\text{O}_4\\cdot2\\text{H}_2\\text{O}$）放入試管，用酒精燈加熱。結果黃色粉末的草酸鐵逐漸變灰黑色。試管移出火焰，冷後塞緊試管，以磁鐵靠近試管，可看見試管內有些微細粉末會隨磁鐵移動，有的不會。打開試管塞，高舉試管，使粉末從試管口落下，可看到閃閃火花。\n\n27. 下列中的<u>哪一種</u>物質，從試管口落下時最有可能發出火花？（只選一項）",
+    "options": [
+      "Fe",
+      "FeO",
+      "$\\text{FeO}_2$",
+      "$\\text{Fe}_2\\text{O}_3$",
+      "$\\text{Fe}_3\\text{O}_4$"
+    ],
+    "answerIndices": [
+      0
+    ],
+    "explanation": "【自燃的鐵粉】\n極細的鐵粉表面積很大，落下時與空氣中的氧迅速反應而燃燒，發出火花（自燃性鐵粉）。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-chem-28",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 3,
+    "question": "【第 28-30 題為題組】這個實驗與「反應速率」或「秒表反應」所做的實驗有關。實驗過程如下（參見圖 6）：\n(1) 用一透明杯子取蒸餾水 80 毫升，並滴入碘酒至溶液呈黃褐色後，分成約兩等量的兩杯。\n(2) 在其中的一杯溶液中滴入 0.1M 的亞硫酸氫鈉 x 滴，攪拌後黃褐色消失，溶液變成無色，稱此溶液為甲液。\n(3) 在另一杯的溶液中，加 1M 的氫氧化鈉溶液 y 滴，攪拌後黃褐色同樣消失，而稱此溶液為乙液。\n(4) 將無色的甲液再分成約等量的兩杯。在其中的一杯加入 3% 的雙氧水 x 滴，攪拌後靜置數分鐘，無色溶液逐漸呈色，稱此溶液為丙液。另一杯則加入 1M 的鹽酸 2y 滴，攪拌後得丁液。\n(5) 同樣將乙液分成約等量的兩杯。在其中的一杯加入 3% 的雙氧水 x 滴，攪拌後得戊液，而另一杯則加入 1M 的鹽酸 2y 滴，攪拌後得己液。\n\n28. 試問下列哪些溶液呈現黃褐色？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-chem-28.png\" alt=\"圖6 碘酒水溶液加 NaHSO3 得甲、加 NaOH 得乙；甲、乙再各加 H2O2 或 HCl 得丙丁戊己\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "乙",
+      "丙",
+      "丁",
+      "戊",
+      "己"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【碘的氧化還原】\n• 甲：$\\text{HSO}_3^-$ 把 $\\text{I}_2$ 還原成無色的 $\\text{I}^-$。丙：加 $\\text{H}_2\\text{O}_2$ 又把 $\\text{I}^-$ 氧化成 $\\text{I}_2$，逐漸呈黃褐色 ✓。丁：加鹽酸不發生氧化，仍無色。\n• 乙：$\\text{I}_2$ 在鹼中歧化成無色的 $\\text{I}^-$ 與 $\\text{IO}_3^-$（或 $\\text{IO}^-$）。己：加酸後 $\\text{IO}_3^- + 5\\text{I}^- + 6\\text{H}^+ \\to 3\\text{I}_2 + 3\\text{H}_2\\text{O}$，回復黃褐色 ✓。戊：鹼性中加 $\\text{H}_2\\text{O}_2$ 不會生成碘，仍無色。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "92-ast-chem-29",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 3,
+    "question": "【第 28-30 題為題組】這個實驗與「反應速率」或「秒表反應」所做的實驗有關。實驗過程如下（參見圖 6）：\n(1) 用一透明杯子取蒸餾水 80 毫升，並滴入碘酒至溶液呈黃褐色後，分成約兩等量的兩杯。\n(2) 在其中的一杯溶液中滴入 0.1M 的亞硫酸氫鈉 x 滴，攪拌後黃褐色消失，溶液變成無色，稱此溶液為甲液。\n(3) 在另一杯的溶液中，加 1M 的氫氧化鈉溶液 y 滴，攪拌後黃褐色同樣消失，而稱此溶液為乙液。\n(4) 將無色的甲液再分成約等量的兩杯。在其中的一杯加入 3% 的雙氧水 x 滴，攪拌後靜置數分鐘，無色溶液逐漸呈色，稱此溶液為丙液。另一杯則加入 1M 的鹽酸 2y 滴，攪拌後得丁液。\n(5) 同樣將乙液分成約等量的兩杯。在其中的一杯加入 3% 的雙氧水 x 滴，攪拌後得戊液，而另一杯則加入 1M 的鹽酸 2y 滴，攪拌後得己液。\n\n29. 在碘酒的水溶液，加入亞硫酸氫鈉溶液後，<b>反應所得的生成物</b>中含有下列哪些粒子？（只選兩項）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-chem-28.png\" alt=\"圖6 碘酒水溶液加 NaHSO3 得甲、加 NaOH 得乙；甲、乙再各加 H2O2 或 HCl 得丙丁戊己\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{I}_2$",
+      "$\\text{I}^-$",
+      "$\\text{IO}_3^-$",
+      "$\\text{SO}_3^{2-}$",
+      "$\\text{SO}_4^{2-}$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【亞硫酸氫根還原碘】\n$\\text{I}_2 + \\text{HSO}_3^- + \\text{H}_2\\text{O} \\to 2\\text{I}^- + \\text{SO}_4^{2-} + 3\\text{H}^+$，生成物為 $\\text{I}^-$ 與 $\\text{SO}_4^{2-}$。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "92-ast-chem-30",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 3,
+    "question": "【第 28-30 題為題組】這個實驗與「反應速率」或「秒表反應」所做的實驗有關。實驗過程如下（參見圖 6）：\n(1) 用一透明杯子取蒸餾水 80 毫升，並滴入碘酒至溶液呈黃褐色後，分成約兩等量的兩杯。\n(2) 在其中的一杯溶液中滴入 0.1M 的亞硫酸氫鈉 x 滴，攪拌後黃褐色消失，溶液變成無色，稱此溶液為甲液。\n(3) 在另一杯的溶液中，加 1M 的氫氧化鈉溶液 y 滴，攪拌後黃褐色同樣消失，而稱此溶液為乙液。\n(4) 將無色的甲液再分成約等量的兩杯。在其中的一杯加入 3% 的雙氧水 x 滴，攪拌後靜置數分鐘，無色溶液逐漸呈色，稱此溶液為丙液。另一杯則加入 1M 的鹽酸 2y 滴，攪拌後得丁液。\n(5) 同樣將乙液分成約等量的兩杯。在其中的一杯加入 3% 的雙氧水 x 滴，攪拌後得戊液，而另一杯則加入 1M 的鹽酸 2y 滴，攪拌後得己液。\n\n30. 試問乙液中含有下列哪些粒子？（只選兩項）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-chem-28.png\" alt=\"圖6 碘酒水溶液加 NaHSO3 得甲、加 NaOH 得乙；甲、乙再各加 H2O2 或 HCl 得丙丁戊己\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{I}_2$",
+      "$\\text{I}^-$",
+      "$\\text{IO}_3^-$",
+      "$\\text{SO}_3^{2-}$",
+      "$\\text{SO}_4^{2-}$"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "【碘在鹼中的歧化】\n$3\\text{I}_2 + 6\\text{OH}^- \\to 5\\text{I}^- + \\text{IO}_3^- + 3\\text{H}_2\\text{O}$，碘由 0 同時變成 −1 與 +5。\n\n故選 (B)(C)"
   }
 ]
