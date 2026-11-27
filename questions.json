@@ -52491,5 +52491,392 @@
       "部位"
     ],
     "explanation": "根的生長點（頂端分生組織）前方是根冠，根冠細胞中含有澱粉粒構成的平衡石，會隨重力沉降，影響生長素的分布，使根表現向地性。"
+  },
+  {
+    "id": "114-gsat-mathA-01",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "points": 5,
+    "question": "1. 不透明袋中有藍、綠色球各若干顆，且球上皆有 1 或 2 的編號，其顆數如下表：1 號：藍 2、綠 4；2 號：藍 3、綠 $k$。例如標有 1 號的藍色球有 2 顆。從此袋中隨機抽取一球（每顆球被抽到的機率相等），若已知抽到藍色球的事件與抽到 1 號球的事件互相獨立，試問 $k$ 值為何？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answerIndex": 4,
+    "explanation": "【獨立：$P(A \\cap B) = P(A)P(B)$】\n總球數 $9 + k$。藍球 5 顆、1 號球 6 顆、1 號藍球 2 顆：\n$$\\frac{2}{9+k} = \\frac{5}{9+k}\\cdot\\frac{6}{9+k} \\implies 2(9+k) = 30 \\implies k = 6$$\n\n故選 (E)"
+  },
+  {
+    "id": "114-gsat-mathA-02",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "points": 5,
+    "question": "2. 坐標平面上，$P(a, 0)$ 為 $x$ 軸上一點，其中 $a > 0$。令 $L_1$、$L_2$ 為通過 $P$ 點，斜率分別為 $-\\dfrac43$、$-\\dfrac32$ 的直線。已知 $L_1$、$L_2$ 分別與兩坐標軸圍成的兩個直角三角形的面積差為 3，試問 $a$ 值為何？",
+    "options": [
+      "$3\\sqrt2$",
+      "6",
+      "$6\\sqrt2$",
+      "9",
+      "$8\\sqrt2$"
+    ],
+    "answerIndex": 1,
+    "explanation": "斜率 $-m$ 的直線過 $(a, 0)$，$y$ 截距為 $ma$，與兩軸圍成的三角形面積為 $\\dfrac12 \\cdot a \\cdot ma = \\dfrac{m a^2}{2}$。\n$$\\frac{3}{2}\\cdot\\frac{a^2}{2} - \\frac43\\cdot\\frac{a^2}{2} = \\frac{a^2}{12} = 3 \\implies a^2 = 36 \\implies a = 6$$\n\n故選 (B)"
+  },
+  {
+    "id": "114-gsat-mathA-03",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "points": 5,
+    "question": "3. 某校舉辦音樂會，包含鋼琴表演 5 個、小提琴表演 4 個、歌唱表演 3 個等三類表演共 12 個不同曲目。該校想將同類表演排在一起，且歌唱必須排在鋼琴之後或是小提琴之後。試問這場音樂會可能的曲目排列方式共有幾種？",
+    "options": [
+      "$5!\\times4!\\times3!$",
+      "$2\\times5!\\times4!\\times3!$",
+      "$3\\times5!\\times4!\\times3!$",
+      "$4\\times5!\\times4!\\times3!$",
+      "$6\\times5!\\times4!\\times3!$"
+    ],
+    "answerIndex": 3,
+    "explanation": "把三類各自綁成一塊：\n• 三塊的順序共 $3! = 6$ 種，其中歌唱排第一的有 2 種，不合；歌唱排在鋼琴或小提琴之後（即不是第一個）的有 $6 - 2 = 4$ 種。\n• 每塊內部排列：$5!$、$4!$、$3!$。\n共 $4\\times5!\\times4!\\times3!$ 種。\n\n故選 (D)"
+  },
+  {
+    "id": "114-gsat-mathA-04",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "points": 5,
+    "question": "4. 坐標平面上，$x$ 坐標與 $y$ 坐標均為整數的點稱為格子點。試問在函數圖形 $y = \\log_2 x$、$x$ 軸與直線 $x = \\dfrac{61}{2}$ 所圍有界區域的內部（不含邊界）共有多少個格子點？",
+    "options": [
+      "88",
+      "89",
+      "90",
+      "91",
+      "92"
+    ],
+    "answerIndex": 2,
+    "explanation": "區域內部的格子點滿足 $1 < x < 30.5$（$x = 2, 3, \\ldots, 30$）且 $0 < y < \\log_2 x$。\n• $x = 2$：$\\log_2 2 = 1$，沒有整數 $y$。\n• $x = 3, 4$：$y = 1$，共 $2 \\times 1 = 2$ 個（$x = 4$ 時 $y < 2$）。\n• $x = 5 \\sim 8$：$y = 1, 2$，共 $4 \\times 2 = 8$ 個。\n• $x = 9 \\sim 16$：$y = 1, 2, 3$，共 $8 \\times 3 = 24$ 個。\n• $x = 17 \\sim 30$：$y = 1 \\sim 4$，共 $14 \\times 4 = 56$ 個。\n總計 $2 + 8 + 24 + 56 = 90$。\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-mathA-05",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "points": 5,
+    "question": "5. 設 $0 \\le \\theta \\le 2\\pi$。已知所有滿足 $\\sin2\\theta > \\sin\\theta$ 且 $\\cos2\\theta > \\cos\\theta$ 的 $\\theta$ 可表為 $a\\pi < \\theta < b\\pi$，其中 $a, b$ 為實數，試問 $b - a$ 值為何？",
+    "options": [
+      "$\\dfrac13$",
+      "$\\dfrac12$",
+      "$\\dfrac23$",
+      "$\\dfrac34$",
+      "1"
+    ],
+    "answerIndex": 0,
+    "explanation": "• $\\cos2\\theta > \\cos\\theta$：$2\\cos^2\\theta - \\cos\\theta - 1 > 0 \\implies (2\\cos\\theta + 1)(\\cos\\theta - 1) > 0$，因 $\\cos\\theta \\le 1$，只能 $\\cos\\theta < -\\dfrac12$，即 $\\dfrac{2\\pi}{3} < \\theta < \\dfrac{4\\pi}{3}$。\n• $\\sin2\\theta > \\sin\\theta$：$\\sin\\theta(2\\cos\\theta - 1) > 0$。此時 $2\\cos\\theta - 1 < 0$，所以需 $\\sin\\theta < 0$，即 $\\pi < \\theta < 2\\pi$。\n• 交集：$\\pi < \\theta < \\dfrac{4\\pi}{3}$，$b - a = \\dfrac43 - 1 = \\dfrac13$。\n\n故選 (A)"
+  },
+  {
+    "id": "114-gsat-mathA-06",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "points": 5,
+    "question": "6. 坐標空間中有三個彼此互相垂直之向量 $\\vec u, \\vec v, \\vec w$。已知 $\\vec u - \\vec v = (2, -1, 0)$，且 $\\vec v - \\vec w = (-1, 2, 3)$。試問由 $\\vec u, \\vec v, \\vec w$ 所張出的平行六面體之體積為何？",
+    "options": [
+      "$2\\sqrt5$",
+      "$5\\sqrt2$",
+      "$2\\sqrt{10}$",
+      "$4\\sqrt5$",
+      "$4\\sqrt{10}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "三向量兩兩垂直，體積 $= |\\vec u||\\vec v||\\vec w|$。\n• $|\\vec u - \\vec v|^2 = |\\vec u|^2 + |\\vec v|^2 = 5$\n• $|\\vec v - \\vec w|^2 = |\\vec v|^2 + |\\vec w|^2 = 14$\n• $(\\vec u - \\vec v)\\cdot(\\vec v - \\vec w) = -|\\vec v|^2 = (2,-1,0)\\cdot(-1,2,3) = -4 \\implies |\\vec v|^2 = 4$\n所以 $|\\vec u|^2 = 1$、$|\\vec w|^2 = 10$，體積 $= 1 \\cdot 2 \\cdot \\sqrt{10} = 2\\sqrt{10}$。\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-mathA-07",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "type": "multiple",
+    "points": 5,
+    "question": "7. 已知數列 $\\langle a_n\\rangle$ 滿足 $3a_{n+1} = a_n + n$（對任意正整數 $n$ 都成立）且 $a_1 = 2$。令數列 $\\langle b_n\\rangle$ 滿足 $b_n = a_n - \\dfrac n2 + \\dfrac34$。試選出正確的選項。",
+    "options": [
+      "$a_2 = 2$",
+      "$b_2 = \\dfrac34$",
+      "數列 $\\langle b_n\\rangle$ 是公比為 $\\dfrac23$ 的等比數列",
+      "對於任意正整數 $n$，$3^n a_n$ 皆為正整數",
+      "$b_{10} < 10^{-4}$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "• (A) 錯誤：$3a_2 = 2 + 1 = 3$，$a_2 = 1$。\n• (B) 正確：$b_2 = 1 - 1 + \\dfrac34 = \\dfrac34$。\n• (C) 錯誤：$3b_{n+1} = 3a_{n+1} - \\dfrac{3(n+1)}{2} + \\dfrac94 = a_n + n - \\dfrac{3n}{2} + \\dfrac34 = b_n$，公比為 $\\dfrac13$。\n• (D) 正確：$b_1 = \\dfrac94$，$a_n = \\dfrac94\\left(\\dfrac13\\right)^{n-1} + \\dfrac{2n - 3}{4}$，\n$$3^n a_n = \\frac{27 + 3^n(2n - 3)}{4}$$\n$n$ 為偶數時 $3^n \\equiv 1$、$2n - 3 \\equiv 1 \\pmod 4$；$n$ 為奇數時 $3^n \\equiv 3$、$2n - 3 \\equiv 3 \\pmod 4$，分子都是 4 的倍數，且 $n = 1$ 時為 6，$n \\ge 2$ 時更大，皆為正整數。\n• (E) 錯誤：$b_{10} = \\dfrac94\\cdot\\dfrac{1}{3^9} = \\dfrac{1}{8748} \\approx 1.14\\times10^{-4} > 10^{-4}$。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "114-gsat-mathA-08",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 考慮坐標平面上滿足方程式 $\\dfrac{2^{x^2}}{8} = \\dfrac{4^x}{2^{y^2}}$ 的點 $P(x, y)$，試選出正確的選項。",
+    "options": [
+      "當 $x = 3$ 時，滿足此方程式的解有相異 2 個",
+      "若點 $(a, b)$ 滿足此方程式，則點 $(-a, -b)$ 也滿足此方程式",
+      "所有可能的點 $P(x, y)$ 構成的圖形為一個圓",
+      "點 $P(x, y)$ 可能在直線 $x + y = 4$ 上",
+      "對於所有可能的點 $P(x, y)$，其 $x - y$ 的最大值為 $1 + 2\\sqrt2$"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "兩邊都化成 2 的次方：$x^2 - 3 = 2x - y^2$，即 $(x - 1)^2 + y^2 = 4$，圓心 $(1, 0)$、半徑 2。\n• (A) 錯誤：$x = 3$ 時 $y^2 = 0$，只有 1 解。\n• (B) 錯誤：圓心不是原點，不對稱於原點（例如 $(3, 0)$ 在圓上，$(-3, 0)$ 不在）。\n• (C) 正確。\n• (D) 錯誤：圓心到直線距離 $\\dfrac{|1 - 4|}{\\sqrt2} = \\dfrac{3}{\\sqrt2} > 2$，不相交。\n• (E) 正確：令 $x = 1 + 2\\cos t$、$y = 2\\sin t$，$x - y = 1 + 2(\\cos t - \\sin t)$，最大值 $1 + 2\\sqrt2$。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "114-gsat-mathA-09",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 設 $b$、$c$ 為實數。已知二次方程式 $x^2 + bx + c = 0$ 有實根，但二次方程式 $x^2 + (b+2)x + c = 0$ 沒有實根。試選出正確的選項。",
+    "options": [
+      "$c < 0$",
+      "$b < 0$",
+      "$x^2 + (b+1)x + c = 0$ 有實根",
+      "$x^2 + (b+2)x - c = 0$ 有實根",
+      "$x^2 + (b-2)x + c = 0$ 有實根"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "條件：$b^2 - 4c \\ge 0$、$(b + 2)^2 - 4c < 0$。\n相減得 $(b+2)^2 - b^2 < 0 \\implies 4b + 4 < 0 \\implies b < -1$；又 $4c > (b + 2)^2 \\ge 0$，所以 $c > 0$。\n• (A) 錯誤：$c > 0$。\n• (B) 正確。\n• (C) 錯誤：反例 $b = -2$、$c = 1$ 滿足條件，但 $(b + 1)^2 - 4c = 1 - 4 < 0$。\n• (D) 正確：判別式 $(b + 2)^2 + 4c > 0$。\n• (E) 正確：$b < -1$ 時 $|b - 2| > |b|$，$(b - 2)^2 - 4c > b^2 - 4c \\ge 0$。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "114-gsat-mathA-10",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 令 $\\Gamma$ 為坐標平面上 $y = \\sin\\pi x$ 在 $0 \\le x \\le 3$ 內之函數圖形。一水平直線 $L: y = k$ 與 $\\Gamma$ 相交，其中三交點 $P(x_1, k)$、$Q(x_2, k)$、$R(x_3, k)$ 滿足 $x_1 < x_2 < 1 < x_3$。試選出正確的選項。",
+    "options": [
+      "$k > 0$",
+      "$L$ 與 $\\Gamma$ 恰有 3 個交點",
+      "$x_1 + x_2 < 1$",
+      "若 $2\\overline{PQ} = \\overline{QR}$，則 $k = \\dfrac12$",
+      "$L$ 與 $\\Gamma$ 所有交點的 $x$ 坐標之和大於 5"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "週期為 2。在 $[0, 1)$ 內有兩個交點，表示直線切過第一個波峰，$0 < k < 1$，且兩點對稱於 $x = \\dfrac12$：$x_2 = 1 - x_1$。$[2, 3]$ 是另一個波峰，又有兩個交點 $2 + x_1$、$3 - x_1$。\n• (A) 正確。\n• (B) 錯誤：共 4 個交點。\n• (C) 錯誤：$x_1 + x_2 = 1$。\n• (D) 正確：$\\overline{PQ} = 1 - 2x_1$。若 $x_3 = 2 + x_1$，$\\overline{QR} = 1 + 2x_1$，$2(1 - 2x_1) = 1 + 2x_1 \\implies x_1 = \\dfrac16$，$k = \\sin\\dfrac{\\pi}{6} = \\dfrac12$；若 $x_3 = 3 - x_1$，$\\overline{QR} = 2$，得 $x_1 = 0$、$k = 0$，不合。\n• (E) 正確：和為 $1 + (2 + x_1) + (3 - x_1) = 6 > 5$。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "114-gsat-mathA-11",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 在 $\\triangle ABC$ 中，$\\overline{AB} = 6$、$\\overline{AC} = 5$、$\\overline{BC} = 4$。令 $\\overline{AB}$ 中點為 $D$，$P$ 為 $\\angle ABC$ 之角平分線與 $\\overline{CD}$ 之交點，如圖所示。試選出正確的選項。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-gsat-mathA-11.png\" alt=\"三角形 ABC，D 為 AB 中點，P 為角 B 平分線與 CD 交點\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\overline{CP} = \\dfrac37\\overline{CD}$",
+      "$\\overrightarrow{AP} = \\dfrac37\\overrightarrow{AB} + \\dfrac27\\overrightarrow{AC}$",
+      "$\\cos\\angle BAC = \\dfrac34$",
+      "$\\triangle ACP$ 面積為 $\\dfrac{15}{14}\\sqrt7$",
+      "（內積）$\\overrightarrow{AP}\\cdot\\overrightarrow{AC} = \\dfrac{120}{7}$"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "在 $\\triangle BCD$ 中，$\\overline{BD} = 3$，$BP$ 平分 $\\angle B$，所以 $\\overline{CP} : \\overline{PD} = \\overline{BC} : \\overline{BD} = 4 : 3$。\n• (A) 錯誤：$\\overline{CP} = \\dfrac47\\overline{CD}$。\n• (B) 錯誤：$\\overrightarrow{AP} = \\dfrac37\\overrightarrow{AC} + \\dfrac47\\overrightarrow{AD} = \\dfrac27\\overrightarrow{AB} + \\dfrac37\\overrightarrow{AC}$。\n• (C) 正確：$\\cos A = \\dfrac{36 + 25 - 16}{2\\cdot6\\cdot5} = \\dfrac34$。\n• (D) 正確：$\\sin A = \\dfrac{\\sqrt7}{4}$，$\\triangle ABC = \\dfrac12\\cdot6\\cdot5\\cdot\\dfrac{\\sqrt7}{4} = \\dfrac{15\\sqrt7}{4}$，$\\triangle ACD$ 為其一半，$\\triangle ACP = \\dfrac47\\cdot\\dfrac{15\\sqrt7}{8} = \\dfrac{15\\sqrt7}{14}$。\n• (E) 正確：$\\overrightarrow{AB}\\cdot\\overrightarrow{AC} = 6\\cdot5\\cdot\\dfrac34 = \\dfrac{45}{2}$，$\\overrightarrow{AP}\\cdot\\overrightarrow{AC} = \\dfrac27\\cdot\\dfrac{45}{2} + \\dfrac37\\cdot25 = \\dfrac{45 + 75}{7} = \\dfrac{120}{7}$。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "114-gsat-mathA-12",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 某種合金由甲和乙兩種金屬組成，某生想知道其中金屬比例與合金的波長關係。他做實驗測量「甲占比為 $x$% 的合金所對應的波長 $y$（單位：奈米）」，並將得到的 20 筆數據 $(x_k, y_k)$，$k = 1, \\ldots, 20$，在 $xy$ 平面上標出對應的點，其迴歸直線（最適直線）為 $y = 21.3x - 40$。為符合投稿規範，須將報告描述為「乙占比為 $u$% 的合金所對應的波長 $v$（單位：微米）」，他將數據 $(x_k, y_k)$ 轉換為 $(u_k, v_k)$，得到在 $uv$ 平面的迴歸直線為 $v = au + b$。已知 1 奈米 $= 10^{-9}$ 公尺，1 微米 $= 10^{-6}$ 公尺。試選出正確的選項。",
+    "options": [
+      "$u_k = 100 - x_k$，$k = 1, \\ldots, 20$",
+      "$v_k = 1000y_k$，$k = 1, \\ldots, 20$",
+      "$u_1, u_2, \\ldots, u_{20}$ 的標準差等於 $x_1, x_2, \\ldots, x_{20}$ 的標準差",
+      "$b = 2.09$",
+      "某生發現有另一筆數據 $(u_{21}, v_{21})$，且滿足 $v_{21} = au_{21} + b$；若將這 21 筆數據 $(u_k, v_k)$ 在 $uv$ 平面上標出對應的點，則其迴歸直線仍為 $v = au + b$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explanation": "• (A) 正確：乙占比 $= 100 -$ 甲占比。\n• (B) 錯誤：1 微米 $= 1000$ 奈米，$v_k = \\dfrac{y_k}{1000}$。\n• (C) 正確：$u = 100 - x$ 只平移與反向，標準差不變。\n• (D) 正確：$v = \\dfrac{21.3(100 - u) - 40}{1000} = 2.09 - 0.0213u$，$b = 2.09$。\n• (E) 正確：最小平方法的直線滿足「殘差和為 0」與「殘差與 $u$ 的乘積和為 0」；新增的點殘差為 0，原直線仍滿足這兩個條件，迴歸直線不變。\n\n故選 (A)(C)(D)(E)"
+  },
+  {
+    "id": "114-gsat-mathA-13",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 5,
+    "question": "13. 已知實係數三次多項式 $f(x)$ 除以 $x + 6$ 得商式 $q(x)$ 和餘式 3。若 $q(x)$ 在 $x = -6$ 有最大值 8，則 $y = f(x)$ 圖形的對稱中心坐標為（⑬-1 ⑬-2 ，⑬-3）。",
+    "blanks": [
+      "-",
+      "6",
+      "3"
+    ],
+    "blankLabels": [
+      "13-1",
+      "13-2",
+      "13-3"
+    ],
+    "explanation": "$q(x)$ 在 $x = -6$ 有最大值 8：$q(x) = a(x + 6)^2 + 8$（$a < 0$）。\n$$f(x) = (x + 6)q(x) + 3 = a(x + 6)^3 + 8(x + 6) + 3$$\n令 $t = x + 6$，$y - 3 = at^3 + 8t$ 是奇函數，圖形對稱於 $t = 0$、$y = 3$，對稱中心為 $(-6, 3)$。\n\n答：$(-6, 3)$"
+  },
+  {
+    "id": "114-gsat-mathA-14",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 5,
+    "question": "14. 坐標空間中，已知點 $A$ 的坐標為 $(a, b, c)$，其中 $a, b, c$ 皆為小於 0 的實數，且知點 $A$ 與三平面 $E_1: 4y + 3z = 2$、$E_2: 3y + 4z = -5$、$E_3: x + 2y + 2z = -2$ 的距離都是 6，則 $a + b + c =$ ⑭-1 ⑭-2 ⑭-3。",
+    "blanks": [
+      "-",
+      "1",
+      "1"
+    ],
+    "blankLabels": [
+      "14-1",
+      "14-2",
+      "14-3"
+    ],
+    "explanation": "$b, c < 0$，所以 $4b + 3c - 2 < 0$：\n• $E_1$：$\\dfrac{|4b + 3c - 2|}{5} = 6 \\implies 4b + 3c = -28$\n• $E_2$：$3b + 4c + 5 = -30$（取負，因 $b, c < 0$）$\\implies 3b + 4c = -35$\n兩式相加 $b + c = -9$，相減 $b - c = 7$，得 $b = -1$、$c = -8$。\n• $E_3$：$\\dfrac{|a + 2b + 2c + 2|}{3} = 6 \\implies a - 16 = \\pm18$，$a = 34$ 或 $-2$；$a < 0$，取 $a = -2$。\n$a + b + c = -2 - 1 - 8 = -11$。\n\n答：$-11$"
+  },
+  {
+    "id": "114-gsat-mathA-15",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 5,
+    "question": "15. 假日市集有個攤位推出「試試手氣，定價 480 元的可愛玩偶最低只要 240 元」。規則為：顧客投擲一枚均勻硬幣至多 5 次，前 3 次連續擲得 3 個正面者則只能以 240 元購得一個玩偶，擲到第 4 次才累積得 3 個正面者則只能以 320 元購得一個，擲到第 5 次才累積得 3 個正面者則只能以 400 元購得一個；5 次投完仍未累積 3 個正面者則只能以 480 元購得一個。參與此遊戲的顧客購得一個玩偶所花金額的期望值為 ⑮-1 ⑮-2 ⑮-3 元。",
+    "blanks": [
+      "4",
+      "0",
+      "5"
+    ],
+    "blankLabels": [
+      "15-1",
+      "15-2",
+      "15-3"
+    ],
+    "explanation": "• 前 3 次全正：$\\dfrac18$，240 元。\n• 第 4 次才累積 3 正（前 3 次恰 2 正，第 4 次正）：$\\dbinom32\\left(\\dfrac12\\right)^4 = \\dfrac{3}{16}$，320 元。\n• 第 5 次才累積 3 正（前 4 次恰 2 正，第 5 次正）：$\\dbinom42\\left(\\dfrac12\\right)^5 = \\dfrac{3}{16}$，400 元。\n• 其餘：$1 - \\dfrac18 - \\dfrac3{16} - \\dfrac3{16} = \\dfrac12$，480 元。\n$$E = 30 + 60 + 75 + 240 = 405\\text{ 元}$$"
+  },
+  {
+    "id": "114-gsat-mathA-16",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 5,
+    "question": "16. 坐標平面上，設 $L_1$、$L_2$ 為通過點 $(3, 1)$ 且斜率分別為 $m$、$-m$ 的兩條直線，其中 $m$ 為一實數。另設 $\\Gamma$ 為圓心在原點的一個圓。已知 $\\Gamma$ 與 $L_1$ 交於相異兩點 $A$、$B$，且知圓心到 $L_1$ 的距離為 1，又 $\\Gamma$ 與 $L_2$ 相切，則弦 $\\overline{AB}$ 的長度為 $\\dfrac{⑯\\text{-}1\\ ⑯\\text{-}2}{⑯\\text{-}3}$。（化為最簡分數）",
+    "blanks": [
+      "2",
+      "4",
+      "5"
+    ],
+    "blankLabels": [
+      "16-1",
+      "16-2",
+      "16-3"
+    ],
+    "explanation": "• $L_1: mx - y + 1 - 3m = 0$，$\\dfrac{|1 - 3m|}{\\sqrt{m^2 + 1}} = 1 \\implies 8m^2 - 6m = 0$，$m = 0$ 或 $\\dfrac34$。\n  $m = 0$ 時 $L_1$、$L_2$ 都是 $y = 1$，不可能一條割圓、一條切圓，所以 $m = \\dfrac34$。\n• 半徑 $r$ = 原點到 $L_2$ 的距離 $= \\dfrac{|1 + 3m|}{\\sqrt{m^2 + 1}} = \\dfrac{13/4}{5/4} = \\dfrac{13}{5}$。\n• $\\overline{AB} = 2\\sqrt{r^2 - 1} = 2\\sqrt{\\dfrac{169 - 25}{25}} = \\dfrac{24}{5}$。\n\n答：$\\dfrac{24}{5}$"
+  },
+  {
+    "id": "114-gsat-mathA-17",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 5,
+    "question": "17. $\\triangle ABC$ 中，已知 $\\overline{AB} = \\overline{BC} = 3$，$\\cos\\angle ABC = -\\dfrac18$。在 $\\triangle ABC$ 的外接圓上有一點 $D$ 滿足 $\\overline{BD} = 4$，且 $\\overline{AD} \\le \\overline{CD}$，則 $\\overline{CD} =$ ⑰-1 $+\\sqrt{⑰\\text{-}2}$。（化為最簡根式）",
+    "blanks": [
+      "3",
+      "2"
+    ],
+    "blankLabels": [
+      "17-1",
+      "17-2"
+    ],
+    "explanation": "• $\\overline{AC}^2 = 9 + 9 - 2\\cdot9\\cdot\\left(-\\dfrac18\\right) = \\dfrac{81}{4}$，$\\overline{AC} = \\dfrac92$。\n• $D$ 在不含 $B$ 的弧 $AC$ 上，$ABCD$ 為圓內接四邊形，由托勒密定理：\n$$\\overline{AC}\\cdot\\overline{BD} = \\overline{AB}\\cdot\\overline{CD} + \\overline{BC}\\cdot\\overline{AD} \\implies 18 = 3(\\overline{AD} + \\overline{CD}) \\implies \\overline{AD} + \\overline{CD} = 6$$\n• $\\angle ADC = 180^\\circ - \\angle B$，$\\cos\\angle ADC = \\dfrac18$：\n$$\\frac{81}{4} = \\overline{AD}^2 + \\overline{CD}^2 - \\frac14\\overline{AD}\\cdot\\overline{CD} = 36 - \\frac94\\overline{AD}\\cdot\\overline{CD} \\implies \\overline{AD}\\cdot\\overline{CD} = 7$$\n• $\\overline{AD}$、$\\overline{CD}$ 為 $t^2 - 6t + 7 = 0$ 的兩根 $3 \\pm \\sqrt2$，$\\overline{CD} \\ge \\overline{AD}$，$\\overline{CD} = 3 + \\sqrt2$。"
+  },
+  {
+    "id": "114-gsat-mathA-18",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "points": 3,
+    "question": "【第 18-20 題為題組】已知 $A = \\begin{bmatrix} a_1 & a_2 \\\\ a_3 & a_4 \\end{bmatrix}$、$B = \\begin{bmatrix} b_1 & b_2 \\\\ b_3 & b_4 \\end{bmatrix}$ 皆為坐標平面上以原點 $O$ 為中心，逆時針旋轉一銳角的旋轉矩陣，且滿足 $A^2 = B^3 = \\begin{bmatrix} 0 & c \\\\ 1 & d \\end{bmatrix}$，其中 $c, d$ 為實數。設點 $P(1,1)$ 經 $A^3$ 變換後為點 $Q$，且點 $Q$ 經 $B^4$ 變換後為點 $R$。\n18. 試問 $c$ 之值為何？（單選題，3 分）",
+    "options": [
+      "0",
+      "−1",
+      "1",
+      "$-\\dfrac12$",
+      "$\\dfrac12$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【先找出 $A$、$B$】旋轉 $\\varphi$ 角的矩陣為 $\\begin{bmatrix} \\cos\\varphi & -\\sin\\varphi \\\\ \\sin\\varphi & \\cos\\varphi \\end{bmatrix}$。$A^2 = B^3$ 的第一行為 $(0, 1)$，所以 $\\cos\\varphi = 0$、$\\sin\\varphi = 1$，$A^2 = B^3$ 是旋轉 $90^\\circ$，$c = -1$、$d = 0$。\n$A$ 旋轉銳角 $\\theta$ 且 $2\\theta = 90^\\circ$，$\\theta = 45^\\circ$；$B$ 旋轉銳角 $\\alpha$ 且 $3\\alpha = 90^\\circ$，$\\alpha = 30^\\circ$。\n旋轉 $90^\\circ$ 的矩陣為 $\\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}$，所以 $c = -1$。\n\n故選 (B)"
+  },
+  {
+    "id": "114-gsat-mathA-19",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 18-20 題為題組】已知 $A = \\begin{bmatrix} a_1 & a_2 \\\\ a_3 & a_4 \\end{bmatrix}$、$B = \\begin{bmatrix} b_1 & b_2 \\\\ b_3 & b_4 \\end{bmatrix}$ 皆為坐標平面上以原點 $O$ 為中心，逆時針旋轉一銳角的旋轉矩陣，且滿足 $A^2 = B^3 = \\begin{bmatrix} 0 & c \\\\ 1 & d \\end{bmatrix}$，其中 $c, d$ 為實數。設點 $P(1,1)$ 經 $A^3$ 變換後為點 $Q$，且點 $Q$ 經 $B^4$ 變換後為點 $R$。\n19. 試求點 $Q$ 的坐標，以及 $\\overrightarrow{OR}$ 與向量 $(1, 0)$ 的夾角。（非選擇題，6 分）",
+    "selfGrade": true,
+    "blanks": [
+      "$Q(-\\sqrt2, 0)$",
+      "$60^\\circ$"
+    ],
+    "blankLabels": [
+      "Q 的坐標",
+      "夾角"
+    ],
+    "explanation": "【先找出 $A$、$B$】旋轉 $\\varphi$ 角的矩陣為 $\\begin{bmatrix} \\cos\\varphi & -\\sin\\varphi \\\\ \\sin\\varphi & \\cos\\varphi \\end{bmatrix}$。$A^2 = B^3$ 的第一行為 $(0, 1)$，所以 $\\cos\\varphi = 0$、$\\sin\\varphi = 1$，$A^2 = B^3$ 是旋轉 $90^\\circ$，$c = -1$、$d = 0$。\n$A$ 旋轉銳角 $\\theta$ 且 $2\\theta = 90^\\circ$，$\\theta = 45^\\circ$；$B$ 旋轉銳角 $\\alpha$ 且 $3\\alpha = 90^\\circ$，$\\alpha = 30^\\circ$。\n• $A^3$ 為旋轉 $135^\\circ$。$P(1, 1)$ 的方向角 $45^\\circ$、長度 $\\sqrt2$，旋轉後方向角 $180^\\circ$，$Q = (-\\sqrt2, 0)$。\n• $B^4$ 為旋轉 $120^\\circ$，$\\overrightarrow{OR}$ 的方向角 $= 180^\\circ + 120^\\circ = 300^\\circ$，$R = \\left(\\dfrac{\\sqrt2}{2}, -\\dfrac{\\sqrt6}{2}\\right)$。\n• $\\overrightarrow{OR}\\cdot(1, 0) = \\dfrac{\\sqrt2}{2}$，$|\\overrightarrow{OR}| = \\sqrt2$，$\\cos\\theta = \\dfrac12$，夾角為 $60^\\circ$。"
+  },
+  {
+    "id": "114-gsat-mathA-20",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 18-20 題為題組】已知 $A = \\begin{bmatrix} a_1 & a_2 \\\\ a_3 & a_4 \\end{bmatrix}$、$B = \\begin{bmatrix} b_1 & b_2 \\\\ b_3 & b_4 \\end{bmatrix}$ 皆為坐標平面上以原點 $O$ 為中心，逆時針旋轉一銳角的旋轉矩陣，且滿足 $A^2 = B^3 = \\begin{bmatrix} 0 & c \\\\ 1 & d \\end{bmatrix}$，其中 $c, d$ 為實數。設點 $P(1,1)$ 經 $A^3$ 變換後為點 $Q$，且點 $Q$ 經 $B^4$ 變換後為點 $R$。\n20. 設 $L$ 為過點 $P$ 且與直線 $OQ$ 平行的直線，點 $S$ 為 $L$ 和直線 $OR$ 的交點，試求 $\\angle OSP$，並求點 $S$ 的坐標。（非選擇題，6 分）",
+    "selfGrade": true,
+    "blanks": [
+      "$\\angle OSP = 60^\\circ$",
+      "$S\\left(-\\dfrac{\\sqrt3}{3}, 1\\right)$"
+    ],
+    "blankLabels": [
+      "∠OSP",
+      "S 的坐標"
+    ],
+    "explanation": "• 直線 $OQ$ 是 $x$ 軸，$L$ 是過 $P(1, 1)$ 的水平線 $y = 1$。\n• 由第 19 題 $R = \\left(\\dfrac{\\sqrt2}{2}, -\\dfrac{\\sqrt6}{2}\\right)$，直線 $OR$：$y = -\\sqrt3x$。與 $y = 1$ 交於 $S\\left(-\\dfrac{\\sqrt3}{3}, 1\\right)$。\n• $\\overrightarrow{SO} = \\left(\\dfrac{\\sqrt3}{3}, -1\\right)$，$\\overrightarrow{SP}$ 沿 $+x$ 方向：$\\cos\\angle OSP = \\dfrac{\\sqrt3/3}{2\\sqrt3/3} = \\dfrac12$，$\\angle OSP = 60^\\circ$。\n（也可由 $L \\parallel x$ 軸，同位角等於 $\\overrightarrow{OR}$ 與 $x$ 軸的夾角 $60^\\circ$。）"
   }
 ]
