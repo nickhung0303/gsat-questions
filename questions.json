@@ -23059,5 +23059,561 @@
       ]
     ],
     "explanation": "【磁力不作功】\n勞侖茲力 $\\vec F = Q\\vec v \\times \\vec B$ 永遠與速度垂直，力的方向與位移方向垂直，所以磁場對小球所作的功為零（磁力只改變速度方向，不改變速率）。\n\n答：0"
+  },
+  {
+    "id": "104-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "某生以直立、盛水的共鳴管進行空氣中聲波速率測量之實驗。當共鳴管中水面接近管口時，在管口外敲擊音叉，並逐漸降低水面。當水面降至與管口距離為 $H_1$、$H_2$、$H_3$ 的時候，分別聽到第一、第二、第三次的共鳴聲響，則下列何者最接近當時聲波的波長？",
+    "options": [
+      "$H_1$",
+      "$2H_1$",
+      "$H_2 - H_1$",
+      "$H_3 - H_1$",
+      "$\\dfrac{H_3 - H_1}{2}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【一端閉管的共鳴】\n相鄰兩次共鳴的空氣柱長度差為半個波長：$H_2 - H_1 = H_3 - H_2 = \\dfrac{\\lambda}{2}$，所以 $H_3 - H_1 = \\lambda$。\n• (A)(B) 第一次共鳴 $H_1$ 約為 $\\dfrac{\\lambda}{4}$ 加上管口修正，不準確。\n• (C) 只有半個波長；(E) 也是半個波長。\n\n故選 (D)"
+  },
+  {
+    "id": "104-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "在測量物質比熱的實驗中，使甲、乙、丙、丁、戊五個不同的材料分別吸收相同的熱量，已知所有材料均未出現相變，且它們的質量和溫度上升值如表一，則這五個材料中，何者的比熱最大？",
+    "svg": "<svg viewBox=\"0 0 314 212\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:376.8px;height:auto;display:block;\"><text x=\"157\" y=\"20\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表一</text><rect x=\"2\" y=\"28\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">材料</text><rect x=\"72\" y=\"28\" width=\"100\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">質量 (g)</text><rect x=\"172\" y=\"28\" width=\"140\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">溫度上升值 (K)</text><rect x=\"2\" y=\"58\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">甲</text><rect x=\"72\" y=\"58\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3.0</text><rect x=\"172\" y=\"58\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">10.0</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">乙</text><rect x=\"72\" y=\"88\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4.0</text><rect x=\"172\" y=\"88\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4.0</text><rect x=\"2\" y=\"118\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">丙</text><rect x=\"72\" y=\"118\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">6.0</text><rect x=\"172\" y=\"118\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">15.0</text><rect x=\"2\" y=\"148\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">丁</text><rect x=\"72\" y=\"148\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">8.0</text><rect x=\"172\" y=\"148\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">6.0</text><rect x=\"2\" y=\"178\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"197.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">戊</text><rect x=\"72\" y=\"178\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"197.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">10.0</text><rect x=\"172\" y=\"178\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"197.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">10.0</text></svg>",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 1,
+    "explanation": "【$Q = mc\\Delta T$】\n熱量相同，$c = \\dfrac{Q}{m\\Delta T}$，$m\\Delta T$ 越小比熱越大：\n甲 30、乙 16、丙 90、丁 48、戊 100，乙最小，比熱最大。\n\n故選 (B)"
+  },
+  {
+    "id": "104-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 1 所示，一個水平放置的絕熱容器，以一片可自由移動的絕熱隔板分隔為兩室，兩室中裝有同一種的單原子理想氣體。當隔板達靜力平衡時，右室之絕對溫度為 $T$，且左室與右室氣體之原子個數比為 $3:1$，體積比為 $2:1$。若在不對氣體作功的情況下，將隔板打開使兩室相通，則容器中的氣體最後達到熱平衡時之絕對溫度為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-03.png\" alt=\"圖1 以隔板分成兩室的容器\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$T$",
+      "$3T/4$",
+      "$2T/3$",
+      "$T/2$",
+      "$T/3$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【壓力相等＋內能守恆】\n• 隔板平衡時兩室壓力相等：$\\dfrac{n_\\text{左} T_\\text{左}}{V_\\text{左}} = \\dfrac{n_\\text{右} T}{V_\\text{右}} \\implies \\dfrac{3T_\\text{左}}{2} = T \\implies T_\\text{左} = \\dfrac{2T}{3}$\n• 絕熱、不作功，總內能不變；單原子氣體內能 $\\dfrac{3}{2}nRT$：\n$$3n\\cdot\\frac{2T}{3} + n\\cdot T = 4n\\cdot T_f \\implies T_f = \\frac{3T}{4}$$\n故選 (B)"
+  },
+  {
+    "id": "104-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "有一束單色光由空氣以 $45^\\circ$ 入射一個上下兩面均為水平、厚度為 $d$ 的透明長方磚，其折射部分之光徑如圖 2 所示，入射區的入射點與出射區的出射點之水平距離為 $s$。假設所有的光線只在兩水平界面發生折射與反射，則下列有關此長方磚的折射率及其與空氣界面的敘述，何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-04.png\" alt=\"圖2 光線穿過長方磚\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "長方磚的折射率為 $\\dfrac{d}{s}$",
+      "長方磚的折射率為 $\\dfrac{\\sqrt{d^2 + s^2}}{s}$",
+      "經兩界面反射而回原空氣入射區的光線會相互平行",
+      "若增大入射角時，則會在入射區的界面發生全反射",
+      "若同材質長方磚的厚度 $d$ 增大時，則其折射率亦將增大"
+    ],
+    "answerIndex": 2,
+    "explanation": "【平行界面的反射與折射】\n• (A)(B) 錯誤：磚內折射角 $\\theta$ 滿足 $\\sin\\theta = \\dfrac{s}{\\sqrt{d^2 + s^2}}$，$n = \\dfrac{\\sin45^\\circ}{\\sin\\theta} = \\dfrac{\\sqrt2}{2}\\cdot\\dfrac{\\sqrt{d^2 + s^2}}{s}$，兩個選項都少了 $\\dfrac{\\sqrt2}{2}$。\n• (C) 正確：直接在下界面反射的光，與進入磚內、在上界面反射後再從下界面折射出來的光，因兩界面平行，射出方向都與入射方向對稱，彼此平行。\n• (D) 錯誤：光由空氣（低折射率）射入磚，不會發生全反射。\n• (E) 錯誤：折射率是材質的性質，與厚度無關。\n\n故選 (C)"
+  },
+  {
+    "id": "104-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "某生在空氣中進行雙狹縫干涉實驗，測得中央亮紋寬度為 $\\Delta Y_1$，若將完全相同的整套裝置移至水中進行實驗，測得中央亮紋寬度為 $\\Delta Y_2$，則下列敘述或關係式，何者正確？",
+    "options": [
+      "水中光波頻率增大",
+      "水中光波波長增長",
+      "水中光速增大",
+      "$\\Delta Y_2 < \\Delta Y_1$",
+      "$\\Delta Y_2 > \\Delta Y_1$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【介質中的波長變短】\n進入水中頻率不變、光速變小，波長 $\\lambda' = \\dfrac{\\lambda}{n}$ 變短。亮紋寬度 $\\dfrac{L\\lambda}{d}$ 與波長成正比，所以 $\\Delta Y_2 < \\Delta Y_1$。\n\n故選 (D)"
+  },
+  {
+    "id": "104-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "光纖導管一般由中心的纖芯與包層所組成，並在其外塗上一層塗覆層來保護光纖，如圖 3 所示。光纖利用光的全反射傳播訊號，下列有關光纖的敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-06.png\" alt=\"圖3 光纖的纖芯、包層與塗覆層\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "沿著光傳播的方向，光纖的折射率需逐漸減少",
+      "沿著光傳播的方向，光纖的折射率需逐漸增加",
+      "光纖傳播訊號無法沿著彎曲形的導管前進",
+      "光纖的纖芯以真空取代後，光訊號可增強",
+      "光纖包層的折射率小於纖芯的折射率"
+    ],
+    "answerIndex": 4,
+    "explanation": "【全反射的條件】\n光要由「折射率較大」的介質射向「折射率較小」的介質，且入射角大於臨界角，才會全反射。所以包層的折射率必須小於纖芯。\n• (A)(B) 錯誤：全反射與沿傳播方向的折射率變化無關。\n• (C) 錯誤：只要彎曲不太大，光仍可在彎曲光纖中不斷全反射前進。\n• (D) 錯誤：真空折射率最小，纖芯改成真空就無法在纖芯與包層界面全反射。\n\n故選 (E)"
+  },
+  {
+    "id": "104-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "某生打籃球時在罰球線上立定向斜上方拋投，投入一個空心球。球從離手到進入籃框為止的過程中，其動能 $K$ 隨距地面之高度 $h$ 的變化圖，最接近下列何者？圖中虛線的箭頭方向表示過程的先後順序。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-07.png\" alt=\"選項 (A)～(E) 的動能-高度圖\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 0,
+    "explanation": "【力學能守恆】\n忽略空氣阻力：$K = E - mgh$，$K$ 對 $h$ 是斜率為 $-mg$ 的直線。\n• 上升時 $h$ 增加、$K$ 沿直線減少；到最高點後下落進籃框，$h$ 減少、$K$ 沿「同一條直線」回升一小段（籃框高於出手點，所以不會回到起點）。\n• (A) 正是沿同一條下降直線先往右下、再折返一小段。其他選項不是直線或方向不對。\n\n故選 (A)"
+  },
+  {
+    "id": "104-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "在水平筆直的道路上，摩托車因太慢剎車而撞上正前方靜止等候紅燈的汽車，若摩托車開始剎車前的車速為 20 m/s，且警察在地面上量到碰撞前摩托車的直線剎車痕為 16 m。假設摩托車在剎車過程中輪胎鎖死而不轉動，且輪胎與路面的動摩擦係數為 0.8，忽略其他阻力，取重力加速度為 10 m/s²，則與汽車接觸前瞬間摩托車的車速為多少 m/s？",
+    "options": [
+      "0",
+      "6",
+      "12",
+      "24",
+      "36"
+    ],
+    "answerIndex": 2,
+    "explanation": "【等減速度運動】\n減速度 $a = \\mu g = 8\\text{ m/s}^2$：\n$$v^2 = 20^2 - 2 \\times 8 \\times 16 = 400 - 256 = 144 \\implies v = 12\\text{ m/s}$$\n故選 (C)"
+  },
+  {
+    "id": "104-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "一質量為 $m$ 的人造衛星，在距離地心為 $R$ 的高度，沿圓形軌道繞行地球，週期為 180 分鐘。設地球質量為 $M$，重力常數為 $G$，若欲將此衛星移至同步衛星的圓形軌道上繞行地球，則所需之最小能量為下列何者？",
+    "options": [
+      "$\\dfrac{3GMm}{8R}$",
+      "$\\dfrac{GMm}{4R}$",
+      "$\\dfrac{GMm}{2R}$",
+      "$\\dfrac{5GMm}{8R}$",
+      "$\\dfrac{3GMm}{4R}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【圓軌道的總力學能 $E = -\\dfrac{GMm}{2r}$】\n• 同步衛星週期 24 小時，是原來 3 小時的 8 倍；由 $T^2 \\propto r^3$，$r' = 8^{2/3}R = 4R$。\n• 所需能量：\n$$\\Delta E = -\\frac{GMm}{2(4R)} - \\left(-\\frac{GMm}{2R}\\right) = \\frac{GMm}{2R} - \\frac{GMm}{8R} = \\frac{3GMm}{8R}$$\n故選 (A)"
+  },
+  {
+    "id": "104-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "若在慣性參考坐標系中觀察一物體的運動狀況，則下列敘述何者正確？",
+    "options": [
+      "當物體作等加速直線運動時，其所受合力必為 0",
+      "當物體作等速圓周運動時，其所受合力必為 0",
+      "當物體靜力平衡時，其所受合力與合力矩均為 0",
+      "當物體所受合力與合力矩均為 0 時，物體必為靜止",
+      "當物體作等速圓周運動時，不論是否以圓心為力矩的參考點，其所受合力矩恆為 0"
+    ],
+    "answerIndex": 2,
+    "explanation": "【力與運動】\n• (A) 錯誤：有加速度就有合力 $F = ma$。\n• (B) 錯誤：等速圓周運動需要向心力。\n• (C) 正確：靜力平衡的條件。\n• (D) 錯誤：合力與合力矩為零時，物體也可能等速度運動或等角速度轉動。\n• (E) 錯誤：向心力通過圓心，對圓心的力矩為零；但對其他參考點力矩不一定為零。\n\n故選 (C)"
+  },
+  {
+    "id": "104-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "在光滑水平面上，有甲、乙、丙三個金屬塊，質量分別為 $m$、$2m$ 及 $2m$，其質心成一直線，其中丙連接一理想彈簧，如圖 4 所示。初始時，乙、丙為靜止，而甲以速度 $v$ 向右與乙進行正面彈性碰撞，若所有金屬塊間的碰撞可視為質量集中於質心的質點間彈性碰撞，且彈簧質量可以忽略，則碰撞後，丙的最大速率為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-11.png\" alt=\"圖4 甲、乙、丙三金屬塊與彈簧\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{1}{5}v$",
+      "$\\dfrac{2}{5}v$",
+      "$\\dfrac{1}{2}v$",
+      "$\\dfrac{2}{3}v$",
+      "$v$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【兩次彈性作用】\n• 甲撞乙（彈性）：$v_\\text{乙} = \\dfrac{2m}{m + 2m}v = \\dfrac{2}{3}v$，甲以 $-\\dfrac{1}{3}v$ 反彈。\n• 乙經彈簧與丙作用，彈簧恢復原長時相當於一次彈性碰撞；兩者質量相等，速度交換，丙得到 $\\dfrac{2}{3}v$，這就是丙的最大速率（之後乙靜止，不再推動丙）。\n\n故選 (D)"
+  },
+  {
+    "id": "104-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "下列有關物體或粒子與電磁場間的關係之敘述，何者正確？",
+    "options": [
+      "一個等速度前進的電子，能在其四周產生電場但無磁場產生",
+      "一個等速度前進的質子，能在其四周產生磁場但無電場產生",
+      "一個等速度移動的磁鐵，能在其四周產生電場但無磁場產生",
+      "一個靜止的電子，能在其四周產生磁場但無電場產生",
+      "一束等速度前進的光子，其四周伴有電場與磁場"
+    ],
+    "answerIndex": 4,
+    "explanation": "【電場與磁場的來源】\n• (A)(B) 錯誤：運動的電荷同時產生電場與磁場。\n• (C) 錯誤：磁鐵本身就有磁場；移動時磁場變化，還會感應出電場。\n• (D) 錯誤：靜止電荷只產生電場。\n• (E) 正確：光是電磁波，傳播時伴隨互相垂直的電場與磁場。\n\n故選 (E)"
+  },
+  {
+    "id": "104-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 5 所示，在重力可忽略的環境中，某一粒子水平射向一條通有穩定電流的鉛垂長直導線，該粒子會因導線電流所產生的磁場而偏折，其路徑如虛線箭頭所示。下列推論何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-13.png\" alt=\"圖5 粒子射向鉛垂導線而向下偏折\" style=\"width:100%;max-width:140px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "α 粒子：導線中的電流方向為由上往下",
+      "β 粒子：導線中的電流方向為由上往下",
+      "γ 粒子：導線中的電流方向為由上往下",
+      "電子：導線中的電流方向為由下往上",
+      "光子：導線中的電流方向為由下往上"
+    ],
+    "answerIndex": 1,
+    "explanation": "【右手定則與勞侖茲力】\n粒子在導線左方向右運動，受力向下（圖中向下彎）。\n• 若電流由上往下：導線左方的磁場方向為穿入紙面。正電荷向右運動受力 $q\\vec v \\times \\vec B$ 向上，負電荷受力向下。所以向下偏的是負電荷，即 β 粒子（電子），(B) 正確、(A) 錯誤。\n• 若電流由下往上：磁場穿出紙面，電子受力向上，(D) 錯誤。\n• γ 射線與光子不帶電，不受磁力偏折，(C)(E) 錯誤。\n\n故選 (B)"
+  },
+  {
+    "id": "104-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "有兩片大小皆為 $0.50\\text{ m} \\times 0.50\\text{ m}$ 的帶電平行金屬薄板，其間距固定為 $1.0\\text{ mm}$，電位差為 $100\\text{ V}$。若將一電量為 $1.6\\times10^{-19}\\text{ C}$ 的電子置於兩平行板的正中央，則此電子約受到多少牛頓的靜電力作用？",
+    "options": [
+      "0",
+      "$1.6\\times10^{-17}$",
+      "$4.0\\times10^{-16}$",
+      "$3.2\\times10^{-15}$",
+      "$1.6\\times10^{-14}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【平行板間的均勻電場】\n$E = \\dfrac{V}{d} = \\dfrac{100}{1.0\\times10^{-3}} = 1.0\\times10^{5}\\text{ V/m}$\n$F = qE = 1.6\\times10^{-19} \\times 1.0\\times10^{5} = 1.6\\times10^{-14}\\text{ N}$（板間電場均勻，與位置無關）\n\n故選 (E)"
+  },
+  {
+    "id": "104-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "某生拿一個具有 2.0 V 電動勢、內電阻為 2.5 Ω 的充電器，對一個可充電的電池進行充電，假設接線電阻可以忽略，則當電池電壓為 1.5 V 時，此充電電路的電流為多少安培？",
+    "options": [
+      "3.0",
+      "2.0",
+      "1.4",
+      "0.20",
+      "0"
+    ],
+    "answerIndex": 3,
+    "explanation": "【充電電路】\n充電器電動勢與電池電壓方向相反，淨電壓 $2.0 - 1.5 = 0.5\\text{ V}$ 推動電流通過內電阻：\n$$I = \\frac{0.5}{2.5} = 0.20\\text{ A}$$\n故選 (D)"
+  },
+  {
+    "id": "104-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "圖 6 為某一類型質譜儀的結構示意圖，在兩平行電極板間有一均勻電場 $E$，在電極板的右端有一阻隔板，板上有一小孔只能讓沒有偏向的粒子穿過，板後面有可偵測粒子的裝置，整個儀器置於一射出紙面的均勻磁場 $B$ 內。帶電量 $q$ 的粒子由電極板的左端，對準小孔、平行於電極板射入，但粒子的初速未知，若重力可忽略，且在離小孔 $d$ 的位置測得粒子，則此粒子的質量 $m$ 為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-16.png\" alt=\"圖6 質譜儀結構示意圖\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{qdB^2}{2E}$",
+      "$\\dfrac{qEd}{2B}$",
+      "$\\dfrac{2qB^2}{Ed}$",
+      "$qEd$",
+      "$qBd$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【速度選擇器＋磁場中的圓周運動】\n• 能直線通過電極板的粒子：$qE = qvB \\implies v = \\dfrac{E}{B}$\n• 穿過小孔後作半圓周運動，直徑 $d$：$r = \\dfrac{d}{2} = \\dfrac{mv}{qB}$\n$$m = \\frac{qBd}{2v} = \\frac{qB^2d}{2E}$$\n故選 (A)"
+  },
+  {
+    "id": "104-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "一列週期性繩波以 $5.0\\text{ m/s}$ 之速度，沿 $-x$ 方向傳播時，以致質輕細繩沿著 $y$ 方向振動。若以 $y$ 代表細繩偏離平衡位置的位移，則在 $t = 0.20\\text{ s}$ 時，繩上各點的位移，如圖 7 所示，則在 $x = 2.0\\text{ m}$ 處之 P 點的位移 $y$ 隨時間 $t$ 的變化關係，以下何圖所示較為正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-17a.png\" alt=\"圖7 t = 0.20 s 時的波形\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-17b.png\" alt=\"選項 (A)～(E) 的 y-t 圖\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 2,
+    "explanation": "【由波形推質點的振動】\n• 由圖 7，波長 $\\lambda = 2.0\\text{ m}$，週期 $T = \\dfrac{\\lambda}{v} = \\dfrac{2.0}{5.0} = 0.40\\text{ s}$，所以 y-t 圖的週期應為 0.4 s（時間刻度標 0.2、0.4 的圖）。\n• 由圖 7，$t = 0.20\\text{ s}$ 時波形可寫成 $y = A\\sin(\\pi x)$；波沿 $-x$ 方向傳播：$y = A\\sin[\\pi(x + 5.0(t - 0.20))]$。\n• P 點 $x = 2.0$：$y = A\\sin(5\\pi t + \\pi) = -A\\sin(5\\pi t)$，即 $t = 0$ 時位移為零、之後先往負方向，在 $t = 0.2$、$0.4\\text{ s}$ 回到零。\n符合此振動的是圖 (C)。\n\n故選 (C)"
+  },
+  {
+    "id": "104-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "假設波耳的氫原子模型中電子角動量量子化的描述，也適用於自由電子以不同速率在一個半徑固定之微小圓形金屬線圈中的運動。若自由電子沿此圓形金屬線圈運動的最低動能為 $\\varepsilon$，則自由電子在第一受激態時所具有的動能為下列何者？",
+    "options": [
+      "$2\\varepsilon$",
+      "$4\\varepsilon$",
+      "$6\\varepsilon$",
+      "$9\\varepsilon$",
+      "$12\\varepsilon$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【角動量量子化】\n$mvr = n\\dfrac{h}{2\\pi}$，半徑固定時 $v \\propto n$，動能 $K = \\dfrac{1}{2}mv^2 \\propto n^2$。最低為 $n = 1$ 的 $\\varepsilon$，第一受激態 $n = 2$：$4\\varepsilon$。\n\n故選 (B)"
+  },
+  {
+    "id": "104-ast-phy-19",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "若有一個 α 粒子與某一個中子的動能均為 $E$，此動能也與某一個光子的能量相等。考慮此 α 粒子與此中子的物質波及此光子的光波，設 α 粒子與中子的質量分別為 $4m$ 與 $m$，$c$ 為光速，則此三者的波長之比 $\\lambda_{α\\text{粒子}} : \\lambda_{\\text{中子}} : \\lambda_{\\text{光子}}$ 為下列何者？",
+    "options": [
+      "$\\dfrac{1}{\\sqrt{8m}} : \\dfrac{1}{\\sqrt{2m}} : \\dfrac{1}{\\sqrt{E/c^2}}$",
+      "$\\dfrac{1}{\\sqrt{4m}} : \\dfrac{1}{\\sqrt{m}} : \\dfrac{1}{\\sqrt{E/c^2}}$",
+      "$\\dfrac{1}{\\sqrt{4m}} : \\dfrac{1}{\\sqrt{m}} : \\dfrac{1}{\\sqrt{E/c}}$",
+      "$\\dfrac{1}{\\sqrt{16m}} : \\dfrac{1}{\\sqrt{4m}} : \\dfrac{1}{\\sqrt{E/c^2}}$",
+      "$\\dfrac{1}{\\sqrt{16m}} : \\dfrac{1}{\\sqrt{4m}} : \\dfrac{1}{\\sqrt{E/c}}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【物質波與光子動量】\n$\\lambda = \\dfrac{h}{p}$：\n• α 粒子：$p = \\sqrt{2(4m)E} = \\sqrt{8mE}$\n• 中子：$p = \\sqrt{2mE}$\n• 光子：$p = \\dfrac{E}{c} = \\sqrt{E}\\cdot\\sqrt{\\dfrac{E}{c^2}}$\n三者都含因子 $\\sqrt E$，約去後：\n$$\\lambda_{α} : \\lambda_{n} : \\lambda_{γ} = \\frac{1}{\\sqrt{8m}} : \\frac{1}{\\sqrt{2m}} : \\frac{1}{\\sqrt{E/c^2}}$$\n故選 (A)"
+  },
+  {
+    "id": "104-ast-phy-20",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "points": 3,
+    "question": "已知某些遮蔽物對一般放射源所射出的粒子會造成如下的效果：(1) 若僅射出 α 粒子，則不能穿過一張紙；(2) 若僅射出 β 粒子，則需用 5 mm 厚的鋁板才能完全擋住；(3) 若僅射出 γ 射線（可視為粒子），則即使擋以 25 mm 厚的鉛板，也只能將粒子數約減少一半。今將一個待測放射源放在一個偵測器的感應口前，此偵測器可量測 α、β 及 γ 的總粒子數，然後分別用一張紙、5 mm 厚的鋁板及 25 mm 厚的鉛板，擋在放射源和感應口的中間，各次測得的總粒子數如表二。則下列何者最有可能為此放射源所放出的粒子？",
+    "svg": "<svg viewBox=\"0 0 344 182\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:412.8px;height:auto;display:block;\"><text x=\"172\" y=\"20\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表二</text><rect x=\"2\" y=\"28\" width=\"140\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">遮蔽物</text><rect x=\"142\" y=\"28\" width=\"200\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">每分鐘測得的總粒子數</text><rect x=\"2\" y=\"58\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">無</text><rect x=\"142\" y=\"58\" width=\"200\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">402</text><rect x=\"2\" y=\"88\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">紙（1 張）</text><rect x=\"142\" y=\"88\" width=\"200\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">362</text><rect x=\"2\" y=\"118\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">鋁板（5 mm）</text><rect x=\"142\" y=\"118\" width=\"200\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">362</text><rect x=\"2\" y=\"148\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">鉛板（25 mm）</text><rect x=\"142\" y=\"148\" width=\"200\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">178</text></svg>",
+    "options": [
+      "α 粒子",
+      "β 粒子",
+      "α 及 β 粒子",
+      "β 及 γ 粒子",
+      "α 及 γ 粒子"
+    ],
+    "answerIndex": 4,
+    "explanation": "【由穿透能力判斷】\n• 加一張紙減少 40 個：有 α 粒子。\n• 換成 5 mm 鋁板沒有再減少：沒有 β 粒子。\n• 25 mm 鉛板使剩下的 362 約減半為 178：符合 γ 射線的特性。\n所以放射源放出 α 與 γ。\n\n故選 (E)"
+  },
+  {
+    "id": "104-ast-phy-21",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "比較單擺小角度的週期性擺動與物體連結於理想彈簧所作的簡諧運動，在忽略空氣阻力與摩擦力下，下列敘述哪些正確？",
+    "options": [
+      "若僅將單擺細繩的長度變長，則單擺的週期會變長",
+      "若僅將單擺擺錘的質量變大，則單擺的週期會變長",
+      "若僅將彈簧的振幅變大，則簡諧運動的週期會變長",
+      "若僅將彈簧的力常數變大，則簡諧運動的週期會變長",
+      "若僅將連結彈簧的物體質量變大，則簡諧運動的週期會變長"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "【週期公式】\n• 單擺：$T = 2\\pi\\sqrt{\\dfrac{L}{g}}$，與擺長有關、與擺錘質量無關，(A) 正確、(B) 錯誤。\n• 彈簧振子：$T = 2\\pi\\sqrt{\\dfrac{m}{k}}$，與振幅無關，(C) 錯誤；$k$ 變大週期變短，(D) 錯誤；$m$ 變大週期變長，(E) 正確。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "104-ast-phy-22",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "當聲速為 340 m/s 時，對一長度固定之空氣柱發出的聲音，進行頻率對強度的量測實驗，其結果如圖 8 所示，則下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-22.png\" alt=\"圖8 聲音的頻率與強度\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此空氣柱所發聲音的音色，完全由頻率 1 kHz 的聲音決定",
+      "此空氣柱發出基頻聲音的波長為 34 cm",
+      "此空氣柱為一端開口一端閉口",
+      "此空氣柱的長度為 17 cm",
+      "若空氣溫度降低，則空氣柱發聲的頻率亦會降低"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【閉管的諧音】\n圖 8 的頻率為 1、3、5、7、9 kHz，只有奇數倍，是一端開口一端閉口的空氣柱，(C) 正確。\n• (A) 錯誤：音色由各諧音的組成（強度分布）決定，不是只由基音決定。\n• (B) 正確：$\\lambda = \\dfrac{340}{1000} = 0.34\\text{ m}$。\n• (D) 錯誤：閉管基音 $L = \\dfrac{\\lambda}{4} = 8.5\\text{ cm}$。\n• (E) 正確：溫度降低聲速變小，空氣柱長度不變，$f = \\dfrac{v}{4L}$ 降低。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "104-ast-phy-23",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 9 所示，有一主線圈與副線圈匝數比為 $2:1$ 的理想變壓器，主線圈外接一組電阻為零的軌道，而金屬棒 PQ 可在軌道上滑行形成迴路，迴路所在區域有 $0.50\\text{ T}$ 垂直進入紙面之均勻磁場，金屬棒 PQ 的長度為 $20\\text{ cm}$、電阻為 $0.40\\ \\Omega$，副線圈外接 $10\\ \\Omega$ 的電阻，其餘的電阻均可忽略。若金屬棒因受外力而在軌道上以速率 $v = 2.0\\text{ m/s}$ 等速度滑行時，則下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-23.png\" alt=\"圖9 金屬棒、軌道與變壓器\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "主線圈迴路的應電流方向為逆時鐘",
+      "主線圈中的應電流 $I = 0.50\\text{ A}$",
+      "副線圈中的應電動勢為 1.0 V",
+      "副線圈中的應電流 $I = 0.10\\text{ A}$",
+      "副線圈消耗的電功率 $P = 0$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【等速滑行產生直流電】\n• 金屬棒的電動勢 $\\varepsilon = Blv = 0.50 \\times 0.20 \\times 2.0 = 0.20\\text{ V}$；主線圈電阻為零，$I = \\dfrac{0.20}{0.40} = 0.50\\text{ A}$，(B) 正確。\n• (A) 錯誤：PQ 向右移，PQ 與右側主線圈之間的迴路面積變小，穿入紙面的磁通量減少，感應電流產生穿入紙面的磁場，方向為順時鐘。\n• 等速滑行時主線圈電流是固定的直流，鐵芯磁通量不變，副線圈沒有感應電動勢，電流與功率都為零，(C)(D) 錯誤、(E) 正確。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "104-ast-phy-24",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "若一靜止的原子核 $^{212}\\text{Bi}$ 發生一次 α 衰變，則下列有關此次衰變的敘述，哪些正確？",
+    "options": [
+      "衰變前後，系統總動量守恆",
+      "衰變前後，系統總力學能守恆",
+      "衰變後所射出之 α 粒子與衰變後原子核的速率比值約為 1",
+      "衰變後所射出之 α 粒子與衰變後原子核的速率比值約為 52",
+      "衰變後所射出之 α 粒子與衰變後原子核的速率比值約為 105"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "【衰變的動量守恆】\n• (A) 正確：無外力，衰變前靜止，總動量為零。\n• (B) 錯誤：衰變釋放核能，兩粒子動能總和增加。\n• 兩者動量大小相等：$4v_α = 208v_\\text{核} \\implies \\dfrac{v_α}{v_\\text{核}} = 52$，(D) 正確、(C)(E) 錯誤。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "104-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】在利用探針測量兩電極間等電位線與電場分布時，所需的所有器材如圖 10 所示，其中的測試盤具有導電性。\n\n1. 在測量等電位線時，須將上列各器材以導線連接。畫出一種連接器材的方式，並標示出探針位置的示意圖。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-non-1a.png\" alt=\"圖10 電源、測試盤與電極、檢流計、探針\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "電源兩極分別接電極 D1、D2；兩探針 P1、P2 分別接檢流計 G 的兩端，並放在測試盤上（電源正負反接亦可）。"
+    ],
+    "blankLabels": [
+      "接線要點"
+    ],
+    "explanation": "【零電流法的接線】\n• 電源只接兩個電極，在測試盤上形成電流與電位分布。\n• 檢流計串接兩支探針：兩探針所在位置電位相等時，檢流計讀數為零。\n• 兩探針都放在測試盤上（P1、P2 位於檢流計兩側）。"
+  },
+  {
+    "id": "104-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】在利用探針測量兩電極間等電位線與電場分布時，所需的所有器材如圖 10 所示，其中的測試盤具有導電性。\n\n2. 在線路連接完成後，進行測量等電位線的實驗，其步驟如下所示，試完成步驟 (A) 空格內的內容。（3 分）\n(A) 將探針 P1 置於測試盤中固定位置，記錄其位置，＿＿＿＿＿＿，此線即為等電位線。\n(B) 移動 P1 至新位置，重覆步驟 (A)，畫出另一條等電位線。\n(C) 重覆步驟 (B)，盡可能畫出多條等電位線。",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "移動 P2 使檢流計讀數為零，記錄 P2 的位置；繼續移動 P2，記錄所有能使檢流計讀數為零的位置，並將這些位置連成一線"
+    ],
+    "blankLabels": [
+      "(A) 空格"
+    ],
+    "explanation": "檢流計讀數為零 ⇔ P1、P2 等電位。固定 P1、移動 P2 找出所有零讀數的點，連起來就是通過 P1 的等電位線。"
+  },
+  {
+    "id": "104-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】在利用探針測量兩電極間等電位線與電場分布時，所需的所有器材如圖 10 所示，其中的測試盤具有導電性。\n\n3. 若器材連結後如圖 11 所示，兩電極分別為一正一負，請先複製出正、負電極與甲、乙、丙、丁四點的位置，然後分別畫出通過甲、乙、丙、丁四點的等電位線（一小段即可）及電力線（須標示方向）。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-non-1b.png\" alt=\"圖11 正、負電極與甲、乙、丙、丁四點\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "兩電極像一正一負點電荷：等電位線在電極附近包圍電極、在兩極中垂線上為直線；電力線由正極出發、彎向負極。在甲、乙、丙、丁各點畫一小段等電位線，再畫一小段與它垂直的電力線，箭頭方向大致由正極側指向負極側（乙點的電力線水平向右；甲在正極外側，電力線向左遠離正極；丁在負極外側，電力線指向負極）。"
+    ],
+    "blankLabels": [
+      "作圖要點"
+    ],
+    "explanation": "【電力線與等電位線處處垂直】\n先依兩點電荷（一正一負）的場型想像等電位線，再在各點畫一小段等電位線，與它垂直、由高電位指向低電位的方向就是電力線的方向。"
+  },
+  {
+    "id": "104-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】在一斜角為 $37^\\circ$ 的斜面固定於水平面上，有一質量為 $5.5\\text{ kg}$ 的均勻金屬塊於斜面上受一固定方向及量值的水平力 $F$ 作用，恰可使金屬塊沿著斜面等速度向下滑動，如圖 12 所示。已知金屬塊與斜面間的動摩擦係數為 0.50，取重力加速度為 $10\\text{ m/s}^2$，$\\sin37^\\circ = 0.60$。\n\n1. 若將金屬塊視為一個質點，畫出金屬塊在斜面上所受各外力的力圖，並標示各外力的名稱。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-non-2.png\" alt=\"圖12 斜面上受水平力的金屬塊\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "四個力：重力 $mg$（鉛直向下）、正向力 $N$（垂直斜面向上）、水平力 $F$（水平指向斜面，即圖中向左）、動摩擦力 $f_k$（沿斜面向上，與下滑方向相反）。"
+    ],
+    "blankLabels": [
+      "力圖"
+    ],
+    "explanation": "金屬塊沿斜面「向下」滑動，動摩擦力沿斜面向上；水平力 $F$ 依題圖方向（指向斜面）。四個力的合力為零（等速度）。"
+  },
+  {
+    "id": "104-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】在一斜角為 $37^\\circ$ 的斜面固定於水平面上，有一質量為 $5.5\\text{ kg}$ 的均勻金屬塊於斜面上受一固定方向及量值的水平力 $F$ 作用，恰可使金屬塊沿著斜面等速度向下滑動，如圖 12 所示。已知金屬塊與斜面間的動摩擦係數為 0.50，取重力加速度為 $10\\text{ m/s}^2$，$\\sin37^\\circ = 0.60$。\n\n2. 水平作用力 $F$ 的量值為多少？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-non-2.png\" alt=\"圖12 斜面上受水平力的金屬塊\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "blanks": [
+      "10"
+    ],
+    "blankLabels": [
+      "F（N）"
+    ],
+    "acceptedBlanks": [
+      [
+        "10N",
+        "10 N"
+      ]
+    ],
+    "explanation": "【沿斜面與垂直斜面分解】\n$\\cos37^\\circ = 0.80$，$mg = 55\\text{ N}$。\n• 垂直斜面：$N = mg\\cos37^\\circ + F\\sin37^\\circ = 44 + 0.6F$\n• 沿斜面（等速度）：$mg\\sin37^\\circ = F\\cos37^\\circ + \\mu N \\implies 33 = 0.8F + 0.5(44 + 0.6F)$\n$$33 = 22 + 1.1F \\implies F = 10\\text{ N}$$"
+  },
+  {
+    "id": "104-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】在一斜角為 $37^\\circ$ 的斜面固定於水平面上，有一質量為 $5.5\\text{ kg}$ 的均勻金屬塊於斜面上受一固定方向及量值的水平力 $F$ 作用，恰可使金屬塊沿著斜面等速度向下滑動，如圖 12 所示。已知金屬塊與斜面間的動摩擦係數為 0.50，取重力加速度為 $10\\text{ m/s}^2$，$\\sin37^\\circ = 0.60$。\n\n3. 當金屬塊沿斜面等速度下滑 2.0 m 時，水平力 $F$ 對金屬塊所作的功為多少？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-phy-non-2.png\" alt=\"圖12 斜面上受水平力的金屬塊\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "blanks": [
+      "-16"
+    ],
+    "blankLabels": [
+      "功（J）"
+    ],
+    "acceptedBlanks": [
+      [
+        "−16",
+        "-16J",
+        "−16J",
+        "-16 J"
+      ]
+    ],
+    "explanation": "$F$ 沿斜面的分量 $F\\cos37^\\circ = 8\\text{ N}$，方向與下滑位移相反：\n$$W = -F\\cos37^\\circ \\times 2.0 = -8 \\times 2.0 = -16\\text{ J}$$"
   }
 ]
