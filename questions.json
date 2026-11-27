@@ -28410,5 +28410,469 @@
       "電場"
     ],
     "explanation": "平行板間為均勻電場 $E = \\dfrac{V}{d}$，方向由高電位（正板）指向低電位（負板）。"
+  },
+  {
+    "id": "94-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "points": 4,
+    "question": "如圖 1 所示，一輕繩跨過定滑輪，兩端各懸掛三個質量皆相等的木塊，呈平衡狀態。現將右端的一個木塊取下，改掛至左端，如圖 2 所示。若摩擦力可不計，試問繩上張力變為原來平衡狀態時的幾倍？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-01.png\" alt=\"圖1 兩端各掛 3 個木塊；圖2 左 4 個、右 2 個\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac32$",
+      "$\\dfrac43$",
+      "$\\dfrac98$",
+      "$\\dfrac89$",
+      "$\\dfrac34$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【阿特午機】\n每個木塊質量 $m$。原本平衡：$T_0 = 3mg$。\n改成 4 對 2：$a = \\dfrac{(4 - 2)mg}{6m} = \\dfrac{g}{3}$，對右邊 2 個木塊：$T - 2mg = 2m\\cdot\\dfrac{g}{3} \\Rightarrow T = \\dfrac{8}{3}mg$。\n$\\dfrac{T}{T_0} = \\dfrac{8/3}{3} = \\dfrac89$\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "points": 4,
+    "question": "長度為 $L$ 的張緊弦線兩端固定，設弦線作橫向振動時，弦波的波速為 $v$。試問下列何種弦線振動時，最有可能讓人看到如圖 3 所示，弦線在兩最大位移間振動的視覺暫留影像？假設視覺暫留時間為 $\\dfrac{1}{20}$ 秒。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-02.png\" alt=\"圖3 兩端固定弦線基音振動的視覺暫留影像\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "L = 0.20 m；v = 2.0 m/s",
+      "L = 0.30 m；v = 4.0 m/s",
+      "L = 0.40 m；v = 8.0 m/s",
+      "L = 0.50 m；v = 8.0 m/s",
+      "L = 0.60 m；v = 8.0 m/s"
+    ],
+    "answerIndex": 2,
+    "explanation": "【基音頻率與視覺暫留】\n圖中為基音（一個迴圈），$f = \\dfrac{v}{2L}$。弦線從一端最大位移擺到另一端最大位移需半個週期，要在 $\\dfrac{1}{20}$ 秒內同時看到兩個最大位置，需 $\\dfrac{T}{2} \\le \\dfrac{1}{20}$，即 $f \\ge 10\\text{ Hz}$。\n各選項：(A) 5 Hz、(B) 約 6.7 Hz、(C) 10 Hz、(D) 8 Hz、(E) 約 6.7 Hz，只有 (C) 符合。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "points": 4,
+    "question": "圖 4 所示的電路中，當開關 S 斷開時，流經電池的電流以 $I_O$ 表示，開關接通時流經電池的電流以 $I_C$ 表示。若不計電池的內電阻，則 $I_O$ 與 $I_C$ 各為何值？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-03.png\" alt=\"圖4 上支路 2Ω、1Ω 串聯，下支路 1Ω、2Ω 串聯，開關 S 連接兩支路中點，電池 12 V\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$I_O = 8\\text{ A}$；$I_C = 9\\text{ A}$",
+      "$I_O = 6\\text{ A}$；$I_C = 8\\text{ A}$",
+      "$I_O = 8\\text{ A}$；$I_C = 6\\text{ A}$",
+      "$I_O = 9\\text{ A}$；$I_C = 6\\text{ A}$",
+      "$I_O = 9\\text{ A}$；$I_C = 10\\text{ A}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【串並聯電路】\n• S 斷開：上下兩支路各 $3\\ \\Omega$ 並聯，等效 $1.5\\ \\Omega$，$I_O = \\dfrac{12}{1.5} = 8\\text{ A}$。\n• S 接通：左半部 $2\\ \\Omega \\parallel 1\\ \\Omega = \\dfrac23\\ \\Omega$，右半部 $1\\ \\Omega \\parallel 2\\ \\Omega = \\dfrac23\\ \\Omega$，串聯得 $\\dfrac43\\ \\Omega$，$I_C = \\dfrac{12}{4/3} = 9\\text{ A}$。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "points": 4,
+    "question": "圖 5 所示為頻率 1000 Hz 的聲源以等速度移動時，所發出的球面波分布情形，每個球面波相隔一個週期，圖中相鄰兩格線的間距都相等。已知聲速為 340 m/s，則此聲源移動的速率約為多少 m/s？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-04.png\" alt=\"圖5 方格上四個相隔一週期的球面波，圓心依序向右移\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "100",
+      "272",
+      "350",
+      "428",
+      "567"
+    ],
+    "answerIndex": 4,
+    "explanation": "【由波前求聲源速率】\n由方格讀數：四個圓的圓心依序相距 2.5 格，半徑依序減少 1.5 格。\n每隔一週期，波前半徑增加 $vT$，聲源移動 $uT$：\n$\\dfrac{u}{v} = \\dfrac{2.5}{1.5} = \\dfrac53 \\Rightarrow u = \\dfrac53\\times340 \\approx 567\\text{ m/s}$\n（聲源比聲音快，所以波前彼此交錯。）\n\n故選 (E)"
+  },
+  {
+    "id": "94-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "points": 4,
+    "question": "兩平行的平面鏡 A 與 B 相距 24 cm，一點光源 S 位在 A 鏡的前方 8.0 cm 處，如圖 6 所示。試問從點光源 S 所發出的光線，先經 A 面鏡反射一次，再經 B 面鏡反射一次後的成像，其 z 坐標為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-05.png\" alt=\"圖6 A 鏡在 z = 0、B 鏡在 z = +24 cm，光源 S 在 z = 8 cm\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "z = -8.0 cm",
+      "z = -32 cm",
+      "z = +32 cm",
+      "z = +56 cm",
+      "z = +64 cm"
+    ],
+    "answerIndex": 3,
+    "explanation": "【平面鏡多次成像】\n• 經 A 鏡（$z = 0$）反射：像在 $z = -8$ cm。\n• 這個像再當作物，經 B 鏡（$z = 24$）反射：與 B 相距 $24 - (-8) = 32$ cm，像在 $z = 24 + 32 = 56$ cm。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "points": 4,
+    "question": "以波長為 $\\lambda$ 的光照射某金屬表面，所放出電子的最大動能為 $T$。若改用波長為 $\\dfrac{2\\lambda}{3}$ 的光照射，則所放出電子的最大動能為 $3T$。試問 $T$ 為何？選項中 $h$ 為卜朗克常數，$c$ 為光速。",
+    "options": [
+      "$\\dfrac34\\dfrac{hc}{\\lambda}$",
+      "$\\dfrac23\\dfrac{hc}{\\lambda}$",
+      "$\\dfrac12\\dfrac{hc}{\\lambda}$",
+      "$\\dfrac13\\dfrac{hc}{\\lambda}$",
+      "$\\dfrac14\\dfrac{hc}{\\lambda}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【光電方程式】\n$\\dfrac{hc}{\\lambda} - W = T$，$\\dfrac{3hc}{2\\lambda} - W = 3T$\n相減：$\\dfrac{hc}{2\\lambda} = 2T \\Rightarrow T = \\dfrac14\\dfrac{hc}{\\lambda}$\n\n故選 (E)"
+  },
+  {
+    "id": "94-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "points": 4,
+    "question": "如圖 7 所示，一束波長為 $\\lambda$ 的可見光平行光束，垂直通過一條寬度 $d = 2\\lambda$ 的長條形狹縫後，在遠方屏幕 C 上形成繞射條紋。若使遮蔽 B 靠近屏幕 C，且遮蔽的缺口對狹縫中心 O 的張角 $\\phi$ 為 $45^\\circ$，則屏幕 C 上出現的亮紋對 O 的張角與下列何者最為接近？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-07.png\" alt=\"圖7 寬 d 的狹縫 A、靠近屏幕 C 的遮蔽 B，缺口對 O 的張角 φ\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$15^\\circ$",
+      "$30^\\circ$",
+      "$45^\\circ$",
+      "$60^\\circ$",
+      "$75^\\circ$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【單狹縫繞射】\n暗紋條件 $d\\sin\\theta = n\\lambda$：$\\sin\\theta = \\dfrac{n}{2}$，第一暗紋 $\\theta = 30^\\circ$（第二暗紋已到 $90^\\circ$）。\n中央亮帶涵蓋 $-30^\\circ$ 到 $+30^\\circ$（張角 $60^\\circ$），但遮蔽只讓 $\\pm22.5^\\circ$ 以內的光通過，屏幕上只看到中央亮帶的一部分，亮紋張角就是缺口的張角，約 $45^\\circ$。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "points": 4,
+    "question": "一原子最低的幾個能階如圖 8 所示。當此原子與動能為 7.5 eV 的電子碰撞而受激後，此原子發出的光子，其波長最長可達多少 nm？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-08.png\" alt=\"圖8 能階：基態 -10.5 eV、-5.95 eV、-1.25 eV、0\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "105",
+      "273",
+      "428",
+      "534",
+      "690"
+    ],
+    "answerIndex": 1,
+    "explanation": "【電子碰撞激發】\n電子最多提供 7.5 eV。由基態 $-10.5$ eV 升到 $-5.95$ eV 需 4.55 eV（可以）；升到 $-1.25$ eV 需 9.25 eV（不夠）。\n所以原子只能被激發到 $-5.95$ eV，再回到基態放出 4.55 eV 的光子：\n$\\lambda = \\dfrac{1240\\text{ eV}\\cdot\\text{nm}}{4.55\\text{ eV}} \\approx 273\\text{ nm}$\n\n故選 (B)"
+  },
+  {
+    "id": "94-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "points": 4,
+    "question": "【第 9-10 題為題組】9. 電流天平的主要裝置包括螺線管、電流天平（含 U 型電路）、直流電源供應器、滑線可變電阻及安培計等。電流天平的構造示意圖如圖 9 所示。令螺線管所載電流稱之為 $I_2$、U 型電路上的電流稱之為 $I_1$、U 型電路的寬度 $L = 10.0\\text{ cm}$、天平前端所掛的小重物重量為 $mg$。下列有關電流天平的敘述何者<u>錯誤</u>？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-09.png\" alt=\"圖9 電流天平：U 型電路伸入螺線管，前端掛小重物 mg\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "常用的電流天平是一種等臂天平",
+      "利用電流天平可以測量小重物的重量",
+      "平衡時，U 型電路所受的磁力等於小重物的重量",
+      "U 型電路上的電流所受的總磁力正比於 U 型電路的總長度",
+      "天平前端（掛小重物端）若一直垂下，天平無法達到平衡時，則將 $I_1$ 或 $I_2$ 電流的方向改變，可以解決問題"
+    ],
+    "answerIndex": 3,
+    "explanation": "【電流天平】\n(D) 錯誤：U 型電路兩條長邊與螺線管磁場平行（或電流反向受力抵消），不受淨磁力；只有寬度 $L$ 的那一段受力 $F = I_1LB$，與「寬度」成正比，而非總長度。\n其他：(A) 支點兩側力臂相等；(B)(C) 平衡時 $I_1LB = mg$，可由電流求重量；(E) 掛重物端垂下表示磁力方向朝下或不足，改變任一電流方向即可使磁力反向。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "points": 4,
+    "question": "【第 9-10 題為題組】10. 載流螺線管內部的磁場（$B$）正比於電流（$I_2$），即 $B = \\alpha I_2$。小明利用電流天平裝置，測量比例常數 $\\alpha$。他將小重物的重量固定為 50 毫克重。實驗時，他將螺線管電流 $I_2$ 作為主變數，電流天平電流 $I_1$ 作為應變數，量得在平衡時，$I_1$ 與 $I_2$ 的關係數據，如下：\n• $I_2$（A）：1.0、1.5、2.0、3.0、4.0\n• $I_1$（A）：3.9、2.6、2.0、1.3、1.0\n試問比例常數 $\\alpha$ 的數值為何？（$\\alpha$ 的單位為特士拉/安培）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-09.png\" alt=\"圖9 電流天平：U 型電路伸入螺線管，前端掛小重物 mg\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$1.3\\times10^{-3}$",
+      "$1.5\\times10^{-2}$",
+      "$4.5\\times10^{-2}$",
+      "$2.4\\times10^{-1}$",
+      "$8.5\\times10^{-1}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【電流天平的定量】\n平衡：$I_1L(\\alpha I_2) = mg \\Rightarrow \\alpha = \\dfrac{mg}{I_1I_2L}$。\n表中 $I_1I_2 \\approx 3.9\\sim4.0$（取約 3.9）。$mg = 50\\times10^{-6}\\times9.8 = 4.9\\times10^{-4}\\text{ N}$，$L = 0.100\\text{ m}$：\n$\\alpha = \\dfrac{4.9\\times10^{-4}}{3.9\\times0.100} \\approx 1.3\\times10^{-3}\\text{ T/A}$\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "在光滑水平面上，有一正三角形的均勻面板，現以如圖 10 所示的幾種方式施水平力，圖中各力的大小都相等（施力與面板邊緣的夾角為 0°、60°、90°、120° 或 150°）。試問下列圖中，哪些施力方式會使面板轉動而不會移動？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-11.png\" alt=\"圖10 甲～戊五種在三角形面板上施三力的方式\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【移動與轉動的條件】\n「不移動」：三力合力為零，三個等大的力必須互成 $120^\\circ$。\n「會轉動」：三力的作用線不交於同一點，對質心的合力矩不為零。\n• 甲、戊：三力合力為零，但作用線都通過三角形中心，力矩為零，不轉動也不移動。\n• 乙：合力不為零，會移動。\n• 丙：三力沿著三邊依同一繞向，合力為零且產生同向力矩，只轉動。\n• 丁：三力在三個頂點沿同一繞向施力，合力為零且力矩不為零，只轉動。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "94-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "溫度為 $-10^\\circ\\text{C}$、質量為 10 g 的冰，若每秒固定吸收 1.0 cal 的熱量，在到達如圖 11 所示的 D 狀態時，完全轉換成溫度為 $20^\\circ\\text{C}$ 的水。此圖呈現冰（或水）的溫度 $T$（°C）隨時間 $t$（s）變化關係的示意圖（未完全依比例作圖）。已知冰的熔化熱為 80 cal/g，水與冰的比熱分別為 1.00 cal/(g·°C) 及 0.50 cal/(g·°C)。下列敘述中，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-12.png\" alt=\"圖11 溫度對時間：A→B 升溫、B→C 熔化、C→D 升溫到 20°C\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$t_B - t_A = 50$ 秒",
+      "$t_C - t_B = 600$ 秒",
+      "$t_D - t_C = 300$ 秒",
+      "$t_B \\to t_C$ 時段內，冰與水共存",
+      "CD 線段的斜率為 AB 線段斜率的 0.5 倍"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "【加熱曲線】\n吸熱率 1.0 cal/s，時間（秒）= 所需熱量（cal）。\n• AB：冰升溫 10°C，$10\\times0.50\\times10 = 50$ cal → 50 秒，(A) 正確。\n• BC：熔化 $10\\times80 = 800$ cal → 800 秒，(B) 錯；此時冰水共存，(D) 正確。\n• CD：水升溫 20°C，$10\\times1.00\\times20 = 200$ cal → 200 秒，(C) 錯。\n• 斜率：AB $\\dfrac{10}{50} = 0.2$，CD $\\dfrac{20}{200} = 0.1$，為 0.5 倍（比熱較大升溫較慢），(E) 正確。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "94-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 12 所示的電路中，交流電源的最大電壓為 12.0 V，理想變壓器的原線圈與副線圈的匝數比為 2：1，二極體可視為理想的整流器：順向偏壓時，二極體形同短路；逆向偏壓時，二極體形同斷路，電阻 $R = 5.0\\ \\Omega$。電阻 $R$ 兩端的電位差（或稱電壓）$V_{AB}$ 定義為 $V_{AB} = V_A - V_B$，$V_A$ 和 $V_B$ 分別為 A 點和 B 點的電位。試問下列敘述中，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-13.png\" alt=\"圖12 交流電源經 2:1 變壓器，副線圈串聯二極體與 R，A 在上、B 在下\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$V_{AB}$ 的最大值為 4.0 V",
+      "$V_{AB}$ 的最小值為 0 V",
+      "流經電阻 $R$ 的電流為直流",
+      "流經電阻 $R$ 的平均電流為零",
+      "流經電阻 $R$ 的最大電流值為 0.8 A"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "【變壓器與半波整流】\n副線圈最大電壓 $12.0\\times\\dfrac12 = 6.0\\text{ V}$。二極體只讓電流單向（由 A 經 R 流到 B）通過：\n• 導通的半週，$V_{AB}$ 最大 6.0 V，(A) 錯；另半週二極體斷路，$V_{AB} = 0$，最小值 0 V，(B) 正確。\n• 電流方向始終不變，是（脈動的）直流，(C) 正確；平均電流不為零，(D) 錯。\n• 最大電流 $\\dfrac{6.0}{5.0} = 1.2\\text{ A}$，(E) 錯。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "94-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "平板車在水平面上以速度 $\\vec v$ 向右做等速運動，車上有一小球由板車地板上向右上方被拋出，如圖 13 所示。小球相對於板車之初速大小等於車速，方向與車速方向夾 $\\theta$ 角，且 $\\tan\\theta = \\dfrac43$。小球初速、重力加速度及車速三者位在同一平面上。小球被拋出後，因受重力影響，又落回車上。若不計空氣阻力，則下列敘述中，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-14.png\" alt=\"圖13 等速向右的平板車上，小球以與車速夾 θ 的方向拋出\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "車內觀察者所觀測到小球的運動軌跡為一段拋物線",
+      "車外觀察者所觀測到小球的運動軌跡為一段拋物線",
+      "車外觀察者所觀測到小球停留在空中的時間較車內觀察者為短",
+      "車內觀察者所觀測到小球運動的最大高度（從地板算起），是車外觀察者的 8/3 倍",
+      "車內觀察者所觀測到小球的水平位移是車外觀察者的 3/8 倍"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "【相對運動】\n$\\sin\\theta = \\dfrac45$，$\\cos\\theta = \\dfrac35$。\n• 車內（慣性系）：初速 $v$、仰角 $\\theta$ 的斜拋，拋物線，(A) 正確。\n• 車外：水平速度 $v + \\dfrac35v = \\dfrac85v$，鉛直速度 $\\dfrac45v$，仍是拋物線，(B) 正確。\n• 兩者的鉛直運動完全相同，飛行時間與最大高度都相同，(C)(D) 錯。\n• 水平位移比 $= \\dfrac{\\frac35v}{\\frac85v} = \\dfrac38$，(E) 正確。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "94-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "一條各處深度都相同的水平河流，當垂直俯視其中一段河面時，其河道寬度不一，如圖 14 所示。圖中相鄰兩條流線間的每道水流，每單位時間流通的水量都相同。若河水不具壓縮性，流動時無摩擦損耗，且河道各點的水流速度不隨時間而變，則下列有關此段河流的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-15.png\" alt=\"圖14 河道由左向右變窄，流線逐漸靠攏\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "每條水道的水流速率，由左到右逐漸變小",
+      "每條水道的水流壓力，由左到右逐漸變大",
+      "每單位時間內由河道左端流入的水量大於由右端流出的水量",
+      "每條水道左端進口的水流速率小於其右端出口的水流速率",
+      "每條水道左端進口的水流壓力大於其右端出口的水流壓力"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "【連續方程式與白努利定律】\n• 連續方程式 $Av$ = 定值：水道變窄（流線靠攏），流速變大，(A) 錯、(D) 正確。\n• 不可壓縮，流入量等於流出量，(C) 錯。\n• 白努利定律（同高度）：$P + \\dfrac12\\rho v^2$ = 定值，流速大處壓力小，由左到右壓力變小，(B) 錯、(E) 正確。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "94-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "一系統由可視為質點的甲、乙兩星球組成，其質量分別為 $m$ 與 $M$（$M > m$），在彼此間的重力作用下，分別以半徑 $r$ 與 $R$ 繞系統的質心 O 做圓周運動。若質心 O 靜止不動，兩星球相距無窮遠時，系統的總重力位能為零，則下列敘述，哪些正確？（$G$ 為重力常數，亦即萬有引力常數）",
+    "options": [
+      "兩星球的動量和為零",
+      "兩星球的動能相等",
+      "兩星球繞 O 運動的週期相等",
+      "兩星球的總重力位能為 $-GmM\\left(\\dfrac1r + \\dfrac1R\\right)$",
+      "兩星球的質量與繞行半徑有 $mR = Mr$ 的關係"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "【雙星系統】\n• (A) 正確：質心靜止，總動量為零。\n• (B) 錯誤：兩者動量大小相等，$K = \\dfrac{p^2}{2m}$，質量小的動能大。\n• (C) 正確：兩星永遠在質心兩側成一直線，角速度、週期相同。\n• (D) 錯誤：兩星相距 $r + R$，位能 $-\\dfrac{GmM}{r + R}$。\n• (E) 錯誤：質心條件為 $mr = MR$。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "94-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "下列哪些選項的因次與卜朗克常數的因次相同？",
+    "options": [
+      "動量",
+      "角動量",
+      "熱量×時間",
+      "力矩×時間",
+      "電流×電壓"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "【因次分析】\n卜朗克常數 $h$ 的單位 J·s（$E = hf$）。\n• (A) 動量 kg·m/s，不同。\n• (B) 角動量 $mvr$：kg·m²/s = J·s，相同。\n• (C) 熱量×時間：J·s，相同。\n• (D) 力矩×時間：N·m·s = J·s，相同。\n• (E) 電流×電壓 = 功率 W = J/s，不同。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "94-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "邊長分別為 $2a$ 和 $a$ 的正方形線圈係由相同材質及粗細的導線所繞成，如圖 15 所示。甲乙丙丁迴路上的導線電阻可不計；邊長 $a$ 的線圈電阻為 $R$。兩線圈面平行於紙面，有一均勻磁場 $B$ 垂直進入紙面，甲乙丙丁的長方形圈面與磁場方向平行。試問當磁場以時變率 $b$ 增加時，下列敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-18.png\" alt=\"圖15 邊長 2a 與 a 的兩個正方形線圈，以平躺的甲乙丙丁導線框串接，磁場 B 入紙面\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "邊長 2a 的線圈電阻是邊長 a 線圈電阻的 2 倍",
+      "流經邊長 2a 線圈上的電流大於流經邊長 a 線圈上的電流",
+      "邊長 2a 線圈上的感應電動勢是邊長 a 線圈上感應電動勢的 2 倍",
+      "丙丁線段上的電流由丙流向丁",
+      "丙丁線段上的電流大小為 $\\dfrac{a^2b}{R}$"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "【串聯線圈的感應電動勢】\n• (A) 正確：相同導線，電阻與長度成正比，周長 $8a$ 是 $4a$ 的 2 倍，電阻 $2R$。\n• (C) 錯誤：$\\varepsilon = A\\dfrac{dB}{dt}$，面積比 4:1，電動勢分別為 $4a^2b$ 與 $a^2b$，是 4 倍。\n• 甲乙丙丁框面與磁場平行，沒有磁通量，只是把兩線圈串接成一個迴路，所以兩線圈電流相同，(B) 錯。\n• 沿甲→乙走：大線圈由左下端進入、往上繞到右邊（順時針），小線圈由左上端進入、往下繞到右邊（逆時針）。兩線圈在迴路中繞向相反，電動勢相減：淨電動勢 $4a^2b - a^2b = 3a^2b$，總電阻 $2R + R = 3R$，電流 $\\dfrac{3a^2b}{3R} = \\dfrac{a^2b}{R}$，(E) 正確。\n• 方向：入紙面磁場增加，感應電流要產生出紙面的磁場，大線圈（電動勢較大）中電流為逆時針，也就是在甲乙邊上由乙流向甲，再經 甲→丁→丙→乙。所以丙丁段電流由丁流向丙，(D) 錯。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "94-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題一】一圓筒位在水平桌面上，力常數為 $k$ 的彈簧之一端固定在圓筒的一個端面上、另一端頂著一顆小彈珠，如圖 16 所示。當彈簧既不被壓縮或伸長時，彈珠的中心剛好位在圓筒的開口端。小明緩緩施水平力於彈珠，使彈簧被壓縮一段距離 $d$ 後放開，使彈珠由靜止被彈出。設圓筒與彈珠的質量分別為 $M$ 及 $m$，且所有摩擦力、彈簧質量及頂著彈珠的平板質量均可不計。\n\n(1) 若圓筒固定，則當彈珠位在圓筒開口端時，其相對於桌面的速率為何？（以 $m$、$k$ 及 $d$ 表示）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-non-1.png\" alt=\"圖16 圓筒內的彈簧把彈珠壓縮 d\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$v = d\\sqrt{\\dfrac{k}{m}}$"
+    ],
+    "blankLabels": [
+      "速率"
+    ],
+    "explanation": "彈力位能全部轉為彈珠動能：$\\dfrac12kd^2 = \\dfrac12mv^2 \\Rightarrow v = d\\sqrt{\\dfrac{k}{m}}$。"
+  },
+  {
+    "id": "94-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題一】一圓筒位在水平桌面上，力常數為 $k$ 的彈簧之一端固定在圓筒的一個端面上、另一端頂著一顆小彈珠，如圖 16 所示。當彈簧既不被壓縮或伸長時，彈珠的中心剛好位在圓筒的開口端。小明緩緩施水平力於彈珠，使彈簧被壓縮一段距離 $d$ 後放開，使彈珠由靜止被彈出。設圓筒與彈珠的質量分別為 $M$ 及 $m$，且所有摩擦力、彈簧質量及頂著彈珠的平板質量均可不計。\n\n(2) 若圓筒可以自由滑動，則當彈珠位在圓筒開口端時，其相對於桌面的速率為何？（以 $M$、$m$、$k$ 及 $d$ 表示）（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-non-1.png\" alt=\"圖16 圓筒內的彈簧把彈珠壓縮 d\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$v = d\\sqrt{\\dfrac{kM}{m(M + m)}}$"
+    ],
+    "blankLabels": [
+      "速率"
+    ],
+    "explanation": "水平動量守恆：$mv = MV$；力學能守恆：$\\dfrac12kd^2 = \\dfrac12mv^2 + \\dfrac12MV^2 = \\dfrac12mv^2\\left(1 + \\dfrac{m}{M}\\right)$\n$v^2 = \\dfrac{kd^2M}{m(M + m)} \\Rightarrow v = d\\sqrt{\\dfrac{kM}{m(M + m)}}$"
+  },
+  {
+    "id": "94-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題一】一圓筒位在水平桌面上，力常數為 $k$ 的彈簧之一端固定在圓筒的一個端面上、另一端頂著一顆小彈珠，如圖 16 所示。當彈簧既不被壓縮或伸長時，彈珠的中心剛好位在圓筒的開口端。小明緩緩施水平力於彈珠，使彈簧被壓縮一段距離 $d$ 後放開，使彈珠由靜止被彈出。設圓筒與彈珠的質量分別為 $M$ 及 $m$，且所有摩擦力、彈簧質量及頂著彈珠的平板質量均可不計。\n\n(3) 若圓筒可以自由滑動，且圓筒的質心位在圓筒的一半長度處。試問在彈珠由靜止彈出到被彈回開口端的時距內，圓筒總共滑行了多少距離？（以 M，m 及 d 表示）（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-non-1.png\" alt=\"圖16 圓筒內的彈簧把彈珠壓縮 d\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$\\dfrac{md}{M + m}$"
+    ],
+    "blankLabels": [
+      "圓筒滑行距離"
+    ],
+    "explanation": "系統水平方向不受外力，由靜止開始，質心位置不變。彈珠相對圓筒移動了 $d$：設圓筒位移 $X$（向後），彈珠位移 $x$（向前），$x + X = d$，$mx = MX$：\n$X = \\dfrac{md}{M + m}$"
+  },
+  {
+    "id": "94-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題二】有一平行板電容器，內部為真空，兩個電極板的間距為 $d$，每一個正方形電極板的長均為 $L$。電容器內有一均勻電場，其量值固定為 $E = \\dfrac{V}{d}$，$V$ 為兩個電極板間的電位差，如圖 17 所示。電子從電容器左端的正中央以初速 $v_0$ 射入，其方向平行於電極板之一邊，並打在圖上的 D 點。電子的電荷以 $-e$ 表示，質量以 $m$ 表示，重力可不計。\n\n(1) 求電子打到 D 點瞬間的動能 $K$。（以 $m$、$e$、$v_0$ 及 $V$ 表示）（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-non-2.png\" alt=\"圖17 電子由中央射入、偏向上板右端 D；圖18 板間為入紙面磁場\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$K = \\dfrac12mv_0^2 + \\dfrac{eV}{2}$"
+    ],
+    "blankLabels": [
+      "動能"
+    ],
+    "explanation": "電子由中央偏移 $\\dfrac{d}{2}$ 到正極板，電位升高 $\\dfrac{V}{2}$，電場對電子作功 $e\\cdot\\dfrac{V}{2}$：$K = \\dfrac12mv_0^2 + \\dfrac{eV}{2}$。"
+  },
+  {
+    "id": "94-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題二】有一平行板電容器，內部為真空，兩個電極板的間距為 $d$，每一個正方形電極板的長均為 $L$。電容器內有一均勻電場，其量值固定為 $E = \\dfrac{V}{d}$，$V$ 為兩個電極板間的電位差，如圖 17 所示。電子從電容器左端的正中央以初速 $v_0$ 射入，其方向平行於電極板之一邊，並打在圖上的 D 點。電子的電荷以 $-e$ 表示，質量以 $m$ 表示，重力可不計。\n\n(2) 試問電子的初速 $v_0$ 至少必須大於何值，電子才能避開電極板，逸出電容器外？（以 $e$、$m$、$L$、$d$ 及 $V$ 表示）（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-non-2.png\" alt=\"圖17 電子由中央射入、偏向上板右端 D；圖18 板間為入紙面磁場\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$v_0 > \\dfrac{L}{d}\\sqrt{\\dfrac{eV}{m}}$"
+    ],
+    "blankLabels": [
+      "v0"
+    ],
+    "explanation": "加速度 $a = \\dfrac{eV}{md}$，飛過板長的時間 $t = \\dfrac{L}{v_0}$，偏移量需小於 $\\dfrac{d}{2}$：\n$\\dfrac12\\cdot\\dfrac{eV}{md}\\cdot\\dfrac{L^2}{v_0^2} < \\dfrac{d}{2} \\Rightarrow v_0^2 > \\dfrac{eVL^2}{md^2} \\Rightarrow v_0 > \\dfrac{L}{d}\\sqrt{\\dfrac{eV}{m}}$"
+  },
+  {
+    "id": "94-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題二】有一平行板電容器，內部為真空，兩個電極板的間距為 $d$，每一個正方形電極板的長均為 $L$。電容器內有一均勻電場，其量值固定為 $E = \\dfrac{V}{d}$，$V$ 為兩個電極板間的電位差，如圖 17 所示。電子從電容器左端的正中央以初速 $v_0$ 射入，其方向平行於電極板之一邊，並打在圖上的 D 點。電子的電荷以 $-e$ 表示，質量以 $m$ 表示，重力可不計。\n\n(3) 若電容器內沒有電場，只有垂直進入紙面的均勻磁場，其值固定為 $B$。電子從電容器左端的正中央以平行於電極板之一邊的初速 $v_0$ 射入，如圖 18 所示。若不計重力，則電子的初速 $v_0$ 至少必須大於何值，電子才能避開電極板，逸出電容器外？（以 $e$、$m$、$L$、$d$ 及 $B$ 表示）（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-phy-non-2.png\" alt=\"圖17 電子由中央射入、偏向上板右端 D；圖18 板間為入紙面磁場\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$v_0 > \\dfrac{eB}{m}\\left(\\dfrac{L^2}{d} + \\dfrac{d}{4}\\right) = \\dfrac{eB(4L^2 + d^2)}{4md}$"
+    ],
+    "blankLabels": [
+      "v0"
+    ],
+    "explanation": "電子作半徑 $r = \\dfrac{mv_0}{eB}$ 的圓周運動，偏向一側極板。剛好擦過極板末端時，水平走 $L$、橫向偏移 $\\dfrac{d}{2}$：\n$r^2 = L^2 + \\left(r - \\dfrac{d}{2}\\right)^2 \\Rightarrow rd = L^2 + \\dfrac{d^2}{4} \\Rightarrow r = \\dfrac{L^2}{d} + \\dfrac{d}{4}$\n要逸出，$r$ 需更大：$v_0 > \\dfrac{eB}{m}\\left(\\dfrac{L^2}{d} + \\dfrac{d}{4}\\right)$。"
   }
 ]
