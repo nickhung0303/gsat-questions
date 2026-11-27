@@ -55159,5 +55159,385 @@
       "R 的面積"
     ],
     "explanation": "【掃描棒的位置】$\\overline{OA} = \\sqrt3$、$\\overline{AB} = 1$、$\\overline{OB} = 2$，$3 + 1 = 4$，所以 $\\angle OAB = 90^\\circ$ 恆成立，$\\angle AOB = 30^\\circ$。白端在 $B'(-2, 0)$ 時，黑端 $A'$ 在 $\\overrightarrow{OB'}$ 順時針轉 $30^\\circ$ 處：$A' = \\sqrt3(\\cos150^\\circ, \\sin150^\\circ) = \\left(-\\dfrac32, \\dfrac{\\sqrt3}{2}\\right)$。\n• $\\Omega$ = 第一象限的環帶 − (扇形 $OPB$ − $\\triangle OAB$)，其中 $P(2, 0)$：\n$$\\frac12\\cdot\\frac\\pi2(4 - 3) - \\left(\\frac12\\cdot\\frac\\pi6\\cdot4 - \\frac12\\cdot\\sqrt3\\cdot1\\right) = \\frac\\pi4 - \\frac\\pi3 + \\frac{\\sqrt3}{2} = \\frac{\\sqrt3}{2} - \\frac{\\pi}{12}$$\n• $R$：$\\triangle OBA \\cong \\triangle OB'A'$。$R$ = 扇形 $OBB'$（圓心角 $150^\\circ$、半徑 2）− 扇形 $OCC'$（圓心角 $150^\\circ$、半徑 $\\sqrt3$），其中 $C$、$C'$ 為小圓上與 $B$、$B'$ 同方向的點：\n$$\\frac12\\cdot\\frac{5\\pi}{6}\\cdot4 - \\frac12\\cdot\\frac{5\\pi}{6}\\cdot3 = \\frac{5\\pi}{12}$$\n（扇形 $OAC$ 與扇形 $OA'C'$ 面積相等，$\\triangle OBA$ 與 $\\triangle OB'A'$ 的部分也互相抵消。）"
+  },
+  {
+    "id": "111-gsat-mathB-01",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "points": 5,
+    "question": "1. 試問有多少個整數 $x$ 滿足 $2|x| + x < 10$？",
+    "options": [
+      "13 個",
+      "14 個",
+      "15 個",
+      "16 個",
+      "無窮多個"
+    ],
+    "answerIndex": 0,
+    "explanation": "• $x \\ge 0$：$3x < 10$，$x = 0, 1, 2, 3$，4 個。\n• $x < 0$：$-x < 10$，$x = -9, \\ldots, -1$，9 個。\n共 13 個。\n\n故選 (A)"
+  },
+  {
+    "id": "111-gsat-mathB-02",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "points": 5,
+    "question": "2. 某燈會布置變色閃燈，每次啟動後的閃燈顏色會依照以下的順序做週期性變換：藍-白-紅-白-藍-白-紅-白-藍-白-紅-白…，每四次一循環，其中藍光每次持續 5 秒，白光每次持續 2 秒，而紅光每次持續 6 秒。假設換燈號的時間極短可被忽略，試選出啟動後第 99 至 101 秒之間的燈號。",
+    "options": [
+      "皆為藍燈",
+      "皆為白燈",
+      "皆為紅燈",
+      "先亮藍燈再亮白燈",
+      "先亮白燈再亮紅燈"
+    ],
+    "answerIndex": 2,
+    "explanation": "一個循環 $5 + 2 + 6 + 2 = 15$ 秒：藍 0～5、白 5～7、紅 7～13、白 13～15。\n$99 = 15\\times6 + 9$，第 99～101 秒對應循環中的 9～11 秒，都是紅燈。\n\n故選 (C)"
+  },
+  {
+    "id": "111-gsat-mathB-03",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "points": 5,
+    "question": "3. 有八棟大廈排成一列，由左至右分別編號 1,2,3,4,5,6,7,8。今電信公司想選取其中三棟大廈的屋頂分別設立一座電信基地台。若基地台不能設立於相鄰的兩棟大廈，以免訊號互相干擾，試問在 3 號大廈不設立基地台的情況下，有多少種設立基地台的選取方法？",
+    "options": [
+      "12",
+      "13",
+      "20",
+      "30",
+      "35"
+    ],
+    "answerIndex": 1,
+    "explanation": "• 1～8 選 3 棟兩兩不相鄰：$C^6_3 = 20$。\n• 扣掉含 3 號的：另兩棟從 $\\{1, 5, 6, 7, 8\\}$ 選且彼此不相鄰，$C^5_2 - 3 = 7$（扣掉 56、67、78）。\n$20 - 7 = 13$。\n\n故選 (B)"
+  },
+  {
+    "id": "111-gsat-mathB-04",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "points": 5,
+    "question": "4. 在坐標平面上，已知向量 $\\overrightarrow{PQ} = \\left(\\log\\dfrac15, -10^{-5}\\right)$，其中點 $P$ 的坐標為 $\\left(\\log\\dfrac12, 2^{-5}\\right)$。試選出正確的選項。",
+    "options": [
+      "點 $Q$ 在第一象限",
+      "點 $Q$ 在第二象限",
+      "點 $Q$ 在第三象限",
+      "點 $Q$ 在第四象限",
+      "點 $Q$ 位於坐標軸上"
+    ],
+    "answerIndex": 1,
+    "explanation": "$Q = \\left(\\log\\dfrac12 + \\log\\dfrac15, 2^{-5} - 10^{-5}\\right) = \\left(\\log\\dfrac{1}{10}, \\dfrac{1}{32} - 0.00001\\right) = (-1, \\text{正數})$，在第二象限。\n\n故選 (B)"
+  },
+  {
+    "id": "111-gsat-mathB-05",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "points": 5,
+    "question": "5. 設矩陣 $A = \\begin{bmatrix} 1 & 1 \\\\ 1 & -1 \\end{bmatrix}$，若 $A^7 - 3A = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$，則 $a + b + c + d$ 之值為下列哪一個選項？",
+    "options": [
+      "−8",
+      "−5",
+      "5",
+      "8",
+      "10"
+    ],
+    "answerIndex": 4,
+    "explanation": "$A^2 = \\begin{bmatrix} 2 & 0 \\\\ 0 & 2 \\end{bmatrix} = 2I$，$A^7 = (A^2)^3A = 8A$。\n$A^7 - 3A = 5A = \\begin{bmatrix} 5 & 5 \\\\ 5 & -5 \\end{bmatrix}$，和為 10。\n\n故選 (E)"
+  },
+  {
+    "id": "111-gsat-mathB-06",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "points": 5,
+    "question": "6. 假設地球為一半徑 $r$ 的球體，有一質點自甲地沿著該地所在經線往北移動，抵達北極點時移動所經過的弧線之長度為 $\\dfrac{7}{12}\\pi r$。試問哪一個選項最可能是甲地的位置？",
+    "options": [
+      "東經 $75^\\circ$、北緯 $15^\\circ$",
+      "東經 $30^\\circ$、南緯 $75^\\circ$",
+      "東經 $75^\\circ$、南緯 $15^\\circ$",
+      "西經 $30^\\circ$、北緯 $75^\\circ$",
+      "西經 $15^\\circ$、南緯 $30^\\circ$"
+    ],
+    "answerIndex": 2,
+    "explanation": "弧長對應圓心角 $\\dfrac{7\\pi}{12} = 105^\\circ$，即甲地與北極相差 $105^\\circ$ 的緯度：$90^\\circ - 105^\\circ = -15^\\circ$，南緯 $15^\\circ$。經度不影響。\n\n故選 (C)"
+  },
+  {
+    "id": "111-gsat-mathB-07",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "points": 5,
+    "question": "7. 畫家把空間景物用單點透視法畫在平面的畫紙上時，有以下原則要遵守：一、空間中的直線畫在畫紙上必須是一條直線。二、空間直線上點的相關位置必須和畫紙所畫的點的相關位置一致。三、空間直線上的任四個相異點的 $K$ 值，和畫紙所畫的四個點之 $K$ 值必須相同，其中 $K$ 值的定義如下：直線上任給四個有順序的相異點 $P_1, P_2, P_3, P_4$，其所對應的 $K$ 值定義為 $K = \\dfrac{\\overline{P_1P_4}\\times\\overline{P_2P_3}}{\\overline{P_1P_3}\\times\\overline{P_2P_4}}$。今某畫家依照以上原則，將空間中一直線及該線上的四相異點 $Q_1, Q_2, Q_3, Q_4$ 描繪在畫紙上，其中 $\\overline{Q_1Q_2} = \\overline{Q_2Q_3} = \\overline{Q_3Q_4}$。若將畫紙上所畫的直線視為一數線，並將線上的點用坐標來表示，則在下列選項的四個坐標中，試問哪一組最可能是該四點在畫紙上的坐標？",
+    "options": [
+      "1, 2, 4, 8",
+      "3, 4, 6, 9",
+      "1, 5, 8, 9",
+      "1, 2, 4, 9",
+      "1, 7, 9, 10"
+    ],
+    "answerIndex": 4,
+    "explanation": "等距四點（如 0, 1, 2, 3）：$K = \\dfrac{3\\times1}{2\\times2} = \\dfrac34$。逐一計算：\n(A) $\\dfrac{7\\cdot2}{3\\cdot6} = \\dfrac79$；(B) $\\dfrac{6\\cdot2}{3\\cdot5} = \\dfrac45$；(C) $\\dfrac{8\\cdot3}{7\\cdot4} = \\dfrac67$；(D) $\\dfrac{8\\cdot2}{3\\cdot7} = \\dfrac{16}{21}$；(E) $\\dfrac{9\\cdot2}{8\\cdot3} = \\dfrac34$ ✓\n\n故選 (E)"
+  },
+  {
+    "id": "111-gsat-mathB-08",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 有一射擊遊戲，將發射台設置於坐標平面的原點，並放置三個半徑為 1 的圓盤靶子，其圓心分別為 $(2,2)$、$(4,6)$ 與 $(8,1)$。玩家選定一正數 $a$，並按下按鈕後，發射台將向點 $(1, a)$ 方向發射一道雷射光束（形成一射線）。假設雷射光束擊中靶子後可以穿透並繼續沿原方向前進（削過圓盤邊緣也視為擊中）。試選出正確的選項。",
+    "options": [
+      "雷射光束落在通過原點且斜率為 $a$ 的直線上",
+      "若 $a = \\dfrac32$，則雷射光束會擊中圓心為 $(4,6)$ 的圓盤靶子",
+      "玩家可以僅發射一道雷射光束就擊中三個圓盤靶子",
+      "玩家至少需要發射三道雷射光束才可擊中三個圓盤靶子",
+      "玩家發射一道雷射光束後，若擊中圓心為 $(8,1)$ 的圓盤靶子，則 $a \\le \\dfrac{16}{63}$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "射線在 $y = ax$ 上（$x > 0$）。擊中圓心 $(p, q)$ 的靶 $\\iff \\dfrac{|ap - q|}{\\sqrt{a^2 + 1}} \\le 1$：\n• $(2,2)$：$3a^2 - 8a + 3 \\le 0$，$a \\in [0.45, 2.22]$。\n• $(4,6)$：$15a^2 - 48a + 35 \\le 0$，$a \\in [1.12, 2.08]$。\n• $(8,1)$：$63a^2 - 16a \\le 0$，$a \\in \\left[0, \\dfrac{16}{63}\\right]$。\n• (A) 正確。\n• (B) 正確：$y = \\dfrac32x$ 通過 $(4, 6)$。\n• (C) 錯誤：第三個區間與前兩個不相交。\n• (D) 錯誤：前兩個區間有交集，兩道光束即可。\n• (E) 正確。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "111-gsat-mathB-09",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 設 $f(x) = 2x^3 - 3x + 1$，下列關於函數 $y = f(x)$ 的圖形之描述，試選出正確的選項。",
+    "options": [
+      "$y = f(x)$ 的圖形通過點 $(1, 0)$",
+      "$y = f(x)$ 的圖形與 $x$ 軸只有一個交點",
+      "點 $(1, 0)$ 是 $y = f(x)$ 的圖形之對稱中心",
+      "$y = f(x)$ 的圖形在對稱中心附近會近似於一直線 $y = 3x - 3$",
+      "$y = 3x^3 - 6x^2 + 2x$ 的圖形可由 $y = f(x)$ 的圖形經適當平移得到"
+    ],
+    "answerIndices": [
+      0
+    ],
+    "explanation": "• (A) 正確：$f(1) = 0$。\n• (B) 錯誤：$f(x) = (x - 1)(2x^2 + 2x - 1)$，有三個實根。\n• (C) 錯誤：沒有 $x^2$ 項，對稱中心為 $(0, 1)$。\n• (D) 錯誤：在 $(0, 1)$ 附近近似 $y = -3x + 1$。\n• (E) 錯誤：平移不改變最高次係數，2 不會變成 3。\n\n故選 (A)"
+  },
+  {
+    "id": "111-gsat-mathB-10",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 甲、乙兩班各有 40 位同學參加某次數學考試（總分為 100 分），考試後甲、乙兩班分別以 $y_1 = 0.8x_1 + 20$ 和 $y_2 = 0.75x_2 + 25$ 的方式來調整分數，其中 $x_1, x_2$ 分別代表甲、乙兩班的原始考試分數，$y_1, y_2$ 分別代表甲、乙兩班調整後的分數。已知調整後兩班的平均分數均為 60 分，調整後的標準差分別為 16 分和 15 分。試選出正確的選項。",
+    "options": [
+      "甲班每位同學調整後的分數均不低於其原始分數",
+      "甲班原始分數的平均分數比乙班原始分數的平均分數高",
+      "甲班原始分數的標準差比乙班原始分數的標準差高",
+      "若甲班 A 同學調整後的分數比乙班 B 同學調整後的分數高，則 A 同學的原始分數比 B 同學的原始分數高",
+      "若甲班調整後不及格（小於 60 分）的人數比乙班調整後不及格的人數多，則甲班原始分數不及格的人數必定比乙班原始分數不及格的人數多"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "• (A) 正確：$y_1 - x_1 = 20 - 0.2x_1 \\ge 0$（$x_1 \\le 100$）。\n• (B) 正確：甲 $\\dfrac{60 - 20}{0.8} = 50$，乙 $\\dfrac{60 - 25}{0.75} \\approx 46.7$。\n• (C) 錯誤：甲 $\\dfrac{16}{0.8} = 20$，乙 $\\dfrac{15}{0.75} = 20$，相同。\n• (D) 正確：$x_1 = 1.25y_1 - 25$、$x_2 = \\dfrac43y_2 - \\dfrac{100}{3}$。若 $y_1 > y_2$：$x_1 - x_2 > \\dfrac{25}{3} - \\dfrac{y_2}{12} \\ge 0$（因 $y_2 \\le 100$）。\n• (E) 錯誤：調整後不及格 $\\iff$ 甲 $x_1 < 50$、乙 $x_2 < 46.7$，這與原始分數小於 60 的人數比較沒有必然關係。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "111-gsat-mathB-11",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 考慮坐標平面上的點 $O(0,0)$、$A$、$B$、$C$、$D$、$E$、$F$、$G$，如下圖所示，其中 $B$ 點、$C$ 與 $D$ 點、$E$ 與 $F$ 點、$G$ 與 $A$ 點依序在一、二、三、四象限內。若 $\\vec v$ 為坐標平面上的向量，且滿足 $\\vec v\\cdot\\overrightarrow{OA} > 0$ 及 $\\vec v\\cdot\\overrightarrow{OB} > 0$，則 $\\vec v$ 與下列哪些向量的內積一定小於 0？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-gsat-mathB-11.png\" alt=\"坐標平面上的點：B 在第一象限、C 與 D 在第二象限、E 與 F 在第三象限、G 與 A 在第四象限\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\overrightarrow{OC}$",
+      "$\\overrightarrow{OD}$",
+      "$\\overrightarrow{OE}$",
+      "$\\overrightarrow{OF}$",
+      "$\\overrightarrow{OG}$"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "若 $\\vec w = -(\\lambda\\overrightarrow{OA} + \\mu\\overrightarrow{OB})$（$\\lambda, \\mu \\ge 0$ 不全為 0），則 $\\vec v\\cdot\\vec w < 0$ 一定成立；也就是 $-\\vec w$ 落在 $\\overrightarrow{OA}$ 與 $\\overrightarrow{OB}$ 所夾的角內。\n由圖：$\\overrightarrow{OA}$ 約偏下 $15^\\circ$、$\\overrightarrow{OB}$ 約 $40^\\circ$。$-\\overrightarrow{OD}$、$-\\overrightarrow{OE}$ 分別約指向 $-5^\\circ$、$+5^\\circ$，都在這個角內；$-\\overrightarrow{OC}$、$-\\overrightarrow{OF}$、$-\\overrightarrow{OG}$ 都不在，可以找到 $\\vec v$ 使內積為正。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "111-gsat-mathB-12",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 設 $a, b, c$ 都是非零的實數，且二次方程式 $ax^2 + bx + c = 0$ 的兩根都落在 1 和 3 之間。試選出兩根必定都落在 4 和 5 之間的方程式。",
+    "options": [
+      "$a(x - 2)^2 + b(x - 2) + c = 0$",
+      "$a(x + 2)^2 + b(x + 2) + c = 0$",
+      "$a(2x - 7)^2 + b(2x - 7) + c = 0$",
+      "$a\\left(\\dfrac{x + 7}{2}\\right)^2 + b\\left(\\dfrac{x + 7}{2}\\right) + c = 0$",
+      "$a(3x - 11)^2 + b(3x - 11) + c = 0$"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "設原方程式的根為 $\\alpha \\in (1, 3)$，新方程式的根滿足「括號內 $= \\alpha$」：\n• (A) $x = \\alpha + 2 \\in (3, 5)$，不一定。\n• (B) $x = \\alpha - 2 \\in (-1, 1)$。\n• (C) $x = \\dfrac{\\alpha + 7}{2} \\in (4, 5)$ ✓\n• (D) $x = 2\\alpha - 7 \\in (-5, -1)$。\n• (E) $x = \\dfrac{\\alpha + 11}{3} \\in \\left(4, \\dfrac{14}{3}\\right)$ ✓\n\n故選 (C)(E)"
+  },
+  {
+    "id": "111-gsat-mathB-13",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "13. 若 $x, y$ 為兩正實數，且滿足 $x^{-\\frac13}y^2 = 1$ 及 $2\\log y = 1$，則 $\\dfrac{x - y^2}{10} =$ ⑬-1 ⑬-2。",
+    "blanks": [
+      "9",
+      "9"
+    ],
+    "blankLabels": [
+      "13-1",
+      "13-2"
+    ],
+    "explanation": "$\\log y = \\dfrac12 \\implies y^2 = 10$；$x^{1/3} = y^2 = 10 \\implies x = 1000$。\n$\\dfrac{1000 - 10}{10} = 99$。"
+  },
+  {
+    "id": "111-gsat-mathB-14",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "14. 坐標平面上有一個半徑為 7 的圓，其圓心為 $O$ 點。已知圓上有 $A, B$ 兩點，且 $\\overline{AB} = 8$，則內積 $\\overrightarrow{OA}\\cdot\\overrightarrow{OB} =$ ⑭-1 ⑭-2。",
+    "blanks": [
+      "1",
+      "7"
+    ],
+    "blankLabels": [
+      "14-1",
+      "14-2"
+    ],
+    "explanation": "$\\overline{AB}^2 = |\\overrightarrow{OA}|^2 + |\\overrightarrow{OB}|^2 - 2\\overrightarrow{OA}\\cdot\\overrightarrow{OB}$：$64 = 98 - 2\\overrightarrow{OA}\\cdot\\overrightarrow{OB}$，得 17。"
+  },
+  {
+    "id": "111-gsat-mathB-15",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "15. 根據某國對失蹤輕航機的調查得知：失蹤輕航機中有 70% 後來會被找到，在被找到的輕航機當中，有 60% 裝設緊急定位傳送器；而沒被找到的失蹤輕航機當中，則有 90% 未裝設緊急定位傳送器。緊急定位傳送器會在飛機失事墜毀時發送訊號，讓搜救人員可以定位。現有一架輕航機失蹤，若已知該機有裝設緊急定位傳送器，則它會被找到的機率為 $\\dfrac{⑮\\text{-}1\\ ⑮\\text{-}2}{⑮\\text{-}3\\ ⑮\\text{-}4}$。（化為最簡分數）",
+    "blanks": [
+      "1",
+      "4",
+      "1",
+      "5"
+    ],
+    "blankLabels": [
+      "15-1",
+      "15-2",
+      "15-3",
+      "15-4"
+    ],
+    "explanation": "$$P = \\frac{0.7\\times0.6}{0.7\\times0.6 + 0.3\\times0.1} = \\frac{0.42}{0.45} = \\frac{14}{15}$$"
+  },
+  {
+    "id": "111-gsat-mathB-16",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "16. 袋中有藍、綠、黃三種顏色的球共 10 顆。今從袋中隨機抽取兩顆球（每顆球被抽中的機率相等），若抽出的兩顆球皆為藍色的機率為 $\\dfrac{1}{15}$，皆為綠色的機率為 $\\dfrac29$，則從袋中隨機抽出兩球，此兩球為相異顏色的機率為 $\\dfrac{⑯\\text{-}1\\ ⑯\\text{-}2}{⑯\\text{-}3\\ ⑯\\text{-}4}$。（化為最簡分數）",
+    "blanks": [
+      "3",
+      "1",
+      "4",
+      "5"
+    ],
+    "blankLabels": [
+      "16-1",
+      "16-2",
+      "16-3",
+      "16-4"
+    ],
+    "explanation": "$C^{10}_2 = 45$。藍：$C^b_2 = 3$，$b = 3$；綠：$C^g_2 = 10$，$g = 5$；黃 2 顆。\n同色：$3 + 10 + 1 = 14$，相異顏色 $\\dfrac{45 - 14}{45} = \\dfrac{31}{45}$。"
+  },
+  {
+    "id": "111-gsat-mathB-17",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "17. 有三女三男共六位在校時和老師常有互動的同學，畢業後老師邀聚餐，餐後七人站一橫排照相留念。已知同學中有一女一男兩位曾有過不愉快，照相時不想相鄰，而老師站在正中間且三位男生不完全站在老師的同一側，則可能的排列方式共有 ⑰-1 ⑰-2 ⑰-3 種。",
+    "blanks": [
+      "4",
+      "5",
+      "6"
+    ],
+    "blankLabels": [
+      "17-1",
+      "17-2",
+      "17-3"
+    ],
+    "explanation": "老師在第 4 位，六位同學排在左 3、右 3。\n• 男生不完全在同一側：$6! - 2\\times3!\\times3! = 720 - 72 = 648$。\n• 其中那對男女相鄰：相鄰位置只有 $(1,2)$、$(2,3)$、$(5,6)$、$(6,7)$ 四組，排法 $4\\times2\\times4! = 192$；他們相鄰時該側已有一女，不可能三男都在那一側，而三男全在另一側也不可能（那男生在這側），所以這 192 種都滿足男生分兩側。\n$648 - 192 = 456$。"
+  },
+  {
+    "id": "111-gsat-mathB-18",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "points": 5,
+    "question": "【第 18-20 題為題組】瘦長的塔因為年代久遠，塔身容易傾斜。在下方右圖中，以粗黑線條代表塔身，而塔身的長度稱為塔高，塔身與鉛直虛線的夾角 θ° 稱為該塔的傾斜度（0 ≤ θ < 90），又塔頂至鉛直虛線的距離稱為該塔的偏移距離。\n18. 已知世界上傾斜度最高的摩天大樓坐落於阿布達比，其傾斜度達到 18°，此傾斜度換算成弳（或弧度）為下列哪一個選項？（單選題，5 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-gsat-mathB-18.png\" alt=\"斜塔照片與示意圖：塔身與鉛直線夾角 θ°，塔頂到鉛直線的距離為偏移距離\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{\\pi}{36}$",
+      "$\\dfrac{\\pi}{18}$",
+      "$\\dfrac{\\pi}{20}$",
+      "$\\dfrac{\\pi}{10}$",
+      "$\\dfrac{\\pi}{8}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "$18^\\circ = 18\\times\\dfrac{\\pi}{180} = \\dfrac{\\pi}{10}$。\n\n故選 (D)"
+  },
+  {
+    "id": "111-gsat-mathB-19",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 4,
+    "question": "【第 18-20 題為題組】瘦長的塔因為年代久遠，塔身容易傾斜。在下方右圖中，以粗黑線條代表塔身，而塔身的長度稱為塔高，塔身與鉛直虛線的夾角 θ° 稱為該塔的傾斜度（0 ≤ θ < 90），又塔頂至鉛直虛線的距離稱為該塔的偏移距離。\n19. 中國虎丘塔、護珠塔與義大利的比薩斜塔是三座著名斜塔，它們的塔高分別為 48、19 與 57（公尺），偏移距離分別為 2.3、2.3 與 4（公尺），塔的傾斜度分別記為 θ₁°、θ₂° 與 θ₃°。試比較 θ₁、θ₂ 與 θ₃ 三數的大小關係。（非選擇題，4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-gsat-mathB-18.png\" alt=\"斜塔照片與示意圖：塔身與鉛直線夾角 θ°，塔頂到鉛直線的距離為偏移距離\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "selfGrade": true,
+    "blanks": [
+      "$\\theta_1 < \\theta_3 < \\theta_2$"
+    ],
+    "blankLabels": [
+      "大小關係"
+    ],
+    "explanation": "$\\sin\\theta = \\dfrac{\\text{偏移距離}}{\\text{塔高}}$：$\\sin\\theta_1 = \\dfrac{2.3}{48} \\approx 0.048$、$\\sin\\theta_2 = \\dfrac{2.3}{19} \\approx 0.121$、$\\sin\\theta_3 = \\dfrac{4}{57} \\approx 0.070$。\n正弦在 $[0^\\circ, 90^\\circ]$ 嚴格遞增，所以 $\\theta_1 < \\theta_3 < \\theta_2$。"
+  },
+  {
+    "id": "111-gsat-mathB-20",
+    "examType": "學測",
+    "year": 111,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 18-20 題為題組】瘦長的塔因為年代久遠，塔身容易傾斜。在下方右圖中，以粗黑線條代表塔身，而塔身的長度稱為塔高，塔身與鉛直虛線的夾角 θ° 稱為該塔的傾斜度（0 ≤ θ < 90），又塔頂至鉛直虛線的距離稱為該塔的偏移距離。\n20. 假設有塔高相等的兩座鐵塔，它們的傾斜度 $\\alpha^\\circ$、$\\beta^\\circ$ 分別滿足 $\\sin\\alpha^\\circ = \\dfrac15$ 與 $\\sin\\beta^\\circ = \\dfrac{7}{25}$。已知兩座鐵塔的偏移距離相差 20 公尺，試求它們的塔頂到地面之距離相差多少公尺。（非選擇題，6 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-gsat-mathB-18.png\" alt=\"斜塔照片與示意圖：塔身與鉛直線夾角 θ°，塔頂到鉛直線的距離為偏移距離\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "selfGrade": true,
+    "blanks": [
+      "$100\\sqrt6 - 240 \\approx 4.9$ 公尺"
+    ],
+    "blankLabels": [
+      "相差"
+    ],
+    "explanation": "設塔高 $x$：$\\dfrac{7x}{25} - \\dfrac x5 = \\dfrac{2x}{25} = 20$，$x = 250$。\n$\\cos\\alpha = \\dfrac{2\\sqrt6}{5}$、$\\cos\\beta = \\dfrac{24}{25}$，塔頂高度分別為 $250\\cdot\\dfrac{2\\sqrt6}{5} = 100\\sqrt6$ 與 $250\\cdot\\dfrac{24}{25} = 240$。\n相差 $100\\sqrt6 - 240 \\approx 244.9 - 240 = 4.9$ 公尺。"
   }
 ]
