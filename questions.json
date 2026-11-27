@@ -38464,5 +38464,589 @@
       "甲、乙、丙"
     ],
     "explanation": "• 甲：加氫，雙鍵變單鍵 → 甲基環己烷。\n• 乙：酸催化加水依馬可尼可夫規則，−OH 加到取代較多的碳（接甲基的碳）→ 1-甲基環己醇。三級醇不被二鉻酸鉀氧化，與題目「沒有反應」相符；若 OH 加到另一個碳（二級醇）就會被氧化。\n• 丙：冷、鹼性的過錳酸鉀使雙鍵兩碳各加上一個 −OH（順式）→ 1-甲基-1,2-環己二醇。"
+  },
+  {
+    "id": "93-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列化合物中，哪一個分子具有最多的孤電子對？",
+    "options": [
+      "HCl",
+      "$\\text{H}_2\\text{S}$",
+      "CO",
+      "$\\text{C}_2\\text{H}_2$",
+      "$\\text{CO}_2$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【路易斯結構】\nHCl：Cl 上 3 對；$\\text{H}_2\\text{S}$：S 上 2 對；CO：C、O 各 1 對，共 2 對；$\\text{C}_2\\text{H}_2$：0 對；$\\text{CO}_2$（O=C=O）：兩個 O 各 2 對，共 4 對，最多。\n\n故選 (E)"
+  },
+  {
+    "id": "93-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "points": 3,
+    "question": "原子的電子組態中，若一軌域僅含一個電子，則此原子具有一個未配對電子。例如氫原子有一個未配對電子。試問氮氣態原子，於基態時，其未配對電子數和下列何者相同？",
+    "options": [
+      "硼",
+      "碳",
+      "釩",
+      "鈦",
+      "鎳"
+    ],
+    "answerIndex": 2,
+    "explanation": "【洪德定則】\nN：$2p^3$，3 個未配對電子。B（$2p^1$）1 個；C（$2p^2$）2 個；V（$3d^3 4s^2$）3 個 ✓；Ti（$3d^2$）2 個；Ni（$3d^8$）2 個。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "points": 3,
+    "question": "在室溫電解 2.0 M 的 $\\text{Au(NO}_3)_3$ 水溶液，在電解時，和電源供應器的正極相連電極（甲電極）的最主要產物，及電解槽陰極的最主要產物，分別是什麼？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-chem-03.png\" alt=\"電解 Au(NO3)3 溶液：甲電極接正極、乙電極接負極\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "氫氣及金",
+      "氧氣及金",
+      "兩者均為金",
+      "氧氣及氫氣",
+      "金及一氧化氮"
+    ],
+    "answerIndex": 1,
+    "explanation": "【電解產物】\n甲接正極是陽極：$\\text{NO}_3^-$ 不易氧化，由水氧化產生氧氣。陰極：$\\text{Au}^{3+}$ 極易還原（還原電位很高），析出金。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "points": 3,
+    "question": "在某溫度，$\\text{PbI}_2$ 之 $K_{sp}$ 為 $2.5\\times10^{-9}$。在此溫度，取 $1.0\\times10^{-3}$ M 之 NaI 溶液，與同體積的未知濃度之 $\\text{Pb(NO}_3)_2$ 溶液充分混合，若欲使之生成 $\\text{PbI}_2$ 沉澱，則此 $\\text{Pb(NO}_3)_2$ 溶液之最低濃度應為多少？",
+    "options": [
+      "$2.5\\times10^{-3}$ M",
+      "$2.0\\times10^{-2}$ M",
+      "$5.0\\times10^{-2}$ M",
+      "$8.0\\times10^{-2}$ M",
+      "$1.0\\times10^{-1}$ M"
+    ],
+    "answerIndex": 1,
+    "explanation": "【沉澱條件】\n等體積混合後濃度減半：$[\\text{I}^-] = 5.0\\times10^{-4}$ M。\n$[\\text{Pb}^{2+}] = \\dfrac{2.5\\times10^{-9}}{(5.0\\times10^{-4})^2} = 1.0\\times10^{-2}$ M（混合後），原溶液需 $2.0\\times10^{-2}$ M。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "points": 3,
+    "question": "某金屬之原子量為 $w$，若取該三價金屬之氧化物 $x$ 克，將其完全還原後，可得 $y$ 克金屬。試問該金屬的原子量 $w$ 可以用下列的哪一式子表示？",
+    "options": [
+      "$\\dfrac{8y}{x - y}$",
+      "$\\dfrac{16(x - y)}{y}$",
+      "$\\dfrac{x - y}{16x}$",
+      "$\\dfrac{x - y}{24y}$",
+      "$\\dfrac{24y}{x - y}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【定比】\n三價金屬氧化物為 $\\text{M}_2\\text{O}_3$，金屬 $y$ 克、氧 $(x - y)$ 克：\n$\\dfrac{2w}{48} = \\dfrac{y}{x - y} \\Rightarrow w = \\dfrac{24y}{x - y}$\n\n故選 (E)"
+  },
+  {
+    "id": "93-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "points": 3,
+    "question": "在室溫，下列水溶液中，何者的滲透壓最高？",
+    "options": [
+      "$3.0\\times10^{-3}$ M HCl",
+      "$4.0\\times10^{-3}$ M NaCl",
+      "$5.0\\times10^{-3}$ M $\\text{CaCl}_2$",
+      "$6.0\\times10^{-3}$ M $\\text{CH}_3\\text{COOH}$",
+      "$7.0\\times10^{-3}$ M $\\text{C}_6\\text{H}_{12}\\text{O}_6$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【粒子總濃度】\nHCl $6.0\\times10^{-3}$；NaCl $8.0\\times10^{-3}$；$\\text{CaCl}_2$ $15\\times10^{-3}$；醋酸略大於 $6\\times10^{-3}$（部分解離）；葡萄糖 $7.0\\times10^{-3}$。$\\text{CaCl}_2$ 最大。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列金屬中，何者<u>不會</u>與熱稀硫酸溶液反應產生氫氣？",
+    "options": [
+      "Mg",
+      "Al",
+      "Fe",
+      "Cu",
+      "Zn"
+    ],
+    "answerIndex": 3,
+    "explanation": "【活性順序】\n銅的活性小於氫，不能置換稀酸中的氫（熱「濃」硫酸才會與銅反應，產生 $\\text{SO}_2$ 而非氫氣）。\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關 $\\text{H}_2\\text{O}$、$\\text{CS}_2$、$\\text{Na}_2\\text{S}$、$\\text{SiO}_2$ 物質的沸點高低排列順序，何者正確？",
+    "options": [
+      "$\\text{SiO}_2 > \\text{Na}_2\\text{S} > \\text{H}_2\\text{O} > \\text{CS}_2$",
+      "$\\text{Na}_2\\text{S} > \\text{H}_2\\text{O} > \\text{SiO}_2 > \\text{CS}_2$",
+      "$\\text{Na}_2\\text{S} > \\text{H}_2\\text{O} > \\text{CS}_2 > \\text{SiO}_2$",
+      "$\\text{SiO}_2 > \\text{Na}_2\\text{S} > \\text{CS}_2 > \\text{H}_2\\text{O}$",
+      "$\\text{Na}_2\\text{S} > \\text{SiO}_2 > \\text{CS}_2 > \\text{H}_2\\text{O}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【固體類型與沸點】\n共價網狀固體 $\\text{SiO}_2$（約 2230°C）> 離子化合物 $\\text{Na}_2\\text{S}$ > 有氫鍵的 $\\text{H}_2\\text{O}$（100°C）> 非極性分子 $\\text{CS}_2$（46°C）。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "points": 3,
+    "question": "已知甲烷的擴散速率為 X 氣體之 2 倍，但為 Y 氣體之 2.5 倍。取兩個完全相同之真空容器，一個通入 3.2 克之 X 氣體，並保持在 27 °C。另一個通入 2.5 克之 Y 氣體，如欲使此二容器具有相同之壓力，則含 Y 氣體之容器，其溫度應控制在幾度？",
+    "options": [
+      "27 °C",
+      "127 °C",
+      "150 °C",
+      "327 °C",
+      "600 °C"
+    ],
+    "answerIndex": 3,
+    "explanation": "【格銳目定律＋理想氣體】\n速率比 $= \\sqrt{\\dfrac{M}{16}}$：$M_X = 16\\times4 = 64$，$M_Y = 16\\times6.25 = 100$。\nX：$\\dfrac{3.2}{64} = 0.050$ mol；Y：$\\dfrac{2.5}{100} = 0.025$ mol。\n同體積、同壓力：$n_XT_X = n_YT_Y \\Rightarrow T_Y = \\dfrac{0.050\\times300}{0.025} = 600\\text{ K} = 327^\\circ\\text{C}$\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "points": 3,
+    "question": "在標準狀況下，已知 $\\text{CO}_2$ 之標準莫耳生成熱為 −393.6 kJ，且已知：$3\\text{C}(s) + 2\\text{Fe}_2\\text{O}_3(s) \\to 4\\text{Fe}(s) + 3\\text{CO}_2(g)$，$\\Delta H = 463.6$ kJ。試問 $\\text{Fe}_2\\text{O}_3$ 之標準莫耳生成熱應為多少？",
+    "options": [
+      "70 kJ",
+      "−70 kJ",
+      "−822.2 kJ",
+      "−857.2 kJ",
+      "−1644.4 kJ"
+    ],
+    "answerIndex": 2,
+    "explanation": "【生成熱計算】\n$\\Delta H = 3(-393.6) - 2\\Delta H_f(\\text{Fe}_2\\text{O}_3) = 463.6$\n$2\\Delta H_f = -1180.8 - 463.6 = -1644.4 \\Rightarrow \\Delta H_f = -822.2$ kJ\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列氧化物中，何者溶於水即成為酸性溶液？",
+    "options": [
+      "CaO",
+      "MgO",
+      "$\\text{N}_2\\text{O}_5$",
+      "$\\text{P}_4\\text{O}_{10}$",
+      "ZnO"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【酸性氧化物】\n非金屬氧化物溶於水成酸：$\\text{N}_2\\text{O}_5 \\to \\text{HNO}_3$、$\\text{P}_4\\text{O}_{10} \\to \\text{H}_3\\text{PO}_4$。CaO、MgO 是鹼性氧化物；ZnO 為兩性且難溶於水。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "93-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "添加碘的食鹽中，碘係以碘酸鉀（$\\text{KIO}_3$）的形式存在，可用一些常見的物質來檢驗。試問需要<u>同時使用</u>下列哪兩個選項的物質，較易檢驗出食鹽中的碘酸鉀？",
+    "options": [
+      "食醋",
+      "米酒",
+      "澱粉",
+      "藍色石蕊試紙",
+      "碘化鉀澱粉試紙"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "【碘酸根的檢驗】\n酸性下 $\\text{IO}_3^- + 5\\text{I}^- + 6\\text{H}^+ \\to 3\\text{I}_2 + 3\\text{H}_2\\text{O}$，生成的 $\\text{I}_2$ 使澱粉變藍。需要食醋提供酸，碘化鉀澱粉試紙提供 $\\text{I}^-$ 與澱粉。單用澱粉無法檢出碘酸鉀（它不是 $\\text{I}_2$）。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "93-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在室溫，取藍色的 0.1 M 硫酸銅溶液 2 mL，置於試管中，加入無色的 0.1 M 碘化鉀溶液 5 mL，即見試管內溶液變成混濁。靜置數分鐘後，管內呈現黃褐色澄清溶液，而管底則有一層灰白色沉澱。取黃褐色溶液數滴並加水稀釋後，再滴入澱粉液數滴，則呈現藍色。在上述實驗中，下列敘述何者正確？",
+    "options": [
+      "銅離子發生了還原反應",
+      "試管底灰白色的沉澱是硫酸鉀",
+      "碘離子發生了自身氧化還原反應",
+      "滴入澱粉液後呈現藍色是銅離子的表現",
+      "管內呈現黃褐色是酸鹼中和反應的表現"
+    ],
+    "answerIndices": [
+      0
+    ],
+    "explanation": "【銅離子與碘離子】\n$2\\text{Cu}^{2+} + 4\\text{I}^- \\to 2\\text{CuI}(s) + \\text{I}_2$\n• (A) 正確：Cu 由 +2 還原為 +1。\n• (B) 錯：灰白色沉澱是 CuI。\n• (C) 錯：碘離子只被氧化（被 $\\text{Cu}^{2+}$ 氧化），不是自身氧化還原。\n• (D)(E) 錯：藍色與黃褐色都來自生成的碘（$\\text{I}_2$／$\\text{I}_3^-$）。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "分子式為 $\\text{C}_4\\text{H}_8$ 的有機化合物，有很多不同的結構。下列有關 $\\text{C}_4\\text{H}_8$ 化合物的敘述，何者正確？",
+    "options": [
+      "共有 6 種不同結構",
+      "屬於炔類的，只有 1 種結構",
+      "屬於烯類的，有 3 種結構",
+      "屬於烷類的，有 2 種結構",
+      "可與溴水在室溫進行加成反應的總數為 4 種結構"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "【C₄H₈ 的異構物】\n• 烯類 4 種：1-丁烯、順-2-丁烯、反-2-丁烯、2-甲基丙烯。\n• 環烷類 2 種：環丁烷、甲基環丙烷。\n共 6 種，(A)(D) 正確；烯類有 4 種，(C) 錯；$\\text{C}_4\\text{H}_8$ 不可能是炔（炔為 $\\text{C}_4\\text{H}_6$），(B) 錯。\n能與溴水加成的是 4 種烯類，(E) 正確。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "93-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列有關醣類的敘述，何者正確？",
+    "options": [
+      "葡萄糖及果糖均為單醣",
+      "纖維素是醣類的聚合物",
+      "蔗糖可以與多倫試劑發生銀鏡反應",
+      "蔗糖為雙醣，由兩分子的果糖脫去一分子的水所形成",
+      "麥芽糖為雙醣，由兩分子的葡萄糖脫去一分子的水所形成"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "【醣類】\n• (C) 錯：蔗糖是非還原醣。\n• (D) 錯：蔗糖由一分子葡萄糖與一分子果糖縮合而成。\n• 其餘正確。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "93-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "元素週期表係依原子序大小排列，下列敘述何者正確？",
+    "options": [
+      "鹵族元素，其電負度由上而下漸減",
+      "第三週期元素的原子半徑由左至右漸減",
+      "相同元素的原子，每一個原子的質量數皆相同",
+      "同一週期的元素，其第一游離能，後一個元素的值一定大於前一個元素的值",
+      "同一週期的元素，一個中性氣態原子獲得一個電子所釋出的能量，以鹵素族最大"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "【週期性】\n• (C) 錯：同位素的質量數不同。\n• (D) 錯：有例外，如第二週期 Be > B、N > O。\n• (A)(B)(E) 正確。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "93-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "氧化還原反應可視為電子的傳遞過程。下列三個未平衡的半反應式，均為在酸性水溶液的條件下：\n（甲）$\\text{CH}_3\\text{OH} \\to \\text{HCHO}$\n（乙）$\\text{HCHO} \\to \\text{HCOOH}$\n（丙）$\\text{CH}_3\\text{OH} \\to \\text{HCOOH}$\n請先平衡上列（甲）（乙）（丙）三式後，回答下列敘述，指出何者正確？",
+    "options": [
+      "（乙）式是還原反應",
+      "三種化合物中，甲醇的氧化程度最低",
+      "在（甲）式中，其右邊需有 2 個電子",
+      "在（乙）式中，其左邊需有 2 個電子",
+      "在（丙）式中，其右邊需有 4 個電子"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【平衡半反應】\n（甲）$\\text{CH}_3\\text{OH} \\to \\text{HCHO} + 2\\text{H}^+ + 2e^-$\n（乙）$\\text{HCHO} + \\text{H}_2\\text{O} \\to \\text{HCOOH} + 2\\text{H}^+ + 2e^-$\n（丙）$\\text{CH}_3\\text{OH} + \\text{H}_2\\text{O} \\to \\text{HCOOH} + 4\\text{H}^+ + 4e^-$\n三式都是氧化（電子在右邊），(A)(D) 錯，(C)(E) 正確。C 的氧化數：甲醇 −2、甲醛 0、甲酸 +2，甲醇最低，(B) 正確。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "93-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在室溫，將 0.10 M 的 HCl 水溶液逐漸滴入 0.10 M 的 $\\text{NH}_3$ 水溶液 50 mL 中，並經混合均勻。下列有關溶液之敘述，何者正確？（$\\text{NH}_3$ 水溶液的 $K_b = 1.8\\times10^{-5}$）",
+    "options": [
+      "初始 0.10 M 的 $\\text{NH}_3$ 水溶液，其 $[\\text{H}^+]$ 值約為 $1.3\\times10^{-3}$ M",
+      "加入 20 mL 的 HCl 水溶液後，可成為緩衝溶液",
+      "加入 60 mL 的 HCl 水溶液後，溶液的 $[\\text{H}^+]$ 值約為 $9.1\\times10^{-3}$ M",
+      "加入 HCl 水溶液到達當量點時，溶液的 pH 值為 7.0",
+      "加入 HCl 水溶液，無指示劑狀況下，溶液中的離子濃度，必遵守 $[\\text{NH}_4^+] + [\\text{H}^+] = [\\text{Cl}^-] + [\\text{OH}^-]$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【弱鹼的滴定】\n• (A) 錯：$[\\text{OH}^-] = \\sqrt{1.8\\times10^{-5}\\times0.10} \\approx 1.3\\times10^{-3}$ M，題目把 $[\\text{OH}^-]$ 寫成 $[\\text{H}^+]$。\n• (B) 正確：$\\text{NH}_3$ 3 mmol 與 $\\text{NH}_4^+$ 2 mmol 共存。\n• (C) 正確：HCl 6 mmol，過量 1 mmol，總體積 110 mL：$\\dfrac{1}{110} \\approx 9.1\\times10^{-3}$ M。\n• (D) 錯：當量點為 $\\text{NH}_4\\text{Cl}$，呈酸性。\n• (E) 正確：電中性。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "93-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在室溫，將無色的 $\\text{N}_2\\text{O}_4$ 密封於玻璃容器。若將其浸沒於 35 °C 的水中，則見其逐漸變成褐色。若換成浸沒於 45 °C 的水中，則出現深褐色。下列敘述何者正確？",
+    "options": [
+      "此一增高溫度時的反應，為放熱反應",
+      "若將容器重新浸沒於冰水，則其深褐色會褪去",
+      "因容器為密封，變色不會改變容器內之總分子數",
+      "與增高溫度時的顏色變化<u>最相關的</u>，是反應速率的改變",
+      "與增高溫度時的顏色變化<u>最相關的</u>，是化學平衡的移動"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【溫度與平衡】\n$\\text{N}_2\\text{O}_4 \\rightleftharpoons 2\\text{NO}_2$（紅棕色）：升溫顏色變深，表示平衡右移，正反應吸熱，(A) 錯。\n• (B) 正確：降溫平衡左移，顏色變淡。\n• (C) 錯：1 分子變 2 分子，總分子數改變。\n• 顏色深淺代表平衡時 $\\text{NO}_2$ 的多寡，與平衡移動有關，而非速率，(E) 正確、(D) 錯。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "93-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "雙氧水易受特定金屬離子所催化而分解。急救箱的雙氧水滴在乾淨皮膚上，不見得有明顯變化，但若滴在傷口上，立即產生泡沫。下列選項何者正確？",
+    "options": [
+      "雙氧水中，氧原子的氧化數是 −2",
+      "題幹所述現象的差異，是因為化學平衡常數不同所致",
+      "題幹所述現象的差異，是因為化學反應速率不同所致",
+      "立即產生泡沫，是因為傷口含有鐵金屬的離子物質存在",
+      "傷口的泡沫，是因為雙氧水發生自身氧化還原反應而分解的"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "【催化分解】\n• (A) 錯：$\\text{H}_2\\text{O}_2$ 中 O 為 −1。\n• (B) 錯、(C) 正確：催化劑改變速率，不改變平衡常數。\n• (D) 正確：血液中含鐵的物質（如過氧化氫酶、血紅素）催化分解。\n• (E) 正確：$2\\text{H}_2\\text{O}_2 \\to 2\\text{H}_2\\text{O} + \\text{O}_2$，O 由 −1 同時變成 −2 與 0。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "93-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "鄰苯二甲酸氫鉀 $[\\text{C}_6\\text{H}_4(\\text{COOH})(\\text{COOK})]$，簡寫為 KHP，分子量為 204，在化學實驗中，常利用其化學性質穩定，且能與強鹼完全反應之特質，作為酸鹼滴定之一級標準品。精秤 0.355 克之 KHP 固體，以器皿 X，配製成 50.0 mL 的標準溶液。另用器皿 Y，取出 20.0 mL，並置於器皿 Z，加入指示劑後，以未知濃度的 NaOH 溶液滴定，到達滴定終點時，用去 NaOH 溶液之體積為 27.6 mL。（圖一：甲 燒杯、乙 錐形瓶、丙 容量瓶、丁 量筒、戊 圓底燒瓶、己 吸量管、庚 滴定管；圖二：滴定管讀數）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-chem-21.png\" alt=\"圖一 器皿甲～庚；圖二 滴定管 21～22 mL 處的液面\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "器皿 X 是圖一所標示的丙項器皿",
+      "器皿 Y 是圖一所標示的丁項器皿",
+      "滴定時，NaOH 溶液要裝於圖一所標示庚項器皿（栓塞為鐵弗龍材質）",
+      "最適合的器皿 Z，為圖一所標示燒杯甲。滴定時，並用玻璃棒隨時攪拌",
+      "在圖二所標示的正確讀數為 21.85 ± 0.01 mL"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "【滴定器材】\n• (A) 正確：配製標準溶液用容量瓶（丙）。\n• (B) 錯：精確量取 20.0 mL 應用吸量管（己），不是量筒。\n• (C) 正確：NaOH 會侵蝕玻璃栓塞，須用鐵弗龍栓塞的滴定管（庚）。\n• (D) 錯：應使用錐形瓶（乙），以手搖盪混合，不用玻璃棒。\n• (E) 錯：滴定管的刻度由上往下遞增，讀數應以液面最低點對應的刻度估讀到 0.01 mL，圖中液面的讀數並非 21.85 mL。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "93-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "氮、硫元素和碳相似，會產生幾種氧化物。下列敘述何者正確？",
+    "options": [
+      "$\\text{NO}_2$ 是一個直線形分子",
+      "$\\text{NO}_2^-$ 及 $\\text{CO}_3^{2-}$ 都有共振結構",
+      "NO 及 $\\text{NO}_2$ 都有未配對電子",
+      "氮與硫的氧化物是形成酸雨的主要成因",
+      "$x\\text{H}_2\\text{O} + y\\text{NO}_2 \\rightleftharpoons z\\text{HNO}_3$（x, y, z 為係數），為一正確的反應式"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "【氮與硫的氧化物】\n• (A) 錯：$\\text{NO}_2$ 是彎曲形（N 上有單一未配對電子）。\n• (B)(C)(D) 正確。\n• (E) 錯：N 由 +4 變 +5 只有氧化，沒有對應的還原，無法平衡；正確的反應會同時生成 NO：$3\\text{NO}_2 + \\text{H}_2\\text{O} \\to 2\\text{HNO}_3 + \\text{NO}$。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "93-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "報載：「不肖商人於魚貨中添加致癌物甲醛」。下列有關甲醛的敘述，何者正確？",
+    "options": [
+      "甲醛分子形狀是平面形",
+      "甲醛分子量為 30.0，常溫為氣態分子",
+      "甲醛可用斐林試劑檢驗，生成物為紅色",
+      "甲醛無法用多倫試劑檢驗，不會有化學反應",
+      "37% 甲醛的水溶液俗稱福馬林，可以用來防腐"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "【甲醛】\n甲醛 HCHO：C 為 $sp^2$，平面三角形；常溫為氣體（沸點 −19°C）；具醛基，可使斐林試劑生成紅色 $\\text{Cu}_2\\text{O}$，也能起銀鏡反應，(D) 錯；福馬林用於防腐。\n\n故選 (A)(B)(C)(E)"
+  },
+  {
+    "id": "93-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】在不同溫度下，草酸 $(\\text{COOH})_2$ 的飽和水溶液濃度如表一所示。表中的濃度是指溶液 100 克中所含溶質的克數。\n• 溫度（°C）：20、30、40、50、60、70\n• 濃度：8.7、12.5、17.5、23.9、31.5、45.8\n\n(1) 用答案卷內的方格紙，以橫軸為溫度，縱軸為溶解度，用適當的尺度，繪出草酸的溶解度曲線。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "橫軸溫度 20～70°C、縱軸溶解度（g/100 g 溶液）0～50，標出 6 點並以平滑曲線連接：曲線向上彎曲，溫度愈高溶解度增加得愈快。"
+    ],
+    "blankLabels": [
+      "作圖"
+    ],
+    "explanation": "尺度要讓數據占滿大部分方格，並標明坐標軸名稱與單位。"
+  },
+  {
+    "id": "93-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】在不同溫度下，草酸 $(\\text{COOH})_2$ 的飽和水溶液濃度如表一所示。表中的濃度是指溶液 100 克中所含溶質的克數。\n• 溫度（°C）：20、30、40、50、60、70\n• 濃度：8.7、12.5、17.5、23.9、31.5、45.8\n\n(2) 取 60 °C 的飽和溶液 100 克，加入 50 °C 的蒸餾水 57.5 克，混合均勻後令其冷卻。試問此溶液冷卻至哪一溫度時會達到飽和？（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "約 44 °C"
+    ],
+    "blankLabels": [
+      "溫度"
+    ],
+    "explanation": "60°C 飽和溶液 100 g 含草酸 31.5 g。加水後溶液 157.5 g，濃度 $\\dfrac{31.5}{157.5} = 20.0$（g/100 g 溶液）。\n由表，20.0 介於 40°C（17.5）與 50°C（23.9）之間，內插約 $40 + 10\\times\\dfrac{2.5}{6.4} \\approx 44^\\circ\\text{C}$（由曲線讀取亦可）。"
+  },
+  {
+    "id": "93-ast-chem-non-1-3",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】在不同溫度下，草酸 $(\\text{COOH})_2$ 的飽和水溶液濃度如表一所示。表中的濃度是指溶液 100 克中所含溶質的克數。\n• 溫度（°C）：20、30、40、50、60、70\n• 濃度：8.7、12.5、17.5、23.9、31.5、45.8\n\n(3) 取 30 °C 的飽和溶液 10.0 克，以蒸餾水將其稀釋至 250.0 mL 後，精確量取此稀釋溶液 20.0 mL，以 0.100 M 的氫氧化鈉溶液滴定。試問到達滴定終點時，需要用多少 mL 的氫氧化鈉溶液？（2 分）",
+    "points": 2,
+    "blanks": [
+      "22.2"
+    ],
+    "blankLabels": [
+      "NaOH 體積（mL）"
+    ],
+    "acceptedBlanks": [
+      [
+        "22.2mL",
+        "22",
+        "22.22",
+        "22.3"
+      ]
+    ],
+    "explanation": "10.0 g 飽和溶液含草酸 1.25 g，$\\dfrac{1.25}{90} \\approx 0.01389$ mol；取 $\\dfrac{20}{250}$：$1.11\\times10^{-3}$ mol。\n草酸為二質子酸，需 NaOH $2.22\\times10^{-3}$ mol：$\\dfrac{2.22\\times10^{-3}}{0.100} = 22.2$ mL"
+  },
+  {
+    "id": "93-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】芳香族化合物甲的分子式為 $\\text{C}_8\\text{H}_{10}$。此化合物在適當催化劑的催化下，與溴水反應，可得化合物乙，化合物乙僅有一種結構，其分子式為 $\\text{C}_8\\text{H}_9\\text{Br}$。當化合物甲與過量的過錳酸鉀的鹼性溶液加熱，經中和並純化後，可得化合物丙，化合物丙的分子式為 $\\text{C}_8\\text{H}_6\\text{O}_4$。試畫出化合物甲、化合物乙、及化合物丙的分子結構圖。（6 分）",
+    "points": 6,
+    "selfGrade": true,
+    "blanks": [
+      "甲：對二甲苯（1,4-二甲苯）；乙：2-溴-1,4-二甲苯（苯環上一個 H 被 Br 取代）；丙：對苯二甲酸（1,4-苯二甲酸）"
+    ],
+    "blankLabels": [
+      "甲、乙、丙"
+    ],
+    "explanation": "$\\text{C}_8\\text{H}_{10}$ 芳香族化合物有乙苯與鄰、間、對二甲苯。被過錳酸鉀氧化成 $\\text{C}_8\\text{H}_6\\text{O}_4$（二元羧酸），表示苯環上有兩個側鏈，排除乙苯（氧化得苯甲酸）。苯環上的溴取代只有一種產物，需高度對稱：只有對二甲苯的四個環上氫完全相同。所以甲為對二甲苯，丙為對苯二甲酸。"
+  },
+  {
+    "id": "93-ast-chem-non-3-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】取大理石粉（碳酸鈣）和焦碳粉均勻混合後，高溫鍛燒，可得氣體甲和固體乙。固體乙僅含鈣及碳二種元素，而鈣的重量組成百分比為 62.5 %。固體乙和過量的水反應，可得氣體丙及固體丁。氣體丙在適當的催化劑作用下，可以聚合反應，生成與實驗式相同的鐵灰色物質，是一種具有高導電度的有機導體材料。\n\n(1) 寫出固體乙的實驗式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "CaC2"
+    ],
+    "blankLabels": [
+      "實驗式"
+    ],
+    "acceptedBlanks": [
+      [
+        "碳化鈣",
+        "電石"
+      ]
+    ],
+    "explanation": "Ca 62.5%、C 37.5%：$\\dfrac{62.5}{40} : \\dfrac{37.5}{12} = 1.56 : 3.13 = 1 : 2$，即 $\\text{CaC}_2$（電石）。"
+  },
+  {
+    "id": "93-ast-chem-non-3-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】取大理石粉（碳酸鈣）和焦碳粉均勻混合後，高溫鍛燒，可得氣體甲和固體乙。固體乙僅含鈣及碳二種元素，而鈣的重量組成百分比為 62.5 %。固體乙和過量的水反應，可得氣體丙及固體丁。氣體丙在適當的催化劑作用下，可以聚合反應，生成與實驗式相同的鐵灰色物質，是一種具有高導電度的有機導體材料。\n\n(2) 寫出固體乙和水的平衡化學反應式。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{CaC}_2 + 2\\text{H}_2\\text{O} \\to \\text{C}_2\\text{H}_2 + \\text{Ca(OH)}_2$"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "氣體丙為乙炔，固體丁為氫氧化鈣。"
+  },
+  {
+    "id": "93-ast-chem-non-3-3",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】取大理石粉（碳酸鈣）和焦碳粉均勻混合後，高溫鍛燒，可得氣體甲和固體乙。固體乙僅含鈣及碳二種元素，而鈣的重量組成百分比為 62.5 %。固體乙和過量的水反應，可得氣體丙及固體丁。氣體丙在適當的催化劑作用下，可以聚合反應，生成與實驗式相同的鐵灰色物質，是一種具有高導電度的有機導體材料。\n\n(3) 寫出聚合反應之平衡化學反應式。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$n\\,\\text{C}_2\\text{H}_2 \\to (\\text{C}_2\\text{H}_2)_n$（聚乙炔，$-[\\text{CH}{=}\\text{CH}]_n-$）"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "乙炔加成聚合成聚乙炔，實驗式與乙炔同為 CH；摻雜後具高導電度（2000 年諾貝爾化學獎）。"
   }
 ]
