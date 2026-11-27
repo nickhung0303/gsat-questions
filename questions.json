@@ -25849,5 +25849,594 @@
       "最大距離"
     ],
     "explanation": "彈性碰撞後速率不變，動能仍為 $mgL(\\sin\\theta - \\mu\\cos\\theta)$。向上滑行 $L'$ 時，動能全部用來增加位能與克服摩擦：\n$mgL(\\sin\\theta - \\mu\\cos\\theta) = mgL'(\\sin\\theta + \\mu\\cos\\theta)$\n$L' = L\\,\\dfrac{\\sin\\theta - \\mu\\cos\\theta}{\\sin\\theta + \\mu\\cos\\theta}$"
+  },
+  {
+    "id": "99-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "一重物以細繩固定於均勻木棒中心點，整個系統總重量為 $mg$。甲、乙兩人站在斜坡上，從木棒兩端鉛直向上提起重物而達靜力平衡，如圖 1 所示。甲、乙兩人的施力量值分別為 $F_{\\text{甲}}$ 與 $F_{\\text{乙}}$，則下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-01.png\" alt=\"圖1 甲、乙兩人在斜坡上以傾斜木棒抬起掛在中點的重物\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$F_{\\text{甲}} < F_{\\text{乙}}$ 且 $F_{\\text{甲}} + F_{\\text{乙}} < mg$",
+      "$F_{\\text{甲}} < F_{\\text{乙}}$ 且 $F_{\\text{甲}} + F_{\\text{乙}} = mg$",
+      "$F_{\\text{甲}} < F_{\\text{乙}}$ 且 $F_{\\text{甲}} + F_{\\text{乙}} > mg$",
+      "$F_{\\text{甲}} = F_{\\text{乙}}$ 且 $F_{\\text{甲}} + F_{\\text{乙}} = mg$",
+      "$F_{\\text{甲}} > F_{\\text{乙}}$ 且 $F_{\\text{甲}} + F_{\\text{乙}} > mg$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【靜力平衡】\n所有力都是鉛直方向：$F_{\\text{甲}} + F_{\\text{乙}} = mg$。\n以木棒中心為支點，兩人施力都鉛直，到中心的水平距離都是 $\\dfrac{L}{2}\\cos\\alpha$（$\\alpha$ 為木棒傾角），力矩平衡得 $F_{\\text{甲}} = F_{\\text{乙}}$。斜坡、高低差都不影響結果。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "光碟表面以凹點記錄訊息，其放大側視的示意圖如圖 2 所示。圖中讀取訊號的雷射光束中之甲與乙兩光線在經過光碟表面反射之後，疊加成為建設性干涉。如果丙與丁兩光線可疊加成為破壞性干涉，則凹點底部的深度可為雷射光束波長的多少倍？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-02.png\" alt=\"圖2 光碟表面與凹點底部的反射光線甲乙丙丁\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "2",
+      "3/2",
+      "1",
+      "1/2",
+      "1/4"
+    ],
+    "answerIndex": 4,
+    "explanation": "【薄膜（反射）干涉】\n丙射到凹點底部、丁射到光碟表面，兩者來回的路徑差為 $2d$。破壞性干涉：$2d = \\left(m + \\dfrac12\\right)\\lambda$，最小 $d = \\dfrac{\\lambda}{4}$（也可為 $\\dfrac{3\\lambda}{4}$ 等，選項中只有 $\\dfrac14$ 符合）。\n甲、乙都在同一平面反射，路徑差為零，為建設性干涉。\n\n故選 (E)"
+  },
+  {
+    "id": "99-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "在正常使用下，平行板電容器的電容 $C$ 與兩極板間電位差 $V$ 的關係為下列何者？",
+    "options": [
+      "$C$ 與 $V$ 的二次方成正比",
+      "$C$ 與 $V$ 的一次方成正比",
+      "$C$ 與 $V$ 無關",
+      "$C$ 與 $V$ 的一次方成反比",
+      "$C$ 與 $V$ 的二次方成反比"
+    ],
+    "answerIndex": 2,
+    "explanation": "【電容】\n$C = \\dfrac{\\varepsilon A}{d}$，只由極板面積、間距與介質決定。雖然定義 $C = \\dfrac{Q}{V}$，但 $V$ 變大時 $Q$ 也成比例變大，$C$ 不變。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "近年來奈米科技發達，市場上有許多奈米商品，下列有關奈米尺度的敘述何者<u>錯誤</u>？",
+    "options": [
+      "類似於使蓮花葉面不沾濕的奈米結構可用來設計表面不沾濕或不沾垢的材料",
+      "當物質尺寸縮小到奈米大小時，可能需採用量子物理的觀點來描述該物質的特性",
+      "當物質尺寸縮小到奈米大小時，有可能出現嶄新的化學材料或是物理特性",
+      "同樣質量的藥粉，若藥粉顆粒的尺寸從微米尺度加工製作成為奈米尺度的顆粒，加工製作前後，藥粉整體的總表面積不變",
+      "一奈米等於 $10^{-9}$ 公尺"
+    ],
+    "answerIndex": 3,
+    "explanation": "【奈米尺度】\n(D) 錯誤：總體積固定時，顆粒邊長縮小為 $\\dfrac{1}{k}$，顆粒數變為 $k^3$ 倍，每顆表面積變為 $\\dfrac{1}{k^2}$，總表面積變為 $k$ 倍。從微米到奈米約增加 1000 倍，這正是奈米材料活性高的原因。其餘敘述皆正確。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 3 所示，先將質量 $M$ 為 1.5 kg 的金屬板置於光滑水平面上，再將質量 $m$ 為 0.5 kg 的木塊置於金屬板上，金屬板與木塊之間的靜摩擦係數為 $\\mu_s$。今施一漸增的外力 $F$ 沿水平方向拉動木塊 $m$，當木塊與金屬板間開始相對滑動時，$F$ 恰為 7.8 N，則 $\\mu_s$ 值最接近下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-05.png\" alt=\"圖3 光滑水平面上的金屬板 M 與其上的木塊 m，水平力 F 拉 m\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1.2",
+      "0.8",
+      "0.4",
+      "0.2",
+      "0.05"
+    ],
+    "answerIndex": 0,
+    "explanation": "【疊放物體的最大靜摩擦】\n剛要滑動時兩者仍一起加速：$a = \\dfrac{F}{M + m} = \\dfrac{7.8}{2.0} = 3.9\\text{ m/s}^2$。\n金屬板只靠摩擦力加速，此時靜摩擦力達最大值：$\\mu_s mg = Ma$\n$\\mu_s = \\dfrac{1.5\\times3.9}{0.5\\times9.8} \\approx 1.2$\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "一車廂的天花板上有一 P 點，其正下方的地板上為 Q 點，兩點的垂直距離為 3 m，該車廂以固定的水平速度 $v$ 往右直線前進，如圖 4 所示。在某時刻，一小球甲從 P 點相對於車廂自靜止自由落下，當甲球下墜至與 P 點的垂直距離為 1 m 時，另一顆小球乙也從 P 點相對於車廂自靜止自由落下。若空氣阻力可忽略，當甲球恰落於車廂地板瞬間，下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-06.png\" alt=\"圖4 等速向右的車廂，天花板 P 點在地板 Q 點正上方\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲球落於 Q 點，此時兩球高度差的量值大於 1 m",
+      "甲球落於 Q 點，此時兩球高度差的量值等於 1 m",
+      "甲球落於 Q 點，此時兩球高度差的量值小於 1 m",
+      "甲球落於 Q 點左方，此時兩球高度差的量值大於 1 m",
+      "甲球落於 Q 點左方，此時兩球高度差的量值等於 1 m"
+    ],
+    "answerIndex": 0,
+    "explanation": "【慣性參考系中的自由落體】\n車廂等速前進，是慣性參考系，在車廂內看小球就是單純的自由落體，甲落在 P 正下方的 Q 點。\n甲落 1 m 時已有向下速度，之後甲始終比乙快，兩球高度差逐漸增大。計算：甲落完 3 m 需 $\\sqrt{6/g}$，乙晚 $\\sqrt{2/g}$ 出發，此時乙只落了 $\\dfrac12 g\\left(\\sqrt{\\dfrac6g} - \\sqrt{\\dfrac2g}\\right)^2 = 4 - 2\\sqrt3 \\approx 0.54\\text{ m}$，高度差約 2.46 m > 1 m。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "圖 5 為在水平面上的高架工作車示意圖，車體質量為 $M$（不含支架），質心恰在前輪軸正上方，前後輪軸間距為 $a$。均質支架質量為 $\\dfrac{M}{8}$，支架底端的支點恰在後輪軸正上方。支架頂端工作台與人員總質量為 $\\dfrac{M}{4}$，質心恰在支架頂端正上方。設工作時支架與鉛垂線的夾角為 $30^\\circ$，要使車體不至翻覆，支架長度最大可為多少？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-07.png\" alt=\"圖5 高架工作車，支架自後輪軸上方向後傾斜 30°\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$8a$",
+      "$\\dfrac{32a}{5}$",
+      "$\\dfrac{16a}{3}$",
+      "$\\dfrac{16a}{5}$",
+      "$\\dfrac{a}{8}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【翻覆的臨界條件】\n車子即將以後輪為支點翻覆時，前輪的正向力為零。以後輪軸為支點，設支架長 $L$，向後傾斜 $30^\\circ$：\n• 支架重心的水平距離 $\\dfrac{L}{2}\\sin30^\\circ = \\dfrac{L}{4}$；工作台的水平距離 $L\\sin30^\\circ = \\dfrac{L}{2}$。\n• 車體重量在另一側，力臂 $a$。\n$Mg\\cdot a = \\dfrac{M}{8}g\\cdot\\dfrac{L}{4} + \\dfrac{M}{4}g\\cdot\\dfrac{L}{2} = \\dfrac{5}{32}MgL \\Rightarrow L = \\dfrac{32a}{5}$\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "一質點以 O 為圓心在一水平面上作等速率圓周運動，其速率為 $v$，如圖 6 所示。甲、乙、丙、丁、戊皆在圓周上，如果以丁點為參考點測量質點的角動量，則該質點角動量時間變化率的量值在圖 6 中哪一處最大？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-08.png\" alt=\"圖6 圓周上的甲乙丙丁戊五點，丁在最下方，丙在最右方\" style=\"width:100%;max-width:170px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "【角動量變化率 = 力矩】\n對丁點，$\\dfrac{d\\vec L}{dt} = \\vec\\tau = \\vec r\\times\\vec F$。向心力 $F = \\dfrac{mv^2}{R}$ 大小固定，沿質點與圓心 O 的連線。力矩 = $F\\times$（丁到這條作用線的垂直距離）。\n作用線通過 O，丁到它的距離為 $R\\sin\\phi$（$\\phi$ 為作用線與 O丁 的夾角），在作用線與 O丁 垂直時最大，即質點在與 O 等高的左右兩端，丙點即是。（在甲、丁時作用線通過丁，力矩為零。）\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "甲行星的質量是乙行星的 25 倍，兩衛星分別以半徑為 $R_{\\text{甲}}$、$R_{\\text{乙}}$ 的圓軌道繞行甲、乙兩行星。若 $\\dfrac{R_{\\text{甲}}}{R_{\\text{乙}}} = 4$，則兩衛星分別繞行甲、乙兩行星的週期之比值 $\\dfrac{T_{\\text{甲}}}{T_{\\text{乙}}}$ 為何？",
+    "options": [
+      "6.25",
+      "2.5",
+      "1.6",
+      "0.4",
+      "0.16"
+    ],
+    "answerIndex": 2,
+    "explanation": "【圓軌道週期】\n$\\dfrac{GMm}{R^2} = m\\dfrac{4\\pi^2R}{T^2} \\Rightarrow T^2 = \\dfrac{4\\pi^2R^3}{GM}$\n$\\left(\\dfrac{T_{\\text{甲}}}{T_{\\text{乙}}}\\right)^2 = \\dfrac{4^3}{25} = \\dfrac{64}{25} \\Rightarrow \\dfrac{T_{\\text{甲}}}{T_{\\text{乙}}} = \\dfrac85 = 1.6$\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "一個質點自水平地面朝右上方斜向拋射，在最高點時，突然爆裂為質量相等的甲、乙、丙三質點，如圖 7 所示。爆裂之後乙自靜止作自由落體運動，丙循原路徑回落到原拋射點。若忽略空氣阻力，則爆裂瞬間甲與丙速率的比值約為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-10.png\" alt=\"圖7 斜拋質點在最高點爆裂為甲乙丙三質點\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1/2",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 4,
+    "explanation": "【爆炸的動量守恆】\n最高點速度只有水平分量 $v$，總質量 $3m$。爆裂後：乙速度為零；丙循原路徑回到拋射點，速度為 $-v$（大小 $v$，向左）。\n水平動量守恆：$3mv = m v_{\\text{甲}} + 0 + m(-v) \\Rightarrow v_{\\text{甲}} = 4v$\n$\\dfrac{v_{\\text{甲}}}{v_{\\text{丙}}} = 4$\n\n故選 (E)"
+  },
+  {
+    "id": "99-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "光滑水平面上有同質量的黑白兩小球，白球以速率 $v_o$ 沿正東方向前進，與靜止的黑球發生碰撞。如果碰撞之後，黑球以速率 $v = \\dfrac{v_o}{2\\sqrt2}$ 沿東偏南 $45^\\circ$ 前進；白球沿東偏北 $\\theta$ 角前進，則 $\\tan\\theta$ 為下列何者？",
+    "options": [
+      "$\\dfrac{1}{\\sqrt2}$",
+      "$\\dfrac{1}{2\\sqrt2}$",
+      "$\\dfrac12$",
+      "$\\dfrac13$",
+      "$\\dfrac14$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【二維動量守恆】\n黑球速度分量：東 $v\\cos45^\\circ = \\dfrac{v_o}{4}$，南 $\\dfrac{v_o}{4}$。\n• 東西方向：$v_o = \\dfrac{v_o}{4} + u\\cos\\theta \\Rightarrow u\\cos\\theta = \\dfrac{3v_o}{4}$\n• 南北方向：$0 = u\\sin\\theta - \\dfrac{v_o}{4} \\Rightarrow u\\sin\\theta = \\dfrac{v_o}{4}$\n$\\tan\\theta = \\dfrac{1}{3}$\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 8 所示，一質量為 60 kg 的滑雪者，由滑雪道頂端 P 靜止滑下，於滑道末端 R 飛出。滑道最低點 Q 與 P 的垂直距離為 24 m，Q 與 R 的垂直距離為 4 m。當他於滑道末端 R 飛出時，速度的大小為 18 m/s。若過程中他保持姿勢不變，風阻亦可忽略。從 P 到 R 因摩擦所消耗的能量與所減少的重力位能之比值最接近下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-12.png\" alt=\"圖8 滑雪道 P 高於最低點 Q 24 m，末端 R 高於 Q 4 m\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1",
+      "0.8",
+      "0.3",
+      "0.2",
+      "0.1"
+    ],
+    "answerIndex": 3,
+    "explanation": "【功能原理】\nP 到 R 下降 $24 - 4 = 20\\text{ m}$，位能減少 $mgh = 60\\times9.8\\times20 = 11760\\text{ J}$。\nR 點動能 $\\dfrac12\\times60\\times18^2 = 9720\\text{ J}$。\n摩擦消耗 $11760 - 9720 = 2040\\text{ J}$，比值 $\\dfrac{2040}{11760} \\approx 0.17$，最接近 0.2。（取 $g = 10$ 得 0.19，結論相同。）\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "飛機於長程水平飛行時，其用來平衡重力的上升力可近似為 $F_{\\text{上}} = \\alpha\\rho v^2$，$v$ 為飛行速率，$\\rho$ 為空氣密度，$\\alpha$ 為相關的常數。若飛機此時所受的空氣阻力可假設為 $F_{\\text{阻}} = \\beta\\rho v$，$\\beta$ 為常數。已知空氣密度 $\\rho$ 會隨著飛行高度的增加而變小。假設某一高空航線的空氣密度 $\\rho$ 為另一低空的 $\\dfrac12$。僅考慮上述主要效應，並忽略浮力。若同一飛機維持固定的高度，水平飛行相同的航程，則在該高空與低空航線因阻力所消耗的能量之比為何？",
+    "options": [
+      "$\\dfrac{1}{2\\sqrt2}$",
+      "$\\dfrac12$",
+      "$\\dfrac{1}{\\sqrt2}$",
+      "1",
+      "$\\sqrt2$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【比例推理】\n升力等於重力：$\\alpha\\rho v^2 = mg \\Rightarrow v \\propto \\dfrac{1}{\\sqrt\\rho}$。\n阻力 $F_{\\text{阻}} = \\beta\\rho v \\propto \\rho\\cdot\\dfrac{1}{\\sqrt\\rho} = \\sqrt\\rho$；航程相同，消耗能量 $= F_{\\text{阻}}\\times$ 航程 $\\propto \\sqrt\\rho$。\n高空：低空 $= \\sqrt{\\dfrac12} = \\dfrac{1}{\\sqrt2}$。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "圖 9 為一點波源 $S_1$ 靜止於水波槽中的示意圖。若此波源以 $\\dfrac14$ 波速而等速度向左移動，則此波源左方水波的波長變為靜止時的多少倍？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-14.png\" alt=\"圖9 水波槽中的點波源 S1\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac14$",
+      "$\\dfrac12$",
+      "$\\dfrac34$",
+      "1",
+      "2"
+    ],
+    "answerIndex": 2,
+    "explanation": "【都卜勒效應（波長）】\n波源向左移動，左方波前被壓縮。一個週期 $T$ 內波前走 $vT = \\lambda$，波源同時向左走 $\\dfrac{v}{4}T$，所以左方波長 $\\lambda' = \\lambda - \\dfrac{\\lambda}{4} = \\dfrac34\\lambda$。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "兩個互相面對的喇叭相距 8 公尺。兩喇叭同時放出同相位、同頻率的聲波。如圖 10 所示。一偵測器 D 於兩喇叭之間偵測到聲音的強度 $I$ 如圖 11。若 $x$ 為偵測器與左喇叭的距離，則此聲波之波長最接近下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-15.png\" alt=\"圖10 相距 8 m 的兩喇叭與偵測器 D；圖11 強度 I 對 x 的圖，極大值在 x = 3、4、5 m\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac14\\text{ m}$",
+      "$\\dfrac12\\text{ m}$",
+      "1 m",
+      "2 m",
+      "4 m"
+    ],
+    "answerIndex": 3,
+    "explanation": "【兩相向波源的干涉】\nD 到兩喇叭的路徑差 $= (8 - x) - x = 8 - 2x$。D 移動 $\\Delta x$ 時路徑差改變 $2\\Delta x$。\n相鄰兩個強度極大，路徑差相差 $\\lambda$：$2\\Delta x = \\lambda$。由圖 11，極大值在 $x = 3\\text{、}4\\text{、}5$ m，$\\Delta x = 1\\text{ m}$，所以 $\\lambda = 2\\text{ m}$。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 16-17 題為題組】有一長為 $a$、寬為 $w$ 的線圈其電阻為 $R$，施一外力 $F$ 使其以等速度 $v$ 通過一範圍為 $d$（$d > a$）的均勻磁場 $B$，磁場的方向為垂直射入紙面，如圖 12 所示。在時間 $t = 0$ 時，線圈恰接觸磁場的邊緣。\n\n16. 在線圈尚未完全進入磁場之前，時間為 $0 < t < \\dfrac{a}{v}$ 時，磁場 $B$ 在線圈內磁通量的量值為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-16.png\" alt=\"圖12 長 a、寬 w 的線圈以速度 v 進入寬 d 的磁場\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$wvB$",
+      "$wvtB$",
+      "$watB$",
+      "$d^2B$",
+      "$d^2Bt$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【磁通量】\n經過時間 $t$，線圈進入磁場的長度為 $vt$，在磁場中的面積 $wvt$，磁通量 $\\Phi = BA = wvtB$。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 16-17 題為題組】有一長為 $a$、寬為 $w$ 的線圈其電阻為 $R$，施一外力 $F$ 使其以等速度 $v$ 通過一範圍為 $d$（$d > a$）的均勻磁場 $B$，磁場的方向為垂直射入紙面，如圖 12 所示。在時間 $t = 0$ 時，線圈恰接觸磁場的邊緣。\n\n17. 欲使線圈等速度完全通過磁場，全程外力 $F$ 需施給線圈至少多大衝量？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-16.png\" alt=\"圖12 長 a、寬 w 的線圈以速度 v 進入寬 d 的磁場\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{B^2w^2d}{R}$",
+      "$\\dfrac{B^2w^2a}{R}$",
+      "$\\dfrac{2B^2w^2a}{R}$",
+      "$\\dfrac{B^2w^2(a+d)}{R}$",
+      "0"
+    ],
+    "answerIndex": 2,
+    "explanation": "【電磁感應的阻力】\n• 進入磁場時：電動勢 $Bwv$，電流 $\\dfrac{Bwv}{R}$，磁力 $\\dfrac{B^2w^2v}{R}$（阻礙運動），持續 $\\dfrac{a}{v}$，所需衝量 $\\dfrac{B^2w^2v}{R}\\cdot\\dfrac{a}{v} = \\dfrac{B^2w^2a}{R}$。\n• 線圈完全在磁場內（$d > a$）：磁通量不變，無電流，不需外力。\n• 離開磁場時：與進入時相同，再需 $\\dfrac{B^2w^2a}{R}$。\n合計 $\\dfrac{2B^2w^2a}{R}$。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "康卜吞散射實驗是以光子與自由電子發生二維彈性碰撞，來分析散射光子波長的變化量。石墨中碳原子的電子之最小游離能約為 5 eV，下列何種波長的光子最適合當作入射光照射石墨產生自由電子以進行康卜吞散射實驗？",
+    "options": [
+      "1 nm",
+      "300 nm",
+      "500 nm",
+      "5000 nm",
+      "10000 nm"
+    ],
+    "answerIndex": 0,
+    "explanation": "【光子能量】\n$E = \\dfrac{hc}{\\lambda} \\approx \\dfrac{1240\\text{ eV}\\cdot\\text{nm}}{\\lambda}$。\n要讓電子近似自由電子，光子能量必須遠大於 5 eV 的束縛能：1 nm 的光子約 1240 eV（X 射線），符合；300 nm 約 4 eV，更長的波長能量更小，連游離都不夠。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-phy-19",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "圖 13 為水平放置的圓柱形密閉容器，中間以無摩擦之活塞隔開。活塞右邊和圓柱形容器的右邊以輕質彈簧相連結如圖 13 所示，彈簧符合虎克定律，自然長度為圓柱容器長的一半。左方為真空，右方理想氣體起初的絕對溫度為 $T_o$。若緩慢增加活塞右方理想氣體的溫度 $T$，且彈簧的力常數不隨溫度變化，其對應的彈簧伸長量為 $x$，則 $x$–$T$ 的關係最接近圖 14 中的哪一條線？（其中甲、乙、戊為直線，丙、丁為曲線）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-19.png\" alt=\"圖13 左方真空、右方氣體與彈簧的圓柱容器；圖14 x 對絕對溫度 T 的五條圖線\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "【氣體與彈簧的平衡】\n設容器長 $2\\ell$、截面積 $A$。氣體推活塞向左，彈簧被拉長 $x$，氣體體積 $V = A(\\ell + x)$。平衡時 $PA = kx$。\n理想氣體：$nRT = PV = kx(\\ell + x)$。\n• $T \\to 0$ 時 $x \\to 0$，圖線通過原點。\n• $T$ 與 $x$ 的關係是 $x$ 的二次式，$x$ 隨 $T$ 增加但增加得愈來愈慢（向下彎的曲線）。\n起點在原點且向下彎曲的是丙。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-phy-20",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "points": 3,
+    "question": "在一均勻磁場 $B$ 中，甲、乙兩帶電質點，皆以速率 $v$ 垂直於磁場作等速率圓周運動，磁場的方向為鉛直射入紙面，如圖 15 所示。甲為順時鐘運行，而乙為逆時鐘運行。若甲的圓半徑為乙的 2 倍，則甲質點之荷質比（$\\dfrac{q}{m}$ 之比值）為乙的幾倍？甲質點所帶電荷之性質為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-20.png\" alt=\"圖15 入紙面磁場中，甲順時鐘、乙逆時鐘作圓周運動\" style=\"width:100%;max-width:170px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1/2 倍；甲帶負電",
+      "1/2 倍；甲帶正電",
+      "2 倍；甲帶負電",
+      "2 倍；甲帶正電",
+      "4 倍；甲帶負電"
+    ],
+    "answerIndex": 0,
+    "explanation": "【帶電粒子在磁場中的圓周運動】\n$qvB = \\dfrac{mv^2}{r} \\Rightarrow \\dfrac{q}{m} = \\dfrac{v}{rB}$。速率相同，$r_{\\text{甲}} = 2r_{\\text{乙}}$，所以甲的荷質比是乙的 $\\dfrac12$。\n電性：甲在圓頂向右運動，向心力需向下。正電荷受力 $q\\vec v\\times\\vec B$，$\\hat x\\times(-\\hat z) = +\\hat y$（向上），與所需方向相反，所以甲帶負電。（乙逆時鐘，帶正電。）\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-phy-21",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "電梯內吊著輕繩，輕繩底端懸掛一個重量為 $mg$ 的物體。輕繩對該物體的施力量值為 $F_1$，該物體對於輕繩的施力量值為 $F_2$。下列敘述哪幾項正確？",
+    "options": [
+      "當電梯等速上升時，$F_1 > F_2 = mg$",
+      "當電梯等速上升時，$F_1 = F_2 = mg$",
+      "當電梯加速上升時，$F_1 > F_2 = mg$",
+      "當電梯加速上升時，$F_1 > F_2 > mg$",
+      "當電梯加速上升時，$F_1 = F_2 > mg$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【作用力與反作用力】\n$F_1$ 與 $F_2$ 是一對作用力與反作用力，任何情況下都相等。\n• 等速上升：合力為零，$F_1 = mg$，(B) 正確。\n• 加速上升：$F_1 - mg = ma > 0$，$F_1 = F_2 > mg$，(E) 正確。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "99-ast-phy-22",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "實驗時以打點計時器紀錄物體運動過程的軌跡點。經過一段時間之後，甲實驗的物體維持等速度運動，乙實驗的物體則維持等加速度運動。圖 16 中甲、乙為兩實驗經一段時間之後，每隔 1 秒所紀錄的某一段軌跡點。若將軌跡點的順序編號註記於該點下方，則下列敘述哪幾項正確？（提示：注意圖中甲之第 5、7 兩點至第 1 點之距離分別與乙之第 5、6 兩點至第 1 點之距離相同）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-22.png\" alt=\"圖16 甲（等速）與乙（等加速）每隔 1 秒的軌跡點\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "乙實驗於第 1 軌跡點時的瞬時速率為零",
+      "乙實驗於第 1 軌跡點時的瞬時速率大於零",
+      "甲、乙實驗於第 3 軌跡點時的瞬時速率相等",
+      "甲、乙實驗於第 5 軌跡點時的瞬時速率相等",
+      "甲、乙實驗的瞬時速率相等時是在第 4 與第 5 點之間"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "【等加速度運動】\n設甲的速率為每秒 $s$（相鄰點距 $s$）。甲第 5、7 點距第 1 點 $4s$、$6s$。\n乙以第 1 點為 $t = 0$，初速 $u$、加速度 $a$：\n$4u + \\dfrac12a(4)^2 = 4s$，$5u + \\dfrac12a(5)^2 = 6s$\n解得 $a = 0.4s$，$u = 0.2s$。\n• (A) 錯、(B) 正確：$u = 0.2s > 0$。\n• 乙的速率 $0.2s + 0.4s\\,t = s$ 時 $t = 2$ 秒，即第 3 點，(C) 正確，(D)(E) 錯。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "99-ast-phy-23",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "一可自由脹縮且絕熱的密封袋內有 1 莫耳的單原子理想氣體處在標準狀態。設法對袋內氣體輸入熱量，使該氣體的溫度增加 1 K，則下列有關該氣體的敘述哪些項正確？",
+    "options": [
+      "內能增加約 12.5 J",
+      "吸收的熱完全用來增加內能",
+      "吸收的熱完全用來對外界作功",
+      "對外界做的功必與其增加的內能相等",
+      "增加的內能以及對外界作功之和等於外界輸入的熱量"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "【熱力學第一定律】\n袋子可自由脹縮，氣體壓力維持與外界相同（定壓）。\n• (A) 正確：單原子氣體 $\\Delta U = \\dfrac32nR\\Delta T = \\dfrac32\\times8.31\\times1 \\approx 12.5\\text{ J}$。\n• (B)(C) 錯誤：定壓下氣體膨脹，熱量一部分增加內能、一部分對外作功。\n• (D) 錯誤：作功 $P\\Delta V = nR\\Delta T \\approx 8.3\\text{ J}$，不等於 12.5 J。\n• (E) 正確：$Q = \\Delta U + W$。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "99-ast-phy-24",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "圖 17 為光電效應實驗裝置示意圖，其中鋅板與驗電器以導線連接，兩者底座均為絕緣體，入射光包含紅外線、可見光與紫外線；未照光時，驗電器的金屬箔片原本閉合。在光源與鋅板間加入一特殊處理的玻璃片，此玻璃片能讓可見光通過但會阻絕特定頻率的電磁波。以光源透過此玻璃片照射鋅板，驗電器之金屬箔片不會張開。若將此玻璃片移開，金屬箔片會張開，則下列推論哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-24.png\" alt=\"圖17 鋅板以導線連接驗電器，入射光照在鋅板上\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "帶負電的光電子經導線由鋅板移至驗電器的金屬箔片",
+      "帶正電的光電子經導線由鋅板移至驗電器的金屬箔片",
+      "驗電器的金屬箔片張開是因為鋅板帶正電",
+      "紫外線無法穿透此玻璃片",
+      "使鋅板產生光電效應是入射光中的紫外線成分"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "【光電效應】\n• 鋅的功函數較大，只有頻率高的紫外線能打出光電子；玻璃片擋掉紫外線後就沒有光電效應，(D)(E) 正確。\n• 光電子（帶負電）離開鋅板飛到空氣中，鋅板與相連的驗電器失去電子而帶正電，金屬箔片同性相斥而張開，(C) 正確。\n• (A)(B) 錯誤：光電子是射出鋅板表面，並非經導線移到箔片；而且光電子都帶負電。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "99-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】波耳的氫原子模型假設電子以質子為圓心作等速率圓周運動，已知氫原子的電子在基態時，圓周運動的半徑為 $5.3\\times10^{-11}\\text{ m}$。計算下列各題。（電子質量 $9.1\\times10^{-31}\\text{ kg}$，基本電荷 $1.6\\times10^{-19}\\text{ C}$，$k = 9\\times10^9\\ \\text{N}\\cdot\\text{m}^2/\\text{C}^2$，$\\mu_0 = 4\\pi\\times10^{-7}\\text{ T}\\cdot\\text{m/A}$）\n\n1. 此電子所受靜電力的量值。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$F \\approx 8.2\\times10^{-8}\\text{ N}$"
+    ],
+    "blankLabels": [
+      "靜電力"
+    ],
+    "explanation": "$F = \\dfrac{ke^2}{r^2} = \\dfrac{9\\times10^9\\times(1.6\\times10^{-19})^2}{(5.3\\times10^{-11})^2} \\approx 8.2\\times10^{-8}\\text{ N}$（$8.0\\sim8.4\\times10^{-8}$ N 皆可）"
+  },
+  {
+    "id": "99-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】波耳的氫原子模型假設電子以質子為圓心作等速率圓周運動，已知氫原子的電子在基態時，圓周運動的半徑為 $5.3\\times10^{-11}\\text{ m}$。計算下列各題。（電子質量 $9.1\\times10^{-31}\\text{ kg}$，基本電荷 $1.6\\times10^{-19}\\text{ C}$，$k = 9\\times10^9\\ \\text{N}\\cdot\\text{m}^2/\\text{C}^2$，$\\mu_0 = 4\\pi\\times10^{-7}\\text{ T}\\cdot\\text{m/A}$）\n\n2. 此電子作圓周運動的速率。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$v \\approx 2.2\\times10^{6}\\text{ m/s}$"
+    ],
+    "blankLabels": [
+      "速率"
+    ],
+    "explanation": "靜電力提供向心力：$\\dfrac{ke^2}{r^2} = \\dfrac{mv^2}{r}$\n$v = \\sqrt{\\dfrac{Fr}{m}} = \\sqrt{\\dfrac{8.2\\times10^{-8}\\times5.3\\times10^{-11}}{9.1\\times10^{-31}}} \\approx 2.2\\times10^{6}\\text{ m/s}$"
+  },
+  {
+    "id": "99-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】波耳的氫原子模型假設電子以質子為圓心作等速率圓周運動，已知氫原子的電子在基態時，圓周運動的半徑為 $5.3\\times10^{-11}\\text{ m}$。計算下列各題。（電子質量 $9.1\\times10^{-31}\\text{ kg}$，基本電荷 $1.6\\times10^{-19}\\text{ C}$，$k = 9\\times10^9\\ \\text{N}\\cdot\\text{m}^2/\\text{C}^2$，$\\mu_0 = 4\\pi\\times10^{-7}\\text{ T}\\cdot\\text{m/A}$）\n\n3. 此電子作圓周運動所產生的電流。（3 分）",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$I \\approx 1.1\\times10^{-3}\\text{ A}$"
+    ],
+    "blankLabels": [
+      "電流"
+    ],
+    "explanation": "電子每繞一圈的時間 $T = \\dfrac{2\\pi r}{v}$，每週期通過一個電子電量：\n$I = \\dfrac{e}{T} = \\dfrac{ev}{2\\pi r} = \\dfrac{1.6\\times10^{-19}\\times2.2\\times10^6}{2\\pi\\times5.3\\times10^{-11}} \\approx 1.1\\times10^{-3}\\text{ A}$（$1.0\\sim1.2\\times10^{-3}$ A 皆可）"
+  },
+  {
+    "id": "99-ast-phy-non-1-4",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】波耳的氫原子模型假設電子以質子為圓心作等速率圓周運動，已知氫原子的電子在基態時，圓周運動的半徑為 $5.3\\times10^{-11}\\text{ m}$。計算下列各題。（電子質量 $9.1\\times10^{-31}\\text{ kg}$，基本電荷 $1.6\\times10^{-19}\\text{ C}$，$k = 9\\times10^9\\ \\text{N}\\cdot\\text{m}^2/\\text{C}^2$，$\\mu_0 = 4\\pi\\times10^{-7}\\text{ T}\\cdot\\text{m/A}$）\n\n4. 此電子作圓周運動所產生的電流在圓心形成的磁場量值。（3 分）",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$B \\approx 13\\text{ T}$"
+    ],
+    "blankLabels": [
+      "磁場"
+    ],
+    "explanation": "圓形電流在圓心的磁場：\n$B = \\dfrac{\\mu_0 I}{2r} = \\dfrac{4\\pi\\times10^{-7}\\times1.1\\times10^{-3}}{2\\times5.3\\times10^{-11}} \\approx 13\\text{ T}$（12～14 T 皆可）"
+  },
+  {
+    "id": "99-ast-phy-non-2-1a",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】大華利用半徑為 5.00 cm，薄壁折射率為 $n_C = 1.52$，厚度可以忽略不計的透明半圓皿，進行下列實驗。如圖 18 所示，大華在白紙上繪製 $xy$ 坐標，並以公分為單位。將半圓皿的圓心與原點 O 重合，直徑（平直面）與 $x$ 軸重合。\n\n1. 測量液體折射率：使入射光由 O 點入射，此時入射角為 $\\theta = 53^\\circ$（$\\sin53^\\circ = \\dfrac45$），如圖 18 所示。裝滿待測液體之後，大華測得折射之後的光線與圓弧面交點位置的 $x$ 坐標為 2.80 cm。\n(a) 大華測量所用直尺的最小刻度為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-non-2.png\" alt=\"圖18 由 O 點入射；圖19 光線 PQ 沿半徑射向 O；圖20 O 點內側放雙狹縫，雷射沿 y 軸射向屏幕\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "1 mm（0.1 cm）"
+    ],
+    "blankLabels": [
+      "最小刻度"
+    ],
+    "explanation": "測量值 2.80 cm 的最後一位「0」是估計位，前一位（0.1 cm）是直尺能直接讀出的刻度，所以最小刻度為 0.1 cm = 1 mm。"
+  },
+  {
+    "id": "99-ast-phy-non-2-1b",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】大華利用半徑為 5.00 cm，薄壁折射率為 $n_C = 1.52$，厚度可以忽略不計的透明半圓皿，進行下列實驗。如圖 18 所示，大華在白紙上繪製 $xy$ 坐標，並以公分為單位。將半圓皿的圓心與原點 O 重合，直徑（平直面）與 $x$ 軸重合。\n\n1. 測量液體折射率：使入射光由 O 點入射，此時入射角為 $\\theta = 53^\\circ$（$\\sin53^\\circ = \\dfrac45$），如圖 18 所示。裝滿待測液體之後，大華測得折射之後的光線與圓弧面交點位置的 $x$ 坐標為 2.80 cm。\n(b) 計算並以正確有效位數紀錄待測液體的折射率 $n_L$。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-non-2.png\" alt=\"圖18 由 O 點入射；圖19 光線 PQ 沿半徑射向 O；圖20 O 點內側放雙狹縫，雷射沿 y 軸射向屏幕\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "blanks": [
+      "1.43"
+    ],
+    "blankLabels": [
+      "n_L"
+    ],
+    "explanation": "折射光線從 O 沿半徑射到圓弧，交點的 $x$ 坐標即 $5.00\\sin\\theta_L$：$\\sin\\theta_L = \\dfrac{2.80}{5.00} = 0.560$。\n空氣→液體（皿壁極薄，不影響）：$1\\times\\sin53^\\circ = n_L\\sin\\theta_L$\n$n_L = \\dfrac{0.8}{0.560} \\approx 1.43$（3 位有效數字）"
+  },
+  {
+    "id": "99-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】大華利用半徑為 5.00 cm，薄壁折射率為 $n_C = 1.52$，厚度可以忽略不計的透明半圓皿，進行下列實驗。如圖 18 所示，大華在白紙上繪製 $xy$ 坐標，並以公分為單位。將半圓皿的圓心與原點 O 重合，直徑（平直面）與 $x$ 軸重合。\n\n2. 觀測光線路徑：如圖 19 所示，入射光線 $\\overrightarrow{PQ}$ 與 $y$ 軸的夾角是 $\\theta = 53^\\circ$，且 $\\overrightarrow{PQ}$ 延長線與半圓皿相交於 O 點。當半圓皿內注滿折射率為 $n_L = 1.3$ 的液體之後，射出半圓皿的光線經過第幾象限？與 $y$ 軸的夾角為何？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-non-2.png\" alt=\"圖18 由 O 點入射；圖19 光線 PQ 沿半徑射向 O；圖20 O 點內側放雙狹縫，雷射沿 y 軸射向屏幕\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "在 O 點發生全反射，光線經過第二象限射出，與 y 軸的夾角為 53°"
+    ],
+    "blankLabels": [
+      "象限與夾角"
+    ],
+    "explanation": "光線沿半徑方向射入圓弧，垂直入射不偏折，直達 O 點，在平直面（液體→空氣）的入射角為 $53^\\circ$。\n$n_L\\sin53^\\circ = 1.3\\times0.8 = 1.04 > 1$，超過臨界角（$\\sin\\theta_c = \\dfrac{1}{1.3} < 0.8$），發生全反射。\n反射光與 $y$ 軸夾角仍為 $53^\\circ$，從第一象限入射，反射後往第二象限，沿半徑由圓弧射出不再偏折。"
+  },
+  {
+    "id": "99-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】大華利用半徑為 5.00 cm，薄壁折射率為 $n_C = 1.52$，厚度可以忽略不計的透明半圓皿，進行下列實驗。如圖 18 所示，大華在白紙上繪製 $xy$ 坐標，並以公分為單位。將半圓皿的圓心與原點 O 重合，直徑（平直面）與 $x$ 軸重合。\n\n3. 觀測雙狹縫干涉：如圖 20 所示，在 O 點內側放置一個雙狹縫，狹縫間距為 0.020 mm。在空氣中波長是 650 nm 的雷射光束，沿著 $y$ 軸方向射向雙狹縫。屏幕位於 $y = 2.0\\text{ m}$。半圓皿內注滿折射率為 $n_L = 1.3$ 的液體之後，從兩狹縫發出的光波皆可視為由 O 點發出，計算屏幕上所見亮紋間距。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-phy-non-2.png\" alt=\"圖18 由 O 點入射；圖19 光線 PQ 沿半徑射向 O；圖20 O 點內側放雙狹縫，雷射沿 y 軸射向屏幕\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "0.05"
+    ],
+    "blankLabels": [
+      "亮紋間距（m）"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.050",
+        "0.05m",
+        "5cm",
+        "5.0cm",
+        "50mm",
+        "5×10^-2"
+      ]
+    ],
+    "explanation": "干涉發生在液體中：$\\lambda_L = \\dfrac{650}{1.3} = 500\\text{ nm}$，亮紋條件 $d\\sin\\theta = m\\lambda_L$。\n光線由 O 沿半徑射出圓弧，方向不偏折，所以角度 $\\theta$ 保持到屏幕：\n$\\Delta y = \\dfrac{L\\lambda_L}{d} = \\dfrac{2.0\\times500\\times10^{-9}}{0.020\\times10^{-3}} = 0.05\\text{ m}$"
   }
 ]
