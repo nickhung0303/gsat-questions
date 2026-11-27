@@ -111651,5 +111651,821 @@
     ],
     "answerIndex": 3,
     "explanation": "拍動物園動物需要更多耐心，要等動物做出有趣的動作或移到好位置。\n\n故選 (D)"
+  },
+  {
+    "id": "100-gsat-eng-01",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. All the new students were given one minute to ______ introduce themselves to the whole class.",
+    "options": [
+      "briefly",
+      "famously",
+      "gradually",
+      "obviously"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：每位新生有一分鐘向全班簡短自我介紹。\n• (A) briefly 簡短地\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-02",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. His dark brown jacket had holes in the elbows and had ______ to light brown, but he continued to wear it.",
+    "options": [
+      "cycled",
+      "faded",
+      "loosened",
+      "divided"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：他的深棕色外套手肘破洞、褪成淺棕色，但他仍繼續穿。\nfade「褪色」。\n\n故選 (B)"
+  },
+  {
+    "id": "100-gsat-eng-03",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. Everyone in our company enjoys working with Jason. He's got all the qualities that make a ______ partner.",
+    "options": [
+      "desirable",
+      "comfortable",
+      "frequent",
+      "hostile"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：公司每個人都喜歡和 Jason 共事，他具備成為理想夥伴的所有特質。\n• (A) desirable 令人想要的、理想的\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-04",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. Eyes are sensitive to light. Looking at the sun ______ could damage our eyes.",
+    "options": [
+      "hardly",
+      "specially",
+      "totally",
+      "directly"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：眼睛對光敏感，直視太陽會傷害眼睛。\n• (D) directly 直接地\n\n故選 (D)"
+  },
+  {
+    "id": "100-gsat-eng-05",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. We were forced to ______ our plan for the weekend picnic because of the bad weather.",
+    "options": [
+      "maintain",
+      "record",
+      "propose",
+      "cancel"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：因為天氣不好，我們被迫取消週末野餐的計畫。\n• (D) cancel 取消\n\n故選 (D)"
+  },
+  {
+    "id": "100-gsat-eng-06",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. Three people are running for mayor. All three ______ seem confident that they will be elected, but we won't know until the outcome of the election is announced.",
+    "options": [
+      "particles",
+      "receivers",
+      "candidates",
+      "containers"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：有三人競選市長，三位候選人都很有信心，但要等選舉結果公布才知道。\n• (C) candidate 候選人\n\n故選 (C)"
+  },
+  {
+    "id": "100-gsat-eng-07",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. If you ______ a traffic law, such as drinking and driving, you may not drive for some time.",
+    "options": [
+      "destroy",
+      "violate",
+      "attack",
+      "invade"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：如果違反交通法規，例如酒駕，可能會有一段時間不能開車。\nviolate a law「違法」。\n\n故選 (B)"
+  },
+  {
+    "id": "100-gsat-eng-08",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. Applying to college means sending in applications, writing study plans, and so on. It's a long ______, and it makes students nervous.",
+    "options": [
+      "errand",
+      "operation",
+      "process",
+      "display"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：申請大學要送申請表、寫讀書計畫等，是個漫長的過程，讓學生很緊張。\n• (C) process 過程\n\n故選 (C)"
+  },
+  {
+    "id": "100-gsat-eng-09",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. Dr. Chu's speech on the new energy source attracted great ______ from the audience at the conference.",
+    "options": [
+      "attention",
+      "fortune",
+      "solution",
+      "influence"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：朱博士關於新能源的演講在會議上引起聽眾極大關注。\nattract attention「吸引注意」。\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-10",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. Everyone in the office must attend the meeting tomorrow. There are no ______ allowed.",
+    "options": [
+      "exceptions",
+      "additions",
+      "divisions",
+      "measures"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：辦公室每個人都必須參加明天的會議，沒有例外。\n• (A) exception 例外\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-11",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "11. To make fresh lemonade, cut the lemon in half, ______ the juice into a bowl, and then add as much water and sugar as you like.",
+    "options": [
+      "decrease",
+      "squeeze",
+      "freeze",
+      "cease"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：做新鮮檸檬汁時，把檸檬切半、把汁擠到碗裡，再依喜好加水和糖。\n• (B) squeeze 擠壓\n\n故選 (B)"
+  },
+  {
+    "id": "100-gsat-eng-12",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "12. Buddhism is the ______ religion in Thailand, with 90% of the total population identified as Buddhists.",
+    "options": [
+      "racial",
+      "competitive",
+      "modest",
+      "dominant"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：佛教是泰國的主要宗教，九成人口是佛教徒。\n• (D) dominant 主要的、占優勢的\n\n故選 (D)"
+  },
+  {
+    "id": "100-gsat-eng-13",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "13. When I open a book, I look first at the table of ______ to get a general idea of the book and to see which chapters I might be interested in reading.",
+    "options": [
+      "contracts",
+      "contents",
+      "contests",
+      "contacts"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：翻開書時，我先看目錄了解大概內容，看哪些章節有興趣讀。\ntable of contents「目錄」。\n\n故選 (B)"
+  },
+  {
+    "id": "100-gsat-eng-14",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "14. The children were so ______ to see the clown appear on stage that they laughed, screamed, and clapped their hands happily.",
+    "options": [
+      "admirable",
+      "fearful",
+      "delighted",
+      "intense"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：孩子們看到小丑上台非常高興，又笑又叫、開心拍手。\n• (C) delighted 高興的\n\n故選 (C)"
+  },
+  {
+    "id": "100-gsat-eng-15",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "15. Typhoon Maggie brought to I-lan County a huge amount of rainfall, much greater than the ______ rainfall of the season in the area.",
+    "options": [
+      "average",
+      "considerate",
+      "promising",
+      "enjoyable"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：梅姬颱風為宜蘭帶來大量雨水，遠多於該地區當季的平均雨量。\n• (A) average 平均的\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-16",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nWhen it comes to Egypt, people think of pyramids and mummies, both of which are closely related to Egyptian religious beliefs. The ancient Egyptians believed firmly in life 【 16 】 death. When a person died, his or her soul was thought to travel to an underworld, where it 【 17 】 a series of judgments before it could progress to a better life in the next world. For the soul to travel smoothly, the body had to 【 18 】 unharmed. Thus, they learned how to preserve the body by drying it out, oiling and then 【 19 】 the body in linen, before placing it in the coffin. Egyptians also built pyramids as 【 20 】 for their kings, or pharaohs. The pyramid housed the pharaoh's body together with priceless treasure, which would accompany him into the next world.\n16.",
+    "options": [
+      "for",
+      "by",
+      "after",
+      "into"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：古埃及人堅信「死後」的生命。life after death「死後的生命」。\n\n故選 (C)"
+  },
+  {
+    "id": "100-gsat-eng-17",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nWhen it comes to Egypt, people think of pyramids and mummies, both of which are closely related to Egyptian religious beliefs. The ancient Egyptians believed firmly in life 【 16 】 death. When a person died, his or her soul was thought to travel to an underworld, where it 【 17 】 a series of judgments before it could progress to a better life in the next world. For the soul to travel smoothly, the body had to 【 18 】 unharmed. Thus, they learned how to preserve the body by drying it out, oiling and then 【 19 】 the body in linen, before placing it in the coffin. Egyptians also built pyramids as 【 20 】 for their kings, or pharaohs. The pyramid housed the pharaoh's body together with priceless treasure, which would accompany him into the next world.\n17.",
+    "options": [
+      "went through",
+      "made up",
+      "changed into",
+      "turned out"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：靈魂在冥界「經歷」一連串審判，才能進入來世更好的生活。go through「經歷」。\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-18",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nWhen it comes to Egypt, people think of pyramids and mummies, both of which are closely related to Egyptian religious beliefs. The ancient Egyptians believed firmly in life 【 16 】 death. When a person died, his or her soul was thought to travel to an underworld, where it 【 17 】 a series of judgments before it could progress to a better life in the next world. For the soul to travel smoothly, the body had to 【 18 】 unharmed. Thus, they learned how to preserve the body by drying it out, oiling and then 【 19 】 the body in linen, before placing it in the coffin. Egyptians also built pyramids as 【 20 】 for their kings, or pharaohs. The pyramid housed the pharaoh's body together with priceless treasure, which would accompany him into the next world.\n18.",
+    "options": [
+      "remain",
+      "remind",
+      "repair",
+      "replace"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：為了讓靈魂順利前行，身體必須「保持」完好。remain unharmed「保持完好」，remain 為連綴動詞。\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-19",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nWhen it comes to Egypt, people think of pyramids and mummies, both of which are closely related to Egyptian religious beliefs. The ancient Egyptians believed firmly in life 【 16 】 death. When a person died, his or her soul was thought to travel to an underworld, where it 【 17 】 a series of judgments before it could progress to a better life in the next world. For the soul to travel smoothly, the body had to 【 18 】 unharmed. Thus, they learned how to preserve the body by drying it out, oiling and then 【 19 】 the body in linen, before placing it in the coffin. Egyptians also built pyramids as 【 20 】 for their kings, or pharaohs. The pyramid housed the pharaoh's body together with priceless treasure, which would accompany him into the next world.\n19.",
+    "options": [
+      "wrapped",
+      "wrapping",
+      "to wrap",
+      "being wrapped"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：他們學會把身體烘乾、上油，再用亞麻布「包裹」。與 drying、oiling 並列，同為介系詞 by 的受詞，用動名詞 wrapping。\n\n故選 (B)"
+  },
+  {
+    "id": "100-gsat-eng-20",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nWhen it comes to Egypt, people think of pyramids and mummies, both of which are closely related to Egyptian religious beliefs. The ancient Egyptians believed firmly in life 【 16 】 death. When a person died, his or her soul was thought to travel to an underworld, where it 【 17 】 a series of judgments before it could progress to a better life in the next world. For the soul to travel smoothly, the body had to 【 18 】 unharmed. Thus, they learned how to preserve the body by drying it out, oiling and then 【 19 】 the body in linen, before placing it in the coffin. Egyptians also built pyramids as 【 20 】 for their kings, or pharaohs. The pyramid housed the pharaoh's body together with priceless treasure, which would accompany him into the next world.\n20.",
+    "options": [
+      "galleries",
+      "landmarks",
+      "companies",
+      "tombs"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：埃及人建造金字塔作為法老的「陵墓」，存放法老遺體與珍寶。\n\n故選 (D)"
+  },
+  {
+    "id": "100-gsat-eng-21",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nOn March 23, 1999, the musical MAMMA MIA! made its first public appearance in London. It 【 21 】 the kind of welcome it has been getting ever since. The audience went wild. They were literally out of their seats and singing and dancing in the aisles.\n\nMAMMA MIA! has become a 【 22 】 entertainment phenomenon. More than 30 million people all over the world have fallen in love with the characters, the story and the music. The musical has been performed in more than nine languages, with more productions than any 【 23 】 musical. Its worldwide popularity is mainly due to its theme music, which showcases ABBA's timeless songs in a fresh and vital way 【 24 】 retains the essence of both pop music and good musical theater. It has 【 25 】 so many people that a film version was also made. To no one's surprise, it has enjoyed similar popularity.\n21.",
+    "options": [
+      "is given",
+      "was given",
+      "has given",
+      "had given"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：首演時「受到」從那以後一直受到的熱烈歡迎。描述 1999 年的過去事件，且為被動，用 was given。\n\n故選 (B)"
+  },
+  {
+    "id": "100-gsat-eng-22",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nOn March 23, 1999, the musical MAMMA MIA! made its first public appearance in London. It 【 21 】 the kind of welcome it has been getting ever since. The audience went wild. They were literally out of their seats and singing and dancing in the aisles.\n\nMAMMA MIA! has become a 【 22 】 entertainment phenomenon. More than 30 million people all over the world have fallen in love with the characters, the story and the music. The musical has been performed in more than nine languages, with more productions than any 【 23 】 musical. Its worldwide popularity is mainly due to its theme music, which showcases ABBA's timeless songs in a fresh and vital way 【 24 】 retains the essence of both pop music and good musical theater. It has 【 25 】 so many people that a film version was also made. To no one's surprise, it has enjoyed similar popularity.\n22.",
+    "options": [
+      "worthy",
+      "global",
+      "sticky",
+      "physical"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：《媽媽咪呀》已成為「全球性」的娛樂現象，全世界三千多萬人喜愛它。\n\n故選 (B)"
+  },
+  {
+    "id": "100-gsat-eng-23",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nOn March 23, 1999, the musical MAMMA MIA! made its first public appearance in London. It 【 21 】 the kind of welcome it has been getting ever since. The audience went wild. They were literally out of their seats and singing and dancing in the aisles.\n\nMAMMA MIA! has become a 【 22 】 entertainment phenomenon. More than 30 million people all over the world have fallen in love with the characters, the story and the music. The musical has been performed in more than nine languages, with more productions than any 【 23 】 musical. Its worldwide popularity is mainly due to its theme music, which showcases ABBA's timeless songs in a fresh and vital way 【 24 】 retains the essence of both pop music and good musical theater. It has 【 25 】 so many people that a film version was also made. To no one's surprise, it has enjoyed similar popularity.\n23.",
+    "options": [
+      "one",
+      "thing",
+      "other",
+      "else"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：製作版本比「其他任何」音樂劇都多。any other + 單數名詞，表比較時排除自身。\n\n故選 (C)"
+  },
+  {
+    "id": "100-gsat-eng-24",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nOn March 23, 1999, the musical MAMMA MIA! made its first public appearance in London. It 【 21 】 the kind of welcome it has been getting ever since. The audience went wild. They were literally out of their seats and singing and dancing in the aisles.\n\nMAMMA MIA! has become a 【 22 】 entertainment phenomenon. More than 30 million people all over the world have fallen in love with the characters, the story and the music. The musical has been performed in more than nine languages, with more productions than any 【 23 】 musical. Its worldwide popularity is mainly due to its theme music, which showcases ABBA's timeless songs in a fresh and vital way 【 24 】 retains the essence of both pop music and good musical theater. It has 【 25 】 so many people that a film version was also made. To no one's surprise, it has enjoyed similar popularity.\n24.",
+    "options": [
+      "how",
+      "what",
+      "where",
+      "that"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：以一種新鮮有活力的方式呈現 ABBA 歌曲，而這種方式保留了流行音樂與好音樂劇的精髓。that 為關係代名詞，修飾 way 並作子句主詞。\n\n故選 (D)"
+  },
+  {
+    "id": "100-gsat-eng-25",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nOn March 23, 1999, the musical MAMMA MIA! made its first public appearance in London. It 【 21 】 the kind of welcome it has been getting ever since. The audience went wild. They were literally out of their seats and singing and dancing in the aisles.\n\nMAMMA MIA! has become a 【 22 】 entertainment phenomenon. More than 30 million people all over the world have fallen in love with the characters, the story and the music. The musical has been performed in more than nine languages, with more productions than any 【 23 】 musical. Its worldwide popularity is mainly due to its theme music, which showcases ABBA's timeless songs in a fresh and vital way 【 24 】 retains the essence of both pop music and good musical theater. It has 【 25 】 so many people that a film version was also made. To no one's surprise, it has enjoyed similar popularity.\n25.",
+    "options": [
+      "appealed to",
+      "presented with",
+      "resulted in",
+      "brought about"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：它「吸引」了這麼多人，所以也拍成了電影。appeal to「吸引」。\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-26",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nWhich is more valuable? Water or diamonds? Water is more useful to mankind than diamonds, and yet 【 26 】 are costlier. Why? Called the diamond-water paradox, this is a classic problem posed to students of economics.\n\nThe answer has to do with supply and demand. Being a rare natural resource, diamonds are 【 27 】 in supply. However, their demand is high because many people buy them to tell the world that they have money, 【 28 】 as conspicuous consumption in economics. In other words, the scarcity of goods is 【 29 】 causes humans to attribute value. If we 【 30 】 surrounded by an unending abundance of diamonds, we probably wouldn't value them very much. Hence, diamonds carry a higher monetary value than water, even though we find more use for water.\n26.",
+    "options": [
+      "the above",
+      "the former",
+      "the following",
+      "the latter"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：水對人類比鑽石更有用，但「後者」（鑽石）卻更貴。the latter「後者」。\n\n故選 (D)"
+  },
+  {
+    "id": "100-gsat-eng-27",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nWhich is more valuable? Water or diamonds? Water is more useful to mankind than diamonds, and yet 【 26 】 are costlier. Why? Called the diamond-water paradox, this is a classic problem posed to students of economics.\n\nThe answer has to do with supply and demand. Being a rare natural resource, diamonds are 【 27 】 in supply. However, their demand is high because many people buy them to tell the world that they have money, 【 28 】 as conspicuous consumption in economics. In other words, the scarcity of goods is 【 29 】 causes humans to attribute value. If we 【 30 】 surrounded by an unending abundance of diamonds, we probably wouldn't value them very much. Hence, diamonds carry a higher monetary value than water, even though we find more use for water.\n27.",
+    "options": [
+      "traded",
+      "weakened",
+      "limited",
+      "noticed"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：鑽石是稀有的天然資源，供應「有限」。be limited in supply「供應有限」。\n\n故選 (C)"
+  },
+  {
+    "id": "100-gsat-eng-28",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nWhich is more valuable? Water or diamonds? Water is more useful to mankind than diamonds, and yet 【 26 】 are costlier. Why? Called the diamond-water paradox, this is a classic problem posed to students of economics.\n\nThe answer has to do with supply and demand. Being a rare natural resource, diamonds are 【 27 】 in supply. However, their demand is high because many people buy them to tell the world that they have money, 【 28 】 as conspicuous consumption in economics. In other words, the scarcity of goods is 【 29 】 causes humans to attribute value. If we 【 30 】 surrounded by an unending abundance of diamonds, we probably wouldn't value them very much. Hence, diamonds carry a higher monetary value than water, even though we find more use for water.\n28.",
+    "options": [
+      "term",
+      "termed",
+      "terms",
+      "was termed"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：人們買鑽石來炫富，這在經濟學中「被稱為」炫耀性消費。過去分詞 termed 引導補充說明，前面省略 which is。\n\n故選 (B)"
+  },
+  {
+    "id": "100-gsat-eng-29",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nWhich is more valuable? Water or diamonds? Water is more useful to mankind than diamonds, and yet 【 26 】 are costlier. Why? Called the diamond-water paradox, this is a classic problem posed to students of economics.\n\nThe answer has to do with supply and demand. Being a rare natural resource, diamonds are 【 27 】 in supply. However, their demand is high because many people buy them to tell the world that they have money, 【 28 】 as conspicuous consumption in economics. In other words, the scarcity of goods is 【 29 】 causes humans to attribute value. If we 【 30 】 surrounded by an unending abundance of diamonds, we probably wouldn't value them very much. Hence, diamonds carry a higher monetary value than water, even though we find more use for water.\n29.",
+    "options": [
+      "what",
+      "which",
+      "why",
+      "how"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：換句話說，物品的稀少性正是讓人類賦予價值的「東西」。what 引導名詞子句作主詞補語，並在子句中作主詞。\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-30",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nWhich is more valuable? Water or diamonds? Water is more useful to mankind than diamonds, and yet 【 26 】 are costlier. Why? Called the diamond-water paradox, this is a classic problem posed to students of economics.\n\nThe answer has to do with supply and demand. Being a rare natural resource, diamonds are 【 27 】 in supply. However, their demand is high because many people buy them to tell the world that they have money, 【 28 】 as conspicuous consumption in economics. In other words, the scarcity of goods is 【 29 】 causes humans to attribute value. If we 【 30 】 surrounded by an unending abundance of diamonds, we probably wouldn't value them very much. Hence, diamonds carry a higher monetary value than water, even though we find more use for water.\n30.",
+    "options": [
+      "be",
+      "being",
+      "to be",
+      "were"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：如果我們被無窮無盡的鑽石包圍，大概就不會那麼珍惜它。與現在事實相反的假設，if 子句用 were。\n\n故選 (D)"
+  },
+  {
+    "id": "100-gsat-eng-31-40",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 31-40 題組】\nPopcorn is one of the snacks that rarely fail to make watching a movie more fun. However, the modern way of preparing this ___(31)___ snack may carry an unhappy secret. Research by the U.S. government now reports that microwave popcorn may contain substances that can cause health ___(32)___.\nResearchers found that commercial popcorn companies often coat their microwave popcorn bags with a ___(33)___ called perfluorooctanoic acid (PFOA) which has been found to cause both cancer and lung disease in laboratory animals. Making matters worse, the artificial butter substitute that generally ___(34)___ with microwavable popcorn contains a common food-flavoring substance. This substance, according to health scientists, is ___(35)___ for some serious lung diseases.\nFor an easy and ___(36)___ alternative, nutritionists suggest that we pop our own popcorn. All that is ___(37)___ is a large, high pot, about four tablespoons of vegetable oil and a small handful of organic popcorn kernels. When the kernels start ___(38)___, shake the pot to let the steam escape and to let the unpopped kernels fall to the bottom. As soon as the popping slows down, ___(39)___ the pot from the stove. Then pour the popcorn into a bowl and season with a small ___(40)___ of real butter or olive oil and natural salt. And the healthy and fun snack is ready to serve.\n(A) chemical　(B) amount　(C) popping　(D) popular　(E) comes　(F) healthy　(G) needed　(H) responsible　(I) remove　(J) problems\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "D",
+      "J",
+      "A",
+      "E",
+      "H",
+      "F",
+      "G",
+      "C",
+      "I",
+      "B"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "explanation": "• 31 (D) popular：這種「受歡迎的」點心現代做法可能藏有不愉快的秘密。\n• 32 (J) problems：微波爆米花可能含有導致健康「問題」的物質。\n• 33 (A) chemical：爆米花袋塗有一種叫 PFOA 的「化學物質」。\n• 34 (E) comes：通常「隨附」微波爆米花的人造奶油，come with…，主詞 that 指 substitute（單數）。\n• 35 (H) responsible：這種物質是某些嚴重肺病的「元兇」，be responsible for…。\n• 36 (F) healthy：作為簡單又「健康」的替代方式，營養師建議自己爆。\n• 37 (G) needed：「所需要的」只是一個高的大鍋、植物油和玉米粒，All that is needed is…。\n• 38 (C) popping：玉米粒開始「爆開」時，start + Ving。\n• 39 (I) remove：爆裂聲變慢時，就把鍋子從爐上「移開」，祈使句用原形動詞。\n• 40 (B) amount：加少「量」真奶油或橄欖油和天然鹽調味。"
+  },
+  {
+    "id": "100-gsat-eng-41",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nThere is a long-held belief that when meeting someone, the more eye contact we have with the person, the better. The result is an unfortunate tendency for people making initial contact—in a job interview, for example—to stare fixedly at the other individual. However, this behavior is likely to make the interviewer feel very uncomfortable. Most of us are comfortable with eye contact lasting a few seconds. But eye contact which persists longer than that can make us nervous.\n\nAnother widely accepted belief is that powerful people in a society—often men—show their dominance over others by touching them in a variety of ways. In fact, research shows that in almost all cases, lower-status people initiate touch. Women also initiate touch more often than men do.\n\nThe belief that rapid speech and lying go together is also widespread and enduring. We react strongly—and suspiciously—to fast talk. However, the opposite is a greater cause for suspicion. Speech that is slow, because it is laced with pauses or errors, is a more reliable indicator of lying than the opposite.\n41. Which of the following statements is true according to the passage?",
+    "options": [
+      "Rapid speech without mistakes is a reliable sign of intelligence.",
+      "Women often play a more dominant role than men in a community.",
+      "Speaking slowly is more often a sign of lying than speaking quickly.",
+      "Touching tends to be initiated first by people of higher social positions."
+    ],
+    "answerIndex": 2,
+    "explanation": "第三段：充滿停頓或錯誤的慢速說話，比快速說話更可能是說謊的指標。\n(D) 研究顯示通常是地位較低的人先觸碰。\n\n故選 (C)"
+  },
+  {
+    "id": "100-gsat-eng-42",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nThere is a long-held belief that when meeting someone, the more eye contact we have with the person, the better. The result is an unfortunate tendency for people making initial contact—in a job interview, for example—to stare fixedly at the other individual. However, this behavior is likely to make the interviewer feel very uncomfortable. Most of us are comfortable with eye contact lasting a few seconds. But eye contact which persists longer than that can make us nervous.\n\nAnother widely accepted belief is that powerful people in a society—often men—show their dominance over others by touching them in a variety of ways. In fact, research shows that in almost all cases, lower-status people initiate touch. Women also initiate touch more often than men do.\n\nThe belief that rapid speech and lying go together is also widespread and enduring. We react strongly—and suspiciously—to fast talk. However, the opposite is a greater cause for suspicion. Speech that is slow, because it is laced with pauses or errors, is a more reliable indicator of lying than the opposite.\n42. What is true about fixing your eyes on a person when you first meet him/her?",
+    "options": [
+      "Fixing your eyes on the person will make him/her feel at ease.",
+      "It is more polite to fix your eyes on him/her as long as you can.",
+      "Most people feel uneasy to have eye contact for over a few seconds.",
+      "It doesn't make a difference whether you fix your eyes on him/her or not."
+    ],
+    "answerIndex": 2,
+    "explanation": "大多數人只習慣持續幾秒的眼神接觸，超過就會緊張。\n\n故選 (C)"
+  },
+  {
+    "id": "100-gsat-eng-43",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nThere is a long-held belief that when meeting someone, the more eye contact we have with the person, the better. The result is an unfortunate tendency for people making initial contact—in a job interview, for example—to stare fixedly at the other individual. However, this behavior is likely to make the interviewer feel very uncomfortable. Most of us are comfortable with eye contact lasting a few seconds. But eye contact which persists longer than that can make us nervous.\n\nAnother widely accepted belief is that powerful people in a society—often men—show their dominance over others by touching them in a variety of ways. In fact, research shows that in almost all cases, lower-status people initiate touch. Women also initiate touch more often than men do.\n\nThe belief that rapid speech and lying go together is also widespread and enduring. We react strongly—and suspiciously—to fast talk. However, the opposite is a greater cause for suspicion. Speech that is slow, because it is laced with pauses or errors, is a more reliable indicator of lying than the opposite.\n43. Which of the following is NOT discussed in the passage?",
+    "options": [
+      "Facial expressions.",
+      "Physical contact.",
+      "Rate of speech.",
+      "Eye contact."
+    ],
+    "answerIndex": 0,
+    "explanation": "文章討論眼神接觸、肢體觸碰與說話速度，沒有談到臉部表情。\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-44",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nThere is a long-held belief that when meeting someone, the more eye contact we have with the person, the better. The result is an unfortunate tendency for people making initial contact—in a job interview, for example—to stare fixedly at the other individual. However, this behavior is likely to make the interviewer feel very uncomfortable. Most of us are comfortable with eye contact lasting a few seconds. But eye contact which persists longer than that can make us nervous.\n\nAnother widely accepted belief is that powerful people in a society—often men—show their dominance over others by touching them in a variety of ways. In fact, research shows that in almost all cases, lower-status people initiate touch. Women also initiate touch more often than men do.\n\nThe belief that rapid speech and lying go together is also widespread and enduring. We react strongly—and suspiciously—to fast talk. However, the opposite is a greater cause for suspicion. Speech that is slow, because it is laced with pauses or errors, is a more reliable indicator of lying than the opposite.\n44. What is the main idea of the passage?",
+    "options": [
+      "People have an instinct for interpreting non-verbal communication.",
+      "We should not judge the intention of a person by his body language.",
+      "A good knowledge of body language is essential for successful communication.",
+      "Common beliefs about verbal and non-verbal communication are not always correct."
+    ],
+    "answerIndex": 3,
+    "explanation": "三段都先提出一個普遍的看法（眼神接觸愈多愈好、有權者先觸碰、說話快代表說謊），再指出研究顯示並非如此。\n\n故選 (D)"
+  },
+  {
+    "id": "100-gsat-eng-45",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nIt is easy for us to tell our friends from our enemies. But can other animals do the same? Elephants can! They can use their sense of vision and smell to tell the difference between people who pose a threat and those who do not.\n\nIn Kenya, researchers found that elephants react differently to clothing worn by men of the Maasai and Kamba ethnic groups. Young Maasai men spear animals and thus pose a threat to elephants; Kamba men are mainly farmers and are not a danger to elephants.\n\nIn an experiment conducted by animal scientists, elephants were first presented with clean clothing or clothing that had been worn for five days by either a Maasai or a Kamba man. When the elephants detected the smell of clothing worn by a Maasai man, they moved away from the smell faster and took longer to relax than when they detected the smells of either clothing worn by Kamba men or clothing that had not been worn at all.\n\nGarment color also plays a role, though in a different way. In the same study, when the elephants saw red clothing not worn before, they reacted angrily, as red is typically worn by Maasai men. Rather than running away as they did with the smell, the elephants acted aggressively toward the red clothing.\n\nThe researchers believe that the elephants' emotional reactions are due to their different interpretations of the smells and the sights. Smelling a potential danger means that a threat is nearby and the best thing to do is run away and hide. Seeing a potential threat without its smell means that risk is low. Therefore, instead of showing fear and running away, the elephants express their anger and become aggressive.\n45. According to the passage, which of the following statements is true about Kamba and Maasai people?",
+    "options": [
+      "Maasai people are a threat to elephants.",
+      "Kamba people raise elephants for farming.",
+      "Both Kamba and Maasai people are elephant hunters.",
+      "Both Kamba and Maasai people traditionally wear red clothing."
+    ],
+    "answerIndex": 0,
+    "explanation": "馬賽族年輕男子會用矛獵殺動物，對大象構成威脅；坎巴族主要務農。紅色是馬賽族典型的衣著顏色。\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-46",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nIt is easy for us to tell our friends from our enemies. But can other animals do the same? Elephants can! They can use their sense of vision and smell to tell the difference between people who pose a threat and those who do not.\n\nIn Kenya, researchers found that elephants react differently to clothing worn by men of the Maasai and Kamba ethnic groups. Young Maasai men spear animals and thus pose a threat to elephants; Kamba men are mainly farmers and are not a danger to elephants.\n\nIn an experiment conducted by animal scientists, elephants were first presented with clean clothing or clothing that had been worn for five days by either a Maasai or a Kamba man. When the elephants detected the smell of clothing worn by a Maasai man, they moved away from the smell faster and took longer to relax than when they detected the smells of either clothing worn by Kamba men or clothing that had not been worn at all.\n\nGarment color also plays a role, though in a different way. In the same study, when the elephants saw red clothing not worn before, they reacted angrily, as red is typically worn by Maasai men. Rather than running away as they did with the smell, the elephants acted aggressively toward the red clothing.\n\nThe researchers believe that the elephants' emotional reactions are due to their different interpretations of the smells and the sights. Smelling a potential danger means that a threat is nearby and the best thing to do is run away and hide. Seeing a potential threat without its smell means that risk is low. Therefore, instead of showing fear and running away, the elephants express their anger and become aggressive.\n46. How did the elephants react to smell in the study?",
+    "options": [
+      "They attacked a man with the smell of new clothing.",
+      "They needed time to relax when smelling something unfamiliar.",
+      "They became anxious when they smelled Kamba-scented clothing.",
+      "They were frightened and ran away when they smelled their enemies."
+    ],
+    "answerIndex": 3,
+    "explanation": "聞到馬賽人穿過的衣服時，大象較快離開，也需要較久才放鬆，表示害怕而逃開。\n\n故選 (D)"
+  },
+  {
+    "id": "100-gsat-eng-47",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nIt is easy for us to tell our friends from our enemies. But can other animals do the same? Elephants can! They can use their sense of vision and smell to tell the difference between people who pose a threat and those who do not.\n\nIn Kenya, researchers found that elephants react differently to clothing worn by men of the Maasai and Kamba ethnic groups. Young Maasai men spear animals and thus pose a threat to elephants; Kamba men are mainly farmers and are not a danger to elephants.\n\nIn an experiment conducted by animal scientists, elephants were first presented with clean clothing or clothing that had been worn for five days by either a Maasai or a Kamba man. When the elephants detected the smell of clothing worn by a Maasai man, they moved away from the smell faster and took longer to relax than when they detected the smells of either clothing worn by Kamba men or clothing that had not been worn at all.\n\nGarment color also plays a role, though in a different way. In the same study, when the elephants saw red clothing not worn before, they reacted angrily, as red is typically worn by Maasai men. Rather than running away as they did with the smell, the elephants acted aggressively toward the red clothing.\n\nThe researchers believe that the elephants' emotional reactions are due to their different interpretations of the smells and the sights. Smelling a potential danger means that a threat is nearby and the best thing to do is run away and hide. Seeing a potential threat without its smell means that risk is low. Therefore, instead of showing fear and running away, the elephants express their anger and become aggressive.\n47. What is the main idea of this passage?",
+    "options": [
+      "Elephants use sight and smell to detect danger.",
+      "Elephants attack people who wear red clothing.",
+      "Scientists are now able to control elephants' emotions.",
+      "Some Kenyan tribes understand elephants' emotions very well."
+    ],
+    "answerIndex": 0,
+    "explanation": "第一段點出主旨：大象能用視覺與嗅覺分辨誰會構成威脅。\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-48",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nIt is easy for us to tell our friends from our enemies. But can other animals do the same? Elephants can! They can use their sense of vision and smell to tell the difference between people who pose a threat and those who do not.\n\nIn Kenya, researchers found that elephants react differently to clothing worn by men of the Maasai and Kamba ethnic groups. Young Maasai men spear animals and thus pose a threat to elephants; Kamba men are mainly farmers and are not a danger to elephants.\n\nIn an experiment conducted by animal scientists, elephants were first presented with clean clothing or clothing that had been worn for five days by either a Maasai or a Kamba man. When the elephants detected the smell of clothing worn by a Maasai man, they moved away from the smell faster and took longer to relax than when they detected the smells of either clothing worn by Kamba men or clothing that had not been worn at all.\n\nGarment color also plays a role, though in a different way. In the same study, when the elephants saw red clothing not worn before, they reacted angrily, as red is typically worn by Maasai men. Rather than running away as they did with the smell, the elephants acted aggressively toward the red clothing.\n\nThe researchers believe that the elephants' emotional reactions are due to their different interpretations of the smells and the sights. Smelling a potential danger means that a threat is nearby and the best thing to do is run away and hide. Seeing a potential threat without its smell means that risk is low. Therefore, instead of showing fear and running away, the elephants express their anger and become aggressive.\n48. What can be inferred about the elephant's behavior from this passage?",
+    "options": [
+      "Elephants learn from their experiences.",
+      "Elephants have sharper sense of smell than sight.",
+      "Elephants are more intelligent than other animals.",
+      "Elephants tend to attack rather than escape when in danger."
+    ],
+    "answerIndex": 0,
+    "explanation": "大象能分辨對牠們有威脅的馬賽族的氣味與衣色，可推知這是從過去經驗學來的。\n(D) 聞到危險時是逃跑。\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-49",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nIt was something she had dreamed of since she was five. Finally, after years of training and intensive workouts, Deborah Duffey was going to compete in her first high school basketball game. The goals of becoming an outstanding player and playing college ball were never far from Deborah's mind.\n\nThe game was against Mills High School. With 1:42 minutes left in the game, Deborah's team led by one point. A player of Mills had possession of the ball, and Deborah ran to guard against her. As Deborah shuffled sideways to block the player, her knee went out and she collapsed on the court in burning pain. Just like that, Deborah's season was over.\n\nAfter suffering the bad injury, Deborah found that, for the first time in her life, she was in a situation beyond her control. Game after game, she could do nothing but sit on the sidelines watching others play the game that she loved so much.\n\nInjuries limited Deborah's time on the court as she hurt her knees three more times in the next five years. She had to spend countless hours in a physical therapy clinic to receive treatment. Her frequent visits there gave her a passion and respect for the profession. And Deborah began to see a new light in her life.\n\nCurrently a senior in college, Deborah focuses on pursuing a degree in physical therapy. After she graduates, Deborah plans to use her knowledge to educate people how to best take care of their bodies and cope with the feelings of hopelessness that she remembers so well.\n49. What is the best title for this passage?",
+    "options": [
+      "A Painful Mistake",
+      "A Great Adventure",
+      "A Lifelong Punishment",
+      "A New Direction in Life"
+    ],
+    "answerIndex": 3,
+    "explanation": "Deborah 因膝傷無法繼續打球，卻在物理治療中找到熱情，轉而攻讀物理治療，是人生的新方向。\n\n故選 (D)"
+  },
+  {
+    "id": "100-gsat-eng-50",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nIt was something she had dreamed of since she was five. Finally, after years of training and intensive workouts, Deborah Duffey was going to compete in her first high school basketball game. The goals of becoming an outstanding player and playing college ball were never far from Deborah's mind.\n\nThe game was against Mills High School. With 1:42 minutes left in the game, Deborah's team led by one point. A player of Mills had possession of the ball, and Deborah ran to guard against her. As Deborah shuffled sideways to block the player, her knee went out and she collapsed on the court in burning pain. Just like that, Deborah's season was over.\n\nAfter suffering the bad injury, Deborah found that, for the first time in her life, she was in a situation beyond her control. Game after game, she could do nothing but sit on the sidelines watching others play the game that she loved so much.\n\nInjuries limited Deborah's time on the court as she hurt her knees three more times in the next five years. She had to spend countless hours in a physical therapy clinic to receive treatment. Her frequent visits there gave her a passion and respect for the profession. And Deborah began to see a new light in her life.\n\nCurrently a senior in college, Deborah focuses on pursuing a degree in physical therapy. After she graduates, Deborah plans to use her knowledge to educate people how to best take care of their bodies and cope with the feelings of hopelessness that she remembers so well.\n50. How did Deborah feel when she first hurt her knee?",
+    "options": [
+      "Excited.",
+      "Confused.",
+      "Ashamed.",
+      "Disappointed."
+    ],
+    "answerIndex": 3,
+    "explanation": "她從小夢想的首場比賽中受傷，整季報銷，只能在場邊看別人打她熱愛的球，感到失望。\n\n故選 (D)"
+  },
+  {
+    "id": "100-gsat-eng-51",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nIt was something she had dreamed of since she was five. Finally, after years of training and intensive workouts, Deborah Duffey was going to compete in her first high school basketball game. The goals of becoming an outstanding player and playing college ball were never far from Deborah's mind.\n\nThe game was against Mills High School. With 1:42 minutes left in the game, Deborah's team led by one point. A player of Mills had possession of the ball, and Deborah ran to guard against her. As Deborah shuffled sideways to block the player, her knee went out and she collapsed on the court in burning pain. Just like that, Deborah's season was over.\n\nAfter suffering the bad injury, Deborah found that, for the first time in her life, she was in a situation beyond her control. Game after game, she could do nothing but sit on the sidelines watching others play the game that she loved so much.\n\nInjuries limited Deborah's time on the court as she hurt her knees three more times in the next five years. She had to spend countless hours in a physical therapy clinic to receive treatment. Her frequent visits there gave her a passion and respect for the profession. And Deborah began to see a new light in her life.\n\nCurrently a senior in college, Deborah focuses on pursuing a degree in physical therapy. After she graduates, Deborah plans to use her knowledge to educate people how to best take care of their bodies and cope with the feelings of hopelessness that she remembers so well.\n51. What is true about Deborah Duffey?",
+    "options": [
+      "She didn't play on the court after the initial injury.",
+      "She injured her knee when she was trying to block her opponent.",
+      "She knew that she couldn't be a basketball player when she was a child.",
+      "She refused to seek professional assistance to help her recover from her injuries."
+    ],
+    "answerIndex": 1,
+    "explanation": "她側移防守對手時膝蓋脫臼倒地。\n(A) 之後又受傷三次，表示仍有上場；(D) 她花很多時間做物理治療。\n\n故選 (B)"
+  },
+  {
+    "id": "100-gsat-eng-52",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nIt was something she had dreamed of since she was five. Finally, after years of training and intensive workouts, Deborah Duffey was going to compete in her first high school basketball game. The goals of becoming an outstanding player and playing college ball were never far from Deborah's mind.\n\nThe game was against Mills High School. With 1:42 minutes left in the game, Deborah's team led by one point. A player of Mills had possession of the ball, and Deborah ran to guard against her. As Deborah shuffled sideways to block the player, her knee went out and she collapsed on the court in burning pain. Just like that, Deborah's season was over.\n\nAfter suffering the bad injury, Deborah found that, for the first time in her life, she was in a situation beyond her control. Game after game, she could do nothing but sit on the sidelines watching others play the game that she loved so much.\n\nInjuries limited Deborah's time on the court as she hurt her knees three more times in the next five years. She had to spend countless hours in a physical therapy clinic to receive treatment. Her frequent visits there gave her a passion and respect for the profession. And Deborah began to see a new light in her life.\n\nCurrently a senior in college, Deborah focuses on pursuing a degree in physical therapy. After she graduates, Deborah plans to use her knowledge to educate people how to best take care of their bodies and cope with the feelings of hopelessness that she remembers so well.\n52. What was the new light that Deborah saw in her life?",
+    "options": [
+      "To help people take care of their bodies.",
+      "To become a teacher of Physical Education.",
+      "To become an outstanding basketball player.",
+      "To receive treatment in a physical therapy office."
+    ],
+    "answerIndex": 0,
+    "explanation": "她攻讀物理治療，畢業後打算教人如何照顧身體、面對絕望的感受。\n\n故選 (A)"
+  },
+  {
+    "id": "100-gsat-eng-53",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nRedwood trees are the tallest plants on the earth, reaching heights of up to 100 meters. They are also known for their longevity, typically 500 to 1000 years, but sometimes more than 2000 years. A hundred million years ago, in the age of dinosaurs, redwoods were common in the forests of a much more moist and tropical North America. As the climate became drier and colder, they retreated to a narrow strip along the Pacific coast of Northern California.\n\nThe trunk of redwood trees is very stout and usually forms a single straight column. It is covered with a beautiful soft, spongy bark. This bark can be pretty thick, well over two feet in the more mature trees. It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness. This fire resistant quality explains why the giant redwood grows to live that long. While most other types of trees are destroyed by forest fires, the giant redwood actually prospers because of them. Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.\n\nNew trees are often produced from sprouts, little baby trees, which form at the base of the trunk. These sprouts grow slowly, nourished by the root system of the \"mother\" tree. When the main tree dies, the sprouts are then free to grow as full trees, forming a \"fairy ring\" of trees around the initial tree. These trees, in turn, may give rise to more sprouts, and the cycle continues.\n53. Why were redwood trees more prominent in the forests of North America millions of years ago?",
+    "options": [
+      "The trees were taller and stronger.",
+      "The soil was softer for seeds to sprout.",
+      "The climate was warmer and more humid.",
+      "The temperature was lower along the Pacific coast."
+    ],
+    "answerIndex": 2,
+    "explanation": "一億年前的北美洲潮濕、熱帶，紅杉很常見；氣候變乾冷後才退縮到加州沿岸。\n\n故選 (C)"
+  },
+  {
+    "id": "100-gsat-eng-54",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nRedwood trees are the tallest plants on the earth, reaching heights of up to 100 meters. They are also known for their longevity, typically 500 to 1000 years, but sometimes more than 2000 years. A hundred million years ago, in the age of dinosaurs, redwoods were common in the forests of a much more moist and tropical North America. As the climate became drier and colder, they retreated to a narrow strip along the Pacific coast of Northern California.\n\nThe trunk of redwood trees is very stout and usually forms a single straight column. It is covered with a beautiful soft, spongy bark. This bark can be pretty thick, well over two feet in the more mature trees. It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness. This fire resistant quality explains why the giant redwood grows to live that long. While most other types of trees are destroyed by forest fires, the giant redwood actually prospers because of them. Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.\n\nNew trees are often produced from sprouts, little baby trees, which form at the base of the trunk. These sprouts grow slowly, nourished by the root system of the \"mother\" tree. When the main tree dies, the sprouts are then free to grow as full trees, forming a \"fairy ring\" of trees around the initial tree. These trees, in turn, may give rise to more sprouts, and the cycle continues.\n54. What does a \"fairy ring\" in the last paragraph refer to?",
+    "options": [
+      "Circled tree trunks.",
+      "Connected root systems.",
+      "Insect holes around an old tree.",
+      "Young trees surrounding a mature tree."
+    ],
+    "answerIndex": 3,
+    "explanation": "母樹死後，基部的新芽長成大樹，在原本的樹周圍形成一圈，稱為「仙女環」。\n\n故選 (D)"
+  },
+  {
+    "id": "100-gsat-eng-55",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nRedwood trees are the tallest plants on the earth, reaching heights of up to 100 meters. They are also known for their longevity, typically 500 to 1000 years, but sometimes more than 2000 years. A hundred million years ago, in the age of dinosaurs, redwoods were common in the forests of a much more moist and tropical North America. As the climate became drier and colder, they retreated to a narrow strip along the Pacific coast of Northern California.\n\nThe trunk of redwood trees is very stout and usually forms a single straight column. It is covered with a beautiful soft, spongy bark. This bark can be pretty thick, well over two feet in the more mature trees. It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness. This fire resistant quality explains why the giant redwood grows to live that long. While most other types of trees are destroyed by forest fires, the giant redwood actually prospers because of them. Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.\n\nNew trees are often produced from sprouts, little baby trees, which form at the base of the trunk. These sprouts grow slowly, nourished by the root system of the \"mother\" tree. When the main tree dies, the sprouts are then free to grow as full trees, forming a \"fairy ring\" of trees around the initial tree. These trees, in turn, may give rise to more sprouts, and the cycle continues.\n55. Which of the following is a function of the tree bark as mentioned in the passage?",
+    "options": [
+      "It allows redwood trees to bear seeds.",
+      "It prevents redwood trees from attack by insects.",
+      "It helps redwood trees absorb moisture in the air.",
+      "It makes redwood trees more beautiful and appealing."
+    ],
+    "answerIndex": 1,
+    "explanation": "厚樹皮為老樹提供某種防蟲保護，主要好處則是抵擋中度森林火災。\n\n故選 (B)"
+  },
+  {
+    "id": "100-gsat-eng-56",
+    "examType": "學測",
+    "year": 100,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nRedwood trees are the tallest plants on the earth, reaching heights of up to 100 meters. They are also known for their longevity, typically 500 to 1000 years, but sometimes more than 2000 years. A hundred million years ago, in the age of dinosaurs, redwoods were common in the forests of a much more moist and tropical North America. As the climate became drier and colder, they retreated to a narrow strip along the Pacific coast of Northern California.\n\nThe trunk of redwood trees is very stout and usually forms a single straight column. It is covered with a beautiful soft, spongy bark. This bark can be pretty thick, well over two feet in the more mature trees. It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness. This fire resistant quality explains why the giant redwood grows to live that long. While most other types of trees are destroyed by forest fires, the giant redwood actually prospers because of them. Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.\n\nNew trees are often produced from sprouts, little baby trees, which form at the base of the trunk. These sprouts grow slowly, nourished by the root system of the \"mother\" tree. When the main tree dies, the sprouts are then free to grow as full trees, forming a \"fairy ring\" of trees around the initial tree. These trees, in turn, may give rise to more sprouts, and the cycle continues.\n56. Why do redwood trees grow to live that long according to the passage?",
+    "options": [
+      "They have heavy and straight tree trunks.",
+      "They are properly watered and nourished.",
+      "They are more resistant to fire damage than other trees.",
+      "They produce many young trees to sustain their life cycle."
+    ],
+    "answerIndex": 2,
+    "explanation": "這種耐火特性解釋了紅杉為何能活那麼久；大多數樹被森林火災摧毀，紅杉反而因火災而興盛。\n\n故選 (C)"
   }
 ]
