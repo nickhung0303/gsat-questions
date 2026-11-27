@@ -28874,5 +28874,496 @@
       "v0"
     ],
     "explanation": "電子作半徑 $r = \\dfrac{mv_0}{eB}$ 的圓周運動，偏向一側極板。剛好擦過極板末端時，水平走 $L$、橫向偏移 $\\dfrac{d}{2}$：\n$r^2 = L^2 + \\left(r - \\dfrac{d}{2}\\right)^2 \\Rightarrow rd = L^2 + \\dfrac{d^2}{4} \\Rightarrow r = \\dfrac{L^2}{d} + \\dfrac{d}{4}$\n要逸出，$r$ 需更大：$v_0 > \\dfrac{eB}{m}\\left(\\dfrac{L^2}{d} + \\dfrac{d}{4}\\right)$。"
+  },
+  {
+    "id": "93-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "首先精確決定電子電荷大小的是下列中的哪一個實驗？",
+    "options": [
+      "夫然克-赫茲實驗",
+      "湯木生荷質比實驗",
+      "密立坎油滴實驗",
+      "拉塞福實驗",
+      "密立坎光電效應實驗"
+    ],
+    "answerIndex": 2,
+    "explanation": "【近代物理實驗】\n密立坎油滴實驗量測帶電油滴的電量，發現都是某一最小值的整數倍，首先精確測得基本電荷 $e$。\n湯木生測的是荷質比 $\\dfrac{e}{m}$；夫然克-赫茲實驗證明原子能階；拉塞福實驗發現原子核；密立坎的光電效應實驗則驗證了光電方程式並求出卜朗克常數。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "在一粒小石自空中由靜止自由落向地面的過程中，若不計空氣阻力，則每隔 0.1 秒，下列哪個物理量的變化量均維持不變？",
+    "options": [
+      "位移",
+      "速度",
+      "動能",
+      "位能",
+      "重力對石頭所做的功"
+    ],
+    "answerIndex": 1,
+    "acceptedAnswerIndices": [
+      [
+        0
+      ],
+      [
+        4
+      ]
+    ],
+    "explanation": "【等加速度運動】\n• (B) 速度每 0.1 秒改變 $g\\Delta t = 0.98\\text{ m/s}$，固定不變。\n• 動能、位能的變化量與該段位移成正比，而每 0.1 秒的位移愈來愈大，不固定。\n本題題意（「變化量」指的是哪一個量的差）可有不同解讀：若比較的是「相鄰兩個 0.1 秒內的位移差」或「相鄰兩段重力作功的差」，在等加速度運動中也都是定值（$g(\\Delta t)^2$ 與 $mg\\cdot g(\\Delta t)^2$），所以大考中心公告 A、B、E 皆給分。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "某生利用如圖 1 所示的電路測量一個待測電阻 R 的 I-V 曲線。試問電路中，X，Y，及 Z 各為何種器材？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-03.png\" alt=\"圖1 X 跨接於 R 與 Y 串聯支路兩端，Z 與電池串聯\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "X：電阻箱；Y：伏特計；Z：安培計",
+      "X：伏特計；Y：安培計；Z：電阻箱",
+      "X：安培計；Y：電阻箱；Z：伏特計",
+      "X：伏特計；Y：電阻箱；Z：安培計",
+      "X：安培計；Y：伏特計；Z：電阻箱"
+    ],
+    "answerIndex": 1,
+    "explanation": "【量測電路】\n• Y 與 R 串聯：量通過 R 的電流，為安培計。\n• X 與「R + Y」並聯：量 R 兩端的電壓（安培計內電阻很小），為伏特計。\n• Z 與電池串聯：用來改變電路電流以取得多組數據，為電阻箱。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "時間 $t = 0$ 秒時，在一條拉緊的長繩上有二個不等高的脈衝波分別向左及向右行進，如圖 2 所示。已知繩波的波速為 $10\\text{ m/s}$，則在 $t = 0.9$ 秒時，繩波的形狀為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-04.png\" alt=\"圖2 t = 0 時向右的矮脈衝（峰在 -8 m）與向左的高脈衝（峰在 +8 m），以及選項 (A)~(E) 的波形\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 3,
+    "explanation": "【脈衝波的疊加】\n0.9 秒內每個脈衝移動 $10\\times0.9 = 9\\text{ m}$。\n• 向右的矮脈衝：峰由 $-8$ 移到 $+1$ m，占 $-1$～$3$ m。\n• 向左的高脈衝：峰由 $+8$ 移到 $-1$ m，占 $-3$～$1$ m。\n兩者在 $-1$～$1$ m 重疊，位移相加。左側由高脈衝主導、峰較高（在 $-1$ m 附近），右側接著矮脈衝的斜坡下降，形狀為「左高右低、中間相連」的圖 (D)。\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "點電荷 $Q$、$Q$ 及 $Q'$（$Q$ 與 $Q'$ 均為正）分別位在一個正三角形的三個頂點上，如圖 3 所示。若正三角形中心處的電場為零，則 $Q'$ 與 $Q$ 間的關係為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-05.png\" alt=\"圖3 正三角形底邊兩頂點為 Q、頂端為 Q′\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$Q' = \\sqrt2 Q$",
+      "$Q' = Q$",
+      "$Q' = \\sqrt{\\dfrac32}Q$",
+      "$Q' = \\sqrt3 Q$",
+      "$Q' = 2Q$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【電場疊加】\n中心到三頂點距離相等，設為 $r$。底邊兩個 $Q$ 在中心的電場大小各 $\\dfrac{kQ}{r^2}$，方向分別背離各自的電荷，互成 $120^\\circ$，合成為 $\\dfrac{kQ}{r^2}$、方向鉛直向上。\n$Q'$ 在中心的電場向下，大小 $\\dfrac{kQ'}{r^2}$。合電場為零：$Q' = Q$。（三個等量電荷在正三角形中心的電場本來就互相抵消。）\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "絕對溫度為 $T$ 的某理想氣體密封於一個立方盒內，如圖 4 所示。依氣體動力論，下列數學式中何者<u>錯誤</u>？（註：$v_x$ 代表分子速度 $\\vec v$ 在 $x$ 軸方向之分量，分子速率 $v = |\\vec v|$，分子的方均根速率以 $v_{rms}$ 表示，$\\langle v_x\\rangle$ 代表所有分子 $v_x$ 的平均值，餘類推。$k_B$ 為波茲曼常數，$m$ 為分子質量。）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-06.png\" alt=\"圖4 立方盒與 xyz 坐標\" style=\"width:100%;max-width:140px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\langle v_x\\rangle = 0$",
+      "$\\langle v\\rangle \\ne 0$",
+      "$\\langle v_x^2\\rangle = \\dfrac13\\langle v^2\\rangle$",
+      "$v_{rms}^2 = \\langle v^2\\rangle$",
+      "$v_{rms} = \\sqrt{\\dfrac{3k_BT}{2m}}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【氣體動力論】\n• (A) 分子往 $\\pm x$ 的機會相等，速度分量平均為零。\n• (B) 速率恆為正，平均不為零。\n• (C) 三個方向對稱，$\\langle v_x^2\\rangle = \\langle v_y^2\\rangle = \\langle v_z^2\\rangle = \\dfrac13\\langle v^2\\rangle$。\n• (D) 方均根速率的定義。\n• (E) 錯誤：$\\dfrac12m\\langle v^2\\rangle = \\dfrac32k_BT \\Rightarrow v_{rms} = \\sqrt{\\dfrac{3k_BT}{m}}$，沒有分母的 2。\n\n故選 (E)"
+  },
+  {
+    "id": "93-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "某人手握一個空玻璃杯，將杯口朝下，垂直按入水面下，如圖 5 所示。已知杯內水面與容器水面間的高度差為 10.0 cm，玻璃杯的截面積為 $30.0\\text{ cm}^2$、重量為 180 gw（克重）。若不計杯內的空氣重量，則此人在垂直方向需施力若干，才能維持玻璃杯的平衡？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-07.png\" alt=\"圖5 倒扣按入水中的玻璃杯，杯內水面比外面低 10 cm\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "120 gw",
+      "180 gw",
+      "260 gw",
+      "300 gw",
+      "480 gw"
+    ],
+    "answerIndex": 0,
+    "explanation": "【壓力差產生的浮力】\n杯內空氣壓力 $= P_0 + \\rho gh$（$h = 10.0$ cm）。杯底（朝上）內側受空氣向上推 $(P_0 + \\rho gh)A$，外側受大氣向下壓 $P_0A$，淨向上力：\n$\\rho ghA = 1\\text{ g/cm}^3\\times10.0\\text{ cm}\\times30.0\\text{ cm}^2 = 300\\text{ gw}$\n向上 300 gw 大於杯重 180 gw，人需向下施力 $300 - 180 = 120\\text{ gw}$。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "帶電 $q$ 的粒子垂直射入量值為 $B$ 的均勻磁場中，留下如圖 6 所示的軌跡。在粒子質量與運動速率皆未知的情況下，在下列有關該粒子的物理量中，何者可以確定？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-08.png\" alt=\"圖6 入紙面磁場中的半圓軌跡，有公分刻度\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "動能",
+      "質量",
+      "運動速率",
+      "動量的量值",
+      "電荷與質量的比值"
+    ],
+    "answerIndex": 3,
+    "explanation": "【帶電粒子圓周運動】\n$qvB = \\dfrac{mv^2}{r} \\Rightarrow mv = qBr$。由圖可讀出半徑 $r$，$q$、$B$ 已知，所以動量的量值 $p = qBr$ 可確定。\n動能 $\\dfrac{p^2}{2m}$、速率 $\\dfrac{p}{m}$、荷質比 $\\dfrac{v}{Br}$ 都需要知道 $m$ 或 $v$ 才能求出。\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "已知氫原子的電子從量子數 n=2 能階躍遷至 n=1 能階時，發射波長為 121.5 nm 的電磁波；從 n=4 能階躍遷至 n=1 能階時，發射波長為 97.2 nm 的電磁波。試問電子從 n=4 能階躍遷至 n=2 能階時，所發射電磁波的波長為何？",
+    "options": [
+      "112.0 nm",
+      "153.4 nm",
+      "272.8 nm",
+      "367.9 nm",
+      "486.0 nm"
+    ],
+    "answerIndex": 4,
+    "explanation": "【能階差】\n$E_{4\\to2} = E_{4\\to1} - E_{2\\to1}$，而 $E = \\dfrac{hc}{\\lambda}$：\n$\\dfrac{1}{\\lambda} = \\dfrac{1}{97.2} - \\dfrac{1}{121.5} = \\dfrac{121.5 - 97.2}{97.2\\times121.5}$\n$\\lambda = \\dfrac{97.2\\times121.5}{24.3} = 486.0\\text{ nm}$（巴耳末系的藍綠光）\n\n故選 (E)"
+  },
+  {
+    "id": "93-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "小軒要在客廳裏掛上一幅 1 公斤重的畫（含畫框），畫框的背面有兩個相距 1 公尺、位置固定的釘子。他將畫對稱的掛在牆壁的掛鉤上，掛繩最大可以承受 1 公斤重的張力，掛好後整條細繩呈緊繃的狀態（見圖 7）。假設細繩可以承受的最大張力與繩長無關，則細繩最少需要幾公尺才不至於斷掉？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-10.png\" alt=\"圖7 畫框背面相距 1 m 的兩釘子，以細繩對稱掛在掛鉤上\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{2}{\\sqrt3}$",
+      "3/2",
+      "2",
+      "5/2",
+      "$2\\sqrt3$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【力的平衡】\n設繩與水平的夾角 $\\alpha$，兩段繩張力 $T$：$2T\\sin\\alpha = 1\\text{ kgw}$，$T \\le 1\\text{ kgw}$ 需 $\\sin\\alpha \\ge \\dfrac12$，$\\alpha \\ge 30^\\circ$。\n繩長 $L$，每段長 $\\dfrac{L}{2}$，水平半距 0.5 m：$\\cos\\alpha = \\dfrac{0.5}{L/2} = \\dfrac1L \\le \\cos30^\\circ = \\dfrac{\\sqrt3}{2}$\n$L \\ge \\dfrac{2}{\\sqrt3}\\text{ m}$\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "下列器材中，哪些的工作原理和電磁感應現象<u>無關</u>？",
+    "options": [
+      "電鍋",
+      "電磁爐",
+      "變壓器",
+      "安培計",
+      "交流發電機"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "【電磁感應的應用】\n• 電鍋：電流通過電熱線產生焦耳熱，無關。\n• 安培計：載流線圈在磁場中受力矩而偏轉（電流的磁效應），無關。\n• 電磁爐：變化磁場在鍋底感應出渦電流發熱，有關。\n• 變壓器：原線圈電流變化使副線圈產生感應電動勢，有關。\n• 交流發電機：線圈在磁場中轉動產生感應電動勢，有關。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "93-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 8 所示，當人造衛星（S）環繞地球（E）做半徑為 $r$（從地球中心算起）的圓軌道運動時，下列有關該衛星物理量的量值，哪些隨半徑 $r$ 的增加而增加（衛星的質量固定）？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-12.png\" alt=\"圖8 衛星 S 繞地球 E 作半徑 r 的圓周運動\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圓周運動速率",
+      "圓周運動的角速率",
+      "圓周運動的週期",
+      "相對於地球中心點的角動量",
+      "動能"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【圓軌道的比例關係】\n$v = \\sqrt{\\dfrac{GM}{r}} \\propto r^{-1/2}$（減少）；$\\omega = \\dfrac{v}{r} \\propto r^{-3/2}$（減少）；$T \\propto r^{3/2}$（增加）；\n角動量 $L = mvr = m\\sqrt{GMr} \\propto r^{1/2}$（增加）；動能 $\\dfrac12mv^2 \\propto \\dfrac1r$（減少）。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "93-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "透明薄平板玻璃所組成的魚缸中，悠游著一條小魚，如圖 9 所示。在某時刻，某人沿圖中的 CD 直線觀看小魚，小魚的軀幹平行於 CD 直線。下列敘述中哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-13.png\" alt=\"圖9 魚缸中的魚沿 CD 線，人在 C 側沿 CD 方向觀看\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "人所看到，魚的影像為實像。",
+      "人所看到，魚的位置和實際位置相同。",
+      "人所看到，魚的長度等於實際的長度。",
+      "當魚以速率 v，沿 CD 直線游離此人時，人所觀測到的速率小於 v。",
+      "當魚與人的位置固定時，魚缸的玻璃厚度若較大，則人所看到魚的影像比薄玻璃時更為接近。"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "【平面折射的視深】\n沿法線方向看，像在原位置的 $\\dfrac{1}{n}$ 深度處（視深 = 實深 / $n$）。\n• (A)(B) 錯誤：看到的是折射造成的虛像，比實際位置靠近。\n• (C) 錯誤：魚沿視線方向的長度也被壓縮成約 $\\dfrac{1}{n}$ 倍，看起來較短。\n• (D) 正確：視位置 $= \\dfrac{\\text{實際距離}}{n}$，視速率 $= \\dfrac{v}{n} < v$。\n• (E) 正確：玻璃折射率大於水，同樣厚度造成的像位移更多；玻璃愈厚，像愈往觀察者方向移近。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "93-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "在「楊氏雙狹縫干涉實驗」中，設兩個長條形狹縫間的距離為 $d$，狹縫至屏幕 S 間的距離為 $D$，波長為 $\\lambda$ 的單色平行光垂直入射於狹縫，如圖 10 所示。若兩條狹縫所發出的光在到達屏幕上 P 點所產生的路程差以 $\\Delta r$ 表示，則下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-14.png\" alt=\"圖10 雙狹縫間距 d、到屏幕距離 D，P 點在中央線上方 y 處\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "每一條狹縫可以視為波長為 $\\lambda$ 的線光源",
+      "兩條狹縫所發出的光，可視為不相干的。",
+      "$\\Delta r$ 的正確值為 $\\sqrt{D^2 + \\left(y + \\dfrac{d}{2}\\right)^2} - \\sqrt{D^2 + \\left(y - \\dfrac{d}{2}\\right)^2}$",
+      "若 $D \\gg d$ 及 $y$，則 $\\Delta r$ 可近似表示為 $\\Delta r = \\dfrac{yD}{d}$",
+      "當 $\\Delta r = \\dfrac52\\lambda$ 時，在 P 點發生破壞性（相消性）干涉。"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【雙狹縫干涉】\n• (A) 正確：依惠更斯原理，每條狹縫是同波長的線光源。\n• (B) 錯誤：兩狹縫的光來自同一波前，是同調（相干）的。\n• (C) 正確：兩狹縫到 P 的距離分別為 $\\sqrt{D^2 + (y \\pm d/2)^2}$，相減即路程差。\n• (D) 錯誤：近似值為 $\\Delta r \\approx \\dfrac{yd}{D}$。\n• (E) 正確：路程差為半波長的奇數倍時相消。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "93-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "一條張緊的弦線，長度為 $\\ell$，兩端點固定，如圖 11 所示。令弦波的波速為 $v$，則下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-15.png\" alt=\"圖11 長 ℓ、兩端固定的弦\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "弦線的密度越大，則 $v$ 越大。",
+      "張力越大，則 $v$ 越大。",
+      "弦線以基頻振動時的頻率為 $\\dfrac{v}{\\ell}$。",
+      "弦線以基頻振動時，以弦線中點的振幅為最大。",
+      "當弦線以基頻 $f_1$ 振動時，弦上各點作相同頻率的簡諧振動，且弦線的總動能正比於 $f_1$ 的一次方。"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "【弦上駐波】\n• $v = \\sqrt{\\dfrac{T}{\\mu}}$：張力大波速大，(B) 正確；線密度大波速小，(A) 錯。\n• 基頻 $\\ell = \\dfrac{\\lambda}{2}$，$f_1 = \\dfrac{v}{2\\ell}$，(C) 錯。\n• (D) 正確：基頻時兩端為節點、中點為腹點，振幅最大。\n• (E) 錯誤：各點作簡諧振動，速度 $\\propto Af$，動能 $\\propto f^2$（且隨時間變化），不是正比於 $f_1$。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "93-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "在「電流的磁效應實驗」中，利用磁針的偏轉角度，測量長直導線上的電流所產生的磁場。令電流以符號 $I$ 表示；磁針與導線的垂直距離以符號 $r$ 表示；磁針的偏轉角度以符號 $\\varphi$ 表示（$I = 0$ 時，取為 $\\varphi = 0$）。下列敘述哪些正確？",
+    "options": [
+      "$I = 0$ 時，在水平桌面上的磁針北極大約指向地理北極。",
+      "電流磁場最好垂直於地磁的水平分量，以方便電流磁場的測量。",
+      "磁針北極所指的方向即為電流磁場的方向",
+      "當 $r$ 一定時，$\\tan\\varphi$ 正比於 $I$。",
+      "當 $I$ 一定時，$\\cos\\varphi$ 反比於 $r$。"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "acceptedAnswerIndices": [
+      [
+        1,
+        3
+      ]
+    ],
+    "explanation": "【電流磁效應實驗】\n• (A) 正確：沒有電流時磁針沿地磁水平分量，大致指向地理北方（與地磁北極有些偏差，因此大考中心公告 ABD 或 BD 皆給分）。\n• (B) 正確：電流磁場與地磁水平分量垂直時，$\\tan\\varphi = \\dfrac{B_I}{B_E}$，最容易計算。\n• (C) 錯誤：磁針指向的是地磁與電流磁場的合磁場方向。\n• (D) 正確：$\\tan\\varphi = \\dfrac{B_I}{B_E} = \\dfrac{\\mu_0 I}{2\\pi rB_E} \\propto I$。\n• (E) 錯誤：$I$ 一定時，$\\tan\\varphi$ 與 $r$ 成反比，不是 $\\cos\\varphi$。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "93-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "下列關於半導體性質的敘述中，哪些是正確的？",
+    "options": [
+      "純矽晶中，自由電子為電流載子，但電洞不是。",
+      "純矽晶中若摻入磷的雜質，則成為 p 型半導體。",
+      "p 型矽晶中，電洞為主要的（或多數的）電流載子，自由電子為次要的（或少數的）電流載子。",
+      "p 型矽晶中有電流流通時，電洞和自由電子流動所形成的電流，兩者異向。",
+      "二極體有整流的功能，乃因晶體內有一內建電場之故。"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【半導體】\n• (A) 錯誤：純矽中電子與電洞成對產生，兩者都是載子。\n• (B) 錯誤：摻入五價的磷，多出電子，成為 n 型。\n• (C) 正確：p 型以電洞為多數載子。\n• (D) 錯誤：電洞與電子移動方向相反，但電荷正負相反，所形成的電流方向相同。\n• (E) 正確：p-n 接面處有空乏區與內建電場，使電流只容易單向通過。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "93-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "火星表面上的重力加速度比地球表面上為小。下列有關在地球和火星表面上各種物理現象的敘述，哪些正確？",
+    "options": [
+      "繩長相同的單擺做小幅度擺動的週期相同",
+      "同一個質量-彈簧系統垂直懸掛，作簡諧振動的週期相同。",
+      "同一個物體完全沒入水中所受的浮力相同",
+      "同一個物體所受的大氣浮力相同",
+      "氫原子的游離能相同"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【與重力加速度有關嗎？】\n• (A) 單擺 $T = 2\\pi\\sqrt{\\dfrac{\\ell}{g}}$，與 $g$ 有關，不同。\n• (B) 彈簧振子 $T = 2\\pi\\sqrt{\\dfrac{m}{k}}$，與 $g$ 無關（$g$ 只改變平衡位置），相同。\n• (C) 浮力 $\\rho Vg$，$g$ 不同則不同。\n• (D) 大氣浮力 $\\rho_{\\text{空氣}}Vg$，兩行星的大氣密度與 $g$ 都不同。\n• (E) 游離能由原子本身的電磁作用決定，與所在星球無關，相同。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "93-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題一】質量 $M$ 的木塊在水平地面上以初速度 $v_0$ 滑出。已知木塊與地面間的動摩擦係數為 $\\mu_k$，回答下列各問題。\n\n1. 若木塊滑行一段距離 $S_1$ 後，速度變成 $\\dfrac{v_0}{2}$，求 $S_1$。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-non-1.png\" alt=\"圖12 木塊滑行 S1 後速度變為 v0/2，此時質量 m 的物體從正上方落下\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$S_1 = \\dfrac{3v_0^2}{8\\mu_k g}$"
+    ],
+    "blankLabels": [
+      "S1"
+    ],
+    "explanation": "減速度 $a = \\mu_k g$：$\\left(\\dfrac{v_0}{2}\\right)^2 = v_0^2 - 2\\mu_k gS_1 \\Rightarrow S_1 = \\dfrac{3v_0^2}{8\\mu_k g}$"
+  },
+  {
+    "id": "93-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題一】質量 $M$ 的木塊在水平地面上以初速度 $v_0$ 滑出。已知木塊與地面間的動摩擦係數為 $\\mu_k$，回答下列各問題。\n\n2. 試問木塊滑行多少時間（以符號 $t_1$ 表示）後，速度由 $v_0$ 變成 $\\dfrac{v_0}{2}$？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-non-1.png\" alt=\"圖12 木塊滑行 S1 後速度變為 v0/2，此時質量 m 的物體從正上方落下\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$t_1 = \\dfrac{v_0}{2\\mu_k g}$"
+    ],
+    "blankLabels": [
+      "t1"
+    ],
+    "explanation": "$\\dfrac{v_0}{2} = v_0 - \\mu_k gt_1 \\Rightarrow t_1 = \\dfrac{v_0}{2\\mu_k g}$"
+  },
+  {
+    "id": "93-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題一】質量 $M$ 的木塊在水平地面上以初速度 $v_0$ 滑出。已知木塊與地面間的動摩擦係數為 $\\mu_k$，回答下列各問題。\n\n3. 當木塊的速度變成 $\\dfrac{v_0}{2}$ 的瞬間，有一質量為 $m$ 的物體從木塊的正上方以接近零的速度落下，如圖 12 所示，並和木塊黏在一起。試問這兩個物體可繼續滑行多遠（以符號 $S_2$ 表示）後才停住？（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-non-1.png\" alt=\"圖12 木塊滑行 S1 後速度變為 v0/2，此時質量 m 的物體從正上方落下\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$S_2 = \\dfrac{M^2v_0^2}{8\\mu_k g(M + m)^2}$"
+    ],
+    "blankLabels": [
+      "S2"
+    ],
+    "explanation": "物體以接近零的水平速度落下黏住，碰撞瞬間水平動量守恆：$M\\dfrac{v_0}{2} = (M + m)v' \\Rightarrow v' = \\dfrac{Mv_0}{2(M + m)}$\n之後整體減速度仍為 $\\mu_k g$（正向力與質量同比例增加）：\n$S_2 = \\dfrac{v'^2}{2\\mu_k g} = \\dfrac{M^2v_0^2}{8\\mu_k g(M + m)^2}$"
+  },
+  {
+    "id": "93-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題二】一金屬細桿可在一ㄈ字型、電阻可不計的光滑金屬軌道（寬度為 $\\ell$）上自由滑動。已知細桿的質量為 $m$、電阻為 $R$。外加均勻磁場垂直於軌道面（進入紙面），如圖 13 所示。已知此磁場在時間 $t = 0$ 時的強度為 $B_0$，且此磁場隨時間的增加而呈線性遞減（見圖 14），即 $B = B_0(1 - \\alpha t)$，$\\alpha$ 為正常數。已知細桿在 $t = 0$ 時和軌道 CD 端的距離為 $d$，且初速為零，若感應電流產生的磁場可忽略不計，求在 $t = 0$ 瞬間的下列各量。\n\n1. 通過 ABCD 迴路的磁通量的大小。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-non-2.png\" alt=\"圖13 ㄈ字型軌道 CD 與細桿 AB（B 在上、A 在下）相距 d，磁場入紙面；圖14 B 隨時間線性遞減\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\Phi = B_0\\ell d$"
+    ],
+    "blankLabels": [
+      "磁通量"
+    ],
+    "explanation": "迴路面積 $\\ell d$，$t = 0$ 時磁場 $B_0$：$\\Phi = B_0\\ell d$。"
+  },
+  {
+    "id": "93-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題二】一金屬細桿可在一ㄈ字型、電阻可不計的光滑金屬軌道（寬度為 $\\ell$）上自由滑動。已知細桿的質量為 $m$、電阻為 $R$。外加均勻磁場垂直於軌道面（進入紙面），如圖 13 所示。已知此磁場在時間 $t = 0$ 時的強度為 $B_0$，且此磁場隨時間的增加而呈線性遞減（見圖 14），即 $B = B_0(1 - \\alpha t)$，$\\alpha$ 為正常數。已知細桿在 $t = 0$ 時和軌道 CD 端的距離為 $d$，且初速為零，若感應電流產生的磁場可忽略不計，求在 $t = 0$ 瞬間的下列各量。\n\n2. ABCD 迴路上的感應電動勢的大小。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-non-2.png\" alt=\"圖13 ㄈ字型軌道 CD 與細桿 AB（B 在上、A 在下）相距 d，磁場入紙面；圖14 B 隨時間線性遞減\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\varepsilon = \\alpha B_0\\ell d$"
+    ],
+    "blankLabels": [
+      "感應電動勢"
+    ],
+    "explanation": "$t = 0$ 時細桿靜止，面積不變，只有磁場變化：$\\varepsilon = \\ell d\\left|\\dfrac{dB}{dt}\\right| = \\ell d\\cdot\\alpha B_0$。"
+  },
+  {
+    "id": "93-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題二】一金屬細桿可在一ㄈ字型、電阻可不計的光滑金屬軌道（寬度為 $\\ell$）上自由滑動。已知細桿的質量為 $m$、電阻為 $R$。外加均勻磁場垂直於軌道面（進入紙面），如圖 13 所示。已知此磁場在時間 $t = 0$ 時的強度為 $B_0$，且此磁場隨時間的增加而呈線性遞減（見圖 14），即 $B = B_0(1 - \\alpha t)$，$\\alpha$ 為正常數。已知細桿在 $t = 0$ 時和軌道 CD 端的距離為 $d$，且初速為零，若感應電流產生的磁場可忽略不計，求在 $t = 0$ 瞬間的下列各量。\n\n3. 金屬細桿上感應電流的大小及方向。（說明電流是從 A 端流向 B 端，或從 B 端流向 A 端）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-non-2.png\" alt=\"圖13 ㄈ字型軌道 CD 與細桿 AB（B 在上、A 在下）相距 d，磁場入紙面；圖14 B 隨時間線性遞減\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$I = \\dfrac{\\alpha B_0\\ell d}{R}$，在細桿上由 B 端流向 A 端（迴路中為順時針）。"
+    ],
+    "blankLabels": [
+      "電流大小與方向"
+    ],
+    "explanation": "軌道電阻不計，總電阻為 $R$：$I = \\dfrac{\\alpha B_0\\ell d}{R}$。\n入紙面的磁通量減少，感應電流要產生入紙面的磁場補償，迴路中為順時針：上方由 C 往 B、細桿上由 B 往下流到 A、下方由 A 往 D。"
+  },
+  {
+    "id": "93-ast-phy-non-2-4",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題二】一金屬細桿可在一ㄈ字型、電阻可不計的光滑金屬軌道（寬度為 $\\ell$）上自由滑動。已知細桿的質量為 $m$、電阻為 $R$。外加均勻磁場垂直於軌道面（進入紙面），如圖 13 所示。已知此磁場在時間 $t = 0$ 時的強度為 $B_0$，且此磁場隨時間的增加而呈線性遞減（見圖 14），即 $B = B_0(1 - \\alpha t)$，$\\alpha$ 為正常數。已知細桿在 $t = 0$ 時和軌道 CD 端的距離為 $d$，且初速為零，若感應電流產生的磁場可忽略不計，求在 $t = 0$ 瞬間的下列各量。\n\n4. 金屬細桿的加速度大小（重力可不計）及方向（說明向右或向左）。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-phy-non-2.png\" alt=\"圖13 ㄈ字型軌道 CD 與細桿 AB（B 在上、A 在下）相距 d，磁場入紙面；圖14 B 隨時間線性遞減\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$a = \\dfrac{\\alpha B_0^2\\ell^2d}{mR}$，向右"
+    ],
+    "blankLabels": [
+      "加速度"
+    ],
+    "explanation": "磁力 $F = IB_0\\ell = \\dfrac{\\alpha B_0^2\\ell^2d}{R}$，$a = \\dfrac{F}{m} = \\dfrac{\\alpha B_0^2\\ell^2d}{mR}$。\n方向：桿中電流向下（B→A），磁場入紙面，$\\vec F = I\\vec\\ell\\times\\vec B$ 指向右方。也可用冷次定律判斷：磁通量減少，感應效應使迴路面積增大，細桿被推向右（遠離 CD）。"
   }
 ]
