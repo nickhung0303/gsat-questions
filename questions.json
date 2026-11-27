@@ -4747,5 +4747,668 @@
       "原因"
     ],
     "explanation": "【哈柏法的計量比】\n• 1 份空氣中含 $\\text{N}_2$ 約 $0.8$ 份（$\\text{O}_2$ 被電解移走）。\n• 3 份水蒸氣以 $80\\%$ 效率轉成 $\\text{H}_2$，得 $2.4$ 份。\n• $\\text{N}_2 : \\text{H}_2 = 0.8 : 2.4 = 1 : 3$，正好是 $\\text{N}_2 + 3\\text{H}_2 \\to 2\\text{NH}_3$ 的計量比，原料可完全利用。"
+  },
+  {
+    "id": "109-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列哪一個化合物於適當條件下會與過錳酸鉀溶液反應使其褪色，並且也會與斐林試液反應產生紅色沉澱？",
+    "options": [
+      "1-丙醇",
+      "2-丙醇",
+      "丙酮",
+      "丙醛",
+      "丁酮"
+    ],
+    "answerIndex": 3,
+    "explanation": "【醛的性質】\n與斐林試液生成紅色 $\\text{Cu}_2\\text{O}$ 沉澱是醛基的特性；醛也容易被過錳酸鉀氧化成羧酸，使紫色褪去。\n• 1-丙醇、2-丙醇可使過錳酸鉀褪色，但不與斐林試液反應。\n• 丙酮、丁酮是酮，兩種試劑都不反應。\n• 丙醛 $\\text{CH}_3\\text{CH}_2\\text{CHO}$ 兩者皆可。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關化學反應的敘述，哪一項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-chem-02.png\" alt=\"圖1 分子速率分布、圖2 兩反應途徑的能量變化\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "反應物粒子只要有足夠的能量，反應就會發生",
+      "某一級化學反應在經過一個半生期的時間時，其瞬時反應速率為初始反應速率的一半",
+      "圖 1 為氣體分子運動速率與相對分子數目的分布關係，曲線代表某氣體三種不同溫度，則高低順序為 $T_1 > T_2 > T_3$",
+      "圖 2 表示相同的反應物可經由不同反應途徑得到產物 A 與 B。其中，路徑乙的活化能較路徑甲低，造成兩化學反應差異的原因必為有無添加催化劑",
+      "氣態反應中，壓縮反應容器的體積造成濃度增加時，則反應速率必會增加"
+    ],
+    "answerIndex": 1,
+    "explanation": "【反應速率】\n• (A) 錯誤：除了能量足夠，碰撞的方向（位向）也要恰當，才是有效碰撞。\n• (B) 正確：一級反應速率 $r = k[\\text{A}]$，經過一個半生期濃度減半，瞬時速率也減半。\n• (C) 錯誤：溫度越高，分布曲線越平坦、峰值往高速移動。$T_1$ 峰最高最靠左，溫度最低，應為 $T_3 > T_2 > T_1$。\n• (D) 錯誤：兩路徑得到的產物不同（A 與 B），是不同的反應，不能只歸因於催化劑。\n• (E) 錯誤：零級反應的速率與濃度無關。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 3-4 題為題組】無水硫酸鈣（$\\text{CaSO}_4$）固體可作為除濕劑，在 $300\\text{ K}$ 其平衡反應式與平衡常數（$K_p$）如下：\n$$\\text{CaSO}_4(s) + 2\\,\\text{H}_2\\text{O}(g) \\rightleftharpoons \\text{CaSO}_4\\cdot2\\text{H}_2\\text{O}(s)\\qquad K_p = 2500$$\n已知 $300\\text{ K}$ 時純水的飽和蒸氣壓為 $0.040\\text{ atm}$。（$\\text{CaSO}_4$ 式量為 136；$R = 0.082\\text{ L}\\cdot\\text{atm}/(\\text{K}\\cdot\\text{mol})$）\n3. 在 $300\\text{ K}$ 時，將足量的 $\\text{CaSO}_4\\cdot2\\text{H}_2\\text{O}(s)$ 置於一乾燥之密閉容器中，使其達成上述反應之平衡時，容器內之相對濕度為多少？",
+    "options": [
+      "30%",
+      "40%",
+      "50%",
+      "60%",
+      "70%"
+    ],
+    "answerIndex": 2,
+    "explanation": "【只有氣體出現在平衡常數式中】\n$$K_p = \\frac{1}{P_{\\text{H}_2\\text{O}}^2} = 2500 \\implies P_{\\text{H}_2\\text{O}} = 0.020\\text{ atm}$$\n相對濕度 $= \\dfrac{0.020}{0.040} \\times 100\\% = 50\\%$\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 3-4 題為題組】無水硫酸鈣（$\\text{CaSO}_4$）固體可作為除濕劑，在 $300\\text{ K}$ 其平衡反應式與平衡常數（$K_p$）如下：\n$$\\text{CaSO}_4(s) + 2\\,\\text{H}_2\\text{O}(g) \\rightleftharpoons \\text{CaSO}_4\\cdot2\\text{H}_2\\text{O}(s)\\qquad K_p = 2500$$\n已知 $300\\text{ K}$ 時純水的飽和蒸氣壓為 $0.040\\text{ atm}$。（$\\text{CaSO}_4$ 式量為 136；$R = 0.082\\text{ L}\\cdot\\text{atm}/(\\text{K}\\cdot\\text{mol})$）\n4. 在 $300\\text{ K}$ 時，將 1.8 克水及 x 克的無水硫酸鈣固體一起放入 30 公升之乾燥密閉容器中，容器內之相對濕度為 82%，則 x 約為多少？（假設 $\\text{CaSO}_4\\cdot2\\text{H}_2\\text{O}(s)$ 不釋放水蒸氣）",
+    "options": [
+      "2.0",
+      "4.1",
+      "5.1",
+      "6.8",
+      "8.2"
+    ],
+    "answerIndex": 1,
+    "explanation": "【硫酸鈣全部吸水後剩下的水蒸氣】\n若兩種固體共存，水蒸氣壓應固定在 $0.020\\text{ atm}$（50%）。現在相對濕度 82% 較高，表示 $\\text{CaSO}_4$ 已全部轉成二水合物，多的水留在氣相。\n• 水共 $\\dfrac{1.8}{18} = 0.10\\text{ mol}$\n• 氣相水：$P = 0.82 \\times 0.040 = 0.0328\\text{ atm}$，$n = \\dfrac{PV}{RT} = \\dfrac{0.0328 \\times 30}{0.082 \\times 300} = 0.040\\text{ mol}$\n• 被吸收的水：$0.10 - 0.040 = 0.060\\text{ mol}$，需 $\\text{CaSO}_4$ $0.030\\text{ mol}$\n\n$x = 0.030 \\times 136 \\approx 4.1\\text{ g}$\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "已知氫原子的游離能約為 $320\\text{ kcal/mol}$，試問當 1 莫耳氫原子的電子，從 $n = 4$ 躍遷至 $n = 2$ 時，所產生的能量變化約為何？",
+    "options": [
+      "釋出 60 kcal",
+      "吸收 80 kcal",
+      "吸收 60 kcal",
+      "釋出 80 kcal",
+      "釋出 160 kcal"
+    ],
+    "answerIndex": 0,
+    "explanation": "【氫原子能階】\n$E_n = -\\dfrac{320}{n^2}\\text{ kcal/mol}$：$E_4 = -20$、$E_2 = -80$。\n由高能階往低能階躍遷放出能量：$-20 - (-80) = 60\\text{ kcal}$。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "表 1 是 $\\text{Mg}^{2+}$、$\\text{Sr}^{2+}$ 及 $\\text{Ba}^{2+}$ 三種金屬離子溶液分別與含有 $\\text{SO}_4^{2-}$、$\\text{CO}_3^{2-}$ 及 $\\text{NH}_3$ 三種試劑的水溶液反應的結果（所有溶液的濃度均為 0.01 M），表中「＋」表示有沉澱物生成，「－」表示無沉澱物產生。下列各組溶液的成分均為濃度 0.01 M 的水溶液，各自以等體積混合後，根據表 1，何者不會有沉澱產生？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-chem-06.png\" alt=\"表1 金屬離子與試劑的沉澱結果\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{NaOH}(aq)$ 與 $\\text{Mg(NO}_3)_2(aq)$",
+      "$(\\text{NH}_4)_2\\text{CO}_3(aq)$ 與 $\\text{Mg(NO}_3)_2(aq)$",
+      "$(\\text{NH}_4)_2\\text{CO}_3(aq)$ 與 $\\text{Ba(NO}_3)_2(aq)$",
+      "$(\\text{NH}_4)_2\\text{SO}_4(aq)$ 與 $\\text{Sr(NO}_3)_2(aq)$",
+      "$(\\text{NH}_4)_2\\text{SO}_4(aq)$ 與 $\\text{Mg(NO}_3)_2(aq)$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【查表判斷沉澱】\n• (A) $\\text{Mg}^{2+}$ 與 $\\text{OH}^-$：表中 $\\text{Mg}^{2+}$ 與 $\\text{NH}_3$（產生 $\\text{OH}^-$）有沉澱，$\\text{Mg(OH)}_2$ 沉澱。\n• (B) $\\text{Mg}^{2+}$ 與 $\\text{CO}_3^{2-}$：＋。\n• (C) $\\text{Ba}^{2+}$ 與 $\\text{CO}_3^{2-}$：＋。\n• (D) $\\text{Sr}^{2+}$ 與 $\\text{SO}_4^{2-}$：＋。\n• (E) $\\text{Mg}^{2+}$ 與 $\\text{SO}_4^{2-}$：－，$\\text{MgSO}_4$ 可溶，不沉澱。\n\n故選 (E)"
+  },
+  {
+    "id": "109-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "四種與氧有關的粒子 $\\text{O}_3$、$\\text{O}_2$、$\\text{O}_2^{2-}$ 及 $\\text{O}_2^{2+}$，其路易斯結構如表 2 所示。有關此四種粒子的敘述，哪一項正確？\n（甲）臭氧沒有共振結構\n（乙）四種粒子中，兩個氧原子間的鍵長是 $\\text{O}_2^{2-} > \\text{O}_3 > \\text{O}_2 > \\text{O}_2^{2+}$\n（丙）氮氣的電子總數與 $\\text{O}_2^{2+}$ 相等",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-chem-07.png\" alt=\"表2 四種含氧粒子的路易斯結構\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "只有甲",
+      "只有乙",
+      "只有丙",
+      "甲與乙",
+      "乙與丙"
+    ],
+    "answerIndex": 4,
+    "explanation": "【鍵級與鍵長】\n• 甲 錯誤：臭氧有兩個等價的共振結構，兩個 O－O 鍵長相等，鍵級 1.5。\n• 乙 正確：鍵級 $\\text{O}_2^{2-}$（單鍵）1 < $\\text{O}_3$ 1.5 < $\\text{O}_2$（雙鍵）2 < $\\text{O}_2^{2+}$（參鍵）3，鍵級越大鍵長越短。\n• 丙 正確：$\\text{N}_2$ 有 14 個電子，$\\text{O}_2^{2+}$ 有 $16 - 2 = 14$ 個電子。\n\n故選 (E)"
+  },
+  {
+    "id": "109-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "國際純化學暨應用化學聯合會（IUPAC）於 2016 年 6 月正式宣布週期表上第 113、115、117 及 118 號元素的英文命名及元素符號，其中，第 118 號元素的符號為 $_{118}\\text{Og}$（鿫），屬於週期表上第 18 族。下列關於此新元素的敘述，哪一項正確？",
+    "options": [
+      "屬於鹵素",
+      "為金屬元素",
+      "基態電子組態的 s 與 p 軌域為全填滿",
+      "中子數目為 118",
+      "以雙原子分子的形式存在"
+    ],
+    "answerIndex": 2,
+    "explanation": "【第 18 族元素】\n• Og 位於第 18 族（鈍氣族），最外層 $7s^2 7p^6$ 全填滿，(C) 正確。\n• (A) 鹵素是第 17 族。(B) 第 18 族不是典型的金屬元素。(D) 118 是原子序（質子數），中子數要看質量數。(E) 鈍氣以單原子形式存在。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "感光色素結構的改變啟動了對大腦的神經脈衝，從而形成視覺。而化合物甲為人體視網膜細胞內之重要感光色素組成的一部分，化合物甲在吸收光後可轉變為化合物乙，其分子結構及其光照的轉換如圖 3 所示。下列關於化合物甲與化合物乙的敘述，哪一項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-chem-09.png\" alt=\"圖3 化合物甲經光照轉變為化合物乙\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "僅化合物甲可與多侖試劑反應，化合物乙則不會反應",
+      "化合物甲中的雙鍵均為反式結構",
+      "化合物甲中以 $sp^2$ 混成的碳原子數目有 10 個",
+      "化合物甲與化合物乙分子式相同，具有相同的熔點",
+      "化合物甲與化合物乙皆難溶於水，為脂溶性化合物"
+    ],
+    "answerIndex": 4,
+    "explanation": "【視黃醛的順反異構】\n• (A) 錯誤：甲、乙都有醛基，都能與多侖試劑反應。\n• (B) 錯誤：甲（11-順-視黃醛）有一個順式雙鍵，照光後變為全反式的乙。\n• (C) 錯誤：5 個 C＝C 共 10 個碳，加上醛基的 C＝O 碳，$sp^2$ 碳共 11 個。\n• (D) 錯誤：兩者為幾何異構物，分子形狀不同，熔點不同。\n• (E) 正確：分子主體是長的碳氫鏈與環，極性小，難溶於水、易溶於油脂。\n\n故選 (E)"
+  },
+  {
+    "id": "109-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列三種化合物的水溶性大小順序，哪一項正確？\n（甲）己酸　（乙）正己烷　（丙）1-己醇",
+    "options": [
+      "甲 > 乙 > 丙",
+      "甲 > 丙 > 乙",
+      "乙 > 甲 > 丙",
+      "乙 > 丙 > 甲",
+      "丙 > 甲 > 乙"
+    ],
+    "answerIndex": 1,
+    "explanation": "【極性與氫鍵】\n碳數相同時，與水形成氫鍵的能力越強越易溶於水：\n• 己酸有 －COOH（可提供與接受較多氫鍵，且可部分解離），溶解度最大。\n• 1-己醇有 －OH，次之。\n• 正己烷為非極性，幾乎不溶。\n\n甲 > 丙 > 乙\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "矽晶（Si）為半導體及太陽能板的重要材料。晶體中的矽原子如金剛石一樣，與鄰近的四個矽原子以 $sp^3$ 混成軌域鍵結。若一個矽原子位於圖 4 中正立方體之中心位置 1 處，則緊鄰此矽原子的其他矽原子的位置為何？（註：中心位置為 1，其他角落位置為 2～9）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-chem-11.png\" alt=\"圖4 正立方體中心與八個頂點\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "2,3,4,5",
+      "2,4,7,9",
+      "2,4,5,7",
+      "3,6,7,9",
+      "3,7,8,9"
+    ],
+    "answerIndex": 1,
+    "explanation": "【正四面體的四個頂點】\n$sp^3$ 混成形成正四面體。把正四面體放進正立方體中，四個頂點是立方體「彼此不相鄰」的四個角（任兩點之間都是面對角線）。\n圖 4 中 2、4、7、9 兩兩都不在同一條稜上，構成正四面體，中心 1 與它們等距。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "生物體內許多生理反應均需要酵素的催化能力才能順利進行。當血液的酸鹼值不穩定時，會影響酵素的能力。已知血液中的 $\\text{CO}_2$ 濃度會影響血液的酸鹼值，而呼吸的快慢會影響血液中的 $\\text{CO}_2$ 濃度，當呼吸加快時，體內排出 $\\text{CO}_2$ 則變快。下列敘述哪一項正確？",
+    "options": [
+      "當血液中的酸鹼值較正常值高時，呼吸會變慢，以增加血液 $\\text{CO}_2$ 濃度，使其回復正常",
+      "當血液中的酸鹼值較正常值低時，呼吸會變慢，以增加血液 $\\text{CO}_2$ 濃度，使其回復正常",
+      "當血液中的酸鹼值較正常值低時，呼吸會變快，以增加血液 $\\text{CO}_2$ 濃度，使其回復正常",
+      "當血液中的酸鹼值較正常值低時，呼吸會變慢，以降低血液 $\\text{CO}_2$ 濃度，使其回復正常",
+      "當血液中的酸鹼值較正常值高時，呼吸會變快，以降低血液 $\\text{CO}_2$ 濃度，使其回復正常"
+    ],
+    "answerIndex": 0,
+    "explanation": "【$\\text{CO}_2$ 與血液 pH】\n$$\\text{CO}_2 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{H}_2\\text{CO}_3 \\rightleftharpoons \\text{H}^+ + \\text{HCO}_3^-$$\n• pH 過高（偏鹼）：呼吸變慢，$\\text{CO}_2$ 累積，$[\\text{H}^+]$ 增加，pH 下降回正常。(A) 正確。\n• pH 過低（偏酸）：應呼吸變快排出 $\\text{CO}_2$，降低 $[\\text{H}^+]$。(B)(C)(D) 的配對都不對；(E) 的方向使 pH 更高。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "瑞德西韋是一種曾被試用於治療嚴重特殊傳染性肺炎（COVID-19）患者的藥物，假設結構如圖 5 所示，則下列有關瑞德西韋的敘述，哪一項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-chem-13.png\" alt=\"圖5 瑞德西韋結構\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "結構不具有胺類官能基",
+      "結構不具有羥基",
+      "結構不具醚類官能基",
+      "在氫氧化鈉或硫酸水溶液中會被水解",
+      "在水中呈弱酸性"
+    ],
+    "answerIndex": 3,
+    "explanation": "【官能基辨識】\n• (A) 錯誤：有 $-\\text{NH}_2$ 及 $-\\text{NH}-$，具胺基。\n• (B) 錯誤：五員環上有兩個 －OH。\n• (C) 錯誤：五員糖環中的 C－O－C、苯氧基 Ph－O－ 都是醚鍵。\n• (D) 正確：分子中有羧酸酯（$-\\text{COO}-$）與磷醯胺、磷酸酯等結構，在酸或鹼中會水解。\n• (E) 錯誤：沒有羧酸等酸性基團，含胺基，不呈弱酸性。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "合成橡膠常做為汽車輪胎的材料。某一合成橡膠的局部化學結構如圖 6 所示。此合成橡膠是以化合物甲為單體，彼此透過一端碳原子進行碳-碳鍵結，如此重複進行而成的鏈狀聚合物，此過程無其他副產物生成。試問單體化合物甲的分子量約為多少？（原子量：H 1.0、C 12.0、Br 79.9）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-chem-14.png\" alt=\"圖6 合成橡膠的局部結構\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "54",
+      "68",
+      "100",
+      "147",
+      "161"
+    ],
+    "answerIndex": 3,
+    "explanation": "【加成聚合找重複單位】\n重複單位為 $-\\text{CH}_2-\\text{C(CH}_2\\text{Br)}=\\text{CH}-\\text{CH}_2-$，共 5 個 C、7 個 H、1 個 Br。單體為共軛二烯 $\\text{CH}_2=\\text{C(CH}_2\\text{Br)}-\\text{CH}=\\text{CH}_2$（$\\text{C}_5\\text{H}_7\\text{Br}$），加成聚合沒有副產物，分子式與重複單位相同：\n$$5 \\times 12.0 + 7 \\times 1.0 + 79.9 = 146.9 \\approx 147$$\n故選 (D)"
+  },
+  {
+    "id": "109-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "物質的狀態變化常伴隨著熱量變化（ΔH）。圖 7 是某物質的相圖（未按比例繪製），若將 100 克此物質置於一體積可變之容器中，則下列哪一項變化之 ΔH 會小於 0？（只考慮相態轉移能量變化）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-chem-15.png\" alt=\"圖7 某物質的相圖\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "在 0°C 下，由 0.5 大氣壓降壓至 0.3 大氣壓",
+      "在 100°C 下，由 0.5 大氣壓降壓至 0.3 大氣壓",
+      "在 0°C 下，由 1.5 大氣壓降壓至 0.5 大氣壓",
+      "在 100°C 下，由 1.5 大氣壓降壓至 0.5 大氣壓",
+      "在 100°C 下，由 100.0 大氣壓降壓至 99.0 大氣壓"
+    ],
+    "answerIndex": 2,
+    "explanation": "【讀相圖】\nΔH < 0 表示放熱的相變：液→固、氣→液、氣→固。此物質固液線斜率為負（像水）。\n• (A) $0^\\circ\\text{C}$：0.5 atm 約在固相，降到 0.3 atm 進入氣相，昇華吸熱。\n• (B) $100^\\circ\\text{C}$：0.5 與 0.3 atm 都是氣相，無相變。\n• (C) $0^\\circ\\text{C}$：1.5 atm 在固液線右側為液相；降到 0.5 atm 跨過固液線進入固相（凝固），放熱，ΔH < 0。\n• (D) $100^\\circ\\text{C}$：1.5 atm 為液相，降到 0.5 atm 汽化，吸熱。\n• (E) $100^\\circ\\text{C}$：100 與 99 atm 都是液相，無相變。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "以鋰金屬為負極材料的鈕扣型電池，具有小而輕、能量密度高以及放電穩定的優點。原因除鋰的原子量小且為密度最輕的固態金屬性質外，鋰原子的電子組態也是需要瞭解的環節。而鋰原子的某些電子組態如下：\n甲：$1s^1 2s^2 2p_x^0 2p_y^0 2p_z^0$\n乙：$1s^0 2s^2 2p_x^1 2p_y^0 2p_z^0$\n丙：$1s^0 2s^1 2p_x^2 2p_y^0 2p_z^0$\n丁：$1s^2 2s^1 2p_x^0 2p_y^0 2p_z^0$\n下列哪一項依序為能量最高和最低的組態？",
+    "options": [
+      "丙和丁",
+      "乙和丁",
+      "丙和甲",
+      "乙和甲",
+      "甲和丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "【激發態的能量比較】\n能量 $1s < 2s < 2p$。\n• 丁 $1s^2 2s^1$ 是基態，能量最低。\n• 甲：一個 1s 電子升到 2s；乙：兩個 1s 電子升到 2s、2p；丙：兩個 1s 電子升上去，且有兩個電子在較高的 2p（丙比乙多一個電子由 2s 改占 2p）。\n所以能量 丙 > 乙 > 甲 > 丁，最高為丙、最低為丁。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "有兩條質料相同的抹布，都沾上了大約相同量的油溶性汙漬。將兩條抹布分別以肥皂與合成清潔劑清洗，結果以合成清潔劑的清潔效果較佳。下列哪些敘述，可能是造成此種區別的原因？",
+    "options": [
+      "使用的水為硬水，硬水中的鈣離子較易與肥皂結合，降低了肥皂的除汙能力",
+      "使用的水為酸性，使肥皂形成脂肪酸，降低了肥皂的除汙能力",
+      "合成清潔劑能使油溶性汙漬溶解於水中，而肥皂則否",
+      "合成清潔劑的生物分解性較肥皂強，因此除汙能力較強",
+      "合成清潔劑的分子同時具有親水基團和親油基團，而肥皂則否"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "【肥皂與合成清潔劑】\n• (A) 正確：肥皂（脂肪酸鈉）在硬水中與 $\\text{Ca}^{2+}$、$\\text{Mg}^{2+}$ 形成不溶的鈣鎂皂，失去去汙力；合成清潔劑（如烷基苯磺酸鈉）的鈣鹽可溶，不受影響。\n• (B) 正確：肥皂是弱酸鹽，在酸性水中變成難溶的脂肪酸；磺酸是強酸，不受影響。\n• (C) 錯誤：兩者都是靠乳化作用把油汙分散在水中，不是溶解。\n• (D) 錯誤：生物分解性與去汙力無關，且一般合成清潔劑較難分解。\n• (E) 錯誤：兩者都同時有親水端與親油端。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "109-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 18-19 題為題組】一氧化氮和二氧化氮為常見的空氣汙染物。汽機車引擎的高溫可促使空氣中的氮氣與氧氣反應產生一氧化氮，一氧化氮再與空氣中的氧氣反應產生紅棕色二氧化氮，其反應式如式（1）所示。兩分子的二氧化氮在密閉系統中可結合生成無色的四氧化二氮氣體，其反應式如式（2）所示。\n$$2\\text{NO}(g) + \\text{O}_2(g) \\to 2\\text{NO}_2(g)\\qquad 式(1)$$\n$$2\\text{NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)\\qquad 式(2)$$\n18. 在定溫下，式（1）反應物初濃度（$[\\text{NO}]_0$、$[\\text{O}_2]_0$）與生成 $\\text{NO}_2$ 之初速率的關係如表 3 所示。下列相關敘述，哪些正確？",
+    "svg": "<svg viewBox=\"0 0 474 152\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><text x=\"237\" y=\"20\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 3</text><rect x=\"2\" y=\"28\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">實驗</text><rect x=\"62\" y=\"28\" width=\"110\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">[NO]₀ (M)</text><rect x=\"172\" y=\"28\" width=\"110\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">[O₂]₀ (M)</text><rect x=\"282\" y=\"28\" width=\"190\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"377\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">生成 NO₂ 初速率 (M/s)</text><rect x=\"2\" y=\"58\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1</text><rect x=\"62\" y=\"58\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.010</text><rect x=\"172\" y=\"58\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.020</text><rect x=\"282\" y=\"58\" width=\"190\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"377\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1.4 × 10⁻²</text><rect x=\"2\" y=\"88\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2</text><rect x=\"62\" y=\"88\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.020</text><rect x=\"172\" y=\"88\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.020</text><rect x=\"282\" y=\"88\" width=\"190\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"377\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">5.6 × 10⁻²</text><rect x=\"2\" y=\"118\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3</text><rect x=\"62\" y=\"118\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.010</text><rect x=\"172\" y=\"118\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.040</text><rect x=\"282\" y=\"118\" width=\"190\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"377\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2.8 × 10⁻²</text></svg>",
+    "options": [
+      "反應物 NO 的反應級數為 1",
+      "反應物 $\\text{O}_2$ 的反應級數為 1",
+      "此反應之速率常數 $k$ 之數值為 7000",
+      "若 $[\\text{NO}]_0$ 為 0.030 M，$[\\text{O}_2]_0$ 為 0.010 M，則生成 $\\text{NO}_2$ 之初速率為 $6.3\\times10^{-2}\\text{ M/s}$",
+      "若要改善汽車排放廢氣汙染可加裝觸媒轉化器，以加快生成 $\\text{NO}_2$ 之速率"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "【由初速率法求速率定律】\n• 實驗 1→2：$[\\text{NO}]$ 加倍，速率變 4 倍，NO 為二級，(A) 錯誤。\n• 實驗 1→3：$[\\text{O}_2]$ 加倍，速率變 2 倍，$\\text{O}_2$ 為一級，(B) 正確。\n• $r = k[\\text{NO}]^2[\\text{O}_2]$：$1.4\\times10^{-2} = k(0.010)^2(0.020) \\implies k = 7000\\ \\text{M}^{-2}\\text{s}^{-1}$，(C) 正確。\n• (D) 正確：$r = 7000 \\times (0.030)^2 \\times 0.010 = 6.3\\times10^{-2}\\text{ M/s}$。\n• (E) 錯誤：觸媒轉化器是把 NO 等汙染物轉成 $\\text{N}_2$ 等無害物質，不是加快生成 $\\text{NO}_2$。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "109-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 18-19 題為題組】一氧化氮和二氧化氮為常見的空氣汙染物。汽機車引擎的高溫可促使空氣中的氮氣與氧氣反應產生一氧化氮，一氧化氮再與空氣中的氧氣反應產生紅棕色二氧化氮，其反應式如式（1）所示。兩分子的二氧化氮在密閉系統中可結合生成無色的四氧化二氮氣體，其反應式如式（2）所示。\n$$2\\text{NO}(g) + \\text{O}_2(g) \\to 2\\text{NO}_2(g)\\qquad 式(1)$$\n$$2\\text{NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)\\qquad 式(2)$$\n19. 在定溫下，測得式（2）的平衡常數（$K_c$）為 16。下列有關此反應的敘述，哪些正確？",
+    "options": [
+      "此反應的平衡常數 $K_c = \\dfrac{[\\text{N}_2\\text{O}_4]}{[\\text{NO}_2]^2}$",
+      "反應到達平衡時，容器內顏色雖不再變化，但 $\\text{NO}_2$ 的結合反應與其逆反應仍持續進行",
+      "在此溫度下，壓縮系統體積為原有之一半，則平衡會向右移動，導致平衡常數數值增大",
+      "在此溫度下，反應式：$\\text{NO}_2(g) \\rightleftharpoons \\tfrac{1}{2}\\text{N}_2\\text{O}_4(g)$ 的平衡常數 $K_c = 8.0$",
+      "在此溫度下，反應式：$\\tfrac{1}{2}\\text{N}_2\\text{O}_4(g) \\rightleftharpoons \\text{NO}_2(g)$ 的平衡常數 $K_c = 0.25$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "【平衡常數的性質】\n• (A) 正確。\n• (B) 正確：化學平衡是動態平衡，正逆反應速率相等但仍在進行。\n• (C) 錯誤：壓縮使平衡向氣體分子數少的右方移動，但溫度不變，$K_c$ 不變。\n• (D) 錯誤：係數減半，$K' = \\sqrt{16} = 4$。\n• (E) 正確：(D) 的逆反應，$K'' = \\dfrac{1}{4} = 0.25$。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "109-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "張同學取 x、y、z、t、s 五種金屬，它們均會形成 +2 價離子，並進行以下的實驗：\n實驗一：將五種金屬分別加入稀鹽酸溶液中，除了 s 以外，其餘四種金屬均會與鹽酸作用產生氫氣泡。\n實驗二：$\\text{z}^{2+}$ 與 x 不發生反應；$\\text{z}^{2+}$ 與 y 不發生反應。\n實驗三：將此五種金屬兩兩組合成電化電池 $\\text{M(s)}\\,|\\,\\text{M}^{2+}(aq)\\,\\|\\,\\text{N}^{2+}(aq)\\,|\\,\\text{N(s)}$，則當 M 為 t 且 N 為 s 時可得到最大的電池電壓。\n根據上述實驗結果，下列敘述，哪些正確？",
+    "options": [
+      "t 為最強的還原劑",
+      "$\\text{z}^{2+}$ 為最強的氧化劑",
+      "$\\text{s}^{2+}$ 的氧化能力比 $\\text{y}^{2+}$ 強",
+      "$\\text{x}^{2+}$ 的標準還原電位比 $\\text{s}^{2+}$ 大",
+      "$\\text{y}^{2+}$ 的標準還原電位比 $\\text{z}^{2+}$ 大"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【活性順序】\n• 實驗一：s 不與鹽酸反應，活性最小（比 $\\text{H}_2$ 小）。\n• 實驗二：x、y 不能還原 $\\text{z}^{2+}$，所以 z 比 x、y 活潑。\n• 實驗三：t 當負極、s 當正極電壓最大，t 最活潑、s 最不活潑。\n活性（還原力）：t > z > x、y > s；離子的氧化力（還原電位）相反：$\\text{s}^{2+}$ 最大、$\\text{t}^{2+}$ 最小。\n• (A) 正確。(B) 錯誤，最強氧化劑是 $\\text{s}^{2+}$。(C) 正確。(D) 錯誤，$\\text{s}^{2+}$ 的還原電位較大。(E) 正確，y 比 z 不活潑，$\\text{y}^{2+}$ 還原電位較大。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "109-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "取一 50 毫升的 0.10 M 醋酸水溶液，以 0.10 M 的氫氧化鈉水溶液進行酸鹼滴定反應。試問下列敘述，哪些正確？（醋酸的解離常數 $K_a = 1.8\\times10^{-5}$，$\\log 2 = 0.30$，$\\log 3 = 0.48$）",
+    "options": [
+      "醋酸水溶液起始的 pH 值介於 0.5～1.5 之間",
+      "此滴定反應，可使用酚酞當指示劑",
+      "當加入 25 毫升的氫氧化鈉水溶液後，該溶液為一緩衝溶液",
+      "當加入 30 毫升的氫氧化鈉水溶液後，溶液的 pH 值介於 3.5～4.5 之間",
+      "當加入 50 毫升的氫氧化鈉水溶液後，溶液的 pH 值介於 8.5～9.5 之間"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【弱酸強鹼滴定】\n$\\text{p}K_a = -\\log(1.8\\times10^{-5}) = 5 - \\log 1.8 \\approx 4.74$\n• (A) 錯誤：$[\\text{H}^+] = \\sqrt{1.8\\times10^{-5} \\times 0.10} \\approx 1.3\\times10^{-3}$，pH ≈ 2.9。\n• (B) 正確：當量點時為醋酸鈉溶液，呈弱鹼性，適用酚酞（變色範圍 8.2～10）。\n• (C) 正確：加入 25 mL 時一半被中和，$[\\text{CH}_3\\text{COOH}] = [\\text{CH}_3\\text{COO}^-]$，是緩衝溶液。\n• (D) 錯誤：剩醋酸 2 mmol、生成醋酸根 3 mmol，$\\text{pH} = 4.74 + \\log\\dfrac{3}{2} \\approx 4.9$。\n• (E) 正確：當量點 $[\\text{CH}_3\\text{COO}^-] = \\dfrac{5}{100} = 0.05\\text{ M}$，$K_b = \\dfrac{10^{-14}}{1.8\\times10^{-5}} \\approx 5.6\\times10^{-10}$，$[\\text{OH}^-] = \\sqrt{5.6\\times10^{-10}\\times0.05} \\approx 5.3\\times10^{-6}$，pOH ≈ 5.3，pH ≈ 8.7。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "109-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "不同尺寸的銀奈米粒子具有不同的光學特性，有的在光照後會發光，有的不會。市面上用於殺菌的銀奈米粒子，顆粒較大且不會發光，但由數十個銀原子組成的銀奈米粒子則可發光。合成可發光銀奈米粒子的簡單方法是將 DNA 和銀離子加入中性水溶液中，再加入 $\\text{NaBH}_4$ 使其形成銀奈米粒子。在合成中，DNA 主要是和銀離子形成錯合物，避免形成銀的氫氧化物或氧化物，同時 DNA 亦可保護所形成的銀奈米粒子，使其穩定存於水溶液中並降低其和氧氣作用的程度。根據上文，下列相關敘述，哪些正確？",
+    "options": [
+      "$\\text{NaBH}_4$ 為還原劑",
+      "DNA 為氧化劑",
+      "DNA 的鹼基具有孤對電子（孤電子對）",
+      "氧氣會氧化銀奈米粒子",
+      "於鹼性水溶液中，銀離子會和氫氧根離子作用產生銀原子"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "【閱讀理解＋氧化還原】\n• (A) 正確：$\\text{NaBH}_4$ 把 $\\text{Ag}^+$ 還原成 Ag。\n• (B) 錯誤：DNA 的角色是與 $\\text{Ag}^+$ 錯合及保護粒子，不是氧化劑。\n• (C) 正確：能與 $\\text{Ag}^+$ 形成錯合物，表示鹼基上的 N、O 原子有孤對電子可以配位。\n• (D) 正確：文中提到 DNA 可「降低其和氧氣作用的程度」，表示氧氣會氧化銀奈米粒子。\n• (E) 錯誤：$\\text{Ag}^+$ 與 $\\text{OH}^-$ 生成 AgOH／$\\text{Ag}_2\\text{O}$ 沉澱，不是銀原子（沒有發生還原）。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "109-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "薄荷醇是薄荷油的主要成分之一，其結構式示於圖 8。薄荷醇可由天然薄荷葉片萃取而得，亦可在實驗室以化合物甲為起始物，經一步反應製得。下列有關此反應、化合物甲及薄荷醇性質的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-chem-23.png\" alt=\"圖8 化合物甲（百里酚）經一步反應得到薄荷醇\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此化學反應過程中，化合物甲被還原",
+      "化合物甲的酸性較薄荷醇弱",
+      "薄荷醇在適當的條件下，可與二鉻酸鉀溶液反應得到酮類化合物",
+      "薄荷醇中的六員環呈平面結構",
+      "化合物甲在氫氧化鈉水溶液的溶解度比在水中的溶解度高"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【酚與醇】\n化合物甲（百里酚）的苯環經催化氫化成為環己烷環，得到薄荷醇。\n• (A) 正確：加氫屬於還原。\n• (B) 錯誤：甲是酚，酸性比醇（薄荷醇）強。\n• (C) 正確：薄荷醇是二級醇，氧化得到酮（薄荷酮）。\n• (D) 錯誤：環己烷的碳都是 $sp^3$，呈椅式等非平面構形。\n• (E) 正確：酚可與 NaOH 反應生成可溶的酚鈉鹽。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "109-ast-chem-24",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在測量反應速率的秒錶反應實驗中，準備的兩個反應溶液如下：\n溶液 A：碘酸鉀（$\\text{KIO}_3$）\n溶液 B：亞硫酸氫鈉（$\\text{NaHSO}_3$）、硫酸、澱粉\n實驗中相關的離子反應式如下：\n$$\\text{IO}_3^- + 3\\text{HSO}_3^- \\to \\text{I}^- + 3\\text{SO}_4^{2-} + 3\\text{H}^+\\qquad 式(3)$$\n$$\\text{IO}_3^- + 5\\text{I}^- + 6\\text{H}^+ \\to 3\\text{I}_2(s) + 3\\text{H}_2\\text{O}(l)\\qquad 式(4)$$\n$$\\text{I}_2(s) + \\text{HSO}_3^- + \\text{H}_2\\text{O}(l) \\to 2\\text{I}^- + \\text{SO}_4^{2-} + 3\\text{H}^+\\qquad 式(5)$$\n下列敘述，哪些正確？",
+    "options": [
+      "當溶液 A 與溶液 B 混合時，要盡量避免搖晃混合溶液，以免干擾反應速率的測量",
+      "本實驗所測量的是式（3）中亞硫酸氫根離子之消耗速率",
+      "當溶液 A 與溶液 B 混合後，碘酸鉀的濃度恰等於亞硫酸氫鈉濃度的三分之一時，就可觀察到溶液的變色",
+      "反應終點的溶液顏色為深藍色",
+      "溶液變色的時間，會隨著反應溫度的升高而變短，若要觀察更快速的顏色變化，可將溶液加熱至 80°C"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "【碘鐘反應】\n式（4）生成的 $\\text{I}_2$ 會立刻被式（5）的 $\\text{HSO}_3^-$ 消耗；等 $\\text{HSO}_3^-$ 用完，$\\text{I}_2$ 才累積並與澱粉呈藍色。\n• (A) 錯誤：混合時要搖勻，讓反應均勻開始。\n• (B) 正確：變色所需時間反映 $\\text{HSO}_3^-$ 被式（3）消耗完的速率。\n• (C) 錯誤：變色的時機是 $\\text{HSO}_3^-$ 耗盡時，不是兩者濃度成某比例時。\n• (D) 正確：$\\text{I}_2$ 與澱粉形成深藍色錯合物。\n• (E) 錯誤：高溫時澱粉－碘的藍色會褪去，而且碘易昇華，80°C 不適合觀察。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "109-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】取 10 克大理石粉（主要成分為 $\\text{CaCO}_3$，式量 100）和過量煤焦（C）均勻混合後，在高溫、隔氧下加熱反應。假設碳酸鈣完全反應後，可得到混合氣體甲（莫耳數比為 $1:1$ 的 CO 與 $\\text{CO}_2$）及固體乙。固體乙與過量水完全反應產生可燃性氣體丙，若水的蒸氣壓可以忽略不計，於 $0^\\circ\\text{C}$、1 大氣壓下，丙的體積為 1.57 公升。\n\n1. 寫出 $\\text{CaCO}_3$ 和過量煤焦反應生成混合氣體甲及固體乙的平衡化學反應式。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{CaCO}_3(s) + 3\\text{C}(s) \\to \\text{CaC}_2(s) + \\text{CO}_2(g) + \\text{CO}(g)$"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "【電石的製備】\n固體乙與水生成可燃氣體，是電石 $\\text{CaC}_2$。氣體甲為 1:1 的 CO 與 $\\text{CO}_2$。依原子守恆平衡：\n$$\\text{CaCO}_3 + 3\\text{C} \\to \\text{CaC}_2 + \\text{CO}_2 + \\text{CO}$$\n（Ca：1；C：1 + 3 = 2 + 1 + 1；O：3 = 2 + 1。）"
+  },
+  {
+    "id": "109-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】取 10 克大理石粉（主要成分為 $\\text{CaCO}_3$，式量 100）和過量煤焦（C）均勻混合後，在高溫、隔氧下加熱反應。假設碳酸鈣完全反應後，可得到混合氣體甲（莫耳數比為 $1:1$ 的 CO 與 $\\text{CO}_2$）及固體乙。固體乙與過量水完全反應產生可燃性氣體丙，若水的蒸氣壓可以忽略不計，於 $0^\\circ\\text{C}$、1 大氣壓下，丙的體積為 1.57 公升。\n\n2. 寫出氣體丙的化學式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "C2H2"
+    ],
+    "blankLabels": [
+      "丙的化學式"
+    ],
+    "explanation": "【電石加水】\n$$\\text{CaC}_2 + 2\\text{H}_2\\text{O} \\to \\text{C}_2\\text{H}_2 + \\text{Ca(OH)}_2$$\n丙為乙炔 $\\text{C}_2\\text{H}_2$。"
+  },
+  {
+    "id": "109-ast-chem-non-1-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】取 10 克大理石粉（主要成分為 $\\text{CaCO}_3$，式量 100）和過量煤焦（C）均勻混合後，在高溫、隔氧下加熱反應。假設碳酸鈣完全反應後，可得到混合氣體甲（莫耳數比為 $1:1$ 的 CO 與 $\\text{CO}_2$）及固體乙。固體乙與過量水完全反應產生可燃性氣體丙，若水的蒸氣壓可以忽略不計，於 $0^\\circ\\text{C}$、1 大氣壓下，丙的體積為 1.57 公升。\n\n3. 此大理石粉中的碳酸鈣重量百分比為何？（2 分）",
+    "points": 2,
+    "blanks": [
+      "70"
+    ],
+    "blankLabels": [
+      "重量百分比（%）"
+    ],
+    "acceptedBlanks": [
+      [
+        "70%"
+      ]
+    ],
+    "explanation": "【計量關係】\n$n_{\\text{CaCO}_3} = n_{\\text{CaC}_2} = n_{\\text{C}_2\\text{H}_2} = \\dfrac{1.57}{22.4} \\approx 0.070\\text{ mol}$\n$\\text{CaCO}_3$ 質量 $= 0.070 \\times 100 = 7.0\\text{ g}$，百分比 $= \\dfrac{7.0}{10} \\times 100\\% = 70\\%$\n\n答：70%"
+  },
+  {
+    "id": "109-ast-chem-non-1-4",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】取 10 克大理石粉（主要成分為 $\\text{CaCO}_3$，式量 100）和過量煤焦（C）均勻混合後，在高溫、隔氧下加熱反應。假設碳酸鈣完全反應後，可得到混合氣體甲（莫耳數比為 $1:1$ 的 CO 與 $\\text{CO}_2$）及固體乙。固體乙與過量水完全反應產生可燃性氣體丙，若水的蒸氣壓可以忽略不計，於 $0^\\circ\\text{C}$、1 大氣壓下，丙的體積為 1.57 公升。\n\n4. 在 0°C、1 大氣壓下，混合氣體甲的體積為何？（2 分）",
+    "points": 2,
+    "blanks": [
+      "3.14"
+    ],
+    "blankLabels": [
+      "體積（L）"
+    ],
+    "acceptedBlanks": [
+      [
+        "3.14L",
+        "3.1",
+        "3.1L"
+      ]
+    ],
+    "explanation": "【同溫同壓下體積比 = 莫耳數比】\n每 1 mol $\\text{CaCO}_3$ 生成 CO 與 $\\text{CO}_2$ 共 2 mol，也生成 1 mol $\\text{C}_2\\text{H}_2$。所以 $n_甲 = 2n_丙$：\n$$V_甲 = 2 \\times 1.57 = 3.14\\text{ L}$$\n\n答：3.14 L"
+  },
+  {
+    "id": "109-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】氫鍵是一種重要的分子間作用力，除了 H－F、H－O 及 H－N 等鍵結的分子外，還有其他鍵結方式的分子也會形成分子間氫鍵。例如：H－C≡N 可形成分子間氫鍵，因為氮原子電負度大，即使間隔一個碳原子，仍可使氫原子帶有部分正電荷而形成氫鍵。氯原子與氮原子的電負度類似，在某些情況下，含氯的分子也可與鄰近分子的孤對電子（孤電子對）形成氫鍵。小明在實驗室找了下列四種常見有機物質：甲：正己烷（$\\text{C}_6\\text{H}_{14}$）、乙：乙醚（$\\text{C}_4\\text{H}_{10}\\text{O}$）、丙：氯仿（$\\text{CHCl}_3$）、丁：2,2-二氯丙烷（$\\text{C}_3\\text{H}_6\\text{Cl}_2$）。將以上物質各取 25.0 毫升於簡易卡計中分別兩兩混合，達熱平衡後，測量溫度的變化量。當混合後放熱越多，表示分子間氫鍵越強。\n\n1. 取各物質精確體積 25.0 毫升時，必須使用到圖 9 中的哪一項器材？（寫出此器材的名稱及代號）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-chem-non-2.png\" alt=\"圖9 五種玻璃器材 (A)～(E)\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "C",
+      "分度吸量管"
+    ],
+    "blankLabels": [
+      "代號",
+      "器材名稱"
+    ],
+    "acceptedBlanks": [
+      [
+        "(C)"
+      ],
+      [
+        "刻度吸量管",
+        "吸量管",
+        "分度吸管"
+      ]
+    ],
+    "explanation": "【精確量取液體體積】\n(A) 量筒精確度較差；(B) 滴管無法定量；(D) 錐形瓶、(E) 圓底燒瓶不是量器。要精確量取 25.0 mL，使用 (C) 分度吸量管（或定量吸量管）。\n\n答：(C) 分度吸量管"
+  },
+  {
+    "id": "109-ast-chem-non-2-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】氫鍵是一種重要的分子間作用力，除了 H－F、H－O 及 H－N 等鍵結的分子外，還有其他鍵結方式的分子也會形成分子間氫鍵。例如：H－C≡N 可形成分子間氫鍵，因為氮原子電負度大，即使間隔一個碳原子，仍可使氫原子帶有部分正電荷而形成氫鍵。氯原子與氮原子的電負度類似，在某些情況下，含氯的分子也可與鄰近分子的孤對電子（孤電子對）形成氫鍵。小明在實驗室找了下列四種常見有機物質：甲：正己烷（$\\text{C}_6\\text{H}_{14}$）、乙：乙醚（$\\text{C}_4\\text{H}_{10}\\text{O}$）、丙：氯仿（$\\text{CHCl}_3$）、丁：2,2-二氯丙烷（$\\text{C}_3\\text{H}_6\\text{Cl}_2$）。將以上物質各取 25.0 毫升於簡易卡計中分別兩兩混合，達熱平衡後，測量溫度的變化量。當混合後放熱越多，表示分子間氫鍵越強。\n\n2. 甲－丁四種物質中，哪兩種物質之間的分子間氫鍵最強？（2 分）",
+    "points": 2,
+    "blanks": [
+      "乙丙"
+    ],
+    "blankLabels": [
+      "兩種物質（代號）"
+    ],
+    "acceptedBlanks": [
+      [
+        "丙乙",
+        "乙和丙",
+        "丙和乙",
+        "乙、丙",
+        "丙、乙",
+        "乙,丙",
+        "丙,乙",
+        "乙與丙",
+        "丙與乙",
+        "乙醚和氯仿",
+        "氯仿和乙醚"
+      ]
+    ],
+    "explanation": "【氫鍵的提供者與接受者】\n• 氯仿 $\\text{CHCl}_3$ 的 C 上接三個電負度大的 Cl，H 帶較多正電荷，可當氫鍵的提供者。\n• 乙醚的氧有孤對電子，可當氫鍵的接受者。\n• 正己烷兩者皆不具備；2,2-二氯丙烷的 H 接在不與 Cl 同碳的甲基上，H 的正電性較小。\n所以乙醚與氯仿混合時形成最強的分子間氫鍵、放熱最多。\n\n答：乙（乙醚）與丙（氯仿）"
+  },
+  {
+    "id": "109-ast-chem-non-2-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】氫鍵是一種重要的分子間作用力，除了 H－F、H－O 及 H－N 等鍵結的分子外，還有其他鍵結方式的分子也會形成分子間氫鍵。例如：H－C≡N 可形成分子間氫鍵，因為氮原子電負度大，即使間隔一個碳原子，仍可使氫原子帶有部分正電荷而形成氫鍵。氯原子與氮原子的電負度類似，在某些情況下，含氯的分子也可與鄰近分子的孤對電子（孤電子對）形成氫鍵。小明在實驗室找了下列四種常見有機物質：甲：正己烷（$\\text{C}_6\\text{H}_{14}$）、乙：乙醚（$\\text{C}_4\\text{H}_{10}\\text{O}$）、丙：氯仿（$\\text{CHCl}_3$）、丁：2,2-二氯丙烷（$\\text{C}_3\\text{H}_6\\text{Cl}_2$）。將以上物質各取 25.0 毫升於簡易卡計中分別兩兩混合，達熱平衡後，測量溫度的變化量。當混合後放熱越多，表示分子間氫鍵越強。\n\n3. 氯仿與丙酮（$\\text{C}_3\\text{H}_6\\text{O}$）可形成分子間氫鍵，以路易斯結構畫出兩者間的氫鍵鍵結，氫鍵以虛線表示。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "氯仿的 H（C 上接三個 Cl，每個 Cl 畫出三對孤對電子）以虛線連到丙酮羰基 O 的孤對電子：$\\text{Cl}_3\\text{C}-\\text{H}\\cdots\\ddot{\\text{O}}=\\text{C}(\\text{CH}_3)_2$，O 上畫兩對孤對電子。"
+    ],
+    "blankLabels": [
+      "作圖要點"
+    ],
+    "explanation": "【路易斯結構與氫鍵】\n• 氯仿：中心 C 接 1 個 H 與 3 個 Cl，每個 Cl 有 3 對孤對電子。\n• 丙酮：羰基 C＝O，O 有 2 對孤對電子，C 另接兩個 $\\text{CH}_3$。\n• 氫鍵：氯仿的 H 與丙酮 O 上的一對孤對電子之間以虛線連接（C－H⋯O 大致成一直線）。"
+  },
+  {
+    "id": "109-ast-chem-non-3-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】圖 10 為多環芳香烴類化合物芘的結構，芘的分子式為 $\\text{C}_{16}\\text{H}_{10}$，分子量為 202。\n\n1. 在適當條件下，芘可被完全氫化形成飽和烴類化合物。寫出此產物的分子式與分子量。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-chem-non-3.png\" alt=\"圖10 芘的結構\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "C16H26",
+      "218"
+    ],
+    "blankLabels": [
+      "分子式",
+      "分子量"
+    ],
+    "explanation": "【完全氫化】\n芘有 4 個環。飽和的多環烷 $\\text{C}_n\\text{H}_{2n+2-2r}$（$r$ 為環數）：$n = 16$、$r = 4$，$H = 32 + 2 - 8 = 26$。\n分子式 $\\text{C}_{16}\\text{H}_{26}$，分子量 $16 \\times 12 + 26 \\times 1 = 218$。\n（也可由 $\\text{C}_{16}\\text{H}_{10}$ 有 8 個 C＝C（芳香 π 鍵）全部加氫，多 16 個 H 得到。）\n\n答：$\\text{C}_{16}\\text{H}_{26}$，218"
+  },
+  {
+    "id": "109-ast-chem-non-3-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】圖 10 為多環芳香烴類化合物芘的結構，芘的分子式為 $\\text{C}_{16}\\text{H}_{10}$，分子量為 202。\n\n2. 在適當條件下，芘中的一個氫原子可被置換成溴原子。在不考慮實際產率的情況下，此一反應的單一溴取代產物可能有幾種？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-chem-non-3.png\" alt=\"圖10 芘的結構\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "3"
+    ],
+    "blankLabels": [
+      "種數"
+    ],
+    "explanation": "【對稱性與等價氫】\n芘的結構有高度對稱（兩條互相垂直的鏡面），10 個 H 分成 3 組等價位置：\n• 1、3、6、8 位（4 個）\n• 2、7 位（2 個）\n• 4、5、9、10 位（4 個）\n所以單溴取代物有 3 種。\n\n答：3 種"
+  },
+  {
+    "id": "109-ast-chem-non-3-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】圖 10 為多環芳香烴類化合物芘的結構，芘的分子式為 $\\text{C}_{16}\\text{H}_{10}$，分子量為 202。\n\n3. 芘與苯相似可進行硝化反應，生成硝基芘。寫出一般硝化反應試劑為何？（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "濃硝酸與濃硫酸（混酸）"
+    ],
+    "blankLabels": [
+      "試劑"
+    ],
+    "explanation": "【芳香族硝化】\n以濃硝酸與濃硫酸的混合酸為試劑；濃硫酸使硝酸產生硝醯離子 $\\text{NO}_2^+$，再與芳香環進行親電子取代。\n\n答：濃 $\\text{HNO}_3$ 與濃 $\\text{H}_2\\text{SO}_4$"
   }
 ]
