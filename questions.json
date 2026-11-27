@@ -34784,5 +34784,664 @@
       "反應式"
     ],
     "explanation": "濾液丁為澄清石灰水，通入 $\\text{CO}_2$ 生成白色碳酸鈣沉澱。"
+  },
+  {
+    "id": "99-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "開發能源與維護環境是現代科技所面臨的兩大挑戰。若能利用太陽能來電解水，產生氫氣與氧氣以供氫氧燃料電池使用，就可以獲得有用的能量與非常乾淨的水，這樣就不會造成環境的問題。試問 90 公斤的水，完全電解可產生幾公斤的氫？",
+    "options": [
+      "0.5",
+      "1",
+      "5",
+      "10",
+      "20"
+    ],
+    "answerIndex": 3,
+    "explanation": "【質量比】\n$\\text{H}_2\\text{O}$ 中氫占 $\\dfrac{2}{18}$：$90\\times\\dfrac{2}{18} = 10$ 公斤。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列氧化物，哪一個<u>無法</u>和氧氣反應？",
+    "options": [
+      "CO",
+      "$\\text{N}_2\\text{O}$",
+      "$\\text{As}_2\\text{O}_3$",
+      "$\\text{P}_4\\text{O}_6$",
+      "$\\text{SO}_3$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【最高氧化數】\n$\\text{SO}_3$ 中 S 已是最高氧化數 +6，不能再被氧化。其他：CO → $\\text{CO}_2$、$\\text{N}_2\\text{O}$ → NO 等、$\\text{As}_2\\text{O}_3$（+3）→ $\\text{As}_2\\text{O}_5$、$\\text{P}_4\\text{O}_6$（+3）→ $\\text{P}_4\\text{O}_{10}$。\n\n故選 (E)"
+  },
+  {
+    "id": "99-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列化學鍵，哪一個最短？",
+    "options": [
+      "C−C",
+      "O−H",
+      "C=O",
+      "C≡C",
+      "C≡N"
+    ],
+    "answerIndex": 1,
+    "explanation": "【鍵長】\n鍵長約為：C−C 154 pm、C=O 123 pm、C≡C 120 pm、C≡N 116 pm、O−H 96 pm。氫原子半徑很小，O−H 鍵最短。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列分子，哪一個屬於多氯聯苯化合物？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-chem-04.png\" alt=\"五個含氯芳香族分子 (A)～(E)\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 2,
+    "explanation": "【多氯聯苯（PCB）】\n「聯苯」是兩個苯環以單鍵直接相連。(C) 是兩個苯環相連、各接數個 Cl，屬於多氯聯苯。(A) 為六氯苯，(B)(D)(E) 為多氯萘、菲、蒽（稠環）。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列選項中，哪一個是形成蛋白質螺旋或褶板結構的主要作用力？",
+    "options": [
+      "氫鍵",
+      "離子鍵",
+      "肽鍵",
+      "凡得瓦力",
+      "靜電力"
+    ],
+    "answerIndex": 0,
+    "explanation": "【蛋白質二級結構】\nα 螺旋與 β 褶板是主鏈上 C=O 與 N−H 之間的氫鍵所維持。肽鍵是連接胺基酸的共價鍵（一級結構）。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關第 17 族元素（鹵素）的性質中，哪一個隨原子序之增大而降低或變小？",
+    "options": [
+      "原子半徑",
+      "第一游離能",
+      "價電子數",
+      "電子親和力",
+      "沸點"
+    ],
+    "answerIndex": 1,
+    "explanation": "【鹵素的週期性】\n原子序增大：半徑變大、第一游離能變小、價電子數都是 7、沸點升高。電子親和力以 Cl 最大，F 反而比 Cl 小，並非單調遞減。只有第一游離能一路變小。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "碳的原子量為 12.01，已知碳的同位素有 $^{12}\\text{C}$、$^{13}\\text{C}$ 及極微量的 $^{14}\\text{C}$。試問下列哪一選項為 $^{12}\\text{C}$ 與 $^{13}\\text{C}$ 在自然界中的含量比例？",
+    "options": [
+      "1：1",
+      "9：1",
+      "49：1",
+      "99：1",
+      "199：1"
+    ],
+    "answerIndex": 3,
+    "explanation": "【平均原子量】\n設 $^{13}\\text{C}$ 占 $x$：$12(1 - x) + 13x = 12.01 \\Rightarrow x = 0.01$，比例 99：1。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "氣體燃燒時非常劇烈，若控制不當常引致爆炸，稱為氣爆。下列 (A) 至 (E) 選項中數字比值分別代表五支試管中混合均勻的天然氣與空氣的體積比。若將混合氣體點火，試問哪一個混合比的爆炸最劇烈？",
+    "options": [
+      "1：1",
+      "1：2",
+      "1：10",
+      "1：15",
+      "1：20"
+    ],
+    "answerIndex": 2,
+    "explanation": "【恰好完全燃燒的比例】\n天然氣主成分 $\\text{CH}_4 + 2\\text{O}_2 \\to \\text{CO}_2 + 2\\text{H}_2\\text{O}$，需 2 體積氧氣，空氣中氧約占 $\\dfrac15$，需約 10 體積空氣。1：10 最接近剛好完全反應，爆炸最劇烈。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "甲醇燃料電池是以甲醇與氧反應，得到電能，並產生二氧化碳與水。陽極端是以甲醇為反應物，而陰極端的反應物是氧氣。試問陽極反應所產生的二氧化碳與陰極反應所產生的水二者的莫耳數比（$\\text{CO}_2 : \\text{H}_2\\text{O}$）為何？",
+    "options": [
+      "1：1",
+      "1：2",
+      "1：3",
+      "2：3",
+      "3：1"
+    ],
+    "answerIndex": 2,
+    "explanation": "【燃料電池的半反應】\n陽極（氧化）：$\\text{CH}_3\\text{OH} + \\text{H}_2\\text{O} \\to \\text{CO}_2 + 6\\text{H}^+ + 6e^-$\n陰極（還原）：$\\dfrac32\\text{O}_2 + 6\\text{H}^+ + 6e^- \\to 3\\text{H}_2\\text{O}$\n轉移相同電子數時，陽極產生 1 mol $\\text{CO}_2$、陰極產生 3 mol $\\text{H}_2\\text{O}$，比為 1：3。\n（總反應淨生成 2 mol 水，是因為陽極消耗了 1 mol 水；題目問的是陰極反應產生的水。）\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關化學電鍍（非電解電鍍）的敘述，哪一個正確？",
+    "options": [
+      "電鍍液中需要有還原劑的存在",
+      "塑膠物質不適用此種方法進行電鍍",
+      "將待鍍物置於陰極，通入直流電流，使欲鍍金屬離子還原於待鍍物表面",
+      "將待鍍物置於陰極，通入交流電流，使欲鍍金屬離子還原於待鍍物表面",
+      "將待鍍物置於陽極，通入交流電流，使欲鍍金屬離子氧化於待鍍物表面"
+    ],
+    "answerIndex": 0,
+    "explanation": "【無電電鍍】\n化學電鍍不通電，靠鍍液中的還原劑把金屬離子還原沉積在待鍍物表面，所以塑膠等不導電物體也可鍍。(C)(D)(E) 描述的是電解電鍍。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關各物質的沸點與熔點的圖示，哪一個<u>錯誤</u>？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-chem-11.png\" alt=\"五張熔沸點圖：(A) 鹵素 (B) 鹵化氫 (C) 直鏈烷類 (D) 鹼金族 (E) 同分異構物\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "(A) 鹵素",
+      "(B) 鹵化氫",
+      "(C) 直鏈烷類",
+      "(D) 鹼金族",
+      "(E) 同分異構物"
+    ],
+    "answerIndex": 1,
+    "explanation": "【熔沸點的趨勢】\n(B) 鹵化氫中 HF 因氫鍵沸點最高（約 20°C），HCl、HBr、HI 沸點依序升高（−85、−67、−35°C）。圖中 HF 偏低、HI 反而最高，趨勢畫錯。\n其他圖都正確：鹵素隨分子量升高；烷類隨碳數升高；鹼金族熔沸點隨原子序下降；乙醇（氫鍵）熔沸點高於二甲醚。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 12-13 題為題組】在某固定溫度，化學反應 $\\text{I}^-(aq) + \\text{OCl}^-(aq) \\rightleftharpoons \\text{OI}^-(aq) + \\text{Cl}^-(aq)$ 的反應物初始濃度、溶液中的氫氧根離子初始濃度及初始速率間的關係如下：\n• 實驗 1：$[\\text{I}^-] = 2\\times10^{-3}$、$[\\text{OCl}^-] = 1.5\\times10^{-3}$、$[\\text{OH}^-] = 1.00$，速率 $1.8\\times10^{-4}$\n• 實驗 2：$[\\text{I}^-] = 4\\times10^{-3}$、$[\\text{OCl}^-] = 1.5\\times10^{-3}$、$[\\text{OH}^-] = 1.00$，速率 $3.6\\times10^{-4}$\n• 實驗 3：$[\\text{I}^-] = 2\\times10^{-3}$、$[\\text{OCl}^-] = 3\\times10^{-3}$、$[\\text{OH}^-] = 2.00$，速率 $1.8\\times10^{-4}$\n• 實驗 4：$[\\text{I}^-] = 4\\times10^{-3}$、$[\\text{OCl}^-] = 3\\times10^{-3}$、$[\\text{OH}^-] = 1.00$，速率 $7.2\\times10^{-4}$\n（濃度單位 M，速率單位 mol/L·s）\n\n12. 上述化學反應的速率常數（$k$）為何（$\\text{s}^{-1}$）？",
+    "options": [
+      "k = 0.1",
+      "k = 6",
+      "k = 10",
+      "k = 60",
+      "k = 600"
+    ],
+    "answerIndex": 3,
+    "explanation": "【由數據求速率定律】\n• 實驗 1→2：$[\\text{I}^-]$ 加倍，速率加倍 → 對 $\\text{I}^-$ 一級。\n• 實驗 2→4：$[\\text{OCl}^-]$ 加倍，速率加倍 → 對 $\\text{OCl}^-$ 一級。\n• 實驗 1→3：$[\\text{OCl}^-]$ 加倍（速率應加倍）、$[\\text{OH}^-]$ 加倍，結果速率不變 → 對 $\\text{OH}^-$ 為 −1 級。\n$r = k\\dfrac{[\\text{I}^-][\\text{OCl}^-]}{[\\text{OH}^-]}$，代入實驗 1：$1.8\\times10^{-4} = k\\dfrac{(2\\times10^{-3})(1.5\\times10^{-3})}{1.00} \\Rightarrow k = 60\\ \\text{s}^{-1}$\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 12-13 題為題組】在某固定溫度，化學反應 $\\text{I}^-(aq) + \\text{OCl}^-(aq) \\rightleftharpoons \\text{OI}^-(aq) + \\text{Cl}^-(aq)$ 的反應物初始濃度、溶液中的氫氧根離子初始濃度及初始速率間的關係如下：\n• 實驗 1：$[\\text{I}^-] = 2\\times10^{-3}$、$[\\text{OCl}^-] = 1.5\\times10^{-3}$、$[\\text{OH}^-] = 1.00$，速率 $1.8\\times10^{-4}$\n• 實驗 2：$[\\text{I}^-] = 4\\times10^{-3}$、$[\\text{OCl}^-] = 1.5\\times10^{-3}$、$[\\text{OH}^-] = 1.00$，速率 $3.6\\times10^{-4}$\n• 實驗 3：$[\\text{I}^-] = 2\\times10^{-3}$、$[\\text{OCl}^-] = 3\\times10^{-3}$、$[\\text{OH}^-] = 2.00$，速率 $1.8\\times10^{-4}$\n• 實驗 4：$[\\text{I}^-] = 4\\times10^{-3}$、$[\\text{OCl}^-] = 3\\times10^{-3}$、$[\\text{OH}^-] = 1.00$，速率 $7.2\\times10^{-4}$\n（濃度單位 M，速率單位 mol/L·s）\n\n13. 若實驗編號 1 的其他濃度不變，僅將溶液的酸鹼值變更為 pH = 13，反應的初始速率為何（mol/L s）？",
+    "options": [
+      "$1.8\\times10^{-2}$",
+      "$1.8\\times10^{-3}$",
+      "$1.8\\times10^{-4}$",
+      "$1.8\\times10^{-5}$",
+      "$1.8\\times10^{-6}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【承上題】\npH 13：$[\\text{OH}^-] = 0.1$ M，為實驗 1 的 $\\dfrac{1}{10}$，速率與 $[\\text{OH}^-]$ 成反比，變為 10 倍：$1.8\\times10^{-3}$ mol/L·s。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列哪一選項中的所有化合物，均同時具有離子鍵、$\\sigma$ 鍵及 $\\pi$ 鍵？",
+    "options": [
+      "$\\text{NaN}_3$、NaCN",
+      "$\\text{CH}_3\\text{COOH}$、$\\text{H}_2\\text{CO}$",
+      "$\\text{NaN}_3$、$[\\text{Co(NH}_3)_5(\\text{CO}_3)]$",
+      "$\\text{TiO}_2$、$[\\text{Co(NH}_3)_5(\\text{CO}_3)]$",
+      "$[\\text{Co(NH}_3)_5(\\text{CO}_3)]$、$\\text{CH}_3\\text{COOH}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【鍵結判斷】\n$\\text{NaN}_3$：$\\text{Na}^+$ 與 $\\text{N}_3^-$ 間為離子鍵，$\\text{N}_3^-$ 內有 N=N=N（σ 與 π）。NaCN：$\\text{CN}^-$ 內有 C≡N（σ 與 π）。兩者都符合。\n$\\text{CH}_3\\text{COOH}$、$\\text{H}_2\\text{CO}$ 是分子，沒有離子鍵；題中的鈷錯合物為中性分子（$\\text{CO}_3^{2-}$ 為配位基），也沒有離子鍵。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "以草酸鈉標定過錳酸鉀溶液的反應，會產生錳(Ⅱ)離子以及二氧化碳。下列有關草酸鈉標定過錳酸鉀實驗的敘述，哪一個正確？",
+    "options": [
+      "滴定過程中，過錳酸鉀被氧化，草酸鈉被還原",
+      "溫度需超過 100℃，草酸鈉與過錳酸鉀才會反應",
+      "滴定過程中溶液呈紅紫色，是因為加入酚酞指示劑",
+      "草酸鈉性質穩定不易變質，所以適用於標定過錳酸鉀溶液",
+      "過錳酸鉀 2 莫耳與草酸鈉 5 莫耳作用，會產生 2 莫耳的錳(Ⅱ)離子與 5 莫耳的二氧化碳"
+    ],
+    "answerIndex": 3,
+    "explanation": "【標定過錳酸鉀】\n$2\\text{MnO}_4^- + 5\\text{C}_2\\text{O}_4^{2-} + 16\\text{H}^+ \\to 2\\text{Mn}^{2+} + 10\\text{CO}_2 + 8\\text{H}_2\\text{O}$\n• (A) 相反：過錳酸鉀被還原、草酸鈉被氧化。\n• (B) 加熱到約 60～70°C 即可，不能超過 100°C（草酸會分解）。\n• (C) 紫色來自過錳酸鉀本身（自身指示劑）。\n• (D) 正確：草酸鈉純度高、穩定，是一級標準物。\n• (E) 產生 10 mol $\\text{CO}_2$。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "points": 3,
+    "question": "某生想要探討鐵(Ⅲ)離子與硫氰根離子（$\\text{SCN}^-$）的反應，於是先配製了一澄清 0.1 M 的 $\\text{Fe(NO}_3)_3$ 溶液 100 mL，但在配製過程中，忘記加入稀硫酸加以酸化。當 $\\text{Fe(NO}_3)_3$ 溶液靜置一段時間後，發現該溶液變成混濁，同時容器底部有少許黃褐色沉澱。試問下列哪一項最有可能為該沉澱物？",
+    "options": [
+      "FeO",
+      "$\\text{Fe}_2\\text{O}_3$",
+      "$\\text{FeCO}_3$",
+      "$\\text{Fe(SCN)}_3$",
+      "$\\text{Fe(OH)}_3$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【鐵離子水解】\n$\\text{Fe}^{3+}$ 在水中水解：$\\text{Fe}^{3+} + 3\\text{H}_2\\text{O} \\rightleftharpoons \\text{Fe(OH)}_3 + 3\\text{H}^+$。沒有加酸抑制水解，就生成黃褐色的氫氧化鐵沉澱。\n\n故選 (E)"
+  },
+  {
+    "id": "99-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "家用桶裝瓦斯內所裝的液化石油氣（LPG），其主要成分為丙烷。下列敘述，哪些正確？",
+    "options": [
+      "液化石油氣的密度比水大",
+      "液化石油氣本身具有難聞的臭味",
+      "相同莫耳數的液化石油氣完全燃燒時所產生的熱量比天然氣的高",
+      "相同莫耳數的液化石油氣與天然氣，分別各自完全燃燒時，前者所需空氣量比後者多",
+      "在同溫時，只剩半桶與剩四分之一桶的液化石油氣，其鋼桶內壓力相同"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "【液化石油氣】\n• (A) 錯：液態丙烷密度約 0.5 g/mL，比水小。\n• (B) 錯：本身無味，臭味是添加的硫醇警示劑。\n• (C)(D) 正確：丙烷 $\\text{C}_3\\text{H}_8$ 比甲烷大，燃燒熱較大、所需氧氣（5 mol 對 2 mol）較多。\n• (E) 正確：只要桶內仍有液體，氣液平衡時的壓力是該溫度下的飽和蒸氣壓，與剩下多少無關。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "99-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "容器 A 和 B 含有不同數量的氦原子（He）和氫分子（$\\text{H}_2$），其數量如示意圖 1 所示（A：He 4 個、$\\text{H}_2$ 4 個；B：He 6 個、$\\text{H}_2$ 9 個）。若容器 B 的體積為容器 A 的 2 倍，且兩容器之溫度相同，而所有的氣體均可視為理想氣體，則下列哪些敘述正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-chem-18.png\" alt=\"圖1 容器 A 與 B 中的 He（黑點）與 H2（白點）\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "容器 A 中之氫與氦的分壓相同",
+      "容器 B 之氣體密度較容器 A 大",
+      "容器 B 之氣體總壓力較容器 A 大",
+      "容器 B 之氣體平均動能較容器 A 大",
+      "容器 A 中，氫分子的平均速率比氦大"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "【分壓與密度】\n• (A) 正確：A 中 He 與 $\\text{H}_2$ 都是 4 個，分壓相同。\n• (B) 錯：質量 A $= 4\\times4 + 4\\times2 = 24$、B $= 6\\times4 + 9\\times2 = 42$；體積 B 是 A 的 2 倍，密度 A 為 24、B 為 21（相對值），A 較大。\n• (C) 錯：粒子數密度 A $\\dfrac{8}{1}$、B $\\dfrac{15}{2} = 7.5$，A 壓力較大。\n• (D) 錯：同溫，平均動能相同。\n• (E) 正確：同溫下分子量小的 $\\text{H}_2$ 速率較大。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "99-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "稠五苯（pentacene）的構造如圖 2，是一個有機導電分子。由稠五苯所製成的有機光電材料，已用於可撓曲顯示器，可捲曲而可方便攜帶。下列有關稠五苯的敘述，何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-chem-19.png\" alt=\"圖2 稠五苯：五個苯環直線稠合\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "稠五苯易進行加成反應",
+      "稠五苯屬於芳香族化合物",
+      "稠五苯是撓曲的非平面結構",
+      "稠五苯分子中共有 20 個 $\\pi$ 電子",
+      "稠五苯的 $\\pi$ 電子並非固定於某兩個碳原子之間"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【稠環芳香烴】\n• (A) 錯：芳香族化合物較易取代、不易加成。\n• (B) 正確。\n• (C) 錯：所有碳都是 sp²，為平面分子。\n• (D) 錯：$\\text{C}_{22}\\text{H}_{14}$，22 個碳各提供 1 個 π 電子，共 22 個。\n• (E) 正確：π 電子非定域，在整個共軛系統中共振。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "99-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "已知丁烯二酸有順、反兩種異構物，兩者熔點的差異約 160℃。王、林、陳三位學生欲利用再結晶法，純化某一含有此二異構物的混合物。三位學生分別使用不同的溶劑溶解混合物後，取得再結晶的固體，並利用熔點測定來判斷所獲得固體的種類及其純度。其中，王同學測得的熔點為 140～142℃、林同學為 150～170℃、陳同學為 298～301℃。下列有關上述實驗及此二異構物的敘述，哪些正確？",
+    "options": [
+      "反丁烯二酸的熔點約為 300～302℃",
+      "順丁烯二酸的熔點較反丁烯二酸高",
+      "林同學再結晶所得的固體純度最低",
+      "陳同學再結晶所得的固體，主要含有反丁烯二酸",
+      "王同學再結晶所得的固體，主要含有順丁烯二酸"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explanation": "【熔點與純度】\n反丁烯二酸可形成大量分子間氫鍵、堆積緊密，熔點約 300°C；順式約 140°C，相差約 160°C。\n• (A) 正確、(B) 錯。\n• (C) 正確：林同學的熔點範圍 20°C，最寬、純度最低。\n• (D) 正確：298～301°C 接近反式的熔點。\n• (E) 正確：140～142°C 接近順式的熔點。\n\n故選 (A)(C)(D)(E)"
+  },
+  {
+    "id": "99-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "血紅素（Hb）在血液中扮演輸送氧氣的重要角色，其與氧氣的結合會受血液中 pH 值與溶氧量的影響。下式為血紅素、氧氣和氫離子間的平衡關係：\n$\\text{HbH}^+(aq) + \\text{O}_2(aq) \\rightleftharpoons \\text{HbO}_2(aq) + \\text{H}^+(aq)$\n下列有關血紅素攜氧量的敘述，哪些正確？",
+    "options": [
+      "在高壓氧氣下，血紅素的攜氧量會下降",
+      "由上式可知，在氧分壓高的情況下，血紅素的攜氧量較高",
+      "某人登上玉山頂時，血液中血紅素的攜氧量，會比在平地時高",
+      "若血液 pH 值為 7.4，則血紅素的攜氧量，會比 pH 值為 7.0 時高",
+      "運動時，血液中的二氧化碳會增加，此時血紅素的攜氧量，會比運動前低"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "【勒沙特列原理】\n• 氧分壓高 → 平衡右移，攜氧量高：(B) 正確、(A) 錯；高山上氧分壓低，攜氧量下降，(C) 錯。\n• pH 高（$[\\text{H}^+]$ 低）→ 平衡右移：(D) 正確。\n• 運動時 $\\text{CO}_2$ 增加使血液變酸，平衡左移、釋出氧氣給組織，攜氧量降低：(E) 正確。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "99-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "紅血球內的血紅素有傳輸氧氣的功能，其構造中含有大環分子卟啉（甲）及咪唑（乙）的鐵錯合物，可以與氧氣結合。圖 3 中的丙為血紅素與氧氣結合部分的模擬結構圖。下列與此相關的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-chem-22.png\" alt=\"圖3 甲 卟啉、乙 咪唑、丙 鐵與卟啉四個 N、咪唑及 O2 配位的錯合物\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "卟啉及咪唑都是弱酸性化合物",
+      "丙的鐵錯合物是八面體結構",
+      "丙的鐵錯合物，鐵的氧化數是 +2",
+      "丙的鐵錯合物，鐵的配位數是 6",
+      "丙的鐵錯合物中，鐵離子的電子組態有 4s 電子"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "acceptedAnswerIndices": [
+      [
+        1,
+        3
+      ]
+    ],
+    "explanation": "【血紅素的鐵錯合物】\n• (A) 錯：兩者都含有可接受質子的 N，主要表現為弱鹼性。\n• (B)(D) 正確：鐵與卟啉的 4 個 N、咪唑的 1 個 N 及 $\\text{O}_2$ 配位，配位數 6，八面體。\n• (C) 血紅素中的鐵為 $\\text{Fe}^{2+}$（大考中心公告 BCD 或 BD 皆給分，因與氧結合後鐵的氧化數有不同的描述方式）。\n• (E) 錯：過渡金屬離子先失去 4s 電子，$\\text{Fe}^{2+}$ 為 $[\\text{Ar}]3d^6$。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "99-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "汽車排氣中的 $\\text{NO}_2$ 已造成嚴重空氣污染，因此盼望化學家能找到適合的化合物 G 與適當的反應條件，以進行下列反應，而將 $\\text{NO}_2$ 變成無害的 $\\text{N}_2$：\n$\\text{NO}_2 + \\text{G} \\xrightarrow{\\text{觸媒}} \\text{N}_2 + \\text{H}_2\\text{O} + n\\text{X}$（未平衡的反應式）\n上式中 $n$ 是係數，但也可以為 0，而 X 必須為任何無害的物質。試問下列化合物中，哪些可以滿足上述反應式中的 G？",
+    "options": [
+      "$\\text{NH}_3$",
+      "$\\text{CO}_2$",
+      "$\\text{SO}_2$",
+      "$\\text{H}_2\\text{O}_2$",
+      "$\\text{CH}_3\\text{CH}_2\\text{OH}$"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "【還原 NO₂】\nN 由 +4 變 0，G 必須是還原劑，且產物要有 $\\text{H}_2\\text{O}$（G 需含 H），其他產物 X 要無害。\n• (A) 正確：$6\\text{NO}_2 + 8\\text{NH}_3 \\to 7\\text{N}_2 + 12\\text{H}_2\\text{O}$（$n = 0$）。\n• (D) 正確：遇到更強的氧化劑時，$\\text{H}_2\\text{O}_2$ 可作還原劑，O 由 −1 變 0：$2\\text{NO}_2 + 4\\text{H}_2\\text{O}_2 \\to \\text{N}_2 + 4\\text{H}_2\\text{O} + 2\\text{O}_2$，X 為無害的氧氣。\n• (E) 正確：乙醇被氧化為 $\\text{CO}_2$（無害），同時生成水。\n• (B) $\\text{CO}_2$ 中 C 已是最高氧化數，不能當還原劑；(C) $\\text{SO}_2$ 不含 H，無法生成水，且產物硫氧化物有害。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "99-ast-chem-24",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "以 $\\text{MnO}_2$ 催化 $\\text{KClO}_3$ 熱分解產生氧氣的反應式如下：\n$2\\text{KClO}_3(s) \\xrightarrow{\\text{MnO}_2} 3\\text{O}_2(g) + 2\\text{KCl}(s)$\n雖然上列反應極近於完全，但不是唯一的反應，亦即尚有少量的副反應，導致所產出的氣體有異常的氣味。為了探究臭味的成分，做了下列的實驗：\n(1) 將產生的氣體通過潤濕的碘化鉀−澱粉試紙（如圖 4），結果試紙顯現紫藍色。\n(2) 將產生的氣體通過硝酸銀溶液，則產生白色沉澱。\n(3) 所產生的氣體經質譜儀分析，在複雜的質譜圖中，有質量尖峰（相當於分子量）出現在 67 與 69 的位置，而其強度比約為 3：1。\n試問在熱分解 $\\text{KClO}_3$ 時，可能產生哪些物質以氣體的狀態逸出？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-chem-24.png\" alt=\"圖4 加熱 KClO3 + MnO2，氣體經橡皮管通過潤濕的 KI-澱粉試紙\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "氧氣",
+      "氯氣",
+      "臭氧",
+      "氯化鉀",
+      "二氧化氯"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "【由實驗推氣體成分】\n• 主產物是氧氣 (A)。\n• (1) 使 KI-澱粉變藍：有氧化性氣體（$\\text{Cl}_2$、$\\text{ClO}_2$ 都可氧化 $\\text{I}^-$）。\n• (2) 與 $\\text{AgNO}_3$ 生成白色 AgCl：氣體含氯，例如 $\\text{Cl}_2$ 溶於水生成 $\\text{Cl}^-$ (B)。\n• (3) 分子量 67、69 且強度 3：1：恰為 $^{35}\\text{ClO}_2$（$35 + 32$）與 $^{37}\\text{ClO}_2$（$37 + 32$），氯同位素豐度約 3：1 (E)。\n• KCl 是固體，不會以氣體逸出；臭氧沒有證據。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "99-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】稱取含有結晶水的草酸鎂（$\\text{MgC}_2\\text{O}_4\\cdot n\\text{H}_2\\text{O}$）樣品（代號 A）1.00 克後，由 25℃ 徐徐加熱至 700℃。在加熱的過程中，不斷通入一大氣壓的乾燥氮氣，結果 A 的質量隨溫度的增高而減輕的情況如下表所示。<u>已知 A 在 100℃ 以上才會逐漸失去結晶水，並約在 230℃ 時完全失去結晶水。</u>\n• 溫度（℃）：25、170、230、400、450、700\n• 質量（g）：1.00、0.88、0.76、0.76、0.27、0.27\n\n1. 試以溫度為橫軸（x），質量為縱軸（y），繪出樣品 A 的質量隨溫度而改變的圖。（注意題幹中劃線的敘述）（4 分）",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "x 軸溫度（0～800℃）、y 軸質量（0～1.20 g），標出 6 點：25～100℃ 為 1.00 g 的水平線（100℃ 以下不失水）；100～230℃ 逐漸下降到 0.76 g；230～400℃ 維持 0.76 g；400～450℃ 降到 0.27 g；之後維持 0.27 g。"
+    ],
+    "blankLabels": [
+      "作圖"
+    ],
+    "explanation": "關鍵：題幹說「100℃ 以上才會逐漸失去結晶水」，所以 25～100℃ 要畫成 1.00 g 的水平線，從 100℃ 才開始下降，不能直接把 25℃ 與 170℃ 兩點連成斜線。"
+  },
+  {
+    "id": "99-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】稱取含有結晶水的草酸鎂（$\\text{MgC}_2\\text{O}_4\\cdot n\\text{H}_2\\text{O}$）樣品（代號 A）1.00 克後，由 25℃ 徐徐加熱至 700℃。在加熱的過程中，不斷通入一大氣壓的乾燥氮氣，結果 A 的質量隨溫度的增高而減輕的情況如下表所示。<u>已知 A 在 100℃ 以上才會逐漸失去結晶水，並約在 230℃ 時完全失去結晶水。</u>\n• 溫度（℃）：25、170、230、400、450、700\n• 質量（g）：1.00、0.88、0.76、0.76、0.27、0.27\n\n2. 為簡化運算，試以 Mg 的原子量為 24.0，$\\text{MgC}_2\\text{O}_4$ 的分子量為 112，列式計算樣品 A 中的 $n$，並寫出 A 的化學式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "2",
+      "MgC2O4·2H2O"
+    ],
+    "blankLabels": [
+      "n",
+      "A 的化學式"
+    ],
+    "acceptedBlanks": [
+      [
+        "n=2",
+        "二"
+      ],
+      [
+        "MgC2O4.2H2O",
+        "MgC2O4•2H2O",
+        "MgC2O4‧2H2O",
+        "MgC2O42H2O"
+      ]
+    ],
+    "explanation": "230℃ 時剩無水 $\\text{MgC}_2\\text{O}_4$ 0.76 g：$\\dfrac{1.00}{112 + 18n} = \\dfrac{0.76}{112} \\Rightarrow 112 + 18n = 147.4 \\Rightarrow n \\approx 1.97 \\approx 2$。\nA 為 $\\text{MgC}_2\\text{O}_4\\cdot2\\text{H}_2\\text{O}$。"
+  },
+  {
+    "id": "99-ast-chem-non-1-3",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】稱取含有結晶水的草酸鎂（$\\text{MgC}_2\\text{O}_4\\cdot n\\text{H}_2\\text{O}$）樣品（代號 A）1.00 克後，由 25℃ 徐徐加熱至 700℃。在加熱的過程中，不斷通入一大氣壓的乾燥氮氣，結果 A 的質量隨溫度的增高而減輕的情況如下表所示。<u>已知 A 在 100℃ 以上才會逐漸失去結晶水，並約在 230℃ 時完全失去結晶水。</u>\n• 溫度（℃）：25、170、230、400、450、700\n• 質量（g）：1.00、0.88、0.76、0.76、0.27、0.27\n\n3. 以完整的化學反應式（包括物質的狀態），表示在 400℃ 至 450℃ 間所發生的化學變化。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{MgC}_2\\text{O}_4(s) \\to \\text{MgO}(s) + \\text{CO}(g) + \\text{CO}_2(g)$"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "設最後產物分子量 $x$：$\\dfrac{0.76}{112} = \\dfrac{0.27}{x} \\Rightarrow x \\approx 40$，即 MgO（24.0 + 16.0）。草酸鎂分解為氧化鎂、一氧化碳與二氧化碳。"
+  },
+  {
+    "id": "99-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】圖 5 為鎂及其化合物所進行之相關反應。\n\n1. 寫出化合物甲加熱分解之平衡反應式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-chem-non-2.png\" alt=\"圖5 鎂與 1 M 硫酸 → 無色溶液 → 加碳酸鈉得白色沉澱甲 → 加熱得無色氣體（通入石灰水得白色沉澱丙）與白色固體乙 → 乙加 1 M 鹽酸 → 加過量 NaOH 得白色沉澱丁\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{MgCO}_3(s) \\xrightarrow{\\Delta} \\text{MgO}(s) + \\text{CO}_2(g)$"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "鎂溶於硫酸得 $\\text{MgSO}_4$；加碳酸鈉生成白色沉澱甲 $\\text{MgCO}_3$。碳酸鎂受熱分解為氧化鎂（白色固體乙）與二氧化碳（無色氣體）。"
+  },
+  {
+    "id": "99-ast-chem-non-2-2",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】圖 5 為鎂及其化合物所進行之相關反應。\n\n2. 寫出化合物乙和 1 M HCl 反應之平衡反應式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-chem-non-2.png\" alt=\"圖5 鎂與 1 M 硫酸 → 無色溶液 → 加碳酸鈉得白色沉澱甲 → 加熱得無色氣體（通入石灰水得白色沉澱丙）與白色固體乙 → 乙加 1 M 鹽酸 → 加過量 NaOH 得白色沉澱丁\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{MgO}(s) + 2\\text{HCl}(aq) \\to \\text{MgCl}_2(aq) + \\text{H}_2\\text{O}(l)$"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "氧化鎂是鹼性氧化物，溶於鹽酸得無色的氯化鎂溶液。"
+  },
+  {
+    "id": "99-ast-chem-non-2-3",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】圖 5 為鎂及其化合物所進行之相關反應。\n\n3. 寫出化合物丙和丁的化學式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-chem-non-2.png\" alt=\"圖5 鎂與 1 M 硫酸 → 無色溶液 → 加碳酸鈉得白色沉澱甲 → 加熱得無色氣體（通入石灰水得白色沉澱丙）與白色固體乙 → 乙加 1 M 鹽酸 → 加過量 NaOH 得白色沉澱丁\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "CaCO3",
+      "Mg(OH)2"
+    ],
+    "blankLabels": [
+      "丙",
+      "丁"
+    ],
+    "acceptedBlanks": [
+      [
+        "碳酸鈣"
+      ],
+      [
+        "氫氧化鎂"
+      ]
+    ],
+    "explanation": "$\\text{CO}_2$ 通入澄清石灰水生成碳酸鈣（丙）；氯化鎂溶液加過量 NaOH 生成白色的氫氧化鎂沉澱（丁）。"
+  },
+  {
+    "id": "99-ast-chem-non-3-1",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】已知丙烷熱裂解後產生丙烯與氫氣，其平衡反應式如下：\n$\\text{C}_3\\text{H}_8(g) \\rightleftharpoons \\text{C}_3\\text{H}_6(g) + \\text{H}_2(g)$\n今將 1.0 莫耳的丙烷置於一個 22.4 升的密閉容器中，並使容器溫度維持在 427℃。經一段時間，反應達平衡後，測得容器內的總壓力為 3.0 大氣壓。假設容器內每一氣體均可視為理想氣體，試列出計算式，求出該反應達平衡後，下列各項數值。\n\n1. 容器內丙烯的莫耳數。（2 分）",
+    "points": 2,
+    "blanks": [
+      "0.17"
+    ],
+    "blankLabels": [
+      "丙烯（mol）"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.17mol",
+        "0.170",
+        "0.169",
+        "0.168",
+        "0.171"
+      ]
+    ],
+    "explanation": "平衡總莫耳數 $n = \\dfrac{PV}{RT} = \\dfrac{3.0\\times22.4}{0.082\\times700} \\approx 1.17$ mol。\n丙烷 $1.0 - x$、丙烯 $x$、氫氣 $x$：$1.0 + x = 1.17 \\Rightarrow x \\approx 0.17$ mol。"
+  },
+  {
+    "id": "99-ast-chem-non-3-2",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】已知丙烷熱裂解後產生丙烯與氫氣，其平衡反應式如下：\n$\\text{C}_3\\text{H}_8(g) \\rightleftharpoons \\text{C}_3\\text{H}_6(g) + \\text{H}_2(g)$\n今將 1.0 莫耳的丙烷置於一個 22.4 升的密閉容器中，並使容器溫度維持在 427℃。經一段時間，反應達平衡後，測得容器內的總壓力為 3.0 大氣壓。假設容器內每一氣體均可視為理想氣體，試列出計算式，求出該反應達平衡後，下列各項數值。\n\n2. 容器內氫氣的質量。（2 分）",
+    "points": 2,
+    "blanks": [
+      "0.34"
+    ],
+    "blankLabels": [
+      "氫氣（g）"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.34g",
+        "0.340",
+        "0.33",
+        "0.35"
+      ]
+    ],
+    "explanation": "氫氣與丙烯莫耳數相同，0.17 mol × 2 g/mol ≈ 0.34 g。"
+  },
+  {
+    "id": "99-ast-chem-non-3-3",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】已知丙烷熱裂解後產生丙烯與氫氣，其平衡反應式如下：\n$\\text{C}_3\\text{H}_8(g) \\rightleftharpoons \\text{C}_3\\text{H}_6(g) + \\text{H}_2(g)$\n今將 1.0 莫耳的丙烷置於一個 22.4 升的密閉容器中，並使容器溫度維持在 427℃。經一段時間，反應達平衡後，測得容器內的總壓力為 3.0 大氣壓。假設容器內每一氣體均可視為理想氣體，試列出計算式，求出該反應達平衡後，下列各項數值。\n\n3. 容器內氫氣的分壓。（2 分）",
+    "points": 2,
+    "blanks": [
+      "0.44"
+    ],
+    "blankLabels": [
+      "氫氣分壓（atm）"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.44atm",
+        "0.43",
+        "0.45",
+        "0.436"
+      ]
+    ],
+    "explanation": "$P_{\\text{H}_2} = 3.0\\times\\dfrac{0.17}{1.17} \\approx 0.44$ atm（或 $\\dfrac{0.17\\times0.082\\times700}{22.4}$）。"
   }
 ]
