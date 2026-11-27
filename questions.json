@@ -451,6 +451,145 @@
     "explanation": "【導體球的電位與電場】\n導體球：$V = \\dfrac{kQ}{R}$，表面電場 $E = \\dfrac{kQ}{R^2} = \\dfrac{V}{R}$。\n• (A) 正確：學生與球等電位而帶同種電荷，頭髮各自帶同性電荷互相排斥而豎起。\n• (B) 錯誤：不帶電的金屬小球靠近時會感應出異性電荷在近側，先被吸引；接觸帶電後才會被排斥。\n• (C) 正確：$E = \\dfrac{V}{R} \\le 3.0\\times10^6 \\implies R \\ge \\dfrac{2.7\\times10^5}{3.0\\times10^6} = 0.090\\text{ m} = 9.0\\text{ cm}$。\n• (D) 錯誤：$Q = \\dfrac{VR}{k} = \\dfrac{2.7\\times10^5 \\times 0.15}{9.0\\times10^9} = 4.5\\times10^{-6}\\text{ C}$。\n• (E) 正確：$\\bar I = \\dfrac{Q}{t} = \\dfrac{4.5\\times10^{-6}}{5.0\\times10^{-3}} = 9.0\\times10^{-4}\\text{ A} = 0.90\\text{ mA}$。\n\n故選 (A)(C)(E)"
   },
   {
+    "id": "110-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】在『金屬的比熱』實驗單元中，有相同質量的兩個純金屬塊 A 和 B，其上的標籤都已脫落在旁，標籤一：比熱 $0.39\\text{ J/(g}^\\circ\\text{C)}$，標籤二：比熱 $0.15\\text{ J/(g}^\\circ\\text{C)}$，因而進行實驗探討，以測定金屬塊的比熱，並貼上正確標籤。已知水的比熱為 $4.2\\text{ J/(g}^\\circ\\text{C)}$、量熱器質量為 $600\\text{ g}$。經多次實驗平均後，所得的數據取兩位有效數字節錄如表 1 與表 2。表 1 為熱水加到盛有冷水的量熱器過程中所得到的實驗數據。表 2 為將金屬塊 A 投入盛有冷水的量熱器過程中所得到的實驗數據。冷水的初始溫度為冷水加入量熱器內達到熱平衡後的溫度。\n\n1. 進行表 1 的測量時，先將冷水加入量熱器達到熱平衡後再加入熱水，而不是直接將熱水加入量熱器，說明此實驗步驟的目的為何？（2 分）",
+    "svg": "<svg viewBox=\"0 0 424 254\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:508.79999999999995px;height:auto;display:block;\"><text x=\"207\" y=\"20\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 1</text><rect x=\"2\" y=\"28\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"72\" y=\"28\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">質量 (g)</text><rect x=\"162\" y=\"28\" width=\"120\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">初始溫度 (°C)</text><rect x=\"282\" y=\"28\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">熱平衡溫度 (°C)</text><rect x=\"2\" y=\"58\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">熱水</text><rect x=\"72\" y=\"58\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">200</text><rect x=\"162\" y=\"58\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"282\" y=\"58\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">65</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">冷水</text><rect x=\"72\" y=\"88\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"162\" y=\"88\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">15</text><rect x=\"282\" y=\"88\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">65</text><text x=\"212\" y=\"152\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 2</text><rect x=\"2\" y=\"160\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"82\" y=\"160\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">質量 (g)</text><rect x=\"172\" y=\"160\" width=\"120\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">初始溫度 (°C)</text><rect x=\"292\" y=\"160\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">熱平衡溫度 (°C)</text><rect x=\"2\" y=\"190\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">冷水</text><rect x=\"82\" y=\"190\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"172\" y=\"190\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">19</text><rect x=\"292\" y=\"190\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">24</text><rect x=\"2\" y=\"220\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"239.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">金屬塊 A</text><rect x=\"82\" y=\"220\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"239.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"172\" y=\"220\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"239.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"292\" y=\"220\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"239.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">24</text></svg>",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "(1) 測量量熱器的初始溫度：量熱器本身的溫度不易直接量，先讓冷水與量熱器達熱平衡，量水溫即可得知量熱器的初溫。(2) 增加系統的熱容量：先加冷水使系統熱容量變大，避免直接倒入熱水時溫度過高而散失較多熱量。"
+    ],
+    "blankLabels": [
+      "目的"
+    ],
+    "explanation": "【量熱器實驗的步驟設計】\n• 量熱器也會吸收熱量，計算時需要知道它的初始溫度 $T_{量}$。量熱器的溫度很難直接量，但冷水與量熱器達熱平衡後，水溫就等於量熱器溫度，因此 $T_{冷} = T_{量}$。\n• 先放冷水讓系統的熱容量變大，再加入熱水時，系統溫度不會升得太高，與環境溫差較小，散失的熱量較少，結果較準確。\n\n答：目的是 (1) 由水溫得知量熱器初溫；(2) 增加系統熱容量以減少熱量散失。"
+  },
+  {
+    "id": "110-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】在『金屬的比熱』實驗單元中，有相同質量的兩個純金屬塊 A 和 B，其上的標籤都已脫落在旁，標籤一：比熱 $0.39\\text{ J/(g}^\\circ\\text{C)}$，標籤二：比熱 $0.15\\text{ J/(g}^\\circ\\text{C)}$，因而進行實驗探討，以測定金屬塊的比熱，並貼上正確標籤。已知水的比熱為 $4.2\\text{ J/(g}^\\circ\\text{C)}$、量熱器質量為 $600\\text{ g}$。經多次實驗平均後，所得的數據取兩位有效數字節錄如表 1 與表 2。表 1 為熱水加到盛有冷水的量熱器過程中所得到的實驗數據。表 2 為將金屬塊 A 投入盛有冷水的量熱器過程中所得到的實驗數據。冷水的初始溫度為冷水加入量熱器內達到熱平衡後的溫度。\n\n2. 實驗時，金屬塊的體積相對於量熱器中水的體積有哪些限制？簡單說明理由。（2 分）",
+    "svg": "<svg viewBox=\"0 0 424 254\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:508.79999999999995px;height:auto;display:block;\"><text x=\"207\" y=\"20\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 1</text><rect x=\"2\" y=\"28\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"72\" y=\"28\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">質量 (g)</text><rect x=\"162\" y=\"28\" width=\"120\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">初始溫度 (°C)</text><rect x=\"282\" y=\"28\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">熱平衡溫度 (°C)</text><rect x=\"2\" y=\"58\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">熱水</text><rect x=\"72\" y=\"58\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">200</text><rect x=\"162\" y=\"58\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"282\" y=\"58\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">65</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">冷水</text><rect x=\"72\" y=\"88\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"162\" y=\"88\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">15</text><rect x=\"282\" y=\"88\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">65</text><text x=\"212\" y=\"152\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 2</text><rect x=\"2\" y=\"160\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"82\" y=\"160\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">質量 (g)</text><rect x=\"172\" y=\"160\" width=\"120\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">初始溫度 (°C)</text><rect x=\"292\" y=\"160\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">熱平衡溫度 (°C)</text><rect x=\"2\" y=\"190\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">冷水</text><rect x=\"82\" y=\"190\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"172\" y=\"190\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">19</text><rect x=\"292\" y=\"190\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">24</text><rect x=\"2\" y=\"220\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"239.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">金屬塊 A</text><rect x=\"82\" y=\"220\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"239.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"172\" y=\"220\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"239.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"292\" y=\"220\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"239.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">24</text></svg>",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "(1) 金屬塊不能太大：必須能完全沒入水中，水量要足以淹過金屬塊。(2) 金屬塊不能太小：否則水溫變化太小，難以準確測量。"
+    ],
+    "blankLabels": [
+      "限制與理由"
+    ],
+    "explanation": "【實驗條件】\n• 金屬塊要完全浸在水中，熱量才能完整地與水交換，所以金屬塊體積不能大到水淹不過。\n• 若金屬塊相對於水太小，它放出的熱量只能讓水溫改變一點點，溫度計難以準確量出溫度變化，誤差變大。\n\n答：金屬塊不可過大（要能完全沒入水中），也不可過小（否則水溫變化太小難以測量）。"
+  },
+  {
+    "id": "110-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】在『金屬的比熱』實驗單元中，有相同質量的兩個純金屬塊 A 和 B，其上的標籤都已脫落在旁，標籤一：比熱 $0.39\\text{ J/(g}^\\circ\\text{C)}$，標籤二：比熱 $0.15\\text{ J/(g}^\\circ\\text{C)}$，因而進行實驗探討，以測定金屬塊的比熱，並貼上正確標籤。已知水的比熱為 $4.2\\text{ J/(g}^\\circ\\text{C)}$、量熱器質量為 $600\\text{ g}$。經多次實驗平均後，所得的數據取兩位有效數字節錄如表 1 與表 2。表 1 為熱水加到盛有冷水的量熱器過程中所得到的實驗數據。表 2 為將金屬塊 A 投入盛有冷水的量熱器過程中所得到的實驗數據。冷水的初始溫度為冷水加入量熱器內達到熱平衡後的溫度。\n\n3. 根據實驗數據，計算金屬塊 A 的比熱（至兩位有效數字）。（3 分）",
+    "svg": "<svg viewBox=\"0 0 424 254\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:508.79999999999995px;height:auto;display:block;\"><text x=\"207\" y=\"20\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 1</text><rect x=\"2\" y=\"28\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"72\" y=\"28\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">質量 (g)</text><rect x=\"162\" y=\"28\" width=\"120\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">初始溫度 (°C)</text><rect x=\"282\" y=\"28\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">熱平衡溫度 (°C)</text><rect x=\"2\" y=\"58\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">熱水</text><rect x=\"72\" y=\"58\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">200</text><rect x=\"162\" y=\"58\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"282\" y=\"58\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">65</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">冷水</text><rect x=\"72\" y=\"88\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"162\" y=\"88\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">15</text><rect x=\"282\" y=\"88\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">65</text><text x=\"212\" y=\"152\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 2</text><rect x=\"2\" y=\"160\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"82\" y=\"160\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">質量 (g)</text><rect x=\"172\" y=\"160\" width=\"120\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">初始溫度 (°C)</text><rect x=\"292\" y=\"160\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">熱平衡溫度 (°C)</text><rect x=\"2\" y=\"190\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">冷水</text><rect x=\"82\" y=\"190\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"172\" y=\"190\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">19</text><rect x=\"292\" y=\"190\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">24</text><rect x=\"2\" y=\"220\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"239.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">金屬塊 A</text><rect x=\"82\" y=\"220\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"239.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"172\" y=\"220\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"239.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"292\" y=\"220\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"239.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">24</text></svg>",
+    "points": 3,
+    "blanks": [
+      "0.39"
+    ],
+    "blankLabels": [
+      "金屬塊 A 的比熱（J/(g°C)）"
+    ],
+    "explanation": "【先求量熱器熱容量，再求比熱】\n1. 由表 1，熱水放熱 = 冷水吸熱 + 量熱器吸熱（量熱器初溫等於冷水初溫 $15^\\circ\\text{C}$）：\n$$200 \\times 4.2 \\times (100 - 65) = 100 \\times 4.2 \\times (65 - 15) + C_{量}(65 - 15)$$\n$$C_{量} = \\frac{29400 - 21000}{50} = 168\\text{ J/}^\\circ\\text{C}$$\n2. 由表 2，金屬塊 A 放熱 = 冷水吸熱 + 量熱器吸熱：\n$$100 \\times s_A \\times (100 - 24) = (100 \\times 4.2 + 168)(24 - 19)$$\n$$s_A = \\frac{588 \\times 5}{7600} \\approx 0.39\\text{ J/(g}^\\circ\\text{C)}$$\n\n答：$s_A \\approx 0.39\\text{ J/(g}^\\circ\\text{C)}$（金屬塊 A 應貼標籤一）"
+  },
+  {
+    "id": "110-ast-phy-non-1-4",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】在『金屬的比熱』實驗單元中，有相同質量的兩個純金屬塊 A 和 B，其上的標籤都已脫落在旁，標籤一：比熱 $0.39\\text{ J/(g}^\\circ\\text{C)}$，標籤二：比熱 $0.15\\text{ J/(g}^\\circ\\text{C)}$，因而進行實驗探討，以測定金屬塊的比熱，並貼上正確標籤。已知水的比熱為 $4.2\\text{ J/(g}^\\circ\\text{C)}$、量熱器質量為 $600\\text{ g}$。經多次實驗平均後，所得的數據取兩位有效數字節錄如表 1 與表 2。表 1 為熱水加到盛有冷水的量熱器過程中所得到的實驗數據。表 2 為將金屬塊 A 投入盛有冷水的量熱器過程中所得到的實驗數據。冷水的初始溫度為冷水加入量熱器內達到熱平衡後的溫度。\n\n4. 若另以電熱板對金屬塊 B 直接加熱，進行比熱測量實驗，實驗時以 $0.50\\text{ A}$ 的電流、$12\\text{ V}$ 的電壓對金屬塊 B 加熱 $2.0$ 分鐘，測得的實驗數據如表 3，試判定金屬塊 B 的比熱，並計算電熱板提供的熱量被金屬塊 B 吸收的百分比。（3 分）",
+    "svg": "<svg viewBox=\"0 0 414 92\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:496.79999999999995px;height:auto;display:block;\"><text x=\"207\" y=\"20\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 3</text><rect x=\"2\" y=\"28\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"82\" y=\"28\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">質量 (g)</text><rect x=\"172\" y=\"28\" width=\"120\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">初始溫度 (°C)</text><rect x=\"292\" y=\"28\" width=\"120\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">最終溫度 (°C)</text><rect x=\"2\" y=\"58\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">金屬塊 B</text><rect x=\"82\" y=\"58\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"172\" y=\"58\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">22</text><rect x=\"292\" y=\"58\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">58</text></svg>",
+    "points": 3,
+    "blanks": [
+      "0.15",
+      "75"
+    ],
+    "blankLabels": [
+      "金屬塊 B 的比熱（J/(g°C)）",
+      "被吸收的百分比（%）"
+    ],
+    "acceptedBlanks": [
+      [],
+      [
+        "75%"
+      ]
+    ],
+    "explanation": "【電能與吸收熱量】\n• 由第 3 小題知 A 的比熱為 $0.39$，所以 B 的比熱是另一個標籤的 $0.15\\text{ J/(g}^\\circ\\text{C)}$。\n• 電熱板提供的能量：$E = IVt = 0.50 \\times 12 \\times 120 = 720\\text{ J}$\n• 金屬塊 B 吸收的熱量：$Q = 100 \\times 0.15 \\times (58 - 22) = 540\\text{ J}$\n• 百分比：$\\dfrac{Q}{E} = \\dfrac{540}{720} = 75\\%$\n\n答：B 的比熱為 $0.15\\text{ J/(g}^\\circ\\text{C)}$，約 $75\\%$ 的熱量被吸收。"
+  },
+  {
+    "id": "110-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】調速器可用來控制馬達的轉速，其結構如圖 14 所示。圓筒狀的外殼固定不動，中心轉軸隨馬達旋轉，軸上兩側各有一質量可忽略的短棒，其上端與中心轉軸連接，下端各有一個質量為 $1.0\\text{ kg}$ 的擺錘，兩短棒與中心轉軸恆在同一平面，且此平面隨中心轉軸旋轉時，短棒可以自由張開或合攏。當張角為 $45^\\circ$ 時，擺錘恰可觸及外殼；當轉速夠大時擺錘會貼著外殼，對外殼施力，以傳達馬達轉速過大的訊息。已知外殼的內半徑為 $0.40\\text{ m}$，重力加速度 $g = 10\\text{ m/s}^2$。\n\n1. 當擺錘恰可觸及外殼而不對外殼施力時，計算此時中心轉軸的角速度。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-phy-non-2.png\" alt=\"圖14 調速器示意圖\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "blanks": [
+      "5"
+    ],
+    "blankLabels": [
+      "角速度（rad/s）"
+    ],
+    "acceptedBlanks": [
+      [
+        "5.0"
+      ]
+    ],
+    "explanation": "【圓錐擺】\n擺錘受短棒拉力 $F$（沿短棒、與鉛直夾 $45^\\circ$）及重力 $mg$，旋轉半徑 $r = 0.40\\text{ m}$。\n• 鉛直方向：$F\\cos 45^\\circ = mg$\n• 水平方向（向心力）：$F\\sin 45^\\circ = mr\\omega^2$\n\n兩式相除：$\\tan 45^\\circ = \\dfrac{r\\omega^2}{g} \\implies \\omega = \\sqrt{\\dfrac{g}{r}} = \\sqrt{\\dfrac{10}{0.40}} = 5\\text{ rad/s}$\n\n答：$\\omega = 5\\text{ rad/s}$"
+  },
+  {
+    "id": "110-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】調速器可用來控制馬達的轉速，其結構如圖 14 所示。圓筒狀的外殼固定不動，中心轉軸隨馬達旋轉，軸上兩側各有一質量可忽略的短棒，其上端與中心轉軸連接，下端各有一個質量為 $1.0\\text{ kg}$ 的擺錘，兩短棒與中心轉軸恆在同一平面，且此平面隨中心轉軸旋轉時，短棒可以自由張開或合攏。當張角為 $45^\\circ$ 時，擺錘恰可觸及外殼；當轉速夠大時擺錘會貼著外殼，對外殼施力，以傳達馬達轉速過大的訊息。已知外殼的內半徑為 $0.40\\text{ m}$，重力加速度 $g = 10\\text{ m/s}^2$。\n\n2. 當中心轉軸以角速度 $6\\text{ rad/s}$ 旋轉時，計算任一擺錘對外殼施加的正向力量值。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-phy-non-2.png\" alt=\"圖14 調速器示意圖\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "blanks": [
+      "4.4"
+    ],
+    "blankLabels": [
+      "正向力（N）"
+    ],
+    "explanation": "【外殼正向力補足向心力】\n擺錘貼著外殼，半徑仍為 $0.40\\text{ m}$，短棒張角仍為 $45^\\circ$。外殼對擺錘的正向力 $N$ 指向圓心。\n• 所需向心力：$f_C = mr\\omega^2 = 1.0 \\times 0.40 \\times 6^2 = 14.4\\text{ N}$\n• 鉛直方向：$F\\cos 45^\\circ = mg = 10\\text{ N}$，所以短棒拉力的水平分量 $F\\sin 45^\\circ = 10\\text{ N}$\n• 水平方向：$F\\sin 45^\\circ + N = f_C \\implies N = 14.4 - 10 = 4.4\\text{ N}$\n\n由牛頓第三定律，擺錘對外殼的正向力量值也是 $4.4\\text{ N}$。\n\n答：$4.4\\text{ N}$"
+  },
+  {
+    "id": "110-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】調速器可用來控制馬達的轉速，其結構如圖 14 所示。圓筒狀的外殼固定不動，中心轉軸隨馬達旋轉，軸上兩側各有一質量可忽略的短棒，其上端與中心轉軸連接，下端各有一個質量為 $1.0\\text{ kg}$ 的擺錘，兩短棒與中心轉軸恆在同一平面，且此平面隨中心轉軸旋轉時，短棒可以自由張開或合攏。當張角為 $45^\\circ$ 時，擺錘恰可觸及外殼；當轉速夠大時擺錘會貼著外殼，對外殼施力，以傳達馬達轉速過大的訊息。已知外殼的內半徑為 $0.40\\text{ m}$，重力加速度 $g = 10\\text{ m/s}^2$。\n\n3. 若擺錘和外殼間的動摩擦係數 $\\mu = 0.25$，當中心轉軸的角速度維持 $6\\text{ rad/s}$ 時，計算任一擺錘因摩擦而損耗的功率。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-phy-non-2.png\" alt=\"圖14 調速器示意圖\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "blanks": [
+      "2.64"
+    ],
+    "blankLabels": [
+      "功率（W）"
+    ],
+    "acceptedBlanks": [
+      [
+        "2.6"
+      ]
+    ],
+    "explanation": "【摩擦力的功率】\n• 動摩擦力：$f_k = \\mu N = 0.25 \\times 4.4 = 1.1\\text{ N}$\n• 擺錘的切線速率：$v = r\\omega = 0.40 \\times 6 = 2.4\\text{ m/s}$\n• 損耗功率：$P = f_k v = 1.1 \\times 2.4 = 2.64\\text{ W}$\n\n答：約 $2.64\\text{ W}$"
+  },
+  {
     "id": "91-ast-phy-01",
     "examType": "分科/指考",
     "year": 91,
