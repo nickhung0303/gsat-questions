@@ -37934,5 +37934,535 @@
       "反應式"
     ],
     "explanation": "• 硫在空氣中燃燒生成 $\\text{SO}_2$（壬）。\n• 哈柏法合成氨（己），用於製造化學肥料。\n• 丁（$\\text{N}_2$）+ 戊（$\\text{O}_2$）→ X（NO），NO 再與氧反應得紅棕色的 $\\text{NO}_2$（辛）。"
+  },
+  {
+    "id": "94-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "據報載：某醫院毒物科主任警告，聚合物 PVC 本身無毒，算是相當穩定的材質，然而使用不當，加熱超過攝氏 60°C，PVC 會釋出可能致癌的物質。因此，多位學者專家贊成環保署訂出法規，禁止食品或飲料的包裝膜及容器使用塑膠材質編號為 3 的 PVC。下列何者為聚合物 PVC 的單體？",
+    "options": [
+      "$\\text{CH}_2{=}\\text{CClCO}_2\\text{CH}_3$",
+      "$\\text{CCl}_2{=}\\text{CCl}_2$",
+      "$\\text{CH}_2{=}\\text{CHCl}$",
+      "$\\text{C}_6\\text{H}_5\\text{CH}{=}\\text{CHCl}$",
+      "$\\text{HC}{\\equiv}\\text{CCl}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【聚氯乙烯】\nPVC 是聚氯乙烯，由氯乙烯 $\\text{CH}_2{=}\\text{CHCl}$ 加成聚合而成。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "將 25.3 克的碳酸鈉溶於水後，調配成 250 mL 的水溶液，試問溶液中，鈉離子的體積莫耳濃度（M）為何？",
+    "options": [
+      "0.26",
+      "0.47",
+      "0.96",
+      "1.56",
+      "1.91"
+    ],
+    "answerIndex": 4,
+    "explanation": "【濃度計算】\n$\\text{Na}_2\\text{CO}_3$：$\\dfrac{25.3}{106} \\approx 0.239$ mol，$\\text{Na}^+$ 0.477 mol。\n$[\\text{Na}^+] = \\dfrac{0.477}{0.250} \\approx 1.91$ M\n\n故選 (E)"
+  },
+  {
+    "id": "94-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 3-4 題為題組】已知 $\\text{HCl}(g)$ 分解產生 $\\text{H}_2(g)$ 和 $\\text{Cl}_2(g)$ 為一吸熱反應，其反應式如下：$2\\text{HCl}(g) \\rightleftharpoons \\text{H}_2(g) + \\text{Cl}_2(g)$\n\n3. 於 500°C 的平衡常數（$K_c$）為 0.01。若將 1.0 莫耳 $\\text{HCl}(g)$ 放入體積為 1.0 升，溫度為 500°C 的容器中，當反應達到平衡時，$\\text{HCl}(g)$ 的分解百分率（%）最接近下列哪一選項？",
+    "options": [
+      "5",
+      "17",
+      "25",
+      "33",
+      "40"
+    ],
+    "answerIndex": 1,
+    "explanation": "【平衡計算】\n設生成 $\\text{H}_2$、$\\text{Cl}_2$ 各 $x$，HCl 剩 $1 - 2x$：\n$\\dfrac{x^2}{(1 - 2x)^2} = 0.01 \\Rightarrow \\dfrac{x}{1 - 2x} = 0.1 \\Rightarrow x \\approx 0.083$\n分解 $2x \\approx 0.17$，約 17%。\n\n故選 (B)"
+  },
+  {
+    "id": "94-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 3-4 題為題組】已知 $\\text{HCl}(g)$ 分解產生 $\\text{H}_2(g)$ 和 $\\text{Cl}_2(g)$ 為一吸熱反應，其反應式如下：$2\\text{HCl}(g) \\rightleftharpoons \\text{H}_2(g) + \\text{Cl}_2(g)$\n\n4. 承上題，下列哪一個因素會使 $\\text{HCl}(g)$ 的分解百分率增高？",
+    "options": [
+      "升溫",
+      "加壓",
+      "減壓",
+      "降溫",
+      "添加催化劑"
+    ],
+    "answerIndex": 0,
+    "explanation": "【勒沙特列原理】\n分解為吸熱反應，升溫使平衡向右，分解率增加。兩邊氣體莫耳數相同（2 → 2），加壓、減壓都不影響；催化劑不改變平衡。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "濃度均為 0.1M 的下列水溶液，何者的導電度最大？",
+    "options": [
+      "$\\text{H}_3\\text{PO}_4$",
+      "$\\text{NaH}_2\\text{PO}_4$",
+      "$\\text{Na}_2\\text{HPO}_4$",
+      "$\\text{Na}_3\\text{PO}_4$",
+      "$\\text{Na}_2\\text{HPO}_3$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【離子濃度與電荷】\n導電度與溶液中離子的數目及電荷有關。$\\text{Na}_3\\text{PO}_4$ 完全解離為 4 個離子，且含 3 價的磷酸根，離子總電荷最多。磷酸是弱酸，解離很少。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列元素與其它元素反應，形成各種穩定化合物時，何者能以最多種氧化數與其它元素鍵結？",
+    "options": [
+      "鈉",
+      "氧",
+      "氟",
+      "銅",
+      "氯"
+    ],
+    "answerIndex": 4,
+    "explanation": "【常見氧化數】\n氯可為 −1、+1、+3、+5、+7（如 HCl、HClO、$\\text{HClO}_2$、$\\text{HClO}_3$、$\\text{HClO}_4$）。鈉只有 +1；氟只有 −1；氧主要為 −2、−1；銅為 +1、+2。\n\n故選 (E)"
+  },
+  {
+    "id": "94-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "將 0.05 g 的磷酸銀粉末加入體積都是 20 mL，濃度均為 0.01M 的下列各水溶液中，試問磷酸銀在何者的溶解度最小？（$\\text{Ag}_3\\text{PO}_4$ 的 $K_{sp} = 3\\times10^{-18}$）",
+    "options": [
+      "NaCl",
+      "$\\text{Na}_3\\text{PO}_4$",
+      "$\\text{AgNO}_3$",
+      "$\\text{HNO}_3$",
+      "$\\text{H}_3\\text{PO}_4$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【同離子效應】\n$K_{sp} = [\\text{Ag}^+]^3[\\text{PO}_4^{3-}]$，對 $\\text{Ag}^+$ 是三次方，加入 $\\text{Ag}^+$ 的抑制效果最大：\n• 0.01 M $\\text{AgNO}_3$：$s = \\dfrac{3\\times10^{-18}}{(0.01)^3} = 3\\times10^{-12}$ M。\n• 0.01 M $\\text{Na}_3\\text{PO}_4$：$(3s)^3(0.01) = 3\\times10^{-18} \\Rightarrow s \\approx 2\\times10^{-6}$ M。\n• NaCl 會生成 AgCl 沉澱，反而促進溶解；酸會與磷酸根結合，也使溶解度增加。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "鈉、鎂及鋁三種物質的第 n 游離能分別為 1090.3，346.6 及 434.2 kcal/mol。試問 n 為何？",
+    "options": [
+      "一",
+      "二",
+      "三",
+      "四",
+      "五"
+    ],
+    "answerIndex": 1,
+    "explanation": "【游離能的突增】\n鈉的第二游離能要移去內層（$2p$）電子，數值特別大（約 1090 kcal/mol）；此時鎂（346.6）與鋁（434.2）的第二游離能仍是移去價電子，數值小得多。所以 n = 2。\n\n故選 (B)"
+  },
+  {
+    "id": "94-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "下表列出各反應的平衡常數值：\n• $\\text{Mn(OH)}_2(s) + \\text{Cd}^{2+}(aq) \\rightleftharpoons \\text{Mn}^{2+}(aq) + \\text{Cd(OH)}_2(s)$　K = 44\n• $\\text{Cu(OH)}_2(s) + \\text{Ni}^{2+}(aq) \\rightleftharpoons \\text{Cu}^{2+}(aq) + \\text{Ni(OH)}_2(s)$　K = $8\\times10^{-5}$\n• $\\text{Mg(OH)}_2(s) + \\text{Mn}^{2+}(aq) \\rightleftharpoons \\text{Mg}^{2+}(aq) + \\text{Mn(OH)}_2(s)$　K = 36\n• $\\text{Cd(OH)}_2(s) + \\text{Ni}^{2+}(aq) \\rightleftharpoons \\text{Cd}^{2+}(aq) + \\text{Ni(OH)}_2(s)$　K = 7.5\n試問下列化合物之飽和水溶液，哪一個的 pH 值最小？",
+    "options": [
+      "$\\text{Ni(OH)}_2$",
+      "$\\text{Mg(OH)}_2$",
+      "$\\text{Mn(OH)}_2$",
+      "$\\text{Cu(OH)}_2$",
+      "$\\text{Cd(OH)}_2$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【由 K 比較溶度積】\n每個反應的 $K = \\dfrac{K_{sp}(\\text{左邊的氫氧化物})}{K_{sp}(\\text{右邊的氫氧化物})}$：\nMn/Cd = 44、Cu/Ni = $8\\times10^{-5}$、Mg/Mn = 36、Cd/Ni = 7.5。\n所以 $K_{sp}$：Mg > Mn > Cd > Ni > Cu。$\\text{Cu(OH)}_2$ 溶解度最小，飽和溶液中 $[\\text{OH}^-]$ 最低，pH 最小。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "圖 1 為水蒸氣、氧氣及氦氣在同溫時，其分子數目對分子速率的分布示意圖：（甲曲線峰最高、速率最低；丙曲線最平、速率最高）。試問圖 1 中，甲、乙及丙三曲線依序為何種氣體？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-chem-10.png\" alt=\"圖1 三種氣體的速率分布曲線甲、乙、丙\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "氧、水蒸氣、氦",
+      "氧、氦、水蒸氣",
+      "水蒸氣、氧、氦",
+      "水蒸氣、氦、氧",
+      "氦、水蒸氣、氧"
+    ],
+    "answerIndex": 0,
+    "explanation": "【分子量與速率分布】\n同溫下分子量愈大，速率愈小、分布愈集中（峰愈高、愈靠左）。分子量 $\\text{O}_2$ 32 > $\\text{H}_2\\text{O}$ 18 > He 4，所以甲為氧、乙為水蒸氣、丙為氦。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關金屬的敘述，何者<u>不正確</u>？",
+    "options": [
+      "導電性最好的金屬是銀",
+      "延展性最好的金屬是金",
+      "氧化鐵的熔點很高，因此冶煉鐵時，必須加入冰晶石當助熔劑",
+      "鋁的化性活潑，但在空氣中可以抗鏽蝕，是因為表面會形成氧化鋁保護層",
+      "除少數貴重金屬外，地殼中金屬多以氧化物的方式存在"
+    ],
+    "answerIndex": 2,
+    "explanation": "【金屬冶煉】\n冰晶石（$\\text{Na}_3\\text{AlF}_6$）是電解法煉鋁時降低氧化鋁熔點的助熔劑；煉鐵時加入的是石灰石，用來除去雜質形成爐渣。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "弱酸（HA）與弱酸鹽（NaA）可配製成緩衝溶液。有一弱酸的解離常數 $K_a = 1\\times10^{-4}$，若配製成 pH 5.0 的緩衝溶液，則溶液中的弱酸與弱酸鹽濃度的比值為何？（即 $\\dfrac{[\\text{HA}]}{[\\text{NaA}]}$）",
+    "options": [
+      "1/1000",
+      "1/100",
+      "1/10",
+      "1",
+      "10"
+    ],
+    "answerIndex": 2,
+    "explanation": "【緩衝溶液】\n$[\\text{H}^+] = K_a\\dfrac{[\\text{HA}]}{[\\text{A}^-]} \\Rightarrow \\dfrac{[\\text{HA}]}{[\\text{A}^-]} = \\dfrac{10^{-5}}{10^{-4}} = \\dfrac{1}{10}$\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列七種物質中，具有極性的共有幾種？$\\text{BeH}_2$、$\\text{CO}_2$、$\\text{H}_2\\text{S}$、$\\text{CH}_4$、$\\text{O}_3$、$\\text{C}_2\\text{H}_2$、$\\text{C}_6\\text{H}_6$",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answerIndex": 1,
+    "acceptedAnswerIndices": [
+      [
+        2
+      ]
+    ],
+    "explanation": "【分子極性】\n$\\text{H}_2\\text{S}$（彎曲形）與 $\\text{O}_3$（彎曲形，中心 O 與兩端 O 的電子分布不同）是極性分子，共 2 種。\n$\\text{BeH}_2$、$\\text{CO}_2$、$\\text{C}_2\\text{H}_2$（直線）、$\\text{CH}_4$（正四面體）、$\\text{C}_6\\text{H}_6$（平面對稱）都是非極性。\n（$\\text{O}_3$ 由同一種元素組成，有人不視為極性分子，因此大考中心公告 B 或 C 皆給分。）\n\n故選 (B)"
+  },
+  {
+    "id": "94-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "points": 3,
+    "question": "將某氣體裝入 20 升的玻璃容器中，測其總重量為 22.80 kg，壓力為 27.95 atm。若將部分氣體放出，容器的總重量變為 22.50 kg，氣體的壓力變為 19.60 atm。假設氣體放出前後，容器溫度均維持在 27°C，且此氣體為一理想氣體，則此氣體一莫耳的質量為何（克）？",
+    "options": [
+      "16",
+      "28",
+      "30",
+      "32",
+      "44"
+    ],
+    "answerIndex": 4,
+    "explanation": "【以差值消去容器重量】\n放出的氣體 $22.80 - 22.50 = 0.30$ kg = 300 g；放出的莫耳數 $\\Delta n = \\dfrac{\\Delta P\\cdot V}{RT} = \\dfrac{8.35\\times20}{0.082\\times300} \\approx 6.8$ mol。\n$M = \\dfrac{300}{6.8} \\approx 44$ g/mol（如 $\\text{CO}_2$）。\n\n故選 (E)"
+  },
+  {
+    "id": "94-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列有關鹼金屬族元素的性質，哪些隨原子序的增大而漸增？",
+    "options": [
+      "原子量",
+      "原子半徑",
+      "離子半徑",
+      "熔點",
+      "第一游離能"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "【鹼金屬的趨勢】\n原子序增加：原子量、原子半徑、離子半徑都增大；金屬鍵變弱，熔點下降；價電子離核較遠，第一游離能下降。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "94-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列化合物中，劃有底線的元素，其混成軌域和 $\\text{C}_6\\text{H}_6$（苯）中的 C 相同的有哪些？",
+    "options": [
+      "$\\underline{\\text{N}}\\text{H}_3$",
+      "$\\underline{\\text{C}}_2\\text{H}_4$",
+      "$\\underline{\\text{C}}\\text{O}_2$",
+      "$\\text{H}_3\\underline{\\text{C}}\\text{OCH}_3$",
+      "$\\text{H}_3\\text{C}\\underline{\\text{C}}\\text{OOH}$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【混成軌域】\n苯的碳是 $sp^2$。\n• $\\text{NH}_3$ 的 N：$sp^3$。• 乙烯的 C：$sp^2$ ✓。• $\\text{CO}_2$ 的 C：$sp$。\n• 甲醚的甲基碳：$sp^3$。• 乙酸的羧基碳（C=O）：$sp^2$ ✓。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "94-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列哪些化合物具有分子內氫鍵？",
+    "options": [
+      "1,3−丙二酸",
+      "鄰二羥基苯",
+      "反−丁烯二酸",
+      "對羥基苯甲酸",
+      "鄰苯二甲酸"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "【分子內氫鍵】\n兩個可形成氫鍵的基團必須在分子中相近：\n• 丙二酸的兩個羧基只隔一個 $\\text{CH}_2$，可形成六員環狀的分子內氫鍵。\n• 鄰二羥基苯、鄰苯二甲酸的取代基在鄰位，彼此靠近。\n• 反丁烯二酸兩個羧基在雙鍵異側、對羥基苯甲酸兩基團在對位，距離太遠，只能形成分子間氫鍵。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "94-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "大理石的主要成分是碳酸鈣，下列哪些因素可以影響大理石在水中的溶解度？",
+    "options": [
+      "pH 值",
+      "攪拌",
+      "水溫",
+      "水的體積",
+      "大理石顆粒的大小"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "【溶解度 vs 溶解速率】\n溶解度是飽和時的濃度，受溫度與溶液組成（如 pH，酸會與碳酸根反應）影響。\n攪拌、顆粒大小只影響溶解的「速率」；水的體積影響能溶解的「量」，都不改變溶解度。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "94-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列哪些化合物可與一當量的 HBr，在適當的反應條件下，得到 2−溴丁烷？",
+    "options": [
+      "2−丁炔",
+      "2−丁酮",
+      "順−2−丁烯",
+      "2−丁醇",
+      "1−丁醛"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【加成與取代】\n• (C) 2-丁烯加成 HBr 得 2-溴丁烷 ✓。\n• (D) 2-丁醇與 HBr 取代（−OH 換成 −Br）得 2-溴丁烷 ✓。\n• (A) 2-丁炔加一當量 HBr 得 2-溴-2-丁烯，仍有雙鍵。\n• (B)(E) 酮、醛與 HBr 不會生成溴烷。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "94-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "於 25°C，將 0.1 莫耳丁烷與過量的氧氣在定體積的容器內完全燃燒。燃燒後，溫度回復至 25°C，則下列有關此反應之敘述，哪些是正確的？",
+    "options": [
+      "需消耗氧氣 0.9 莫耳",
+      "可產生 0.5 莫耳的 $\\text{H}_2\\text{O}$",
+      "可產生 0.4 莫耳的 $\\text{CO}_2$",
+      "燃燒前後，分子數目不變",
+      "燃燒後，容器內的壓力會降低"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【燃燒計量】\n$\\text{C}_4\\text{H}_{10} + \\dfrac{13}{2}\\text{O}_2 \\to 4\\text{CO}_2 + 5\\text{H}_2\\text{O}$\n0.1 mol 丁烷：消耗 $\\text{O}_2$ 0.65 mol（(A) 錯），生成 $\\text{CO}_2$ 0.4 mol、水 0.5 mol（(B)(C) 正確）。\n分子數 $0.1 + 0.65 = 0.75 \\to 0.9$，改變了（(D) 錯）。25°C 時水是液體，氣體由 0.75 減為 0.4 mol（不計過量氧），壓力降低（(E) 正確）。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "94-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列化合物中的鍵結，哪些<u>不符合</u>八隅體規則？",
+    "options": [
+      "$\\text{CO}_2$",
+      "NO",
+      "$\\text{NF}_3$",
+      "$\\text{SO}_2$",
+      "$\\text{BF}_3$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【八隅體例外】\n• NO：價電子 11 個（奇數），N 不可能滿 8。\n• $\\text{BF}_3$：B 周圍只有 6 個電子。\n• $\\text{CO}_2$、$\\text{NF}_3$、$\\text{SO}_2$（共振結構 O=S−O）都可畫出符合八隅體的結構。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "94-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列哪些物質可與 0.1M 的硫酸反應？",
+    "options": [
+      "鋅",
+      "銀",
+      "硝酸鋇",
+      "碳酸鈉",
+      "過錳酸鉀"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "【稀硫酸的反應】\n• 鋅：產生氫氣。• 硝酸鋇：生成 $\\text{BaSO}_4$ 白色沉澱。• 碳酸鈉：產生 $\\text{CO}_2$。\n• 銀活性小於氫，不與稀硫酸反應；過錳酸鉀與硫酸只是混合（提供酸性），沒有反應。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "94-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "將一銅線放入裝有硝酸銀溶液的燒杯中，杯口以塑膠膜封住後，靜置一天。試問下列有關此實驗之敘述，哪些是正確的？",
+    "options": [
+      "銅線為氧化劑",
+      "溶液顏色逐漸變深",
+      "銀離子為還原劑",
+      "溶液中液體的質量逐漸減少",
+      "析出的銀和溶解的銅質量相等"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "【置換反應】\n$\\text{Cu} + 2\\text{Ag}^+ \\to \\text{Cu}^{2+} + 2\\text{Ag}$\n• 銅失去電子，是還原劑；銀離子是氧化劑。(A)(C) 錯。\n• (B) 正確：生成的 $\\text{Cu}^{2+}$ 使溶液藍色漸深。\n• (D) 正確：溶入 63.5 g 銅的同時析出 216 g 銀，溶液質量減少。(E) 錯。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "94-ast-chem-24",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列反應已達平衡，哪些會在溫度固定，反應容器的體積減半時，向右移動？",
+    "options": [
+      "$2\\text{H}_2\\text{S}(g) \\rightleftharpoons 2\\text{H}_2(g) + \\text{S}_2(g)$",
+      "$\\text{CO}(g) + \\text{Cl}_2(g) \\rightleftharpoons \\text{COCl}_2(g)$",
+      "$\\text{CaO}(s) + 3\\text{C}(s) \\rightleftharpoons \\text{CaC}_2(s) + \\text{CO}(g)$",
+      "$\\text{SO}_2(g) + \\text{NO}_2(g) \\rightleftharpoons \\text{SO}_3(g) + \\text{NO}(g)$",
+      "$\\text{CO}_2(g) + \\text{NaOH}(s) \\rightleftharpoons \\text{NaHCO}_3(s)$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【加壓的影響】\n體積減半（壓力增加）使平衡向「氣體莫耳數較少」的一邊移動。只計氣體：\n(A) 2 → 3，向左；(B) 2 → 1，向右 ✓；(C) 0 → 1，向左；(D) 2 → 2，不移動；(E) 1 → 0，向右 ✓。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "94-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】鋁粉與過氯酸銨的混合物可用為太空梭火箭推進器的燃料，其反應式如下：\n$3\\text{Al}(s) + 3\\text{NH}_4\\text{ClO}_4(s) \\to \\text{Al}_2\\text{O}_3(s) + \\text{AlCl}_3(s) + 3\\text{NO}(g) + 6\\text{H}_2\\text{O}(g) + 2677\\text{ kJ}$\n將鋁粉與過氯酸銨各 1.0 莫耳，放入一個體積為 1.0 升、溫度為 400 K 的定體積恆溫反應槽內反應，並測量槽內氣體總壓力隨時間的變化，得二者的關係如圖 2。（假設其氣體為理想氣體）\n\n(1) 求出鋁粉之消耗速率（M/min）。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-chem-non-1.png\" alt=\"圖2 總壓力（atm）對時間（分）：通過原點的直線，10 分鐘時約 0.76 atm\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "約 $7.7\\times10^{-4}$ M/min"
+    ],
+    "blankLabels": [
+      "消耗速率"
+    ],
+    "explanation": "由圖，壓力以每分鐘 0.076 atm 的速率直線上升。氣體生成速率 $= \\dfrac{0.076\\times1.0}{0.082\\times400} \\approx 2.3\\times10^{-3}$ mol/min。\n每消耗 3 mol Al 產生 9 mol 氣體（3 NO + 6 $\\text{H}_2\\text{O}$），Al 消耗速率為氣體生成速率的 $\\dfrac13$：約 $7.7\\times10^{-4}$ M/min（容器 1.0 升）。"
+  },
+  {
+    "id": "94-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】鋁粉與過氯酸銨的混合物可用為太空梭火箭推進器的燃料，其反應式如下：\n$3\\text{Al}(s) + 3\\text{NH}_4\\text{ClO}_4(s) \\to \\text{Al}_2\\text{O}_3(s) + \\text{AlCl}_3(s) + 3\\text{NO}(g) + 6\\text{H}_2\\text{O}(g) + 2677\\text{ kJ}$\n將鋁粉與過氯酸銨各 1.0 莫耳，放入一個體積為 1.0 升、溫度為 400 K 的定體積恆溫反應槽內反應，並測量槽內氣體總壓力隨時間的變化，得二者的關係如圖 2。（假設其氣體為理想氣體）\n\n(2) 計算鋁粉在 5 分鐘內的消耗量（mol）。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-chem-non-1.png\" alt=\"圖2 總壓力（atm）對時間（分）：通過原點的直線，10 分鐘時約 0.76 atm\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "約 $3.9\\times10^{-3}$ mol"
+    ],
+    "blankLabels": [
+      "消耗量"
+    ],
+    "explanation": "5 分鐘時壓力約 0.38 atm，氣體 $\\dfrac{0.38\\times1.0}{0.082\\times400} \\approx 1.16\\times10^{-2}$ mol，Al 消耗 $\\dfrac13$ 即約 $3.9\\times10^{-3}$ mol（$= 7.7\\times10^{-4}\\times5$）。"
+  },
+  {
+    "id": "94-ast-chem-non-1-3",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】鋁粉與過氯酸銨的混合物可用為太空梭火箭推進器的燃料，其反應式如下：\n$3\\text{Al}(s) + 3\\text{NH}_4\\text{ClO}_4(s) \\to \\text{Al}_2\\text{O}_3(s) + \\text{AlCl}_3(s) + 3\\text{NO}(g) + 6\\text{H}_2\\text{O}(g) + 2677\\text{ kJ}$\n將鋁粉與過氯酸銨各 1.0 莫耳，放入一個體積為 1.0 升、溫度為 400 K 的定體積恆溫反應槽內反應，並測量槽內氣體總壓力隨時間的變化，得二者的關係如圖 2。（假設其氣體為理想氣體）\n\n(3) 此反應在 5 分鐘內放出多少熱量（kJ）？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-chem-non-1.png\" alt=\"圖2 總壓力（atm）對時間（分）：通過原點的直線，10 分鐘時約 0.76 atm\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "約 3.4 kJ"
+    ],
+    "blankLabels": [
+      "放出熱量"
+    ],
+    "explanation": "每 3 mol Al 反應放出 2677 kJ：$\\dfrac{3.9\\times10^{-3}}{3}\\times2677 \\approx 3.4$ kJ。"
+  },
+  {
+    "id": "94-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】已知在適當的反應條件下，1−甲基環己烯可與一當量的 $\\text{H}_2(g)$ 反應，生成化合物甲；與一當量的 $\\text{H}_2\\text{O}$ 反應，生成化合物乙；與一當量的 $\\text{KMnO}_4(aq)$ 反應，生成化合物丙。試依據下面的反應途逕，畫出甲、乙及丙分子的結構式。（各 3 分）\n\n畫出化合物甲、乙、丙的結構式。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-chem-non-2.png\" alt=\"1-甲基環己烯：加 H2（鉑）得甲；加 H2O（硫酸）得乙，乙與 K2Cr2O7 不反應；加 KMnO4（室溫、鹼性）得丙\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 9,
+    "selfGrade": true,
+    "blanks": [
+      "甲：甲基環己烷（環己烷上接一個 CH₃）；乙：1-甲基環己醇（OH 與 CH₃ 接在同一個環碳上，為三級醇）；丙：1-甲基環己烷-1,2-二醇（原雙鍵兩個碳各接一個 OH，順式）"
+    ],
+    "blankLabels": [
+      "甲、乙、丙"
+    ],
+    "explanation": "• 甲：加氫，雙鍵變單鍵 → 甲基環己烷。\n• 乙：酸催化加水依馬可尼可夫規則，−OH 加到取代較多的碳（接甲基的碳）→ 1-甲基環己醇。三級醇不被二鉻酸鉀氧化，與題目「沒有反應」相符；若 OH 加到另一個碳（二級醇）就會被氧化。\n• 丙：冷、鹼性的過錳酸鉀使雙鍵兩碳各加上一個 −OH（順式）→ 1-甲基-1,2-環己二醇。"
   }
 ]
