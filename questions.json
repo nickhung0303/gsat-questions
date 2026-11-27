@@ -55539,5 +55539,397 @@
       "相差"
     ],
     "explanation": "設塔高 $x$：$\\dfrac{7x}{25} - \\dfrac x5 = \\dfrac{2x}{25} = 20$，$x = 250$。\n$\\cos\\alpha = \\dfrac{2\\sqrt6}{5}$、$\\cos\\beta = \\dfrac{24}{25}$，塔頂高度分別為 $250\\cdot\\dfrac{2\\sqrt6}{5} = 100\\sqrt6$ 與 $250\\cdot\\dfrac{24}{25} = 240$。\n相差 $100\\sqrt6 - 240 \\approx 244.9 - 240 = 4.9$ 公尺。"
+  },
+  {
+    "id": "110-gsat-math-01",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "points": 5,
+    "question": "1. 設 $A = \\begin{bmatrix} 1 & 2 \\\\ 0 & 3 \\end{bmatrix}$。若 $A^4 = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$，則 $a + b + c + d$ 之值為下列哪一個選項？",
+    "options": [
+      "158",
+      "162",
+      "166",
+      "170",
+      "174"
+    ],
+    "answerIndex": 1,
+    "explanation": "$A^2 = \\begin{bmatrix} 1 & 8 \\\\ 0 & 9 \\end{bmatrix}$，$A^4 = (A^2)^2 = \\begin{bmatrix} 1 & 8 + 72 \\\\ 0 & 81 \\end{bmatrix} = \\begin{bmatrix} 1 & 80 \\\\ 0 & 81 \\end{bmatrix}$。\n（一般地 $A^n = \\begin{bmatrix} 1 & 3^n - 1 \\\\ 0 & 3^n \\end{bmatrix}$。）和 $= 1 + 80 + 0 + 81 = 162$。\n\n故選 (B)"
+  },
+  {
+    "id": "110-gsat-math-02",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "points": 5,
+    "question": "2. 五項實數數列 $a_1, a_2, a_3, a_4, a_5$ 的每一項都大於 1，且每相鄰的兩項中，都有一數是另一數的兩倍。若 $a_1 = \\log_{10}36$，則 $a_5$ 有多少種可能的值？",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7",
+      "8"
+    ],
+    "answerIndex": 0,
+    "explanation": "$a_1 = \\log36 \\approx 1.556$，每一步乘以 2 或除以 2。$a_1 \\div 2 \\approx 0.78 < 1$，所以 $a_n = a_1\\cdot2^{k}$ 中的指數 $k$ 必須 $\\ge 0$。\n$k$ 從 0 開始，每步 $\\pm1$、不能小於 0，四步後 $k$ 為偶數：0、2、4 都做得到（例如 $0\\to1\\to0\\to1\\to0$、$0\\to1\\to2\\to1\\to2$、$0\\to1\\to2\\to3\\to4$）。共 3 種。\n\n故選 (A)"
+  },
+  {
+    "id": "110-gsat-math-03",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "points": 5,
+    "question": "3. 如圖，$\\triangle ABC$ 為銳角三角形，$P$ 為 $\\triangle ABC$ 外接圓 $\\Gamma$ 外的一點，且 $\\overline{PB}$ 與 $\\overline{PC}$ 都與圓 $\\Gamma$ 相切。設 $\\angle BPC = \\theta$，試問 $\\cos A$ 的值為下列哪一個選項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-gsat-math-03.png\" alt=\"外接圓 Γ 與兩切線 PB、PC\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\sin2\\theta$",
+      "$\\dfrac{\\sin\\theta}{2}$",
+      "$\\sin\\dfrac\\theta2$",
+      "$\\dfrac{\\cos\\theta}{2}$",
+      "$\\cos\\dfrac\\theta2$"
+    ],
+    "answerIndex": 2,
+    "explanation": "弦切角等於所夾弧的圓周角：$\\angle PBC = \\angle A$。$\\triangle PBC$ 為等腰（$\\overline{PB} = \\overline{PC}$），$\\angle PBC = \\dfrac{180^\\circ - \\theta}{2} = 90^\\circ - \\dfrac\\theta2$。\n所以 $A = 90^\\circ - \\dfrac\\theta2$，$\\cos A = \\sin\\dfrac\\theta2$。\n\n故選 (C)"
+  },
+  {
+    "id": "110-gsat-math-04",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "points": 5,
+    "question": "4. 設 $\\vec a$ 與 $\\vec b$ 都是平面上不為零的向量。若 $2\\vec a + \\vec b$ 與 $\\vec a + 2\\vec b$ 所張成的三角形面積為 6，則 $3\\vec a + \\vec b$ 與 $\\vec a + 3\\vec b$ 所張成的三角形面積為下列哪一個選項？",
+    "options": [
+      "8",
+      "9",
+      "12",
+      "13.5",
+      "16"
+    ],
+    "answerIndex": 4,
+    "explanation": "$p\\vec a + q\\vec b$ 與 $r\\vec a + s\\vec b$ 張成的面積 $= |ps - qr|\\times(\\vec a, \\vec b$ 張成的面積$)$。\n$\\begin{vmatrix} 2 & 1 \\\\ 1 & 2 \\end{vmatrix} = 3$，所以 $\\vec a, \\vec b$ 張成的三角形面積為 2；$\\begin{vmatrix} 3 & 1 \\\\ 1 & 3 \\end{vmatrix} = 8$，所求 $= 16$。\n\n故選 (E)"
+  },
+  {
+    "id": "110-gsat-math-05",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "points": 5,
+    "question": "5. 設 $f(x)$ 為實係數三次多項式函數，滿足 $(x + 1)f(x)$ 除以 $x^3 + 2$ 的餘式為 $x + 2$。若 $f(0) = 4$，則 $f(2)$ 的值為下列哪一個選項？",
+    "options": [
+      "8",
+      "10",
+      "15",
+      "18",
+      "20"
+    ],
+    "answerIndex": 3,
+    "explanation": "設 $f(x) = a(x^3 + 2) + (px^2 + qx + s)$。$(x + 1)(px^2 + qx + s) = px^3 + (p + q)x^2 + (q + s)x + s \\equiv (p + q)x^2 + (q + s)x + (s - 2p)$（以 $x^3 \\equiv -2$）。\n與 $x + 2$ 比較：$p + q = 0$、$q + s = 1$、$s - 2p = 2$，得 $p = -1$、$q = 1$、$s = 0$。\n$f(0) = 2a = 4$，$a = 2$：$f(2) = 2\\cdot10 + (-4 + 2) = 18$。\n\n故選 (D)"
+  },
+  {
+    "id": "110-gsat-math-06",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "points": 5,
+    "question": "6. 坐標平面上有一邊長為 3 的正六邊形 $ABCDEF$，其中 $A(3, 0)$、$D(-3, 0)$。試問橢圓 $\\dfrac{x^2}{16} + \\dfrac{y^2}{7} = 1$ 與正六邊形 $ABCDEF$ 有多少個交點？",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answerIndex": 4,
+    "explanation": "六邊形頂點 $(\\pm3, 0)$、$(\\pm1.5, \\pm\\frac{3\\sqrt3}{2})$，上邊 $y = \\dfrac{3\\sqrt3}{2} \\approx 2.598$。\n• 橢圓在 $x = 0$ 時 $y = \\sqrt7 \\approx 2.646$，高於上邊；在 $x = \\pm1.5$ 時 $y \\approx 2.45$，低於上邊。所以上邊、下邊各交 2 點。\n• 橢圓在 $y = 0$ 時 $x = \\pm4$，在六邊形外；而在 $x = \\pm1.5$ 時在六邊形內，所以四條斜邊各交 1 點。\n共 $4 + 4 = 8$ 點。\n\n故選 (E)"
+  },
+  {
+    "id": "110-gsat-math-07",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "7. 心理學家找了 1000 位受試者進行暗室實驗，每位受試者都要觀看及辨識 6、8、9 三張數字卡，發現將實際數字看成某個數字的機率如下（看成 6／8／9／其他）：實際 6：0.4／0.3／0.2／0.1；實際 8：0.3／0.4／0.1／0.2；實際 9：0.2／0.2／0.5／0.1。根據上述實驗結果，試選出正確的選項。",
+    "options": [
+      "如果實際數字是 8，則至少有一半的可能性會被看成 8",
+      "如果實際數字是 6，則有六成的可能性會被看成不是 6",
+      "在 6、8、9 三數字中，被誤認的可能性以 9 最低",
+      "如果被看成的數字是 6，則實際上就是 6 的可能性不到一半",
+      "如果被看成的數字是 9，則實際上就是 9 的可能性超過 $\\dfrac23$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "（三張卡出現的機會相等）\n• (A) 錯誤：0.4。\n• (B) 正確：$1 - 0.4 = 0.6$。\n• (C) 正確：誤認率 6、8、9 依序為 0.6、0.6、0.5。\n• (D) 正確：$\\dfrac{0.4}{0.4 + 0.3 + 0.2} = \\dfrac49 < \\dfrac12$。\n• (E) 錯誤：$\\dfrac{0.5}{0.2 + 0.1 + 0.5} = \\dfrac58 < \\dfrac23$。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "110-gsat-math-08",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 如圖，$L$ 為坐標平面上通過原點 $O$ 的直線，$\\Gamma$ 是以 $O$ 為圓心的圓，且 $L$ 與 $\\Gamma$ 有一個交點 $A(3, 4)$。已知 $B, C$ 為 $\\Gamma$ 上的相異兩點滿足 $\\overrightarrow{BC} = \\overrightarrow{OA}$。試選出正確的選項。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-gsat-math-08.png\" alt=\"以 O 為圓心的圓 Γ 與過原點的直線 L 交於 A(3,4)\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$L$ 與 $\\Gamma$ 的另一個交點為 $(-4, -3)$",
+      "直線 $BC$ 的斜率為 $\\dfrac34$",
+      "$\\angle AOC = 60^\\circ$",
+      "$\\triangle ABC$ 的面積為 $\\dfrac{25\\sqrt3}{2}$",
+      "$B$ 與 $C$ 在同一象限內"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "半徑 5，$\\overline{BC} = 5$，$\\triangle OBC$ 為正三角形。設 $\\overrightarrow{OA}$ 的方向角 $\\alpha$（$\\tan\\alpha = \\dfrac43$，約 $53.1^\\circ$）。$\\overrightarrow{BC} \\parallel \\overrightarrow{OA}$ 且同向，得 $C$ 的方向角 $\\alpha - 60^\\circ$、$B$ 為 $\\alpha - 120^\\circ$。\n• (A) 錯誤：另一交點 $(-3, -4)$。\n• (B) 錯誤：$BC \\parallel OA$，斜率 $\\dfrac43$。\n• (C) 正確。\n• (D) 錯誤：$A$、$C$、$B$ 依序相隔 $60^\\circ$，面積 $= \\dfrac12\\cdot25(\\sin60^\\circ + \\sin60^\\circ - \\sin120^\\circ) = \\dfrac{25\\sqrt3}{4}$。\n• (E) 正確：$B$ 約 $-66.9^\\circ$、$C$ 約 $-6.9^\\circ$，都在第四象限。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "110-gsat-math-09",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 某村的村長選舉設有兩個投票所。已知兩位候選人在各投票所得到的有效票數比例為：第一投票所甲 40%、乙 60%；第二投票所甲 55%、乙 45%（廢票不列入計算）。假設第一投票所與第二投票所的有效票數分別為 $x$ 與 $y$（其中 $x > 0$、$y > 0$），且以總得票數較高者為當選人。根據上述表格，試選出正確的選項。",
+    "options": [
+      "當有效票數的總和 $x + y$ 已知時，就可決定當選人",
+      "當 $x : y$ 的比值小於 $\\dfrac12$ 時，就可決定當選人",
+      "當 $x > y$ 時，就可決定當選人",
+      "當甲候選人在第一投票所的有效票數比在第二投票所的有效票數多時，就可決定當選人",
+      "當乙候選人在第二投票所的有效票數比在第一投票所的有效票數多時，就可決定當選人"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "甲 $- $ 乙 $= (0.4x + 0.55y) - (0.6x + 0.45y) = 0.1y - 0.2x$，甲當選 $\\iff y > 2x$。\n• (A) 錯誤：總和不決定 $x, y$ 的比例。\n• (B) 正確：$y > 2x$，甲當選。\n• (C) 正確：$y < x < 2x$，乙當選。\n• (D) 正確：$0.4x > 0.55y \\implies y < \\dfrac{8}{11}x < 2x$，乙當選。\n• (E) 錯誤：$0.45y > 0.6x \\iff y > \\dfrac43x$，可能小於或大於 $2x$。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "110-gsat-math-10",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 在 $\\triangle ABC$ 中，已經知道 $\\overline{AB} = 4$ 和 $\\overline{AC} = 6$，此時尚不足以確定 $\\triangle ABC$ 的形狀與大小。但是，只要再知道某些條件（例如：再知道 $\\overline{BC}$ 的長度），就可確定 $\\triangle ABC$ 唯一的形狀與大小。試選出正確的選項。",
+    "options": [
+      "如果再知道 $\\cos A$ 的值，就可確定 $\\triangle ABC$ 唯一的形狀與大小",
+      "如果再知道 $\\cos B$ 的值，就可確定 $\\triangle ABC$ 唯一的形狀與大小",
+      "如果再知道 $\\cos C$ 的值，就可確定 $\\triangle ABC$ 唯一的形狀與大小",
+      "如果再知道 $\\triangle ABC$ 的面積，就可確定 $\\triangle ABC$ 唯一的形狀與大小",
+      "如果再知道 $\\triangle ABC$ 的外接圓半徑，就可確定 $\\triangle ABC$ 唯一的形狀與大小"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "• (A) 正確：兩邊夾一角（SAS），唯一。\n• (B) 正確：$\\angle B$ 的對邊 $\\overline{AC} = 6$ 大於鄰邊 $\\overline{AB} = 4$，由餘弦定理 $36 = 16 + a^2 - 8a\\cos B$，兩根之積 $-20 < 0$，只有一個正根。\n• (C) 錯誤：$\\angle C$ 的對邊 $\\overline{AB} = 4$ 較短，$16 = 36 + a^2 - 12a\\cos C$，兩根之積 $20 > 0$，可能有兩解。\n• (D) 錯誤：面積只決定 $\\sin A$，$A$ 與 $180^\\circ - A$ 兩種。\n• (E) 錯誤：只決定 $\\sin B$、$\\sin C$，可能有兩種三角形。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "110-gsat-math-11",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 平面上有一梯形 $ABCD$，其上底 $\\overline{AB} = 10$、下底 $\\overline{CD} = 15$，且腰長 $\\overline{AD} = \\overline{BC} + 1$。試選出正確的選項。",
+    "options": [
+      "$\\angle A > \\angle B$",
+      "$\\angle B + \\angle D < 180^\\circ$",
+      "$\\overrightarrow{BA}\\cdot\\overrightarrow{BC} < 0$",
+      "$\\overline{BC}$ 的長可能是 2",
+      "$\\overrightarrow{CB}\\cdot\\overrightarrow{CD} < 30$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "設高 $h$，$D$、$C$ 相對於 $A$、$B$ 分別向外偏 $p$、$q$（$p + q = 5$）。$\\overline{AD}^2 - \\overline{BC}^2 = p^2 - q^2 = 5(p - q) = 2\\overline{BC} + 1 > 0$，所以 $p > q$，且 $q = \\dfrac{24 - 2\\overline{BC}}{10}$。\n• (A) 正確：$\\angle A = 90^\\circ + \\tan^{-1}\\dfrac ph > \\angle B = 90^\\circ + \\tan^{-1}\\dfrac qh$。\n• (B) 正確：$\\angle D = 90^\\circ - \\tan^{-1}\\dfrac ph$，$\\angle B + \\angle D = 180^\\circ + \\tan^{-1}\\dfrac qh - \\tan^{-1}\\dfrac ph < 180^\\circ$。\n• (C) 錯誤：若 $\\overline{BC} > 12$，$q < 0$，$\\angle B$ 為銳角，內積為正。\n• (D) 錯誤：$\\overline{BC} = 2$ 時 $q = 2$，$h = 0$，不成梯形。\n• (E) 正確：$\\overrightarrow{CB}\\cdot\\overrightarrow{CD} = 15q$；$h^2 = \\overline{BC}^2 - q^2 > 0$ 要求 $\\overline{BC} > 2$，此時 $q < 2$，內積 $< 30$。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "110-gsat-math-12",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 設 $P(X)$ 表示事件 $X$ 發生的機率，而 $P(X|Y)$ 表示在事件 $Y$ 發生的條件下，事件 $X$ 發生的機率。今有 2 顆黑球、2 顆白球、3 顆紅球共 7 顆大小相同的球排成一列。設事件 $A$ 為 2 顆黑球相鄰的事件，事件 $B$ 為 2 顆黑球不相鄰的事件，而事件 $C$ 為任 2 顆紅球都不相鄰的事件。試選出正確的選項。",
+    "options": [
+      "$P(A) > P(B)$",
+      "$P(C) = \\dfrac27$",
+      "$2P(C|A) + 5P(C|B) < 2$",
+      "$P(C|A) > 0.2$",
+      "$P(C|B) > 0.3$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "總排法 $\\dfrac{7!}{2!2!3!} = 210$。\n• $A$：黑球綁一塊，$\\dfrac{6!}{2!3!} = 60$，$P(A) = \\dfrac27$；$P(B) = \\dfrac57$。(A) 錯誤。\n• $C$：先排 4 顆黑白（6 種），紅球插入 5 個空隙中的 3 個（10 種），60 種，$P(C) = \\dfrac27$。(B) 正確。\n• $A\\cap C$：排「黑黑塊、白、白」3 種，紅球插 4 個空隙中的 3 個，12 種：$P(C|A) = \\dfrac{12}{60} = 0.2$。(D) 錯誤。\n• $B\\cap C = 60 - 12 = 48$：$P(C|B) = \\dfrac{48}{150} = 0.32$。(E) 正確。\n• (C) 錯誤：$0.4 + 1.6 = 2$。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "110-gsat-math-13",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "13. 設多項式函數 $f(x) = x^3 + ax^2 + bx + c$，其中 $a, b, c$ 均為有理數。試選出正確的選項。",
+    "options": [
+      "函數 $y = f(x)$ 與拋物線 $y = x^2 + 100$ 的圖形可能沒有交點",
+      "若 $f(0)f(1) < 0 < f(0)f(2)$，則方程式 $f(x) = 0$ 必有三個相異實根",
+      "若 $1 + 3i$ 是方程式 $f(x) = 0$ 的複數根，則方程式 $f(x) = 0$ 有一個有理根",
+      "存在有理數 $a, b, c$ 使得 $f(1), f(2), f(3), f(4)$ 依序形成等差數列",
+      "存在有理數 $a, b, c$ 使得 $f(1), f(2), f(3), f(4)$ 依序形成等比數列"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "• (A) 錯誤：$f(x) - x^2 - 100$ 是三次式，必有實根。\n• (B) 正確：$f(0)$ 與 $f(1)$ 異號、$f(1)$ 與 $f(2)$ 異號，$(0,1)$、$(1,2)$ 各有奇數個根；三次式最多 3 根，而第三根若也在其中一區間，該區間根數變偶數，矛盾。所以三根相異。\n• (C) 正確：$1 - 3i$ 也是根，三根和 $-a$ 為有理數，第三根 $= -a - 2$ 為有理數。\n• (D) 錯誤：首項係數 1 的三次式，三階差分恆為 $3! = 6 \\ne 0$；等差數列的三階差分為 0。\n• (E) 正確：需 $u(r - 1)^3 = 6$，例如 $6, 12, 24, 48$；由 $f(1), f(2), f(3)$ 三式可解出有理數 $a, b, c$，$f(4)$ 便自動為 48。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "110-gsat-math-A",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 某機器貓從數線上原點位置朝數線的正向移動，其移動方式如下：以 8 秒為一週期，每一週期先以每秒 4 單位長等速度移動 6 秒，再休息 2 秒。如此繼續下去，則此機器貓在開始移動後 ⑭⑮ 秒會抵達數線上坐標為 116 的位置。",
+    "blanks": [
+      "3",
+      "7"
+    ],
+    "blankLabels": [
+      "14",
+      "15"
+    ],
+    "explanation": "每週期前進 24。$116 = 4\\times24 + 20$：32 秒時到 96，再走 $20 \\div 4 = 5$ 秒，共 37 秒。"
+  },
+  {
+    "id": "110-gsat-math-B",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 坐標空間中有兩條直線 $L_1, L_2$ 與一平面 $E$，其中直線 $L_1: \\dfrac x2 = \\dfrac{y}{-3} = \\dfrac{z}{-5}$，而 $L_2$ 的參數式為 $\\begin{cases} x = 1 \\\\ y = 1 + 2t \\\\ z = 1 + 3t \\end{cases}$（$t$ 為實數）。若 $L_1$ 落在 $E$ 上，且 $L_2$ 與 $E$ 不相交，則 $E$ 的方程式為 $x -$ ⑯ $y +$ ⑰ $z =$ ⑱。",
+    "blanks": [
+      "6",
+      "4",
+      "0"
+    ],
+    "blankLabels": [
+      "16",
+      "17",
+      "18"
+    ],
+    "explanation": "$E$ 包含 $L_1$（過原點）且平行 $L_2$，法向量 $\\perp (2, -3, -5)$ 與 $(0, 2, 3)$：\n$$(2, -3, -5)\\times(0, 2, 3) = (1, -6, 4)$$\n$E: x - 6y + 4z = 0$。檢查 $L_2$ 上的點 $(1, 1, 1)$：$1 - 6 + 4 \\ne 0$，確實不在 $E$ 上。"
+  },
+  {
+    "id": "110-gsat-math-C",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 從 1, 2, 3, 4, 5, 6, 7, 8, 9 這九個數中任意取出三個相異的數，每數被取出的機率皆相等，則三數乘積是一完全平方數的機率為 $\\dfrac{⑲}{⑳㉑}$。（化成最簡分數）",
+    "blanks": [
+      "1",
+      "1",
+      "4"
+    ],
+    "blankLabels": [
+      "19",
+      "20",
+      "21"
+    ],
+    "explanation": "含 5 或 7 不可能（只出現一次）。從 $\\{1,2,3,4,6,8,9\\}$ 找乘積為平方數的三數：\n$\\{1,2,8\\}$、$\\{1,4,9\\}$、$\\{2,3,6\\}$、$\\{2,4,8\\}$、$\\{2,8,9\\}$、$\\{3,6,8\\}$，共 6 組。\n$P = \\dfrac{6}{C^9_3} = \\dfrac{6}{84} = \\dfrac{1}{14}$。"
+  },
+  {
+    "id": "110-gsat-math-D",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "D. 在坐標平面上，$\\Gamma$ 是邊長為 4 的正方形，其中心位在點 $(1, 1)$，且各邊與坐標軸平行。已知函數 $y = a\\times2^x$ 的圖形與 $\\Gamma$ 相交，其中 $a$ 為實數，則 $a$ 的最大可能範圍為 ㉒㉓ $\\le a \\le$ ㉔。",
+    "blanks": [
+      "-",
+      "2",
+      "6"
+    ],
+    "blankLabels": [
+      "22",
+      "23",
+      "24"
+    ],
+    "explanation": "正方形 $-1 \\le x \\le 3$、$-1 \\le y \\le 3$。圖形要進入正方形（含邊界），需在某個 $x \\in [-1, 3]$ 使 $-1 \\le a\\cdot2^x \\le 3$：\n• $a > 0$：$a\\cdot2^x$ 最小值 $\\dfrac a2 \\le 3$，$a \\le 6$。\n• $a < 0$：最大值 $\\dfrac a2 \\ge -1$，$a \\ge -2$。\n• $a = 0$：$y = 0$ 穿過正方形。\n所以 $-2 \\le a \\le 6$。"
+  },
+  {
+    "id": "110-gsat-math-E",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "E. 將 $\\left(\\sqrt[3]{49}\\right)^{100}$ 寫成科學記號 $\\left(\\sqrt[3]{49}\\right)^{100} = a\\times10^n$，其中 $1 \\le a < 10$，且 $n$ 為正整數。若 $a$ 的整數部分為 $m$，則數對 $(m, n) =$（㉕，㉖㉗）。",
+    "blanks": [
+      "2",
+      "5",
+      "6"
+    ],
+    "blankLabels": [
+      "25",
+      "26",
+      "27"
+    ],
+    "explanation": "$\\log\\left(7^{200/3}\\right) = \\dfrac{200}{3}\\times0.8451 = 56.34$，$n = 56$，$a = 10^{0.34}$。\n$\\log2 = 0.301 < 0.34 < \\log3 = 0.477$，所以 $2 < a < 3$，$m = 2$。"
+  },
+  {
+    "id": "110-gsat-math-F",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "F. 如圖，機器人在地面上從一點 P 出發，按照以下規則移動：先朝某方向前進一公尺後，依前進方向逆時針旋轉 45°；朝新方向前進一公尺後，依前進方向順時針旋轉 90°；再朝新方向前進一公尺後，依前進方向逆時針旋轉 45°；再朝新方向前進一公尺後，依前進方向順時針旋轉 90°，……，以此類推。已知機器人移動的路徑會形成一個封閉區域，則此封閉區域的面積為 ㉘ + ㉙√㉚ 平方公尺。（化成最簡根式）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-gsat-math-F.png\" alt=\"機器人路徑：每走 1 公尺交替左轉 45° 與右轉 90°\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "8",
+      "4",
+      "2"
+    ],
+    "blankLabels": [
+      "28",
+      "29",
+      "30"
+    ],
+    "explanation": "每走兩步淨轉向順時針 $45^\\circ$，16 步回到原點。\n• 每隔兩步的點 $P_0, P_2, P_4, \\ldots$ 形成正八邊形，邊長為兩個夾 $45^\\circ$ 的單位向量和：$s^2 = 2 + \\sqrt2$。正八邊形面積 $2(1 + \\sqrt2)s^2 = 2(1 + \\sqrt2)(2 + \\sqrt2) = 8 + 6\\sqrt2$。\n• 中間的點在左轉處向內凹，每個凹進去的三角形兩邊為 1、夾角 $135^\\circ$，面積 $\\dfrac{\\sqrt2}{4}$，共 8 個。\n面積 $= 8 + 6\\sqrt2 - 8\\cdot\\dfrac{\\sqrt2}{4} = 8 + 4\\sqrt2$。"
+  },
+  {
+    "id": "110-gsat-math-G",
+    "examType": "學測",
+    "year": 110,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "G. 在四面體 $ABCD$ 中，$\\overline{AB} = \\overline{AC} = \\overline{AD} = 4\\sqrt6$、$\\overline{BD} = \\overline{CD} = 8$，且 $\\cos\\angle BAC = \\dfrac13$，則點 $D$ 到平面 $ABC$ 的距離為 ㉛ $\\sqrt{㉜}$。（化成最簡根式）",
+    "blanks": [
+      "4",
+      "2"
+    ],
+    "blankLabels": [
+      "31",
+      "32"
+    ],
+    "explanation": "• $\\overline{BC}^2 = 96 + 96 - 2\\cdot96\\cdot\\dfrac13 = 128$，$\\overline{BC} = 8\\sqrt2$；$\\triangle BCD$ 中 $8^2 + 8^2 = 128$，$\\angle BDC = 90^\\circ$。\n• $A$ 到 $B, C, D$ 等距，垂足是 $\\triangle BCD$ 的外心（$\\overline{BC}$ 中點），外接圓半徑 $4\\sqrt2$，高 $\\sqrt{96 - 32} = 8$。\n• 體積 $V = \\dfrac13\\cdot32\\cdot8 = \\dfrac{256}{3}$；$\\triangle ABC = \\dfrac12\\cdot96\\cdot\\dfrac{2\\sqrt2}{3} = 32\\sqrt2$。\n• 所求 $= \\dfrac{3V}{32\\sqrt2} = \\dfrac{256}{32\\sqrt2} = 4\\sqrt2$。"
   }
 ]
