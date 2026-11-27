@@ -24177,5 +24177,577 @@
       ]
     ],
     "explanation": "【類斜拋的水平射程】\n以 $45^\\circ$ 射入、射出時速度轉了 $90^\\circ$，水平射程 $L = \\dfrac{v_0^2\\sin(2\\times45^\\circ)}{a} = \\dfrac{v_0^2}{a} = 0.010\\text{ m}$。\n$a = \\dfrac{qE}{m}$：\n$$E = \\frac{mv_0^2}{qL} = \\frac{2K}{qL} = \\frac{2 \\times 4.55\\times10^{-19}}{1.6\\times10^{-19} \\times 0.010} \\approx 5.7\\times10^2\\text{ V/m}$$"
+  },
+  {
+    "id": "102-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "下列的現象或應用，何者的主因是波的繞射性質造成的？",
+    "options": [
+      "琴弦振動產生駐波",
+      "波浪進入淺水區波速變慢",
+      "以 X 射線拍攝胸腔照片",
+      "以 X 射線觀察晶體結構",
+      "陰極射線實驗中螢幕的亮點位置會隨外加磁場改變"
+    ],
+    "answerIndex": 3,
+    "explanation": "【繞射的應用】\n• (A) 駐波是兩列反向波的干涉。\n• (B) 波速改變與介質有關（折射的原因）。\n• (C) 胸腔照片利用 X 射線的穿透力。\n• (D) 正確：X 射線波長與晶格間距相近，在晶體中繞射形成圖樣，可推知晶體結構。\n• (E) 帶電粒子在磁場中受勞侖茲力偏轉。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "一彈性繩上的小振幅週期波由左向右方傳播，某一瞬間其振動位移 $y$ 與位置 $x$ 的關係如圖 1 所示，繩上質點 P 恰在 $x$ 軸上，則質點 P 在這一瞬間的運動方向最接近下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-02.png\" alt=\"圖1 向右傳播的波形與質點 P\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "↑（向上）",
+      "↓（向下）",
+      "←（向左）",
+      "→（向右）",
+      "沒有確定的方向，因其速度為零"
+    ],
+    "answerIndex": 0,
+    "explanation": "【橫波質點的振動方向】\n波向右傳，下一瞬間 P 的位移會等於它「左邊」一點目前的位移。P 左側是波峰（位移為正），所以 P 將向上運動；P 在平衡位置，速率最大。橫波質點只在 $y$ 方向振動，不會左右移動。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "某樂器以開管空氣柱原理發聲，若其基音頻率為 390 Hz，則其對應的空氣柱長度約為幾公分？假設已知音速為 340 m/s。",
+    "options": [
+      "44 cm",
+      "58 cm",
+      "66 cm",
+      "80 cm",
+      "88 cm"
+    ],
+    "answerIndex": 0,
+    "explanation": "【兩端開口的空氣柱】\n基音 $L = \\dfrac{\\lambda}{2} = \\dfrac{v}{2f} = \\dfrac{340}{2 \\times 390} \\approx 0.44\\text{ m} = 44\\text{ cm}$\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "下列關於體積固定之密閉容器內理想氣體的性質敘述，何者正確？",
+    "options": [
+      "壓力和分子平均動量的平方成正比",
+      "壓力和所有氣體分子之移動動能的和成正比",
+      "溫度升高時，每一個氣體分子的動能都會增加",
+      "溫度下降時，密閉容器內理想氣體的壓力升高",
+      "氣體分子和容器壁的碰撞是否為彈性碰撞，並不會影響壓力的量值"
+    ],
+    "answerIndex": 1,
+    "explanation": "【氣體動力論】\n$PV = \\dfrac{2}{3}E_k$（$E_k$ 為所有分子移動動能總和），體積固定時 $P \\propto E_k$，(B) 正確。\n• (A) 錯誤：分子的平均動量（向量）為零；壓力與方均速率有關。\n• (C) 錯誤：溫度升高是「平均」動能增加，個別分子不一定。\n• (D) 錯誤：體積固定，溫度下降壓力下降。\n• (E) 錯誤：壓力來自碰撞時的動量變化，若不是彈性碰撞，動量變化不同，壓力也不同。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "密閉汽缸內定量理想氣體原來的壓力為 2 大氣壓，當汽缸的體積被活塞從 $10\\text{ m}^3$ 壓縮至 $5\\text{ m}^3$，同時把汽缸內氣體的溫度從 $313^\\circ\\text{C}$ 降溫至 $20^\\circ\\text{C}$，則熱平衡後汽缸內氣體的壓力最接近下列何者？",
+    "options": [
+      "8 大氣壓",
+      "4 大氣壓",
+      "2 大氣壓",
+      "1 大氣壓",
+      "0.25 大氣壓"
+    ],
+    "answerIndex": 2,
+    "explanation": "【$\\dfrac{PV}{T}$ 為定值】\n$T_1 = 586\\text{ K}$、$T_2 = 293\\text{ K}$：\n$$P_2 = P_1\\cdot\\frac{V_1}{V_2}\\cdot\\frac{T_2}{T_1} = 2 \\times 2 \\times \\frac{1}{2} = 2\\text{ atm}$$\n故選 (C)"
+  },
+  {
+    "id": "102-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "雷射光以一入射角 $\\theta$ 自空氣入射雙層薄膜再進入空氣，其中各層薄膜厚度皆為 $d$ 而折射率各為 $n_1$ 及 $n_2$，光路徑如圖 2 所示。今以折射率為 $n$ 且厚度為 $2d$ 的薄膜取代原雙層薄膜，若光線射入與射出的位置、角度皆與圖 2 相同，則 $n_1$、$n_2$ 與 $n$ 的大小關係為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-06.png\" alt=\"圖2 光線穿過雙層薄膜\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$n > n_1 > n_2$",
+      "$n_1 > n_2 > n$",
+      "$n > n_2 > n_1$",
+      "$n_2 > n > n_1$",
+      "$n_1 > n > n_2$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【折射角與側向位移】\n• 由圖 2，光在 $n_1$ 層中較接近法線（偏折較多），在 $n_2$ 層中較遠離法線，所以 $n_1 > n_2$。\n• 單層薄膜要有相同的總側向位移：在 $2d$ 厚度中的偏移等於兩層偏移的總和，即平均的 $\\tan$ 折射角介於兩層之間，所以折射角介於兩者之間，$n_1 > n > n_2$。\n\n故選 (E)"
+  },
+  {
+    "id": "102-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "某生使用波長為 $\\lambda$ 的光源進行雙狹縫干涉實驗，若兩狹縫間的距離 $d = 9\\lambda$，則第 5 暗紋所在位置至雙狹縫中點之連線與中央線的夾角約為幾度？",
+    "options": [
+      "30°",
+      "45°",
+      "53°",
+      "60°",
+      "75°"
+    ],
+    "answerIndex": 0,
+    "explanation": "【暗紋條件】\n第 $n$ 暗紋：$d\\sin\\theta = \\left(n - \\dfrac{1}{2}\\right)\\lambda$。第 5 暗紋：$9\\lambda\\sin\\theta = 4.5\\lambda \\implies \\sin\\theta = 0.5 \\implies \\theta = 30^\\circ$\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "一質點在一直線上運動，圖 3 為此質點所受的外力與位置的關係，質點的起始位置為 $x = 0$，起始速度沿著 $+x$ 方向，則此質點在何處的速率最大？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-08.png\" alt=\"圖3 外力與位置關係\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "【功能定理：$F$-$x$ 圖面積為功】\n$0\\sim4\\text{ m}$ 外力都為正（或零），持續對質點作正功，動能一直增加；$4\\text{ m}$ 以後外力為負，開始作負功、動能減少。所以在 $x = 4\\text{ m}$（丁）處動能最大。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 9-10 題為題組】如圖 4 所示，一質量為 $m$ 可視為質點的小球從離地 $H$ 處水平射出，第一次落地時的水平位移為 $\\dfrac{4H}{3}$，反彈高度為 $\\dfrac{9H}{16}$。若地板為光滑，且空氣阻力可以忽略，而小球與地板接觸的時間為 $t$，重力加速度為 $g$。\n9. 第一次落地碰撞期間，小球在鉛直方向所受到的平均作用力之量值為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-09.png\" alt=\"圖4 小球水平拋出後落地反彈\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{m\\sqrt{2gH}}{4t}$",
+      "$\\dfrac{7m\\sqrt{2gH}}{16t}$",
+      "$\\dfrac{25m\\sqrt{2gH}}{16t}$",
+      "$\\dfrac{5m\\sqrt{2gH}}{4t}$",
+      "$\\dfrac{7m\\sqrt{2gH}}{4t}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【鉛直方向的動量變化】\n• 落地前鉛直速度 $\\sqrt{2gH}$（向下）；反彈高度 $\\dfrac{9H}{16}$，反彈鉛直速度 $\\sqrt{2g\\cdot\\dfrac{9H}{16}} = \\dfrac{3}{4}\\sqrt{2gH}$（向上）。\n• $\\Delta p = m\\left(\\dfrac{3}{4} + 1\\right)\\sqrt{2gH} = \\dfrac{7}{4}m\\sqrt{2gH}$\n• 平均作用力 $\\dfrac{\\Delta p}{t} = \\dfrac{7m\\sqrt{2gH}}{4t}$（選項以地板作用力為主，碰撞時間短，重力可忽略）。\n\n故選 (E)"
+  },
+  {
+    "id": "102-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 9-10 題為題組】如圖 4 所示，一質量為 $m$ 可視為質點的小球從離地 $H$ 處水平射出，第一次落地時的水平位移為 $\\dfrac{4H}{3}$，反彈高度為 $\\dfrac{9H}{16}$。若地板為光滑，且空氣阻力可以忽略，而小球與地板接觸的時間為 $t$，重力加速度為 $g$。\n10. 小球第一次落地點到第二次落地點的水平距離為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-09.png\" alt=\"圖4 小球水平拋出後落地反彈\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$H$",
+      "$\\dfrac{4H}{3}$",
+      "$\\dfrac{3H}{2}$",
+      "$2H$",
+      "$\\dfrac{8H}{3}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【水平等速、鉛直對稱】\n• 第一段飛行時間 $t_1 = \\sqrt{\\dfrac{2H}{g}}$，水平速度 $v_x = \\dfrac{4H/3}{t_1}$；地板光滑，水平速度不變。\n• 反彈後上升到 $\\dfrac{9H}{16}$ 再落下，時間 $t_2 = 2\\sqrt{\\dfrac{2\\cdot(9H/16)}{g}} = \\dfrac{3}{2}\\sqrt{\\dfrac{2H}{g}} = \\dfrac{3}{2}t_1$\n• 水平距離 $v_x t_2 = \\dfrac{4H}{3}\\times\\dfrac{3}{2} = 2H$\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "已知火星的平均半徑約為地球的 0.5 倍，火星表面的重力加速度約為地球的 0.4 倍，則火星表面上的脫離速率（不計阻力下，使物體可脫離其重力場所需的最小初速率）約為地球上的多少倍？",
+    "options": [
+      "$\\sqrt{\\dfrac{1}{5}}$",
+      "$\\sqrt{\\dfrac{1}{3}}$",
+      "$\\sqrt{\\dfrac{4}{5}}$",
+      "$\\sqrt3$",
+      "$\\sqrt6$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【脫離速率 $v_e = \\sqrt{2gR}$】\n由 $\\dfrac{1}{2}mv_e^2 = \\dfrac{GMm}{R}$ 且 $g = \\dfrac{GM}{R^2}$，得 $v_e = \\sqrt{2gR}$。\n$$\\frac{v_\\text{火}}{v_\\text{地}} = \\sqrt{0.4 \\times 0.5} = \\sqrt{0.2} = \\sqrt{\\frac{1}{5}}$$\n故選 (A)"
+  },
+  {
+    "id": "102-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "由一對完全相同的強力理想彈簧所構成可垂直彈射之投射裝置，如圖 5 所示，設 $g$ 為重力加速度，彈簧的力常數為 $k$。若質量為 $m$ 的物體置於質量可忽略的彈射底盤上，欲將物體以 $5g$ 的起始加速度垂直射向空中，此時兩彈簧與鉛垂線的夾角皆為 $\\theta = 60^\\circ$，則每個彈簧的伸長量為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-12.png\" alt=\"圖5 彈射裝置\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{5mg}{2k}$",
+      "$\\dfrac{3mg}{k}$",
+      "$\\dfrac{4mg}{k}$",
+      "$\\dfrac{5mg}{k}$",
+      "$\\dfrac{6mg}{k}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【力的分解＋牛頓第二定律】\n兩彈簧的水平分力抵消，鉛直分力 $2kx\\cos60^\\circ = kx$。\n$$kx - mg = m(5g) \\implies kx = 6mg \\implies x = \\frac{6mg}{k}$$\n故選 (E)"
+  },
+  {
+    "id": "102-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "考慮以 P 點為圓心、半徑為 $R$ 的部份或整個圓周上的四種電荷分佈情形，如圖 6 所示：（甲）電荷 $q$ 均勻分佈在四分之一的圓周；（乙）電荷 $2q$ 均勻分佈在半個圓周；（丙）電荷 $3q$ 均勻分佈在四分之三的圓周；（丁）電荷 $4q$ 均勻分佈在整個圓周。試問這四種情形在 P 點所造成的電場，依其量值大小排列的次序為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-13.png\" alt=\"圖6 四種圓周電荷分布\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲 > 乙 > 丙 > 丁",
+      "丁 > 丙 > 乙 > 甲",
+      "乙 > 甲 = 丙 > 丁",
+      "丁 > 乙 > 甲 = 丙",
+      "甲 = 乙 = 丙 = 丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "【對稱與疊加】\n四種情形的電荷線密度都相同（每四分之一圓周帶 $q$），設每段四分之一圓弧在 P 的電場為 $\\vec E_0$（指向弧的中點反方向）。\n• 丁：完整圓周，對稱抵消，電場為零。\n• 丙：等於完整圓周減去一段四分之一圓弧，電場大小 $= E_0$。\n• 甲：一段四分之一圓弧，$E_0$。所以甲 = 丙。\n• 乙：兩段相鄰的四分之一圓弧，兩電場夾 $90^\\circ$，合成 $\\sqrt2E_0$，最大。\n所以 乙 > 甲 = 丙 > 丁。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "一個半徑為 $R$ 的圓形線圈通有順時針方向的電流 $I$，其圓心的磁場為 $B$。今在同一平面上加上一個同心的圓形線圈，若欲使其圓心處的磁場為零，則所加上圓形線圈的條件為下列何者？",
+    "options": [
+      "半徑為 $2R$，電流為 $\\sqrt2 I$，方向為順時針方向",
+      "半徑為 $\\sqrt2 R$，電流為 $2I$，方向為順時針方向",
+      "半徑為 $2R$，電流為 $2I$，方向為順時針方向",
+      "半徑為 $2R$，電流為 $2I$，方向為逆時針方向",
+      "半徑為 $\\sqrt2 R$，電流為 $2I$，方向為逆時針方向"
+    ],
+    "answerIndex": 3,
+    "explanation": "【圓線圈圓心磁場 $B = \\dfrac{\\mu_0 I}{2R}$】\n要抵消，新線圈在圓心的磁場要大小相同、方向相反：$\\dfrac{I'}{R'} = \\dfrac{I}{R}$ 且電流反向。$R' = 2R$、$I' = 2I$、逆時針符合。$\\sqrt2R$ 配 $2I$ 時比值不等。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "有一以 O 為圓心、$L$ 為半徑的 OMN 扇形電路置於均勻磁場 $B$ 中如圖 7 所示，磁場垂直穿入紙面，半徑 OM 之間有電阻 $R$，電路中其他電阻可忽略不計。OM 與 MP 弧固定不動，而長度為 $L$ 的 ON 以 O 為軸心作順時針往 P 方向旋轉，角速率為 $\\omega$，則電路中電流為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-15.png\" alt=\"圖7 扇形電路與旋轉的半徑 ON\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{\\omega BL^2}{2R}$",
+      "$\\dfrac{\\omega BL^2}{R}$",
+      "$\\dfrac{\\omega BL}{R}$",
+      "$\\dfrac{\\omega^2BL^2}{2R}$",
+      "$\\dfrac{\\omega^2BL^2}{R^2}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【旋轉導體棒的電動勢】\n扇形面積 $\\dfrac{1}{2}L^2\\phi$，ON 轉動使面積以 $\\dfrac{1}{2}L^2\\omega$ 的速率增加：\n$$\\varepsilon = B\\cdot\\frac{1}{2}L^2\\omega,\\quad I = \\frac{\\omega BL^2}{2R}$$\n（也可用棒上各點速率 $r\\omega$ 的平均 $\\dfrac{L\\omega}{2}$，$\\varepsilon = BL\\cdot\\dfrac{L\\omega}{2}$。）\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "地球繞太陽運動軌道的平均半徑定義為一個天文單位，某行星繞太陽之平均半徑約為 10 個天文單位，則該行星公轉的週期約為地球上的多少年？",
+    "options": [
+      "1",
+      "5",
+      "15",
+      "32",
+      "100"
+    ],
+    "answerIndex": 3,
+    "explanation": "【克卜勒第三定律 $T^2 \\propto r^3$】\n$T = 10^{3/2} = \\sqrt{1000} \\approx 31.6 \\approx 32$ 年\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "在靜力平衡實驗中，甲、乙、丙三力與一輕圓環以及一個插栓，在力桌上達成平衡時小圓環緊靠著插栓，如圖 8 所示。圓環與插栓間的摩擦力可忽略，若只調整其中兩力的量值，欲移動圓環使插栓位於圓環正中央，則下列有關施力過程的敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-17.png\" alt=\"圖8 力桌上的三力與圓環\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "增加甲、乙兩力的量值，且甲力的量值增加較多",
+      "增加甲、丙兩力的量值，且甲力的量值增加較多",
+      "增加乙、丙兩力的量值，且乙力的量值增加較多",
+      "增加乙、丙兩力的量值，且丙力的量值增加較多",
+      "增加甲、丙兩力的量值，且丙力的量值增加較多"
+    ],
+    "answerIndex": 1,
+    "explanation": "【插栓提供的力】\n圓環緊靠插栓，表示三力的合力不為零，多出的部分由插栓的正向力平衡。插栓在圓環的左上方，圓環被拉向右下方壓在插栓上，三力合力指向右下（約沿乙的方向）。\n要讓合力為零、圓環移回中央，需要增加偏向左上的分量去抵消：甲力指向左上、丙力指向右，增加甲與丙，且甲要增加較多，才能把合力往左上拉回。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "下列為五種電磁波源：氫氣放電管（為不連續的光譜線）；鎢絲電燈泡（其光譜與溫度有關且為連續光譜）；藍光雷射（波長約介於 360 nm 到 480 nm 之間的雷射光）；FM 調頻廣播（其波長介於 2.8 m 到 3.4 m 之間）；X 射線（其波長介於 0.01 nm 到 1 nm 之間）。以上何者之光譜最接近黑體輻射？",
+    "options": [
+      "氫氣放電管",
+      "鎢絲電燈泡",
+      "藍光雷射",
+      "FM 調頻廣播",
+      "X 射線"
+    ],
+    "answerIndex": 1,
+    "explanation": "【黑體輻射是由溫度決定的連續光譜】\n高溫的鎢絲發光屬於熱輻射，光譜連續且分布隨溫度改變，最接近黑體輻射。放電管是線光譜、雷射幾乎單一波長、廣播與 X 射線管的光譜都不是熱輻射。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-phy-19",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "在波耳的氫原子模型中，電子可視為以質子為中心做半徑為 $r$ 的等速圓周運動。考量物質波模型，當電子處於容許的穩定狀態時，軌道的周長必須符合圓周駐波條件。軌道半徑也隨著主量子數 $n$ 而愈來愈大。設普朗克常數為 $h$，當電子處於主量子數為 $n$ 的穩定軌道的情形之下，電子的動量 $p$ 量值為何？",
+    "options": [
+      "$p = \\dfrac{nh}{2r}$",
+      "$p = \\dfrac{nh}{2\\pi}$",
+      "$p = \\dfrac{nh}{2\\pi r}$",
+      "$p = \\dfrac{nhr}{2\\pi}$",
+      "$p = \\dfrac{h}{2nr}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【圓周駐波條件】\n$2\\pi r = n\\lambda = n\\dfrac{h}{p} \\implies p = \\dfrac{nh}{2\\pi r}$（等價於 $L = pr = \\dfrac{nh}{2\\pi}$）。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-phy-20",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "points": 3,
+    "question": "太陽能為極重要的綠色能源，在太陽進行核融合的過程中，當質量減損 $\\Delta m$ 時太陽輻射的能量 $\\Delta E = \\Delta m\\times c^2$（$c$ 為光速）。地球繞太陽公轉的軌道平均半徑為 $1.5\\times10^{11}\\text{ m}$，鄰近地球表面正對太陽處測得太陽能的強度約為 $1.4\\times10^3\\text{ W/m}^2$，已知光速為 $3.0\\times10^8\\text{ m/s}$，則太陽因輻射而減損的質量，每秒鐘約為多少公斤？（球的表面積為 $4\\pi r^2$，其中 $r$ 為球的半徑）",
+    "options": [
+      "$1.5\\times10^{-2}$",
+      "$1.5\\times10^{3}$",
+      "$3.3\\times10^{5}$",
+      "$1.1\\times10^{7}$",
+      "$4.4\\times10^{9}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【太陽總功率】\n$$P = 1.4\\times10^3 \\times 4\\pi(1.5\\times10^{11})^2 \\approx 4.0\\times10^{26}\\text{ W}$$\n$$\\frac{\\Delta m}{\\Delta t} = \\frac{P}{c^2} = \\frac{4.0\\times10^{26}}{9.0\\times10^{16}} \\approx 4.4\\times10^{9}\\text{ kg/s}$$\n故選 (E)"
+  },
+  {
+    "id": "102-ast-phy-21",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "圖 9 中一光滑水平面上有三物體，甲、乙的質量均為 $m$，丙的質量為 $2m$。開始時，乙和丙均為靜止而甲以等速度 $v$ 向右行進。設該三物體間的碰撞皆為一維彈性碰撞，則在所有碰撞都結束後，各物體運動速度的敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-21.png\" alt=\"圖9 甲、乙、丙三物體\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲靜止不動",
+      "乙靜止不動",
+      "甲以等速度 $\\dfrac{1}{3}v$ 向左行進",
+      "乙以等速度 $\\dfrac{1}{3}v$ 向右行進",
+      "丙以等速度 $\\dfrac{2}{3}v$ 向右行進"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【依序分析每次彈性碰撞】\n1. 甲撞乙（質量相等）：速度交換，甲靜止、乙以 $v$ 向右。\n2. 乙撞丙：$v_\\text{乙}' = \\dfrac{m - 2m}{3m}v = -\\dfrac{v}{3}$（向左），$v_\\text{丙}' = \\dfrac{2m}{3m}v = \\dfrac{2v}{3}$（向右）。\n3. 乙向左撞上靜止的甲（質量相等）：速度交換，乙靜止、甲以 $\\dfrac{v}{3}$ 向左。\n之後不再相撞：甲 $\\dfrac{v}{3}$ 向左、乙靜止、丙 $\\dfrac{2v}{3}$ 向右。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "102-ast-phy-22",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "圖 10 為單狹縫繞射實驗裝置示意圖，其中狹縫寬度為 $d$。今以波長為 $\\lambda$ 的平行光，垂直入射單狹縫，屏幕邊緣 Q 點與狹縫中垂線的夾角為 $\\theta_m$。若在屏幕上未觀察到繞射形成的暗紋，下列哪些選項是可能的原因？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-22.png\" alt=\"圖10 單狹縫繞射裝置\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$d \\gg \\lambda$",
+      "$d\\sin\\theta_m < \\lambda$",
+      "入射光太亮",
+      "入射光不具有同調性",
+      "入射光為單色光"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "【看得到繞射暗紋的條件】\n第一暗紋在 $d\\sin\\theta = \\lambda$。\n• (A) 正確：縫寬遠大於波長時繞射極不明顯，光幾乎直進，暗紋擠在亮帶邊緣而無法分辨。\n• (B) 正確：$d\\sin\\theta_m < \\lambda$ 表示第一暗紋的角度已超出屏幕範圍。\n• (C) 錯誤：亮度不影響暗紋位置。\n• (D) 正確：光不具同調性時，各處的光沒有固定相位關係，無法形成穩定的暗紋。\n• (E) 錯誤：單色光正是觀察清楚繞射條紋所需要的。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "102-ast-phy-23",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 11 所示，一質量為 $m$、帶正電荷 $q$ 的小球以一端固定的細繩懸掛著，繩長為 $\\ell$，系統置於均勻的磁場中，磁場 $B$ 的方向垂直穿入紙面。開始時靜止的小球擺角與鉛直線夾 $\\theta_i$，釋放後帶電小球向左擺動，設其左側最大擺角與鉛直線夾 $\\theta_f$。若摩擦力與空氣阻力均可忽略，重力加速度為 $g$ 而小球在最低點的速率為 $v$，則下列關於小球受力與運動狀態的關係式或敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-23.png\" alt=\"圖11 磁場中的帶電單擺\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\theta_i < \\theta_f$",
+      "在擺動過程中，磁力不對小球作功",
+      "在擺動過程中，重力對小球永遠作正功",
+      "小球在第一次通過最低點時，繩子的張力 $T = mg + qvB + \\dfrac{mv^2}{\\ell}$",
+      "小球在運動過程中所受的重力及磁力均為定值"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "【磁力不作功】\n• (B) 正確、(A) 錯誤：磁力垂直於速度不作功，力學能守恆，兩側最大擺角相同。\n• (C) 錯誤：上升時重力作負功。\n• (D) 正確：第一次通過最低點時速度向左，$\\vec F = q\\vec v \\times \\vec B$，$(-\\hat x)\\times(-\\hat z) = -\\hat y$，磁力向下。向心方向（向上）：$T - mg - qvB = \\dfrac{mv^2}{\\ell}$。\n• (E) 錯誤：磁力隨速度大小與方向而變。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "102-ast-phy-24",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "密立坎油滴實驗裝置中，兩平行板之間距為 $d$，接上電源後如圖 12 所示，S 為電路開關。若開關 S 壓下接通後，發現平行板間有一質量為 $m$，帶電量為 $q$ 之小油滴在平行板間靜止不動，設 $g$ 為重力加速度。若忽略空氣浮力，則下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-24.png\" alt=\"圖12 密立坎油滴實驗電路\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "小油滴帶正電",
+      "直流電源提供之電動勢為 $\\dfrac{mgd}{q}$",
+      "將平行板間距加大時，該小油滴仍將停留不動",
+      "運用密立坎油滴實驗可測量光子的質量",
+      "運用密立坎油滴實驗可測量基本電荷的電量"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【電力與重力平衡】\n• (B) 正確：$qE = mg$，$E = \\dfrac{V}{d}$，$V = \\dfrac{mgd}{q}$。\n• (A) 錯誤：依圖 12 電池的接法，上板接正極、下板接負極，板間電場向下；油滴需要向上的電力，所以帶負電。\n• (C) 錯誤：電壓不變而 $d$ 加大，$E$ 變小，電力不足而下落。\n• (D) 錯誤：光子沒有靜止質量，也與本實驗無關。\n• (E) 正確：密立坎由油滴電量都是某最小值的整數倍，測得基本電荷。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "102-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】以一顆電池、一台安培計和一個可變電阻 P 串聯所組成的簡易電阻測量器，可用來測量電阻，即相當於使用三用電表的歐姆檔位。如圖 13 所示，電池的電動勢為 $1.5\\text{ V}$ 且其內電阻可忽略；安培計的讀數範圍從 0 至 1 mA，每隔 0.1 mA 有一個刻度，其內電阻為 $20\\ \\Omega$；可變電阻 P 的範圍為 $100\\ \\Omega$ 至 $2500\\ \\Omega$。\n\n1. 為了配合安培計的最大讀數，此電阻測量器在測量電阻之前必須先調整可變電阻，此步驟稱為歸零。試說明如何將此簡易電阻測量器歸零。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-non-1.png\" alt=\"圖13 簡易電阻測量器\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "將 X、Y 兩端直接接在一起（短路），調整可變電阻 P 使安培計讀數恰為最大值 1 mA；此時電路總電阻為 $\\dfrac{1.5}{1\\times10^{-3}} = 1500\\ \\Omega$，P 約調到 $1480\\ \\Omega$。"
+    ],
+    "blankLabels": [
+      "歸零方法"
+    ],
+    "explanation": "歐姆計「歸零」是指待測電阻為零時指針在滿刻度：短接 X、Y，調 P 使電流為 1 mA，$R_P = 1500 - 20 = 1480\\ \\Omega$。"
+  },
+  {
+    "id": "102-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】以一顆電池、一台安培計和一個可變電阻 P 串聯所組成的簡易電阻測量器，可用來測量電阻，即相當於使用三用電表的歐姆檔位。如圖 13 所示，電池的電動勢為 $1.5\\text{ V}$ 且其內電阻可忽略；安培計的讀數範圍從 0 至 1 mA，每隔 0.1 mA 有一個刻度，其內電阻為 $20\\ \\Omega$；可變電阻 P 的範圍為 $100\\ \\Omega$ 至 $2500\\ \\Omega$。\n\n2. 承第 1 小題歸零後，將一待測物體的兩端分別連至 X 及 Y，若安培計的讀數為 0.5 mA，則該物體的電阻為幾歐姆？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-non-1.png\" alt=\"圖13 簡易電阻測量器\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "1500"
+    ],
+    "blankLabels": [
+      "電阻（Ω）"
+    ],
+    "acceptedBlanks": [
+      [
+        "1500Ω",
+        "1.5×10^3",
+        "1.5k",
+        "1.5kΩ"
+      ]
+    ],
+    "explanation": "總電阻 $\\dfrac{1.5}{0.5\\times10^{-3}} = 3000\\ \\Omega$，扣掉歸零時的 $1500\\ \\Omega$（P + 安培計），待測電阻 $1500\\ \\Omega$。"
+  },
+  {
+    "id": "102-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】以一顆電池、一台安培計和一個可變電阻 P 串聯所組成的簡易電阻測量器，可用來測量電阻，即相當於使用三用電表的歐姆檔位。如圖 13 所示，電池的電動勢為 $1.5\\text{ V}$ 且其內電阻可忽略；安培計的讀數範圍從 0 至 1 mA，每隔 0.1 mA 有一個刻度，其內電阻為 $20\\ \\Omega$；可變電阻 P 的範圍為 $100\\ \\Omega$ 至 $2500\\ \\Omega$。\n\n3. 承第 1 小題歸零後，將安培計讀數範圍限制在 0.1 mA 到 0.9 mA 之間，試求該電阻器可量測的電阻範圍。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-non-1.png\" alt=\"圖13 簡易電阻測量器\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "約 $167\\ \\Omega$ 到 $13500\\ \\Omega$"
+    ],
+    "blankLabels": [
+      "可量測範圍"
+    ],
+    "explanation": "• 0.1 mA：總電阻 $15000\\ \\Omega$，待測 $15000 - 1500 = 13500\\ \\Omega$\n• 0.9 mA：總電阻 $\\dfrac{1.5}{0.9\\times10^{-3}} \\approx 1667\\ \\Omega$，待測約 $167\\ \\Omega$\n範圍約 $167\\ \\Omega \\sim 13500\\ \\Omega$（取兩位有效數字為 $170\\sim14000\\ \\Omega$ 亦可）。"
+  },
+  {
+    "id": "102-ast-phy-non-1-4",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】以一顆電池、一台安培計和一個可變電阻 P 串聯所組成的簡易電阻測量器，可用來測量電阻，即相當於使用三用電表的歐姆檔位。如圖 13 所示，電池的電動勢為 $1.5\\text{ V}$ 且其內電阻可忽略；安培計的讀數範圍從 0 至 1 mA，每隔 0.1 mA 有一個刻度，其內電阻為 $20\\ \\Omega$；可變電阻 P 的範圍為 $100\\ \\Omega$ 至 $2500\\ \\Omega$。\n\n4. 如果在甲、乙兩點間與安培計並聯一個小的電阻 $r = 20\\ \\Omega$，並重新歸零，若與第 3 小題的結果比較，可量測的電阻範圍將如何變化？試說明原因。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-non-1.png\" alt=\"圖13 簡易電阻測量器\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "範圍變小（約 $83\\ \\Omega \\sim 6750\\ \\Omega$）。並聯 $20\\ \\Omega$ 後，安培計滿刻度時電路總電流變為 2 mA，歸零時總電阻只剩 $750\\ \\Omega$；同樣的安培計讀數對應兩倍的總電流，電池電壓不變，可量測的電阻都減半。"
+    ],
+    "blankLabels": [
+      "變化與原因"
+    ],
+    "explanation": "【分流器】\n安培計與等值電阻並聯，總電流是安培計讀數的 2 倍：\n• 歸零：總電流 2 mA，總電阻 $750\\ \\Omega$（P 約 $740\\ \\Omega$ 加並聯的 $10\\ \\Omega$）。\n• 讀數 0.1 mA → 總電流 0.2 mA，總電阻 $7500\\ \\Omega$，待測 $6750\\ \\Omega$；讀數 0.9 mA → 1.8 mA，總電阻約 $833\\ \\Omega$，待測約 $83\\ \\Omega$。\n可量測範圍縮小為原來的一半左右（適合量較小的電阻）。"
+  },
+  {
+    "id": "102-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】如圖 14 所示，水平地面上有一斜角為 $\\theta$ 的光滑斜面，在其頂端以質輕之細線平行於斜面懸掛一質量為 $m$ 的小體積物體，開始時斜面靜止且物體底部離地面之垂直高度為 $h$，設重力加速度為 $g$。\n\n1. 當斜面靜止時，細繩上張力與物體所受斜面的正向力之比值為何？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-non-2.png\" alt=\"圖14 斜面上以細線懸掛的物體\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$\\dfrac{T}{N} = \\tan\\theta$"
+    ],
+    "blankLabels": [
+      "T/N"
+    ],
+    "explanation": "沿斜面：$T = mg\\sin\\theta$；垂直斜面：$N = mg\\cos\\theta$。相除得 $\\dfrac{T}{N} = \\tan\\theta$。"
+  },
+  {
+    "id": "102-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】如圖 14 所示，水平地面上有一斜角為 $\\theta$ 的光滑斜面，在其頂端以質輕之細線平行於斜面懸掛一質量為 $m$ 的小體積物體，開始時斜面靜止且物體底部離地面之垂直高度為 $h$，設重力加速度為 $g$。\n\n2. 當整個系統以等加速度 $a$ 向左運動時，則加速度 $a$ 最低為何值時物體會脫離斜面？若物體脫離斜面時，細繩也恰好斷裂，則細繩所能承受之最大張力為何？（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-non-2.png\" alt=\"圖14 斜面上以細線懸掛的物體\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$a = g\\cot\\theta$；$T_{max} = \\dfrac{mg}{\\sin\\theta}$"
+    ],
+    "blankLabels": [
+      "最低加速度與最大張力"
+    ],
+    "explanation": "【加速座標中的受力】\n系統向左加速，物體需要向左的合力。分解：\n• 垂直斜面：$N = mg\\cos\\theta - ma\\sin\\theta$，$N = 0$ 時 $a = g\\cot\\theta$。\n• 沿斜面：$T = mg\\sin\\theta + ma\\cos\\theta$，代入 $a = g\\cot\\theta$：$T = mg\\sin\\theta + mg\\dfrac{\\cos^2\\theta}{\\sin\\theta} = \\dfrac{mg}{\\sin\\theta}$。\n（也可看成 $T$ 單獨提供向上的 $mg$ 與向左的 $ma$：$T = m\\sqrt{g^2 + a^2}$。）"
+  },
+  {
+    "id": "102-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】如圖 14 所示，水平地面上有一斜角為 $\\theta$ 的光滑斜面，在其頂端以質輕之細線平行於斜面懸掛一質量為 $m$ 的小體積物體，開始時斜面靜止且物體底部離地面之垂直高度為 $h$，設重力加速度為 $g$。\n\n3. 承上題，細繩斷裂後，斜面繼續以加速度 $a$ 向左運動，已知物體離開後不會再撞到斜面，簡述物體會如何運動（包含形式與方向），以及何時會撞擊地面？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-phy-non-2.png\" alt=\"圖14 斜面上以細線懸掛的物體\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "系統由靜止開始加速，物體一開始就脫離斜面、繩子立刻斷裂，此時物體速度為零，之後只受重力，作鉛直向下的自由落體運動；經 $t = \\sqrt{\\dfrac{2h}{g}}$ 撞擊地面。"
+    ],
+    "blankLabels": [
+      "運動與時間"
+    ],
+    "explanation": "斜面靜止開始就以 $a \\ge g\\cot\\theta$ 加速，物體在起動瞬間即脫離、繩斷，此時速度為零。之後只受重力，從高度 $h$ 自由落下（相對地面鉛直向下），落地時間 $\\sqrt{\\dfrac{2h}{g}}$；斜面則自行向左加速離開。"
   }
 ]
