@@ -4116,5 +4116,637 @@
       "時間 t"
     ],
     "explanation": "【等減速運動】\n• 斜面底部速率：$\\dfrac{1}{2}mv^2 = \\dfrac{1}{2}mv_0^2 + mgL\\sin\\theta - \\mu mgL\\cos\\theta \\implies v = \\sqrt{v_0^2 + 2gL(\\sin\\theta - \\mu\\cos\\theta)}$\n• 水平面上減速度 $a = \\mu g$：\n$$t = \\frac{v}{\\mu g} = \\frac{\\sqrt{v_0^2 + 2gL(\\sin\\theta - \\mu\\cos\\theta)}}{\\mu g}$$\n\n答：$t = \\dfrac{\\sqrt{v_0^2 + 2gL(\\sin\\theta - \\mu\\cos\\theta)}}{\\mu g}$"
+  },
+  {
+    "id": "110-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "當原子的電子由激發態躍遷至基態時，會將多餘的能量以光的形式釋出，這種現象為電子躍遷的一種。氫原子在下列哪一種主量子數 n 之間的電子躍遷，所產生光譜的波長最短？",
+    "options": [
+      "n = 4 → n = 2",
+      "n = 3 → n = 1",
+      "n = 4 → n = 3",
+      "n = 3 → n = 2",
+      "n = 2 → n = 1"
+    ],
+    "answerIndex": 1,
+    "explanation": "【能階差越大，波長越短】\n$E_n = -\\dfrac{13.6}{n^2}\\text{ eV}$，光子能量 $\\Delta E = \\dfrac{hc}{\\lambda}$。\n• $3\\to1$：$13.6\\left(1 - \\dfrac{1}{9}\\right) \\approx 12.1\\text{ eV}$（最大）\n• $2\\to1$：$10.2\\text{ eV}$；$4\\to2$：$2.55\\text{ eV}$；$3\\to2$：$1.89\\text{ eV}$；$4\\to3$：$0.66\\text{ eV}$\n\n能量最大的 $3\\to1$ 波長最短。\n\n故選 (B)"
+  },
+  {
+    "id": "110-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "張同學以 $0.100\\text{ M}$ 的 NaOH 水溶液滴定未知濃度的 $50.0\\text{ mL}$ 鹽酸溶液甲，當滴入 $48.0\\text{ mL}$ 的 NaOH 溶液時，發覺忘了加入酚酞指示劑。待加入指示劑後，發現溶液已呈現桃紅色。於是進行反滴定，先加入 $1.80\\text{ mL}$ 的 $0.100\\text{ M}$ 鹽酸溶液後，再滴入 $0.20\\text{ mL}$ 的 NaOH 溶液，即達到滴定終點，則此鹽酸溶液甲的濃度（M）為何？",
+    "options": [
+      "0.093",
+      "0.103",
+      "0.156",
+      "0.186",
+      "0.206"
+    ],
+    "answerIndex": 0,
+    "explanation": "【反滴定：酸的總莫耳數 = 鹼的總莫耳數】\n• NaOH 總量：$(48.0 + 0.20)\\text{ mL} \\times 0.100\\text{ M} = 4.82\\text{ mmol}$\n• 額外加入的 HCl：$1.80 \\times 0.100 = 0.180\\text{ mmol}$\n• 溶液甲中的 HCl：$4.82 - 0.180 = 4.64\\text{ mmol}$\n\n$$[\\text{HCl}] = \\frac{4.64}{50.0} \\approx 0.093\\text{ M}$$\n故選 (A)"
+  },
+  {
+    "id": "110-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "甲、乙、丙、丁為四個氣態鹵化氫分子，其化學鍵的鍵能與鍵長的關係如圖 1 所示。針對這四個分子與鹵化氫的對應關係，下表選項中，哪一個最合理？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-03.png\" alt=\"選項表與圖1 鍵能與鍵長關係\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲 HI、乙 HBr、丙 HCl、丁 HF",
+      "甲 HF、乙 HCl、丙 HBr、丁 HI",
+      "甲 HCl、乙 HF、丙 HBr、丁 HI",
+      "甲 HI、乙 HBr、丙 HF、丁 HCl",
+      "甲 HF、乙 HI、丙 HBr、丁 HCl"
+    ],
+    "answerIndex": 0,
+    "explanation": "【鹵化氫的鍵長與鍵能】\n鹵素原子由 F → I 半徑變大，H－X 鍵長變長、鍵能變小：HF 鍵最短最強，HI 鍵最長最弱。\n圖 1 中丁鍵長最短、鍵能最大，為 HF；依序丙 HCl、乙 HBr、甲 HI（鍵長最長、鍵能最小）。\n\n故選 (A)"
+  },
+  {
+    "id": "110-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "在 1952 年的第一次氫彈試爆中，首次發現了原子序 99 的鑀（Es）元素，已知此人造元素同位素 Es-253 的半生期為 20.5 天。若是能取得 0.20 mg 的 Es-253，立即與配位基進行合成及純化，得到的錯合物產率為 70%，經過 10 天後，則此錯合物中含有衰變後殘餘的 Es-253 量約為多少（mg）？",
+    "options": [
+      "0.18",
+      "0.16",
+      "0.14",
+      "0.12",
+      "0.10"
+    ],
+    "answerIndex": 4,
+    "explanation": "【產率＋半生期】\n• 進入錯合物的 Es-253：$0.20 \\times 70\\% = 0.14\\text{ mg}$\n• 10 天後剩下：$0.14 \\times \\left(\\dfrac{1}{2}\\right)^{10/20.5} \\approx 0.14 \\times 0.71 \\approx 0.10\\text{ mg}$\n\n故選 (E)"
+  },
+  {
+    "id": "110-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "有一容器裝有 $\\text{X}_2$、$\\text{Y}_2$ 兩種雙原子的氣體分子，其莫耳數比為 $1:2$，在定溫定壓下反應，反應完成後體積變為原來的 $1/2$，若該反應只有一種產物，並且為氣體，則該氣體產物的分子式可能為何？",
+    "options": [
+      "$\\text{X}_2\\text{Y}$",
+      "$\\text{XY}$",
+      "$\\text{XY}_2$",
+      "$\\text{X}_3\\text{Y}_2$",
+      "$\\text{X}_2\\text{Y}_3$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【定溫定壓下體積比 = 莫耳數比】\n設 $\\text{X}_2$ 1 mol、$\\text{Y}_2$ 2 mol，共 3 mol，反應後要剩 1.5 mol（含產物與過量反應物）。\n• $\\text{X}_2\\text{Y}_3$：$\\text{X}_2 + \\dfrac{3}{2}\\text{Y}_2 \\to \\text{X}_2\\text{Y}_3$，生成 1 mol、剩 $\\text{Y}_2$ 0.5 mol，共 1.5 mol ✓\n• 其他：$\\text{X}_2\\text{Y}$ 剩 2.5 mol；$\\text{XY}$ 剩 3 mol；$\\text{XY}_2$ 剩 2 mol；$\\text{X}_3\\text{Y}_2$ 剩 2 mol，都不符合。\n\n故選 (E)"
+  },
+  {
+    "id": "110-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關各物質的分子間主要作用力的敘述，何者正確？",
+    "options": [
+      "$\\text{BF}_3$ 主要作用力為偶極－偶極作用力",
+      "Xe 主要作用力為分散力",
+      "$\\text{H}_2$ 主要作用力為氫鍵",
+      "$\\text{C}_2\\text{H}_4$ 主要作用力為共價鍵",
+      "HCl 主要作用力為離子鍵"
+    ],
+    "answerIndex": 1,
+    "explanation": "【分子間作用力】\n• (A) 錯誤：$\\text{BF}_3$ 為平面三角形，非極性分子，分子間主要為分散力。\n• (B) 正確：Xe 為單原子非極性分子，只有分散力。\n• (C) 錯誤：氫鍵需要 H 接在 N、O、F 上，$\\text{H}_2$ 分子間只有分散力。\n• (D) 錯誤：共價鍵是分子「內」的鍵結；$\\text{C}_2\\text{H}_4$ 分子間為分散力。\n• (E) 錯誤：HCl 為極性共價分子，分子間主要為偶極－偶極力（與分散力）。\n\n故選 (B)"
+  },
+  {
+    "id": "110-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "蘇同學做實驗時，有下列的操作：甲、將氫氧化鈉溶液，用燒杯對準管口，加入滴定管中；乙、將水徐徐倒入濃硫酸中並快速攪拌溶液；丙、實驗結束，將剩餘乾淨未用的藥品分別倒回原有藥瓶中；丁、將氫氧化鈉廢液先行中和再排放入水槽；戊、實驗結束，將所有使用過的藥品先予以混合，再倒入專用廢液桶中。上述有關實驗的敘述，何者正確？",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "【實驗室安全】\n• 甲：應使用漏斗將溶液加入滴定管，直接用燒杯倒容易溢出。\n• 乙：稀釋濃硫酸要「酸入水」，把濃硫酸緩緩倒入水中；水倒入濃硫酸會劇烈放熱而噴濺。\n• 丙：用剩的藥品不可倒回原試劑瓶，以免污染。\n• 丁：正確，鹼性廢液中和後才排放。\n• 戊：不同藥品不可任意混合，可能發生危險反應，應分類回收。\n\n故選 (D)"
+  },
+  {
+    "id": "110-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 8-9 題為題組】新冠病毒猖獗，使用含氯的非酒精性消毒劑甚多，也常發生意外。圖 2 為定溫下，某濃度的溶液中 $\\text{Cl}_2$、HOCl 及 $\\text{OCl}^-$ 三個物種的含量（%），隨 pH 值不同而變化的曲線。\n8. 下列有關 $\\text{Cl}_2$ 及 HOCl 的敘述，何者錯誤？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-08.png\" alt=\"圖2 Cl2、HOCl、OCl- 含量隨 pH 變化\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{Cl}_2$ 能溶於 pH = 5 的水溶液",
+      "$\\text{Cl}_2$ 溶於 pH = 1 的水溶液會生成 $\\text{Cl}^-$",
+      "$\\text{Cl}_2$ 溶於 pH = 2 的水溶液反應中，會生成 $\\text{OCl}^-$",
+      "$\\text{Cl}_2$ 溶於 pH = 2 的水溶液，消失的 $\\text{Cl}_2$ 全部轉化成 HOCl",
+      "$\\text{Cl}_2$ 溶於 pH = 2 的水溶液反應中，$\\text{Cl}_2$ 是氧化劑，也是還原劑"
+    ],
+    "answerIndex": 3,
+    "explanation": "【氯在水中的物種分布】\n$\\text{Cl}_2$ 溶於水：$\\text{Cl}_2 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{HOCl} + \\text{H}^+ + \\text{Cl}^-$，生成的 HOCl 又會部分解離：$\\text{HOCl} \\rightleftharpoons \\text{H}^+ + \\text{OCl}^-$。\n• (A) 正確：$\\text{Cl}_2$ 可溶於 pH 5 的水，並幾乎全部轉為 HOCl。\n• (B) 正確：反應生成 $\\text{Cl}^-$。\n• (C) 正確：HOCl 是弱酸，在 pH 2 時仍有極少量解離成 $\\text{OCl}^-$（圖中含量趨近於零，但不是完全沒有生成）。\n• (D) 錯誤（本題答案）：$\\text{Cl}_2$ 的兩個氯原子，一個變成 HOCl，另一個變成 $\\text{Cl}^-$；而且部分 HOCl 還會解離成 $\\text{OCl}^-$，所以消失的 $\\text{Cl}_2$ 並非「全部」轉化成 HOCl。\n• (E) 正確：Cl 由 0 價變成 HOCl 中的 +1 價與 $\\text{Cl}^-$ 的 −1 價，屬自身氧化還原，$\\text{Cl}_2$ 同時是氧化劑與還原劑。\n\n故選 (D)"
+  },
+  {
+    "id": "110-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 8-9 題為題組】已知 $\\text{OCl}^-$ 及 HOCl 的標準還原電位表如下：\n$$\\text{HOCl} + \\text{H}^+ + \\text{e}^- \\to \\tfrac{1}{2}\\text{Cl}_2 + \\text{H}_2\\text{O}\\qquad E^\\circ = +1.61\\text{ V}$$\n$$\\text{OCl}^- + \\text{H}_2\\text{O} + 2\\text{e}^- \\to \\text{Cl}^- + 2\\text{OH}^-\\qquad E^\\circ = +0.81\\text{ V}$$\n9. 下列有關 $\\text{Cl}_2$、NaOCl 及 HOCl 的敘述，何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-08.png\" alt=\"圖2 Cl2、HOCl、OCl- 含量隨 pH 變化\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "HOCl 的 $\\text{p}K_a$ 值約為 7.5",
+      "NaOCl 可用於洗手消毒",
+      "HOCl 及 NaOCl 均為鹼性化合物",
+      "相同濃度的溶液，HOCl 比 NaOCl 還原力強",
+      "NaOCl 的溶液在低於 pH 5 的條件下，會有 $\\text{Cl}_2$ 產生"
+    ],
+    "answerIndex": 0,
+    "explanation": "【由分布圖讀 $\\text{p}K_a$】\n• (A) 正確：HOCl 與 $\\text{OCl}^-$ 各占 $50\\%$ 的交點約在 pH 7.5，此時 $\\text{pH} = \\text{p}K_a$。\n• (B) 錯誤：NaOCl（漂白水）具腐蝕性，不能直接用於洗手。\n• (C) 錯誤：HOCl 是弱酸。\n• (D) 錯誤：HOCl 的還原電位較高，代表它的「氧化力」較強，不是還原力。\n• (E) 錯誤：由圖 2，pH 4～5 時 $\\text{Cl}_2$ 含量幾乎為零，「低於 pH 5 就產生 $\\text{Cl}_2$」不成立；且 $\\text{Cl}_2$ 的生成還需要 $\\text{Cl}^-$（$\\text{HOCl} + \\text{H}^+ + \\text{Cl}^- \\to \\text{Cl}_2 + \\text{H}_2\\text{O}$）。\n\n故選 (A)"
+  },
+  {
+    "id": "110-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "王同學欲進行化學電池實驗，查出 4 種半電池標準還原電位，如表 1 所示，並取得相關的純水、鹽橋、燒杯、鹽類及電極。王同學取出兩種半電池，並以鹽橋連結組合後，構成化學電池，如圖 3 所示。下列實驗條件及其結果的敘述，何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-10.png\" alt=\"表1 半電池還原電位與圖3 化學電池\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "測得電壓為 $0.57\\text{ V}$ 的電池中，銅片為正極",
+      "鎳鋅電池中，鎳片為陽極",
+      "鎳鉛電池所測得電壓會大於 $0.36\\text{ V}$",
+      "將鹽橋移除改用銅線，仍可組成電池",
+      "將半電池的金屬換成石墨，仍可組成電池"
+    ],
+    "answerIndex": 0,
+    "explanation": "【電池電壓 = 正極還原電位 − 負極還原電位】\n• (A) 正確：$0.34 - (-0.23) = 0.57\\text{ V}$，為鎳銅電池；銅的還原電位較高，為正極（陰極）。\n• (B) 錯誤：鎳鋅電池中，鋅較易氧化為陽極（負極），鎳為陰極（正極）。\n• (C) 錯誤：$-0.13 - (-0.23) = 0.10\\text{ V}$。\n• (D) 錯誤：鹽橋讓離子移動維持電中性，換成銅線無法傳導離子，電池不能運作。\n• (E) 錯誤：負極需要能被氧化的金屬（如 Zn、Ni），換成石墨就沒有物質可失去電子。\n\n故選 (A)"
+  },
+  {
+    "id": "110-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 11-12 題為題組】曾有少數廠商於食品中添加塑化劑 DEHP，當做起雲劑使用。DEHP 是一種環境荷爾蒙，已經證實對人體有害，圖 4 為 DEHP 的分子結構。\n11. 根據結構，DEHP 應屬於下列哪一種官能基化合物？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-11.png\" alt=\"圖4 DEHP 分子結構\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "酮類",
+      "醛類",
+      "酯類",
+      "酚類",
+      "醚類"
+    ],
+    "answerIndex": 2,
+    "explanation": "【官能基辨識】\nDEHP（鄰苯二甲酸二(2-乙基己基)酯）分子中有兩個 $-\\text{COO}-$ 結構（羰基碳同時接一個氧再接烷基），屬於酯類。\n\n故選 (C)"
+  },
+  {
+    "id": "110-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 11-12 題為題組】曾有少數廠商於食品中添加塑化劑 DEHP，當做起雲劑使用。DEHP 是一種環境荷爾蒙，已經證實對人體有害，圖 4 為 DEHP 的分子結構。\n12. 下列有關 DEHP 的敘述，哪一個選項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-11.png\" alt=\"圖4 DEHP 分子結構\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "分子內有 6 個碳具有 $sp^2$ 混成軌域",
+      "具有分子間氫鍵",
+      "與斐林試液反應會產生紅色沉澱",
+      "與多侖試劑反應會產生銀鏡現象",
+      "水解後可得鄰苯二甲酸與 2-乙基-1-己醇"
+    ],
+    "answerIndex": 4,
+    "explanation": "【DEHP 的結構與性質】\n• (A) 錯誤：苯環 6 個碳加上 2 個羰基碳，共 8 個 $sp^2$ 碳。\n• (B) 錯誤：沒有 O－H 或 N－H，分子間不能形成氫鍵。\n• (C)(D) 錯誤：沒有醛基，不與斐林試液、多侖試劑反應。\n• (E) 正確：酯水解得到鄰苯二甲酸與醇，醇為 2-乙基-1-己醇。\n\n故選 (E)"
+  },
+  {
+    "id": "110-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "室溫下，將 3.0 克的氦氣與 6.0 克的氖氣注入一個密閉容器內。假設氦氣與氖氣均可視為理想氣體，下列有關容器內氦氣與氖氣的敘述，何者正確？（原子量：He 4.0、Ne 20.2）",
+    "options": [
+      "原子數比為 1:1",
+      "分子數比為 1:1",
+      "莫耳數比為 1:1",
+      "氣體分子的平均速率比為 1:1",
+      "氣體分子的平均動能比為 1:1"
+    ],
+    "answerIndex": 4,
+    "explanation": "【同溫的氣體】\n• He：$\\dfrac{3.0}{4.0} = 0.75\\text{ mol}$；Ne：$\\dfrac{6.0}{20.2} \\approx 0.30\\text{ mol}$，莫耳數、分子數、原子數都不同。\n• (D) 錯誤：平均速率與 $\\sqrt{\\dfrac{T}{M}}$ 成正比，分子量不同。\n• (E) 正確：平均動能 $\\dfrac{3}{2}kT$ 只與溫度有關，同溫相同。\n\n故選 (E)"
+  },
+  {
+    "id": "110-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "已知 HCOOH 與 $\\text{CH}_3\\text{COOH}$ 的 $K_a$ 分別為 $1.8\\times10^{-4}$ 與 $1.8\\times10^{-5}$。實驗桌上有 4 杯水溶液，分別為（1）0.1 M 的 $\\text{CH}_3\\text{COOH}$、（2）0.1 M 的 $\\text{CH}_3\\text{COONa}$、（3）0.1 M 的 HCOOH 與（4）0.1 M 的 HCOONa。若將等體積（1）與（2）混合得溶液甲，等體積（1）與（3）混合得溶液乙，等體積（1）與（4）混合得溶液丙，則溶液甲、乙與丙的 $[\\text{CH}_3\\text{COOH}]$ 由小至大的順序為何？",
+    "options": [
+      "甲 < 乙 < 丙",
+      "乙 < 甲 < 丙",
+      "丙 < 乙 < 甲",
+      "甲 < 丙 < 乙",
+      "丙 < 甲 < 乙"
+    ],
+    "answerIndex": 2,
+    "explanation": "【共同離子效應與酸鹼反應】\n混合後 $\\text{CH}_3\\text{COOH}$ 的起始濃度都是 $0.05\\text{ M}$，比較被消耗的多寡：\n• 甲（加 $\\text{CH}_3\\text{COO}^-$）：共同離子使解離被強烈抑制，$[\\text{H}^+] \\approx K_a = 1.8\\times10^{-5}$，解離量極少，$[\\text{CH}_3\\text{COOH}] \\approx 0.05\\text{ M}$（最大）。\n• 乙（加 HCOOH）：HCOOH 較強，提供 $[\\text{H}^+] \\approx \\sqrt{1.8\\times10^{-4}\\times0.05} = 3\\times10^{-3}\\text{ M}$，$\\text{CH}_3\\text{COOH}$ 解離比例約 $\\dfrac{1.8\\times10^{-5}}{3\\times10^{-3}} = 0.6\\%$，略小於甲。\n• 丙（加 $\\text{HCOO}^-$）：$\\text{CH}_3\\text{COOH} + \\text{HCOO}^- \\rightleftharpoons \\text{CH}_3\\text{COO}^- + \\text{HCOOH}$，$K = \\dfrac{1.8\\times10^{-5}}{1.8\\times10^{-4}} = 0.1$，約有 $0.012\\text{ M}$ 被轉換，剩約 $0.038\\text{ M}$（最小）。\n\n所以 丙 < 乙 < 甲。\n\n故選 (C)"
+  },
+  {
+    "id": "110-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "蛋白質及胜肽均由胺基酸組成，是食品中的必要營養，也是構成人體組織的要素及體內諸多激素、酵素、抗體等成分。有一小分子胜肽，其化學結構如圖 5 所示，則此胜肽由幾個胺基酸縮合而成？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-15.png\" alt=\"圖5 小分子胜肽結構\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answerIndex": 0,
+    "explanation": "【數醯胺鍵（胜肽鍵）】\n圖 5 主鏈上有 2 個胜肽鍵（$-\\text{CO}-\\text{NH}-$），$n$ 個胺基酸縮合會形成 $n - 1$ 個胜肽鍵，所以由 3 個胺基酸組成（由左至右可看出離胺酸、天門冬胺酸、天門冬醯胺的殘基；右下的 $-\\text{CONH}_2$ 是側鏈，不是胜肽鍵）。\n\n故選 (A)"
+  },
+  {
+    "id": "110-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "points": 3,
+    "question": "有六種有機化合物，分子式如下：（甲）$\\text{C}_6\\text{H}_{12}\\text{Cl}_2$、（乙）$\\text{C}_6\\text{H}_{13}\\text{ClO}$、（丙）$\\text{C}_6\\text{H}_{13}\\text{N}$、（丁）$\\text{C}_6\\text{H}_{12}$、（戊）$\\text{C}_6\\text{H}_{12}\\text{BrCl}$、（己）$\\text{C}_6\\text{H}_{12}\\text{O}$。經由實驗分析，得知其中有一種化合物具有雙鍵。下列相關敘述中，何者不正確？",
+    "options": [
+      "甲、戊為鹵烷",
+      "乙可能為醚類",
+      "可能有 3 種化合物為環狀結構",
+      "具有雙鍵的化合物可能是醛或酮",
+      "丁若可使過錳酸鉀溶液褪色，則為烯類"
+    ],
+    "answerIndex": 2,
+    "explanation": "【不飽和度】\n不飽和度 $= \\dfrac{2C + 2 + N - H - X}{2}$：\n• 甲 $\\text{C}_6\\text{H}_{12}\\text{Cl}_2$：0；乙 $\\text{C}_6\\text{H}_{13}\\text{ClO}$：0；戊 $\\text{C}_6\\text{H}_{12}\\text{BrCl}$：0\n• 丙 $\\text{C}_6\\text{H}_{13}\\text{N}$：1；丁 $\\text{C}_6\\text{H}_{12}$：1；己 $\\text{C}_6\\text{H}_{12}\\text{O}$：1\n\n不飽和度 1 的有丙、丁、己三種，每一種不是有一個雙鍵就是有一個環。題目說只有一種有雙鍵，所以其餘兩種為環狀，環狀結構恰為 2 種，不是 3 種，(C) 不正確。\n• (A) 正確：甲、戊飽和且含鹵素。(B) 正確：乙可為含氯的醚。(D) 正確：己可為醛或酮。(E) 正確：丁能使過錳酸鉀褪色表示有 C＝C，為烯類。\n\n故選 (C)"
+  },
+  {
+    "id": "110-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "鋁熱劑的主要成分為鋁及氧化鐵，先以火焰槍或鎂帶加熱引發後，二者進行反應，產生熔融態的鐵，可供焊接之用。下列相關化學反應的敘述，哪些正確？",
+    "options": [
+      "反應為放熱反應",
+      "反應有氧氣參與",
+      "反應屬於氧化還原反應",
+      "此反應中，鋁比鐵較易失去電子",
+      "在反應中鋁為氧化劑，氧化鐵為還原劑"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "【鋁熱反應】\n$$2\\text{Al} + \\text{Fe}_2\\text{O}_3 \\to \\text{Al}_2\\text{O}_3 + 2\\text{Fe}$$\n• (A) 正確：大量放熱，使鐵熔化。\n• (B) 錯誤：氧來自氧化鐵，沒有氧氣參與。\n• (C) 正確：Al 由 0 → +3，Fe 由 +3 → 0。\n• (D) 正確：鋁的活性比鐵大，較易失去電子，才能把鐵還原出來。\n• (E) 錯誤：鋁是還原劑，氧化鐵是氧化劑。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "110-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "古代人們發現，取自於柳樹中的柳酸，構造如圖 6 所示，可以用來止痛及治療風濕。但是，柳酸會造成胃部不適。可利用柳酸與醋酸或乙酐的反應製得乙醯柳酸，就是阿司匹靈。下列有關乙醯柳酸的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-18.png\" alt=\"圖6 柳酸結構\" style=\"width:100%;max-width:140px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "常溫下乙醯柳酸易溶於水中",
+      "柳酸和乙醯柳酸均有分子內氫鍵",
+      "乙醯柳酸有 5 個 $\\pi$ 鍵及 17 個 $\\sigma$ 鍵",
+      "柳酸的羥基和醋酸的羧基進行反應，是一種酯化反應",
+      "柳酸和乙酐反應，以濃硫酸作為催化劑，可製備乙醯柳酸"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "【阿司匹靈】\n• (A) 錯誤：乙醯柳酸在常溫水中溶解度小。\n• (B) 正確：兩者在苯環鄰位都有可形成分子內氫鍵的基團（柳酸為 －OH 與 －COOH；乙醯柳酸為 －COOH 與酯基的羰基氧）。\n• (C) 錯誤：乙醯柳酸 $\\text{C}_9\\text{H}_8\\text{O}_4$ 有 5 個 $\\pi$ 鍵（苯環 3 個、兩個 C＝O），但 $\\sigma$ 鍵共 21 個。\n• (D) 正確：酚羥基與羧基（或乙酐）反應形成酯，屬於酯化反應。\n• (E) 正確：實驗室以柳酸與乙酐在濃硫酸催化下製備乙醯柳酸。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "110-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "有一化學反應式：$a\\,甲(aq) + b\\,乙(aq) \\to c\\,丙(s) + d\\,丁(aq)$，其中甲、乙、丙、丁為四種化合物代號，a、b、c、d 為平衡係數。若以 2 M 甲溶液，分別和 1 M 乙溶液進行多次反應，得到表 2 的數據。根據表 2 中的數據，試問下列敘述，哪些正確？",
+    "svg": "<svg viewBox=\"0 0 484 212\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><text x=\"242\" y=\"20\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 2</text><rect x=\"2\" y=\"28\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">次別</text><rect x=\"72\" y=\"28\" width=\"150\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">2 M 甲溶液用量 (mL)</text><rect x=\"222\" y=\"28\" width=\"150\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"297\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">1 M 乙溶液用量 (mL)</text><rect x=\"372\" y=\"28\" width=\"110\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"427\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">丙沉澱量 (g)</text><rect x=\"2\" y=\"58\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">實驗一</text><rect x=\"72\" y=\"58\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20</text><rect x=\"222\" y=\"58\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"297\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4</text><rect x=\"372\" y=\"58\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"427\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.30</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">實驗二</text><rect x=\"72\" y=\"88\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20</text><rect x=\"222\" y=\"88\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"297\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">8</text><rect x=\"372\" y=\"88\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"427\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.60</text><rect x=\"2\" y=\"118\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">實驗三</text><rect x=\"72\" y=\"118\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20</text><rect x=\"222\" y=\"118\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"297\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">12</text><rect x=\"372\" y=\"118\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"427\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.90</text><rect x=\"2\" y=\"148\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">實驗四</text><rect x=\"72\" y=\"148\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20</text><rect x=\"222\" y=\"148\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"297\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">16</text><rect x=\"372\" y=\"148\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"427\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1.00</text><rect x=\"2\" y=\"178\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"197.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">實驗五</text><rect x=\"72\" y=\"178\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"197.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20</text><rect x=\"222\" y=\"178\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"297\" y=\"197.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20</text><rect x=\"372\" y=\"178\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"427\" y=\"197.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1.00</text></svg>",
+    "options": [
+      "實驗一至三的 3 個實驗中，甲溶液為過量",
+      "實驗三至五中，實驗四中的乙溶液尚未過量",
+      "由實驗三至四可知，只要（40/3）mL 的乙溶液，即可恰好與 20 mL 甲溶液完全反應",
+      "若改用 0.3 M 甲溶液 50 mL，則需 0.25 M 乙溶液 30 mL，才能恰好完全反應",
+      "若取足夠的 0.25 M 乙溶液與 50 mL 的 0.3 M 甲溶液完全反應，則可得 0.375 g 的丙沉澱"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【限量試劑】\n• 實驗一～三：沉澱量與乙的用量成正比（每 4 mL 得 0.30 g），乙不足、甲過量，(A) 正確。\n• 甲（40 mmol）全部反應可得 1.00 g；需要乙 $\\dfrac{1.00}{0.30} \\times 4 = \\dfrac{40}{3}\\text{ mL}$，(C) 正確。實驗四用 16 mL，乙已過量，(B) 錯誤。\n• 恰好反應時 甲 : 乙 $= 40\\text{ mmol} : \\dfrac{40}{3}\\text{ mmol} = 3 : 1$。\n• (D) 錯誤：甲 $0.3 \\times 50 = 15\\text{ mmol}$，需乙 5 mmol，即 $0.25\\text{ M}$ 的 20 mL。\n• (E) 正確：40 mmol 甲得 1.00 g，15 mmol 甲得 $1.00 \\times \\dfrac{15}{40} = 0.375\\text{ g}$。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "110-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "將一顆市售維他命 C（分子式 $\\text{C}_6\\text{H}_8\\text{O}_6$，分子量 = 176）加水使其完全溶解，配製成 100 mL 溶液。取此溶液 20 mL 置入一錐形瓶中，加入適量的澱粉液作為指示劑，需用 12 mL 的 0.10 M 碘液滴定，達到滴定終點，維他命 C 與碘的化學反應式如下：\n$$\\text{C}_6\\text{H}_8\\text{O}_6(aq) + \\text{I}_2(aq) \\to \\text{C}_6\\text{H}_6\\text{O}_6(aq) + 2\\text{H}^+(aq) + 2\\text{I}^-(aq)$$\n下列敘述，哪些正確？",
+    "options": [
+      "滴定終點時錐形瓶內溶液的 pH 值上升",
+      "反應中，碘為氧化劑",
+      "反應中每莫耳維他命 C 分子釋出 2 莫耳電子",
+      "當藍色不再消失，表示錐形瓶中溶液含有少許過量的碘",
+      "此顆市售維他命 C 中約含有 500 mg 的維他命 C"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "【碘滴定維他命 C】\n• (A) 錯誤：反應產生 $\\text{H}^+$，pH 下降。\n• (B) 正確：$\\text{I}_2 \\to 2\\text{I}^-$ 得到電子，碘是氧化劑。\n• (C) 正確：$\\text{C}_6\\text{H}_8\\text{O}_6 \\to \\text{C}_6\\text{H}_6\\text{O}_6$ 失去 2 個 H（2 個 $\\text{H}^+$ 與 2 個電子）。\n• (D) 正確：維他命 C 用完後，多出的碘使澱粉呈藍色且不再消失。\n• (E) 錯誤：20 mL 中含 $12 \\times 0.10 = 1.2\\text{ mmol}$，100 mL 共 6.0 mmol，質量 $6.0 \\times 176 \\approx 1056\\text{ mg}$，約 1 g。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "110-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "細胞培養液中的溶氧量不易偵測，但利用某些特定錯合物的螢光則可以測得。於溶液中，錯合物的螢光訊號強度，會隨氧氣的濃度增加而下降。某一個釕錯合物，即有此種性質，其化學式為 $[\\text{RuL}_3]\\text{Cl}_2$，其中，Ru 與三個配位基 L 錯合。圖 7 為配位基 L 的結構式。下列有關此錯合物的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-21.png\" alt=\"圖7 配位基 L 的結構\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "Ru 為 +2 價離子",
+      "配位基 L 是單牙基",
+      "$[\\text{RuL}_3]\\text{Cl}_2$ 為 6 配位的錯合物",
+      "錯合物具有 21 個雙鍵",
+      "硝酸銀溶液和錯合物溶液作用可產生沉澱"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【錯合物】\n• (A) 正確：L 為中性配位基，外界有 2 個 $\\text{Cl}^-$，所以 Ru 為 +2。\n• (B) 錯誤：L（4,7-二苯基-1,10-啡啉）用兩個 N 原子同時配位，是雙牙基。\n• (C) 正確：3 個雙牙基共 6 個配位原子，為 6 配位。\n• (D) 錯誤：每個 L 的啡啉骨架有 7 個雙鍵、兩個苯環各 3 個，共 13 個，3 個 L 共 39 個（以凱庫勒結構計）。\n• (E) 正確：外界的 $\\text{Cl}^-$ 在水中解離，與 $\\text{Ag}^+$ 生成 AgCl 白色沉澱。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "110-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "聚乳酸是一種環境友善、可降解的聚合物，可由單體甲或單體乙聚合而成，其結構如圖 8。下列相關的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-22.png\" alt=\"圖8 聚乳酸、單體甲（乳酸）、單體乙（乳酸交酯）\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "聚乳酸為聚醚類聚合物",
+      "聚乳酸不易溶於水",
+      "單體乙可直接經由縮合反應脫水生成聚乳酸",
+      "使用等莫耳數的單體甲及單體乙分別進行聚合，可生成等重量的聚乳酸",
+      "使用等重量的單體甲及單體乙分別進行聚合，後者可生成較重的聚乳酸"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【聚乳酸】\n• (A) 錯誤：主鏈由酯鍵連接，是聚酯。\n• (B) 正確：聚乳酸為長鏈聚酯，不易溶於水。\n• (C) 錯誤：單體乙（乳酸交酯）是開環聚合，不脫水；單體甲（乳酸）才是縮合聚合脫水。\n• (D) 錯誤：單體乙是兩個乳酸單元組成的環，等莫耳數時乙提供的乳酸單元是甲的 2 倍。\n• (E) 正確：甲聚合時要脫去水，產物比原料輕；乙開環聚合不失去任何原子，等重量的乙生成較重的聚合物。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "110-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "乙醇為一種生質燃料，可由葡萄糖經生物發酵作用生成。葡萄糖可從光合作用產生，以澱粉或纖維素形式儲存。葡萄糖發酵時除產生乙醇外，也同時生成產物甲。已知相關分子的莫耳生成熱分別為二氧化碳：−393.5、乙醇：−277.7、葡萄糖：−1260、水：−285.8（kJ/mol）。下列相關的敘述，哪些選項正確？",
+    "options": [
+      "產物甲為水",
+      "葡萄糖發酵生成乙醇為放熱反應",
+      "從澱粉及纖維素產生葡萄糖，均需經過水解",
+      "葡萄糖經過發酵，所產生的乙醇與產物甲，兩者莫耳數相同",
+      "葡萄糖發酵取得的乙醇，其燃燒的反應熱，比直接將原本的葡萄糖燃燒所產生的熱量多"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "【發酵與生成熱】\n$$\\text{C}_6\\text{H}_{12}\\text{O}_6 \\to 2\\text{C}_2\\text{H}_5\\text{OH} + 2\\text{CO}_2$$\n• (A) 錯誤：產物甲是 $\\text{CO}_2$。\n• (B) 正確：$\\Delta H = 2(-277.7) + 2(-393.5) - (-1260) = -82.4\\text{ kJ}$，放熱。\n• (C) 正確：澱粉、纖維素都是葡萄糖的聚合物，需水解得到葡萄糖。\n• (D) 正確：乙醇與 $\\text{CO}_2$ 都是 2 mol。\n• (E) 錯誤：發酵已放出 82.4 kJ，所得乙醇燃燒的熱量比原本葡萄糖直接燃燒少了這部分。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "110-ast-chem-24",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "去年（2020）諾貝爾化學獎頒發給兩位女性科學家，分別是艾曼紐爾・夏本提爾與珍妮佛・道納。她們發現了 CRISPR/Cas9 基因剪刀的技術，可以精準地剪接去氧核糖核酸（DNA）。這種技術可用於各種生物科技上，例如育種、醫藥和治療上。下列有關 DNA 的敘述，哪些正確？",
+    "options": [
+      "DNA 之立體結構為雙股螺旋",
+      "DNA 與 RNA 分子具有 4 種相同的含氮鹼基",
+      "DNA 是以核苷酸為單體所聚合而成的巨大分子",
+      "DNA 分子中的核糖含有六個碳原子",
+      "DNA 分子鹼基間的氫鍵作用力，是其形成立體結構的重要因素之一"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【DNA 的結構】\n• (A) 正確：DNA 為雙股螺旋。\n• (B) 錯誤：DNA 有 A、T、G、C，RNA 有 A、U、G、C，相同的只有 3 種。\n• (C) 正確：單體為核苷酸（磷酸＋五碳糖＋含氮鹼基）。\n• (D) 錯誤：去氧核糖是五碳糖。\n• (E) 正確：互補鹼基間的氫鍵維持雙股結構。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "110-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】張老師與學生討論有關解題時的推理及類比思維方法後，給了學生一個有關物質的質量、原子量、分子量以及莫耳數的題目。\n室溫時，某混合氣體 G，無色無味無毒，是由兩種氣體 X 與 Y 等莫耳數混合而成，且 G 中 X 與 Y 的質量比為 $7:8$。其中，液態 X 可作為儲存疫苗的冷劑；某些新冠肺炎的患者，藉由高壓 Y 氣體以維持生命。\n然後張老師再給了一道新題目：在 $80^\\circ\\text{C}$ 時，混合氣體 R 是無色，也是由兩種氣體 P 與 Q 等莫耳數混合而成，R 中 P 與 Q 的質量比也是 $7:8$，但是兩者皆為有毒氣體，而且降低到室溫後，其中之一會變成液體。另外，氣體 P 是瓦斯燃燒不完全時，容易產生的氣體；氣體 Q 則為醇類。（原子量：H 1.0、C 12.0、N 14.0、O 16.0）\n\n1. 寫出 X 與 Y 的分子式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "N2",
+      "O2"
+    ],
+    "blankLabels": [
+      "X 的分子式",
+      "Y 的分子式"
+    ],
+    "explanation": "【由用途與質量比推論】\n• 液態氮可作為疫苗冷劑，高壓氧氣可維持生命，所以 X 為 $\\text{N}_2$、Y 為 $\\text{O}_2$。\n• 等莫耳時質量比 $28 : 32 = 7 : 8$，與題目相符。\n\n答：X 為 $\\text{N}_2$，Y 為 $\\text{O}_2$"
+  },
+  {
+    "id": "110-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】張老師與學生討論有關解題時的推理及類比思維方法後，給了學生一個有關物質的質量、原子量、分子量以及莫耳數的題目。\n室溫時，某混合氣體 G，無色無味無毒，是由兩種氣體 X 與 Y 等莫耳數混合而成，且 G 中 X 與 Y 的質量比為 $7:8$。其中，液態 X 可作為儲存疫苗的冷劑；某些新冠肺炎的患者，藉由高壓 Y 氣體以維持生命。\n然後張老師再給了一道新題目：在 $80^\\circ\\text{C}$ 時，混合氣體 R 是無色，也是由兩種氣體 P 與 Q 等莫耳數混合而成，R 中 P 與 Q 的質量比也是 $7:8$，但是兩者皆為有毒氣體，而且降低到室溫後，其中之一會變成液體。另外，氣體 P 是瓦斯燃燒不完全時，容易產生的氣體；氣體 Q 則為醇類。（原子量：H 1.0、C 12.0、N 14.0、O 16.0）\n\n2. 寫出 P 與 Q 的分子式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "CO",
+      "CH3OH"
+    ],
+    "blankLabels": [
+      "P 的分子式",
+      "Q 的分子式"
+    ],
+    "acceptedBlanks": [
+      [],
+      [
+        "CH4O"
+      ]
+    ],
+    "explanation": "【類比推理】\n• 瓦斯不完全燃燒產生有毒的 CO，分子量 28。\n• 等莫耳時質量比 $7 : 8$，Q 的分子量為 $28 \\times \\dfrac{8}{7} = 32$，分子量 32 的醇為甲醇 $\\text{CH}_3\\text{OH}$（有毒，沸點 $65^\\circ\\text{C}$，在 $80^\\circ\\text{C}$ 為氣體，降到室溫成液體）。\n\n答：P 為 CO，Q 為 $\\text{CH}_3\\text{OH}$（$\\text{CH}_4\\text{O}$）"
+  },
+  {
+    "id": "110-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】取 $12.0\\text{ mg}$ 的某一含碳、氫、氧的化合物甲，經完全燃燒後，得 $26.4\\text{ mg}$ 的 $\\text{CO}_2$ 及 $14.4\\text{ mg}$ 的 $\\text{H}_2\\text{O}$。另取 $12.0\\text{ g}$ 的甲，在 $1.0\\text{ L}$ 的容器加熱，當完全氣化時，測得容器的溫度為 $127^\\circ\\text{C}$，壓力為 $6.56\\text{ atm}$。（原子量：H 1.0、C 12.0、O 16.0；$R = 0.0820\\text{ L}\\cdot\\text{atm}/(\\text{K}\\cdot\\text{mol})$）\n\n1. 寫出化合物甲的實驗式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "C3H8O"
+    ],
+    "blankLabels": [
+      "實驗式"
+    ],
+    "explanation": "【燃燒分析】\n• C：$26.4 \\times \\dfrac{12}{44} = 7.2\\text{ mg}$\n• H：$14.4 \\times \\dfrac{2}{18} = 1.6\\text{ mg}$\n• O：$12.0 - 7.2 - 1.6 = 3.2\\text{ mg}$\n\n莫耳比 C : H : O $= \\dfrac{7.2}{12} : \\dfrac{1.6}{1} : \\dfrac{3.2}{16} = 0.6 : 1.6 : 0.2 = 3 : 8 : 1$\n\n答：$\\text{C}_3\\text{H}_8\\text{O}$"
+  },
+  {
+    "id": "110-ast-chem-non-2-2",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】取 $12.0\\text{ mg}$ 的某一含碳、氫、氧的化合物甲，經完全燃燒後，得 $26.4\\text{ mg}$ 的 $\\text{CO}_2$ 及 $14.4\\text{ mg}$ 的 $\\text{H}_2\\text{O}$。另取 $12.0\\text{ g}$ 的甲，在 $1.0\\text{ L}$ 的容器加熱，當完全氣化時，測得容器的溫度為 $127^\\circ\\text{C}$，壓力為 $6.56\\text{ atm}$。（原子量：H 1.0、C 12.0、O 16.0；$R = 0.0820\\text{ L}\\cdot\\text{atm}/(\\text{K}\\cdot\\text{mol})$）\n\n2. 寫出化合物甲的分子量。（2 分）",
+    "points": 2,
+    "blanks": [
+      "60"
+    ],
+    "blankLabels": [
+      "分子量"
+    ],
+    "explanation": "【理想氣體方程式求分子量】\n$$PV = \\frac{w}{M}RT \\implies 6.56 \\times 1.0 = \\frac{12.0}{M} \\times 0.0820 \\times 400$$\n$$M = \\frac{12.0 \\times 0.0820 \\times 400}{6.56} = 60$$\n\n答：60"
+  },
+  {
+    "id": "110-ast-chem-non-2-3",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】取 $12.0\\text{ mg}$ 的某一含碳、氫、氧的化合物甲，經完全燃燒後，得 $26.4\\text{ mg}$ 的 $\\text{CO}_2$ 及 $14.4\\text{ mg}$ 的 $\\text{H}_2\\text{O}$。另取 $12.0\\text{ g}$ 的甲，在 $1.0\\text{ L}$ 的容器加熱，當完全氣化時，測得容器的溫度為 $127^\\circ\\text{C}$，壓力為 $6.56\\text{ atm}$。（原子量：H 1.0、C 12.0、O 16.0；$R = 0.0820\\text{ L}\\cdot\\text{atm}/(\\text{K}\\cdot\\text{mol})$）\n\n3. 寫出化合物甲的分子式，並畫出化合物甲之所有可能的結構異構物。（4 分）",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "分子式 $\\text{C}_3\\text{H}_8\\text{O}$；異構物：1-丙醇 $\\text{CH}_3\\text{CH}_2\\text{CH}_2\\text{OH}$、2-丙醇 $\\text{CH}_3\\text{CH(OH)CH}_3$、甲乙醚 $\\text{CH}_3\\text{OCH}_2\\text{CH}_3$"
+    ],
+    "blankLabels": [
+      "分子式與異構物"
+    ],
+    "explanation": "【分子式與異構物】\n實驗式 $\\text{C}_3\\text{H}_8\\text{O}$ 的式量為 60，等於分子量，所以分子式就是 $\\text{C}_3\\text{H}_8\\text{O}$。\n不飽和度為 0，可能的結構：\n• 醇：1-丙醇 $\\text{CH}_3\\text{CH}_2\\text{CH}_2\\text{OH}$、2-丙醇 $(\\text{CH}_3)_2\\text{CHOH}$\n• 醚：甲乙醚 $\\text{CH}_3\\text{OCH}_2\\text{CH}_3$\n\n答：$\\text{C}_3\\text{H}_8\\text{O}$，共 3 種結構異構物。"
+  },
+  {
+    "id": "110-ast-chem-non-3-1",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】丹麥今年啟動了氨氣工業生產的綠色程序，使用固態氧離子電解槽（SOEC），過程中不需要高成本的空氣分離，圖 9 為其裝置示意圖。將適當比例的空氣和水蒸氣通入陰極，兩者均進行電解，氧氣生成 $\\text{O}^{2-}$，水蒸氣產生 $\\text{H}_2$ 和 $\\text{O}^{2-}$。氧離子薄膜只允許氧離子（$\\text{O}^{2-}$）通過，並在陽極反應。已知 SOEC 電解水的效率可達 $80\\%$，在通入莫耳數比為 $1:3$ 的空氣和水蒸氣後，經電解生成甲和乙兩部分的氣體。甲含有未反應的水蒸氣，將甲通過除水裝置後，直接導入哈柏法製程，即可製造氨。\n\n1. 寫出甲部分的氣體中，除了水蒸氣外，所含兩種主要氣體的化學式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-non-3.png\" alt=\"圖9 固態氧離子電解槽\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "H2、N2"
+    ],
+    "blankLabels": [
+      "兩種氣體"
+    ],
+    "acceptedBlanks": [
+      [
+        "N2、H2",
+        "H2,N2",
+        "N2,H2",
+        "H2和N2",
+        "N2和H2",
+        "H2N2",
+        "N2H2",
+        "H2與N2",
+        "N2與H2"
+      ]
+    ],
+    "explanation": "【陰極的產物】\n陰極通入空氣與水蒸氣：空氣中的 $\\text{O}_2$ 被還原成 $\\text{O}^{2-}$ 穿過薄膜，留下 $\\text{N}_2$；水蒸氣被還原成 $\\text{H}_2$ 與 $\\text{O}^{2-}$。所以甲含 $\\text{H}_2$、$\\text{N}_2$ 與未反應的水蒸氣。\n\n答：$\\text{H}_2$、$\\text{N}_2$"
+  },
+  {
+    "id": "110-ast-chem-non-3-2",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】丹麥今年啟動了氨氣工業生產的綠色程序，使用固態氧離子電解槽（SOEC），過程中不需要高成本的空氣分離，圖 9 為其裝置示意圖。將適當比例的空氣和水蒸氣通入陰極，兩者均進行電解，氧氣生成 $\\text{O}^{2-}$，水蒸氣產生 $\\text{H}_2$ 和 $\\text{O}^{2-}$。氧離子薄膜只允許氧離子（$\\text{O}^{2-}$）通過，並在陽極反應。已知 SOEC 電解水的效率可達 $80\\%$，在通入莫耳數比為 $1:3$ 的空氣和水蒸氣後，經電解生成甲和乙兩部分的氣體。甲含有未反應的水蒸氣，將甲通過除水裝置後，直接導入哈柏法製程，即可製造氨。\n\n2. 寫出兩種在實驗室中用於吸收水蒸氣的常用化合物的化學式。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "例如 $\\text{CaCl}_2$（無水氯化鈣）、$\\text{Mg(ClO}_4)_2$（過氯酸鎂）、無水 $\\text{CuSO}_4$、NaOH 等，任寫兩種。"
+    ],
+    "blankLabels": [
+      "兩種乾燥劑"
+    ],
+    "explanation": "【常用乾燥劑】\n實驗室常用的吸水劑有無水氯化鈣 $\\text{CaCl}_2$、過氯酸鎂 $\\text{Mg(ClO}_4)_2$、無水硫酸銅 $\\text{CuSO}_4$、氫氧化鈉 NaOH、五氧化二磷 $\\text{P}_4\\text{O}_{10}$ 等。（本題只要是常用吸水化合物的化學式均可。）"
+  },
+  {
+    "id": "110-ast-chem-non-3-3",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】丹麥今年啟動了氨氣工業生產的綠色程序，使用固態氧離子電解槽（SOEC），過程中不需要高成本的空氣分離，圖 9 為其裝置示意圖。將適當比例的空氣和水蒸氣通入陰極，兩者均進行電解，氧氣生成 $\\text{O}^{2-}$，水蒸氣產生 $\\text{H}_2$ 和 $\\text{O}^{2-}$。氧離子薄膜只允許氧離子（$\\text{O}^{2-}$）通過，並在陽極反應。已知 SOEC 電解水的效率可達 $80\\%$，在通入莫耳數比為 $1:3$ 的空氣和水蒸氣後，經電解生成甲和乙兩部分的氣體。甲含有未反應的水蒸氣，將甲通過除水裝置後，直接導入哈柏法製程，即可製造氨。\n\n3. 寫出陽極的係數平衡電化學半反應式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-non-3.png\" alt=\"圖9 固態氧離子電解槽\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$2\\text{O}^{2-} \\to \\text{O}_2 + 4\\text{e}^-$"
+    ],
+    "blankLabels": [
+      "陽極半反應"
+    ],
+    "explanation": "【陽極氧化】\n穿過薄膜的氧離子在陽極失去電子成為氧氣（乙部分的氣體）：\n$$2\\text{O}^{2-} \\to \\text{O}_2 + 4\\text{e}^-$$"
+  },
+  {
+    "id": "110-ast-chem-non-3-4",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】丹麥今年啟動了氨氣工業生產的綠色程序，使用固態氧離子電解槽（SOEC），過程中不需要高成本的空氣分離，圖 9 為其裝置示意圖。將適當比例的空氣和水蒸氣通入陰極，兩者均進行電解，氧氣生成 $\\text{O}^{2-}$，水蒸氣產生 $\\text{H}_2$ 和 $\\text{O}^{2-}$。氧離子薄膜只允許氧離子（$\\text{O}^{2-}$）通過，並在陽極反應。已知 SOEC 電解水的效率可達 $80\\%$，在通入莫耳數比為 $1:3$ 的空氣和水蒸氣後，經電解生成甲和乙兩部分的氣體。甲含有未反應的水蒸氣，將甲通過除水裝置後，直接導入哈柏法製程，即可製造氨。\n\n4. 已知 SOEC 電解水的效率可達 80%。由化學計量的觀點，說明在此效率下，需要通入莫耳數比為 1:3 的空氣和水蒸氣的原因。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-non-3.png\" alt=\"圖9 固態氧離子電解槽\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "空氣中 $\\text{N}_2$ 約占 $80\\%$，水蒸氣轉成 $\\text{H}_2$ 的效率為 $80\\%$，所以 $n_{\\text{N}_2} : n_{\\text{H}_2} = 1\\times80\\% : 3\\times80\\% = 1 : 3$，恰好符合 $\\text{N}_2 + 3\\text{H}_2 \\to 2\\text{NH}_3$ 的係數比，兩者可完全反應。"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "【哈柏法的計量比】\n• 1 份空氣中含 $\\text{N}_2$ 約 $0.8$ 份（$\\text{O}_2$ 被電解移走）。\n• 3 份水蒸氣以 $80\\%$ 效率轉成 $\\text{H}_2$，得 $2.4$ 份。\n• $\\text{N}_2 : \\text{H}_2 = 0.8 : 2.4 = 1 : 3$，正好是 $\\text{N}_2 + 3\\text{H}_2 \\to 2\\text{NH}_3$ 的計量比，原料可完全利用。"
   }
 ]
