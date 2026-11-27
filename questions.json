@@ -52878,5 +52878,377 @@
       "S 的坐標"
     ],
     "explanation": "• 直線 $OQ$ 是 $x$ 軸，$L$ 是過 $P(1, 1)$ 的水平線 $y = 1$。\n• 由第 19 題 $R = \\left(\\dfrac{\\sqrt2}{2}, -\\dfrac{\\sqrt6}{2}\\right)$，直線 $OR$：$y = -\\sqrt3x$。與 $y = 1$ 交於 $S\\left(-\\dfrac{\\sqrt3}{3}, 1\\right)$。\n• $\\overrightarrow{SO} = \\left(\\dfrac{\\sqrt3}{3}, -1\\right)$，$\\overrightarrow{SP}$ 沿 $+x$ 方向：$\\cos\\angle OSP = \\dfrac{\\sqrt3/3}{2\\sqrt3/3} = \\dfrac12$，$\\angle OSP = 60^\\circ$。\n（也可由 $L \\parallel x$ 軸，同位角等於 $\\overrightarrow{OR}$ 與 $x$ 軸的夾角 $60^\\circ$。）"
+  },
+  {
+    "id": "114-gsat-mathB-01",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "points": 5,
+    "question": "1. 設數線上有一點 P 滿足 P 到 1 的距離加上 P 到 4 的距離等於 4。試問這樣的 P 有幾個？",
+    "options": [
+      "0 個",
+      "1 個",
+      "2 個",
+      "3 個",
+      "無限多個"
+    ],
+    "answerIndex": 2,
+    "explanation": "$|x - 1| + |x - 4| = 4$。\n• $1 \\le x \\le 4$ 時和恆為 3，不合。\n• $x < 1$：$5 - 2x = 4$，$x = \\dfrac12$。\n• $x > 4$：$2x - 5 = 4$，$x = \\dfrac92$。\n共 2 個。\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-mathB-02",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "points": 5,
+    "question": "2. 設 $A$ 為 $3\\times2$ 階矩陣，且 $A\\begin{bmatrix} 1 & 0 \\\\ -1 & 1 \\end{bmatrix} = \\begin{bmatrix} 4 & -6 \\\\ -2 & 1 \\\\ 3 & 5 \\end{bmatrix}$。若 $A\\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix} = \\begin{bmatrix} a \\\\ b \\\\ c \\end{bmatrix}$，試問 $a + b + c$ 之值為何？",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "5",
+      "8"
+    ],
+    "answerIndex": 3,
+    "explanation": "$\\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ -1 \\end{bmatrix} + \\begin{bmatrix} 0 \\\\ 1 \\end{bmatrix}$，所以 $A\\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix}$ 等於右邊矩陣兩行相加：\n$$\\begin{bmatrix} 4 - 6 \\\\ -2 + 1 \\\\ 3 + 5 \\end{bmatrix} = \\begin{bmatrix} -2 \\\\ -1 \\\\ 8 \\end{bmatrix}$$\n$a + b + c = 5$。\n\n故選 (D)"
+  },
+  {
+    "id": "114-gsat-mathB-03",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "points": 5,
+    "question": "3. 已知實數 $a, b$ 滿足 $\\dfrac12 < a < 1$ 及 $1 < b < 2$。試問下列哪個選項的值最小？",
+    "options": [
+      "0",
+      "$\\log a$",
+      "$\\log(a^2)$",
+      "$\\log b$",
+      "$\\dfrac{1}{\\log b}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "• $\\log a$ 介於 $\\log\\dfrac12 \\approx -0.301$ 與 0 之間，為負。\n• $\\log(a^2) = 2\\log a$，比 $\\log a$ 更小（負得更多）。\n• $\\log b > 0$、$\\dfrac{1}{\\log b} > 0$。\n最小的是 $\\log(a^2)$。\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-mathB-04",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "points": 5,
+    "question": "4. 某商店推出抽獎活動，提供香蕉、鳳梨、蘋果、橘子四種不同款式的水果公仔當獎品。每次抽獎可得 1 個公仔，且每種款式被抽中的機率皆相等。某甲決定抽獎四次，試問他恰抽到三種不同款式公仔的機率為何？",
+    "options": [
+      "$\\dfrac{5}{16}$",
+      "$\\dfrac38$",
+      "$\\dfrac12$",
+      "$\\dfrac{9}{16}$",
+      "$\\dfrac58$"
+    ],
+    "answerIndex": 3,
+    "explanation": "• 選出 3 種款式：$\\dbinom43 = 4$；其中 1 種重複：3 種選法；4 次的排列 $\\dfrac{4!}{2!} = 12$。\n• 有利情形 $4 \\times 3 \\times 12 = 144$，總情形 $4^4 = 256$。\n$$P = \\frac{144}{256} = \\frac{9}{16}$$\n\n故選 (D)"
+  },
+  {
+    "id": "114-gsat-mathB-05",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "points": 5,
+    "question": "5. 空間中有兩相交直線 $L, M$，其夾角為 $24^\\circ$。將 $M$ 繞著 $L$ 轉一圈，可得一個直圓錐面。今有平面 $E$ 與直線 $L$ 平行，試問平面 $E$ 與此直圓錐面的截痕是下列哪一個選項？",
+    "options": [
+      "雙曲線",
+      "拋物線",
+      "橢圓（長短軸不相等）",
+      "圓",
+      "兩相交直線"
+    ],
+    "answerIndex": 0,
+    "explanation": "$L$ 是圓錐的軸。平面與軸平行，與軸的夾角為 $0^\\circ$，小於母線與軸的夾角 $24^\\circ$，會同時切到上下兩個錐面，截痕為雙曲線。平面平行於 $L$ 就不可能通過頂點（否則會包含 $L$），所以不會是兩相交直線。\n\n故選 (A)"
+  },
+  {
+    "id": "114-gsat-mathB-06",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "points": 5,
+    "question": "6. 設 $a, b, c$ 為實數，且多項式 $f(x) = a(x-1)(x-3) + b(x-1)(x-4) + c(x-3)(x-4)$ 經化簡後，得 $f(x) = x^2$。有關 $a, b, c$ 的大小關係，試選出正確的選項。",
+    "options": [
+      "$a > b > c$",
+      "$a > c > b$",
+      "$b > c > a$",
+      "$c > a > b$",
+      "$c > b > a$"
+    ],
+    "answerIndex": 1,
+    "explanation": "代入使兩項為 0 的值：\n• $x = 1$：$c(-2)(-3) = 6c = 1$，$c = \\dfrac16$。\n• $x = 3$：$b(2)(-1) = -2b = 9$，$b = -\\dfrac92$。\n• $x = 4$：$a(3)(1) = 3a = 16$，$a = \\dfrac{16}{3}$。\n$a > c > b$。\n\n故選 (B)"
+  },
+  {
+    "id": "114-gsat-mathB-07",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "points": 5,
+    "question": "7. 某人使用單點透視法，以地平線上一點為消失點，將地平面上的六根鉛直柱子 A, B, C, D, E, F 畫在坐標平面上，各柱柱頂與柱底的坐標如下表，並且讓點 V(4,9) 代表消失點。因圖形中 A、F 兩柱的柱底連線與柱頂連線均平行於地平線，故 A、F 兩柱的實際高度相等。根據上述，試選出實際高度最大的柱子。\n柱頂：A(0,8)、B(2,3)、C(4,6)、D(6,8)、E(8,5)、F(10,8)；柱底：A(0,6)、B(2,0)、C(4,3)、D(6,5)、E(8,1)、F(10,6)",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-gsat-mathB-07.png\" alt=\"六根柱子與地平線上的消失點 V\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answerIndex": 3,
+    "explanation": "單點透視中，柱底離地平線（$y = 9$）越遠表示越近，畫得越大。柱子的實際高度與「畫出的高度 ÷ 柱底到地平線的距離」成正比（相同遠近時，畫出的高度與實際高度成正比；距離加倍時，畫出的高度與柱底到地平線的距離同比例放大）：\n• A：$\\dfrac{2}{3} \\approx 0.67$；F：$\\dfrac23$（與 A 相同，符合題意）\n• B：$\\dfrac{3}{9} \\approx 0.33$\n• C：$\\dfrac{3}{6} = 0.5$\n• D：$\\dfrac{3}{4} = 0.75$\n• E：$\\dfrac{4}{8} = 0.5$\nD 最大。\n\n故選 (D)"
+  },
+  {
+    "id": "114-gsat-mathB-08",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 設 $\\Gamma$ 為坐標平面上函數 $y = x^3 - x$ 的圖形。試選出正確的選項。",
+    "options": [
+      "$\\Gamma$ 的對稱中心為原點",
+      "$\\Gamma$ 在 $x = 0$ 附近會近似於直線 $y = x$",
+      "$\\Gamma$ 經適當平移後可與函數 $y = x^3 + x + 3$ 的圖形重合",
+      "$\\Gamma$ 與函數 $y = x^3 + x$ 的圖形對稱於 $x$ 軸",
+      "$\\Gamma$ 與函數 $y = -x^3 + x$ 的圖形對稱於 $y$ 軸"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "• (A) 正確：$x^3 - x$ 是奇函數。\n• (B) 錯誤：$x$ 很小時 $x^3$ 可忽略，近似 $y = -x$。\n• (C) 錯誤：平移 $(x - h)^3 - (x - h) + k$ 要讓 $x^2$ 項為 0 必須 $h = 0$，此時 $x$ 的係數仍是 $-1$，不會變成 $+1$。\n• (D) 錯誤：對稱於 $x$ 軸的圖形為 $y = -x^3 + x$。\n• (E) 正確：以 $-x$ 代入：$(-x)^3 - (-x) = -x^3 + x$。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "114-gsat-mathB-09",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 坐標平面上設 $O$ 為原點，且 $P$ 點坐標為 $(2, 2)$。已知向量 $\\overrightarrow{OP} = \\alpha\\overrightarrow{OA} + \\beta\\overrightarrow{OB}$，其中實數 $\\alpha, \\beta$ 滿足 $0 \\le \\alpha \\le 1$，$0 \\le \\beta \\le 1$。下列選項中，試選出可能的 $A$、$B$ 點坐標。",
+    "options": [
+      "$A(2, -3)$、$B(-4, 3)$",
+      "$A(3, 2)$、$B(3, 4)$",
+      "$A(3, 4)$、$B(4, -1)$",
+      "$A(1, 2)$、$B(2, 1)$",
+      "$A(1, -1)$、$B(1, 1)$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "逐一解 $\\alpha, \\beta$：\n• (A) $2\\alpha - 4\\beta = 2$、$-3\\alpha + 3\\beta = 2$ → $\\beta = -\\dfrac53$，不合。\n• (B) $3\\alpha + 3\\beta = 2$、$2\\alpha + 4\\beta = 2$ → $\\alpha = \\beta = \\dfrac13$ ✓\n• (C) $3\\alpha + 4\\beta = 2$、$4\\alpha - \\beta = 2$ → $\\alpha = \\dfrac{10}{19}$、$\\beta = \\dfrac{2}{19}$ ✓\n• (D) $\\alpha + 2\\beta = 2$、$2\\alpha + \\beta = 2$ → $\\alpha = \\beta = \\dfrac23$ ✓\n• (E) $\\alpha + \\beta = 2$、$-\\alpha + \\beta = 2$ → $\\beta = 2$，不合。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "114-gsat-mathB-10",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 某羽球選手與甲、乙、丙、丁四位選手各比賽一場。賽後蒐集這四場比賽的數據，統計該選手的對手在比賽中殺球的總次數，以及每次殺球用時的平均及標準差，結果如下（殺球次數／平均秒數／標準差秒數）：甲 25／1.2／0.5；乙 14／1.5／0.3；丙 20／1.7／0.2；丁 30／1.2／0.4。根據上述，對於甲、乙、丙、丁四位選手的表現，試選出正確的選項。",
+    "options": [
+      "丙在該場中每次殺球用時平均是四位中最多的",
+      "丁在該場中花在殺球的總用時是四位中最多的",
+      "甲在該場中每次殺球的用時都與丁相同",
+      "甲在該場中每次殺球用時的全距，大於丁在該場中每次殺球用時的全距",
+      "乙在該場中各次殺球的用時不可能都在 1.4 到 1.6 秒之間"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "• (A) 正確：1.7 秒最大。\n• (B) 正確：總用時 = 次數 × 平均：甲 30、乙 21、丙 34、丁 36 秒，丁最多。\n• (C) 錯誤：平均相同，但標準差不同，每次用時不可能都相同。\n• (D) 錯誤：標準差較大不保證全距較大。\n• (E) 正確：若都在 1.4～1.6 之間，每筆與平均 1.5 的差都不超過 0.1，標準差 $\\le 0.1$，與 0.3 矛盾。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "114-gsat-mathB-11",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 設地球是一個球體。地球表面上五個點 A、B、C、D、E 的經緯度為：A 在經度 0 度、北緯 60 度；B 在經度 180 度、北緯 60 度；C 在經度 0 度、北緯 30 度；D 在經度 180 度、北緯 30 度；E 在經度 0 度、緯度 0 度。大圓為通過球心的平面與球面相交所形成的圓，且球面上相異兩點在大圓上所形成較小的弧為最短路徑。根據上述，試選出正確的選項。",
+    "options": [
+      "「北極點到 A 的最短路徑長」等於「北極點到 B 的最短路徑長」",
+      "「A 到 B 的最短路徑長」等於「C 到 D 的最短路徑長」",
+      "A 到 E 的最短路徑必經過 C",
+      "C 到 D 的最短路徑必經過北極點",
+      "「E 到北極點的最短路徑長」與「C 到 D 的最短路徑長」的比為 2：3"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "經度 0 度與 180 度合起來是一個通過南北極的大圓，最短路徑都沿這個大圓，長度與圓心角成正比。\n• (A) 正確：北極到 A、B 都是 $90^\\circ - 60^\\circ = 30^\\circ$。\n• (B) 錯誤：A 到 B 經過北極 $30^\\circ + 30^\\circ = 60^\\circ$；C 到 D $60^\\circ + 60^\\circ = 120^\\circ$。\n• (C) 正確：A、C、E 都在經度 0 度的經線上，A 到 E 沿經線南下會經過 C。\n• (D) 正確：C、D 間經過北極的弧為 $120^\\circ < 180^\\circ$，是較短的弧。\n• (E) 錯誤：$90^\\circ : 120^\\circ = 3 : 4$。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "114-gsat-mathB-12",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 已知某等差數列的首項是 1，末項是 81，且 9 也在此數列中。設此數列的項數為 $n$，其中 $n \\le 100$。試選出正確的選項。",
+    "options": [
+      "$n$ 為奇數",
+      "41 必在此等差數列",
+      "滿足條件的等差數列，其公差都是整數",
+      "滿足條件的等差數列共有 10 個",
+      "若 $n$ 為 7 的倍數，則 $n = 21$"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "設公差 $d$，9 為第 $k + 1$ 項：$kd = 8$，$d = \\dfrac8k$（$k$ 為正整數）。末項 $81 = 1 + (n - 1)d \\implies n - 1 = \\dfrac{80}{d} = 10k$，$n = 10k + 1 \\le 100$，$k = 1, 2, \\ldots, 9$。\n• (A) 正確：$n = 10k + 1$ 恆為奇數。\n• (B) 正確：$41 = 1 + 40$，$\\dfrac{40}{d} = 5k$ 為整數，41 必是某一項。\n• (C) 錯誤：例如 $k = 3$，$d = \\dfrac83$。\n• (D) 錯誤：$k = 1 \\sim 9$，共 9 個。\n• (E) 錯誤：$n = 21$（$k = 2$）與 $n = 91$（$k = 9$）都是 7 的倍數。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "114-gsat-mathB-13",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "13. 某景點旁邊有兩個停車場，假設某日任一停車場沒有空位的機率皆為 0.7，且這兩個停車場是否有空位互不影響。若一輛車子在當天來到這兩個停車場外面，則至少有一個停車場內有空位的機率為 0.⑬-1 ⑬-2。",
+    "blanks": [
+      "5",
+      "1"
+    ],
+    "blankLabels": [
+      "13-1",
+      "13-2"
+    ],
+    "explanation": "$1 - 0.7\\times0.7 = 1 - 0.49 = 0.51$。"
+  },
+  {
+    "id": "114-gsat-mathB-14",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "14. 坐標平面上，給定三點 $A(0, 2)$、$B(-1, 0)$、$C(4, 0)$。若直線 $y = mx$ 將三角形 $ABC$ 分成面積相等的兩部分，則 $m = \\dfrac{⑭\\text{-}1}{⑭\\text{-}2}$。（化為最簡分數）",
+    "blanks": [
+      "5",
+      "6"
+    ],
+    "blankLabels": [
+      "14-1",
+      "14-2"
+    ],
+    "explanation": "$\\triangle ABC$ 面積 $= \\dfrac12 \\cdot 5 \\cdot 2 = 5$，每部分 2.5。原點 $O$ 在 $\\overline{BC}$ 上。\n• 若 $m < 0$，直線交 $\\overline{AB}$，$\\triangle OBP$ 面積 $\\le \\dfrac12\\cdot1\\cdot2 = 1$，不可能。\n• $m > 0$，直線交 $\\overline{AC}$（$\\dfrac x4 + \\dfrac y2 = 1$）於 $x = \\dfrac{4}{1 + 2m}$，$\\triangle OCP$ 面積 $= \\dfrac12\\cdot4\\cdot mx = \\dfrac{8m}{1 + 2m} = \\dfrac52$，得 $m = \\dfrac56$。"
+  },
+  {
+    "id": "114-gsat-mathB-15",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "15. 某公司聘請 8 名新進員工，其中含 2 名翻譯、3 名工程師與 3 名助理。將此 8 人分派給研發、測試兩個部門，其中每個部門各分派 4 人，且各需含 1 名翻譯與至少 1 名工程師。依此共有 ⑮-1 ⑮-2 種分配方法。",
+    "blanks": [
+      "3",
+      "6"
+    ],
+    "blankLabels": [
+      "15-1",
+      "15-2"
+    ],
+    "explanation": "只要決定研發部門的 4 人：\n• 翻譯 1 名：2 種。\n• 工程師 1 名、助理 2 名：$3 \\times \\dbinom32 = 9$；工程師 2 名、助理 1 名：$\\dbinom32 \\times 3 = 9$。（測試部門自動各含 1 名翻譯與至少 1 名工程師。）\n共 $2 \\times 18 = 36$ 種。"
+  },
+  {
+    "id": "114-gsat-mathB-16",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "16. 教室的某牆角是由牆面和地面兩兩互相垂直所構成。設牆角為點 $O$，現有一個三角形擋板 $ABC$，其中頂點 $A$、$B$、$C$ 位在牆面間或牆面與地面間的交界線上，並與牆角 $O$ 的距離分別為 20、20、10 公分；$\\overline{AB}$、$\\overline{BC}$、$\\overline{CA}$ 三邊與牆面或地面貼合，如圖所示。則 $\\tan\\angle CAB = \\dfrac{\\sqrt{⑯\\text{-}1}}{⑯\\text{-}2}$。（化為最簡根式）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-gsat-mathB-16.png\" alt=\"牆角 O 與三角形擋板 ABC\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "6",
+      "2"
+    ],
+    "blankLabels": [
+      "16-1",
+      "16-2"
+    ],
+    "explanation": "$OA$、$OB$、$OC$ 兩兩垂直：\n$\\overline{AB} = 20\\sqrt2$，$\\overline{AC} = \\overline{BC} = \\sqrt{400 + 100} = 10\\sqrt5$。\n等腰三角形，$C$ 到 $\\overline{AB}$ 中點的高 $= \\sqrt{500 - 200} = 10\\sqrt3$，\n$$\\tan\\angle CAB = \\frac{10\\sqrt3}{10\\sqrt2} = \\frac{\\sqrt6}{2}$$"
+  },
+  {
+    "id": "114-gsat-mathB-17",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "17. 某液晶面板由紅、綠、藍三種顏色的 LED 燈泡組成。已知各色燈泡亮燈的循環規律如下：紅色「亮 3 秒，再暗 1 秒，再亮 2 秒」；綠色「亮 6 秒，再暗 2 秒」；藍色「亮 $k$ 秒，再暗 $(15 - k)$ 秒」，其中 $k$ 為正整數。若在某時刻三種顏色的燈泡同時各自開始作上述循環，面板上都一直有燈亮著，並設各燈泡亮、暗切換的時間極短可被忽略，則 $k$ 的最小值為 ⑰-1 ⑰-2。",
+    "blanks": [
+      "1",
+      "3"
+    ],
+    "blankLabels": [
+      "17-1",
+      "17-2"
+    ],
+    "explanation": "• 紅燈週期 6：暗在 $[3, 4] + 6j$；綠燈週期 8：暗在 $[6, 8] + 8i$。\n• 在 24 秒的共同週期內，兩者同時暗的時段只有 $[15, 16]$（$[21, 22]$ 與 $[22, 24]$ 只在 22 秒一點接觸，可忽略）。所以紅綠同時暗在 $[15 + 24m, 16 + 24m]$。\n• 藍燈週期 15，這些時段對 15 取餘數：$m = 0, 1, 2, 3, 4$ 分別為 $[0, 1]$、$[9, 10]$、$[3, 4]$、$[12, 13]$、$[6, 7]$，之後重複。\n• 藍燈亮在 $[0, k]$，要涵蓋上述所有時段，需 $k \\ge 13$。\n\n答：13"
+  },
+  {
+    "id": "114-gsat-mathB-18",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "points": 3,
+    "question": "【第 18-20 題為題組】地球受到太陽照射過來的紫外線強度以 UVI 數值表示，一單位 UVI 的照射強度相當於每平方公尺 100 焦耳的能量。\n18. 已知 UVI 數值與所在高度呈指數關係：高度每上升 300 公尺，其 UVI 數值增加上升前的 4%。在地平面上接收到太陽發出每平方公尺 400 焦耳的紫外線，則到了離地平面 4500 公尺高的山上，接收到紫外線的 UVI 數值為下列哪一個選項？（單選題，3 分）",
+    "options": [
+      "$4(1 + 0.04\\times15)$",
+      "$4(1 + 0.04^{15})$",
+      "$4(1 + 0.04)^{15}$",
+      "$4\\times100(1 + 0.04)^{15}$",
+      "$4\\times100(1 + 0.04^{45})$"
+    ],
+    "answerIndex": 2,
+    "explanation": "地面 UVI $= \\dfrac{400}{100} = 4$。上升 $\\dfrac{4500}{300} = 15$ 次，每次乘以 1.04：$4(1.04)^{15}$。\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-mathB-19",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 18-20 題為題組】地球受到太陽照射過來的紫外線強度以 UVI 數值表示，一單位 UVI 的照射強度相當於每平方公尺 100 焦耳的能量。\n19. 已知某日某地的日照時數（日出到日落）恰為 12 小時，且該地當天日出後 $x$ 小時（$0 \\le x \\le 12$）的 UVI 數值，可用函數 $f(x) = a\\sin(bx)$ 來表示，其中 $a, b > 0$。假設日照時 UVI 數值為正，非日照時 UVI 數值為 0（即 $f(0) = f(12) = 0$），且當天日出後 2 小時的 UVI 數值為 4。試求 $a$、$b$ 之值。（非選擇題，6 分）",
+    "selfGrade": true,
+    "blanks": [
+      "a = 8",
+      "$b = \\dfrac{\\pi}{12}$"
+    ],
+    "blankLabels": [
+      "a",
+      "b"
+    ],
+    "explanation": "• $f(x) > 0$（$0 < x < 12$）且 $f(12) = 0$：$12b = \\pi$，$b = \\dfrac{\\pi}{12}$。\n• $f(2) = a\\sin\\dfrac{\\pi}{6} = \\dfrac a2 = 4$，$a = 8$。"
+  },
+  {
+    "id": "114-gsat-mathB-20",
+    "examType": "學測",
+    "year": 114,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 18-20 題為題組】地球受到太陽照射過來的紫外線強度以 UVI 數值表示，一單位 UVI 的照射強度相當於每平方公尺 100 焦耳的能量。\n20. 承 19 題，今某人要在該日 UVI 數值介於 $4\\sqrt2$ 和 $4\\sqrt3$ 之間（含）時做日光浴。將他可以做日光浴的時間設為日出後 $t$ 小時，試求 $t$ 的最大可能範圍。（非選擇題，6 分）",
+    "selfGrade": true,
+    "blanks": [
+      "$3 \\le t \\le 4$ 及 $8 \\le t \\le 9$"
+    ],
+    "blankLabels": [
+      "t 的範圍"
+    ],
+    "explanation": "$4\\sqrt2 \\le 8\\sin\\dfrac{\\pi t}{12} \\le 4\\sqrt3 \\implies \\dfrac{\\sqrt2}{2} \\le \\sin\\dfrac{\\pi t}{12} \\le \\dfrac{\\sqrt3}{2}$。\n$0 \\le \\dfrac{\\pi t}{12} \\le \\pi$，所以 $\\dfrac{\\pi}{4} \\le \\dfrac{\\pi t}{12} \\le \\dfrac{\\pi}{3}$ 或 $\\dfrac{2\\pi}{3} \\le \\dfrac{\\pi t}{12} \\le \\dfrac{3\\pi}{4}$，\n即 $3 \\le t \\le 4$ 或 $8 \\le t \\le 9$。"
   }
 ]
