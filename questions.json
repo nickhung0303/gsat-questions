@@ -2494,5 +2494,533 @@
     ],
     "explanationSvg": "<svg viewBox=\"0 0 320 220\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><rect x=\"40\" y=\"15\" width=\"14\" height=\"190\" fill=\"#1b4332\" stroke=\"#ffffff\" stroke-width=\"2\"/><text x=\"42\" y=\"36\" fill=\"#ffffff\" font-size=\"14\">+</text><text x=\"42\" y=\"61\" fill=\"#ffffff\" font-size=\"14\">+</text><text x=\"42\" y=\"86\" fill=\"#ffffff\" font-size=\"14\">+</text><text x=\"42\" y=\"111\" fill=\"#ffffff\" font-size=\"14\">+</text><text x=\"42\" y=\"136\" fill=\"#ffffff\" font-size=\"14\">+</text><text x=\"42\" y=\"161\" fill=\"#ffffff\" font-size=\"14\">+</text><text x=\"42\" y=\"186\" fill=\"#ffffff\" font-size=\"14\">+</text><circle cx=\"250\" cy=\"110\" r=\"11\" fill=\"#1b4332\" stroke=\"#ffffff\" stroke-width=\"2\"/><text x=\"245\" y=\"115\" fill=\"#ffffff\" font-size=\"16\">−</text><g fill=\"none\" stroke=\"#ffeb3b\" stroke-width=\"1.8\"><path d=\"M 54 110 L 238 110\"/><path d=\"M 54 80 Q 170 80 240 104\"/><path d=\"M 54 140 Q 170 140 240 116\"/><path d=\"M 54 50 Q 180 45 243 101\"/><path d=\"M 54 170 Q 180 175 243 119\"/></g><g fill=\"#ffeb3b\"><path d=\"M 140 106 L 150 110 L 140 114 z\"/><path d=\"M 140 77 L 150 81 L 140 86 z\"/><path d=\"M 140 135 L 150 139 L 140 144 z\"/></g><text x=\"70\" y=\"214\" fill=\"#ffeb3b\" font-size=\"12\">電力線垂直離開長條電極，向圓柱電極匯聚</text></svg>",
     "explanation": "【長條電極與點狀電極之間的電場】\n• 導體表面是等電位面，電力線必定垂直於導體表面：從長條形電極垂直出發、垂直進入圓柱電極。\n• 長條電極附近的電場類似平行板，電力線近似平行；接近圓柱時逐漸向圓柱匯聚，像點電荷附近的放射狀分布。\n• 中央電力線沿兩電極的連線，整體上下對稱。\n\n答：見下方參考圖。"
+  },
+  {
+    "id": "108-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "原子核由質子與中子組成，試問原子核的直徑大小最可能落在下列尺標圖的哪個區間？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-01.png\" alt=\"尺標圖：10⁻¹⁷ m 到 10⁻⁷ m 分為 (A)～(E) 五個區間\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$10^{-17}\\sim10^{-15}\\text{ m}$",
+      "$10^{-15}\\sim10^{-13}\\text{ m}$",
+      "$10^{-13}\\sim10^{-11}\\text{ m}$",
+      "$10^{-11}\\sim10^{-9}\\text{ m}$",
+      "$10^{-9}\\sim10^{-7}\\text{ m}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【原子與原子核的尺度】\n• 原子的直徑約 $10^{-10}\\text{ m}$。\n• 原子核比原子小約 $10^4\\sim10^5$ 倍，直徑約 $10^{-15}\\sim10^{-14}\\text{ m}$（質子約 $1.7\\times10^{-15}\\text{ m}$）。\n\n落在 $10^{-15}\\sim10^{-13}\\text{ m}$ 的區間。\n\n故選 (B)"
+  },
+  {
+    "id": "108-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "下列關於凹面鏡及凸面鏡的敘述，何者正確？",
+    "options": [
+      "裝設在大賣場天花板角落的面鏡為凸面鏡，可觀察到放大虛像",
+      "裝設在道路轉彎處的面鏡為凹面鏡，以便觀察到更大的範圍，使視野更佳",
+      "手電筒常利用凹面鏡作為反射面，燈泡置於焦點處，使反射後射出的光線較為發散",
+      "化妝鏡若要具有放大效果須使用凹面鏡，且使用時臉的位置須在凹面鏡的焦距外，以產生正立的放大虛像",
+      "汽車兩側的後照（視）鏡常用凸面鏡觀測後方車輛，其像距小於物距，形成縮小的虛像"
+    ],
+    "answerIndex": 4,
+    "explanation": "【面鏡成像】\n• (A) 錯誤：凸面鏡只能成正立「縮小」的虛像，優點是視野廣。\n• (B) 錯誤：道路轉彎處用的是凸面鏡。\n• (C) 錯誤：燈泡在凹面鏡焦點，反射光為平行光，不是發散。\n• (D) 錯誤：臉必須在焦距「內」，才會成正立放大的虛像；在焦距外會成倒立實像。\n• (E) 正確：凸面鏡成正立、縮小的虛像，像距小於物距，視野較廣。\n\n故選 (E)"
+  },
+  {
+    "id": "108-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "下列有關理想的黑體輻射及其強度（相當於每單位面積的表面所發出的輻射功率）的敘述，何者正確？",
+    "options": [
+      "黑體輻射的溫度升高時，其輻射強度對波長的分布曲線中之峰值所對應的波長變短",
+      "波耳是第一位提出電磁波能量量子化，來解釋黑體輻射強度對波長分布的科學家",
+      "黑體輻射強度對波長的分布曲線與黑體的溫度和材料有關，而與黑體的形狀和大小無關",
+      "現今的宇宙微波背景輻射對應到一個約 $77\\text{ K}$ 的黑體輻射",
+      "黑體輻射是指黑色物體發出的物質波"
+    ],
+    "answerIndex": 0,
+    "explanation": "【黑體輻射】\n• (A) 正確：維恩位移定律 $\\lambda_{max}T = $ 定值，溫度升高，峰值波長變短。\n• (B) 錯誤：提出能量量子化解釋黑體輻射的是普朗克。\n• (C) 錯誤：理想黑體的輻射光譜只與溫度有關，與材料無關。\n• (D) 錯誤：宇宙微波背景輻射對應約 $2.7\\text{ K}$。\n• (E) 錯誤：黑體輻射是電磁波，不是物質波；黑體也不是指黑色的物體。\n\n故選 (A)"
+  },
+  {
+    "id": "108-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "在圖 1 所示的「水波槽實驗」裝置中，下列關於其分項裝置的敘述，何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-04.png\" alt=\"圖1 水波槽實驗裝置\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "長方形木條起波器的目的是要產生圓形波",
+      "可變電阻是用來改變電流，以調整光照的強度",
+      "白紙上顯示的相鄰兩亮紋間距恰等於水波的波長",
+      "水波槽的四周需用海綿條圍住，以避免水波頻率改變",
+      "水波的波谷在強光通過時，會有類似凹透鏡的效果，在白紙上顯出暗紋"
+    ],
+    "answerIndex": 4,
+    "explanation": "【水波槽的構造】\n• (A) 錯誤：長條形起波器產生直線波；點狀起波器才產生圓形波。\n• (B) 錯誤：可變電阻控制起波器馬達的轉速，用來改變水波的頻率。\n• (C) 錯誤：光源在上方，影像被投影放大，白紙上的亮紋間距大於實際波長。\n• (D) 錯誤：海綿條是吸收水波，避免在槽壁反射干擾，與頻率無關。\n• (E) 正確：波峰像凸透鏡使光會聚形成亮紋，波谷像凹透鏡使光發散形成暗紋。\n\n故選 (E)"
+  },
+  {
+    "id": "108-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "聲波在空氣柱內重疊時，可以形成駐波。考慮聲波在一端開口、一端閉口的空氣柱內所形成的駐波，並將聲波視為傳遞空氣分子位移變動的縱波時，下列關於駐波特性的敘述，何者正確？",
+    "options": [
+      "開口處為波節",
+      "在閉口處發生建設性疊加",
+      "相鄰兩波節的間距為一個波長",
+      "相鄰波節與波腹的間距為 1/4 波長",
+      "該駐波是由沿相同方向前進的兩波互相重疊而成"
+    ],
+    "answerIndex": 3,
+    "explanation": "【空氣柱的位移駐波】\n• (A) 錯誤：開口處空氣可自由振動，是位移的波腹。\n• (B) 錯誤：閉口處空氣不能移動，是位移的波節（破壞性疊加）。\n• (C) 錯誤：相鄰兩波節相距半個波長。\n• (D) 正確：相鄰波節與波腹相距 $\\dfrac{\\lambda}{4}$。\n• (E) 錯誤：駐波是由兩列行進方向「相反」的相同波疊加而成。\n\n故選 (D)"
+  },
+  {
+    "id": "108-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "一細繩上出現沿水平方向行進的週期性橫波，以致繩上各點均作簡諧振動，在某時刻其中一段的波形如圖 2 所示，$x$ 與 $y$ 分別代表繩上各點（簡稱質點）的水平位置坐標與垂直位置坐標，已知此時質點 P 的速度方向為垂直向下，高度低於其平衡位置。當波繼續行進，質點 P 位於最低點時，下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-06.png\" alt=\"圖2 細繩波形與質點 a、b、P\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "質點 a 的 $y < 0$",
+      "質點 a 的 $y = 0$",
+      "質點 b 的 $y < 0$",
+      "質點 b 的 $y = 0$",
+      "質點 a 到達最高點"
+    ],
+    "answerIndex": 0,
+    "explanation": "【由質點運動判斷波的行進方向】\n• P 在波峰與波谷之間的下坡段（約 $x = 3\\text{ m}$，$y = -2\\text{ cm}$）且正向下運動，表示波谷正從右邊移過來，波向 $-x$ 方向行進。\n• 波形約在 $x \\approx 4.3\\text{ m}$ 處有波谷；P 到最低點時，整個波形向左平移約 $1.3\\text{ m}$。\n• 質點 a（$x \\approx 2.7\\text{ m}$）此時的位移等於原本 $x \\approx 4.0\\text{ m}$ 處的位移，接近波谷，$y < 0$。\n• 質點 b（$x \\approx 7.0\\text{ m}$）此時的位移等於原本 $x \\approx 8.3\\text{ m}$ 處的位移，接近波峰，$y > 0$。\n\n故選 (A)"
+  },
+  {
+    "id": "108-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "將位於同一高度的甲、乙兩質點，以相同初速同時鉛直上拋。甲在僅受重力的情況下，自初始上拋至再回到起點所需的時間為 $t_甲$，過程中最大的上升高度離起點為 $h$。但乙在上升時，與一片固定在離起點高度為 $h/2$ 的水平鋼板面發生彈性碰撞而向下折返，自初始上拋至再回到起點所需的時間為 $t_乙$。若空氣阻力可忽略，則下列敘述何者正確？\n（註：原題未說明兩質點質量是否相同，大考中心公告本題無標準答案、全部給分；本題庫練習時假設兩質點質量相同。）",
+    "options": [
+      "$t_甲 = t_乙$",
+      "乙再回到起點瞬間，甲的速度方向為向下",
+      "在各自再回到起點瞬間，甲、乙兩者的動能相同",
+      "就上拋至再回到起點的整個過程而言，重力對甲所作之功大於對乙所作之功",
+      "乙發生碰撞後，向下運動的加速度量值，大於甲向下運動的加速度量值"
+    ],
+    "answerIndex": 2,
+    "explanation": "【鉛直上拋與彈性碰撞】\n設初速 $v_0 = \\sqrt{2gh}$。\n• (A) 錯誤：乙只到 $h/2$ 就折返，所需時間較短。乙上升到 $h/2$ 的時間 $t_1$ 滿足 $\\dfrac{h}{2} = v_0t_1 - \\dfrac{1}{2}gt_1^2$，得 $t_1 = (\\sqrt{2} - 1)\\sqrt{\\dfrac{h}{g}}$，$t_乙 = 2t_1 \\approx 0.83\\sqrt{\\dfrac{h}{g}}$；而 $t_甲 = 2\\sqrt{\\dfrac{2h}{g}} \\approx 2.83\\sqrt{\\dfrac{h}{g}}$。\n• (B) 錯誤：甲到最高點需 $\\sqrt{\\dfrac{2h}{g}} \\approx 1.41\\sqrt{\\dfrac{h}{g}}$，乙回到起點時甲仍在上升。\n• (C) 正確（質量相同時）：彈性碰撞不損失動能，兩者回到起點時速率都是 $v_0$；質量相同則動能相同。（若質量不同，動能就不同，這正是原題條件不足之處。）\n• (D) 錯誤：回到起點，位移為零，重力對兩者作功都是零。\n• (E) 錯誤：碰撞後只受重力，加速度都是 $g$。\n\n故選 (C)"
+  },
+  {
+    "id": "108-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "甲、乙、丙三條導線的長度、截面積及在相同外加電壓下的電流如表 1 所示。假設各導線的溫度相同，且都遵守歐姆定律，則依表 1 判斷，在該溫度下，此三條導線材料的電阻率大小順序為何？",
+    "svg": "<svg viewBox=\"0 0 344 152\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:412.8px;height:auto;display:block;\"><text x=\"172\" y=\"20\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 1</text><rect x=\"2\" y=\"28\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">金屬線標示</text><rect x=\"132\" y=\"28\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">甲</text><rect x=\"202\" y=\"28\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">乙</text><rect x=\"272\" y=\"28\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"307\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">丙</text><rect x=\"2\" y=\"58\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">長度 (m)</text><rect x=\"132\" y=\"58\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">40</text><rect x=\"202\" y=\"58\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20</text><rect x=\"272\" y=\"58\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"307\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">10</text><rect x=\"2\" y=\"88\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">截面積 (mm²)</text><rect x=\"132\" y=\"88\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.5</text><rect x=\"202\" y=\"88\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1.0</text><rect x=\"272\" y=\"88\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"307\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1.0</text><rect x=\"2\" y=\"118\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">電流 (A)</text><rect x=\"132\" y=\"118\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.5</text><rect x=\"202\" y=\"118\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1.0</text><rect x=\"272\" y=\"118\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"307\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1.0</text></svg>",
+    "options": [
+      "甲 > 乙 > 丙",
+      "乙 > 甲 > 丙",
+      "丙 > 乙 > 甲",
+      "甲 > 丙 > 乙",
+      "丙 > 甲 > 乙"
+    ],
+    "answerIndex": 2,
+    "explanation": "【電阻率】\n電壓相同，$R = \\dfrac{V}{I}$；電阻率 $\\rho = \\dfrac{RA}{L} = \\dfrac{VA}{IL}$。\n• 甲：$\\dfrac{V \\times 0.5}{0.5 \\times 40} = 0.025V$\n• 乙：$\\dfrac{V \\times 1.0}{1.0 \\times 20} = 0.05V$\n• 丙：$\\dfrac{V \\times 1.0}{1.0 \\times 10} = 0.10V$\n\n所以 丙 > 乙 > 甲。\n\n故選 (C)"
+  },
+  {
+    "id": "108-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 3 所示，在 $yz$ 平面的環形金屬線圈以坐標系原點 O 為中心，$xy$ 平面為水平面，地球磁場指向 $+y$ 方向。位於原點 O 處的小磁針，可繞 $z$ 軸在 $xy$ 平面自由轉動，當環形線圈中的電流為 $2.0$ 安培時，磁針與 $+x$ 軸的夾角為 $37^\\circ$。若要使磁針與 $+x$ 軸的夾角變為 $45^\\circ$，則環形線圈中的電流應調整為多少安培？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-09.png\" alt=\"圖3 yz 平面上的環形線圈\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1.0",
+      "1.5",
+      "2.0",
+      "2.7",
+      "3.5"
+    ],
+    "answerIndex": 1,
+    "explanation": "【磁場的向量合成】\n線圈在 $yz$ 平面，圓心處的磁場 $B_線$ 沿 $x$ 軸，與電流成正比；地磁 $B_地$ 沿 $+y$。磁針沿合磁場方向，與 $+x$ 軸夾角 $\\theta$ 滿足\n$$\\tan\\theta = \\frac{B_地}{B_線}$$\n• $2.0\\text{ A}$ 時：$\\tan 37^\\circ = \\dfrac{3}{4} = \\dfrac{B_地}{B_線} \\implies B_線 = \\dfrac{4}{3}B_地$\n• 要 $45^\\circ$：$B_線' = B_地 = \\dfrac{3}{4}B_線$，所以 $I' = \\dfrac{3}{4} \\times 2.0 = 1.5\\text{ A}$\n\n故選 (B)"
+  },
+  {
+    "id": "108-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 10-11 題為題組】GPS 是 Global Positioning System（全球定位系統）的簡稱，它為使用者提供定位導航和定時服務。GPS 系統包括多顆衛星，在距離地球表面約 20200 公里的太空軌道上運行，每顆衛星內部裝置有精密的原子鐘，並以無線電波持續向地球發射訊號，不斷提供 GPS 衛星的編號、位置和精確時間。理論上使用三顆衛星即可定位，但因訊號傳輸需要時間，且地面 GPS 的接收器如智慧型手機並未內建精準的計時工具，即使極微小的時間差都會導致換算距離時出現巨大誤差，因此需要校正。地面上使用者的接收器在任何時間、任何地點，只要同時接收到至少四顆衛星的訊號，記錄訊號到達時間，即可使用這些資訊來確定該接收器在三維空間中的位置。取光速為 $3.0\\times10^8\\text{ m/s}$。\n10. 依據上述資料，下列敘述何者正確？",
+    "options": [
+      "無線電波的波長比紅外線的波長還短",
+      "無線電波訊號自 GPS 衛星傳送至地面接收器約需 6.7 秒",
+      "若地面 GPS 接收器的時間能夠精確測量到千分之一秒，則無須其他校正，就能夠在小於 100 公尺的誤差範圍內，定位出地面接收器的三維空間位置",
+      "地面 GPS 接收器只需要測量並計算出它到三顆衛星的距離，就能夠精確定位出它的三維空間位置",
+      "至少需要四顆衛星各自到接收器距離的數據，方能根據第四顆衛星的距離校正接收器內部的計時裝置，藉此得到精確的時間測量，提升定位的精準度"
+    ],
+    "answerIndex": 4,
+    "explanation": "【GPS 定位原理】\n• (A) 錯誤：無線電波的波長比紅外線長。\n• (B) 錯誤：$t = \\dfrac{2.02\\times10^7}{3.0\\times10^8} \\approx 0.067\\text{ s}$，不是 $6.7\\text{ s}$。\n• (C) 錯誤：$10^{-3}\\text{ s}$ 的時間誤差對應 $3.0\\times10^8 \\times 10^{-3} = 3\\times10^5\\text{ m} = 300\\text{ km}$ 的距離誤差。\n• (D) 錯誤：接收器的時鐘不準，算出的距離都有相同的時間誤差，三顆衛星無法同時解出位置（三個未知數）與時間誤差（第四個未知數）。\n• (E) 正確：四顆衛星提供四個方程式，可同時解出三維位置與接收器的時鐘誤差。\n\n故選 (E)"
+  },
+  {
+    "id": "108-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 10-11 題為題組】GPS 是 Global Positioning System（全球定位系統）的簡稱，它為使用者提供定位導航和定時服務。GPS 系統包括多顆衛星，在距離地球表面約 20200 公里的太空軌道上運行，每顆衛星內部裝置有精密的原子鐘，並以無線電波持續向地球發射訊號，不斷提供 GPS 衛星的編號、位置和精確時間。理論上使用三顆衛星即可定位，但因訊號傳輸需要時間，且地面 GPS 的接收器如智慧型手機並未內建精準的計時工具，即使極微小的時間差都會導致換算距離時出現巨大誤差，因此需要校正。地面上使用者的接收器在任何時間、任何地點，只要同時接收到至少四顆衛星的訊號，記錄訊號到達時間，即可使用這些資訊來確定該接收器在三維空間中的位置。取光速為 $3.0\\times10^8\\text{ m/s}$。\n11. 已知地球半徑約 6400 公里，而地球同步衛星在距離地球表面約 36000 公里的太空軌道上運行。若 GPS 衛星與地球同步衛星繞行地球之運動皆可視為等速圓周運動，則 GPS 衛星繞行角速率約為地球同步衛星繞行角速率的多少倍？",
+    "options": [
+      "2",
+      "$\\dfrac{1}{2}$",
+      "1",
+      "4",
+      "$\\dfrac{1}{4}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【克卜勒第三定律】\n$\\omega^2 r^3 = GM$ 為定值，所以 $\\omega \\propto r^{-3/2}$。\n• GPS 衛星軌道半徑：$6400 + 20200 = 26600\\text{ km}$\n• 同步衛星軌道半徑：$6400 + 36000 = 42400\\text{ km}$\n$$\\frac{\\omega_{GPS}}{\\omega_{同步}} = \\left(\\frac{42400}{26600}\\right)^{3/2} \\approx (1.59)^{1.5} \\approx 2.0$$\n（GPS 衛星週期約 12 小時，同步衛星 24 小時。）\n\n故選 (A)"
+  },
+  {
+    "id": "108-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "手機的無線充電是近年來發展出來的新科技，它使用到的物理原理是電磁感應。假設一手機內有邊長為 $0.050\\text{ m}$、匝數為 $1000$ 匝的正方形線圈，今將此正方形線圈置於垂直於線圈面且隨時間變動的均勻磁場 $B$ 中，如圖 4 所示。當磁場 $B$ 的時變率 $\\dfrac{\\Delta B}{\\Delta t} = 1.0\\text{ N/(A}\\cdot\\text{m}\\cdot\\text{s)}$ 時，則正方形線圈兩端間的應電動勢為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-12.png\" alt=\"圖4 磁場中的正方形線圈\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "25 mV",
+      "250 mV",
+      "2.5 V",
+      "25 V",
+      "250 V"
+    ],
+    "answerIndex": 2,
+    "explanation": "【法拉第定律】\n$\\text{N/(A}\\cdot\\text{m)} = \\text{T}$，所以 $\\dfrac{\\Delta B}{\\Delta t} = 1.0\\text{ T/s}$。\n$$\\varepsilon = N A\\frac{\\Delta B}{\\Delta t} = 1000 \\times (0.050)^2 \\times 1.0 = 2.5\\text{ V}$$\n故選 (C)"
+  },
+  {
+    "id": "108-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 13-14 題為題組】已知光子的動量 $p$、能量 $E$ 與光速 $c$ 的關係為 $E = pc$。有科學家提議可依此關係，利用太空船上裝置太陽帆吸收或反射光子來加速，以進行太空旅行。\n13. 下列敘述何者錯誤？",
+    "options": [
+      "在相同條件下，完全吸收光子與完全反射光子的太陽帆，前者使太空船產生的加速度量值較大",
+      "在其他條件不變下，太陽帆張開的面積越大，太空船的加速度量值越大",
+      "在其他條件不變下，離太陽越遠，太空船的加速度量值越小",
+      "該太空船利用太陽帆來增加動能時，其能量來自光子",
+      "利用光子與太陽帆作用前後之動量變化，可計算該太空船的加速度量值"
+    ],
+    "answerIndex": 0,
+    "explanation": "【光壓】\n• (A) 錯誤（本題答案）：完全吸收時光子動量變化為 $p$，完全反射時為 $2p$，反射式太陽帆受力是吸收式的 $2$ 倍，加速度較大。\n• (B) 正確：面積越大，接收的光子越多，受力越大。\n• (C) 正確：離太陽越遠，單位面積的光功率越小（與距離平方成反比）。\n• (D) 正確：太空船增加的動能來自光子的能量（反射光的頻率略為降低）。\n• (E) 正確：由 $F = \\dfrac{\\Delta p}{\\Delta t}$ 求力，再求加速度。\n\n故選 (A)"
+  },
+  {
+    "id": "108-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 13-14 題為題組】已知光子的動量 $p$、能量 $E$ 與光速 $c$ 的關係為 $E = pc$。\n14. 假設一太空船連同太陽帆的總質量為 $1.0\\times10^3\\text{ kg}$，其太陽帆面積為 $1.0\\times10^6\\text{ m}^2$，帆上單位面積接受太陽來的光子功率為 $1.5\\times10^3\\text{ W/m}^2$。若太陽帆能夠將光子完全反射，則此太空船因為光子照射造成的最大加速度量值最接近下列何者？取真空中光速 $c = 3.0\\times10^8\\text{ m/s}$。",
+    "options": [
+      "$5.0\\times10^{-3}\\text{ m/s}^2$",
+      "$1.0\\times10^{-2}\\text{ m/s}^2$",
+      "$0.50\\text{ m/s}^2$",
+      "$10.0\\text{ m/s}^2$",
+      "$1.0\\times10^{3}\\text{ m/s}^2$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【完全反射的光壓】\n每秒照到帆上的光能 $P = 1.5\\times10^3 \\times 1.0\\times10^6 = 1.5\\times10^9\\text{ W}$，對應每秒的光子動量 $\\dfrac{P}{c}$。完全反射時動量變化加倍：\n$$F = \\frac{2P}{c} = \\frac{2 \\times 1.5\\times10^9}{3.0\\times10^8} = 10\\text{ N}$$\n$$a = \\frac{F}{m} = \\frac{10}{1.0\\times10^3} = 1.0\\times10^{-2}\\text{ m/s}^2$$\n故選 (B)"
+  },
+  {
+    "id": "108-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "基於安全考量，一個容量為 $10$ 公升的氧氣瓶，裝了一個當壓力大於 $12$ 大氣壓時就會將氣體排出的洩氣閥，此氧氣瓶裝有溫度 $300\\text{ K}$、壓力 $10$ 大氣壓的氧氣。在運送時，氧氣瓶被裝載在車廂中，但炎炎夏日下，車廂內溫度變高，此時洩氣閥正常工作，排出部分氣體，當運送到目的地時，氧氣瓶的氧氣壓力為 $12$ 大氣壓、溫度為 $400\\text{ K}$。取理想氣體常數為 $0.082\\text{ atm}\\cdot\\text{L/(mol}\\cdot\\text{K)}$，則排出的氣體約為多少莫耳？",
+    "options": [
+      "1.3",
+      "0.41",
+      "0.23",
+      "0.11",
+      "0.051"
+    ],
+    "answerIndex": 1,
+    "explanation": "【理想氣體方程式 $PV = nRT$】\n• 原有：$n_1 = \\dfrac{10 \\times 10}{0.082 \\times 300} \\approx 4.07\\text{ mol}$\n• 剩下：$n_2 = \\dfrac{12 \\times 10}{0.082 \\times 400} \\approx 3.66\\text{ mol}$\n• 排出：$4.07 - 3.66 \\approx 0.41\\text{ mol}$\n\n故選 (B)"
+  },
+  {
+    "id": "108-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "一靜止且密封容器內有處於熱平衡的兩種單原子分子的理想氣體，分別是 2 莫耳的氣體 X 和 1 莫耳的氣體 Y。已知 Y 的分子量是 X 的分子量的 2 倍，則下列敘述何者正確？",
+    "options": [
+      "兩種氣體分子的總動量不相等",
+      "兩種氣體分子的方均根速率相等",
+      "X 氣體的分壓是 Y 氣體分壓的 1/2 倍",
+      "X 氣體分子總動能是 Y 氣體分子總動能的 2 倍",
+      "X 氣體分子平均動能是 Y 氣體分子平均動能的 2 倍"
+    ],
+    "answerIndex": 3,
+    "explanation": "【氣體動力論】\n同溫下，每個分子的平均動能都是 $\\dfrac{3}{2}kT$。\n• (A) 錯誤：容器靜止，兩種氣體的總動量都是零，相等。\n• (B) 錯誤：$v_{rms} = \\sqrt{\\dfrac{3RT}{M}}$，分子量不同，方均根速率不同。\n• (C) 錯誤：分壓與莫耳數成正比，X 的分壓是 Y 的 $2$ 倍。\n• (D) 正確：總動能 $= \\dfrac{3}{2}nRT$，X 的莫耳數是 Y 的 $2$ 倍。\n• (E) 錯誤：平均動能只與溫度有關，兩者相同。\n\n故選 (D)"
+  },
+  {
+    "id": "108-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 5 所示，一個被固定在鉛直面上，半徑為 $r$ 的圓形光滑軌道玩具，將質量分別為 $m$ 與 $2m$ 的甲與乙兩質點，靜置於光滑圓形軌道內緣，甲離水平地面的高度為 $r$，而乙位於軌道最低點。當甲自靜止開始沿著軌道下滑後，與乙發生正面彈性碰撞。碰撞後乙沿軌道可爬升的最大鉛直高度為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-17.png\" alt=\"圖5 圓形軌道內的甲、乙質點\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$r$",
+      "$\\dfrac{2}{3}r$",
+      "$\\dfrac{1}{2}r$",
+      "$\\dfrac{4}{9}r$",
+      "$\\dfrac{1}{3}r$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【力學能守恆＋彈性碰撞】\n• 甲滑到最低點：$mgr = \\dfrac{1}{2}mv^2 \\implies v = \\sqrt{2gr}$\n• 彈性碰撞（乙靜止）：$v'_乙 = \\dfrac{2m}{m + 2m}v = \\dfrac{2}{3}\\sqrt{2gr}$\n• 乙上升高度：$H = \\dfrac{v'^2_乙}{2g} = \\dfrac{4}{9} \\cdot \\dfrac{2gr}{2g} = \\dfrac{4}{9}r$\n（$H < r$，乙在四分之一圓以內，不會脫離軌道。）\n\n故選 (D)"
+  },
+  {
+    "id": "108-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 6 所示，一質量為 $m$ 的小物體靜止在傾角為 $60$ 度、長度為 $L$ 且固定不動之斜面的最低點 P。現對此物體施加量值不變、方向始終沿斜面方向向上的力 $F$，使物體沿斜面運動到達斜面長度 $L/2$ 的 Q 點，在 Q 點時立即撤去外力 $F$。若要使物體能夠到達斜面最高點 R，則外力 $F$ 的量值至少需為多少？設物體與斜面之動摩擦係數為 $\\mu$、重力加速度為 $g$。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-18.png\" alt=\"圖6 斜面上的物體\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{\\sqrt{3}}{2}\\mu mg$",
+      "$(\\sqrt{3} + 1)\\mu mg$",
+      "$\\dfrac{\\mu + \\sqrt{3}}{2}mg$",
+      "$(\\sqrt{3}\\mu + 1)mg$",
+      "$(\\mu + \\sqrt{3})mg$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【功能定理】\n物體由 P 靜止出發，恰到 R 時速度為零，總動能變化為零：\n$$F\\cdot\\frac{L}{2} - mg\\sin 60^\\circ \\cdot L - \\mu mg\\cos 60^\\circ \\cdot L = 0$$\n$$F = 2mg\\left(\\frac{\\sqrt{3}}{2} + \\frac{\\mu}{2}\\right) = (\\mu + \\sqrt{3})mg$$\n故選 (E)"
+  },
+  {
+    "id": "108-ast-phy-19",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 19-20 題為題組】一質量為 $1000\\text{ kg}$ 的汽車在十字路口（$x = 0$）停下等待，當紅燈轉綠燈後，開始在筆直水平道路上沿 $+x$ 方向作直線運動，前 $300\\text{ m}$ 的加速度 $a$ 與位置 $x$ 之關係如圖 7 所示。\n19. 汽車在下列哪一路段作等速度運動？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-19.png\" alt=\"圖7 加速度與位置關係\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$0 < x < 100\\text{ m}$",
+      "$100\\text{ m} < x < 200\\text{ m}$",
+      "$200\\text{ m} < x < 300\\text{ m}$",
+      "$0 < x < 200\\text{ m}$",
+      "$0 < x < 100\\text{ m}$ 及 $200\\text{ m} < x < 300\\text{ m}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【加速度為零才是等速度】\n由圖 7：$0\\sim100\\text{ m}$ 加速度 $1.5\\text{ m/s}^2$（等加速），$100\\sim200\\text{ m}$ 加速度逐漸減小但仍為正（仍在加速），$200\\sim300\\text{ m}$ 加速度為零，才是等速度運動。\n\n故選 (C)"
+  },
+  {
+    "id": "108-ast-phy-20",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 19-20 題為題組】一質量為 $1000\\text{ kg}$ 的汽車在十字路口（$x = 0$）停下等待，當紅燈轉綠燈後，開始在筆直水平道路上沿 $+x$ 方向作直線運動，前 $300\\text{ m}$ 的加速度 $a$ 與位置 $x$ 之關係如圖 7 所示。\n20. 在前 $300\\text{ m}$ 的路途中，汽車的最大速率約為多少 $\\text{m/s}$？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-19.png\" alt=\"圖7 加速度與位置關係\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "90",
+      "76",
+      "62",
+      "21",
+      "10"
+    ],
+    "answerIndex": 3,
+    "explanation": "【$a$-$x$ 圖面積】\n由 $v^2 = v_0^2 + 2a\\Delta x$，$a$-$x$ 圖下的面積等於 $\\dfrac{1}{2}(v^2 - v_0^2)$。加速度在 $200\\text{ m}$ 後為零，速率在此時最大：\n$$\\text{面積} = 1.5 \\times 100 + \\frac{1}{2} \\times 100 \\times 1.5 = 225\\text{ m}^2/\\text{s}^2$$\n$$v^2 = 2 \\times 225 = 450 \\implies v \\approx 21\\text{ m/s}$$\n故選 (D)"
+  },
+  {
+    "id": "108-ast-phy-21",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "某人拉著紙箱沿斜坡向上等速行走，若此人施加的拉力平行於斜坡的方向，且作用在紙箱上的力只有人施加的拉力、斜面對紙箱的摩擦力、斜面的正向力與重力，則在此等速過程中，下列敘述哪些正確？",
+    "options": [
+      "重力對紙箱作負功",
+      "人施加的拉力對紙箱作正功",
+      "摩擦力對紙箱作正功，斜面的正向力對紙箱不作功",
+      "紙箱的動能沒有增加，代表所有的作用力對紙箱所作的總功為零",
+      "紙箱的重力位能增加，代表所有的作用力對紙箱所作的總功為正功"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "【功與功能定理】\n• (A) 正確：紙箱上升，重力方向與位移有向下的夾角，作負功。\n• (B) 正確：拉力與位移同方向，作正功。\n• (C) 錯誤：摩擦力沿斜面向下，與位移相反，作負功；正向力與位移垂直，不作功。\n• (D) 正確：等速運動動能不變，由功能定理，合力作的總功為零。\n• (E) 錯誤：總功為零；重力位能增加是因為重力作負功。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "108-ast-phy-22",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "在透明固體的折射率測定實驗中，某生以長方體的透明壓克力磚放在方格紙及保麗龍板上當作待測物，以插針法追蹤經待測物的入射光線及折射光線的路徑。已知壓克力磚的長、寬、高分別為 30、10 及 2 公分，下列敘述哪些正確？",
+    "options": [
+      "在同一側所插的 2 針，間距愈近所量測的折射率愈準",
+      "若在壓克力磚二平行面外側各插 2 針，共插 4 針，可測得其折射率",
+      "若壓克力磚二平行面不是真的平行，亦可由本實驗方法測定其折射率",
+      "壓克力磚二平行面是否真的平行，無法由兩側所插針的實驗結果判定",
+      "以相距 10 公分的平行面量測折射率，較利用相距 2 公分平行面的結果為精準"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【插針法測折射率】\n• (A) 錯誤：同側兩針距離越遠，畫出的光線方向越準確。\n• (B) 正確：入射側兩針決定入射光線，出射側兩針決定出射光線；連接兩光線與界面的交點，得到磚內的折射光線，由司乃耳定律求折射率。\n• (C) 正確：只要畫出界面、入射光與磚內的光線，就能在入射面用司乃耳定律求折射率，不需要兩面平行。\n• (D) 錯誤：若兩面平行，出射光應與入射光平行；由插針結果比較兩光線是否平行，就能判斷。\n• (E) 正確：光在磚內走的距離越長，側向位移越大，量測的相對誤差越小。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "108-ast-phy-23",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "甲生在整理實驗器材時，發現有雙狹縫片與單狹縫片共 5 片，其規格標籤都脫落了，導致無法從外觀分辨規格。於是他將這 5 片狹縫片編號為 S1～S5，接著利用同一單色雷射光源做干涉與繞射實驗來比較狹縫片之間的關係。實驗時光屏與狹縫間的距離保持固定，並僅依序更換 5 片狹縫片，觀看光屏上的干涉或繞射圖像，其示意如圖 8 所示，並在光屏上定出 $P_i$、$Q_i$ 兩點（$i = 1\\sim5$），且數出 $P_i$、$Q_i$ 之間的暗紋數目 $n$（包含 $P_i$、$Q_i$ 兩處之暗紋），量測結果如表 2 所示。下列關於甲生實驗的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-23.png\" alt=\"圖8 五片狹縫的圖樣與表2 量測結果\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "S1 為雙狹縫片；S2 為單狹縫片",
+      "S3 的相鄰縫距是 S1 相鄰縫距的 2 倍",
+      "S5 的縫寬是 S4 縫寬的 4 倍",
+      "如果僅將光屏和狹縫片的距離變成原來的兩倍，則 S3 的 $n$ 會變成 28",
+      "如果僅將光屏和狹縫片的距離變成原來的兩倍，則 S5 的 $\\overline{P_5Q_5}$ 會變成 24 mm"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "【雙狹縫干涉與單狹縫繞射的圖樣】\n• (A) 正確：S1、S3 有許多等間距的亮紋，是雙狹縫干涉；S2、S4、S5 中央亮帶特別寬、只有 2 條暗紋（中央亮帶兩側），是單狹縫繞射。\n• (B) 正確：S1 在 $52\\text{ mm}$ 內、S3 在 $26\\text{ mm}$ 內都有 14 條暗紋，S3 的條紋間距是 S1 的一半；間距 $\\dfrac{L\\lambda}{d}$ 與縫距成反比，S3 縫距是 S1 的 2 倍。\n• (C) 錯誤：$P_iQ_i$ 是中央亮帶寬度 $\\dfrac{2L\\lambda}{a}$，與縫寬成反比；S5 的寬度是 S4 的 4 倍，所以 S5 縫寬是 S4 的 $\\dfrac{1}{4}$。\n• (D) 錯誤：$L$ 加倍，條紋間距加倍，同樣的兩點間暗紋數會變少，不會變成 28。\n• (E) 錯誤：$L$ 加倍，中央亮帶寬度加倍為 $96\\text{ mm}$。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "108-ast-phy-24",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "電蚊拍利用電子電路讓兩電極間的直流電壓可升高達上千伏特，且兩電極間串聯著一個電阻值很大的電阻。它酷似網球拍的網狀拍外型，一般具有三層金屬導線網，其中構成上、下拍面的兩層較疏的金屬網彼此相通，構成同一電極，處於電路的低電位；夾在中間的一層金屬網則是電路中電位較高的另一電極。已知在一大氣壓下，當電場超過 $30\\text{ kV/cm}$ 時，空氣通常會被游離而放電。以下僅考慮兩電極的間距為 $5\\text{ mm}$ 之金屬網，且兩電極間的電壓不足以使空氣游離的電蚊拍。依據上述，判斷下列敘述哪些正確？",
+    "options": [
+      "該電蚊拍兩電極間的電壓可升高至 $30\\text{ kV}$",
+      "閃電生成的基本原理與電蚊拍游離空氣放電的原理是一樣的",
+      "電蚊拍拍面上的電子由較高的原子能階躍遷回低能階時釋放的能量可使空氣游離",
+      "飛入兩電極間的蚊蟲相當於導電體，即使它只碰到外層電網，也可使兩電極間的空氣間隙減小，以致空氣游離放電",
+      "電蚊拍中間夾層的金屬網電位高達上千伏特，若人體碰觸金屬網，會因電擊而產生嚴重傷害"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "【空氣的游離放電】\n• (A) 錯誤：$5\\text{ mm} = 0.5\\text{ cm}$，空氣游離所需電壓約 $30 \\times 0.5 = 15\\text{ kV}$；題目說電壓不足以游離空氣，所以低於 $15\\text{ kV}$，不可能到 $30\\text{ kV}$。\n• (B) 正確：兩者都是強電場使空氣分子游離而放電。\n• (C) 錯誤：放電是強電場加速帶電粒子撞擊空氣分子使其游離，不是金屬中電子能階躍遷的能量。\n• (D) 正確：蚊蟲是導體，進入電極之間時，等於縮短了兩電極間的空氣間隙，$E = \\dfrac{V}{d}$ 變大而放電。\n• (E) 錯誤：電路中串聯很大的電阻，流過人體的電流很小，不會造成嚴重傷害。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "108-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】欲使用惠司同電橋測量電阻，圖 9 中為電路元件的符號，其中 G 為檢流計、$\\varepsilon$ 為直流電源供應器、S 為開關、$R_1$ 為已知電阻、$R_x$ 為待測電阻。另有惠司同電橋（三接頭滑動可變電阻），其電阻大小與電阻線的長度成正比。\n\n1. 利用圖 9 的元件各一個及數條接線，安裝成惠司同電橋來測量 $R_x$ 的電阻值，試畫出其電路圖。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-non-1.png\" alt=\"圖9 惠司同電橋實驗元件\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$R_1$ 與 $R_x$ 串聯後，兩端分別接到電阻線的 M、N 兩端；電源 $\\varepsilon$ 與開關 S 串聯後也接在 M、N 兩端；檢流計 G 一端接在 $R_1$ 與 $R_x$ 的接點，另一端接滑動接點 P。"
+    ],
+    "blankLabels": [
+      "接線要點"
+    ],
+    "explanationSvg": "<svg viewBox=\"0 0 380 230\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><g stroke=\"#ffffff\" stroke-width=\"2\" fill=\"none\"><polyline points=\"40,150 40,50 100,50\"/><path d=\"M 100 50 l 8 -8 l 8 16 l 8 -16 l 8 16 l 8 -16 l 8 16 l 4 -8\"/><polyline points=\"152,50 230,50\"/><path d=\"M 230 50 l 8 -8 l 8 16 l 8 -16 l 8 16 l 8 -16 l 8 16 l 4 -8\"/><polyline points=\"282,50 340,50 340,150\"/><line x1=\"40\" y1=\"150\" x2=\"340\" y2=\"150\" stroke-width=\"5\"/><polyline points=\"191,50 191,82\"/><circle cx=\"191\" cy=\"98\" r=\"16\"/><polyline points=\"191,114 191,140\"/><polyline points=\"40,150 40,200 150,200\"/><line x1=\"160\" y1=\"186\" x2=\"160\" y2=\"214\"/><line x1=\"170\" y1=\"192\" x2=\"170\" y2=\"208\" stroke-width=\"4\"/><polyline points=\"170,200 230,200\"/><line x1=\"230\" y1=\"200\" x2=\"262\" y2=\"186\"/><polyline points=\"268,200 340,200 340,150\"/></g><path d=\"M 185 136 L 191 148 L 197 136 z\" fill=\"#ffeb3b\"/><text x=\"184\" y=\"104\" fill=\"#ffffff\" font-size=\"14\">G</text><text x=\"112\" y=\"34\" fill=\"#ffeb3b\" font-size=\"14\">R₁</text><text x=\"244\" y=\"34\" fill=\"#ffeb3b\" font-size=\"14\">Rₓ</text><text x=\"30\" y=\"170\" fill=\"#ffffff\" font-size=\"13\">M</text><text x=\"186\" y=\"170\" fill=\"#ffffff\" font-size=\"13\">P</text><text x=\"344\" y=\"170\" fill=\"#ffffff\" font-size=\"13\">N</text><text x=\"155\" y=\"226\" fill=\"#ffffff\" font-size=\"13\">ε</text><text x=\"240\" y=\"222\" fill=\"#ffffff\" font-size=\"13\">S</text><text x=\"200\" y=\"128\" fill=\"#80deea\" font-size=\"12\">滑動接點</text></svg>",
+    "explanation": "【滑線式惠司同電橋的接法】\n電橋由兩條並聯的分壓支路組成：\n• 支路一：$R_1$ 與 $R_x$ 串聯。\n• 支路二：均勻電阻線 MN，被滑動接點 P 分成 MP、PN 兩段。\n• 兩支路並聯後接上電源與開關；檢流計跨接在 $R_1$、$R_x$ 的接點與 P 之間。\n\n答：見下方參考電路圖。"
+  },
+  {
+    "id": "108-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】欲使用惠司同電橋測量電阻，圖 9 中為電路元件的符號，其中 G 為檢流計、$\\varepsilon$ 為直流電源供應器、S 為開關、$R_1$ 為已知電阻、$R_x$ 為待測電阻。另有惠司同電橋（三接頭滑動可變電阻），其電阻大小與電阻線的長度成正比。\n\n2. 列出相關公式，並說明利用惠司同電橋可測量出未知電阻的基本原理。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-non-1.png\" alt=\"圖9 惠司同電橋實驗元件\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "檢流計讀數為零時兩端等電位，$\\dfrac{R_1}{R_x} = \\dfrac{R_{MP}}{R_{PN}} = \\dfrac{\\overline{MP}}{\\overline{PN}}$，所以 $R_x = R_1\\dfrac{\\overline{PN}}{\\overline{MP}}$"
+    ],
+    "blankLabels": [
+      "公式與原理"
+    ],
+    "explanation": "【電橋平衡】\n• 檢流計讀數為零，表示其兩端電位相等，沒有電流流過檢流計。\n• 此時 $R_1$ 上的電壓降等於 MP 段的電壓降，$R_x$ 上的電壓降等於 PN 段的電壓降，可得 $\\dfrac{R_1}{R_x} = \\dfrac{R_{MP}}{R_{PN}}$。\n• 電阻線均勻，電阻與長度成正比：$\\dfrac{R_{MP}}{R_{PN}} = \\dfrac{\\overline{MP}}{\\overline{PN}}$。\n\n答：$R_x = R_1\\dfrac{\\overline{PN}}{\\overline{MP}}$（量出兩段長度即可求 $R_x$）"
+  },
+  {
+    "id": "108-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】欲使用惠司同電橋測量電阻，圖 9 中為電路元件的符號，其中 G 為檢流計、$\\varepsilon$ 為直流電源供應器、S 為開關、$R_1$ 為已知電阻、$R_x$ 為待測電阻。另有惠司同電橋（三接頭滑動可變電阻），其電阻大小與電阻線的長度成正比。\n\n3. 簡要說明利用惠司同電橋測量 $R_x$ 的步驟。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-non-1.png\" alt=\"圖9 惠司同電橋實驗元件\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "(1) 檢流計先歸零；(2) 依電路圖接好電路；(3) 接通開關；(4) 移動滑動接點 P，直到檢流計讀數為零；(5) 量出 $\\overline{MP}$、$\\overline{PN}$，由 $R_x = R_1\\dfrac{\\overline{PN}}{\\overline{MP}}$ 算出 $R_x$。"
+    ],
+    "blankLabels": [
+      "步驟"
+    ],
+    "explanation": "【實驗步驟】\n1. 將檢流計指針校正歸零。\n2. 依第 1 小題的電路圖接線。\n3. 接通電源與開關，觀察檢流計。\n4. 滑動 P，找到檢流計讀數為零的位置（電橋平衡）。\n5. 量出 $\\overline{MP}$ 與 $\\overline{PN}$，計算 $R_x = R_1\\dfrac{\\overline{PN}}{\\overline{MP}}$。\n\n答：歸零 → 接線 → 通電 → 移動 P 使檢流計歸零 → 量長度計算。"
+  },
+  {
+    "id": "108-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】獲得 2018 年諾貝爾物理獎的科學家對雷射領域做出的重要貢獻，包括了光學鑷子在物理學上的應用，本大題將探討傳統鑷子與光學鑷子的原理。\n\n1. 傳統鑷子：用兩邊長各為 $L$、末端重合成 V 字形的鑷子，去夾半徑為 $R$、質量為 $m$ 的玻璃小球。夾小球時，鑷子在鉛垂面上，若每邊對小球施力量值為 $F$，恰可將小球夾起，鑷子與小球的接觸點，如圖 10 所示。試畫出小球所受各外力的力圖（需標示各外力的名稱），並計算出鑷子與小球之間的靜摩擦係數 $\\mu$ 至少為若干？設重力加速度為 $g$。（5 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-non-2a.png\" alt=\"圖10 V 字形鑷子夾小球\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 5,
+    "selfGrade": true,
+    "blanks": [
+      "力圖：重力 $mg$（向下）、兩側正向力 $F$（垂直鑷子臂、指向球心）、兩側靜摩擦力（沿鑷子臂向上）；$\\mu \\ge \\dfrac{R}{L} + \\dfrac{mg\\sqrt{L^2 + R^2}}{2FL}$"
+    ],
+    "blankLabels": [
+      "力圖與 μ 的最小值"
+    ],
+    "explanation": "【受力分析】\n鑷子臂與球相切，設臂與鉛直線夾角為 $\\theta$。由幾何：$\\tan\\theta = \\dfrac{R}{L}$，$\\cos\\theta = \\dfrac{L}{\\sqrt{L^2 + R^2}}$。\n小球受力：\n• 重力 $mg$，鉛直向下。\n• 兩側正向力 $F$：垂直於鑷子臂、指向球心，有向下的分量 $F\\sin\\theta$。\n• 兩側靜摩擦力 $f$：沿鑷子臂向上（指向鑷子頂端），向上分量 $f\\cos\\theta$。\n\n鉛直方向平衡（水平方向左右對稱抵消）：\n$$2f\\cos\\theta = mg + 2F\\sin\\theta$$\n需 $f \\le \\mu F$，所以\n$$\\mu \\ge \\frac{mg}{2F\\cos\\theta} + \\tan\\theta = \\frac{R}{L} + \\frac{mg\\sqrt{L^2 + R^2}}{2FL}$$\n\n答：$\\mu_{min} = \\dfrac{R}{L} + \\dfrac{mg\\sqrt{L^2 + R^2}}{2FL}$"
+  },
+  {
+    "id": "108-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】獲得 2018 年諾貝爾物理獎的科學家對雷射領域做出的重要貢獻，包括了光學鑷子在物理學上的應用，本大題將探討傳統鑷子與光學鑷子的原理。\n\n2. 光學鑷子（應用高度聚焦的雷射光束來控制微小物體）：當雷射光穿透折射率比周圍介質還大的球形微粒（以下簡稱微粒）時，雷射光束會折射偏向，代表光束中光子的動量發生了變化，由牛頓第三運動定律可知，光子可施力於微粒上。\n當微粒的大小遠大於雷射光的波長時，可用幾何光學來解釋光學鑷子的原理。如圖 11 所示，若僅考慮通過會聚透鏡後的雷射光束中，行進方向交會於微粒球心 O 下方的 B 點之編號 1、2 兩條光線，它們射入微粒後會發生偏折，再由微粒的上方射出時，則因光線被折射，光子會施於微粒一個作用方向向下的合力 $\\vec F$，而將微粒向下推移。編號 1、2 兩條光線射入微粒前後，光子的動量分別為 $\\vec P_1$ 與 $\\vec P_1'$、$\\vec P_2$ 與 $\\vec P_2'$。\n如圖 12 所示，若改變兩條光線的入射方向使行進方向交會點在微粒球心 O 上方的 C 點，試參考圖 11 的動量表示方式，僅需考慮光的折射，畫出雷射光的光子路徑、雷射光的光子在射入微粒前後的動量 $\\vec P_3$ 與 $\\vec P_3'$、$\\vec P_4$ 與 $\\vec P_4'$ 並標示出動量變化 $\\Delta\\vec P_3$、$\\Delta\\vec P_4$，以及微粒受光子合力 $\\vec F$ 作用的方向。（5 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-phy-non-2b.png\" alt=\"圖11、圖12 光線射入球形微粒\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 5,
+    "selfGrade": true,
+    "blanks": [
+      "光線 3、4 進入微粒時向法線偏折，在球內交會後由上方射出，射出後比入射時更「張開」（$\\vec P_3'$、$\\vec P_4'$ 向外偏離中央）；$\\Delta\\vec P_3 = \\vec P_3' - \\vec P_3$、$\\Delta\\vec P_4 = \\vec P_4' - \\vec P_4$ 的合向量指向下方，所以微粒受光子的合力 $\\vec F$ 向上（指向交會點 C）。"
+    ],
+    "blankLabels": [
+      "作圖要點與 F 的方向"
+    ],
+    "explanation": "【光子動量變化與反作用力】\n• 光線 3、4 原本朝 C 點會聚。微粒的折射率較大，光線進入微粒時向法線偏折、離開時遠離法線偏折，結果出射光比入射光的方向更向外張開。\n• 光子動量量值不變（只考慮折射），方向改變：$\\Delta\\vec P = \\vec P' - \\vec P$。兩條光線的水平分量變化左右抵消，鉛直分量變化都向下，所以光子的總動量變化 $\\Delta\\vec P_3 + \\Delta\\vec P_4$ 指向下方。\n• 由動量守恆（牛頓第三定律），微粒得到的動量變化與光子相反，受力 $\\vec F$ 向上，被拉向雷射的焦點 C。這就是光學鑷子能「夾住」微粒的原因：微粒總被拉向光的聚焦點。\n\n答：$\\vec F$ 向上（指向 C 點）。"
   }
 ]
