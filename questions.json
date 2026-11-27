@@ -26438,5 +26438,553 @@
       ]
     ],
     "explanation": "干涉發生在液體中：$\\lambda_L = \\dfrac{650}{1.3} = 500\\text{ nm}$，亮紋條件 $d\\sin\\theta = m\\lambda_L$。\n光線由 O 沿半徑射出圓弧，方向不偏折，所以角度 $\\theta$ 保持到屏幕：\n$\\Delta y = \\dfrac{L\\lambda_L}{d} = \\dfrac{2.0\\times500\\times10^{-9}}{0.020\\times10^{-3}} = 0.05\\text{ m}$"
+  },
+  {
+    "id": "98-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "若有一行星繞著恆星 S 作橢圓軌道運動，則下列有關行星在圖 1 所示各點的加速度量值的敘述，何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-01.png\" alt=\"圖1 橢圓軌道上的 A～F 點，恆星 S 靠近 A 點\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "所有點都一樣大",
+      "點 A 處最大",
+      "點 B 與點 F 處最大",
+      "點 C 與點 E 處最大",
+      "點 D 處最大"
+    ],
+    "answerIndex": 1,
+    "explanation": "【萬有引力】\n行星只受恆星引力，加速度 $a = \\dfrac{GM}{r^2}$，距離恆星愈近加速度愈大。A 點離 S 最近，加速度最大。\n\n故選 (B)"
+  },
+  {
+    "id": "98-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 2 所示，一單擺左右來回擺動，擺錘受有重力 W、擺線的張力 T 與空氣阻力 R。下列有關此三力對擺錘作功的敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-02.png\" alt=\"圖2 單擺擺錘受重力 W 與張力 T\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "W 一定作正功，T 一定作負功",
+      "R 一定作負功，T 一定不作功",
+      "W 一定作正功，R 一定作負功",
+      "T 與 W 一定作正功，R 一定作負功",
+      "W 與 R 一定作負功，T 一定不作功"
+    ],
+    "answerIndex": 1,
+    "explanation": "【力與位移的夾角】\n• 張力 T 沿擺線，永遠垂直於圓弧運動方向，不作功。\n• 空氣阻力 R 永遠與速度反向，一定作負功。\n• 重力 W：擺錘下降時作正功、上升時作負功，不一定。\n\n故選 (B)"
+  },
+  {
+    "id": "98-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 3 所示，是由左向右行進的一週期波，其長波列的一部分波形。設此時 $t = 0$，P 點的位移為 $y_0$。下列哪一項是在 $t = 0$ 以後的時間中，P 點位移隨時間變化的圖？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-03.png\" alt=\"圖3 向右行進的波形與 P 點，以及選項 (A)~(E) 的 y-t 圖\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 2,
+    "explanation": "【波形圖與質點振動圖】\n波向右傳，P 點之後的位移，依序等於目前 P「左邊」各點的位移（愈左邊的波形愈晚到達 P）。\n從 P 往左看波形：由 $y_0$ 先下降到接近零的低谷，經過一段有小起伏的平緩區，再進入左邊的大波峰。所以 P 的 $y$–$t$ 圖是「先降到零附近、平緩起伏一段時間、再上升成波峰」，與圖 (C) 相符（注意 $y$–$t$ 圖的時間軸方向，相當於把波形左右翻轉）。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "長度為 $l_A$ 的閉管（一端閉口，另一端開口），其基音頻率為 $f_A$；長度為 $l_B$ 的開管（兩端開口），其基音頻率為 $f_B$。已知 $f_A$ 等於 $f_B$，則 $l_A$ 對 $l_B$ 的比值為下列哪一項？",
+    "options": [
+      "4",
+      "2",
+      "3/2",
+      "1",
+      "1/2"
+    ],
+    "answerIndex": 4,
+    "explanation": "【管柱的基音】\n閉管基音 $f_A = \\dfrac{v}{4l_A}$，開管基音 $f_B = \\dfrac{v}{2l_B}$。\n$\\dfrac{v}{4l_A} = \\dfrac{v}{2l_B} \\Rightarrow \\dfrac{l_A}{l_B} = \\dfrac12$\n\n故選 (E)"
+  },
+  {
+    "id": "98-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "將 15℃、6 公升的冷水與 80℃、9 公升的熱水，在一絕熱容器內混合。在達到熱平衡後，若忽略容器吸收的熱，則水的溫度為下列何者？",
+    "options": [
+      "24℃",
+      "34℃",
+      "44℃",
+      "54℃",
+      "64℃"
+    ],
+    "answerIndex": 3,
+    "explanation": "【熱平衡】\n冷水吸熱 = 熱水放熱：$6(T - 15) = 9(80 - T)$\n$6T - 90 = 720 - 9T \\Rightarrow 15T = 810 \\Rightarrow T = 54^\\circ\\text{C}$\n\n故選 (D)"
+  },
+  {
+    "id": "98-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 4 所示，一發光點從凸面鏡主軸上的 P 點沿主軸緩慢向鏡頂 O 移動，則此光點的像，其位置以及其移動的方向為下列哪一項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-06.png\" alt=\"圖4 凸面鏡前主軸上的發光點 P\" style=\"width:100%;max-width:230px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "先成像於鏡前，接著成像於鏡後",
+      "成像於鏡後，遠離 O 點移動",
+      "成像於鏡後，朝向 O 點移動",
+      "成像於鏡前，遠離 O 點移動",
+      "成像於鏡前，朝向 O 點移動"
+    ],
+    "answerIndex": 2,
+    "explanation": "【凸面鏡成像】\n凸面鏡對實物永遠成正立縮小虛像，位於鏡後、鏡頂與焦點之間。\n物體靠近鏡頂時，像也朝鏡頂移動並逐漸變大；物體到達 O 時像也在 O。由 $\\dfrac1p + \\dfrac1q = -\\dfrac1f$，$p$ 減小時 $|q|$ 也減小。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "在近代科技的領域中，下列敘述何者<u>錯誤</u>？",
+    "options": [
+      "雷射可用於光纖通信",
+      "純矽的晶體摻入少量三價元素後可製成 p 型半導體",
+      "即使超導體在超導狀態，其電阻也不會是零",
+      "利用外在電場可改變液晶的光學特性",
+      "奈米是一個長度單位"
+    ],
+    "answerIndex": 2,
+    "explanation": "【近代科技】\n(C) 錯誤：超導體在臨界溫度以下的超導狀態，電阻為零。\n其他：(A) 雷射可在光纖中傳遞訊號；(B) 摻入硼等三價元素產生電洞，成為 p 型；(D) 液晶顯示器即利用電場改變液晶分子排列；(E) 1 奈米 $= 10^{-9}$ 公尺。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 5 所示，一水管水平放置，水以 1.50 kg/s 的固定速率，穩定地從甲截面流入，從乙截面流出。已知甲截面的面積為 $12.0\\text{ cm}^2$，乙截面的面積為 $5.00\\text{ cm}^2$。假設管內同一截面上各點的流速相等，則甲截面的水流速 $v_{\\text{甲}}$ 和乙截面的水流速 $v_{\\text{乙}}$ 各為下列哪一項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-08.png\" alt=\"圖5 由大截面甲流向小截面乙的水管\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$v_{\\text{甲}} = 3.00\\text{ m/s}$，$v_{\\text{乙}} = 1.50\\text{ m/s}$",
+      "$v_{\\text{甲}} = 2.50\\text{ m/s}$，$v_{\\text{乙}} = 1.50\\text{ m/s}$",
+      "$v_{\\text{甲}} = 1.25\\text{ m/s}$，$v_{\\text{乙}} = 3.00\\text{ m/s}$",
+      "$v_{\\text{甲}} = 1.00\\text{ m/s}$，$v_{\\text{乙}} = 3.00\\text{ m/s}$",
+      "$v_{\\text{甲}} = 1.00\\text{ m/s}$，$v_{\\text{乙}} = 4.25\\text{ m/s}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【連續方程式】\n體積流率 $= \\dfrac{1.50\\text{ kg/s}}{1000\\text{ kg/m}^3} = 1.50\\times10^{-3}\\text{ m}^3/\\text{s} = Av$\n$v_{\\text{甲}} = \\dfrac{1.50\\times10^{-3}}{12.0\\times10^{-4}} = 1.25\\text{ m/s}$，$v_{\\text{乙}} = \\dfrac{1.50\\times10^{-3}}{5.00\\times10^{-4}} = 3.00\\text{ m/s}$\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "在一開口水槽的平靜水面上，將一半徑為 2.5 cm、質量為 2.4 g 細鋁線製成的圓圈（鋁的密度為 $2.70\\text{ g/cm}^3$），輕輕平放該水面上而不下沉，則水的表面張力最可能是下列哪一項？",
+    "options": [
+      "$7.5\\times10^{-2}\\text{ N/m}$",
+      "$1.5\\times10^{-1}\\text{ N/m}$",
+      "$1.2\\times10^{-2}\\text{ N/m}^2$",
+      "$2.4\\times10^{-2}\\text{ N/m}^2$",
+      "$2.4\\times10^{-2}\\text{ N}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【表面張力】\n表面張力 $\\gamma$ 的單位是 N/m（每單位長度的力），(C)(D)(E) 單位不對。\n鋁線圈周長 $2\\pi\\times2.5 \\approx 15.7\\text{ cm}$，鋁線的內、外兩側都與水面接觸，總接觸長度約 $2\\times0.157 = 0.314\\text{ m}$。\n不下沉時，表面張力的鉛直分量最大可達 $\\gamma\\times0.314$，至少要等於重量 $2.4\\times10^{-3}\\times9.8 \\approx 2.35\\times10^{-2}\\text{ N}$：\n$\\gamma \\ge \\dfrac{2.35\\times10^{-2}}{0.314} \\approx 7.5\\times10^{-2}\\text{ N/m}$\n這也與水的表面張力實際值（約 $7.3\\times10^{-2}$ N/m）相符。\n\n故選 (A)"
+  },
+  {
+    "id": "98-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "有一平行板電容器，內部抽成真空，其中一板帶正電，另一板帶等量的負電。已知當兩個電極板的間距為 1.2 cm 時，電容器內部電場的強度為 25 kV/m。若此電容器兩電極板間的電位差維持不變，但兩極板的間距變為 2.0 cm 時，則電容器內部電場的強度為下列哪一項？",
+    "options": [
+      "30 kV/m",
+      "24 kV/m",
+      "18 kV/m",
+      "15 kV/m",
+      "10 kV/m"
+    ],
+    "answerIndex": 3,
+    "explanation": "【均勻電場】\n$V = Ed$ 不變：$E' = \\dfrac{25\\times1.2}{2.0} = 15\\text{ kV/m}$\n\n故選 (D)"
+  },
+  {
+    "id": "98-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 6 所示，甲、乙、丙、丁四個方形線圈以相同水平速度 $v$ 分別進入垂直射出紙面的均勻磁場 $B$ 中，四個線圈的邊長如圖所示之尺寸，則在四個線圈剛進入磁場時，它們的感應電動勢的量值之關係為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-11.png\" alt=\"圖6 四個尺寸不同的矩形線圈與出紙面的磁場：甲 3L×L、乙 3L×2L、丙 2L×2L、丁 L×3L\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲 = 丁 < 丙 < 乙",
+      "甲 > 乙 > 丙 > 丁",
+      "丁 > 丙 > 乙 > 甲",
+      "甲 = 乙 > 丙 > 丁",
+      "丁 > 丙 = 乙 > 甲"
+    ],
+    "answerIndex": 4,
+    "explanation": "【動生電動勢 $\\varepsilon = B\\ell v$】\n剛進入磁場時，只有最前方那條「垂直於速度」的邊在切割磁力線，$\\ell$ 是線圈的鉛直邊長：\n甲 $L$、乙 $2L$、丙 $2L$、丁 $3L$。\n所以 丁 > 丙 = 乙 > 甲（水平邊長多長都無關）。\n\n故選 (E)"
+  },
+  {
+    "id": "98-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "一重為 $W = mg$ 的長方形物體（$g$ 為重力加速度），靜置於一以等速度 $v$、水平向右直線行駛的火車車箱內的地板上，火車質量為 $M$。當火車以等加速度 $a$ 向右加速時，若物體相對火車車箱而言，仍然維持在原地不動，忽略空氣阻力，則對地面上的觀察者而言，有關此時物體的受力及運動，下列敘述哪一項是正確的？",
+    "options": [
+      "物體未受力，故仍然可在原地不動",
+      "物體受一大小為 Ma、向左的摩擦力，以維持在原地不動",
+      "物體受一大小為 Ma、向右的摩擦力，以維持等加速度運動",
+      "物體受一大小為 ma、向左的摩擦力，以維持在原地不動",
+      "物體受一大小為 ma、向右的摩擦力，以維持等加速度運動"
+    ],
+    "answerIndex": 4,
+    "explanation": "【慣性參考系的觀點】\n地面觀察者（慣性系）看到物體隨火車一起以 $a$ 向右加速。水平方向只有地板的靜摩擦力，由 $F = ma$，摩擦力大小 $ma$、方向向右。\n物體相對地面並非「原地不動」，(A)(B)(D) 錯；所需的力與物體質量 $m$ 有關，與火車質量 $M$ 無關。\n\n故選 (E)"
+  },
+  {
+    "id": "98-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 7 所示，一質量為 $m$ 的棒球以速度 $v$ 水平飛向擊球手，擊球手揮棒擊球，使球以速度 $v$ 鉛垂向上飛出，設水平飛行方向為 $+x$，鉛垂向上飛出方向為 $+y$，則球所受到衝量的量值及方向為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-13.png\" alt=\"圖7 棒球沿 +x 飛來，被球棒擊後沿 +y 飛出\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$2mv$，向 $+y$ 方向",
+      "$mv$，與 $+x$ 方向成 $45^\\circ$",
+      "$mv$，與 $+x$ 方向成 $135^\\circ$",
+      "$\\sqrt2 mv$，與 $+x$ 方向成 $45^\\circ$",
+      "$\\sqrt2 mv$，與 $+x$ 方向成 $135^\\circ$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【衝量 = 動量變化】\n$\\vec J = \\vec p' - \\vec p = (0, mv) - (mv, 0) = (-mv, mv)$\n量值 $\\sqrt2 mv$，指向左上方，與 $+x$ 方向成 $135^\\circ$。\n\n故選 (E)"
+  },
+  {
+    "id": "98-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 8 所示，定量的理想氣體密封於一絕熱氣室內，氣室的右側裝有一可以活動的氣密活塞。今緩慢對活塞施以一水平力，使活塞向左移動一段距離後，氣室的體積減少，若忽略活塞與氣室內壁間的摩擦力，並以 P 表氣體壓力，T 表氣體溫度，U 表氣體內能，則 P、T、U 三者各自有何變化？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-14.png\" alt=\"圖8 絕熱氣室與受力 F 向左推的活塞\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "P 增加，T 增加，U 減少",
+      "P 減少，T 減少，U 增加",
+      "P 增加，U 增加，T 減少",
+      "T 減少，U 減少，P 增加",
+      "P 增加，T 增加，U 增加"
+    ],
+    "answerIndex": 4,
+    "explanation": "【絕熱壓縮】\n絕熱 $Q = 0$，外界對氣體作正功 $W$，由 $\\Delta U = Q + W > 0$，內能增加。理想氣體內能只與溫度有關，所以溫度上升。\n體積減少且溫度上升，由 $PV = nRT$，壓力增加。\n\n故選 (E)"
+  },
+  {
+    "id": "98-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 9 所示，長 5.0 m 的均勻細線，質量為 0.010 kg，一端繫於固定在桌上的起振器 P 點，另一端經光滑的定滑輪 Q，懸掛質量為 1.0 kg 的重物，PQ 間恰好是 4.0 m。調整起振器的振動頻率，直到 PQ 間產生三個清楚的駐波波節（不含 P、Q 兩節點）為止，若繩波的速率等於 $\\sqrt{\\dfrac{T}{\\mu}}$，其中 $T$ 及 $\\mu$ 分別為繩之張力及線密度，則當時起振器的振動頻率為若干？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-15.png\" alt=\"圖9 起振器 P 與滑輪 Q 相距 4.0 m，繩端懸掛重物\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "3 Hz",
+      "10 Hz",
+      "35 Hz",
+      "41 Hz",
+      "140 Hz"
+    ],
+    "answerIndex": 2,
+    "explanation": "【弦上駐波】\n線密度 $\\mu = \\dfrac{0.010}{5.0} = 2.0\\times10^{-3}\\text{ kg/m}$（用全長計算），張力 $T = 1.0\\times9.8 = 9.8\\text{ N}$。\n$v = \\sqrt{\\dfrac{9.8}{2.0\\times10^{-3}}} = \\sqrt{4900} = 70\\text{ m/s}$\nPQ 間有 3 個節點（不含兩端），共 4 個波段：$4\\times\\dfrac{\\lambda}{2} = 4.0 \\Rightarrow \\lambda = 2.0\\text{ m}$\n$f = \\dfrac{v}{\\lambda} = 35\\text{ Hz}$\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 10 所示，在一厚度為 $d$ 的門中，安置一長度與門厚相同的玻璃圓柱體，其半徑為 $r$。若玻璃圓柱體的折射率 $n = \\dfrac32$，且 $\\dfrac{d}{r} = \\dfrac43$，則從門外射入門內的光線中，可到達玻璃圓柱體右側中心點 P 的最大角 $\\theta$（如圖所示）的正弦值（$\\sin\\theta$）為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-16.png\" alt=\"圖10 門中的玻璃圓柱，光線從門外以角 θ 射入到達右側中心 P\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac45$",
+      "$\\dfrac56$",
+      "$\\dfrac{9}{10}$",
+      "$\\dfrac{8}{15}$",
+      "$\\dfrac{9}{15}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【折射】\n入射角愈大，玻璃內的折射角愈大。能到達 P 的光線中，折射角最大的是從左端面邊緣（離軸 $r$）進入、直達右端中心 P 的那條：\n$\\tan\\phi = \\dfrac{r}{d} = \\dfrac34 \\Rightarrow \\sin\\phi = \\dfrac35$\n$\\sin\\theta = n\\sin\\phi = \\dfrac32\\times\\dfrac35 = \\dfrac{9}{10}$\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "小明將 L、M、N 三種單色光在同一雙狹縫的裝置上作繞射實驗，在所有實驗條件相同狀況下，L、M、N 三種單色光分別在屏幕上獲得如圖 11 的甲、乙、丙三種干涉條紋，則下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-17.png\" alt=\"圖11 甲、乙、丙三組干涉條紋，間距依序變小\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "L 光的波長最短",
+      "M 光在水中傳播的速度最慢",
+      "N 光的頻率最低",
+      "三種單色光波長大小關係為 L 光 > M 光 > N 光",
+      "三種單色光的每個光子能量均相同"
+    ],
+    "answerIndex": 3,
+    "explanation": "【雙狹縫條紋間距】\n$\\Delta y = \\dfrac{L\\lambda}{d}$，條紋間距與波長成正比。由圖，間距 甲 > 乙 > 丙，所以波長 L > M > N，(D) 正確、(A) 錯。\nN 光波長最短、頻率最高，(C) 錯；光子能量 $hf$ 各不相同，(E) 錯。一般而言頻率愈高在水中折射率愈大、速度愈慢，最慢的應是 N 光，(B) 錯。\n\n故選 (D)"
+  },
+  {
+    "id": "98-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 18-19 題為題組】下表為一些金屬的功函數。今用波長為 400 nm 的單色光分別照射各金屬片，從事光電效應的實驗。\n• 鈉：2.25 eV\n• 鎂：3.68 eV\n• 銅：4.70 eV\n\n18. 下列敘述哪一項正確？",
+    "options": [
+      "鈉、鎂、銅都會產生光電子",
+      "只有鈉、鎂會產生光電子",
+      "只有鈉、銅會產生光電子",
+      "只有鎂、銅會產生光電子",
+      "只有鈉會產生光電子"
+    ],
+    "answerIndex": 4,
+    "explanation": "【光電效應的條件】\n光子能量 $E = \\dfrac{hc}{\\lambda} \\approx \\dfrac{1240\\text{ eV}\\cdot\\text{nm}}{400\\text{ nm}} = 3.1\\text{ eV}$。\n只有功函數小於 3.1 eV 的鈉（2.25 eV）能產生光電子；鎂 3.68 eV、銅 4.70 eV 都不行。\n\n故選 (E)"
+  },
+  {
+    "id": "98-ast-phy-19",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 18-19 題為題組】下表為一些金屬的功函數。今用波長為 400 nm 的單色光分別照射各金屬片，從事光電效應的實驗。\n• 鈉：2.25 eV\n• 鎂：3.68 eV\n• 銅：4.70 eV\n\n19. 若入射光照射到上表中某金屬片時的功率為 0.5 W，且產生的光電子都可全部收集，而獲得 3.2 mA 的光電流，則約有多少百分比的入射光產生了光電子？",
+    "options": [
+      "50%",
+      "25%",
+      "10%",
+      "5%",
+      "2%"
+    ],
+    "answerIndex": 4,
+    "explanation": "【光子數與電子數】\n每秒入射光子數 $= \\dfrac{0.5}{3.1\\times1.6\\times10^{-19}} \\approx 1.0\\times10^{18}$\n每秒光電子數 $= \\dfrac{3.2\\times10^{-3}}{1.6\\times10^{-19}} = 2.0\\times10^{16}$\n比例 $\\approx \\dfrac{2.0\\times10^{16}}{1.0\\times10^{18}} = 2\\%$\n\n故選 (E)"
+  },
+  {
+    "id": "98-ast-phy-20",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "points": 3,
+    "question": "設人造衛星以半徑 $r$ 繞地心作圓軌道運動，令地球的質量為 $M$，萬有引力常數為 $G$，則人造衛星與地心的連線，在單位時間內所掃過的面積為下列哪一項？",
+    "options": [
+      "$\\sqrt{\\dfrac14 GMr}$",
+      "$\\sqrt{\\dfrac12 GMr}$",
+      "$\\sqrt{GMr}$",
+      "$\\sqrt{2GMr}$",
+      "$\\sqrt{4GMr}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【面積速率】\n圓軌道速率 $v = \\sqrt{\\dfrac{GM}{r}}$。單位時間掃過的面積（扇形）$= \\dfrac12 rv = \\dfrac12 r\\sqrt{\\dfrac{GM}{r}} = \\dfrac12\\sqrt{GMr} = \\sqrt{\\dfrac14 GMr}$。\n\n故選 (A)"
+  },
+  {
+    "id": "98-ast-phy-21",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 12 所示，以輕繩繫住的小球，繞一水平軸在一鉛垂面作順時針、半徑固定的圓周運動，O 點為其圓心。相對 O 點而言，若忽略空氣阻力，則有關小球的角動量和小球所受的力矩的敘述，下列哪些項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-21.png\" alt=\"圖12 鉛垂面上順時針的圓周運動，P 與 O 等高，S 為最低點\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "繩上的張力不影響小球的角動量",
+      "小球角動量的方向是垂直射出紙面",
+      "小球角動量在 S 點時比在 P 點時為小",
+      "小球所受的重力力矩，在 P 點時比在 Q 點時為大",
+      "小球角動量隨時間的改變率，在 S 點時比在 Q 點時為大"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "【角動量與力矩】\n• (A) 正確：張力沿半徑通過 O，力矩為零。\n• (B) 錯誤：順時針轉動，由右手定則角動量垂直「射入」紙面。\n• (C) 錯誤：$L = mvR$，最低點 S 速率最大，角動量最大。\n• (D) 正確：重力力矩 $= mg\\times$（到 O 的水平距離），P 與 O 等高，水平距離為 $R$ 最大；Q 較小。\n• (E) 錯誤：角動量變化率等於力矩，S 在 O 正下方，重力力矩為零，比 Q 小。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "98-ast-phy-22",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 13 所示，有四條垂直紙面且互相平行的長直導線，它們與紙面的交點分別為 P、Q、N 及 S，緊鄰兩條導線的間距為 $2a$，圖中正方形中心 O 點為參考坐標 $x$-$y$ 的原點，都在紙面上，M 為 PS 連線的中點。已知四條長直導線上的電流大小都為 $I$，電流的方向也都是射出紙面，則下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-22.png\" alt=\"圖13 正方形四角 P、S（上）、Q、N（下）的四條電流，中心 O，M 為 PS 中點\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "O 點的磁場等於零",
+      "M 點的磁場指向 +x 方向",
+      "M 點的磁場的大小等於 $\\dfrac54\\left(\\dfrac{\\mu_0 I}{2\\pi a}\\right)$",
+      "與紙面交點為 S 的導線所受到磁作用力的方向為由 O 指向 S",
+      "在紙面上距離 O 點為 $r$（$r \\gg a$）的任一點，其磁場的大小約為 $\\dfrac{2\\mu_0 I}{\\pi r}$"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "【長直導線磁場的疊加】\n• (A) 正確：四導線到 O 等距、電流相同，對稱位置的磁場兩兩抵消。\n• (B)(C) 錯誤：M 是 P、S 的中點，P、S 在 M 的磁場抵消。Q、N 到 M 的距離都是 $\\sqrt{a^2 + (2a)^2} = \\sqrt5 a$，各產生 $\\dfrac{\\mu_0 I}{2\\pi\\sqrt5 a}$；兩者的 $y$ 分量抵消，$x$ 分量相加且指向 $-x$。合磁場 $= 2\\times\\dfrac{\\mu_0 I}{2\\pi\\sqrt5 a}\\times\\dfrac{2}{\\sqrt5} = \\dfrac45\\left(\\dfrac{\\mu_0 I}{2\\pi a}\\right)$，方向 $-x$。\n• (D) 錯誤：同向電流互相吸引，S 受 P、N、Q 的吸引力合力指向 O，即「由 S 指向 O」。\n• (E) 正確：遠處看四條導線相當於一條載 $4I$ 的導線：$B = \\dfrac{\\mu_0(4I)}{2\\pi r} = \\dfrac{2\\mu_0 I}{\\pi r}$。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "98-ast-phy-23",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "動能為 $E$ 的 $\\alpha$ 粒子（$Z = 2$，$A = 4$）由無限遠處，向固定不動的金原子核（$Z = 79$，$A = 196$）作正面彈性碰撞，設 $r$ 為碰撞過程中，$\\alpha$ 粒子與金原子核的距離，$k$ 為庫侖常數，$e$ 為基本電荷的電量，並取 $r = \\infty$ 時的電位能為零，若忽略重力，則下列敘述哪些項正確？",
+    "options": [
+      "$\\alpha$ 粒子在碰撞過程中，在 $r$ 處受到 $\\dfrac{158ke^2}{r^2}$ 的排斥力",
+      "$\\alpha$ 粒子在碰撞過程中，在 $r$ 處的電位能為 $\\dfrac{158ke^2}{r^2}$",
+      "$\\alpha$ 粒子在碰撞後，其運動方向與原入射方向相反",
+      "$\\alpha$ 粒子在碰撞過程中的最小動能為 $\\dfrac12 E$",
+      "$\\alpha$ 粒子在碰撞過程中的最小距離為 $\\dfrac{158ke^2}{E}$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【庫侖力與電位能】\n• (A) 正確：$F = \\dfrac{k(2e)(79e)}{r^2} = \\dfrac{158ke^2}{r^2}$，同性相斥。\n• (B) 錯誤：電位能為 $\\dfrac{158ke^2}{r}$，與 $r$ 的一次方成反比。\n• (C) 正確：正面碰撞固定的原子核，速度減為零後被彈回，反向運動。\n• (D) 錯誤：最接近時速度為零，最小動能為零。\n• (E) 正確：動能全部轉成電位能時最接近：$E = \\dfrac{158ke^2}{r_{min}} \\Rightarrow r_{min} = \\dfrac{158ke^2}{E}$。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "98-ast-phy-24",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 14 所示，在一斜角為 $\\theta$、固定於水平地面的斜面上 L 處，有一質量為 $m$ 的物體以 $v$ 的初速度上滑，物體與斜面間的靜摩擦係數為 $\\mu_s$，動摩擦係數為 $\\mu_k$，物體可達到的最高點 H 的垂直高度為 $h$。設重力加速度為 $g$，並忽略空氣阻力，則下列敘述哪些項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-24.png\" alt=\"圖14 物體自斜面 L 處以 v 上滑到最高點 H，H 比 L 高 h\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$h = \\dfrac{v^2}{2g}$",
+      "$h = \\dfrac{v^2}{2g(\\sin\\theta + \\mu_k\\cos\\theta)}$",
+      "L 至 H 的長度為 $\\dfrac{v^2}{2g(\\sin\\theta + \\mu_k\\cos\\theta)}$",
+      "若 $\\mu_s > \\tan\\theta$，物體在 H 處的加速度為零",
+      "當物體到達 H 處即將下滑的瞬間，物體的加速度為 $g(\\sin\\theta - \\mu_s\\cos\\theta)$"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "【斜面上的摩擦】\n上滑時減速度 $a = g(\\sin\\theta + \\mu_k\\cos\\theta)$，沿斜面滑行距離 $s = \\dfrac{v^2}{2a} = \\dfrac{v^2}{2g(\\sin\\theta + \\mu_k\\cos\\theta)}$，(C) 正確。\n• (A)(B) 錯誤：$h = s\\sin\\theta = \\dfrac{v^2\\sin\\theta}{2g(\\sin\\theta + \\mu_k\\cos\\theta)}$；有摩擦，也不等於 $\\dfrac{v^2}{2g}$。\n• (D) 正確：$\\mu_s > \\tan\\theta$ 時最大靜摩擦力 $\\mu_s mg\\cos\\theta > mg\\sin\\theta$，物體停在 H 靜止，加速度為零。\n• (E) 正確（依大考中心答案）：在 H 點速度為零的瞬間，物體與斜面無相對滑動，摩擦力為靜摩擦，且達最大值 $\\mu_s mg\\cos\\theta$，所以 $a = g(\\sin\\theta - \\mu_s\\cos\\theta)$（開始滑動後才變為動摩擦）。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "98-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】如圖 15 所示，有一半徑為 $R$、重為 $W$、材質均勻的光滑輪子，與高 $h$ 的階梯接觸，靜置於水平地面上。今在輪子中心處施一水平力 $F$，使其爬上階梯，若輪子不變形，回答下列問題。\n\n1. 輪子在受到一水平力 $F$，但尚未脫離地面，呈靜態平衡時，輪子受到哪些力？列舉並繪出其力圖。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-non-1.png\" alt=\"圖15 輪子中心受水平力 F，右側抵住高 h 的階梯\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "四個力：水平力 $F$（作用於中心，向右）、重力 $W$（向下）、地面正向力 $N_1$（向上）、階梯邊緣的正向力 $N_2$（由接觸點沿半徑指向圓心，即向左上方）。（若考慮摩擦力，另有地面與階梯對輪子的靜摩擦力。）"
+    ],
+    "blankLabels": [
+      "受力"
+    ],
+    "explanation": "輪子是光滑的，接觸點只有正向力：地面對輪子 $N_1$ 鉛直向上；階梯邊角對輪子 $N_2$ 垂直於輪緣，也就是沿著接觸點指向圓心的方向（斜向左上）。再加上外力 $F$ 與重力 $W$。畫力圖時要注意 $N_2$ 必須指向圓心。"
+  },
+  {
+    "id": "98-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】如圖 15 所示，有一半徑為 $R$、重為 $W$、材質均勻的光滑輪子，與高 $h$ 的階梯接觸，靜置於水平地面上。今在輪子中心處施一水平力 $F$，使其爬上階梯，若輪子不變形，回答下列問題。\n\n2. 承上題，列出輪子所受垂直與水平分力的方程式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-non-1.png\" alt=\"圖15 輪子中心受水平力 F，右側抵住高 h 的階梯\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "垂直：$W = N_1 + N_2\\dfrac{R-h}{R}$；水平：$F = N_2\\dfrac{\\sqrt{2Rh - h^2}}{R}$"
+    ],
+    "blankLabels": [
+      "分力方程式"
+    ],
+    "explanation": "接觸點到圓心的連線與水平的夾角 $\\theta$：鉛直高差 $R - h$，水平距離 $\\sqrt{R^2 - (R-h)^2} = \\sqrt{2Rh - h^2}$。\n$\\sin\\theta = \\dfrac{R-h}{R}$，$\\cos\\theta = \\dfrac{\\sqrt{2Rh-h^2}}{R}$。\n垂直：$W - N_2\\sin\\theta - N_1 = 0$；水平：$F - N_2\\cos\\theta = 0$。"
+  },
+  {
+    "id": "98-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】如圖 15 所示，有一半徑為 $R$、重為 $W$、材質均勻的光滑輪子，與高 $h$ 的階梯接觸，靜置於水平地面上。今在輪子中心處施一水平力 $F$，使其爬上階梯，若輪子不變形，回答下列問題。\n\n3. 以輪子與階梯的接觸點為參考點，列出力矩方程式，求在輪子中心處最少需施力多少才能使輪子脫離地面？（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-non-1.png\" alt=\"圖15 輪子中心受水平力 F，右側抵住高 h 的階梯\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$F_{min} = \\dfrac{W\\sqrt{2Rh - h^2}}{R - h}$"
+    ],
+    "blankLabels": [
+      "最小施力"
+    ],
+    "explanation": "以階梯接觸點為支點，$N_2$ 力矩為零。\n• $F$ 的力臂：中心到接觸點的鉛直距離 $R - h$。\n• $W$ 的力臂：水平距離 $\\sqrt{2Rh - h^2}$。\n• $N_1$ 的力臂：同為 $\\sqrt{2Rh-h^2}$。\n$F(R-h) + N_1\\sqrt{2Rh-h^2} = W\\sqrt{2Rh-h^2}$\n剛好脫離地面時 $N_1 = 0$：$F = \\dfrac{W\\sqrt{2Rh-h^2}}{R-h}$。"
+  },
+  {
+    "id": "98-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】某生欲以安培計 A（其電阻為 $R_A$）、伏特計 V（其電阻為 $R_V$）及可調變的直流電源供應器 E，來驗証歐姆定律並測量電阻器 R 的電阻，已知電阻器 R 的電阻約略為數歐姆的低電阻。忽略接線的電阻與電源供應器的內電阻，回答下列各問題。\n\n1. 分析比較圖 16 中的甲、乙兩種電路圖所能求出的電阻器 R 的電阻，並說明何者較能準確測量此電阻器的電阻。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-non-2.png\" alt=\"圖16 甲電路（安培計與 R 串聯後再並聯伏特計）與乙電路（伏特計直接並聯 R，安培計在幹路）\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "甲電路：$R_m = \\dfrac{V}{I} = R + R_A$；乙電路：$R_m = \\dfrac{V}{I} = \\dfrac{R}{1 + R/R_V}$。R 為數歐姆的低電阻，與 $R_A$ 相近而遠小於 $R_V$，所以乙電路（$R_m \\approx R$）較準確。"
+    ],
+    "blankLabels": [
+      "比較與結論"
+    ],
+    "explanation": "• 甲：伏特計量到的是 R 與安培計串聯的總電壓，電流正確，$R_m = R + R_A$，偏大。\n• 乙：伏特計量的是 R 兩端電壓，但安培計量到的是 R 與伏特計的總電流 $I_R + I_V$，$R_m = \\dfrac{R R_V}{R + R_V}$，略小。\n低電阻時 $R_A$ 不可忽略（甲誤差大），而 $R_V \\gg R$（乙誤差小），所以用乙電路（安培計外接）。"
+  },
+  {
+    "id": "98-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】某生欲以安培計 A（其電阻為 $R_A$）、伏特計 V（其電阻為 $R_V$）及可調變的直流電源供應器 E，來驗証歐姆定律並測量電阻器 R 的電阻，已知電阻器 R 的電阻約略為數歐姆的低電阻。忽略接線的電阻與電源供應器的內電阻，回答下列各問題。\n\n2. 測量時，需要讀取那兩個儀器的數據？此數據所形成的數據組要有何種關係方能驗証歐姆定律？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-non-2.png\" alt=\"圖16 甲電路（安培計與 R 串聯後再並聯伏特計）與乙電路（伏特計直接並聯 R，安培計在幹路）\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "讀取伏特計的電壓值與安培計的電流值；調整電源得到多組數據，電壓與電流應呈線性（正比）關係，即可驗證歐姆定律。"
+    ],
+    "blankLabels": [
+      "讀數與關係"
+    ],
+    "explanation": "改變電源供應器的輸出，記錄多組 $(I, V)$。若 $V$ 與 $I$ 成正比（$V$–$I$ 圖為通過原點的直線），比值固定，就驗證了歐姆定律。"
+  },
+  {
+    "id": "98-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】某生欲以安培計 A（其電阻為 $R_A$）、伏特計 V（其電阻為 $R_V$）及可調變的直流電源供應器 E，來驗証歐姆定律並測量電阻器 R 的電阻，已知電阻器 R 的電阻約略為數歐姆的低電阻。忽略接線的電阻與電源供應器的內電阻，回答下列各問題。\n\n3. 如何分析上述的數據組來獲知此電阻器的電阻？並說明此實驗值與電阻器的實際電阻，它們兩者間大小的關係。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-phy-non-2.png\" alt=\"圖16 甲電路（安培計與 R 串聯後再並聯伏特計）與乙電路（伏特計直接並聯 R，安培計在幹路）\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "作 $V$–$I$ 圖，直線的斜率即為電阻的實驗值。以乙電路測量時，實驗值 $\\dfrac{R}{1 + R/R_V}$ 略小於實際電阻 $R$（甲電路則為 $R + R_A$，大於實際值）。"
+    ],
+    "blankLabels": [
+      "分析方法與大小關係"
+    ],
+    "explanation": "用多組數據畫 $V$–$I$ 圖，取最佳直線的斜率 $\\dfrac{\\Delta V}{\\Delta I}$ 作為電阻，比單點計算可靠。採用乙電路時，安培計讀數包含流過伏特計的電流，使 $\\dfrac{V}{I}$ 偏小：實驗值 $< R$，但因 $R_V \\gg R$，差距很小。"
   }
 ]
