@@ -61406,5 +61406,821 @@
     ],
     "answerIndex": 3,
     "explanation": "rolling stock 指鐵路車輛，onrushing 是疾駛而來的，unforgiving 是無情的；整句指數噸重、高速衝來的列車對鹿的致命危險。\n\n故選 (D)"
+  },
+  {
+    "id": "108-gsat-eng-01",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. Bobby cared a lot about his ______ at home and asked his parents not to go through his things without his permission.",
+    "options": [
+      "discipline",
+      "facility",
+      "privacy",
+      "representation"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：Bobby 很在意他在家的隱私，要求父母未經允許不要翻他的東西。\n• (A) discipline 紀律　(B) facility 設施　(C) privacy 隱私　(D) representation 代表\n\n故選 (C)"
+  },
+  {
+    "id": "108-gsat-eng-02",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. The new manager is a real gentleman. He is kind and humble, totally different from the former manager, who was ______ and bossy.",
+    "options": [
+      "eager",
+      "liberal",
+      "mean",
+      "inferior"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：新經理是真正的紳士，親切又謙虛，和以前那個刻薄又專橫的經理完全不同。\n• (A) eager 渴望的　(B) liberal 開明的　(C) mean 刻薄的　(D) inferior 較差的\n與 kind 相反，用 mean。\n\n故選 (C)"
+  },
+  {
+    "id": "108-gsat-eng-03",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. The weather bureau ______ that the typhoon would bring strong winds and heavy rains, and warned everyone of the possible danger.",
+    "options": [
+      "conveyed",
+      "associated",
+      "interpreted",
+      "predicted"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：氣象局預測颱風會帶來強風豪雨，並警告大家可能的危險。\n• (A) convey 傳達　(B) associate 聯想　(C) interpret 詮釋　(D) predict 預測\n\n故選 (D)"
+  },
+  {
+    "id": "108-gsat-eng-04",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. Different airlines have different ______ for carry-on luggage, but many international airlines limit a carry-on piece to 7 kilograms.",
+    "options": [
+      "landmarks",
+      "restrictions",
+      "percentages",
+      "circumstances"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：不同航空公司對手提行李有不同的限制，但許多國際航空限制每件 7 公斤。\n與後文 limit 呼應，用 restrictions。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-05",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. Many people were happy that the government had finally ______ Children's Day as a national holiday.",
+    "options": [
+      "appointed",
+      "declared",
+      "performed",
+      "involved"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：許多人很高興政府終於宣布兒童節為國定假日。\ndeclare A as B「宣布 A 為 B」。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-06",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. To reach the goal of making her company a market leader, Michelle ______ a plan to open ten new stores around the country this year.",
+    "options": [
+      "advised",
+      "occupied",
+      "proposed",
+      "recognized"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：為了讓公司成為市場龍頭，Michelle 提出今年在全國開十家新店的計畫。\npropose a plan「提出計畫」。\n\n故選 (C)"
+  },
+  {
+    "id": "108-gsat-eng-07",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. Silence in some way is as ______ as speech. It can be used to show, for example, disagreement or lack of interest.",
+    "options": [
+      "sociable",
+      "expressive",
+      "reasonable",
+      "objective"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：沉默在某方面和說話一樣能表達意思，例如可以表示不同意或沒興趣。\n• (A) sociable 好交際的　(B) expressive 富表現力的　(C) reasonable 合理的　(D) objective 客觀的\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-08",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. This TV program is designed for children, ______ for those under five. It contains no violence or strong language.",
+    "options": [
+      "particularly",
+      "sensibly",
+      "moderately",
+      "considerably"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：這個電視節目是為兒童設計的，特別是五歲以下的孩子，沒有暴力或粗話。\n• (A) particularly 特別地　(B) sensibly 明智地　(C) moderately 適度地　(D) considerably 相當地\n\n故選 (A)"
+  },
+  {
+    "id": "108-gsat-eng-09",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. Tommy, please put away the toys in the box, or you might ______ on them and hurt yourself.",
+    "options": [
+      "stumble",
+      "graze",
+      "navigate",
+      "dwell"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：Tommy，把玩具收進盒子裡，不然你可能會被絆倒而受傷。\nstumble on…「被…絆倒」。\n\n故選 (A)"
+  },
+  {
+    "id": "108-gsat-eng-10",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. The ______ costume party, held every September, is one of the biggest events of the school year.",
+    "options": [
+      "initial",
+      "annual",
+      "evident",
+      "occasional"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：每年九月舉辦的年度變裝派對是學年中最大的活動之一。\n與 held every September 呼應，用 annual。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-11",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "11. In a job interview, attitude and personality are usually important ______ that influence the decision of the interviewers.",
+    "options": [
+      "factors",
+      "outcomes",
+      "missions",
+      "identities"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：工作面試時，態度和個性通常是影響面試官決定的重要因素。\n• (A) factor 因素　(B) outcome 結果　(C) mission 任務　(D) identity 身分\n\n故選 (A)"
+  },
+  {
+    "id": "108-gsat-eng-12",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "12. The snow-capped mountain is described so ______ in the book that the scene seems to come alive in front of the reader's eyes.",
+    "options": [
+      "distantly",
+      "meaningfully",
+      "cheerfully",
+      "vividly"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：書中把白雪覆頂的山描寫得如此生動，彷彿景象活生生地出現在讀者眼前。\n• (D) vividly 生動地\n\n故選 (D)"
+  },
+  {
+    "id": "108-gsat-eng-13",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "13. Surrounded by flowers blooming and birds ______ merrily, the Wangs had a good time hiking in the national park.",
+    "options": [
+      "napping",
+      "scooping",
+      "flipping",
+      "chirping"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：在花開鳥鳴的環境中，王家人在國家公園健行得很愉快。\n• (A) nap 小睡　(B) scoop 舀　(C) flip 翻轉　(D) chirp（鳥）啁啾\n\n故選 (D)"
+  },
+  {
+    "id": "108-gsat-eng-14",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "14. It is essential for us to maintain constant ______ with our friends to ensure that we have someone to talk to in times of need.",
+    "options": [
+      "benefit",
+      "contact",
+      "gesture",
+      "favor"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：我們必須和朋友保持聯繫，確保需要時有人可以傾訴。\nmaintain contact with…「與…保持聯繫」。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-15",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "15. The young generation in this country has shown less interest in factory work and other ______ labor jobs, such as house construction and fruit picking.",
+    "options": [
+      "causal",
+      "durable",
+      "manual",
+      "violent"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：這個國家的年輕世代對工廠工作和其他勞力工作（如蓋房子、採水果）較沒興趣。\nmanual labor「體力勞動」。\n\n故選 (C)"
+  },
+  {
+    "id": "108-gsat-eng-16",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nApril Fools' Day, one of the most light-hearted days of the year, has an unclear origin. Some see it as a celebration related to the turn of the seasons from winter to spring; others, however, believe that it 【 16 】 the adoption of a new calendar.\n\nAncient cultures celebrated New Year's Day on or around April 1, which roughly coincides with the beginning of spring. In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year's Day to be celebrated on January 1. However, many people, either refusing to accept the new date or not having heard about it, 【 17 】 to celebrate New Year's Day on April 1. Other people began to make fun of these traditionalists, sending them on \"fool's errands\" or trying to fool them into believing something false. 【 18 】, the practice spread throughout Europe and the rest of the world.\n\nNowadays, on April Fools' Day, people often 【 19 】 to create elaborate hoaxes to fool others. Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 【 20 】 reports in order to fool their audiences. The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees. Guess what? Numerous viewers were fooled.\n16.",
+    "options": [
+      "leads to",
+      "brings out",
+      "stems from",
+      "comes across"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：有人認為愚人節「源自」新曆法的採用；下一段說明改曆的經過。stem from「起源於」。\n\n故選 (C)"
+  },
+  {
+    "id": "108-gsat-eng-17",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nApril Fools' Day, one of the most light-hearted days of the year, has an unclear origin. Some see it as a celebration related to the turn of the seasons from winter to spring; others, however, believe that it 【 16 】 the adoption of a new calendar.\n\nAncient cultures celebrated New Year's Day on or around April 1, which roughly coincides with the beginning of spring. In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year's Day to be celebrated on January 1. However, many people, either refusing to accept the new date or not having heard about it, 【 17 】 to celebrate New Year's Day on April 1. Other people began to make fun of these traditionalists, sending them on \"fool's errands\" or trying to fool them into believing something false. 【 18 】, the practice spread throughout Europe and the rest of the world.\n\nNowadays, on April Fools' Day, people often 【 19 】 to create elaborate hoaxes to fool others. Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 【 20 】 reports in order to fool their audiences. The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees. Guess what? Numerous viewers were fooled.\n17.",
+    "options": [
+      "continue",
+      "continuing",
+      "to continue",
+      "continued"
+    ],
+    "answerIndex": 3,
+    "explanation": "主詞 many people 之後是插入的分詞片語，本句缺主要動詞；描述 1582 年的事，用過去式 continued。\n\n故選 (D)"
+  },
+  {
+    "id": "108-gsat-eng-18",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nApril Fools' Day, one of the most light-hearted days of the year, has an unclear origin. Some see it as a celebration related to the turn of the seasons from winter to spring; others, however, believe that it 【 16 】 the adoption of a new calendar.\n\nAncient cultures celebrated New Year's Day on or around April 1, which roughly coincides with the beginning of spring. In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year's Day to be celebrated on January 1. However, many people, either refusing to accept the new date or not having heard about it, 【 17 】 to celebrate New Year's Day on April 1. Other people began to make fun of these traditionalists, sending them on \"fool's errands\" or trying to fool them into believing something false. 【 18 】, the practice spread throughout Europe and the rest of the world.\n\nNowadays, on April Fools' Day, people often 【 19 】 to create elaborate hoaxes to fool others. Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 【 20 】 reports in order to fool their audiences. The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees. Guess what? Numerous viewers were fooled.\n18.",
+    "options": [
+      "Precisely",
+      "Eventually",
+      "Additionally",
+      "Literally"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：有人開始捉弄這些守舊者，「最後」這種習俗傳遍歐洲和全世界。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-19",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nApril Fools' Day, one of the most light-hearted days of the year, has an unclear origin. Some see it as a celebration related to the turn of the seasons from winter to spring; others, however, believe that it 【 16 】 the adoption of a new calendar.\n\nAncient cultures celebrated New Year's Day on or around April 1, which roughly coincides with the beginning of spring. In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year's Day to be celebrated on January 1. However, many people, either refusing to accept the new date or not having heard about it, 【 17 】 to celebrate New Year's Day on April 1. Other people began to make fun of these traditionalists, sending them on \"fool's errands\" or trying to fool them into believing something false. 【 18 】, the practice spread throughout Europe and the rest of the world.\n\nNowadays, on April Fools' Day, people often 【 19 】 to create elaborate hoaxes to fool others. Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 【 20 】 reports in order to fool their audiences. The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees. Guess what? Numerous viewers were fooled.\n19.",
+    "options": [
+      "come to an end",
+      "go to great lengths",
+      "put in service",
+      "hold in store"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：如今愚人節時，人們常「不遺餘力」地設計精巧的騙局。go to great lengths to V「竭盡全力去…」。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-20",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nApril Fools' Day, one of the most light-hearted days of the year, has an unclear origin. Some see it as a celebration related to the turn of the seasons from winter to spring; others, however, believe that it 【 16 】 the adoption of a new calendar.\n\nAncient cultures celebrated New Year's Day on or around April 1, which roughly coincides with the beginning of spring. In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year's Day to be celebrated on January 1. However, many people, either refusing to accept the new date or not having heard about it, 【 17 】 to celebrate New Year's Day on April 1. Other people began to make fun of these traditionalists, sending them on \"fool's errands\" or trying to fool them into believing something false. 【 18 】, the practice spread throughout Europe and the rest of the world.\n\nNowadays, on April Fools' Day, people often 【 19 】 to create elaborate hoaxes to fool others. Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 【 20 】 reports in order to fool their audiences. The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees. Guess what? Numerous viewers were fooled.\n20.",
+    "options": [
+      "fictional",
+      "essential",
+      "ancient",
+      "subjective"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：媒體在 4 月 1 日製作「虛構的」報導來愚弄觀眾，例如 BBC 的義大利麵樹。\n\n故選 (A)"
+  },
+  {
+    "id": "108-gsat-eng-21",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThe pineapple, a delicious tropical fruit, has been valued for centuries not only for its distinct and unique taste, but also for its miraculous health and medical benefits. But pineapples can also be a fashionable fruit: Pineapple leaves can 【 21 】 a substitute for leather.\n\nThe idea was developed when a Spanish designer travelling to the Philippines observed a traditional Filipino shirt 【 22 】 together with the fibers of pineapple leaves. After five years of research, she created from pineapple leaves a material which, like real leather, can be used for making bags, shoes, and 【 23 】 textile products. It is an eco-friendly and biodegradable fiber.\n\nThis eco-friendly leather has clear 【 24 】 for the environment, compared to real leather and synthetic leathers. It requires fewer chemicals, making it safer for the workers in factories. Its manufacture also leaves a smaller carbon footprint. In addition, the leftover material following the removal of fibers can even be used as a natural fertilizer back in the pineapple fields.\n\n【 25 】 its low cost, this innovative material is already being used by many leading fashion companies to make their products.\n21.",
+    "options": [
+      "bring along",
+      "turn out",
+      "account for",
+      "serve as"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：鳳梨葉可以「作為」皮革的替代品。serve as「充當」。\n\n故選 (D)"
+  },
+  {
+    "id": "108-gsat-eng-22",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThe pineapple, a delicious tropical fruit, has been valued for centuries not only for its distinct and unique taste, but also for its miraculous health and medical benefits. But pineapples can also be a fashionable fruit: Pineapple leaves can 【 21 】 a substitute for leather.\n\nThe idea was developed when a Spanish designer travelling to the Philippines observed a traditional Filipino shirt 【 22 】 together with the fibers of pineapple leaves. After five years of research, she created from pineapple leaves a material which, like real leather, can be used for making bags, shoes, and 【 23 】 textile products. It is an eco-friendly and biodegradable fiber.\n\nThis eco-friendly leather has clear 【 24 】 for the environment, compared to real leather and synthetic leathers. It requires fewer chemicals, making it safer for the workers in factories. Its manufacture also leaves a smaller carbon footprint. In addition, the leftover material following the removal of fibers can even be used as a natural fertilizer back in the pineapple fields.\n\n【 25 】 its low cost, this innovative material is already being used by many leading fashion companies to make their products.\n22.",
+    "options": [
+      "wove",
+      "weaving",
+      "woven",
+      "to weave"
+    ],
+    "answerIndex": 2,
+    "explanation": "observe + O + 補語：襯衫是「被編織」的，用過去分詞 woven（weave-wove-woven）。\n\n故選 (C)"
+  },
+  {
+    "id": "108-gsat-eng-23",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThe pineapple, a delicious tropical fruit, has been valued for centuries not only for its distinct and unique taste, but also for its miraculous health and medical benefits. But pineapples can also be a fashionable fruit: Pineapple leaves can 【 21 】 a substitute for leather.\n\nThe idea was developed when a Spanish designer travelling to the Philippines observed a traditional Filipino shirt 【 22 】 together with the fibers of pineapple leaves. After five years of research, she created from pineapple leaves a material which, like real leather, can be used for making bags, shoes, and 【 23 】 textile products. It is an eco-friendly and biodegradable fiber.\n\nThis eco-friendly leather has clear 【 24 】 for the environment, compared to real leather and synthetic leathers. It requires fewer chemicals, making it safer for the workers in factories. Its manufacture also leaves a smaller carbon footprint. In addition, the leftover material following the removal of fibers can even be used as a natural fertilizer back in the pineapple fields.\n\n【 25 】 its low cost, this innovative material is already being used by many leading fashion companies to make their products.\n23.",
+    "options": [
+      "else",
+      "those",
+      "other",
+      "such"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：可用來做包、鞋和「其他」紡織品。other + 複數名詞。else 只放在不定代名詞或疑問詞後。\n\n故選 (C)"
+  },
+  {
+    "id": "108-gsat-eng-24",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThe pineapple, a delicious tropical fruit, has been valued for centuries not only for its distinct and unique taste, but also for its miraculous health and medical benefits. But pineapples can also be a fashionable fruit: Pineapple leaves can 【 21 】 a substitute for leather.\n\nThe idea was developed when a Spanish designer travelling to the Philippines observed a traditional Filipino shirt 【 22 】 together with the fibers of pineapple leaves. After five years of research, she created from pineapple leaves a material which, like real leather, can be used for making bags, shoes, and 【 23 】 textile products. It is an eco-friendly and biodegradable fiber.\n\nThis eco-friendly leather has clear 【 24 】 for the environment, compared to real leather and synthetic leathers. It requires fewer chemicals, making it safer for the workers in factories. Its manufacture also leaves a smaller carbon footprint. In addition, the leftover material following the removal of fibers can even be used as a natural fertilizer back in the pineapple fields.\n\n【 25 】 its low cost, this innovative material is already being used by many leading fashion companies to make their products.\n24.",
+    "options": [
+      "advantages",
+      "considerations",
+      "opportunities",
+      "responsibilities"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：這種環保皮革對環境有明顯的「優點」：化學物質較少、碳足跡較小、剩料可當肥料。\n\n故選 (A)"
+  },
+  {
+    "id": "108-gsat-eng-25",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThe pineapple, a delicious tropical fruit, has been valued for centuries not only for its distinct and unique taste, but also for its miraculous health and medical benefits. But pineapples can also be a fashionable fruit: Pineapple leaves can 【 21 】 a substitute for leather.\n\nThe idea was developed when a Spanish designer travelling to the Philippines observed a traditional Filipino shirt 【 22 】 together with the fibers of pineapple leaves. After five years of research, she created from pineapple leaves a material which, like real leather, can be used for making bags, shoes, and 【 23 】 textile products. It is an eco-friendly and biodegradable fiber.\n\nThis eco-friendly leather has clear 【 24 】 for the environment, compared to real leather and synthetic leathers. It requires fewer chemicals, making it safer for the workers in factories. Its manufacture also leaves a smaller carbon footprint. In addition, the leftover material following the removal of fibers can even be used as a natural fertilizer back in the pineapple fields.\n\n【 25 】 its low cost, this innovative material is already being used by many leading fashion companies to make their products.\n25.",
+    "options": [
+      "Due to",
+      "Nothing but",
+      "In contrast to",
+      "On behalf of"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：「由於」成本低，許多時尚品牌已經採用這種創新材料。\n\n故選 (A)"
+  },
+  {
+    "id": "108-gsat-eng-26",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nResearchers from a university in Japan have developed \"diet-glasses\" that play tricks with one's perception of food, which could be helpful to people on a diet. A camera and a viewing system are built 【 26 】 these glasses. As the wearer brings the food toward their mouth, the camera captures an image of the food. It replays the image back through the glasses after processing it on an attached computer. The size of the food they are about to eat is magnified while 【 27 】 of their hand remains normal. Their brain is 【 28 】 tricked into thinking they are eating more than they really are. The study showed that participants who wore the glasses ate 9.3% less than those who did not wear them.\n\nThe team has also developed a special device which uses scent bottles and visual trickery to make the wearers of these glasses think that the plain snack they are eating is 【 29 】 than it actually is. The device, for instance, can be set to 【 30 】 one's favorite flavor. Recent experiments with this device showed that 80% of the participants were fooled by the smell. For example, some participants thought that they were eating a chocolate snack, but in fact they were not.\n26.",
+    "options": [
+      "beyond",
+      "into",
+      "from",
+      "with"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：相機和顯示系統「內建」在眼鏡中。be built into…「內建於」。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-27",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nResearchers from a university in Japan have developed \"diet-glasses\" that play tricks with one's perception of food, which could be helpful to people on a diet. A camera and a viewing system are built 【 26 】 these glasses. As the wearer brings the food toward their mouth, the camera captures an image of the food. It replays the image back through the glasses after processing it on an attached computer. The size of the food they are about to eat is magnified while 【 27 】 of their hand remains normal. Their brain is 【 28 】 tricked into thinking they are eating more than they really are. The study showed that participants who wore the glasses ate 9.3% less than those who did not wear them.\n\nThe team has also developed a special device which uses scent bottles and visual trickery to make the wearers of these glasses think that the plain snack they are eating is 【 29 】 than it actually is. The device, for instance, can be set to 【 30 】 one's favorite flavor. Recent experiments with this device showed that 80% of the participants were fooled by the smell. For example, some participants thought that they were eating a chocolate snack, but in fact they were not.\n27.",
+    "options": [
+      "this",
+      "that",
+      "some",
+      "other"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：食物的大小被放大，而手的「大小」保持正常。that 代替前面提過的單數名詞 the size，that of their hand = the size of their hand。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-28",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nResearchers from a university in Japan have developed \"diet-glasses\" that play tricks with one's perception of food, which could be helpful to people on a diet. A camera and a viewing system are built 【 26 】 these glasses. As the wearer brings the food toward their mouth, the camera captures an image of the food. It replays the image back through the glasses after processing it on an attached computer. The size of the food they are about to eat is magnified while 【 27 】 of their hand remains normal. Their brain is 【 28 】 tricked into thinking they are eating more than they really are. The study showed that participants who wore the glasses ate 9.3% less than those who did not wear them.\n\nThe team has also developed a special device which uses scent bottles and visual trickery to make the wearers of these glasses think that the plain snack they are eating is 【 29 】 than it actually is. The device, for instance, can be set to 【 30 】 one's favorite flavor. Recent experiments with this device showed that 80% of the participants were fooled by the smell. For example, some participants thought that they were eating a chocolate snack, but in fact they were not.\n28.",
+    "options": [
+      "beforehand",
+      "likewise",
+      "instead",
+      "therefore"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：食物看起來變大、手正常，大腦「因此」被騙以為吃得比實際多。\n\n故選 (D)"
+  },
+  {
+    "id": "108-gsat-eng-29",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nResearchers from a university in Japan have developed \"diet-glasses\" that play tricks with one's perception of food, which could be helpful to people on a diet. A camera and a viewing system are built 【 26 】 these glasses. As the wearer brings the food toward their mouth, the camera captures an image of the food. It replays the image back through the glasses after processing it on an attached computer. The size of the food they are about to eat is magnified while 【 27 】 of their hand remains normal. Their brain is 【 28 】 tricked into thinking they are eating more than they really are. The study showed that participants who wore the glasses ate 9.3% less than those who did not wear them.\n\nThe team has also developed a special device which uses scent bottles and visual trickery to make the wearers of these glasses think that the plain snack they are eating is 【 29 】 than it actually is. The device, for instance, can be set to 【 30 】 one's favorite flavor. Recent experiments with this device showed that 80% of the participants were fooled by the smell. For example, some participants thought that they were eating a chocolate snack, but in fact they were not.\n29.",
+    "options": [
+      "prettier",
+      "larger",
+      "healthier",
+      "tastier"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：這個裝置用香味瓶和視覺把戲，讓戴眼鏡的人以為吃的原味點心比實際上「更美味」；例如以為吃的是巧克力點心。\n\n故選 (D)"
+  },
+  {
+    "id": "108-gsat-eng-30",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nResearchers from a university in Japan have developed \"diet-glasses\" that play tricks with one's perception of food, which could be helpful to people on a diet. A camera and a viewing system are built 【 26 】 these glasses. As the wearer brings the food toward their mouth, the camera captures an image of the food. It replays the image back through the glasses after processing it on an attached computer. The size of the food they are about to eat is magnified while 【 27 】 of their hand remains normal. Their brain is 【 28 】 tricked into thinking they are eating more than they really are. The study showed that participants who wore the glasses ate 9.3% less than those who did not wear them.\n\nThe team has also developed a special device which uses scent bottles and visual trickery to make the wearers of these glasses think that the plain snack they are eating is 【 29 】 than it actually is. The device, for instance, can be set to 【 30 】 one's favorite flavor. Recent experiments with this device showed that 80% of the participants were fooled by the smell. For example, some participants thought that they were eating a chocolate snack, but in fact they were not.\n30.",
+    "options": [
+      "impress",
+      "release",
+      "bother",
+      "attract"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：裝置可設定「釋放」個人最愛的口味（香氣）。release「釋放」。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-31-40",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 31-40 題組】\nMy father started to suffer from memory loss right after his marriage. Or so my mother told us. She said they were married on May 26, while my dad's memory told him it was June 25. This often ___(31)___ their anniversary celebration, for his rose bouquet always came one month late. Mom seldom asked Dad to go shopping in the traditional market for her. But whenever Dad ___(32)___ on going, she made sure that he brought a shopping list. Dad certainly had the list ___(33)___ when he left for the market, but he would somehow forget it, and then would find it again only after he returned home. Of course, the ___(34)___ that he made were based mainly on his memory of the list. Unfortunately, the items were usually different from Mom's ___(35)___.\n\nMy father's poor memory gave him certain advantages, though. For instance, he was ___(36)___ with many secrets in my family and our community. Because of his poor memory, he had the ___(37)___ of hearing everyone's private matters. The reason was ___(38)___: Dad would not remember any of it, we thought. As for our neighbors, they liked to invite my father to dinner so that they could tell him stories about their children, parents, friends, and pets. They also believed the secrets in their families would never be ___(39)___. They were quite right, for my father cared ___(40)___ about who did what to whom. But there is one thing he would never forget: showing up for dinner on time.\n\n(A) little　(B) purchases　(C) trusted　(D) requests　(E) insisted　(F) ready　(G) ruined　(H) privilege　(I) revealed　(J) obvious\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "G",
+      "E",
+      "F",
+      "B",
+      "D",
+      "C",
+      "H",
+      "J",
+      "I",
+      "A"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "explanation": "• 31 (G) ruined：玫瑰花束總是晚一個月送到，常「毀了」結婚紀念日的慶祝。\n• 32 (E) insisted：每當爸爸「堅持」要去，insist on V-ing。\n• 33 (F) ready：出門時清單確實「準備好」了，have the list ready。\n• 34 (B) purchases：他「買的東西」主要是憑記憶。\n• 35 (D) requests：買回來的東西常和媽媽「要求的」不一樣。\n• 36 (C) trusted：他「被託付」很多秘密，be trusted with…。\n• 37 (H) privilege：他有聽每個人私事的「特權」。\n• 38 (J) obvious：理由很「明顯」：我們以為爸爸什麼都記不得。\n• 39 (I) revealed：鄰居相信家裡的秘密永遠不會被「洩漏」。\n• 40 (A) little：爸爸「不太」在乎誰對誰做了什麼，care little about…。"
+  },
+  {
+    "id": "108-gsat-eng-41",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nAngelfish, often found in the warm seas and coral reefs, are among the most brightly colored fish of the ocean. Brilliant colors and stripes form amazing patterns on their body. These patterns actually help the fish to hide from danger among roots and plants. At night, when these fish become inactive, their colors may become pale. Often, the young ones are differently colored than the adults. Some scientists believe that the color difference between the young and the old indicates their different social positions.\n\nAnother interesting fact about angelfish is that they have an occupation in the fish world. Most of them act as cleaners for other fish and pick dead tissue from their bodies. This is not their food, though. Their diet consists mainly of sponge and algae.\n\nOne particular kind of angelfish, the blackspot angelfish, has a special capability that allows it to change gender from female to male. However, the change is not made at random; it happens for a specific reason. Angelfish live in groups, and each group has one male fish, which is blue in color, and four female fish, which are yellow. The male angelfish is the strongest and largest member of the group. He is the one who protects and looks after the females. When the male dies, the group needs a new \"security guard.\" This is when the largest female in the group begins to change in appearance. She begins to grow larger in size, and after a week, she starts changing color, from yellow to blue. Slowly, her behavior toward the other fish also changes. She begins behaving like a male. Two weeks later, black stripes appear on her body, indicating the gender change is complete. She is now completely male!\n41. What is the job of an angelfish in the sea?",
+    "options": [
+      "Being a cleaner for other fish.",
+      "Being a bodyguard for other fish.",
+      "Being a gardener for roots and plants.",
+      "Being a caretaker for sponge and algae."
+    ],
+    "answerIndex": 0,
+    "explanation": "第二段：大多數神仙魚為其他魚擔任清潔工，清除牠們身上的壞死組織。\n\n故選 (A)"
+  },
+  {
+    "id": "108-gsat-eng-42",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nAngelfish, often found in the warm seas and coral reefs, are among the most brightly colored fish of the ocean. Brilliant colors and stripes form amazing patterns on their body. These patterns actually help the fish to hide from danger among roots and plants. At night, when these fish become inactive, their colors may become pale. Often, the young ones are differently colored than the adults. Some scientists believe that the color difference between the young and the old indicates their different social positions.\n\nAnother interesting fact about angelfish is that they have an occupation in the fish world. Most of them act as cleaners for other fish and pick dead tissue from their bodies. This is not their food, though. Their diet consists mainly of sponge and algae.\n\nOne particular kind of angelfish, the blackspot angelfish, has a special capability that allows it to change gender from female to male. However, the change is not made at random; it happens for a specific reason. Angelfish live in groups, and each group has one male fish, which is blue in color, and four female fish, which are yellow. The male angelfish is the strongest and largest member of the group. He is the one who protects and looks after the females. When the male dies, the group needs a new \"security guard.\" This is when the largest female in the group begins to change in appearance. She begins to grow larger in size, and after a week, she starts changing color, from yellow to blue. Slowly, her behavior toward the other fish also changes. She begins behaving like a male. Two weeks later, black stripes appear on her body, indicating the gender change is complete. She is now completely male!\n42. Which of the following statements is true about the color of angelfish?",
+    "options": [
+      "Female angelfish are blue in color.",
+      "The colors of the fish become less bright at night.",
+      "Male angelfish do not have black stripes on them.",
+      "The adult fish and the young ones have the same colors."
+    ],
+    "answerIndex": 1,
+    "explanation": "第一段：夜間不活動時，牠們的顏色可能變淡（pale）。\n(A) 雌魚是黃色；(C) 變性完成後會出現黑色條紋；(D) 幼魚與成魚顏色常不同。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-43",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nAngelfish, often found in the warm seas and coral reefs, are among the most brightly colored fish of the ocean. Brilliant colors and stripes form amazing patterns on their body. These patterns actually help the fish to hide from danger among roots and plants. At night, when these fish become inactive, their colors may become pale. Often, the young ones are differently colored than the adults. Some scientists believe that the color difference between the young and the old indicates their different social positions.\n\nAnother interesting fact about angelfish is that they have an occupation in the fish world. Most of them act as cleaners for other fish and pick dead tissue from their bodies. This is not their food, though. Their diet consists mainly of sponge and algae.\n\nOne particular kind of angelfish, the blackspot angelfish, has a special capability that allows it to change gender from female to male. However, the change is not made at random; it happens for a specific reason. Angelfish live in groups, and each group has one male fish, which is blue in color, and four female fish, which are yellow. The male angelfish is the strongest and largest member of the group. He is the one who protects and looks after the females. When the male dies, the group needs a new \"security guard.\" This is when the largest female in the group begins to change in appearance. She begins to grow larger in size, and after a week, she starts changing color, from yellow to blue. Slowly, her behavior toward the other fish also changes. She begins behaving like a male. Two weeks later, black stripes appear on her body, indicating the gender change is complete. She is now completely male!\n43. According to the passage, what triggers the gender change in the blackspot angelfish?",
+    "options": [
+      "Dangers to the group.",
+      "Changes in the fish's diet.",
+      "The birth of young angelfish.",
+      "The death of the male fish in a group."
+    ],
+    "answerIndex": 3,
+    "explanation": "第三段：群中唯一的雄魚死亡後，群體需要新的「警衛」，最大的雌魚才開始變性。\n\n故選 (D)"
+  },
+  {
+    "id": "108-gsat-eng-44",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nAngelfish, often found in the warm seas and coral reefs, are among the most brightly colored fish of the ocean. Brilliant colors and stripes form amazing patterns on their body. These patterns actually help the fish to hide from danger among roots and plants. At night, when these fish become inactive, their colors may become pale. Often, the young ones are differently colored than the adults. Some scientists believe that the color difference between the young and the old indicates their different social positions.\n\nAnother interesting fact about angelfish is that they have an occupation in the fish world. Most of them act as cleaners for other fish and pick dead tissue from their bodies. This is not their food, though. Their diet consists mainly of sponge and algae.\n\nOne particular kind of angelfish, the blackspot angelfish, has a special capability that allows it to change gender from female to male. However, the change is not made at random; it happens for a specific reason. Angelfish live in groups, and each group has one male fish, which is blue in color, and four female fish, which are yellow. The male angelfish is the strongest and largest member of the group. He is the one who protects and looks after the females. When the male dies, the group needs a new \"security guard.\" This is when the largest female in the group begins to change in appearance. She begins to grow larger in size, and after a week, she starts changing color, from yellow to blue. Slowly, her behavior toward the other fish also changes. She begins behaving like a male. Two weeks later, black stripes appear on her body, indicating the gender change is complete. She is now completely male!\n44. Which of the following describes the order of changes in the features of a blackspot angelfish during gender change?",
+    "options": [
+      "Size → behavior → color → stripes.",
+      "Color → size → behavior → stripes.",
+      "Size → color → behavior → stripes.",
+      "Color → behavior → size → stripes."
+    ],
+    "answerIndex": 2,
+    "explanation": "先體型變大，一週後顏色由黃變藍，接著行為改變，兩週後出現黑色條紋：體型 → 顏色 → 行為 → 條紋。\n\n故選 (C)"
+  },
+  {
+    "id": "108-gsat-eng-45",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nTotem poles in North America are poles or posts carved with symbols or figures by Aboriginal peoples of the Northwest Coast. Carved from large, straight trees and painted vibrant colors, the totem poles are not just unique works of art. The coastal peoples have long passed on knowledge from generation to generation through oral traditions, and totem poles were the traditional way of telling the story of an individual family or clan.\n\nThe totem pole can be grouped into specific categories, depending on its location and the occasion for which it was carved. Welcome poles were traditionally placed on village beachfronts to greet visitors arriving by canoe. Inside the homes of high-ranking chiefs is where house poles were found. The family's history was carefully carved into each pole. Placed along the rear or front walls of a house, house poles also helped to support the main beam of the roof.\n\nMemorial poles stood in front of a house. They were erected in memory of a deceased chief or a high-ranking clan member. The poles depicted the person's accomplishments or family history. Mortuary poles were also raised to honor the dead, but they differed from memorial poles, having a burial box placed at the top of the pole. Inside the burial box were the remains of the deceased.\n\nWhile many of these poles can still be found in various locations on the west coast of North America, there is one pole that can now only be found in a museum—the shame pole. Traditionally, shame poles were carved for a chief to embarrass and ridicule another who had done something wrong. Once the wrong was made right, the pole was taken down.\n\nTotem poles are important expressions of specific Aboriginal cultures. Despite the threats posed by cultural and political encroachment of colonial forces, the art of totem pole carving has survived. Aboriginal carvers continue to carve totems as symbols of their cultural pride and clan kinship.\n45. Which of the following is the best title for this passage?",
+    "options": [
+      "Totem Poles, the Legends of Aboriginal Peoples",
+      "Totem Poles: Their Functions",
+      "Totem Poles, Symbols of Historical Resistance",
+      "Totem Poles: Their Designs"
+    ],
+    "answerIndex": 1,
+    "explanation": "文章主體（第 2～4 段）依擺放位置與用途介紹各種圖騰柱：迎賓、屋柱、紀念、喪葬、羞辱柱，重點是它們的功能。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-46",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nTotem poles in North America are poles or posts carved with symbols or figures by Aboriginal peoples of the Northwest Coast. Carved from large, straight trees and painted vibrant colors, the totem poles are not just unique works of art. The coastal peoples have long passed on knowledge from generation to generation through oral traditions, and totem poles were the traditional way of telling the story of an individual family or clan.\n\nThe totem pole can be grouped into specific categories, depending on its location and the occasion for which it was carved. Welcome poles were traditionally placed on village beachfronts to greet visitors arriving by canoe. Inside the homes of high-ranking chiefs is where house poles were found. The family's history was carefully carved into each pole. Placed along the rear or front walls of a house, house poles also helped to support the main beam of the roof.\n\nMemorial poles stood in front of a house. They were erected in memory of a deceased chief or a high-ranking clan member. The poles depicted the person's accomplishments or family history. Mortuary poles were also raised to honor the dead, but they differed from memorial poles, having a burial box placed at the top of the pole. Inside the burial box were the remains of the deceased.\n\nWhile many of these poles can still be found in various locations on the west coast of North America, there is one pole that can now only be found in a museum—the shame pole. Traditionally, shame poles were carved for a chief to embarrass and ridicule another who had done something wrong. Once the wrong was made right, the pole was taken down.\n\nTotem poles are important expressions of specific Aboriginal cultures. Despite the threats posed by cultural and political encroachment of colonial forces, the art of totem pole carving has survived. Aboriginal carvers continue to carve totems as symbols of their cultural pride and clan kinship.\n46. How is the information about totem poles organized in Paragraphs 2 to 4?",
+    "options": [
+      "In order of importance.",
+      "In order of time.",
+      "By cause and effect.",
+      "By classification."
+    ],
+    "answerIndex": 3,
+    "explanation": "第二段開頭說圖騰柱可依位置與場合分成特定類別（grouped into specific categories），接著逐一介紹各類，是分類法。\n\n故選 (D)"
+  },
+  {
+    "id": "108-gsat-eng-47",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nTotem poles in North America are poles or posts carved with symbols or figures by Aboriginal peoples of the Northwest Coast. Carved from large, straight trees and painted vibrant colors, the totem poles are not just unique works of art. The coastal peoples have long passed on knowledge from generation to generation through oral traditions, and totem poles were the traditional way of telling the story of an individual family or clan.\n\nThe totem pole can be grouped into specific categories, depending on its location and the occasion for which it was carved. Welcome poles were traditionally placed on village beachfronts to greet visitors arriving by canoe. Inside the homes of high-ranking chiefs is where house poles were found. The family's history was carefully carved into each pole. Placed along the rear or front walls of a house, house poles also helped to support the main beam of the roof.\n\nMemorial poles stood in front of a house. They were erected in memory of a deceased chief or a high-ranking clan member. The poles depicted the person's accomplishments or family history. Mortuary poles were also raised to honor the dead, but they differed from memorial poles, having a burial box placed at the top of the pole. Inside the burial box were the remains of the deceased.\n\nWhile many of these poles can still be found in various locations on the west coast of North America, there is one pole that can now only be found in a museum—the shame pole. Traditionally, shame poles were carved for a chief to embarrass and ridicule another who had done something wrong. Once the wrong was made right, the pole was taken down.\n\nTotem poles are important expressions of specific Aboriginal cultures. Despite the threats posed by cultural and political encroachment of colonial forces, the art of totem pole carving has survived. Aboriginal carvers continue to carve totems as symbols of their cultural pride and clan kinship.\n47. Which of the following is located at the edge of a body of water?",
+    "options": [
+      "The house pole.",
+      "The shame pole.",
+      "The memorial pole.",
+      "The welcome pole."
+    ],
+    "answerIndex": 3,
+    "explanation": "迎賓柱傳統上立在村落海灘前（village beachfronts），迎接乘獨木舟抵達的訪客。\n\n故選 (D)"
+  },
+  {
+    "id": "108-gsat-eng-48",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nTotem poles in North America are poles or posts carved with symbols or figures by Aboriginal peoples of the Northwest Coast. Carved from large, straight trees and painted vibrant colors, the totem poles are not just unique works of art. The coastal peoples have long passed on knowledge from generation to generation through oral traditions, and totem poles were the traditional way of telling the story of an individual family or clan.\n\nThe totem pole can be grouped into specific categories, depending on its location and the occasion for which it was carved. Welcome poles were traditionally placed on village beachfronts to greet visitors arriving by canoe. Inside the homes of high-ranking chiefs is where house poles were found. The family's history was carefully carved into each pole. Placed along the rear or front walls of a house, house poles also helped to support the main beam of the roof.\n\nMemorial poles stood in front of a house. They were erected in memory of a deceased chief or a high-ranking clan member. The poles depicted the person's accomplishments or family history. Mortuary poles were also raised to honor the dead, but they differed from memorial poles, having a burial box placed at the top of the pole. Inside the burial box were the remains of the deceased.\n\nWhile many of these poles can still be found in various locations on the west coast of North America, there is one pole that can now only be found in a museum—the shame pole. Traditionally, shame poles were carved for a chief to embarrass and ridicule another who had done something wrong. Once the wrong was made right, the pole was taken down.\n\nTotem poles are important expressions of specific Aboriginal cultures. Despite the threats posed by cultural and political encroachment of colonial forces, the art of totem pole carving has survived. Aboriginal carvers continue to carve totems as symbols of their cultural pride and clan kinship.\n48. Which is closest in meaning to the word \"encroachment\" in the last paragraph?",
+    "options": [
+      "Invasion.",
+      "Appointment.",
+      "Objection.",
+      "Enrichment."
+    ],
+    "answerIndex": 0,
+    "explanation": "encroachment of colonial forces「殖民勢力的侵蝕、侵犯」，與 invasion 意思最接近；前面的 threats 也提示是負面的侵入。\n\n故選 (A)"
+  },
+  {
+    "id": "108-gsat-eng-49",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nMusic has a tendency to get stuck in our heads. Sometimes a tune intrudes on our thoughts and then plays, and replays, in a never-ending loop. This interesting phenomenon becomes a subject explored by many scientists. They use a range of terms to describe it—stuck-song syndrome, sticky music, cognitive itch, or most commonly \"earworm.\" Earworms can run around our heads for several minutes to numerous hours. As the melody repeats, it becomes embedded into our mind. Even though our ears do not hear the tune, our brain continues to play it.\n\nEarworms often take the form of song fragments rather than entire songs, and the song is usually a familiar one. Researchers are not sure why some songs are more likely to get stuck in our heads than others, but everyone has their own tunes. Often those songs have a simple, upbeat melody and catchy, repetitive lyrics, such as popular commercial jingles and slightly annoying radio hits. Recent or repeated exposure to a song or even a small part of a song can also trigger earworms, as can word associations, such as a phrase similar to the lyrics of a song.\n\nWhile earworms might be annoying, most people who experience them nevertheless report that they are pleasant or at least neutral. Only a third of people are disturbed by the song in their heads. How people cope with their earworms seems to depend on how they feel about them. Those who have positive feelings about their stuck songs prefer to just \"let them be,\" while those with negative feelings turn to more behavioral responses, which include coping strategies such as singing, talking, or even praying.\n49. According to the passage, which of the following is true about an earworm?",
+    "options": [
+      "It is a creature living inside our ears.",
+      "It is a tune memorized in a personal way.",
+      "It is a melody repeating in our heads.",
+      "It is a commercial recalled through lyrics."
+    ],
+    "answerIndex": 2,
+    "explanation": "第一段：earworm 指卡在腦中不斷重播的旋律，耳朵沒聽到，大腦卻持續播放。\n\n故選 (C)"
+  },
+  {
+    "id": "108-gsat-eng-50",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nMusic has a tendency to get stuck in our heads. Sometimes a tune intrudes on our thoughts and then plays, and replays, in a never-ending loop. This interesting phenomenon becomes a subject explored by many scientists. They use a range of terms to describe it—stuck-song syndrome, sticky music, cognitive itch, or most commonly \"earworm.\" Earworms can run around our heads for several minutes to numerous hours. As the melody repeats, it becomes embedded into our mind. Even though our ears do not hear the tune, our brain continues to play it.\n\nEarworms often take the form of song fragments rather than entire songs, and the song is usually a familiar one. Researchers are not sure why some songs are more likely to get stuck in our heads than others, but everyone has their own tunes. Often those songs have a simple, upbeat melody and catchy, repetitive lyrics, such as popular commercial jingles and slightly annoying radio hits. Recent or repeated exposure to a song or even a small part of a song can also trigger earworms, as can word associations, such as a phrase similar to the lyrics of a song.\n\nWhile earworms might be annoying, most people who experience them nevertheless report that they are pleasant or at least neutral. Only a third of people are disturbed by the song in their heads. How people cope with their earworms seems to depend on how they feel about them. Those who have positive feelings about their stuck songs prefer to just \"let them be,\" while those with negative feelings turn to more behavioral responses, which include coping strategies such as singing, talking, or even praying.\n50. Which of the following best defines \"subject\" in the first paragraph?",
+    "options": [
+      "A kind of mental disease.",
+      "A course being taken.",
+      "A participant in an experiment.",
+      "A matter being studied."
+    ],
+    "answerIndex": 3,
+    "explanation": "a subject explored by many scientists「許多科學家探討的主題」，subject 指被研究的題目。\n\n故選 (D)"
+  },
+  {
+    "id": "108-gsat-eng-51",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nMusic has a tendency to get stuck in our heads. Sometimes a tune intrudes on our thoughts and then plays, and replays, in a never-ending loop. This interesting phenomenon becomes a subject explored by many scientists. They use a range of terms to describe it—stuck-song syndrome, sticky music, cognitive itch, or most commonly \"earworm.\" Earworms can run around our heads for several minutes to numerous hours. As the melody repeats, it becomes embedded into our mind. Even though our ears do not hear the tune, our brain continues to play it.\n\nEarworms often take the form of song fragments rather than entire songs, and the song is usually a familiar one. Researchers are not sure why some songs are more likely to get stuck in our heads than others, but everyone has their own tunes. Often those songs have a simple, upbeat melody and catchy, repetitive lyrics, such as popular commercial jingles and slightly annoying radio hits. Recent or repeated exposure to a song or even a small part of a song can also trigger earworms, as can word associations, such as a phrase similar to the lyrics of a song.\n\nWhile earworms might be annoying, most people who experience them nevertheless report that they are pleasant or at least neutral. Only a third of people are disturbed by the song in their heads. How people cope with their earworms seems to depend on how they feel about them. Those who have positive feelings about their stuck songs prefer to just \"let them be,\" while those with negative feelings turn to more behavioral responses, which include coping strategies such as singing, talking, or even praying.\n51. Which of the following is NOT mentioned as a feature that would trigger earworms?",
+    "options": [
+      "Tunes repeatedly encountered.",
+      "Melodies with smooth rhythms.",
+      "Fragments of songs recently heard.",
+      "Words similar to the lyrics of a song."
+    ],
+    "answerIndex": 1,
+    "explanation": "第二段提到：反覆接觸的歌（A）、最近聽到的片段（C）、與歌詞相似的字詞（D）。文中說的是簡單輕快的旋律，沒提到節奏平順。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-52",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nMusic has a tendency to get stuck in our heads. Sometimes a tune intrudes on our thoughts and then plays, and replays, in a never-ending loop. This interesting phenomenon becomes a subject explored by many scientists. They use a range of terms to describe it—stuck-song syndrome, sticky music, cognitive itch, or most commonly \"earworm.\" Earworms can run around our heads for several minutes to numerous hours. As the melody repeats, it becomes embedded into our mind. Even though our ears do not hear the tune, our brain continues to play it.\n\nEarworms often take the form of song fragments rather than entire songs, and the song is usually a familiar one. Researchers are not sure why some songs are more likely to get stuck in our heads than others, but everyone has their own tunes. Often those songs have a simple, upbeat melody and catchy, repetitive lyrics, such as popular commercial jingles and slightly annoying radio hits. Recent or repeated exposure to a song or even a small part of a song can also trigger earworms, as can word associations, such as a phrase similar to the lyrics of a song.\n\nWhile earworms might be annoying, most people who experience them nevertheless report that they are pleasant or at least neutral. Only a third of people are disturbed by the song in their heads. How people cope with their earworms seems to depend on how they feel about them. Those who have positive feelings about their stuck songs prefer to just \"let them be,\" while those with negative feelings turn to more behavioral responses, which include coping strategies such as singing, talking, or even praying.\n52. What is the third paragraph mainly about?",
+    "options": [
+      "Why people find earworms annoying.",
+      "How people react to earworms.",
+      "What people use to kill earworms.",
+      "When people start to notice earworms."
+    ],
+    "answerIndex": 1,
+    "explanation": "第三段談人們對 earworm 的感受與因應方式：正面的人順其自然，負面的人用唱歌、說話、禱告等方式應對。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-53",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nGot a bug bite problem? Many people who are troubled by skin rashes caused by bug bites use \"foggers,\" or \"bug bombs,\" to get rid of the annoying crawlers in their homes. Many people think these bug killers or pesticides will penetrate every place where the insects hide. Actually, quite the opposite is true. Once the pests detect the chemical fog in the room, they'll hide themselves in walls or other hideaways, where you'll never be able to treat them effectively.\n\nOhio State University researchers tested three commercially sold foggers in a study on the effect of foggers on bedbugs. After testing these brands on five different groups of live bedbugs for two hours, the scientists saw that the foggers had little—if any—effect on the insects. The researchers said bedbugs hide in cracks and crevices such as under sheets and mattresses, or deep in carpets where foggers won't reach. Moreover, bugs that do come in contact with the mist may be resistant to the pesticide.\n\nFoggers, or bug bombs, should really be a measure of last resort. First of all, the gases used in bug bombs are highly flammable and thus pose a serious risk of fire or explosion if the product is not used properly. Second, once a bug bomb is used, every surface in your home will be covered with the toxic pesticide. When you use a bug bomb, a chemical mixture rains down on your counters, furniture, floors, and walls, leaving behind oily and toxic substances. Your health might thus be endangered. Therefore, it is suggested that people leave the problem to the professionals.\n53. What is this passage mainly about?",
+    "options": [
+      "Steps to get rid of bedbugs.",
+      "Ways to use foggers correctly.",
+      "The ineffectiveness of bug bombs.",
+      "The problems caused by insects."
+    ],
+    "answerIndex": 2,
+    "explanation": "全文說明殺蟲煙霧彈效果不佳（蟲會躲起來、可能有抗藥性），還有火災和毒性風險。\n\n故選 (C)"
+  },
+  {
+    "id": "108-gsat-eng-54",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nGot a bug bite problem? Many people who are troubled by skin rashes caused by bug bites use \"foggers,\" or \"bug bombs,\" to get rid of the annoying crawlers in their homes. Many people think these bug killers or pesticides will penetrate every place where the insects hide. Actually, quite the opposite is true. Once the pests detect the chemical fog in the room, they'll hide themselves in walls or other hideaways, where you'll never be able to treat them effectively.\n\nOhio State University researchers tested three commercially sold foggers in a study on the effect of foggers on bedbugs. After testing these brands on five different groups of live bedbugs for two hours, the scientists saw that the foggers had little—if any—effect on the insects. The researchers said bedbugs hide in cracks and crevices such as under sheets and mattresses, or deep in carpets where foggers won't reach. Moreover, bugs that do come in contact with the mist may be resistant to the pesticide.\n\nFoggers, or bug bombs, should really be a measure of last resort. First of all, the gases used in bug bombs are highly flammable and thus pose a serious risk of fire or explosion if the product is not used properly. Second, once a bug bomb is used, every surface in your home will be covered with the toxic pesticide. When you use a bug bomb, a chemical mixture rains down on your counters, furniture, floors, and walls, leaving behind oily and toxic substances. Your health might thus be endangered. Therefore, it is suggested that people leave the problem to the professionals.\n54. How do bedbugs react to foggers?",
+    "options": [
+      "They remain motionless.",
+      "They retreat to safe places.",
+      "They stop biting people.",
+      "They escape into another house."
+    ],
+    "answerIndex": 1,
+    "explanation": "第一段：蟲一察覺化學煙霧，就躲進牆壁或其他藏身處。\n\n故選 (B)"
+  },
+  {
+    "id": "108-gsat-eng-55",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nGot a bug bite problem? Many people who are troubled by skin rashes caused by bug bites use \"foggers,\" or \"bug bombs,\" to get rid of the annoying crawlers in their homes. Many people think these bug killers or pesticides will penetrate every place where the insects hide. Actually, quite the opposite is true. Once the pests detect the chemical fog in the room, they'll hide themselves in walls or other hideaways, where you'll never be able to treat them effectively.\n\nOhio State University researchers tested three commercially sold foggers in a study on the effect of foggers on bedbugs. After testing these brands on five different groups of live bedbugs for two hours, the scientists saw that the foggers had little—if any—effect on the insects. The researchers said bedbugs hide in cracks and crevices such as under sheets and mattresses, or deep in carpets where foggers won't reach. Moreover, bugs that do come in contact with the mist may be resistant to the pesticide.\n\nFoggers, or bug bombs, should really be a measure of last resort. First of all, the gases used in bug bombs are highly flammable and thus pose a serious risk of fire or explosion if the product is not used properly. Second, once a bug bomb is used, every surface in your home will be covered with the toxic pesticide. When you use a bug bomb, a chemical mixture rains down on your counters, furniture, floors, and walls, leaving behind oily and toxic substances. Your health might thus be endangered. Therefore, it is suggested that people leave the problem to the professionals.\n55. According to the passage, which of the following statements about foggers is true?",
+    "options": [
+      "They can cause a fire.",
+      "They do not stay on furniture.",
+      "They can kill most insects.",
+      "They do not contain chemicals."
+    ],
+    "answerIndex": 0,
+    "explanation": "第三段：煙霧彈的氣體高度易燃，使用不當可能引起火災或爆炸。\n\n故選 (A)"
+  },
+  {
+    "id": "108-gsat-eng-56",
+    "examType": "學測",
+    "year": 108,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nGot a bug bite problem? Many people who are troubled by skin rashes caused by bug bites use \"foggers,\" or \"bug bombs,\" to get rid of the annoying crawlers in their homes. Many people think these bug killers or pesticides will penetrate every place where the insects hide. Actually, quite the opposite is true. Once the pests detect the chemical fog in the room, they'll hide themselves in walls or other hideaways, where you'll never be able to treat them effectively.\n\nOhio State University researchers tested three commercially sold foggers in a study on the effect of foggers on bedbugs. After testing these brands on five different groups of live bedbugs for two hours, the scientists saw that the foggers had little—if any—effect on the insects. The researchers said bedbugs hide in cracks and crevices such as under sheets and mattresses, or deep in carpets where foggers won't reach. Moreover, bugs that do come in contact with the mist may be resistant to the pesticide.\n\nFoggers, or bug bombs, should really be a measure of last resort. First of all, the gases used in bug bombs are highly flammable and thus pose a serious risk of fire or explosion if the product is not used properly. Second, once a bug bomb is used, every surface in your home will be covered with the toxic pesticide. When you use a bug bomb, a chemical mixture rains down on your counters, furniture, floors, and walls, leaving behind oily and toxic substances. Your health might thus be endangered. Therefore, it is suggested that people leave the problem to the professionals.\n56. What does the author advise people to do with bedbug problems?",
+    "options": [
+      "Choose the right fogger.",
+      "Clean the house regularly.",
+      "Close the doors when using pesticides.",
+      "Consult a pest-control expert."
+    ],
+    "answerIndex": 3,
+    "explanation": "最後一句：建議把問題交給專業人士（leave the problem to the professionals），即找除蟲專家。\n\n故選 (D)"
   }
 ]
