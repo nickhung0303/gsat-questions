@@ -26986,5 +26986,468 @@
       "分析方法與大小關係"
     ],
     "explanation": "用多組數據畫 $V$–$I$ 圖，取最佳直線的斜率 $\\dfrac{\\Delta V}{\\Delta I}$ 作為電阻，比單點計算可靠。採用乙電路時，安培計讀數包含流過伏特計的電流，使 $\\dfrac{V}{I}$ 偏小：實驗值 $< R$，但因 $R_V \\gg R$，差距很小。"
+  },
+  {
+    "id": "97-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "points": 4,
+    "question": "已知無風時，空氣中的聲速是 $v_0$。而某日風速為 $w$，一輛警車以速度 $u$（$w < u < v_0$）在筆直的公路上前進。假設 $u$、$w$ 方向相同，在某一時間，車上的警笛開始響起，這時在它正前方距離 $L$ 處的靜止聽者，過了多少時間後才會開始聽到警笛聲？",
+    "options": [
+      "$\\dfrac{L}{v_0}$",
+      "$\\dfrac{L}{v_0 + w}$",
+      "$\\dfrac{L}{v_0 + u - w}$",
+      "$\\dfrac{L}{v_0 + u}$",
+      "$\\dfrac{L}{v_0 - u + w}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【聲速與介質】\n聲波相對於空氣的速率為 $v_0$，與波源的運動無關。順風時空氣以 $w$ 移動，聲波相對地面的速率為 $v_0 + w$。警笛響起的瞬間聲波從距聽者 $L$ 處出發：$t = \\dfrac{L}{v_0 + w}$。（警車的速度只會改變聽到的頻率，不影響波前的傳播速率。）\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "points": 4,
+    "question": "某生以波長 0.25 埃的 X 光照射石墨，做康卜吞散射實驗，並在散射角 $120^\\circ$ 處測量散射後 X 光之光譜。試問該生測得的光譜，其峰值的個數及其對應的波長為何？（康卜吞散射公式為 $\\Delta\\lambda = \\lambda_c(1 - \\cos\\theta)$，而 $\\lambda_c = 0.0243$ 埃）",
+    "options": [
+      "有一個峰值，其波長為 0.21 埃",
+      "有一個峰值，其波長為 0.25 埃",
+      "有一個峰值，其波長為 0.29 埃",
+      "有二個峰值，其波長為 0.25 埃與 0.29 埃",
+      "有二個峰值，其波長為 0.21 埃與 0.25 埃"
+    ],
+    "answerIndex": 3,
+    "explanation": "【康卜吞散射】\n$\\Delta\\lambda = 0.0243\\times(1 - \\cos120^\\circ) = 0.0243\\times1.5 \\approx 0.036$ 埃，散射波長 $0.25 + 0.036 \\approx 0.29$ 埃。\n另外，X 光與石墨中束縛很緊的內層電子（相當於與整個原子）碰撞時，波長幾乎不變，仍有 0.25 埃的峰值。所以有兩個峰：0.25 埃與 0.29 埃。散射後波長只會變長，不會出現 0.21 埃。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "points": 4,
+    "question": "一艘質量為 $2.40\\times10^6\\text{ kg}$、體積為 $2800\\text{ m}^3$ 的潛艇，浮在長和寬分別為 80 m 和 10 m 的船塢中，這時水深為 8.0 m。當潛艇自船塢本身抽入 $0.60\\times10^6\\text{ kg}$ 的水而完全沈入水中時，船塢裡水位的變化約為多少？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-03.png\" alt=\"船塢示意圖：潛艇浮在長方體船塢的水中\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "下降 0.75 m",
+      "下降 0.25 m",
+      "不變",
+      "上升 0.50 m",
+      "上升 0.75 m"
+    ],
+    "answerIndex": 1,
+    "explanation": "【浮力與排開的水】\n• 原本漂浮：排開水的質量 = 潛艇質量 $2.40\\times10^6\\text{ kg}$，排水體積 $2400\\text{ m}^3$。\n• 抽入 $600\\text{ m}^3$ 的水後完全沈入，排水體積為潛艇體積 $2800\\text{ m}^3$，但船塢裡的水少了 $600\\text{ m}^3$。\n水面以下的「水 + 排水體積」：原本 $V + 2400$，之後 $(V - 600) + 2800 = V + 2200$，減少 $200\\text{ m}^3$。\n水位變化 $= \\dfrac{-200}{80\\times10} = -0.25\\text{ m}$，下降 0.25 m。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "points": 4,
+    "question": "一人在水平地面上，分別以斜向上拉及斜向下推等兩種方式使行李箱等速度往前移動，若拉力及推力與水平面的夾角皆為 $\\theta$，如圖 1 所示。已知行李箱與地面的動摩擦係數為 0.30，且 $\\sin\\theta = 0.60$，$\\cos\\theta = 0.80$，則拉力大小為推力大小的幾倍？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-04.png\" alt=\"圖1 斜向上拉與斜向下推行李箱，夾角皆為 θ\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "0.40",
+      "0.63",
+      "0.81",
+      "1.00",
+      "1.60"
+    ],
+    "answerIndex": 1,
+    "explanation": "【斜向施力與摩擦力】\n• 拉：$N = mg - F\\sin\\theta$，等速 $F\\cos\\theta = \\mu(mg - F\\sin\\theta)$，$F_{\\text{拉}} = \\dfrac{\\mu mg}{0.80 + 0.30\\times0.60} = \\dfrac{\\mu mg}{0.98}$\n• 推：$N = mg + F\\sin\\theta$，$F\\cos\\theta = \\mu(mg + F\\sin\\theta)$，$F_{\\text{推}} = \\dfrac{\\mu mg}{0.80 - 0.18} = \\dfrac{\\mu mg}{0.62}$\n$\\dfrac{F_{\\text{拉}}}{F_{\\text{推}}} = \\dfrac{0.62}{0.98} \\approx 0.63$\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "points": 4,
+    "question": "在直線等加速度運動實驗中，如果打點計時器的打點頻率為 50 Hz，今取其中一段打點記錄，並將連續相鄰的點依序編號，測量編號 10～15 以及編號 60～65 的點距如圖 2 所示，則加速度的量值約為多少 $\\text{cm/s}^2$？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-05.png\" alt=\"圖2 打點紙帶上編號 10～15 與 60～65 的點，下方為公分刻度尺\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "70",
+      "80",
+      "90",
+      "100",
+      "500"
+    ],
+    "answerIndex": 3,
+    "explanation": "【由紙帶求加速度】\n每兩點間隔 $\\dfrac{1}{50} = 0.02\\text{ s}$，5 個間隔為 0.1 s。\n由尺的刻度：編號 10～15 相距約 3.0 cm，平均速度 $\\dfrac{3.0}{0.1} = 30\\text{ cm/s}$；編號 60～65 相距約 13.0 cm，平均速度 130 cm/s。\n兩段的中間時刻（12.5 號與 62.5 號）相隔 50 個間隔 = 1.0 s：\n$a = \\dfrac{130 - 30}{1.0} = 100\\text{ cm/s}^2$\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "points": 4,
+    "question": "有兩個體積相同、質量分別為 $M$ 和 $2M$ 的小圓球甲和乙，以一細直剛棒（受力不變形的棒）相連，置於光滑水平面上，剛棒的質量及空氣阻力可忽略。今於某一極短的時間內，在棒的中心處施一衝量 $\\vec J$，其俯視圖如圖 3 所示。考慮在此衝量作用結束後，有關此二球和棒的運動情形，下列敘述何者正確？（剛體受力運動可解析成質心的直線運動及繞質心的轉動）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-06.png\" alt=\"圖3 甲（M）在上、乙（2M）在下，衝量 J 向右作用在棒的中心\" style=\"width:100%;max-width:140px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "兩球系統的質心以等速度作直線運動，棒不旋轉",
+      "兩球系統的質心以等加速度作直線運動，棒不旋轉",
+      "兩球系統的質心以等速度作直線運動，棒順時針旋轉",
+      "兩球系統的質心以等速度作直線運動，棒逆時針旋轉",
+      "兩球系統的質心以等加速度作直線運動，棒順時針旋轉"
+    ],
+    "answerIndex": 2,
+    "explanation": "【質心運動與轉動】\n• 衝量結束後系統不受外力，質心以等速度作直線運動。\n• 質心靠近質量大的乙，位於棒中心的下方（距甲 $\\dfrac23$ 棒長）。衝量作用在中心，也就是質心的「上方」，向右的衝量對質心產生力矩：上方受力向右 → 棒順時針旋轉。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "points": 4,
+    "question": "已知質子之質量為 1.0073 u，氦原子核（$^4_2\\text{He}$）之質量為 4.0026 u，鋰原子核（$^7_3\\text{Li}$）之質量為 7.0160 u。以具有 700 keV 動能的質子去擊打鋰靶，而產生二個氦核。依愛因斯坦的 $E = mc^2$ 質能互換公式估算，兩個氦核所帶的總動能約為多少？（$1\\text{ u} = 931.5\\text{ MeV}/c^2$）",
+    "options": [
+      "140 keV",
+      "700 keV",
+      "17.6 MeV",
+      "28.4 MeV",
+      "46.6 MeV"
+    ],
+    "answerIndex": 2,
+    "explanation": "【核反應的質能】\n質量虧損 $\\Delta m = (1.0073 + 7.0160) - 2\\times4.0026 = 0.0181\\text{ u}$\n釋放能量 $0.0181\\times931.5 \\approx 16.9\\text{ MeV}$\n兩氦核總動能 = 釋放能量 + 質子原有動能 $\\approx 16.9 + 0.7 = 17.6\\text{ MeV}$\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "points": 4,
+    "question": "如圖 4 所示，一瓷碗之碗口直徑為 12 公分，中央深度為 8.0 公分。在此碗注滿水後，於其中央放置一顆小豆子，眼睛在距離水面 18 公分的水平面之 1、2、3、4 和 5 位置，注視碗中的小豆子。1 號位置是在碗中央的正上方，相鄰位置各相隔 6 公分。有哪些位置可以看見碗中的小豆子？（假設水的折射率為 4/3）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-08.png\" alt=\"圖4 注滿水的碗，豆子在中央底部，眼睛在水面上方 18 公分的位置 1～5\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "僅有 1",
+      "僅有 1 和 2",
+      "僅有 2 和 3",
+      "僅有 1、2、3 和 4",
+      "5 個位置都可以看到"
+    ],
+    "answerIndex": 4,
+    "explanation": "【折射擴大視野】\n豆子發出、恰好掠過碗口邊緣的光線，在水中與法線的夾角 $\\theta_1$：$\\tan\\theta_1 = \\dfrac{6}{8}$，$\\sin\\theta_1 = 0.6$。\n出水面後：$\\sin\\theta_2 = \\dfrac43\\times0.6 = 0.8$，$\\tan\\theta_2 = \\dfrac43$。\n上升 18 公分時水平再偏移 $18\\times\\dfrac43 = 24$ 公分，所以眼睛水平距中央 $6 + 24 = 30$ 公分以內都看得到。位置 5 距中央 24 公分，5 個位置都看得到。\n\n故選 (E)"
+  },
+  {
+    "id": "97-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "points": 4,
+    "question": "如圖 5 所示，一直角三角形線圈兩邊長分別為 $a$ 及 $l$、電阻為 $R$，以等速度 $v$ 通過一範圍為 $d$（$d > a$）強度為 $B$ 的均勻磁場，磁場的方向為垂直射入紙面，在時間 $t = 0$ 時，線圈的前緣恰接觸磁場的邊緣。則線圈上的感應電流 $i$ 與時間 $t$ 的關係圖是下列何者？（設電流逆時針方向為正）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-09.png\" alt=\"圖5 直角三角形線圈（前緣為長 l 的鉛直邊）進入寬 d 的入紙面磁場，以及選項 (A)~(E) 的 i-t 圖\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 4,
+    "explanation": "【切割長度隨時間變化】\n感應電動勢 $= Bv\\times$（線圈在磁場邊界處的鉛直寬度）。三角形前緣（鉛直邊）長 $l$，往後逐漸變窄到零。\n• $0 < t < \\dfrac{a}{v}$：進入磁場，邊界處寬度由 $l$ 線性減到 0，電流由 $\\dfrac{Blv}{R}$ 減到 0。入紙面的磁通量增加，感應電流產生出紙面的磁場 → 逆時針，為正。\n• $\\dfrac{a}{v} < t < \\dfrac{d}{v}$：線圈全在磁場內，磁通量不變，$i = 0$。\n• $\\dfrac{d}{v} < t < \\dfrac{a+d}{v}$：前緣先離開，邊界處寬度由 $l$ 減到 0，電流大小由 $\\dfrac{Blv}{R}$ 減到 0；磁通量減少 → 順時針，為負。\n符合的是圖 (E)。\n\n故選 (E)"
+  },
+  {
+    "id": "97-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "points": 4,
+    "question": "某生利用二極體做整流實驗，他想測試整流電路中的二極體和負載電阻 R 是否均能正常工作，於是將二極體與電阻兩元件的組合（如圖 6）取下後，以設在歐姆檔位的三用電表做測量。如下列所示，甲～戊為三用電表「＋」、「－」接頭與元件的各種可能接法：\n甲：＋接 U，－接 W　乙：＋接 W，－接 U\n丙：＋接 U，－接 V　丁：＋接 V，－接 U\n戊：＋接 V，－接 W\n下列測試過程的選項中，何者可以用最少的步驟，完整且正確地判斷各元件是否均能正常工作？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-10.png\" alt=\"圖6 U、V 間為二極體，V、W 間為電阻 R\" style=\"width:100%;max-width:120px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙、然後丙",
+      "丙、然後戊",
+      "丙、丁、然後戊",
+      "乙、丙、丁、然後戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "【用歐姆計檢查二極體與電阻】\n• 二極體正常 ⇔ 正向電阻小、反向電阻極大，所以必須在 U、V 兩端正反各量一次（丙、丁）。只量一個方向，無法分辨「正常」與「短路」或「斷路」。\n• 電阻要單獨量 V、W 之間（戊），才知道 R 是否正常；若隔著二極體量（甲、乙），結果會被二極體影響。\n所以至少需要丙、丁、戊三步；(E) 多了乙，不是最少步驟。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 7 所示的電路中，電池的端電壓為 9.0 V，$R_1$ 與 $R_2$ 為電阻，O、P 兩點間的電壓為 X，通過 $R_1$ 及 $R_2$ 的電流分別為 $i_1$ 及 $i_2$。若 $\\dfrac{R_1}{R_2} = \\dfrac12$，則下列哪些選項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-11.png\" alt=\"圖7 9.0 V 電池與串聯的 R1、R2，O、P 兩點跨接 R2\" style=\"width:100%;max-width:230px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "X = 4.5 V",
+      "X = 6.0 V",
+      "X = 7.5 V",
+      "$\\dfrac{i_1}{i_2} = 2$",
+      "$\\dfrac{i_1}{i_2} = 1$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【串聯分壓】\n$R_1$、$R_2$ 串聯，電流相同，$\\dfrac{i_1}{i_2} = 1$，(E) 正確。\n電壓依電阻比例分配，$R_2 = 2R_1$：$X = 9.0\\times\\dfrac{R_2}{R_1 + R_2} = 9.0\\times\\dfrac23 = 6.0\\text{ V}$，(B) 正確。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "97-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "質量與體積完全相同的甲、乙兩均質光滑圓球，在光滑水平面上發生完全彈性碰撞，碰撞前乙球靜止，甲球以速率 $v$ 向右撞向乙球。下列有關兩球碰撞的敘述何者正確？",
+    "options": [
+      "若為對正碰撞，碰撞後甲球靜止，乙球以 $v$ 向右運動",
+      "若為對正碰撞，碰撞後甲、乙兩球均以 $\\dfrac{v}{2}$ 的速率向右運動",
+      "若不是對正碰撞，碰撞後兩球速度的夾角一定小於 $90^\\circ$",
+      "若不是對正碰撞，碰撞後兩球的速度一定相互垂直",
+      "不論是否為對正碰撞，碰撞前後兩球的動量和與動能和不變"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "【等質量彈性碰撞】\n• (A) 正確、(B) 錯誤：等質量一維彈性碰撞，兩球交換速度。\n• (D) 正確、(C) 錯誤：二維時 $m\\vec v = m\\vec v_1 + m\\vec v_2$ 且 $\\dfrac12mv^2 = \\dfrac12mv_1^2 + \\dfrac12mv_2^2$，所以 $v^2 = v_1^2 + v_2^2 + 2\\vec v_1\\cdot\\vec v_2$ 中必須 $\\vec v_1\\cdot\\vec v_2 = 0$，兩速度互相垂直。\n• (E) 正確：完全彈性碰撞，動量與動能都守恆。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "97-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "若樂器的空氣共振腔，為一端閉口，另一端開口之圓柱型空管，而圓柱型空管內之聲速為 $v$，其長度為 $L$，則下列哪些敘述正確？",
+    "options": [
+      "這樂器基音的頻率為 $\\dfrac{v}{4L}$",
+      "這樂器可演奏出頻率為 $\\dfrac{v}{8L}$ 與 $\\dfrac{v}{12L}$ 的泛音",
+      "空氣分子在開口端的縱向（聲波傳遞方向）最大位移比閉口端的縱向最大位移大",
+      "空氣分子在開口端的縱向（聲波傳遞方向）最大位移與閉口端的縱向最大位移相等",
+      "若改用兩端都開口之空管，則基音的頻率會升高"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【閉管共鳴】\n• (A) 正確：基音 $L = \\dfrac{\\lambda}{4}$，$f_1 = \\dfrac{v}{4L}$。\n• (B) 錯誤：泛音為 $\\dfrac{3v}{4L}$、$\\dfrac{5v}{4L}$……，都比基音高。\n• (C) 正確、(D) 錯誤：開口端是位移的波腹，閉口端是位移的波節（位移為零）。\n• (E) 正確：兩端開口時基音 $\\dfrac{v}{2L}$，比 $\\dfrac{v}{4L}$ 高。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "97-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "小明對某定量理想氣體做壓力 $P$ 與體積 $V$ 在恆溫下的實驗，溫度為 $T_1$ 與 $T_2$ 時的 $P$–$V$ 曲線如圖 8 所示。已知 $T_1$ 為 27°C，下列有關此理想氣體的敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-14.png\" alt=\"圖8 溫度 T1 與 T2 的 P（atm）對 V（m³）等溫曲線\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此理想氣體分子的方均根速率在 $T_1$ 與 $T_2$ 時相同",
+      "此理想氣體約為 27 莫耳",
+      "此理想氣體約為 2.4 莫耳",
+      "$T_2$ 約為 400°C",
+      "$T_2$ 約為 127°C"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【等溫曲線】\n由圖讀值：$T_1$ 曲線過 $(0.6\\text{ m}^3, 0.1\\text{ atm})$，$PV = 0.06\\text{ atm}\\cdot\\text{m}^3$；$T_2$ 曲線過 $(0.8, 0.1)$，$PV = 0.08$。\n• 莫耳數 $n = \\dfrac{PV}{RT_1} = \\dfrac{0.06\\times1.01\\times10^5}{8.31\\times300} \\approx 2.4$，(C) 正確。\n• $\\dfrac{T_2}{T_1} = \\dfrac{0.08}{0.06} = \\dfrac43$，$T_2 = 400\\text{ K} = 127^\\circ\\text{C}$，(E) 正確。\n• (A) 方均根速率 $\\propto \\sqrt T$，兩溫度不同。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "97-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 9 所示，在一厚度均勻的石英玻璃片上，鍍有甲、乙兩種透光性極佳的均勻薄膜，它們的寬度都為 0.25 mm、厚度都為 $2.7\\ \\mu\\text{m}$。一直徑約為 0.40 mm、波長為 432 nm 的雷射光束對準兩膜的中心 C 處垂直膜面入射，若甲膜的折射率為 1.52，乙膜的折射率為 1.60，則下列敘述哪些選項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-15.png\" alt=\"圖9 玻璃片上並排的甲膜、乙膜，雷射光點跨在兩膜交界 C 處\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲膜內與乙膜內的雷射光頻率相同",
+      "甲膜內與乙膜內的雷射光波速相同",
+      "甲膜內的雷射光波長大於乙膜內的雷射光波長",
+      "甲膜內的雷射光波長小於乙膜內的雷射光波長",
+      "若使穿透甲、乙兩膜的雷射光束，利用透鏡使之交會於透鏡焦點處，則在該處會產生破壞性干涉"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【光在介質中】\n• (A) 正確：頻率由光源決定，不隨介質改變。\n• (B) 錯誤：$v = \\dfrac{c}{n}$，折射率不同，波速不同。\n• (C) 正確、(D) 錯誤：$\\lambda = \\dfrac{\\lambda_0}{n}$，甲的折射率較小，波長較長。\n• (E) 正確：兩膜造成的光程差 $= (1.60 - 1.52)\\times2.7\\ \\mu\\text{m} = 0.216\\ \\mu\\text{m} = 216\\text{ nm} = \\dfrac{432}{2}\\text{ nm}$，恰為半波長，兩光束反相，透鏡聚焦於焦點時（透鏡不再引入光程差）互相抵消。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "97-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 10 所示，在某一瞬間，有一電量為 $+q$（$q > 0$）的粒子，距離一鉛垂直立且載有電流 $i$ 的長直導線 $R$ 處，以 $v$ 的速度平行導線鉛垂向上運動。設 $x$ 及 $y$ 的方向如圖中所示，垂直射入紙面方向為 $+z$；若不計地磁的影響，在此瞬間，下列哪些敘述正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-16.png\" alt=\"圖10 向上電流 i 的長直導線，右方距離 R 處向上運動的 +q；+x 向左、+y 向上\" style=\"width:100%;max-width:170px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "帶電粒子不受電磁力",
+      "帶電粒子受電磁力的方向在 +z 方向",
+      "帶電粒子受電磁力的方向在 +x 方向",
+      "帶電粒子受到一電磁力，其量值與 $qivR$ 成正比",
+      "帶電粒子受到一電磁力，其量值與 $\\dfrac{qiv}{R}$ 成正比"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【運動電荷在電流磁場中受力】\n導線電流向上（$+y$），由右手定則，導線右側的磁場指向入紙面（$+z$），大小 $B = \\dfrac{\\mu_0 i}{2\\pi R}$。\n$\\vec F = q\\vec v\\times\\vec B$，$\\hat y\\times\\hat z = \\hat x$，力指向 $+x$（向左，朝向導線）。\n量值 $F = qvB = \\dfrac{\\mu_0}{2\\pi}\\cdot\\dfrac{qiv}{R}$，與 $\\dfrac{qiv}{R}$ 成正比。\n（可對照：同向平行電流互相吸引，粒子向上運動相當於向上的電流，被導線吸引。）\n\n故選 (C)(E)"
+  },
+  {
+    "id": "97-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "在水池上有兩個高度同為 H，但不同形狀的滑水道。甲、乙兩人分別同時自此二水道頂端，由靜止開始下滑，如圖 11 所示。若摩擦力可忽略，下列敘述中哪些是正確的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-17.png\" alt=\"圖11 同高 H 的兩條滑水道：甲先陡後緩，乙先緩後陡\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "下滑很短時間後，甲的速率比乙大",
+      "到達水道底端時，甲的速率比乙大",
+      "到達水道底端時，甲和乙的速率相同",
+      "下滑過程中，甲的速率愈來愈大",
+      "下滑過程中，甲沿水道切線方向的加速度愈來愈大"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "【力學能守恆與切線加速度】\n• (A) 正確：一開始甲的水道較陡，切線加速度 $g\\sin\\theta$ 較大，很快就比乙快（同時下降得也較多）。\n• (C) 正確、(B) 錯誤：無摩擦，力學能守恆，$v = \\sqrt{2gH}$，到底端時兩人速率相同。\n• (D) 正確：甲一路都在下降，位能持續轉成動能，速率愈來愈大。\n• (E) 錯誤：甲的水道愈來愈平緩，切線加速度 $g\\sin\\theta$ 愈來愈小。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "97-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 12(a) 所示，半徑為 $b$ 且位置固定的細圓環上，帶有總電量為 $+Q$（$Q > 0$）的均勻電荷，O 點為圓環的圓心，$z$ 軸通過 O 點且垂直於環面，P 點在 $z$ 軸上，它與 O 點的距離為 $d$。令 $k = \\dfrac{1}{4\\pi\\varepsilon_0}$ 為庫侖定律中的比例常數，距離 O 點無窮遠處的電位為零，則下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-18.png\" alt=\"圖12 (a) 帶電圓環與軸上 P 點；(b) 質量 m、電量 -q 的點電荷自 O 點沿 z 軸以 v0 射出\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圓心 O 點的電場量值為 $\\dfrac{kQ}{b}$",
+      "P 點的電場量值為 $\\dfrac{kQ}{d^2 + b^2}$",
+      "P 點的電位等於 $\\dfrac{kQd}{(d^2 + b^2)^{3/2}}$",
+      "O 點的電位等於 $\\dfrac{kQ}{b}$",
+      "質量為 $m$ 的點電荷 $-q$（$q > 0$）從 O 點以初速 $v_0 = \\sqrt{\\dfrac{kQq}{mb}}$ 沿 $z$ 軸射出，如圖 12(b) 所示，則此點電荷移動 $\\sqrt3 b$ 距離後，其速度減為零"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "【帶電圓環】\n環上每一點到軸上 $z$ 處的距離都是 $\\sqrt{z^2 + b^2}$。\n• (A) 錯誤：圓心處各電荷的電場互相抵消，$E = 0$。\n• (B) 錯誤：水平分量抵消，只剩軸向分量 $E_P = \\dfrac{kQd}{(d^2 + b^2)^{3/2}}$。\n• (C) 錯誤：電位是純量直接相加，$V_P = \\dfrac{kQ}{\\sqrt{d^2 + b^2}}$（選項寫的是電場）。\n• (D) 正確：$V_O = \\dfrac{kQ}{b}$。\n• (E) 正確：$-q$ 被環吸引而減速。動能 $\\dfrac12mv_0^2 = \\dfrac{kQq}{2b}$，停下時：\n$\\dfrac{kQq}{2b} = (-q)V(z) - (-q)V_O = kQq\\left(\\dfrac1b - \\dfrac{1}{\\sqrt{z^2 + b^2}}\\right)$\n$\\Rightarrow \\sqrt{z^2 + b^2} = 2b,\\ z = \\sqrt3 b$\n\n故選 (D)(E)"
+  },
+  {
+    "id": "97-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】點電荷 $+Q$ 及 $-Q$（$Q > 0$）位在同一平面上，$+Q$ 的位置固定，$-Q$ 的質量為 $m$，且和 $+Q$ 的距離為 $b$。$-Q$ 電荷以垂直於兩電荷連線的方向射出。令 $k = \\dfrac{1}{4\\pi\\varepsilon_0}$ 為庫侖定律中的比例常數。\n\n1. 若點電荷 $-Q$ 以 $v$ 射出，繞 $+Q$ 作半徑為 $b$ 的等速率圓周運動，如圖 13(a) 所示，求 $v$。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-non-1.png\" alt=\"圖13 (a) -Q 繞 +Q 作半徑 b 的圓周運動；(b) -Q 以 v0 射出後的橢圓軌跡，最遠點 A 距 +Q 為 a\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$v = \\sqrt{\\dfrac{kQ^2}{mb}}$"
+    ],
+    "blankLabels": [
+      "v"
+    ],
+    "explanation": "庫侖引力提供向心力：$\\dfrac{kQ^2}{b^2} = \\dfrac{mv^2}{b}$，$v = \\sqrt{\\dfrac{kQ^2}{mb}} = Q\\sqrt{\\dfrac{1}{4\\pi\\varepsilon_0 mb}}$。"
+  },
+  {
+    "id": "97-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】點電荷 $+Q$ 及 $-Q$（$Q > 0$）位在同一平面上，$+Q$ 的位置固定，$-Q$ 的質量為 $m$，且和 $+Q$ 的距離為 $b$。$-Q$ 電荷以垂直於兩電荷連線的方向射出。令 $k = \\dfrac{1}{4\\pi\\varepsilon_0}$ 為庫侖定律中的比例常數。\n\n2. 若 $-Q$ 電荷以 $v_0$ 射出，則循一橢圓軌跡運動，如圖 13(b) 所示。令 $-Q$ 距離 $+Q$ 的最遠點為 A 點，且令 A 點與 $+Q$ 電荷間的距離為 $a$，說明點電荷 $-Q$ 相對於點電荷 $+Q$ 的角動量是守恆的理由，並求出此角動量的量值與方向。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-non-1.png\" alt=\"圖13 (a) -Q 繞 +Q 作半徑 b 的圓周運動；(b) -Q 以 v0 射出後的橢圓軌跡，最遠點 A 距 +Q 為 a\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$-Q$ 只受 $+Q$ 的庫侖力，此力沿兩電荷連線（連心力），對 $+Q$ 的力矩為零，所以角動量守恆。量值 $L = mv_0 b$，方向垂直紙面向內（射入紙面）。"
+    ],
+    "blankLabels": [
+      "理由、量值與方向"
+    ],
+    "explanation": "力矩 $\\vec\\tau = \\vec r\\times\\vec F$，$\\vec F$ 與 $\\vec r$ 平行，$\\tau = 0$，$\\vec L$ 守恆。\n射出時 $\\vec v_0$ 與 $\\vec r$ 垂直：$L = mv_0 b$。$-Q$ 在 $+Q$ 正上方向右運動（順時針），$\\vec r\\times\\vec v$ 指向紙面內。"
+  },
+  {
+    "id": "97-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】點電荷 $+Q$ 及 $-Q$（$Q > 0$）位在同一平面上，$+Q$ 的位置固定，$-Q$ 的質量為 $m$，且和 $+Q$ 的距離為 $b$。$-Q$ 電荷以垂直於兩電荷連線的方向射出。令 $k = \\dfrac{1}{4\\pi\\varepsilon_0}$ 為庫侖定律中的比例常數。\n\n3. 承第 2 小題，若 $v_0 = \\sqrt{\\dfrac{3kQ^2}{2mb}}$，求 $-Q$ 在 A 點的速率（以 $v_0$ 及數字表示）及 $a$ 的大小（以 $b$ 及數字表示）。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-non-1.png\" alt=\"圖13 (a) -Q 繞 +Q 作半徑 b 的圓周運動；(b) -Q 以 v0 射出後的橢圓軌跡，最遠點 A 距 +Q 為 a\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$v_A = \\dfrac{v_0}{3}$，$a = 3b$"
+    ],
+    "blankLabels": [
+      "v_A 與 a"
+    ],
+    "explanation": "角動量守恆（A 點速度也垂直於連線）：$mv_0 b = mv_A a$ ……(1)\n力學能守恆：$\\dfrac12mv_0^2 - \\dfrac{kQ^2}{b} = \\dfrac12mv_A^2 - \\dfrac{kQ^2}{a}$ ……(2)\n代入 $\\dfrac12mv_0^2 = \\dfrac{3kQ^2}{4b}$ 與 $v_A = \\dfrac{b}{a}v_0$：\n$\\dfrac{3}{4b}\\left(1 - \\dfrac{b^2}{a^2}\\right) = \\dfrac1b - \\dfrac1a$\n令 $u = \\dfrac{b}{a}$：$3u^2 - 4u + 1 = 0$，$u = 1$（即射出點本身）或 $u = \\dfrac13$。\n所以 $a = 3b$，$v_A = \\dfrac{v_0}{3}$。"
+  },
+  {
+    "id": "97-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】小明在二維空間碰撞實驗中（見圖 14(a) 的實驗示意圖），獲得的水平白紙上的記錄，如圖 14(b) 所示：$O_1$ 及 $O_2$ 分別為入射鋼球（簡稱球 1）及被撞鐵球（簡稱球 2）在碰撞處靜止時球心的投影，$p_1$ 為碰撞前（不放置球 2 時）多次實驗所得球 1 的平均落點，而 $p_1'$ 及 $p_2'$ 分別為碰撞後多次實驗所得球 1 與球 2 的平均落點。假設二球半徑大約相等，且球 1 以水平方向碰撞球 2。\n\n1. 做實驗時，除了測量球 1 及球 2 的質量 $m_1$ 及 $m_2$ 外，還需測量白紙上的哪些量？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-non-2.png\" alt=\"圖14 (a) 斜槽與碰撞處的球 2；(b) 白紙上的 O1、O2、p1、p1′、p2′\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "需測量三個水平位移向量（長度與方向）：$\\overrightarrow{O_1p_1}$、$\\overrightarrow{O_1p_1'}$ 與 $\\overrightarrow{O_2p_2'}$。"
+    ],
+    "blankLabels": [
+      "需測量的量"
+    ],
+    "explanation": "兩球都從同一高度水平飛出、落地時間相同，水平位移與水平速度成正比，可以用位移代替速度。球 1 從 $O_1$ 出發，球 2 從 $O_2$ 出發，所以要量 $O_1p_1$、$O_1p_1'$、$O_2p_2'$（包含方向）。"
+  },
+  {
+    "id": "97-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】小明在二維空間碰撞實驗中（見圖 14(a) 的實驗示意圖），獲得的水平白紙上的記錄，如圖 14(b) 所示：$O_1$ 及 $O_2$ 分別為入射鋼球（簡稱球 1）及被撞鐵球（簡稱球 2）在碰撞處靜止時球心的投影，$p_1$ 為碰撞前（不放置球 2 時）多次實驗所得球 1 的平均落點，而 $p_1'$ 及 $p_2'$ 分別為碰撞後多次實驗所得球 1 與球 2 的平均落點。假設二球半徑大約相等，且球 1 以水平方向碰撞球 2。\n\n2. 上一小題的各測量量間，要有怎樣的關係，才能證明球 1 及球 2 碰撞前的總動量與碰撞後的總動量相等？（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-non-2.png\" alt=\"圖14 (a) 斜槽與碰撞處的球 2；(b) 白紙上的 O1、O2、p1、p1′、p2′\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$m_1\\overrightarrow{O_1p_1} = m_1\\overrightarrow{O_1p_1'} + m_2\\overrightarrow{O_2p_2'}$（向量和；可作圖以平行四邊形法驗證）"
+    ],
+    "blankLabels": [
+      "關係式"
+    ],
+    "explanation": "飛行時間 $t$ 相同，$\\vec v = \\dfrac{\\vec s}{t}$。動量守恆 $m_1\\vec v_1 = m_1\\vec v_1' + m_2\\vec v_2'$，兩邊乘 $t$ 即得位移向量的關係。在紙上把 $m_1\\overrightarrow{O_1p_1'}$ 與 $m_2\\overrightarrow{O_2p_2'}$ 作向量相加，應等於 $m_1\\overrightarrow{O_1p_1}$。"
+  },
+  {
+    "id": "97-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】小明在二維空間碰撞實驗中（見圖 14(a) 的實驗示意圖），獲得的水平白紙上的記錄，如圖 14(b) 所示：$O_1$ 及 $O_2$ 分別為入射鋼球（簡稱球 1）及被撞鐵球（簡稱球 2）在碰撞處靜止時球心的投影，$p_1$ 為碰撞前（不放置球 2 時）多次實驗所得球 1 的平均落點，而 $p_1'$ 及 $p_2'$ 分別為碰撞後多次實驗所得球 1 與球 2 的平均落點。假設二球半徑大約相等，且球 1 以水平方向碰撞球 2。\n\n3. 小明在操作實驗時，若發現碰撞後兩球落到白紙的時間不同，則捨去該兩記錄點，並微調球 2 的鉛直位置，再重做實驗，其原因為何？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-phy-non-2.png\" alt=\"圖14 (a) 斜槽與碰撞處的球 2；(b) 白紙上的 O1、O2、p1、p1′、p2′\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "落地時間不同表示兩球碰撞時球心不在同一高度，碰撞不是水平正碰，碰後速度有鉛直分量、飛行時間不同，水平位移就不再與水平速度成同一比例，不能用位移代替速度驗證動量守恆；所以要調整球 2 的高度，使兩球球心等高、水平碰撞。"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "本實驗的關鍵假設是「兩球在同一高度水平飛出，落地時間相同」，這樣水平位移 $\\propto$ 水平速度。若兩球不同時落地，表示碰撞點不等高或碰後有鉛直速度，假設不成立，數據不可用。"
   }
 ]
