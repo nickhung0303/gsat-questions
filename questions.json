@@ -129154,5 +129154,675 @@
     ],
     "answerIndex": 0,
     "explanation": "作者指出博士供過於求，許多人只能做約聘或與學位無關的工作，態度是擔憂的。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-eng-01",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. Chinese is a language with many ______ differences. People living in different areas often speak different dialects.",
+    "options": [
+      "sociable",
+      "legendary",
+      "regional",
+      "superior"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：中文有許多地區性差異，住在不同地區的人常說不同方言。\n• (C) regional 地區的\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-eng-02",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. A menu serves to ______ customers about the varieties and prices of the dishes offered by the restaurant.",
+    "options": [
+      "appeal",
+      "convey",
+      "inform",
+      "demand"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：菜單的作用是告知顧客餐廳供應的菜色與價格。\ninform sb. about…「告知某人…」。(B) convey 的受詞是訊息，不是人。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-eng-03",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. Mary and Jane often fight over which radio station to listen to. Their ______ arises mainly from their different tastes in music.",
+    "options": [
+      "venture",
+      "consent",
+      "dispute",
+      "temptation"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：Mary 和 Jane 常為了聽哪個電台吵架，她們的爭執主要源於音樂品味不同。\n• (C) dispute 爭執\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-eng-04",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. The baby polar bear is being ______ studied by the scientists. Every move he makes is carefully observed and documented.",
+    "options": [
+      "prosperously",
+      "intensively",
+      "honorably",
+      "originally"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：科學家正密集研究這隻北極熊寶寶，牠的一舉一動都被仔細觀察記錄。\n• (B) intensively 密集地\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-eng-05",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. At twelve, Catherine has won several first prizes in international art competitions. Her talent and skills are ______ for her age.",
+    "options": [
+      "comparable",
+      "exceptional",
+      "indifferent",
+      "unconvincing"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：Catherine 才十二歲就在國際藝術比賽中多次奪冠，以她的年紀來說才華與技巧非常傑出。\n• (B) exceptional 傑出的、不凡的\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-eng-06",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. After his superb performance, the musician received a big round of ______ from the appreciative audience.",
+    "options": [
+      "vacuum",
+      "overflow",
+      "applause",
+      "spotlight"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：精湛演出後，音樂家獲得欣賞他的觀眾熱烈掌聲。\na round of applause「一陣掌聲」。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-eng-07",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. The water company inspects the pipelines and ______ the water supply regularly to ensure the safety of our drinking water.",
+    "options": [
+      "exhibits",
+      "monitors",
+      "interprets",
+      "converts"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：自來水公司定期檢查管線並監控供水，確保飲用水安全。\n• (B) monitor 監控\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-eng-08",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. This year's East Asia Summit meetings will focus on critical ______ such as energy conservation, food shortages, and global warming.",
+    "options": [
+      "issues",
+      "remarks",
+      "conducts",
+      "faculties"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：今年東亞高峰會將聚焦於節能、糧食短缺、全球暖化等重要議題。\n• (A) issue 議題\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-eng-09",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. Having fully recognized Mei-ling's academic ability, Mr. Lin strongly ______ her for admission to the university.",
+    "options": [
+      "assured",
+      "promoted",
+      "estimated",
+      "recommended"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：林老師充分肯定美玲的學術能力，強力推薦她進入這所大學。\n• (D) recommend 推薦\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-eng-10",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. The weatherman has warned about drastic temperature change in the next few days, and suggested that we check the weather on a daily basis and dress ______.",
+    "options": [
+      "necessarily",
+      "significantly",
+      "specifically",
+      "accordingly"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：氣象播報員警告未來幾天氣溫變化劇烈，建議每天查看天氣並據此穿衣。\n• (D) accordingly 相應地\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-eng-11",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe sun is an extraordinarily powerful source of energy. In fact, the Earth 【 11 】 20,000 times more energy from the sun than we currently use. If we used more of this source of heat and light, it 【 12 】 all the power needed throughout the world.\n\nWe can harness energy from the sun, or solar energy, in many ways. For instance, many satellites in space are equipped with large panels whose solar cells transform sunlight directly 【 13 】 electric power. These panels are covered with glass and are painted black inside to absorb as much heat as possible.\n\nSolar energy has a lot to offer. To begin with, it is a clean fuel. In contrast, fossil fuels, such as oil or coal, release 【 14 】 substances into the air when they are burned. 【 15 】, fossil fuels will run out, but solar energy will continue to reach the Earth long after the last coal has been mined and the last oil well has run dry.\n11.",
+    "options": [
+      "repeats",
+      "receives",
+      "rejects",
+      "reduces"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：事實上，地球從太陽「接收」的能量是我們目前用量的兩萬倍。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-eng-12",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe sun is an extraordinarily powerful source of energy. In fact, the Earth 【 11 】 20,000 times more energy from the sun than we currently use. If we used more of this source of heat and light, it 【 12 】 all the power needed throughout the world.\n\nWe can harness energy from the sun, or solar energy, in many ways. For instance, many satellites in space are equipped with large panels whose solar cells transform sunlight directly 【 13 】 electric power. These panels are covered with glass and are painted black inside to absorb as much heat as possible.\n\nSolar energy has a lot to offer. To begin with, it is a clean fuel. In contrast, fossil fuels, such as oil or coal, release 【 14 】 substances into the air when they are burned. 【 15 】, fossil fuels will run out, but solar energy will continue to reach the Earth long after the last coal has been mined and the last oil well has run dry.\n12.",
+    "options": [
+      "supplies",
+      "has supplied",
+      "was supplying",
+      "could supply"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：如果我們多利用這種熱與光的來源，它「就能提供」全世界所需的電力。與現在事實相反的假設：If + 過去式, could + 原形。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-eng-13",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe sun is an extraordinarily powerful source of energy. In fact, the Earth 【 11 】 20,000 times more energy from the sun than we currently use. If we used more of this source of heat and light, it 【 12 】 all the power needed throughout the world.\n\nWe can harness energy from the sun, or solar energy, in many ways. For instance, many satellites in space are equipped with large panels whose solar cells transform sunlight directly 【 13 】 electric power. These panels are covered with glass and are painted black inside to absorb as much heat as possible.\n\nSolar energy has a lot to offer. To begin with, it is a clean fuel. In contrast, fossil fuels, such as oil or coal, release 【 14 】 substances into the air when they are burned. 【 15 】, fossil fuels will run out, but solar energy will continue to reach the Earth long after the last coal has been mined and the last oil well has run dry.\n13.",
+    "options": [
+      "into",
+      "from",
+      "with",
+      "off"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：太陽能電池直接把陽光「轉換成」電力。transform A into B。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-eng-14",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe sun is an extraordinarily powerful source of energy. In fact, the Earth 【 11 】 20,000 times more energy from the sun than we currently use. If we used more of this source of heat and light, it 【 12 】 all the power needed throughout the world.\n\nWe can harness energy from the sun, or solar energy, in many ways. For instance, many satellites in space are equipped with large panels whose solar cells transform sunlight directly 【 13 】 electric power. These panels are covered with glass and are painted black inside to absorb as much heat as possible.\n\nSolar energy has a lot to offer. To begin with, it is a clean fuel. In contrast, fossil fuels, such as oil or coal, release 【 14 】 substances into the air when they are burned. 【 15 】, fossil fuels will run out, but solar energy will continue to reach the Earth long after the last coal has been mined and the last oil well has run dry.\n14.",
+    "options": [
+      "diligent",
+      "harmful",
+      "usable",
+      "changeable"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：相反地，化石燃料燃燒時會釋放「有害」物質到空氣中，與 clean fuel 對比。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-eng-15",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe sun is an extraordinarily powerful source of energy. In fact, the Earth 【 11 】 20,000 times more energy from the sun than we currently use. If we used more of this source of heat and light, it 【 12 】 all the power needed throughout the world.\n\nWe can harness energy from the sun, or solar energy, in many ways. For instance, many satellites in space are equipped with large panels whose solar cells transform sunlight directly 【 13 】 electric power. These panels are covered with glass and are painted black inside to absorb as much heat as possible.\n\nSolar energy has a lot to offer. To begin with, it is a clean fuel. In contrast, fossil fuels, such as oil or coal, release 【 14 】 substances into the air when they are burned. 【 15 】, fossil fuels will run out, but solar energy will continue to reach the Earth long after the last coal has been mined and the last oil well has run dry.\n15.",
+    "options": [
+      "Otherwise",
+      "Therefore",
+      "What's more",
+      "In comparison"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：太陽能是乾淨燃料；「此外」，化石燃料會用完，太陽能卻不會。What's more「而且」，補充另一個優點。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-eng-16",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nSigns asking visitors to keep their hands off the art are everywhere in the Louvre Museum, Paris. But one special sculpture gallery invites art lovers to allow their hands to 【 16 】 the works. The Louvre's Tactile Gallery, targeted at the blind and visually 【 17 】, is the only space in the museum where visitors can touch the sculptures, with no guards or alarms to stop them. Its latest exhibit is a 【 18 】 of sculpted lions, snakes, horses and eagles. The 15 animals exhibited are reproductions of famous works found elsewhere in the Louvre. Called \"Animals, Symbols of Power,\" the exhibit 【 19 】 animals that were used by kings and emperors throughout history to symbolize the greatness of their reigns. The exhibit, opened in December 2008, 【 20 】 scheduled to run for about three years. During guided tours on the weekends, children can explore the art with blindfolds on.\n16.",
+    "options": [
+      "fix up",
+      "run over",
+      "take away",
+      "knock off"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：有個特別的雕塑廳邀請藝術愛好者用手「撫摸過」作品。run over「（手）掠過」。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-eng-17",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nSigns asking visitors to keep their hands off the art are everywhere in the Louvre Museum, Paris. But one special sculpture gallery invites art lovers to allow their hands to 【 16 】 the works. The Louvre's Tactile Gallery, targeted at the blind and visually 【 17 】, is the only space in the museum where visitors can touch the sculptures, with no guards or alarms to stop them. Its latest exhibit is a 【 18 】 of sculpted lions, snakes, horses and eagles. The 15 animals exhibited are reproductions of famous works found elsewhere in the Louvre. Called \"Animals, Symbols of Power,\" the exhibit 【 19 】 animals that were used by kings and emperors throughout history to symbolize the greatness of their reigns. The exhibit, opened in December 2008, 【 20 】 scheduled to run for about three years. During guided tours on the weekends, children can explore the art with blindfolds on.\n17.",
+    "options": [
+      "impair",
+      "impairs",
+      "impaired",
+      "impairing"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：觸覺展廳以盲人和「視障」者為對象。the visually impaired「視障者」，the + 形容詞表一類人。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-eng-18",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nSigns asking visitors to keep their hands off the art are everywhere in the Louvre Museum, Paris. But one special sculpture gallery invites art lovers to allow their hands to 【 16 】 the works. The Louvre's Tactile Gallery, targeted at the blind and visually 【 17 】, is the only space in the museum where visitors can touch the sculptures, with no guards or alarms to stop them. Its latest exhibit is a 【 18 】 of sculpted lions, snakes, horses and eagles. The 15 animals exhibited are reproductions of famous works found elsewhere in the Louvre. Called \"Animals, Symbols of Power,\" the exhibit 【 19 】 animals that were used by kings and emperors throughout history to symbolize the greatness of their reigns. The exhibit, opened in December 2008, 【 20 】 scheduled to run for about three years. During guided tours on the weekends, children can explore the art with blindfolds on.\n18.",
+    "options": [
+      "collection",
+      "cooperation",
+      "completion",
+      "contribution"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：最新展覽是一「批」雕塑獅子、蛇、馬和老鷹的「收藏」。a collection of…\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-eng-19",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nSigns asking visitors to keep their hands off the art are everywhere in the Louvre Museum, Paris. But one special sculpture gallery invites art lovers to allow their hands to 【 16 】 the works. The Louvre's Tactile Gallery, targeted at the blind and visually 【 17 】, is the only space in the museum where visitors can touch the sculptures, with no guards or alarms to stop them. Its latest exhibit is a 【 18 】 of sculpted lions, snakes, horses and eagles. The 15 animals exhibited are reproductions of famous works found elsewhere in the Louvre. Called \"Animals, Symbols of Power,\" the exhibit 【 19 】 animals that were used by kings and emperors throughout history to symbolize the greatness of their reigns. The exhibit, opened in December 2008, 【 20 】 scheduled to run for about three years. During guided tours on the weekends, children can explore the art with blindfolds on.\n19.",
+    "options": [
+      "examines",
+      "protects",
+      "represents",
+      "features"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：這項展覽「以」帝王用來象徵統治偉大的動物「為主題」。feature「以…為特色」。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-eng-20",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nSigns asking visitors to keep their hands off the art are everywhere in the Louvre Museum, Paris. But one special sculpture gallery invites art lovers to allow their hands to 【 16 】 the works. The Louvre's Tactile Gallery, targeted at the blind and visually 【 17 】, is the only space in the museum where visitors can touch the sculptures, with no guards or alarms to stop them. Its latest exhibit is a 【 18 】 of sculpted lions, snakes, horses and eagles. The 15 animals exhibited are reproductions of famous works found elsewhere in the Louvre. Called \"Animals, Symbols of Power,\" the exhibit 【 19 】 animals that were used by kings and emperors throughout history to symbolize the greatness of their reigns. The exhibit, opened in December 2008, 【 20 】 scheduled to run for about three years. During guided tours on the weekends, children can explore the art with blindfolds on.\n20.",
+    "options": [
+      "is",
+      "being",
+      "has",
+      "having"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：這項 2008 年 12 月開幕的展覽，「預定」展出約三年。主詞 The exhibit 需要動詞：is scheduled to…。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-eng-21-30",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 21-30 題組】\nTextese (also known as chatspeak, texting language, or txt talk) is a term for the abbreviations and slang most commonly used among young people today. The ___(21)___ of textese is largely due to the necessary brevity of mobile phone text messaging, though its use is also very common on the Internet, including e-mail and instant messaging.\nThere are no ___(22)___ rules for writing textese. However, the common practice is to use single letters, pictures, or numbers to represent whole words. For example, \"i <3 u\" uses the picture ___(23)___ of a heart \"<3\" for \"love,\" and the letter \"u\" to ___(24)___ \"you.\" For words which have no common abbreviation, textese users often ___(25)___ the vowels from a word, and the reader is forced to interpret a string of consonants by re-adding the vowels. Thus, \"dictionary\" becomes \"dctnry,\" and \"keyboard\" becomes \"kybrd.\" The reader must interpret the ___(26)___ words depending on the context in which it is used, as there are many examples of words or phrases which use the same abbreviations. So if someone says \"ttyl, lol\" they probably mean \"talk to you later, lots of love\" not \"talk to you later, laugh out loud,\" and if someone says \"omg, lol\" they most ___(27)___ mean \"oh my god, laugh out loud\" not \"oh my god, lots of love.\"\nThe emergence of textese is clearly due to a desire to type less and to communicate more ___(28)___ than one can manage without such shortcuts. Yet it has been severely ___(29)___ as \"wrecking our language.\" Some scholars even consider the use of textese as \"irritating\" and essentially lazy behavior. They're worried that \"sloppy\" habits gained while using textese will result in students' growing ___(30)___ of proper spelling, grammar and punctuation.\n(A) quickly　(B) criticized　(C) likely　(D) abbreviated　(E) replace　(F) remove　(G) standard　(H) ignorance　(I) popularity　(J) symbol\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "I",
+      "G",
+      "J",
+      "E",
+      "F",
+      "D",
+      "C",
+      "A",
+      "B",
+      "H"
+    ],
+    "blankLabels": [
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "explanation": "• 21 (I) popularity：簡訊語言的「流行」主要是因為手機簡訊必須簡短。\n• 22 (G) standard：簡訊語言沒有「標準」規則。\n• 23 (J) symbol：用愛心的圖形「符號」<3 代表 love。\n• 24 (E) replace：用字母 u 來「取代」you。\n• 25 (F) remove：沒有常見縮寫的字，使用者常「刪去」母音，讀者得自行補回。\n• 26 (D) abbreviated：讀者必須依上下文解讀「縮寫的」字詞。\n• 27 (C) likely：most likely「很可能」。\n• 28 (A) quickly：想少打字、溝通得更「快」。\n• 29 (B) criticized：它被嚴厲「批評」為破壞語言。\n• 30 (H) ignorance：擔心學生對正確拼字、文法、標點越來越「無知」。"
+  },
+  {
+    "id": "99-ast-eng-31-35",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【篇章結構 31-35 題組】\nDo you have trouble getting started in the morning? Do you have problems learning early in the day? If you do, you are not alone. ___(31)___ They learn better at night than they do in the morning.\nTo investigate when cockroaches learn best, researchers at Vanderbilt University tested the insects for which odor (peppermint or vanilla) they preferred. Most cockroaches preferred the smell of vanilla to that of peppermint at all times. ___(32)___ Therefore, the scientists trained the cockroaches to prefer the peppermint smell by rewarding the insects with a taste of sugar water when they approached a peppermint smell. ___(33)___\nWhen the cockroaches were trained at night, they remembered the new associations (peppermint = sugar water; vanilla = salt water) for up to 48 hours. However, if the cockroaches were trained in the morning, they quickly forgot which smell went with which water. ___(34)___\nSo, cockroaches learn better at night than they do in the morning. ___(35)___ Because of this, it is likely that information they gather at night will be more useful to them. These experiments provide some clues about the interactions between body rhythms, learning and memory.\n(A) When these insects moved toward a vanilla smell, on the other hand, they were punished with a taste of salt.\n(B) This result thus shows that the time when they were trained decided the effect of their learning.\n(C) They are often more active and tend to search for food during the night.\n(D) They were also found to like sugar water, but not salt water.\n(E) Cockroaches have the same problem!\n（請依序填入各題代號 A～E）",
+    "blanks": [
+      "E",
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35"
+    ],
+    "explanation": "• 31 (E)：你不是唯一早上學不好的，蟑螂也有同樣問題！下句 They learn better at night 的 They 就是指蟑螂。\n• 32 (D)：牠們也喜歡糖水、不喜歡鹽水；下句 Therefore 科學家便以糖水獎勵。\n• 33 (A)：on the other hand，朝香草味移動時就以鹽水懲罰，與前句的糖水獎勵相對。\n• 34 (B)：夜間訓練記得久、早上訓練很快忘記，顯示訓練時間決定學習效果。\n• 35 (C)：蟑螂夜間較活躍、常在夜間覓食；下句 Because of this，夜間獲得的資訊對牠們更有用。"
+  },
+  {
+    "id": "99-ast-eng-36",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 36-39 題組】\nThe following report appeared in a newspaper in February 2007.\n\nOn February 15, 2007, hundreds of people came to New York City's famous railroad station--Grand Central Terminal--to trade in old dollar bills for the new George Washington presidential US＄1 coins. The gold-colored coin is the first in a new series by the U.S. Mint to honor former U.S. presidents. The Mint will issue four presidential US＄1 coins a year through 2016. These coins will come out in the order in which each president served. The George Washington coin is the first to be released. John Adams, Thomas Jefferson and James Madison coins will come out later this year.\n\nThe presidential US＄1 coins have a special design. For the first time since the 1930s, there are words carved into the edge of each coin, including the year in which the coin was issued and traditional mottos. Each coin will show a different president on its face, or heads side. It will also show the president's name. The other side of the coin will show the Statue of Liberty and the inscriptions \"United States of America\" and \"＄1.\"\n\nThere are some interesting facts about the coins. First, there will be one presidential US＄1 coin for each president, except Grover Cleveland. He will have two! Cleveland is the only U.S. president to have served two nonconsecutive terms. The last president now scheduled to get a coin is Gerald Ford. That's because a president cannot appear on a coin when he is still alive. In addition, a president must have been deceased for two years before he can be on a coin.\n36. According to the report, how many presidential US＄1 coins were scheduled to be released by the end of 2007 altogether?",
+    "options": [
+      "One.",
+      "Two.",
+      "Three.",
+      "Four."
+    ],
+    "answerIndex": 3,
+    "explanation": "每年發行四枚：華盛頓幣已發行，亞當斯、傑佛遜、麥迪遜幣將在今年稍後發行，2007 年底共四枚。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-eng-37",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 36-39 題組】\nThe following report appeared in a newspaper in February 2007.\n\nOn February 15, 2007, hundreds of people came to New York City's famous railroad station--Grand Central Terminal--to trade in old dollar bills for the new George Washington presidential US＄1 coins. The gold-colored coin is the first in a new series by the U.S. Mint to honor former U.S. presidents. The Mint will issue four presidential US＄1 coins a year through 2016. These coins will come out in the order in which each president served. The George Washington coin is the first to be released. John Adams, Thomas Jefferson and James Madison coins will come out later this year.\n\nThe presidential US＄1 coins have a special design. For the first time since the 1930s, there are words carved into the edge of each coin, including the year in which the coin was issued and traditional mottos. Each coin will show a different president on its face, or heads side. It will also show the president's name. The other side of the coin will show the Statue of Liberty and the inscriptions \"United States of America\" and \"＄1.\"\n\nThere are some interesting facts about the coins. First, there will be one presidential US＄1 coin for each president, except Grover Cleveland. He will have two! Cleveland is the only U.S. president to have served two nonconsecutive terms. The last president now scheduled to get a coin is Gerald Ford. That's because a president cannot appear on a coin when he is still alive. In addition, a president must have been deceased for two years before he can be on a coin.\n37. Why did the Mint issue the US＄1 coins?",
+    "options": [
+      "In response to U.S. citizens' requests.",
+      "In memory of the late U.S. presidents.",
+      "To attract more train commuters.",
+      "To promote the trading of dollar bills."
+    ],
+    "answerIndex": 1,
+    "explanation": "這系列硬幣是為了紀念已故的美國總統（總統必須過世滿兩年才能上硬幣）。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-eng-38",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 36-39 題組】\nThe following report appeared in a newspaper in February 2007.\n\nOn February 15, 2007, hundreds of people came to New York City's famous railroad station--Grand Central Terminal--to trade in old dollar bills for the new George Washington presidential US＄1 coins. The gold-colored coin is the first in a new series by the U.S. Mint to honor former U.S. presidents. The Mint will issue four presidential US＄1 coins a year through 2016. These coins will come out in the order in which each president served. The George Washington coin is the first to be released. John Adams, Thomas Jefferson and James Madison coins will come out later this year.\n\nThe presidential US＄1 coins have a special design. For the first time since the 1930s, there are words carved into the edge of each coin, including the year in which the coin was issued and traditional mottos. Each coin will show a different president on its face, or heads side. It will also show the president's name. The other side of the coin will show the Statue of Liberty and the inscriptions \"United States of America\" and \"＄1.\"\n\nThere are some interesting facts about the coins. First, there will be one presidential US＄1 coin for each president, except Grover Cleveland. He will have two! Cleveland is the only U.S. president to have served two nonconsecutive terms. The last president now scheduled to get a coin is Gerald Ford. That's because a president cannot appear on a coin when he is still alive. In addition, a president must have been deceased for two years before he can be on a coin.\n38. What may you find on the heads side of the new US＄1 coin?",
+    "options": [
+      "The name of a U.S. president.",
+      "The year when the coin was made.",
+      "The Statue of Liberty.",
+      "English proverbs."
+    ],
+    "answerIndex": 0,
+    "explanation": "正面有一位總統的肖像和他的名字。\n(B) 年份刻在硬幣邊緣；(C) 自由女神在背面。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-eng-39",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 36-39 題組】\nThe following report appeared in a newspaper in February 2007.\n\nOn February 15, 2007, hundreds of people came to New York City's famous railroad station--Grand Central Terminal--to trade in old dollar bills for the new George Washington presidential US＄1 coins. The gold-colored coin is the first in a new series by the U.S. Mint to honor former U.S. presidents. The Mint will issue four presidential US＄1 coins a year through 2016. These coins will come out in the order in which each president served. The George Washington coin is the first to be released. John Adams, Thomas Jefferson and James Madison coins will come out later this year.\n\nThe presidential US＄1 coins have a special design. For the first time since the 1930s, there are words carved into the edge of each coin, including the year in which the coin was issued and traditional mottos. Each coin will show a different president on its face, or heads side. It will also show the president's name. The other side of the coin will show the Statue of Liberty and the inscriptions \"United States of America\" and \"＄1.\"\n\nThere are some interesting facts about the coins. First, there will be one presidential US＄1 coin for each president, except Grover Cleveland. He will have two! Cleveland is the only U.S. president to have served two nonconsecutive terms. The last president now scheduled to get a coin is Gerald Ford. That's because a president cannot appear on a coin when he is still alive. In addition, a president must have been deceased for two years before he can be on a coin.\n39. Which of the following can be inferred about the presidential coins?",
+    "options": [
+      "President Gerald Ford's coin was issued in 2008.",
+      "The U.S. Mint has issued all the presidential coins by now.",
+      "No presidential coin has been released for President Barack Obama.",
+      "Every U.S. president had his coin made two years after his term was over."
+    ],
+    "answerIndex": 2,
+    "explanation": "總統在世時不能上硬幣，必須過世滿兩年；歐巴馬仍在世，所以沒有他的總統幣。\n(A) 硬幣依任期順序每年四枚，福特排在很後面；(D) 是過世兩年後，不是卸任兩年後。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-eng-40",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 40-43 題組】\nNewspapers have tried many things to stop a seemingly nonstop decline in readers. Now France is pushing forward with a novel approach: giving away papers to young readers in an effort to turn them into regular customers. The French government recently detailed plans of a project called \"My Free Newspaper,\" under which 18- to 24-year-olds will be offered a free, year-long subscription to a newspaper of their choice.\n\nNewspaper readership in France has been especially low among young people. According to a government study, only 10 percent of those aged 15 to 24 read a paid-for newspaper daily in 2007, down from 20 percent a decade earlier.\n\nEmmanuel Schwartzenberg, a former media editor of Le Figaro, the oldest and second-largest national newspaper in France, said he had strong reservations about the government project. At a time when advertising is in steep decline, he said, newspapers should instead be looking at ways to raise more profits from readers, rather than giving papers away. \"This just reinforces the belief that newspapers should be free, which is a very bad idea,\" Mr. Schwartzenberg said.\n\nFrench readers, young and old, already have plenty of free options from which to choose, including newspaper websites and the free papers handed out daily in many city centers. Some bloggers said the new program might hold the most appeal to the few young people who do already read, and buy, newspapers.\n\nThe French government plans to promote the program with an advertising campaign aimed at young readers and their parents. However, when asked how to attract young readers to the printed press, the government said the primary channel for the ads would be the Internet.\n40. Why did the French government decide to launch the free newspaper program?",
+    "options": [
+      "To fight economic recession.",
+      "To win approval from youngsters.",
+      "To promote newspaper readership.",
+      "To improve the literacy rate in France."
+    ],
+    "answerIndex": 2,
+    "explanation": "為了遏止讀者持續流失，法國政府送報紙給年輕人，希望把他們培養成固定讀者。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-eng-41",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 40-43 題組】\nNewspapers have tried many things to stop a seemingly nonstop decline in readers. Now France is pushing forward with a novel approach: giving away papers to young readers in an effort to turn them into regular customers. The French government recently detailed plans of a project called \"My Free Newspaper,\" under which 18- to 24-year-olds will be offered a free, year-long subscription to a newspaper of their choice.\n\nNewspaper readership in France has been especially low among young people. According to a government study, only 10 percent of those aged 15 to 24 read a paid-for newspaper daily in 2007, down from 20 percent a decade earlier.\n\nEmmanuel Schwartzenberg, a former media editor of Le Figaro, the oldest and second-largest national newspaper in France, said he had strong reservations about the government project. At a time when advertising is in steep decline, he said, newspapers should instead be looking at ways to raise more profits from readers, rather than giving papers away. \"This just reinforces the belief that newspapers should be free, which is a very bad idea,\" Mr. Schwartzenberg said.\n\nFrench readers, young and old, already have plenty of free options from which to choose, including newspaper websites and the free papers handed out daily in many city centers. Some bloggers said the new program might hold the most appeal to the few young people who do already read, and buy, newspapers.\n\nThe French government plans to promote the program with an advertising campaign aimed at young readers and their parents. However, when asked how to attract young readers to the printed press, the government said the primary channel for the ads would be the Internet.\n41. Which of the following can be concluded from the passage?",
+    "options": [
+      "Everyone considers the government project creative.",
+      "Newspaper readership is much higher in other countries.",
+      "Research shows young people have no interest in current affairs.",
+      "Giving away free papers is not a strong enough incentive to attract readers."
+    ],
+    "answerIndex": 3,
+    "explanation": "法國人已有網站、市中心免費報等許多免費選擇，部落客也認為計畫只會吸引原本就看報的人，可見送免費報紙誘因不足。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-eng-42",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 40-43 題組】\nNewspapers have tried many things to stop a seemingly nonstop decline in readers. Now France is pushing forward with a novel approach: giving away papers to young readers in an effort to turn them into regular customers. The French government recently detailed plans of a project called \"My Free Newspaper,\" under which 18- to 24-year-olds will be offered a free, year-long subscription to a newspaper of their choice.\n\nNewspaper readership in France has been especially low among young people. According to a government study, only 10 percent of those aged 15 to 24 read a paid-for newspaper daily in 2007, down from 20 percent a decade earlier.\n\nEmmanuel Schwartzenberg, a former media editor of Le Figaro, the oldest and second-largest national newspaper in France, said he had strong reservations about the government project. At a time when advertising is in steep decline, he said, newspapers should instead be looking at ways to raise more profits from readers, rather than giving papers away. \"This just reinforces the belief that newspapers should be free, which is a very bad idea,\" Mr. Schwartzenberg said.\n\nFrench readers, young and old, already have plenty of free options from which to choose, including newspaper websites and the free papers handed out daily in many city centers. Some bloggers said the new program might hold the most appeal to the few young people who do already read, and buy, newspapers.\n\nThe French government plans to promote the program with an advertising campaign aimed at young readers and their parents. However, when asked how to attract young readers to the printed press, the government said the primary channel for the ads would be the Internet.\n42. What is Mr. Schwartzenberg's attitude toward this program?",
+    "options": [
+      "Skeptical.",
+      "Devoted.",
+      "Optimistic.",
+      "Indifferent."
+    ],
+    "answerIndex": 0,
+    "explanation": "他對計畫有很大保留（strong reservations），認為只會強化「報紙應該免費」的壞觀念，態度懷疑。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-eng-43",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 40-43 題組】\nNewspapers have tried many things to stop a seemingly nonstop decline in readers. Now France is pushing forward with a novel approach: giving away papers to young readers in an effort to turn them into regular customers. The French government recently detailed plans of a project called \"My Free Newspaper,\" under which 18- to 24-year-olds will be offered a free, year-long subscription to a newspaper of their choice.\n\nNewspaper readership in France has been especially low among young people. According to a government study, only 10 percent of those aged 15 to 24 read a paid-for newspaper daily in 2007, down from 20 percent a decade earlier.\n\nEmmanuel Schwartzenberg, a former media editor of Le Figaro, the oldest and second-largest national newspaper in France, said he had strong reservations about the government project. At a time when advertising is in steep decline, he said, newspapers should instead be looking at ways to raise more profits from readers, rather than giving papers away. \"This just reinforces the belief that newspapers should be free, which is a very bad idea,\" Mr. Schwartzenberg said.\n\nFrench readers, young and old, already have plenty of free options from which to choose, including newspaper websites and the free papers handed out daily in many city centers. Some bloggers said the new program might hold the most appeal to the few young people who do already read, and buy, newspapers.\n\nThe French government plans to promote the program with an advertising campaign aimed at young readers and their parents. However, when asked how to attract young readers to the printed press, the government said the primary channel for the ads would be the Internet.\n43. According to the passage, where would the information about the free newspaper program in France most likely be seen?",
+    "options": [
+      "In magazines.",
+      "On blogs.",
+      "In newspapers.",
+      "On the Internet."
+    ],
+    "answerIndex": 3,
+    "explanation": "政府表示宣傳廣告的主要管道是網路。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-eng-44",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-47 題組】\nCoffee experts are willing to pay large sums of money for high-quality coffee beans. The high-end beans, such as Kona or Blue Mountain, are known to cost extraordinary sums of money. Then there is Kopi Lowak (translated as \"Civet Coffee\"), the world's most expensive coffee, which sells for as much as US＄50 per quarter-pound.\n\nThis isn't particularly surprising, given that approximately 500 pounds a year of Kopi Lowak constitute the entire world supply. What is surprising is why this particular coffee is so rare. In fact, it's not the plants that are rare. It's the civet droppings. That's right, the civet droppings--the body waste of the palm civet. Coffee beans aren't Kopi Lowak until they've been digested and come out in the body waste of the palm civet.\n\nPalm civets are tree-dwelling, raccoon-like little animals, native to Southeast Asia and the Indonesian islands. They also have a love for coffee cherries. According to Kopi Lowak suppliers, palm civets eat the fruit whole, but only digest the outer fruit, leaving the beans intact. While the beans are not destroyed, they undergo a transformation in the animal's body. A chemical substance in the digestive system of the palm civet causes some changes to the beans to give them a unique flavor. However, this is not the only explanation why coffee beans retrieved from civet droppings have a special flavor all their own. Another possible reason is that palm civets have an unfailing instinct for picking the coffee cherries at the peak of their ripeness.\n\nKopi Lowak is reported to have a character in taste unlike any other coffee, complex with caramel undertones and an earthy or gamey flavor. Currently, most of the world's supply of Kopi Lowak is sold in Japan, though a few US markets are also starting to stock up on Kopi Lowak.\n44. What does \"This\" in the second paragraph refer to?",
+    "options": [
+      "Civet Coffee.",
+      "Blue Mountain coffee.",
+      "The high price of Kopi Lowak.",
+      "The unique taste of Kona."
+    ],
+    "answerIndex": 2,
+    "explanation": "This isn't particularly surprising 指前句提到的麝香貓咖啡價格高達每四分之一磅 50 美元；因為全球年產量只有約 500 磅，高價並不意外。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-eng-45",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-47 題組】\nCoffee experts are willing to pay large sums of money for high-quality coffee beans. The high-end beans, such as Kona or Blue Mountain, are known to cost extraordinary sums of money. Then there is Kopi Lowak (translated as \"Civet Coffee\"), the world's most expensive coffee, which sells for as much as US＄50 per quarter-pound.\n\nThis isn't particularly surprising, given that approximately 500 pounds a year of Kopi Lowak constitute the entire world supply. What is surprising is why this particular coffee is so rare. In fact, it's not the plants that are rare. It's the civet droppings. That's right, the civet droppings--the body waste of the palm civet. Coffee beans aren't Kopi Lowak until they've been digested and come out in the body waste of the palm civet.\n\nPalm civets are tree-dwelling, raccoon-like little animals, native to Southeast Asia and the Indonesian islands. They also have a love for coffee cherries. According to Kopi Lowak suppliers, palm civets eat the fruit whole, but only digest the outer fruit, leaving the beans intact. While the beans are not destroyed, they undergo a transformation in the animal's body. A chemical substance in the digestive system of the palm civet causes some changes to the beans to give them a unique flavor. However, this is not the only explanation why coffee beans retrieved from civet droppings have a special flavor all their own. Another possible reason is that palm civets have an unfailing instinct for picking the coffee cherries at the peak of their ripeness.\n\nKopi Lowak is reported to have a character in taste unlike any other coffee, complex with caramel undertones and an earthy or gamey flavor. Currently, most of the world's supply of Kopi Lowak is sold in Japan, though a few US markets are also starting to stock up on Kopi Lowak.\n45. Why is Kopi Lowak expensive?",
+    "options": [
+      "There is a very limited supply of the beans.",
+      "The coffee trees that grow the beans are scarce.",
+      "It takes a long time for the coffee beans to ripen.",
+      "Only a few experts know how to produce the beans."
+    ],
+    "answerIndex": 0,
+    "explanation": "全球供應量每年只有約 500 磅。\n(B) 文中明說稀有的不是咖啡樹，而是麝香貓的糞便。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-eng-46",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-47 題組】\nCoffee experts are willing to pay large sums of money for high-quality coffee beans. The high-end beans, such as Kona or Blue Mountain, are known to cost extraordinary sums of money. Then there is Kopi Lowak (translated as \"Civet Coffee\"), the world's most expensive coffee, which sells for as much as US＄50 per quarter-pound.\n\nThis isn't particularly surprising, given that approximately 500 pounds a year of Kopi Lowak constitute the entire world supply. What is surprising is why this particular coffee is so rare. In fact, it's not the plants that are rare. It's the civet droppings. That's right, the civet droppings--the body waste of the palm civet. Coffee beans aren't Kopi Lowak until they've been digested and come out in the body waste of the palm civet.\n\nPalm civets are tree-dwelling, raccoon-like little animals, native to Southeast Asia and the Indonesian islands. They also have a love for coffee cherries. According to Kopi Lowak suppliers, palm civets eat the fruit whole, but only digest the outer fruit, leaving the beans intact. While the beans are not destroyed, they undergo a transformation in the animal's body. A chemical substance in the digestive system of the palm civet causes some changes to the beans to give them a unique flavor. However, this is not the only explanation why coffee beans retrieved from civet droppings have a special flavor all their own. Another possible reason is that palm civets have an unfailing instinct for picking the coffee cherries at the peak of their ripeness.\n\nKopi Lowak is reported to have a character in taste unlike any other coffee, complex with caramel undertones and an earthy or gamey flavor. Currently, most of the world's supply of Kopi Lowak is sold in Japan, though a few US markets are also starting to stock up on Kopi Lowak.\n46. What is the main point discussed in the third paragraph?",
+    "options": [
+      "Why palm civets like the coffee beans.",
+      "Where Kopi Lowak is mainly harvested.",
+      "What chemicals are found in the civet's digestive system.",
+      "How palm civets change coffee fruit to Kopi Lowak beans."
+    ],
+    "answerIndex": 3,
+    "explanation": "第三段說明麝香貓吃下咖啡果、只消化果肉，豆子在體內經化學變化產生獨特風味，也就是咖啡果如何變成麝香貓咖啡豆。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-eng-47",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-47 題組】\nCoffee experts are willing to pay large sums of money for high-quality coffee beans. The high-end beans, such as Kona or Blue Mountain, are known to cost extraordinary sums of money. Then there is Kopi Lowak (translated as \"Civet Coffee\"), the world's most expensive coffee, which sells for as much as US＄50 per quarter-pound.\n\nThis isn't particularly surprising, given that approximately 500 pounds a year of Kopi Lowak constitute the entire world supply. What is surprising is why this particular coffee is so rare. In fact, it's not the plants that are rare. It's the civet droppings. That's right, the civet droppings--the body waste of the palm civet. Coffee beans aren't Kopi Lowak until they've been digested and come out in the body waste of the palm civet.\n\nPalm civets are tree-dwelling, raccoon-like little animals, native to Southeast Asia and the Indonesian islands. They also have a love for coffee cherries. According to Kopi Lowak suppliers, palm civets eat the fruit whole, but only digest the outer fruit, leaving the beans intact. While the beans are not destroyed, they undergo a transformation in the animal's body. A chemical substance in the digestive system of the palm civet causes some changes to the beans to give them a unique flavor. However, this is not the only explanation why coffee beans retrieved from civet droppings have a special flavor all their own. Another possible reason is that palm civets have an unfailing instinct for picking the coffee cherries at the peak of their ripeness.\n\nKopi Lowak is reported to have a character in taste unlike any other coffee, complex with caramel undertones and an earthy or gamey flavor. Currently, most of the world's supply of Kopi Lowak is sold in Japan, though a few US markets are also starting to stock up on Kopi Lowak.\n47. Which of the following statements is true, according to the passage?",
+    "options": [
+      "Little palm civets eat only the outer layer of the coffee cherries.",
+      "Palm civets somehow know the right time when the coffee fruit ripens.",
+      "Kopi Lowak is most popular in Southeast Asia and the Indonesian islands.",
+      "Kona and Blue Mountain are the most expensive coffees but only of average quality."
+    ],
+    "answerIndex": 1,
+    "explanation": "麝香貓有準確的本能，會挑熟度正好的咖啡果吃。\n(A) 牠們整顆吃，只消化果肉；(C) 大多賣到日本。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-eng-48",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nGünter Grass was the winner of the 1999 Nobel Prize in Literature. His talents are revealed in a variety of disciplines: He is not only a novelist, poet and playwright, but also a renowned painter and sculptor. As he himself stresses, his creations are closely related to his unique personal history. His father was a German who joined the Nazi party in World War II, while his mother was Polish. As a result, he constantly suffered contradictory feelings: as a Pole who had been victimized, and as someone guilty of harming the Poles. The torment in his heart led him to denounce the Nazis and his political activism has continued throughout his career. His commitment to the peace movement and the environmental movement as well as his unfailing quest for justice has won him praise as \"the conscience of the nation.\"\n\nIn the spring of 1996, he was inspired during a trip to Italy to write a poem with his watercolor brush directly on one of his paintings. Before long, a collection of his \"water poems\" was born. Painting and literature have become his major forms of creativity. For him, painting is a form of creation with concrete, sensual elements, while writing is a hard and abstract process. When he cannot find words to convey his thoughts, painting helps him find the words to express himself. In this way, Grass not only creates simple depictions of the objects he is fond of in life, such as melons, vegetables, fish, and mushrooms, but also uses them as symbols for mental associations of various kinds. For example, to express the complexity of reality, he sometimes places unrelated objects in the same painting, such as a bird and a housefly, or a mushroom and a nail. Grass has depicted a wide variety of natural scenes, animals and plants, and even human artifacts of the German countryside, portraying them in poems, and allowing words to make the paintings rich in literary value.\n48. What caused Grass to feel confused and troubled when he was young?",
+    "options": [
+      "He was the son of a Nazi and a victimized Pole.",
+      "He found himself fighting two opposing political parties.",
+      "He was trained to be an artist though he wanted to be a poet.",
+      "He was born with so many talents that he couldn't choose a direction."
+    ],
+    "answerIndex": 0,
+    "explanation": "父親是加入納粹的德國人、母親是波蘭人，他因此陷入既是受害的波蘭人、又是加害者的矛盾情感。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-eng-49",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nGünter Grass was the winner of the 1999 Nobel Prize in Literature. His talents are revealed in a variety of disciplines: He is not only a novelist, poet and playwright, but also a renowned painter and sculptor. As he himself stresses, his creations are closely related to his unique personal history. His father was a German who joined the Nazi party in World War II, while his mother was Polish. As a result, he constantly suffered contradictory feelings: as a Pole who had been victimized, and as someone guilty of harming the Poles. The torment in his heart led him to denounce the Nazis and his political activism has continued throughout his career. His commitment to the peace movement and the environmental movement as well as his unfailing quest for justice has won him praise as \"the conscience of the nation.\"\n\nIn the spring of 1996, he was inspired during a trip to Italy to write a poem with his watercolor brush directly on one of his paintings. Before long, a collection of his \"water poems\" was born. Painting and literature have become his major forms of creativity. For him, painting is a form of creation with concrete, sensual elements, while writing is a hard and abstract process. When he cannot find words to convey his thoughts, painting helps him find the words to express himself. In this way, Grass not only creates simple depictions of the objects he is fond of in life, such as melons, vegetables, fish, and mushrooms, but also uses them as symbols for mental associations of various kinds. For example, to express the complexity of reality, he sometimes places unrelated objects in the same painting, such as a bird and a housefly, or a mushroom and a nail. Grass has depicted a wide variety of natural scenes, animals and plants, and even human artifacts of the German countryside, portraying them in poems, and allowing words to make the paintings rich in literary value.\n49. Why has Grass been praised as \"the conscience of the nation\"?",
+    "options": [
+      "He victimized the Poles and criticized the Nazis.",
+      "He has been a strong advocate of peace and justice.",
+      "He has shown great sympathy for the Poles through his poems.",
+      "He joined the Nazi party and showed great loyalty to his country."
+    ],
+    "answerIndex": 1,
+    "explanation": "他投身和平運動與環保運動，並不斷追求正義，因此被譽為「國家的良心」。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-eng-50",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nGünter Grass was the winner of the 1999 Nobel Prize in Literature. His talents are revealed in a variety of disciplines: He is not only a novelist, poet and playwright, but also a renowned painter and sculptor. As he himself stresses, his creations are closely related to his unique personal history. His father was a German who joined the Nazi party in World War II, while his mother was Polish. As a result, he constantly suffered contradictory feelings: as a Pole who had been victimized, and as someone guilty of harming the Poles. The torment in his heart led him to denounce the Nazis and his political activism has continued throughout his career. His commitment to the peace movement and the environmental movement as well as his unfailing quest for justice has won him praise as \"the conscience of the nation.\"\n\nIn the spring of 1996, he was inspired during a trip to Italy to write a poem with his watercolor brush directly on one of his paintings. Before long, a collection of his \"water poems\" was born. Painting and literature have become his major forms of creativity. For him, painting is a form of creation with concrete, sensual elements, while writing is a hard and abstract process. When he cannot find words to convey his thoughts, painting helps him find the words to express himself. In this way, Grass not only creates simple depictions of the objects he is fond of in life, such as melons, vegetables, fish, and mushrooms, but also uses them as symbols for mental associations of various kinds. For example, to express the complexity of reality, he sometimes places unrelated objects in the same painting, such as a bird and a housefly, or a mushroom and a nail. Grass has depicted a wide variety of natural scenes, animals and plants, and even human artifacts of the German countryside, portraying them in poems, and allowing words to make the paintings rich in literary value.\n50. Why was Grass's trip to Italy important to him?",
+    "options": [
+      "He was inspired by a fine arts master in Italy.",
+      "He formed a new interest in painting simple objects there.",
+      "He developed a new form for creating his poems during the trip.",
+      "He found a new way to solve the conflict between the Nazis and the Poles."
+    ],
+    "answerIndex": 2,
+    "explanation": "1996 年他在義大利旅行時，受到啟發，用水彩筆直接在畫上寫詩，不久便有了「水詩」集。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-eng-51",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nGünter Grass was the winner of the 1999 Nobel Prize in Literature. His talents are revealed in a variety of disciplines: He is not only a novelist, poet and playwright, but also a renowned painter and sculptor. As he himself stresses, his creations are closely related to his unique personal history. His father was a German who joined the Nazi party in World War II, while his mother was Polish. As a result, he constantly suffered contradictory feelings: as a Pole who had been victimized, and as someone guilty of harming the Poles. The torment in his heart led him to denounce the Nazis and his political activism has continued throughout his career. His commitment to the peace movement and the environmental movement as well as his unfailing quest for justice has won him praise as \"the conscience of the nation.\"\n\nIn the spring of 1996, he was inspired during a trip to Italy to write a poem with his watercolor brush directly on one of his paintings. Before long, a collection of his \"water poems\" was born. Painting and literature have become his major forms of creativity. For him, painting is a form of creation with concrete, sensual elements, while writing is a hard and abstract process. When he cannot find words to convey his thoughts, painting helps him find the words to express himself. In this way, Grass not only creates simple depictions of the objects he is fond of in life, such as melons, vegetables, fish, and mushrooms, but also uses them as symbols for mental associations of various kinds. For example, to express the complexity of reality, he sometimes places unrelated objects in the same painting, such as a bird and a housefly, or a mushroom and a nail. Grass has depicted a wide variety of natural scenes, animals and plants, and even human artifacts of the German countryside, portraying them in poems, and allowing words to make the paintings rich in literary value.\n51. Which of the following correctly characterizes Grass's poems, according to the passage?",
+    "options": [
+      "Most of his poems depict the cruelty of the Nazis.",
+      "The theme of his poems won him the Nobel Peace Prize.",
+      "The poems on his paintings are often not related to objects in the real world.",
+      "The ideas in his poems are expressed more thoroughly with the help of his paintings."
+    ],
+    "answerIndex": 3,
+    "explanation": "找不到字詞表達想法時，繪畫幫他找到字詞，可見他的詩藉繪畫更完整地表達。\n(B) 他得的是諾貝爾文學獎。\n\n故選 (D)"
   }
 ]
