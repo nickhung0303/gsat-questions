@@ -31509,5 +31509,660 @@
       ]
     ],
     "explanation": "三級碳是與 3 個碳原子相連的碳。在 D 的骨架中，環上帶有甲基的碳與環接合處的碳等共 5 個符合（連接氧原子的碳不算入碳–碳鍵數）。"
+  },
+  {
+    "id": "104-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "推廣低鈉鹽飲食的營養師建議：每人每天的飲食中，鈉的含量應低於 2400 毫克。若將 2400 毫克的鈉換算成實際攝取的食鹽（公克），則最接近下列哪一數值？",
+    "options": [
+      "0.5",
+      "1",
+      "3",
+      "6",
+      "10"
+    ],
+    "answerIndex": 3,
+    "explanation": "【質量換算】\nNaCl 中 Na 占 $\\dfrac{23}{58.5}$：食鹽 $= 2.4\\times\\dfrac{58.5}{23} \\approx 6.1\\text{ g}$。\n\n故選 (D)"
+  },
+  {
+    "id": "104-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "平溪放天燈已是國際知名的節慶活動。在天燈下方點火後，即可冉冉上昇。下列有關天燈上昇的主要原因，哪一敘述正確？",
+    "options": [
+      "因燃燒時耗去氧氣，氣體量減少",
+      "因燃燒升溫，氣體膨脹噴出燈口的反作用力",
+      "因燃燒升溫，氣體變成理想氣體",
+      "因燃燒升溫，氣體膨脹，密度變低",
+      "因燃燒升溫，氣體碰撞燈壁頻率增加"
+    ],
+    "answerIndex": 3,
+    "explanation": "【熱空氣的浮力】\n燈內空氣受熱膨脹，部分空氣逸出，燈內空氣密度變小。外面冷空氣給的浮力大於燈與熱空氣的總重量，天燈就上升。\n\n故選 (D)"
+  },
+  {
+    "id": "104-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "若 2.0 升的 $\\text{X}_2$ 氣體與 1.0 升的 $\\text{Y}_2$ 氣體完全反應，兩者均無剩餘，產生 2.0 升的 R 氣體，則下列哪一選項是 R 的化學式？（假設氣體均為理想氣體，且反應前後均在同溫同壓的條件。）",
+    "options": [
+      "XY",
+      "$\\text{XY}_2$",
+      "$\\text{XY}_3$",
+      "$\\text{X}_2\\text{Y}$",
+      "$\\text{X}_3\\text{Y}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【亞佛加厥定律】\n同溫同壓下體積比 = 莫耳數比：$2\\text{X}_2 + \\text{Y}_2 \\to 2\\text{R}$，原子守恆得 R 為 $\\text{X}_2\\text{Y}$（例如 $2\\text{H}_2 + \\text{O}_2 \\to 2\\text{H}_2\\text{O}$）。\n\n故選 (D)"
+  },
+  {
+    "id": "104-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "王同學在實驗室配製濃度為 0.100 M 的氫氧化鈉水溶液，用來滴定一未知濃度的鹽酸溶液。在此實驗過程中，<u>最不可能</u>使用下列哪一玻璃器材？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-chem-04.png\" alt=\"(A) 容量瓶 (B) 錐形瓶 (C) 圓底燒瓶 (D) 漏斗 (E) 燒杯\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "(A) 容量瓶",
+      "(B) 錐形瓶",
+      "(C) 圓底燒瓶",
+      "(D) 漏斗",
+      "(E) 燒杯"
+    ],
+    "answerIndex": 2,
+    "explanation": "【滴定實驗器材】\n配製標準溶液用容量瓶與燒杯；滴定時待測液裝在錐形瓶；以漏斗把溶液倒入滴定管。圓底燒瓶多用於加熱回流、蒸餾，滴定實驗中最不會用到。\n\n故選 (C)"
+  },
+  {
+    "id": "104-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關化學反應速率的敘述，哪一項正確？",
+    "options": [
+      "放熱反應的反應速率比吸熱反應的反應速率快",
+      "催化劑會改變反應途徑，也可能造成反應級數的改變",
+      "對氣體反應物而言，降低反應物的分壓，則可增加反應速率",
+      "反應速率的快慢與活化能有關，而活化能會隨溫度升高而降低",
+      "定溫下，對一級反應而言，其反應速率常數會隨反應時間增加而減小"
+    ],
+    "answerIndex": 1,
+    "explanation": "【反應速率】\n• (A) 反應速率與反應熱無關，由活化能決定。\n• (B) 正確：催化劑提供活化能較低的新途徑，速率定律（級數）可能隨之改變。\n• (C) 分壓（濃度）降低，碰撞頻率下降，速率變慢。\n• (D) 升溫使能越過活化能的分子比例增加，但活化能本身不變。\n• (E) 速率常數只與溫度（及催化劑）有關，不隨時間改變。\n\n故選 (B)"
+  },
+  {
+    "id": "104-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "王同學在以氣閥連接的兩個密閉容器內，分別裝入 2.0 大氣壓的 $\\text{NH}_3(g)$ 與 1.6 大氣壓的 $\\text{HCl}(g)$，如圖 1。之後打開氣閥讓兩氣體充分反應，發現容器內生成白色固體。若反應後氣體的溫度由 27°C 升高至 87°C，則容器內的壓力，最接近下列哪一數值（大氣壓）？（連接氣閥的管子體積可忽略不計）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-chem-06.png\" alt=\"圖1 兩個 1.0 升容器：2.0 大氣壓 NH3 與 1.6 大氣壓 HCl，中間以氣閥相連\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "0.20",
+      "0.24",
+      "0.40",
+      "0.48",
+      "1.8"
+    ],
+    "answerIndex": 1,
+    "explanation": "【氣體反應的分壓計量】\n$\\text{NH}_3 + \\text{HCl} \\to \\text{NH}_4\\text{Cl}(s)$，以 1 升中的壓力當作莫耳數的量度：HCl 1.6 全部反應，$\\text{NH}_3$ 剩 0.4。\n剩下的 $\\text{NH}_3$ 擴散到 2.0 升：27°C 時壓力 0.2 atm；升溫到 87°C：$0.2\\times\\dfrac{360}{300} = 0.24$ atm。\n\n故選 (B)"
+  },
+  {
+    "id": "104-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "某一化學反應經過下列三步驟才完成：\n步驟 1：$\\text{H}_3\\text{O}^+(aq) + \\text{HOOH}(aq) \\to \\text{HOOH}_2^+(aq) + \\text{H}_2\\text{O}(aq)$\n步驟 2：$\\text{HOOH}_2^+(aq) + \\text{Br}^-(aq) \\to \\text{HOBr}(aq) + \\text{H}_2\\text{O}(aq)$\n步驟 3：$\\text{HOBr}(aq) + \\text{HOOH}(aq) \\to \\text{Br}^-(aq) + \\text{H}_3\\text{O}^+(aq) + \\text{O}_2(g)$\n在此化學反應中，下列對各步驟中的物質所扮演的角色，哪一敘述正確？",
+    "options": [
+      "$\\text{H}_3\\text{O}^+(aq)$ 是中間物",
+      "$\\text{HOBr}(aq)$ 是生成物",
+      "$\\text{Br}^-(aq)$ 是催化劑",
+      "$\\text{HOOH}_2^+(aq)$ 是反應物",
+      "$\\text{H}_2\\text{O}(aq)$ 是中間物"
+    ],
+    "answerIndex": 2,
+    "explanation": "【反應機構】\n三式相加：$2\\text{HOOH} \\to 2\\text{H}_2\\text{O} + \\text{O}_2$。\n• 先消耗、後再生、最後量不變者為催化劑：$\\text{H}_3\\text{O}^+$（步驟 1 消耗、步驟 3 再生）與 $\\text{Br}^-$（步驟 2 消耗、步驟 3 再生），(C) 正確、(A) 錯。\n• 先生成、後消耗者為中間物：$\\text{HOOH}_2^+$、HOBr，(B)(D) 錯。\n• $\\text{H}_2\\text{O}$ 為生成物，(E) 錯。\n\n故選 (C)"
+  },
+  {
+    "id": "104-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列關於 $\\text{S}^{2-}$、$\\text{Cl}^-$、Ar、$\\text{K}^+$ 和 $\\text{Ca}^{2+}$ 等五種原子或離子，哪一敘述<u>錯誤</u>？",
+    "options": [
+      "電子數相等",
+      "$\\text{S}^{2-}$ 的總電子數為 16",
+      "最外層電子所在的軌域相同",
+      "半徑大小為 $\\text{S}^{2-} > \\text{Cl}^- > \\text{Ar} > \\text{K}^+ > \\text{Ca}^{2+}$",
+      "$\\text{Cl}^-(g) \\to \\text{Cl}(g) + e^-$ 所需要的能量為電子親和力，其數值在所有元素中最大"
+    ],
+    "answerIndex": 1,
+    "explanation": "【等電子系列】\n五者都有 18 個電子（電子組態同 Ar），(A)(C) 正確；$\\text{S}^{2-}$ 的電子數是 $16 + 2 = 18$，(B) 錯誤。\n電子數相同時，核電荷愈大半徑愈小，(D) 正確。氯的電子親和力在所有元素中最大，(E) 正確。\n\n故選 (B)"
+  },
+  {
+    "id": "104-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "由 H、N、O 三種元素可以組成多種化合物。下列敘述何者正確？\n（甲）由 $2\\text{H}_2\\text{O}_2 \\to 2\\text{H}_2\\text{O} + \\text{O}_2$，可知 $\\text{H}_2\\text{O}_2$ 具有自身氧化還原能力。\n（乙）$\\text{N}_2\\text{H}_4$ 具有兩對孤電子對，且沒有雙鍵。\n（丙）NO、$\\text{N}_2\\text{O}$ 以及 $\\text{NO}_2$ 三者是同分異構物。\n（丁）$\\text{NH}_3$ 與 $\\text{H}_2\\text{O}$ 具有分子間氫鍵，但兩者均不具極性。",
+    "options": [
+      "只有甲",
+      "只有乙",
+      "甲與乙",
+      "乙與丙",
+      "丙與丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "【H、N、O 化合物】\n• 甲 正確：O 由 −1 同時變成 −2 與 0，是自身氧化還原。\n• 乙 正確：$\\text{H}_2\\text{N}-\\text{NH}_2$，每個 N 一對孤電子，共兩對，全為單鍵。\n• 丙 錯誤：三者分子式不同，不是同分異構物。\n• 丁 錯誤：兩者都是極性分子。\n\n故選 (C)"
+  },
+  {
+    "id": "104-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "若用葡萄糖（甲）、溴化鎂（乙）、氯化鈉（丙）、醋酸（丁）等四種化合物，在 25℃ 製備相同滲透壓且等體積的溶液時，所需質量由大至小排序，則下列哪一選項的排序正確？",
+    "options": [
+      "甲＞乙＞丙＞丁",
+      "乙＞甲＞丁＞丙",
+      "甲＞丁＞丙＞乙",
+      "乙＞甲＞丙＞丁",
+      "甲＞乙＞丁＞丙"
+    ],
+    "answerIndex": 4,
+    "explanation": "【滲透壓與粒子數】\n相同滲透壓 → 溶質粒子總濃度相同。每產生 1 mol 粒子所需質量：\n• 葡萄糖：$\\dfrac{180}{1} = 180$ g\n• 溴化鎂 $\\text{MgBr}_2$（解離成 3 個離子）：$\\dfrac{184}{3} \\approx 61$ g\n• 醋酸（弱酸，幾乎不解離）：約 60 g\n• 氯化鈉（2 個離子）：$\\dfrac{58.5}{2} \\approx 29$ g\n排序：甲＞乙＞丁＞丙。\n\n故選 (E)"
+  },
+  {
+    "id": "104-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 11-12 題為題組】濃度均為 0.1 M 的五種水溶液：$\\text{AgNO}_3$、NaBr、HCl、$\\text{Na}_2\\text{S}$、$\\text{Na}_2\\text{CO}_3$，有如圖 2 所示的相互反應關係，亦即將圖中每條連線兩端的溶液等量混合，都會有明顯可辨認的化學反應。試推演每一種溶液在圖中的位置後，回答下列問題。\n\n11. 下列哪一化學式是溶液丁的溶質？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-chem-11.png\" alt=\"圖2 甲～戊五種溶液的連線：乙連甲、丙、丁、戊；丁連乙、丙、戊\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{AgNO}_3$",
+      "NaBr",
+      "HCl",
+      "$\\text{Na}_2\\text{S}$",
+      "$\\text{Na}_2\\text{CO}_3$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【由反應數推斷】\n兩兩混合有明顯反應的組合：\n• $\\text{AgNO}_3$ 與其他四者都產生沉澱（AgBr、AgCl、$\\text{Ag}_2\\text{S}$、$\\text{Ag}_2\\text{CO}_3$）：4 條。\n• HCl 與 $\\text{AgNO}_3$（沉澱）、$\\text{Na}_2\\text{S}$（$\\text{H}_2\\text{S}$）、$\\text{Na}_2\\text{CO}_3$（$\\text{CO}_2$）：3 條。\n• $\\text{Na}_2\\text{S}$、$\\text{Na}_2\\text{CO}_3$：各 2 條；NaBr：只與 $\\text{AgNO}_3$ 反應，1 條。\n圖中乙有 4 條連線、丁有 3 條、甲只有 1 條，所以丁是 HCl。\n\n故選 (C)"
+  },
+  {
+    "id": "104-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 11-12 題為題組】濃度均為 0.1 M 的五種水溶液：$\\text{AgNO}_3$、NaBr、HCl、$\\text{Na}_2\\text{S}$、$\\text{Na}_2\\text{CO}_3$，有如圖 2 所示的相互反應關係，亦即將圖中每條連線兩端的溶液等量混合，都會有明顯可辨認的化學反應。試推演每一種溶液在圖中的位置後，回答下列問題。\n\n12. 下列哪一化學式是溶液乙的溶質？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-chem-11.png\" alt=\"圖2 甲～戊五種溶液的連線：乙連甲、丙、丁、戊；丁連乙、丙、戊\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{AgNO}_3$",
+      "NaBr",
+      "HCl",
+      "$\\text{Na}_2\\text{S}$",
+      "$\\text{Na}_2\\text{CO}_3$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【承上題】\n乙與其他四種溶液都有連線，只有 $\\text{AgNO}_3$ 能與其他四者都反應。（甲只連乙，是 NaBr；丙、戊為 $\\text{Na}_2\\text{S}$ 與 $\\text{Na}_2\\text{CO}_3$。）\n\n故選 (A)"
+  },
+  {
+    "id": "104-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "異戊二烯學名為 2-甲基-1,3-丁二烯，可經由加成聚合產生聚異戊二烯。下列聚合物中，哪一選項<u>不是</u>由異戊二烯聚合而得？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-chem-13.png\" alt=\"五種聚合物重複單元 (A)～(E)\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 2,
+    "explanation": "【加成聚合的方式】\n異戊二烯 $\\text{CH}_2{=}\\text{C(CH}_3)-\\text{CH}{=}\\text{CH}_2$ 可經：\n• 1,2-加成：主鏈 $-\\text{CH}_2-\\text{C(CH}_3)(\\text{CH}{=}\\text{CH}_2)-$，即 (A)。\n• 3,4-加成：主鏈 $-\\text{CH}_2-\\text{CH}(\\text{C(CH}_3){=}\\text{CH}_2)-$，即 (B)。\n• 1,4-加成：主鏈 $-\\text{CH}_2-\\text{C(CH}_3){=}\\text{CH}-\\text{CH}_2-$，有順式 (D) 與反式 (E)。\n(C) 的側鏈為 $-\\text{CH}{=}\\text{CH}-\\text{CH}_3$，來自 1,3-戊二烯，不是異戊二烯。\n\n故選 (C)"
+  },
+  {
+    "id": "104-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "圖 3 是碳酸鈉溶液用 0.1000 M 鹽酸滴定的滴定曲線。圖中灰色區塊代表指示劑變色範圍。圖中各點的滴定體積（$V_{\\text{HCl}}$，mL）為甲 0、乙 10.00、丙 25.00、丁 40.00、戊 48.00、己 48.00、庚 50.00、辛 55.00。試問在滴定的過程中，於何處的溶液具有緩衝性質？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-chem-14.png\" alt=\"圖3 碳酸鈉以鹽酸滴定的 pH 曲線，標有甲～辛各點\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "只有丙",
+      "只有戊",
+      "乙與丙",
+      "乙與丁",
+      "乙與庚"
+    ],
+    "answerIndex": 3,
+    "explanation": "【二質子鹼的滴定】\n第一當量點在 25.00 mL（丙，$\\text{CO}_3^{2-}$ 全變 $\\text{HCO}_3^-$），第二當量點在 50.00 mL（庚，全變 $\\text{H}_2\\text{CO}_3$）。\n緩衝區在兩個當量點之前、曲線平緩處：\n• 乙（10 mL）：$\\text{CO}_3^{2-}$ 與 $\\text{HCO}_3^-$ 共存。\n• 丁（40 mL）：$\\text{HCO}_3^-$ 與 $\\text{H}_2\\text{CO}_3$ 共存。\n\n故選 (D)"
+  },
+  {
+    "id": "104-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "在密閉容器中，某氣體 X 可分解成氣體 Y 和氣體 Z。此一可逆反應如下：\n$m\\text{X}(g) \\rightleftharpoons n\\text{Y}(g) + p\\text{Z}(g)$，$\\Delta H = q$ kJ/mol\n反應式中的 $m$、$n$、$p$ 為係數。假設 X、Y、Z 均為理想氣體，反應的濃度平衡常數為 $K_c$，而以分壓表示的平衡常數為 $K_p$。若 $K_c$ 等於 $K_p$，且溫度上升時平衡常數也會增大，則下列敘述，哪一項正確？",
+    "options": [
+      "$q < 0$",
+      "$m < n + p$",
+      "反應達平衡後，定溫下若容器體積加倍，則平衡會向左移動",
+      "反應達平衡後，定溫定容下加入 Ar(g)，則平衡會向右移動",
+      "反應達平衡後，定溫定容下若加入 Y 氣體，則當系統達到新的平衡時，Z 氣體的分壓會降低"
+    ],
+    "answerIndex": 4,
+    "explanation": "【Kc 與 Kp】\n$K_p = K_c(RT)^{\\Delta n}$，$K_c = K_p$ 表示 $\\Delta n = 0$，$m = n + p$，(B) 錯；體積改變不影響平衡，(C) 錯。\n升溫 K 增大 → 吸熱反應，$q > 0$，(A) 錯。定容加入 Ar 不影響，(D) 錯。\n加入產物 Y，平衡向左移，Z 被消耗、分壓降低，(E) 正確。\n\n故選 (E)"
+  },
+  {
+    "id": "104-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "points": 3,
+    "question": "黑巧克力中有豐富的兒茶素。兒茶素有降血壓、改善血液循環、防止心血管疾病等功效。另外，兒茶素也是茶葉具苦澀味的原因之一。某一兒茶素之結構如圖 4。下列關於此兒茶素的敘述，哪一項<u>不正確</u>？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-chem-16.png\" alt=\"圖4 兒茶素的結構：多個酚羥基、一個環狀醚與一個二級醇\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "可溶於水",
+      "可形成分子間氫鍵",
+      "含有二級醇的結構",
+      "結構中含有羥基與醚基",
+      "與斐林試劑作用，會產生紅色沉澱"
+    ],
+    "answerIndex": 4,
+    "explanation": "【官能基判斷】\n兒茶素有多個 −OH（酚基與一個二級醇），可形成氫鍵、可溶於水；環中有 C−O−C 醚基。\n它沒有醛基，不會使斐林試劑產生紅色 $\\text{Cu}_2\\text{O}$ 沉澱，(E) 不正確。\n\n故選 (E)"
+  },
+  {
+    "id": "104-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列有關二硫化碳、新戊烷、對苯二甲酸、乙酸乙酯、反丁烯二酸、異丙醇等六個物質的敘述，哪些正確？",
+    "options": [
+      "有三個物質具有 $\\pi$ 鍵",
+      "對苯二甲酸在六個物質中，沸點最高",
+      "在液態時，有四個物質具分子間氫鍵",
+      "有四個物質的路易斯結構具有孤電子對",
+      "在液態時，有兩個物質分子間作用力主要為分散力"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【分子結構與作用力】\n• (A) 錯：$\\text{CS}_2$（C=S）、對苯二甲酸、乙酸乙酯（C=O）、反丁烯二酸共 4 個有 π 鍵。\n• (B) 正確：對苯二甲酸分子大、有兩個羧基形成大量氫鍵，熔沸點最高（約 300°C 昇華）。\n• (C) 錯：有分子間氫鍵的是對苯二甲酸、反丁烯二酸、異丙醇，共 3 個。\n• (D) 錯：除了新戊烷，其餘 5 個都含 S 或 O 而有孤電子對。\n• (E) 正確：非極性的 $\\text{CS}_2$ 與新戊烷主要靠分散力。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "104-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "胃酸的 pH 值約為 1.5。下列與此胃酸有關的敘述，哪些正確？",
+    "options": [
+      "其 pOH 約為 12.5",
+      "氫離子的濃度約為 1.5 M",
+      "氫離子的濃度約為 1.5 ppm",
+      "氫離子的濃度約為 0.03 M",
+      "氫氧離子的濃度約為 0.003 M"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "【pH 換算】\npOH = 14 − 1.5 = 12.5，(A) 正確。$[\\text{H}^+] = 10^{-1.5} \\approx 0.032$ M，(D) 正確。\n$[\\text{OH}^-] = 10^{-12.5} \\approx 3\\times10^{-13}$ M，(E) 錯。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "104-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "化學鍵結對於分子的物理或化學性質有決定性的影響，而混成軌域是解釋化學鍵最常用的理論之一。下列關於混成軌域的敘述，哪些正確？",
+    "options": [
+      "乙炔的參鍵包含 2 個 $\\sigma$ 鍵與 1 個 $\\pi$ 鍵",
+      "乙烯中的 $\\pi$ 鍵是由 2 個碳原子的 $sp^2$ 混成軌域重疊而形成",
+      "乙炔中的碳原子有 2 個 sp 混成軌域，其分子形狀為直線",
+      "水分子的形狀為彎曲形，其氧原子的 4 個 $sp^3$ 混成軌域中，有 2 個具有孤電子對",
+      "三氯化硼中，硼原子有 3 個能量相同的 $sp^2$ 混成軌域，分別與 3 個氯的 3p 軌域鍵結，形成 3 個 $\\sigma$ 鍵"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "【混成軌域】\n• (A) 錯：參鍵是 1 個 σ 鍵與 2 個 π 鍵。\n• (B) 錯：π 鍵由未混成的 p 軌域側向重疊形成。\n• (C)(D)(E) 正確。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "104-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列關於 2-甲基丙烯、順 2-丁烯、反 2-丁烯和 1-丁烯的敘述，哪些正確？",
+    "options": [
+      "皆可與過錳酸鉀溶液反應",
+      "只有順 2-丁烯和反 2-丁烯互為幾何異構物",
+      "只有順 2-丁烯、反 2-丁烯和 1-丁烯互為結構異構物",
+      "進行氫化反應時，只有順 2-丁烯和反 2-丁烯會得到相同的產物",
+      "用溴水檢驗時，只有順 2-丁烯和反 2-丁烯會褪色"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "【丁烯的異構物】\n四者都是 $\\text{C}_4\\text{H}_8$ 的烯類。\n• (A) 正確：雙鍵都能被過錳酸鉀氧化。\n• (B) 正確：只有 2-丁烯有順反異構。\n• (C) 錯：2-甲基丙烯與其他三者也互為結構異構物，不能說「只有」。\n• (D) 錯：順、反 2-丁烯與 1-丁烯氫化都得正丁烷。\n• (E) 錯：四者都能與溴加成而使溴水褪色。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "104-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "鋅銀電池可用下列方式表示：$\\text{Zn}(s)\\,|\\,\\text{Zn}^{2+}(aq)\\,\\|\\,\\text{Ag}^+(aq)\\,|\\,\\text{Ag}(s)$，其中「$\\|$」代表鹽橋。下列關於鋅銀電池的敘述，哪些正確？",
+    "options": [
+      "此電池的全反應為 $\\text{Zn}(s) + 2\\text{Ag}^+(aq) \\to \\text{Zn}^{2+}(aq) + 2\\text{Ag}(s)$",
+      "電池放電時，電子由鋅極經外電路流向銀極",
+      "此一電池的表示式中，左側為陰極",
+      "$\\text{Ag}^+$ 得到電子產生 Ag，所以銀半電池表示為 $\\text{Ag}^+(aq)\\,|\\,\\text{Ag}(s)$",
+      "此一電池的電壓可以直接用兩倍銀的還原電位減去鋅的還原電位而得"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "【電池表示法】\n• (A)(B) 正確：鋅氧化失去電子，電子經外電路流向銀極，$\\text{Ag}^+$ 還原。\n• (C) 錯：左側發生氧化，是陽極（負極）。\n• (D) 正確：右側為還原的半電池。\n• (E) 錯：還原電位是強度性質，不因係數而加倍：$E = E_{\\text{Ag}} - E_{\\text{Zn}}$。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "104-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "某些有機化合物可吸收紫外線被用於防曬乳，例如 PABA 及 DMAB，這兩個分子的構造如圖 5 所示。下列有關這兩個有機化合物的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-chem-22.png\" alt=\"圖5 PABA（對胺基苯甲酸）與 DMAB（N,N-二甲胺基苯甲酸異戊酯）的結構\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "PABA 屬於 $\\alpha$-胺基酸",
+      "DMAB 屬於三級胺",
+      "PABA 構造中有胺基與羧基",
+      "DMAB 構造中有醚基、胺基及酯基",
+      "PABA 上的孤電子對比 DMAB 多"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "【官能基】\n• (A) 錯：胺基與羧基接在苯環的對位，不是接在同一個 α 碳上。\n• (B) 正確：N 上連兩個甲基與一個苯環，為三級胺。\n• (C) 正確。\n• (D) 錯：DMAB 有胺基與酯基，沒有醚基（酯中的 −O− 屬於酯基）。\n• (E) 錯：兩者都有 1 個 N 與 2 個 O，孤電子對都是 1 + 2 + 2 = 5 對，相同。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "104-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "欲配製銀鏡反應實驗中的多侖試劑，其步驟是先在 10 mL 乾淨玻璃試管中，加入 0.60 M 硝酸銀溶液 3.0 mL，然後滴入 2.5 M 的 NaOH 溶液 0.15 mL，再加入約 2.0 mL 的 2.0 M 氨水。在此多侖試劑中，加入 10% 的葡萄糖溶液 6 滴（0.30 mL），並於溫水中加熱，則可在玻璃壁上產生銀鏡。下列有關此實驗的敘述，哪些正確？",
+    "options": [
+      "此反應中葡萄糖是限量試劑",
+      "此實驗的結果可說明葡萄糖是還原醣",
+      "銀鏡為固體物質，其化學式為 $\\text{Ag}_2\\text{O}$",
+      "若以蔗糖取代葡萄糖，則同樣會有銀鏡產生",
+      "再加入氨水的目的是為了產生銀氨錯離子 $[\\text{Ag(NH}_3)_2]^+$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "【銀鏡反應】\n• (A) 正確：$\\text{Ag}^+$ 有 1.8 mmol；葡萄糖約 0.03 g ≈ 0.17 mmol，每 mol 葡萄糖還原 2 mol $\\text{Ag}^+$，只需 0.33 mmol，葡萄糖不足。\n• (B) 正確：能還原多侖試劑，是還原醣。\n• (C) 錯：銀鏡是金屬 Ag。\n• (D) 錯：蔗糖是非還原醣。\n• (E) 正確：氨水把 $\\text{Ag}_2\\text{O}$ 溶解成 $[\\text{Ag(NH}_3)_2]^+$。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "104-ast-chem-24",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "有機化合物（甲）～（戊）的結構式如下：（甲）三級丁醇 (CH₃)₃COH、（乙）2-丁醇 CH₃CH₂CH(OH)CH₃、（丙）苯甲酸、（丁）丙胺酸 H₂N−CH(CH₃)−COOH、（戊）甲酸 HCOOH。下列有關這些有機物的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-chem-24.png\" alt=\"（甲）～（戊）五個有機化合物的結構式\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲的沸點比乙高",
+      "在常溫下，甲會被酸性的二鉻酸鉀溶液氧化",
+      "戊具有還原性，可與多侖試劑產生銀鏡反應",
+      "丁在水中主要以 $\\text{NH}_3^+\\text{CH(CH}_3)\\text{COO}^-$ 的形式存在",
+      "丙可與鈉金屬反應，所產生的鹽類可作為食物防腐劑"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "【官能基性質】\n• (A) 錯：分子量相同時，支鏈多的三級丁醇表面積小、沸點較低（82°C 對 99.5°C）。\n• (B) 錯：三級醇的羥基碳上沒有氫，不易被氧化。\n• (C) 正確：甲酸含醛基結構（H−C=O），有還原性。\n• (D) 正確：胺基酸在水中以兩性離子存在。\n• (E) 正確：苯甲酸與鈉生成苯甲酸鈉，是常用的防腐劑。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "104-ast-chem-25",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "王同學在 25℃ 及 1 大氣壓下，量測反應 $\\text{X} \\to 2\\text{Y} + \\text{Z}$ 的反應速率。圖 6 與 7 是反應進行中所量測到的反應物 X 的濃度與時間的關係。下列有關該反應的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-chem-25.png\" alt=\"圖6 [X] 對時間；圖7 1/[X] 對時間，前 6 秒為直線\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此反應為結合反應",
+      "此反應為零級反應",
+      "反應物 X 的初始濃度為 0.067 M",
+      "在反應過程中，反應物 X 分子之間必須互相碰撞，反應才會發生",
+      "在反應後期，反應物 X 的濃度不再變化，是因為 X 停止反應所造成"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【由圖判斷反應級數】\n圖 7 中 $\\dfrac{1}{[\\text{X}]}$ 對時間在前段為直線，是二級反應：$\\dfrac{1}{[\\text{X}]} = \\dfrac{1}{[\\text{X}]_0} + kt$。\n• 斜率 $k = 10\\ \\text{M}^{-1}\\text{s}^{-1}$；$t = 1$ s 時為 25，外推 $t = 0$ 時為 15，$[\\text{X}]_0 = \\dfrac{1}{15} \\approx 0.067$ M，(C) 正確。\n• (D) 正確：對 X 為二級，表示反應需兩個 X 分子碰撞。\n• (A) 錯：一種反應物分解為兩種產物，是分解反應。(B) 錯。\n• (E) 錯：後期濃度不變是達到平衡（正逆反應速率相等），反應並未停止。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "104-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】四種非金屬元素，其代號為：W、X、Y、Z，在元素週期表上均屬不同週期，僅 X 與 Y 在同族，而族數與原子序均以 Z 為最大。已知：\n(1) W 在第一週期。\n(2) 四元素的原子序相加的和為 78。\n(3) 由 W、X、Y 三元素可組成化合物 Q。\n(4) Q 有 6 個原子及 42 個質子，分子量為 82。\n(5) $\\text{Z}_2$ 在常溫常壓為有色固體，具有昇華的性質。\n(6) $\\text{Z}_2$ 在含有 $\\text{Z}^-$ 離子的水中，溶解度大增，可得有色離子 $\\text{Z}_3^-$。\n\n1. 寫出 W 及 Z 的元素符號。（2 分）",
+    "points": 2,
+    "blanks": [
+      "H",
+      "I"
+    ],
+    "blankLabels": [
+      "W",
+      "Z"
+    ],
+    "acceptedBlanks": [
+      [
+        "氫"
+      ],
+      [
+        "碘"
+      ]
+    ],
+    "explanation": "W 在第一週期且為非金屬：H。$\\text{Z}_2$ 為可昇華的有色固體，且能與 $\\text{Z}^-$ 形成 $\\text{Z}_3^-$：碘 I。"
+  },
+  {
+    "id": "104-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】四種非金屬元素，其代號為：W、X、Y、Z，在元素週期表上均屬不同週期，僅 X 與 Y 在同族，而族數與原子序均以 Z 為最大。已知：\n(1) W 在第一週期。\n(2) 四元素的原子序相加的和為 78。\n(3) 由 W、X、Y 三元素可組成化合物 Q。\n(4) Q 有 6 個原子及 42 個質子，分子量為 82。\n(5) $\\text{Z}_2$ 在常溫常壓為有色固體，具有昇華的性質。\n(6) $\\text{Z}_2$ 在含有 $\\text{Z}^-$ 離子的水中，溶解度大增，可得有色離子 $\\text{Z}_3^-$。\n\n2. 寫出由 X 與 Y 兩種元素組成的兩種穩定化合物的化學式。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{SO}_2$、$\\text{SO}_3$"
+    ],
+    "blankLabels": [
+      "化學式"
+    ],
+    "explanation": "原子序和：$1 + X + Y + 53 = 78 \\Rightarrow X + Y = 24$，X、Y 同族且不同週期：O（8）與 S（16）。由 O 與 S 組成的穩定化合物為 $\\text{SO}_2$ 與 $\\text{SO}_3$。"
+  },
+  {
+    "id": "104-ast-chem-non-1-3",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】四種非金屬元素，其代號為：W、X、Y、Z，在元素週期表上均屬不同週期，僅 X 與 Y 在同族，而族數與原子序均以 Z 為最大。已知：\n(1) W 在第一週期。\n(2) 四元素的原子序相加的和為 78。\n(3) 由 W、X、Y 三元素可組成化合物 Q。\n(4) Q 有 6 個原子及 42 個質子，分子量為 82。\n(5) $\\text{Z}_2$ 在常溫常壓為有色固體，具有昇華的性質。\n(6) $\\text{Z}_2$ 在含有 $\\text{Z}^-$ 離子的水中，溶解度大增，可得有色離子 $\\text{Z}_3^-$。\n\n3. 寫出 Q 的化學式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "H2SO3"
+    ],
+    "blankLabels": [
+      "Q"
+    ],
+    "acceptedBlanks": [
+      [
+        "亞硫酸"
+      ]
+    ],
+    "explanation": "由 H、O、S 組成，6 個原子、42 個質子、分子量 82：$\\text{H}_2\\text{SO}_3$（質子 $2 + 16 + 24 = 42$，分子量 $2 + 32 + 48 = 82$）。"
+  },
+  {
+    "id": "104-ast-chem-non-1-4",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】四種非金屬元素，其代號為：W、X、Y、Z，在元素週期表上均屬不同週期，僅 X 與 Y 在同族，而族數與原子序均以 Z 為最大。已知：\n(1) W 在第一週期。\n(2) 四元素的原子序相加的和為 78。\n(3) 由 W、X、Y 三元素可組成化合物 Q。\n(4) Q 有 6 個原子及 42 個質子，分子量為 82。\n(5) $\\text{Z}_2$ 在常溫常壓為有色固體，具有昇華的性質。\n(6) $\\text{Z}_2$ 在含有 $\\text{Z}^-$ 離子的水中，溶解度大增，可得有色離子 $\\text{Z}_3^-$。\n\n4. 在 0.1 M 的 $\\text{Z}_3^-$ 水溶液中加 0.1 M 的 Q 水溶液，則溶液立即褪為無色。寫出該氧化還原的化學反應式。（不需要標出物質的狀態）（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{I}_3^- + \\text{H}_2\\text{SO}_3 + \\text{H}_2\\text{O} \\to 3\\text{I}^- + \\text{SO}_4^{2-} + 4\\text{H}^+$"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "亞硫酸把褐色的 $\\text{I}_3^-$ 還原為無色的 $\\text{I}^-$，本身氧化為硫酸根。以 $\\text{SO}_3^{2-}$ 或 $\\text{HSO}_3^-$ 表示、或寫成 $\\text{I}_2 + \\text{H}_2\\text{SO}_3 + \\text{H}_2\\text{O} \\to 2\\text{I}^- + \\text{SO}_4^{2-} + 4\\text{H}^+$ 皆可，物種與係數需正確。"
+  },
+  {
+    "id": "104-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】氯化鉛的溶度積常數，可以利用離子交換法測定。實驗步驟如下：\n步驟 1. 將 25.00 毫升的飽和氯化鉛水溶液倒入一個填有以酸處理過的陽離子交換樹脂的管柱。讓溶液往下流動，進行陽離子交換，並用一個 250 毫升的燒杯（甲）承接自管柱流出的溶液。\n步驟 2. 再從管柱上方加入 50 毫升純水，可將經離子交換過後的所有離子全部以同一個甲燒杯收集。\n步驟 3. 將收集的溶液稀釋成 100.00 毫升水溶液（乙溶液）。\n步驟 4. 自乙溶液中取出 25.00 毫升並加入幾滴酚酞指示劑，以 0.0100 M 的氫氧化鈉溶液滴定。當滴入 20.00 毫升時達滴定終點。\n\n1. 寫出步驟 1 和 2 中所收集到的陽離子和陰離子的化學式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "H+",
+      "Cl-"
+    ],
+    "blankLabels": [
+      "陽離子",
+      "陰離子"
+    ],
+    "acceptedBlanks": [
+      [
+        "H3O+",
+        "氫離子"
+      ],
+      [
+        "氯離子"
+      ]
+    ],
+    "explanation": "酸處理過的陽離子交換樹脂上帶有 $\\text{H}^+$，$\\text{Pb}^{2+}$ 被樹脂吸附，換下 $\\text{H}^+$；陰離子 $\\text{Cl}^-$ 不被交換，一起流出。所以收集到 $\\text{H}^+$ 與 $\\text{Cl}^-$。"
+  },
+  {
+    "id": "104-ast-chem-non-2-2",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】氯化鉛的溶度積常數，可以利用離子交換法測定。實驗步驟如下：\n步驟 1. 將 25.00 毫升的飽和氯化鉛水溶液倒入一個填有以酸處理過的陽離子交換樹脂的管柱。讓溶液往下流動，進行陽離子交換，並用一個 250 毫升的燒杯（甲）承接自管柱流出的溶液。\n步驟 2. 再從管柱上方加入 50 毫升純水，可將經離子交換過後的所有離子全部以同一個甲燒杯收集。\n步驟 3. 將收集的溶液稀釋成 100.00 毫升水溶液（乙溶液）。\n步驟 4. 自乙溶液中取出 25.00 毫升並加入幾滴酚酞指示劑，以 0.0100 M 的氫氧化鈉溶液滴定。當滴入 20.00 毫升時達滴定終點。\n\n2. 寫出在步驟 3，要將收集到的溶液稀釋至 100.00 毫升水溶液時，必須要使用的容器名稱；及寫出滴定到達滴定終點時，溶液呈現的顏色。（2 分）",
+    "points": 2,
+    "blanks": [
+      "容量瓶",
+      "粉紅色"
+    ],
+    "blankLabels": [
+      "容器",
+      "終點顏色"
+    ],
+    "acceptedBlanks": [
+      [
+        "定量瓶",
+        "100mL容量瓶"
+      ],
+      [
+        "淡紅色",
+        "紅色",
+        "粉紅",
+        "淺粉紅色"
+      ]
+    ],
+    "explanation": "精確配製 100.00 mL 需用容量瓶（定量瓶）。以 NaOH 滴定酸、酚酞為指示劑，終點時溶液由無色變為粉紅色。"
+  },
+  {
+    "id": "104-ast-chem-non-2-3",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】氯化鉛的溶度積常數，可以利用離子交換法測定。實驗步驟如下：\n步驟 1. 將 25.00 毫升的飽和氯化鉛水溶液倒入一個填有以酸處理過的陽離子交換樹脂的管柱。讓溶液往下流動，進行陽離子交換，並用一個 250 毫升的燒杯（甲）承接自管柱流出的溶液。\n步驟 2. 再從管柱上方加入 50 毫升純水，可將經離子交換過後的所有離子全部以同一個甲燒杯收集。\n步驟 3. 將收集的溶液稀釋成 100.00 毫升水溶液（乙溶液）。\n步驟 4. 自乙溶液中取出 25.00 毫升並加入幾滴酚酞指示劑，以 0.0100 M 的氫氧化鈉溶液滴定。當滴入 20.00 毫升時達滴定終點。\n\n3. 計算乙溶液中氫離子濃度為何？（2 分）",
+    "points": 2,
+    "blanks": [
+      "0.008"
+    ],
+    "blankLabels": [
+      "[H⁺]（M）"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.0080",
+        "8×10^-3",
+        "8.0×10^-3",
+        "0.008M",
+        "0.0080M"
+      ]
+    ],
+    "explanation": "$[\\text{H}^+]\\times25.00 = 0.0100\\times20.00 \\Rightarrow [\\text{H}^+] = 0.0100\\times\\dfrac{20}{25} = 0.0080\\text{ M}$"
+  },
+  {
+    "id": "104-ast-chem-non-2-4",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】氯化鉛的溶度積常數，可以利用離子交換法測定。實驗步驟如下：\n步驟 1. 將 25.00 毫升的飽和氯化鉛水溶液倒入一個填有以酸處理過的陽離子交換樹脂的管柱。讓溶液往下流動，進行陽離子交換，並用一個 250 毫升的燒杯（甲）承接自管柱流出的溶液。\n步驟 2. 再從管柱上方加入 50 毫升純水，可將經離子交換過後的所有離子全部以同一個甲燒杯收集。\n步驟 3. 將收集的溶液稀釋成 100.00 毫升水溶液（乙溶液）。\n步驟 4. 自乙溶液中取出 25.00 毫升並加入幾滴酚酞指示劑，以 0.0100 M 的氫氧化鈉溶液滴定。當滴入 20.00 毫升時達滴定終點。\n\n4. 以滴定所得數據，計算氯化鉛的溶度積常數。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$K_{sp} \\approx 1.6\\times10^{-5}$"
+    ],
+    "blankLabels": [
+      "Ksp"
+    ],
+    "explanation": "乙溶液 $[\\text{Cl}^-] = [\\text{H}^+] = 0.008$ M（每個 $\\text{Pb}^{2+}$ 換出 2 個 $\\text{H}^+$，電荷平衡）。\n原飽和溶液由 25.00 mL 稀釋到 100.00 mL：$[\\text{Cl}^-] = 0.008\\times\\dfrac{100}{25} = 0.032$ M，$[\\text{Pb}^{2+}] = 0.016$ M。\n$K_{sp} = [\\text{Pb}^{2+}][\\text{Cl}^-]^2 = 0.016\\times(0.032)^2 \\approx 1.64\\times10^{-5}$"
   }
 ]
