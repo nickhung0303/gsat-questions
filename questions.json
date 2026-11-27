@@ -4,10 +4,17 @@
     "examType": "學測",
     "year": 113,
     "subject": "英文",
-    "question": "The new high-speed railway system has ______ reduced the travel time between the two major cities from four hours to ninety minutes.",
-    "options": ["dramatically", "reluctantly", "suspiciously", "deliberately"],
-    "answerIndex": 0,
-    "explanation": "句意：「新的高速鐵路系統已『顯著地』將兩大城市間的通勤時間從四小時縮短至九十分鐘。」(A) 戲劇性地、顯著地；(B) 不情願地；(C) 懷疑地；(D) 故意地。"
+    "type": "single",
+    "points": 1,
+    "question": "6. In some countries, military service is ______ for men only; women do not have to serve in the military.",
+    "options": [
+      "forceful",
+      "realistic",
+      "compulsory",
+      "distinctive"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：在某些國家，兵役只對男性是強制的；女性不必服役。\n• (A) forceful 強而有力的　(B) realistic 實際的　(C) compulsory 義務的、強制的　(D) distinctive 獨特的\n與後句「女性不必服役」對比，表示對男性是義務。\n\n故選 (C)"
   },
 {
     "id": "110-ast-phy-01",
@@ -57769,5 +57776,661 @@
       "50（論壇中的英文片語）"
     ],
     "explanation": "empathy 意為「同理心」（理解並分擔他人感受的能力），foster 意為「培養」。Irene 的發言開頭 Fostering empathy 正是「培養理解與分享他人感受的能力」。\n\n答：fostering empathy"
+  },
+  {
+    "id": "113-gsat-eng-01",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. People who desire a ______ figure should exercise regularly and maintain healthy eating habits.",
+    "options": [
+      "spicy",
+      "slender",
+      "slight",
+      "slippery"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：想要苗條身材的人應該規律運動並維持健康的飲食習慣。\n• (A) spicy 辛辣的　(B) slender 苗條的　(C) slight 輕微的　(D) slippery 滑的\na slender figure「苗條的身材」。\n\n故選 (B)"
+  },
+  {
+    "id": "113-gsat-eng-02",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. Watching the sun ______ from a sea of clouds is a must-do activity for all visitors to Ali Mountain.",
+    "options": [
+      "emerging",
+      "flashing",
+      "rushing",
+      "floating"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：觀賞太陽從雲海中升起，是所有阿里山遊客必做的活動。\n• (A) emerge 浮現、出現　(B) flash 閃光　(C) rush 衝　(D) float 漂浮\nemerge from…「從…中浮現」，形容日出。\n\n故選 (A)"
+  },
+  {
+    "id": "113-gsat-eng-03",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. Do you know what time the next bus is ______? I've been waiting here for more than 30 minutes.",
+    "options": [
+      "apt",
+      "due",
+      "bound",
+      "docked"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：你知道下一班公車預定幾點到嗎？我已經在這裡等超過 30 分鐘了。\n• (A) apt 易於…的　(B) due 預定（到達）的　(C) bound 前往…的　(D) docked 停靠碼頭的\nbe due（at…）表示「預定到達」。\n\n故選 (B)"
+  },
+  {
+    "id": "113-gsat-eng-04",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. The roasting heat and high ______ made me feel hot and sticky, no matter what I did to cool off.",
+    "options": [
+      "density",
+      "humidity",
+      "circulation",
+      "atmosphere"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：炙熱的高溫和高濕度讓我又熱又黏，無論怎麼做都無法降溫。\n• (A) density 密度　(B) humidity 濕度　(C) circulation 循環　(D) atmosphere 大氣、氣氛\nsticky（黏膩的）對應高濕度。\n\n故選 (B)"
+  },
+  {
+    "id": "113-gsat-eng-05",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. Artwork created by truly great artists such as Picasso and Monet will no doubt ______ the test of time.",
+    "options": [
+      "stay",
+      "take",
+      "serve",
+      "stand"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：畢卡索、莫內等偉大藝術家的作品無疑能經得起時間的考驗。\nstand the test of time「經得起時間考驗」是固定片語。\n\n故選 (D)"
+  },
+  {
+    "id": "113-gsat-eng-07",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. The team complained that its leader always took the ______ for all the hard work done by the team members.",
+    "options": [
+      "advantage",
+      "revenge",
+      "remedy",
+      "credit"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：團隊抱怨隊長總是把成員辛苦的成果都歸功於自己。\ntake (the) credit for…「把…的功勞攬在自己身上」。\n\n故選 (D)"
+  },
+  {
+    "id": "113-gsat-eng-08",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. Located at the center of the city, the business hotel ______ not only good service but also convenient public transport.",
+    "options": [
+      "proposes",
+      "contains",
+      "promises",
+      "confirms"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：這間位於市中心的商務旅館保證提供良好的服務與便利的大眾運輸。\n• (A) propose 提議　(B) contain 包含　(C) promise 保證、有望提供　(D) confirm 確認\n旅館「保證」良好服務與交通便利，用 promise。\n\n故選 (C)"
+  },
+  {
+    "id": "113-gsat-eng-09",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. As blood supplies have fallen to a critically low level, many hospitals are making an ______ for the public to donate blood.",
+    "options": [
+      "appeal",
+      "approach",
+      "operation",
+      "observation"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：由於血液存量降到極低，許多醫院正呼籲民眾捐血。\nmake an appeal for…「呼籲、懇求」。\n\n故選 (A)"
+  },
+  {
+    "id": "113-gsat-eng-10",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. David felt disappointed when he found out that he could not choose his study partners, but would be ______ placed in a study group.",
+    "options": [
+      "eligibly",
+      "randomly",
+      "apparently",
+      "consequently"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：大衛發現自己不能選讀書夥伴，而會被「隨機」分組時，感到很失望。\n• (A) eligibly 有資格地　(B) randomly 隨機地　(C) apparently 顯然地　(D) consequently 因此\n與「不能自己選」對照，用 randomly。\n\n故選 (B)"
+  },
+  {
+    "id": "113-gsat-eng-11",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 【 11 】 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 【 12 】 they are assigned.\n\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 【 13 】. They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 【 14 】 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 【 15 】 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.\n\n11.",
+    "options": [
+      "call for",
+      "pose as",
+      "attend to",
+      "engage in"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：神秘客「假扮成」一般顧客去購物、用餐、詢問或退貨。\n• (A) call for 需要　(B) pose as 假扮成　(C) attend to 照料、處理　(D) engage in 從事\n\n故選 (B)"
+  },
+  {
+    "id": "113-gsat-eng-12",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 【 11 】 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 【 12 】 they are assigned.\n\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 【 13 】. They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 【 14 】 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 【 15 】 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.\n\n12.",
+    "options": [
+      "in that",
+      "with which",
+      "for that",
+      "to which"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：他們評估並報告「被指派去的」商店的品質。\n原句為 they are assigned to the stores，介系詞 to 移到關係代名詞前：the stores to which they are assigned。介系詞後不能接 that。\n\n故選 (D)"
+  },
+  {
+    "id": "113-gsat-eng-13",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 【 11 】 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 【 12 】 they are assigned.\n\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 【 13 】. They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 【 14 】 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 【 15 】 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.\n\n13.",
+    "options": [
+      "keen competitions",
+      "financial hardship",
+      "racial conflicts",
+      "personal bias"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：評估時必須遵循標準程序，以避免「個人偏見」；下一句說用檢核表確保一致性（consistency）。\n\n故選 (D)"
+  },
+  {
+    "id": "113-gsat-eng-14",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 【 11 】 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 【 12 】 they are assigned.\n\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 【 13 】. They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 【 14 】 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 【 15 】 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.\n\n14.",
+    "options": [
+      "difficult",
+      "potential",
+      "constant",
+      "anonymous"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：他們也可能假裝成「難搞的」顧客，無理地與店員爭執。\n\n故選 (A)"
+  },
+  {
+    "id": "113-gsat-eng-15",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 【 11 】 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 【 12 】 they are assigned.\n\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 【 13 】. They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 【 14 】 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 【 15 】 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.\n\n15.",
+    "options": [
+      "distribution",
+      "expectation",
+      "improvement",
+      "management"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：利用收集到的資料找出「需要改進」的地方，進而提升產品與服務品質。areas for improvement「待改進之處」。\n\n故選 (C)"
+  },
+  {
+    "id": "113-gsat-eng-16",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\n\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 【 16 】 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" 【 17 】 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\n\nWhether they wielded rods or pea shooters, knockers-up became 【 18 】 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\n\nWhile the practice continued in some parts of the country until the 1970s, it 【 19 】 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 【 20 】 the personal attention coming from the distinctive tap of a pea shooter.\n\n16.",
+    "options": [
+      "must be using",
+      "could have used",
+      "had hardly used",
+      "were mostly using"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：19 世紀中已有鬧鐘，他們「本來可以」使用鬧鐘，但鬧鐘仍昂貴又不可靠（所以實際上沒用）。could have + p.p. 表示過去可以做卻沒做。\n\n故選 (B)"
+  },
+  {
+    "id": "113-gsat-eng-17",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\n\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 【 16 】 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" 【 17 】 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\n\nWhether they wielded rods or pea shooters, knockers-up became 【 18 】 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\n\nWhile the practice continued in some parts of the country until the 1970s, it 【 19 】 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 【 20 】 the personal attention coming from the distinctive tap of a pea shooter.\n\n17.",
+    "options": [
+      "Aimed at",
+      "Trained for",
+      "Equipped with",
+      "Exhausted by"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：「帶著」棍子或吹豆槍，這些人肉鬧鐘會巡街、敲窗戶。be equipped with…「配備…」。\n\n故選 (C)"
+  },
+  {
+    "id": "113-gsat-eng-18",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\n\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 【 16 】 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" 【 17 】 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\n\nWhether they wielded rods or pea shooters, knockers-up became 【 18 】 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\n\nWhile the practice continued in some parts of the country until the 1970s, it 【 19 】 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 【 20 】 the personal attention coming from the distinctive tap of a pea shooter.\n\n18.",
+    "options": [
+      "familiar presences",
+      "distant memories",
+      "vague images",
+      "public eyesores"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：叫醒人在英國各地成為「熟悉的身影」，每天早上在大街小巷都看得到。\n\n故選 (A)"
+  },
+  {
+    "id": "113-gsat-eng-19",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\n\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 【 16 】 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" 【 17 】 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\n\nWhether they wielded rods or pea shooters, knockers-up became 【 18 】 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\n\nWhile the practice continued in some parts of the country until the 1970s, it 【 19 】 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 【 20 】 the personal attention coming from the distinctive tap of a pea shooter.\n\n19.",
+    "options": [
+      "remained",
+      "dismissed",
+      "revised",
+      "declined"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：隨著鬧鐘普及便宜，這個行業「逐漸衰退」。decline（不及物）衰退；dismiss 需受詞。\n\n故選 (D)"
+  },
+  {
+    "id": "113-gsat-eng-20",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\n\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 【 16 】 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" 【 17 】 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\n\nWhether they wielded rods or pea shooters, knockers-up became 【 18 】 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\n\nWhile the practice continued in some parts of the country until the 1970s, it 【 19 】 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 【 20 】 the personal attention coming from the distinctive tap of a pea shooter.\n\n20.",
+    "options": [
+      "forget",
+      "change",
+      "match",
+      "regret"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：鬧鐘、手機雖然方便，卻「比不上」吹豆槍輕敲所帶來的個人關懷。match「比得上」。\n\n故選 (C)"
+  },
+  {
+    "id": "113-gsat-eng-21-30",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 21-30 題組】\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind. The lonely \"wind phone\" serves to connect family members to their ___(21)___ loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those they have lost, to say the words they never got to say on that ___(22)___ day.\n\nThe idea for the wind phone was first ___(23)___ by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private space to help him navigate through the ___(24)___, Sasaki positioned a booth where he could \"speak\" to the dead relative. The booth he built ___(25)___ only an old dial phone with a disconnected phone line. When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him. Sasaki stated in an interview: \"Because my thoughts couldn't be ___(26)___ through a regular phone line, I wanted them to be carried on the wind.\" Hence, the wind phone allows Sasaki to create a one-way conversation with deep, soulful personal meaning, and renders the grieving process more ___(27)___ for him.\n\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the phone gradually spread, and the booth has become a ___(28)___ between the living and the dead. Phones resembling the wind phone have since been built around the world. Some were even set up to allow people to call their loved ones lost in the COVID-19 pandemic.\n\nGrieving is a natural ___(29)___ for coping with loss of a loved one, and people grieve in various ways. For those who speak into the wind phone, ___(30)___ is always there: They believe that their messages will—through some unknown way—reach the deceased.\n\n(A) passed on　(B) bridge　(C) sorrow　(D) hope　(E) departed　(F) mechanism　(G) housed　(H) manageable　(I) fateful　(J) brought forth\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "E",
+      "I",
+      "J",
+      "C",
+      "G",
+      "A",
+      "H",
+      "B",
+      "F",
+      "D"
+    ],
+    "blankLabels": [
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "explanation": "• 21 (E) departed：their departed loved ones（已故的親人），形容詞修飾名詞。\n• 22 (I) fateful：that fateful day（那個決定命運的、不幸的日子），指海嘯當天。\n• 23 (J) brought forth：The idea was first brought forth by…（這個點子最早由…提出），被動語態。\n• 24 (C) sorrow：navigate through the sorrow（走過悲傷），前文說他正為表哥之死悲傷。\n• 25 (G) housed：The booth housed only an old dial phone（電話亭裡只放了一支舊轉盤電話）。\n• 26 (A) passed on：思念無法透過一般電話線「傳達」。\n• 27 (H) manageable：使哀傷的過程「較能承受」，render + O + adj.。\n• 28 (B) bridge：電話亭成了生者與亡者之間的「橋樑」。\n• 29 (F) mechanism：哀悼是面對失去親人的一種自然「機制」。\n• 30 (D) hope：他們相信訊息會傳到逝者那裡，所以「希望」一直都在。"
+  },
+  {
+    "id": "113-gsat-eng-31-34",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "fill",
+    "points": 8,
+    "question": "【篇章結構 31-34 題組】\nWhile Dr. Weinstein, a surgeon at Dartmouth College, was trying to lift a heavy box, he twisted his back. The pain was agonizing. The surgeon could not sit, and when he lay down he could barely get up. So he decided to go out for a run. He took an aspirin, iced the injured area, and off he went. When he returned, he felt \"pretty good.\"\n\n___(31)___ When people have sprained a muscle or tendon, they are usually advised not to go right back to exercising until the pain goes away. But Dr. Weinstein says that approach is outdated and counterproductive. In fact, when active people consult him, he usually tells them to just keep exercising.\n\nDr. Weinstein is not alone in his treatment of sports injury, but the specific advice can differ from specialist to specialist. ___(32)___ They nevertheless caution that a cutback may be necessary, such as running shorter distances or going more slowly. Others say the patients may need to engage in sports outside of their usual, main sport (that is, to cross-train), at least some of the time. Still others say the safest thing to do is cross-train all the time until the pain is gone. ___(33)___ Their consensus, however, is that unless the injury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually speed healing.\n\n___(34)___ Thus, more and more patients are now advised to keep moving despite the pain. The rule of thumb, however, is to see a doctor first and get an accurate diagnosis. If a serious injury is ruled out and the pain is not getting worse after exercising, then the exercise \"makes a lot of sense.\"\n\n(A) For example, an injured runner might end up cycling and swimming instead of running.\n(B) Over time, researchers have come to realize the importance of exercising when injured.\n(C) Many suggest that most patients can continue with the sport they love.\n(D) This seems to run counter to the common practice.\n（請依序填入各題代號 A～D）",
+    "blanks": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "explanation": "• 31 (D)：受傷後跑步這件事「似乎違反一般做法」，接著說明一般人受傷後被建議休息。\n• 32 (C)：本段列舉各專家的不同建議，以 Many suggest…開頭，接著 They nevertheless caution（但他們提醒要減量）、Others say…、Still others say…。\n• 33 (A)：舉例說明「交叉訓練」：受傷的跑者可能改騎車和游泳。\n• 34 (B)：「研究者漸漸了解受傷時運動的重要性」，所以（Thus）越來越多患者被建議持續活動。"
+  },
+  {
+    "id": "113-gsat-eng-35",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 35-38 題組】\nOne fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog's fur and his pants. He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.\n\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.\n\nDe Mestral's first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures. After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance. By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed. Named \"Velcro,\" from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955. De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.\n\nInitially Velcro did not fare well. As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment. In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts. Today, de Mestral's design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons' gowns. Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device.\n\n35. Which of the following pictures shows de Mestral's invention?",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-gsat-eng-35.png\" alt=\"四張圖片 (A)～(D)：按扣、魔鬼氈、彈簧扣環、鉤扣\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)"
+    ],
+    "answerIndex": 1,
+    "explanation": "de Mestral 發明的是由許多小鉤（hooks）和毛圈（loops）互相黏合的 Velcro（魔鬼氈），圖 (B) 正是魔鬼氈。(A) 按扣、(C) 彈簧扣環、(D) 鉤扣都不是。\n\n故選 (B)"
+  },
+  {
+    "id": "113-gsat-eng-36",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 35-38 題組】\nOne fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog's fur and his pants. He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.\n\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.\n\nDe Mestral's first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures. After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance. By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed. Named \"Velcro,\" from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955. De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.\n\nInitially Velcro did not fare well. As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment. In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts. Today, de Mestral's design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons' gowns. Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device.\n\n36. What does the author mean by \"a lightbulb moment\" in the first paragraph?",
+    "options": [
+      "A blessing in disguise.",
+      "A happy ending.",
+      "An unpredictable future.",
+      "A sudden inspiration."
+    ],
+    "answerIndex": 3,
+    "explanation": "漫畫中靈光一閃常以頭上亮燈泡表示，lightbulb moment 意為「突然的靈感」。他看到刺果黏在褲子上，立刻跑去用顯微鏡觀察，之後發明了魔鬼氈。\n\n故選 (D)"
+  },
+  {
+    "id": "113-gsat-eng-37",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 35-38 題組】\nOne fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog's fur and his pants. He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.\n\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.\n\nDe Mestral's first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures. After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance. By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed. Named \"Velcro,\" from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955. De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.\n\nInitially Velcro did not fare well. As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment. In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts. Today, de Mestral's design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons' gowns. Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device.\n\n37. Which of the following statements about Velcro is true?",
+    "options": [
+      "It has been a market favorite since its first appearance.",
+      "Cotton was not durable enough to be used as its materials.",
+      "It was given a French name because it was first produced in France.",
+      "The design was intended to look as shiny and smooth as velvet."
+    ],
+    "answerIndex": 1,
+    "explanation": "• (A) 錯：最初銷售不佳（did not fare well）。\n• (B) 對：棉太軟，無法承受反覆開合。\n• (C) 錯：名稱取自法文 velours、crochet，但專利由瑞士政府核發，文中未說最先在法國生產。\n• (D) 錯：文中沒有這樣的設計目的。\n\n故選 (B)"
+  },
+  {
+    "id": "113-gsat-eng-38",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 35-38 題組】\nOne fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog's fur and his pants. He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.\n\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.\n\nDe Mestral's first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures. After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance. By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed. Named \"Velcro,\" from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955. De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.\n\nInitially Velcro did not fare well. As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment. In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts. Today, de Mestral's design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons' gowns. Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device.\n\n38. Which of the following fields is NOT mentioned for Velcro uses in the passage?",
+    "options": [
+      "Civil engineering.",
+      "Aerospace industry.",
+      "Medical technology.",
+      "Sports and recreation."
+    ],
+    "answerIndex": 0,
+    "explanation": "文中提到運動器材（athletic equipment，D）、NASA 太空裝備（B）、血壓計袖帶、手術衣、人工心臟（C），沒有提到土木工程。\n\n故選 (A)"
+  },
+  {
+    "id": "113-gsat-eng-39",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 39-42 題組】\nThomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.\n\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was \"a dark, unattractive hole\" and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.\n\nIn 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape's most stunning sights. Moran's watercolors—the first color renderings of the area—as well as Jackson's photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world's first.\n\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.\n\n39. What can we learn from the passage?",
+    "options": [
+      "How national parks around the world were established.",
+      "How Yellowstone's natural features were formed.",
+      "Why Moran's family moved to the United States.",
+      "Why Moran started painting Yellowstone."
+    ],
+    "answerIndex": 3,
+    "explanation": "第二段末說 Moran 為 Langford 的黃石故事畫插圖，被描述的奇景吸引而渴望親眼看看，因此加入政府考察隊、畫下黃石。其餘選項文中沒有說明。\n\n故選 (D)"
+  },
+  {
+    "id": "113-gsat-eng-40",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 39-42 題組】\nThomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.\n\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was \"a dark, unattractive hole\" and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.\n\nIn 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape's most stunning sights. Moran's watercolors—the first color renderings of the area—as well as Jackson's photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world's first.\n\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.\n\n40. Why does the author use \"the blackened heart\" in paragraph 2 to describe Moran's hometown?",
+    "options": [
+      "The place was severely polluted.",
+      "The town was filled with darkened holes.",
+      "There were many evil-hearted industry owners.",
+      "The laborers mostly wore dark and dirty uniforms."
+    ],
+    "answerIndex": 0,
+    "explanation": "緊接著描述大街是「黑暗、醜陋的洞」、河流是一串髒水，可知「被燻黑的工業革命心臟地帶」指汙染嚴重。\n\n故選 (A)"
+  },
+  {
+    "id": "113-gsat-eng-41",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 39-42 題組】\nThomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.\n\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was \"a dark, unattractive hole\" and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.\n\nIn 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape's most stunning sights. Moran's watercolors—the first color renderings of the area—as well as Jackson's photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world's first.\n\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.\n\n41. Which of the following statements is true about the Yellowstone National Park?",
+    "options": [
+      "Its establishment was proposed by Langford.",
+      "Americans knew little about its beauty before the 1870s.",
+      "The government project was started due to its rich natural resources.",
+      "It was the only national park established because of Moran's works."
+    ],
+    "answerIndex": 1,
+    "explanation": "最後一段說在 Moran 之前，大眾想像中的黃石是嚴酷、荒野、冒著熱水蒸氣的地獄般地方；直到他的畫作出現，才被視為如畫的仙境。可知 1870 年代前美國人對它的美所知不多。\n(D) 錯：他還畫了十幾個後來成為國家公園或古蹟的地方。\n\n故選 (B)"
+  },
+  {
+    "id": "113-gsat-eng-42",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 39-42 題組】\nThomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.\n\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was \"a dark, unattractive hole\" and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.\n\nIn 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape's most stunning sights. Moran's watercolors—the first color renderings of the area—as well as Jackson's photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world's first.\n\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.\n\n42. What can be inferred from the passage?",
+    "options": [
+      "Scribner's Monthly was a magazine promoting national parks.",
+      "Moran had visited Yellowstone before he started painting its landscapes.",
+      "Color photos were not common when Moran started painting Yellowstone.",
+      "Watercolor was the most popular form of landscape painting in the 19th century."
+    ],
+    "answerIndex": 2,
+    "explanation": "文中說 Moran 的水彩畫是「該區第一批彩色描繪」，而同行的攝影師 Jackson 拍了照片，可推知當時彩色照片並不普遍。\n(B) 錯：他先依 Langford 的描述畫插圖，後來才去黃石。\n\n故選 (C)"
+  },
+  {
+    "id": "113-gsat-eng-43",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 43-46 題組】\nIn 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson's life was saved by a creative invention: transplanting codfish skins onto human bodies.\n\nA triumph for medical technology, Oddsson's fish skin transplantation was actually part of the astonishing achievement of \"100% Fish,\" an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.\n\nReducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson's case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.\n\nThe Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide.\n\n43. What is the primary goal of 100% Fish?",
+    "options": [
+      "To advance ocean technology.",
+      "To reduce food crises worldwide.",
+      "To enhance cross-industry cooperation.",
+      "To make the most of marine resources."
+    ],
+    "answerIndex": 3,
+    "explanation": "第二段：It aims to encourage full utilization of each fish caught（充分利用每一條魚），即充分利用海洋資源。跨產業合作是達成目標的方法，不是目標。\n\n故選 (D)"
+  },
+  {
+    "id": "113-gsat-eng-44",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 43-46 題組】\nIn 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson's life was saved by a creative invention: transplanting codfish skins onto human bodies.\n\nA triumph for medical technology, Oddsson's fish skin transplantation was actually part of the astonishing achievement of \"100% Fish,\" an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.\n\nReducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson's case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.\n\nThe Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide.\n\n44. What does \"this pioneering procedure\" in the second paragraph refer to?",
+    "options": [
+      "100% Fish's mission.",
+      "Oddsson's skin transplant.",
+      "A fundamental change in seafood business.",
+      "A new approach to protect the environment."
+    ],
+    "answerIndex": 1,
+    "explanation": "同段開頭講 Oddsson 的魚皮移植是 100% Fish 計畫的成果之一；「這個開創性的醫療程序」由此計畫產生，指的就是魚皮移植手術。\n\n故選 (B)"
+  },
+  {
+    "id": "113-gsat-eng-45",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 43-46 題組】\nIn 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson's life was saved by a creative invention: transplanting codfish skins onto human bodies.\n\nA triumph for medical technology, Oddsson's fish skin transplantation was actually part of the astonishing achievement of \"100% Fish,\" an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.\n\nReducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson's case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.\n\nThe Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide.\n\n45. Which of the following is true according to the passage?",
+    "options": [
+      "Iceland has increased their fish catch by 30% in the last 20 years.",
+      "Petur Oddsson was an important member of the Icelandic project.",
+      "Cross-field collaboration has proved to be very fruitful for 100% Fish.",
+      "100% Fish is a big international enterprise marketing seafood products."
+    ],
+    "answerIndex": 2,
+    "explanation": "最後一段說冰島的成功主要來自跨產業合作，不同部門分享知識，創造出各種新產品，可見跨領域合作成效豐碩。\n(A) 30% 是每條鱈魚多出的價值，不是漁獲量；(B) Oddsson 是受惠的病人；(D) 文中說它是冰島的計畫，不是國際企業。\n\n故選 (C)"
+  },
+  {
+    "id": "113-gsat-eng-46",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 43-46 題組】\nIn 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson's life was saved by a creative invention: transplanting codfish skins onto human bodies.\n\nA triumph for medical technology, Oddsson's fish skin transplantation was actually part of the astonishing achievement of \"100% Fish,\" an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.\n\nReducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson's case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.\n\nThe Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide.\n\n46. Here is a sentence: \"Almost nothing of a fish is left for the trash bin.\" Which paragraph is most suitable to have it as the final sentence?",
+    "options": [
+      "Paragraph 1.",
+      "Paragraph 2.",
+      "Paragraph 3.",
+      "Paragraph 4."
+    ],
+    "answerIndex": 2,
+    "explanation": "第三段說冰島人現在使用一條鱈魚的近 95%，並列舉魚皮、魚頭、魚骨等的各種用途，最後一句「魚幾乎沒有東西被丟進垃圾桶」正好作總結。\n\n故選 (C)"
+  },
+  {
+    "id": "113-gsat-eng-47-48",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "fill",
+    "points": 4,
+    "question": "【混合題 47-50 題組】\nMany animals are known to live and move in groups to secure food and avoid predators. Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group. Studies on jackdaws and turtle ants may provide some insights into the issue.\n\n[Jackdaws] Jackdaws are birds in the crow family often found in the English countryside. They are highly social birds and often travel in large flocks. Normally, the birds enjoy a smooth flight together as a group when \"commuting\" between two locations, such as from their nesting site to their feeding ground. However, if a predator (such as a fox) is present, the pattern of their flight will change immediately. Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members. By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator.\n\n[Turtle ants] Turtle ants often live in the cavities of dead branches in American forests. They have evolved search strategies to link their food source to their nests. They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow. The trails connect the ants' colonies and sources of food, forming a sort of communication network. However, since these trails can easily be broken by wind or rain, the ants have to find new paths to get around the broken points and reestablish the network. Often they have to work together to explore alternative routes many times before they finally settle on the most efficient one. By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.\n\n【47-48 題｜填充】請從文章中各選出一個單詞（word），必要時改變字形，填入下列句子的空格。\nStudies show that animals like jackdaws and turtle ants are able to use ___(47)___ intelligence in both solving problems and ___(48)___ to new challenging environment.",
+    "blanks": [
+      "group",
+      "adapting"
+    ],
+    "acceptedBlanks": [
+      [
+        "collective"
+      ],
+      [
+        "adapting"
+      ]
+    ],
+    "blankLabels": [
+      "47",
+      "48"
+    ],
+    "explanation": "• 47：修飾 intelligence 的形容詞或名詞。寒鴉以群體（group）移動、行蟻「collectively」合作，填 group（group intelligence）或由 collectively 變成形容詞 collective（collective intelligence，群體智慧）。\n• 48：both solving … and ___ to…，與 solving 對稱需動名詞；文中 adapt to their ever-changing environment，改為 adapting。"
+  },
+  {
+    "id": "113-gsat-eng-49",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "multiple",
+    "points": 4,
+    "question": "【混合題 47-50 題組】\nMany animals are known to live and move in groups to secure food and avoid predators. Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group. Studies on jackdaws and turtle ants may provide some insights into the issue.\n\n[Jackdaws] Jackdaws are birds in the crow family often found in the English countryside. They are highly social birds and often travel in large flocks. Normally, the birds enjoy a smooth flight together as a group when \"commuting\" between two locations, such as from their nesting site to their feeding ground. However, if a predator (such as a fox) is present, the pattern of their flight will change immediately. Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members. By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator.\n\n[Turtle ants] Turtle ants often live in the cavities of dead branches in American forests. They have evolved search strategies to link their food source to their nests. They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow. The trails connect the ants' colonies and sources of food, forming a sort of communication network. However, since these trails can easily be broken by wind or rain, the ants have to find new paths to get around the broken points and reestablish the network. Often they have to work together to explore alternative routes many times before they finally settle on the most efficient one. By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.\n\n49. From (A) to (F) below, choose the ONES that are true for both jackdaws and turtle ants.",
+    "options": [
+      "They have special strategies to locate food sources.",
+      "They have complex interactions led by a leader.",
+      "They share information with their group members.",
+      "They establish rules to stay away from enemies.",
+      "They change their nesting sites from time to time.",
+      "They show behavior governed by a unique system of communication."
+    ],
+    "answerIndices": [
+      2,
+      5
+    ],
+    "explanation": "• (A) 只有行蟻有找食物的策略。\n• (B) 兩者都沒有領導者。\n• (C) 兩者皆是：寒鴉依據其他成員傳來的資訊調整飛行；行蟻以費洛蒙路徑讓同伴跟隨。\n• (D) 只有寒鴉在遇到天敵時改變飛行方式。\n• (E) 文中沒有提到更換巢穴。\n• (F) 兩者皆是：寒鴉以鄰近個體的資訊互動，行蟻以費洛蒙形成溝通網絡，各有獨特的溝通系統。\n\n故選 (C)(F)"
+  },
+  {
+    "id": "113-gsat-eng-50",
+    "examType": "學測",
+    "year": 113,
+    "subject": "英文",
+    "type": "fill",
+    "points": 2,
+    "question": "【混合題 47-50 題組】\nMany animals are known to live and move in groups to secure food and avoid predators. Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group. Studies on jackdaws and turtle ants may provide some insights into the issue.\n\n[Jackdaws] Jackdaws are birds in the crow family often found in the English countryside. They are highly social birds and often travel in large flocks. Normally, the birds enjoy a smooth flight together as a group when \"commuting\" between two locations, such as from their nesting site to their feeding ground. However, if a predator (such as a fox) is present, the pattern of their flight will change immediately. Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members. By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator.\n\n[Turtle ants] Turtle ants often live in the cavities of dead branches in American forests. They have evolved search strategies to link their food source to their nests. They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow. The trails connect the ants' colonies and sources of food, forming a sort of communication network. However, since these trails can easily be broken by wind or rain, the ants have to find new paths to get around the broken points and reestablish the network. Often they have to work together to explore alternative routes many times before they finally settle on the most efficient one. By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.\n\n50. What is the \"disturbance\" for jackdaws mentioned in the passage?",
+    "blanks": [
+      "a predator"
+    ],
+    "acceptedBlanks": [
+      [
+        "a fox",
+        "predator",
+        "fox",
+        "predators"
+      ]
+    ],
+    "blankLabels": [
+      "50"
+    ],
+    "explanation": "對寒鴉而言，打亂平常飛行模式的干擾是天敵的出現：if a predator (such as a fox) is present, the pattern of their flight will change immediately.\n\n答：a predator（a fox）"
   }
 ]
