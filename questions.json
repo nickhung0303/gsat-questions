@@ -30286,5 +30286,552 @@
       4
     ],
     "explanation": "【康卜吞效應】\n• (A) 正確：光子能量 $\\dfrac{hc}{\\lambda}$。\n• (B) 錯誤：$p' = \\dfrac{h}{\\lambda'}$。\n• (C)(D) 錯誤：散射後波長只會變長。較短的 $\\lambda_1$ 是未改變的峰（與束縛緊密的電子散射），$\\lambda_1 = \\lambda$；較長的 $\\lambda_2 = \\lambda + \\dfrac{h}{m_0c}(1 - \\cos\\theta_0)$。兩選項剛好寫反了。\n• (E) 正確：光子與電子像粒子一樣碰撞，動量與能量守恆，證明光的粒子性。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "109m-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "下列有關物質波的敘述何者正確？",
+    "options": [
+      "運動中的基本粒子不具有物質波的性質",
+      "棒球以 150 公里／小時的速率運動，其物質波的性質顯著且易於觀察",
+      "電子是帶電粒子，電子束穿透金屬晶格的實驗中，由於庫侖靜電力的作用，雖然得到電子的繞射圖案，但未必能證明電子具有波的性質",
+      "物質波的性質僅存在於不帶電的粒子；例如，中子是不帶電的粒子，由中子照射晶體的實驗，才能顯現物質波的性質",
+      "以適當能量的單電子通過雙狹縫，觀察雙狹縫後方屏幕，每次電子在屏幕上留下一個亮點，重複多次相同實驗，在屏幕上累積留下的亮點可形成亮暗條紋"
+    ],
+    "answerIndex": 4,
+    "explanation": "【物質波】\n• (A) 錯誤：運動中的粒子都有物質波，$\\lambda = \\dfrac{h}{p}$。\n• (B) 錯誤：棒球動量很大，波長極短（約 $10^{-34}$ m），無法觀察。\n• (C) 錯誤：電子繞射圖案正是電子具有波動性的證據。\n• (D) 錯誤：物質波與是否帶電無關。\n• (E) 正確：單一電子打在屏幕上是粒子般的一點，大量累積後呈現干涉條紋，顯示波粒二象性。\n\n故選 (E)"
+  },
+  {
+    "id": "109m-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "某生彈奏吉他時，覺得吉他音調不準，於是轉動吉他調音旋鈕，將第二根弦稍微拉緊。若弦的兩固定端距離不變，此調音動作對第二根弦產生的物理效應為何？",
+    "options": [
+      "使第二根弦上駐波的波長變小",
+      "使第二根弦上駐波的頻率變大",
+      "使第二根弦上駐波的波速變小",
+      "使第二根弦上駐波的振幅變大",
+      "使第二根弦上駐波和音箱的共鳴程度增大"
+    ],
+    "answerIndex": 1,
+    "explanation": "【弦的張力與音高】\n兩端距離不變，駐波波長固定（基音 $\\lambda = 2L$）。拉緊後張力變大，波速 $v = \\sqrt{\\dfrac{T}{\\mu}}$ 變大，頻率 $f = \\dfrac{v}{\\lambda}$ 變大，音調變高。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "鎝-99m（Tc-99m，m 代表亞穩態同位素）是目前最廣泛使用的核醫藥物，可用於甲狀腺、副甲狀腺、骨骼、心肌、腦部等掃描檢查。鎝-99m 可先由鈾核分裂獲得鉬-99（Mo-99），鉬-99 再衰變成鎝-99m，其過程為：$^{99}_{42}\\text{Mo} \\to {}^{99m}_{43}\\text{Tc} + \\text{X} + \\bar\\nu$（$\\bar\\nu$ 為不帶電荷且質量非常小或近乎零的反微中子），如圖 1 所示，接著將鎝-99m 取出，並由注射或口服等方法送入人體內，在特定器官或組織發生衰變，其過程為：$^{99m}_{43}\\text{Tc} \\to {}^{99}_{43}\\text{Tc} + \\gamma$，釋放出 $\\gamma$ 射線作為檢測分析的訊號。下列有關此核醫藥物的敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-03.png\" alt=\"圖1 Mo-99 衰變為 Tc-99m（放出 X）、再放出 γ 成為 Tc-99 的能階圖\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\gamma$ 射線為能量高於紫外線之電子",
+      "$\\gamma$ 射線為能量高於紫外線之中子",
+      "在鉬-99 進行放射性衰變成鎝-99m 時，X 代表 $\\beta$ 粒子",
+      "在鉬-99 進行放射性衰變成鎝-99m 時，X 代表 $\\alpha$ 粒子",
+      "在鉬-99 進行放射性衰變成鎝-99m 時，X 代表 $\\gamma$ 粒子"
+    ],
+    "answerIndex": 2,
+    "explanation": "【核衰變】\n• (A)(B) 錯誤：$\\gamma$ 射線是高能量的電磁波（光子），不是電子或中子。\n• 質量數不變（99 → 99）、原子序加 1（42 → 43），並放出反微中子：中子轉變為質子並放出電子，X 為 $\\beta^-$ 粒子。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "有一紅光雷射發射波長為 $6.3\\times10^{-7}\\text{ m}$ 的雷射光，其輸出功率為 5.0 mW；另有一藍光雷射發射波長為 $4.5\\times10^{-7}\\text{ m}$ 的雷射光，其輸出功率為 15 mW。試問藍光雷射每秒發射的光子數目，約為紅光雷射的多少倍？",
+    "options": [
+      "4.2",
+      "3",
+      "2.1",
+      "0.47",
+      "0.24"
+    ],
+    "answerIndex": 2,
+    "explanation": "【光子數 = 功率 ÷ 單一光子能量】\n每秒光子數 $N = \\dfrac{P}{hc/\\lambda} = \\dfrac{P\\lambda}{hc} \\propto P\\lambda$\n$\\dfrac{N_{\\text{藍}}}{N_{\\text{紅}}} = \\dfrac{15\\times4.5}{5.0\\times6.3} = \\dfrac{67.5}{31.5} \\approx 2.1$\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "一力常數為 1.00 N/m 的彈簧，一端固定在牆上，另一端連結質量為 1.00 kg 的質點，且質點在光滑水平面上作一維簡諧運動，以 $x$ 代表質點偏離平衡點（彈簧自然長度）的位移，$x > 0$ 表示彈簧被拉長，$x < 0$ 表示彈簧被壓縮。在時間 $t = 0\\text{ s}$ 時，質點朝彈簧伸長的方向運動速率不為零，且位移 $x = 0.02\\text{ m}$。若運動過程中力學能守恆，則時間 $t = \\pi\\text{ s}$ 時，下列有關質點運動的敘述何者正確？",
+    "options": [
+      "朝彈簧壓縮的方向運動，且 $x = -0.02\\text{ m}$",
+      "朝彈簧壓縮的方向運動，且 $x = 0.02\\text{ m}$",
+      "質點回到平衡點，且開始被壓縮",
+      "質點回到平衡點，且開始被拉長",
+      "質點動量和時間 $t = 0\\text{ s}$ 時的動量一樣"
+    ],
+    "answerIndex": 0,
+    "explanation": "【簡諧運動的半週期】\n$\\omega = \\sqrt{\\dfrac{k}{m}} = 1\\text{ rad/s}$，週期 $T = 2\\pi\\text{ s}$，$t = \\pi$ s 恰為半個週期。\n經過半週期，位移與速度都變成相反：$x = -0.02\\text{ m}$，速度方向朝壓縮方向（$-x$），動量也反向。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "某生質量 50.0 kg，從一個 10.0 m 長的溜滑梯斜面滑下，此斜面頂端與底部之間的垂直高度差為 6.0 m。若該生下滑時所受的動摩擦力保持不變，且溜滑梯斜面與該生間之動摩擦係數為 0.25，則該生沿斜面下滑的加速度量值為多少？（取重力加速度為 $10\\text{ m/s}^2$）",
+    "options": [
+      "$1.0\\text{ m/s}^2$",
+      "$2.0\\text{ m/s}^2$",
+      "$4.0\\text{ m/s}^2$",
+      "$6.0\\text{ m/s}^2$",
+      "$8.0\\text{ m/s}^2$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【斜面運動】\n$\\sin\\theta = \\dfrac{6.0}{10.0} = 0.6$，$\\cos\\theta = 0.8$。\n$a = g(\\sin\\theta - \\mu_k\\cos\\theta) = 10(0.6 - 0.25\\times0.8) = 4.0\\text{ m/s}^2$\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "若低空運行的人造衛星，其軌道半徑可視為地球半徑，則該人造衛星的週期最接近下列何者？（取地球半徑 $R = 6.4\\times10^3\\text{ km}$、重力加速度 $g = 10\\text{ m/s}^2$）",
+    "options": [
+      "60 s",
+      "84 s",
+      "6 min",
+      "60 min",
+      "84 min"
+    ],
+    "answerIndex": 4,
+    "explanation": "【近地衛星】\n重力提供向心力：$mg = m\\dfrac{4\\pi^2R}{T^2} \\Rightarrow T = 2\\pi\\sqrt{\\dfrac{R}{g}} = 2\\pi\\sqrt{\\dfrac{6.4\\times10^6}{10}} = 2\\pi\\times800 \\approx 5030\\text{ s} \\approx 84\\text{ min}$\n\n故選 (E)"
+  },
+  {
+    "id": "109m-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 2 所示，令此時 $t = 0$，繩上的三角形脈衝波以波速 $v$ 向 $+x$ 傳播，當脈衝波通過繩上 P 點時，若 P 點之速度為 $u$，且以向上的方向為正，則速度 $u$ 與時間 $t$ 的關係示意圖最接近下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-08.png\" alt=\"圖2 向 +x 傳播的三角形脈衝波與右方的 P 點，以及選項 (A)~(E) 的 u-t 圖\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 3,
+    "explanation": "【由波形斜率判斷質點速度】\n向右傳播的波，質點速度 $u = -v\\dfrac{\\partial y}{\\partial x}$。\n• 脈衝的前緣（右側斜邊）先到 P：斜率為負且固定，P 以固定速度向上運動，$u > 0$。\n• 接著後緣（左側斜邊）通過：斜率為正，P 以固定速度向下回到原位，$u < 0$。\n• 前後各維持一段相等的時間，之後 $u = 0$。\n所以 $u$ 先是正的定值、再是負的定值，為圖 (D)。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "材質與半徑完全相同的兩金屬球分別帶有電量 $Q$ 及 $\\dfrac12Q$，兩球間的距離遠大於其半徑，且兩球間的靜電作用力為 $F$。今將兩球接觸後再將它們放回原來位置，假設過程中兩球上的總電荷守恆，則兩球間的靜電作用力變為若干？",
+    "options": [
+      "$\\dfrac32F$",
+      "$\\dfrac98F$",
+      "$\\dfrac54F$",
+      "$\\dfrac34F$",
+      "$\\dfrac78F$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【電荷均分】\n相同導體球接觸後平分電量：各帶 $\\dfrac{Q + Q/2}{2} = \\dfrac34Q$。\n$\\dfrac{F'}{F} = \\dfrac{\\frac34Q\\cdot\\frac34Q}{Q\\cdot\\frac12Q} = \\dfrac{9/16}{1/2} = \\dfrac98$\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "老師講解惠司同電橋測量未知電阻的實驗，在黑板繪出電路圖，如圖 3 所示，其中 G 為檢流計，$R_1$ 及 $R_2$ 為已知的固定電阻，$R_x$ 為待測電阻。同學操作實驗時，選擇適當的電阻 $R_3$，使電橋平衡，並得到檢流計顯示為 0 的讀值，且能獲得正確待測電阻值：$R_x = R_3\\dfrac{R_2}{R_1}$。另一位同學操作實驗時，原來電阻 $R_1$、$R_2$、$R_3$ 及 $R_x$ 都不變，僅將電路中檢流計和電池的位置互換，引起同組同學討論，同學所提出的下列意見何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-10.png\" alt=\"圖3 惠司同電橋：R1、R3 在上，R2、Rx 在下，中間接檢流計 G\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "若互換 $R_1$ 及 $R_2$ 位置，可保持檢流計顯示為 0 的讀值",
+      "若互換 $R_1$ 及 $R_3$ 位置，可保持檢流計顯示為 0 的讀值",
+      "若互換 $R_x$ 及 $R_3$ 位置，可保持檢流計顯示為 0 的讀值",
+      "雖然檢流計和電池的位置互換，仍可使電橋平衡，且能獲得待測電阻值為 $R_x = R_3\\dfrac{R_2}{R_1}$",
+      "將電阻 $R_x$ 及 $R_3$ 互換，同時也將 $R_1$ 及 $R_2$ 互換，無法使電橋平衡，所以不能獲得待測電阻值"
+    ],
+    "answerIndex": 3,
+    "explanation": "【惠司同電橋的對稱性】\n平衡條件是四個電阻的比例關係 $R_1R_x = R_2R_3$（相對兩臂乘積相等）。檢流計與電池互換後，同樣的四個電阻仍構成電橋，平衡條件不變，所以檢流計仍讀 0，且 $R_x = R_3\\dfrac{R_2}{R_1}$，(D) 正確。\n• (A)(B)(C) 只互換一對電阻，乘積關係一般會被破壞（除非特例）。\n• (E) 兩對同時互換後，$R_2R_3 = R_1R_x$ 仍成立，可以平衡。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 11-12 題為題組】火鍋店通常使用電磁爐加熱火鍋及其內的湯及食材。現有一平底火鍋置於電磁爐上，其鍋底和鍋壁均由耐高溫絕緣材料製成，但鍋底安置了如圖 4 所示之 5 圈同心導電圓環。當電磁爐接通交流電源後，會產生垂直於鍋底方向、隨時間變化的磁場，並且在同心導電圓環上產生應電流。平底火鍋的導電圓環所用材料之單位長度的電阻 $R_0 = 0.5\\ \\Omega/\\text{m}$，從中心向外數第 $n$ 個同心導電圓環的半徑 $r_n = (2n - 1)r_1$（$n = 1\\sim5$），其中 $r_1 = 1.0\\text{ cm}$。若已知該磁場時變率為 $\\dfrac{\\Delta B}{\\Delta t} = 100\\sin\\omega t\\ \\text{V/m}^2$，$\\omega$ 為交流電源的角頻率，$t$ 為時間。\n\n11. 半徑為 $r_4$ 的導電圓環中應電流的最大值是多少 A？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-11.png\" alt=\"圖4 鍋底的 5 圈同心導電圓環\" style=\"width:100%;max-width:140px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "3",
+      "1"
+    ],
+    "answerIndex": 0,
+    "explanation": "【感應電流】\n$r_4 = 7r_1 = 0.07\\text{ m}$。\n最大電動勢 $\\varepsilon = \\pi r^2\\cdot100$，圓環電阻 $= 2\\pi r\\cdot R_0 = \\pi r$（$R_0 = 0.5$）：\n$I = \\dfrac{100\\pi r^2}{\\pi r} = 100r = 100\\times0.07 = 7\\text{ A}$\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 11-12 題為題組】火鍋店通常使用電磁爐加熱火鍋及其內的湯及食材。現有一平底火鍋置於電磁爐上，其鍋底和鍋壁均由耐高溫絕緣材料製成，但鍋底安置了如圖 4 所示之 5 圈同心導電圓環。當電磁爐接通交流電源後，會產生垂直於鍋底方向、隨時間變化的磁場，並且在同心導電圓環上產生應電流。平底火鍋的導電圓環所用材料之單位長度的電阻 $R_0 = 0.5\\ \\Omega/\\text{m}$，從中心向外數第 $n$ 個同心導電圓環的半徑 $r_n = (2n - 1)r_1$（$n = 1\\sim5$），其中 $r_1 = 1.0\\text{ cm}$。若已知該磁場時變率為 $\\dfrac{\\Delta B}{\\Delta t} = 100\\sin\\omega t\\ \\text{V/m}^2$，$\\omega$ 為交流電源的角頻率，$t$ 為時間。\n\n12. 第 $n$ 圈導電圓環產生熱量的功率 $P_n$ 與半徑 $r_n$ 的關係為 $P_n \\propto r_n^a$，則 $a$ 為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-11.png\" alt=\"圖4 鍋底的 5 圈同心導電圓環\" style=\"width:100%;max-width:140px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1",
+      "3/2",
+      "2",
+      "5/2",
+      "3"
+    ],
+    "answerIndex": 4,
+    "explanation": "【焦耳熱功率】\n$\\varepsilon \\propto r^2$，$R \\propto r$，$P = \\dfrac{\\varepsilon^2}{R} \\propto \\dfrac{r^4}{r} = r^3$，$a = 3$。\n\n故選 (E)"
+  },
+  {
+    "id": "109m-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "考慮如圖 5 的線路，右邊是質量為 $m$ 而長度為 $l$ 的金屬棒，可以在導線上滑動形成導通的迴路，且滑動時摩擦力可忽略不計。將整個迴路放置於量值為 $B$、方向為射入紙面（以 × 表示）的均勻磁場中，除了電阻 $R$ 外，假設此迴路其餘部分的電阻皆可忽略。如果金屬棒有一初速 $v$，則經過一段特定時間 $t = 0.69\\tau$ 之後，金屬棒的速率就會減半成 $\\dfrac{v}{2}$，而且 $\\tau$ 大致上與初速無關。其原理是因為電磁感應：金屬棒的運動造成迴路的磁通量改變，產生應電流，而此電流讓運動中的金屬棒，在磁場中受到一反向的磁力，因此會減速，且應電流在電阻 $R$ 上會產生功率消耗。$\\tau$ 可由時間的因次求得，下列何者為 $\\tau$ 的表示式？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-13.png\" alt=\"圖5 電阻 R 與軌道上的金屬棒，磁場入紙面\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{mR}{l^2B^2}$",
+      "$\\dfrac{m^2R}{lB^2}$",
+      "$\\dfrac{mB}{lR^2}$",
+      "$\\dfrac{mB^2}{l^2R}$",
+      "$\\dfrac{l^2B^2}{mR^2}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【電磁阻尼的時間常數】\n磁力 $F = \\dfrac{B^2l^2v}{R}$，$m\\dfrac{dv}{dt} = -\\dfrac{B^2l^2}{R}v$，速度按指數衰減 $v(t) = v_0e^{-t/\\tau}$，$\\tau = \\dfrac{mR}{B^2l^2}$；速度減半需 $\\tau\\ln2 \\approx 0.69\\tau$。\n因次驗證：$\\dfrac{B^2l^2}{R}$ 的單位是 N/(m/s) = kg/s，所以 $\\dfrac{m}{B^2l^2/R}$ 的單位是秒。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "波長為 640 nm 的平行光束垂直照射寬度為 0.060 mm 的單狹縫，再正向投射在距離單狹縫 1.0 m 的屏幕上，並在屏幕出現亮暗相間的條紋。若單狹縫寬度方向的兩邊緣至屏幕上 P 點處的光程差恰為三個波長，則 P 點至屏幕中央亮帶的中心線之距離為多少 cm？",
+    "options": [
+      "0.36",
+      "6.0",
+      "3.2",
+      "6.4",
+      "64"
+    ],
+    "answerIndex": 2,
+    "explanation": "【單狹縫第三暗紋】\n兩邊緣光程差 $b\\sin\\theta = 3\\lambda$，P 為第三暗紋：\n$y = \\dfrac{3\\lambda L}{b} = \\dfrac{3\\times640\\times10^{-9}\\times1.0}{0.060\\times10^{-3}} = 0.032\\text{ m} = 3.2\\text{ cm}$\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "某生進行光電效應實驗，使用的正極板與負極板表面均為金屬鈉，其功函數為 2.3 eV，而電源提供的電位差為 3.0 V。通常在光電效應實驗中是將光照射在正極板上，但某生在實驗中卻將波長 400 nm 的光照射在負極板上，則光電子到達正極板時的最大動能約為何？（取普朗克常數 $h = 6.63\\times10^{-34}\\text{ J}\\cdot\\text{s}$，基本電荷 $e = 1.6\\times10^{-19}\\text{ C}$，光速 $c = 3.0\\times10^8\\text{ m/s}$）",
+    "options": [
+      "5.4 eV",
+      "3.8 eV",
+      "3.1 eV",
+      "2.3 eV",
+      "0.8 eV"
+    ],
+    "answerIndex": 1,
+    "explanation": "【光電子被加速】\n光子能量 $\\dfrac{hc}{\\lambda} = \\dfrac{6.63\\times10^{-34}\\times3.0\\times10^8}{400\\times10^{-9}\\times1.6\\times10^{-19}} \\approx 3.1\\text{ eV}$。\n光電子離開負極板的最大動能 $3.1 - 2.3 = 0.8\\text{ eV}$；由負極板飛向正極板，被 3.0 V 電位差加速，增加 3.0 eV：\n$K_{max} = 0.8 + 3.0 = 3.8\\text{ eV}$\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "老師以彈珠遊戲做示範教學，將半徑相同的彈珠都放置在一水平直線軌道中，由左到右質量分別為 $M$、$2M$、$2M$、$4M$，如圖 6 所示。一開始時所有的彈珠皆處於靜止狀態，老師將左邊數來第三顆質量為 $2M$ 的彈珠，以 1.5 m/s 的速度水平射向右邊質量為 $4M$ 的彈珠，造成一系列的碰撞。若所有碰撞皆為彈性碰撞，且摩擦力均可忽略不計，則下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-16.png\" alt=\"圖6 直線軌道上由左到右 M、2M、2M、4M 四顆彈珠\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "所有彈珠總共發生四次彈性碰撞",
+      "在經過多次碰撞後，最後左邊數來的第三顆彈珠向右運動",
+      "在經過多次碰撞後，質量為 2M 的兩顆彈珠，最後都向左運動",
+      "在經過多次碰撞後，質量為 M 與 4M 的彈珠，最後運動的方向相反",
+      "在經過多次碰撞後，質量為 M 的彈珠，最後的運動速率是所有彈珠中最慢的"
+    ],
+    "answerIndex": 3,
+    "explanation": "【一維彈性碰撞】\n以向右為正：\n① 第三顆 $2M$（1.5）撞 $4M$（0）：$2M$ 變為 $\\dfrac{2 - 4}{6}\\times1.5 = -0.5$，$4M$ 變為 $\\dfrac{4}{6}\\times1.5 = 1.0$。\n② 第三顆（$-0.5$）撞第二顆 $2M$（0）：等質量交換速度，第三顆靜止、第二顆 $-0.5$。\n③ 第二顆（$-0.5$）撞 $M$（0）：第二顆 $\\dfrac{2 - 1}{3}(-0.5) = -\\dfrac16$，$M$ 為 $\\dfrac43(-0.5) = -\\dfrac23$。\n之後 $M$ 比第二顆快，不再相撞。總共 3 次碰撞。\n最後：$M$ 以 $\\dfrac23$ 向左（最快）、第二顆 $2M$ 以 $\\dfrac16$ 向左、第三顆靜止、$4M$ 以 1.0 向右。$M$ 與 $4M$ 方向相反。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "質量為 1 kg 的物體靜置於地面上，今施鉛直向上力 $F$ 於此物體。$F$ 隨時間 $t$ 變化的關係如圖 7 所示。則在 $t = 0\\sim10$ 秒間，此力作用在物體上的平均功率為下列何者？（取重力加速度為 $10\\text{ m/s}^2$，且忽略空氣阻力）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-17.png\" alt=\"圖7 F 在 0～2 s 由 0 升到 9 N，2～8 s 為 9 N，8 s 後為 18 N\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "162 W",
+      "144 W",
+      "94.5 W",
+      "32.4 W",
+      "28.8 W"
+    ],
+    "answerIndex": 4,
+    "explanation": "【力作功與平均功率】\n物重 10 N。0～8 s 間 $F \\le 9\\text{ N} < 10\\text{ N}$，物體不離地，不動，$F$ 不作功。\n8～10 s：$F = 18\\text{ N}$，$a = \\dfrac{18 - 10}{1} = 8\\text{ m/s}^2$，2 秒上升 $\\dfrac12\\times8\\times2^2 = 16\\text{ m}$。\n$W = 18\\times16 = 288\\text{ J}$，平均功率 $= \\dfrac{288}{10} = 28.8\\text{ W}$\n\n故選 (E)"
+  },
+  {
+    "id": "109m-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "同學們玩飛鏢遊戲，某生持一飛鏢水平瞄準靶心 X 點，將飛鏢在距離 X 點 2 m 處，以 20 m/s 速率水平射出，如圖 8 所示。若飛鏢被射出後擊中 Y 點，則 XY 之間的距離為何？（假設飛鏢可視為質點、空氣阻力可略，取重力加速度為 $10\\text{ m/s}^2$）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-18.png\" alt=\"圖8 水平射出的飛鏢落在靶心 X 正下方的 Y 點\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "0.5 m",
+      "0.2 m",
+      "0.1 m",
+      "0.05 m",
+      "0.02 m"
+    ],
+    "answerIndex": 3,
+    "explanation": "【水平拋射】\n飛行時間 $t = \\dfrac{2}{20} = 0.1\\text{ s}$，下落 $\\dfrac12\\times10\\times0.1^2 = 0.05\\text{ m}$。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-phy-19",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "一條長為 $R$ 的繩子綁住一個石塊，讓石塊一開始在鉛直面上作圓周運動，石塊的位置可由石塊—圓心連線和水平線夾角 $\\theta$ 表示，如圖 9 所示。若石塊在最低處的速率改為 $\\sqrt{\\dfrac{7Rg}{2}}$，$g$ 為重力加速度，則石塊轉到何處時會脫離圖 9 所示之圓形虛線軌跡？（已知 $\\sin37^\\circ \\approx 0.6$）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-19.png\" alt=\"圖9 石塊在鉛直圓周上，與圓心連線和水平線夾 θ\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\theta = 30^\\circ$",
+      "$\\theta = 37^\\circ$",
+      "$\\theta = 45^\\circ$",
+      "$\\theta = 53^\\circ$",
+      "$\\theta = 60^\\circ$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【繩子鬆弛的條件】\n在水平線上方 $\\theta$ 處，高於最低點 $R(1 + \\sin\\theta)$：\n$v^2 = \\dfrac72gR - 2gR(1 + \\sin\\theta) = gR\\left(\\dfrac32 - 2\\sin\\theta\\right)$\n沿半徑方向：$T + mg\\sin\\theta = \\dfrac{mv^2}{R}$。張力降為零時脫離：$g\\sin\\theta = g\\left(\\dfrac32 - 2\\sin\\theta\\right) \\Rightarrow \\sin\\theta = \\dfrac12$，$\\theta = 30^\\circ$。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-phy-20",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "甲、乙兩物體有相同的質量，且體積可忽略，乙靜置於水平面上，而甲以長度為 $L$、質量可忽略的細繩繫於乙上方的一點，並在與鉛直方向成 $37^\\circ$ 處自靜止被釋放後，在最低點與乙發生正向彈性碰撞，如圖 10 所示。已知碰撞時間極短，且碰撞後甲靜止不動，而乙在桌面上往左滑行了距離 $L$ 後停下來。令乙跟水平面之間的動摩擦係數為 $\\mu_k$，則 $\\mu_k$ 的值為何？（已知 $\\sin37^\\circ \\approx 0.6$）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-20.png\" alt=\"圖10 單擺甲從 37° 釋放，在最低點撞桌邊的乙\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "0.1",
+      "0.2",
+      "0.3",
+      "0.4",
+      "0.5"
+    ],
+    "answerIndex": 1,
+    "explanation": "【能量守恆＋彈性碰撞＋摩擦】\n甲下降 $L(1 - \\cos37^\\circ) = 0.2L$，到最低點 $v^2 = 2g(0.2L) = 0.4gL$。\n等質量彈性正碰，速度交換，乙獲得 $v$。\n乙滑行 $L$ 停下：$\\mu_k gL = \\dfrac{v^2}{2} = 0.2gL \\Rightarrow \\mu_k = 0.2$\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-phy-21",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "光線自折射率為 $\\dfrac54$ 的透明液體射向折射率為 1 的空氣，下列坐標圖中，哪些為可能的光徑？（各圖中的箭頭實線為光徑，圓圈虛線為參考圓僅用以輔助判讀）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-21.png\" alt=\"五張方格圖：下半部為液體、上半部為空氣，箭頭為入射、反射與折射光徑\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【折射與全反射】\n用參考圓讀出各光線與圓交點到法線的水平距離，就是 $\\sin$ 值的比例。液體→空氣：$\\dfrac54\\sin\\theta_1 = \\sin\\theta_2$，折射光偏離法線；臨界角 $\\sin\\theta_c = \\dfrac45$。界面上一定有反射光，且反射角等於入射角。\n• (A) 入射與折射的水平距離相同，等於沒有偏折，錯。\n• (B) 折射光反而更靠近法線，錯。\n• (C) 入射約 3 格、折射約 3.75 格，比例 $\\dfrac54$，且有對稱的反射光，正確。\n• (D) 入射角很大，超過臨界角，只剩全反射，正確。\n• (E) 入射角已超過臨界角，卻還畫出折射光，錯。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "109m-ast-phy-22",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "下列有關物質受熱與狀態變化的敘述，哪些正確？",
+    "options": [
+      "當壓力變大時，冰的熔點也變高",
+      "在高海拔地區，很難把飯煮熟，是因為高度越高氣壓越低，水的沸點也降低",
+      "廚房內煮湯時，只要鍋內還有水沸騰，溫度就不太會繼續升高，這是因為液態水大量汽化吸收熱量的緣故",
+      "水的溫度由 0℃ 升高到 100℃ 的過程中，體積皆會隨溫度升高而變大",
+      "滾燙的熱水倒進冰涼的厚玻璃杯中時，若杯子破裂，主要是因為杯子的內壁和外壁溫差很大，導致杯子內外的膨脹不均勻所造成的"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【熱與物態】\n• (A) 錯誤：冰熔化時體積變小，加壓有利於熔化，熔點降低。\n• (B) 正確：氣壓低，沸點低（不到 100℃），飯不易煮熟。\n• (C) 正確：沸騰時吸收的熱用於汽化，溫度維持在沸點。\n• (D) 錯誤：水在 0～4℃ 時溫度升高反而收縮。\n• (E) 正確：內壁受熱膨脹、外壁仍冷，產生很大的熱應力而破裂。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "109m-ast-phy-23",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "距離地球相當遙遠的甲、乙兩個星系因宇宙膨脹而以 $v_{\\text{甲}}$ 和 $v_{\\text{乙}}$（$v_{\\text{甲}} > v_{\\text{乙}}$）的速率遠離地球，若分別在兩星系上的氫原子之電子都由初始能階 $E_n$ 躍遷到 $E_m$，且 $E_n > E_m$（$n$、$m$ 為主量子數），則下列敘述哪些正確？（$h$ 為普朗克常數，$c$ 為真空中的光速）",
+    "options": [
+      "甲星系與地球的距離大於乙星系與地球的距離",
+      "甲星系上的氫原子之電子由能階 $E_n$ 躍遷到 $E_m$ 時所釋放出的電磁波，在真空中以光速傳播",
+      "甲星系上的氫原子之電子躍遷所釋放之電磁波到達地球時，在地球上的觀測者所測得的頻率為 $\\dfrac{E_n - E_m}{h}$",
+      "乙星系上的氫原子之電子躍遷所釋放之電磁波到達地球時，在地球上的觀測者所測得的波長小於 $\\dfrac{hc}{E_n - E_m}$",
+      "甲、乙星系上的氫原子電子躍遷所釋放之電磁波到達地球時，在地球上的觀測者所測得來自甲星系電磁波的頻率小於來自乙星系電磁波的頻率"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "【宇宙膨脹與紅移】\n• (A) 正確：哈伯定律 $v = H_0d$，退行速度愈大距離愈遠。\n• (B) 正確：電磁波在真空中的速率都是 $c$。\n• (C)(D) 錯誤：星系遠離，觀測到紅移：頻率小於 $\\dfrac{E_n - E_m}{h}$，波長大於 $\\dfrac{hc}{E_n - E_m}$。\n• (E) 正確：甲退行較快，紅移較大，頻率較低。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "109m-ast-phy-24",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "將重量 $W$ 的物體以水平外力 $F$ 壓在鉛直的牆面上，物體離地面有一段距離。若物體靜止不動，則下列敘述哪些正確？",
+    "options": [
+      "$W$ 與 $F$ 量值相等，才能達成靜力平衡",
+      "牆對物體的作用力，在水平方向是正向力，且與 $F$ 量值相等",
+      "牆對物體的作用力，在鉛直方向是摩擦力，且與 $F$ 量值相等",
+      "鉛直方向的摩擦力與 $W$ 量值相等，才能達成靜力平衡",
+      "當水平外力 $F$ 增大時，牆對物體的正向力增大，但摩擦力量值不變"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "【靜摩擦力】\n• 水平：正向力 $N = F$，(B) 正確。\n• 鉛直：靜摩擦力 $f = W$，與 $F$ 無關，(D) 正確，(A)(C) 錯。\n• (E) 正確：$F$ 增大時 $N$ 增大（最大靜摩擦變大），但實際的靜摩擦力仍等於 $W$。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "109m-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】某生以兩同調點波源於水波槽觀測水波干涉現象，水波不易直接觀測，因此實驗時於水槽上方置一燈，將水波光影投射於水槽底下，以便觀測與記錄。實驗觀察獲得的水波干涉圖如圖 11 所示。\n\n1. 依據干涉圖（圖 11）中所標示的線 a、b、c、d、e、f、g，寫出哪些線是節線、哪些線是腹線，並說明如何由干涉圖中找出節線與腹線的方法。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-non-1.png\" alt=\"圖11 兩同調點波源的水波干涉圖，標有 a～g 七條線\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "節線：a、c、e、g；腹線：b、d、f。沿著波行進方向，連接亮暗紋的中點即為腹線；連接亮紋區與暗紋區交界處（振動很小、明暗不分）的點即為節線。"
+    ],
+    "blankLabels": [
+      "節線、腹線與判斷方法"
+    ],
+    "explanation": "腹線上兩波始終同相疊加，振幅最大，影像上明暗對比最強烈；節線上兩波反相抵消，水面幾乎不動，影像呈均勻灰色。中央線 d（到兩波源等距）必為腹線，兩側節線與腹線交替出現。"
+  },
+  {
+    "id": "109m-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】某生以兩同調點波源於水波槽觀測水波干涉現象，水波不易直接觀測，因此實驗時於水槽上方置一燈，將水波光影投射於水槽底下，以便觀測與記錄。實驗觀察獲得的水波干涉圖如圖 11 所示。\n\n2. 若要理論驗證實驗干涉圖中節線的位置，必須測量哪些物理量？說明測量這些物理量的方法及驗證的原理。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-non-1.png\" alt=\"圖11 兩同調點波源的水波干涉圖，標有 a～g 七條線\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "測量視路程差 $\\Delta L$：在節線上取一點 P，量出 P 到兩波源的距離，兩者之差的絕對值即為 $\\Delta L$。測量視波長 $\\lambda$：沿波的傳遞方向，量出相鄰兩亮紋（或兩暗紋）中點的距離。節線應滿足 $\\Delta L = \\dfrac{2n - 1}{2}\\lambda$（$n = 1, 2, 3, \\ldots$）。"
+    ],
+    "blankLabels": [
+      "測量與驗證"
+    ],
+    "explanation": "影像是投影放大的「視」長度，但路程差與波長被同樣比例放大，比值不變，可以直接比較。節線上兩波的路程差為半波長的奇數倍，兩波反相而抵消。"
+  },
+  {
+    "id": "109m-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】某生以兩同調點波源於水波槽觀測水波干涉現象，水波不易直接觀測，因此實驗時於水槽上方置一燈，將水波光影投射於水槽底下，以便觀測與記錄。實驗觀察獲得的水波干涉圖如圖 11 所示。\n\n3. 如果兩同調點波源的振動頻率增為 2 倍，則相鄰兩節線間距將變為原來的多少倍？並說明原因。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-non-1.png\" alt=\"圖11 兩同調點波源的水波干涉圖，標有 a～g 七條線\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "變為原來的 $\\dfrac12$。水深不變、波速固定，$v = f\\lambda$，頻率加倍波長減半；干涉圖樣隨波長等比例縮小，相鄰節線間距也變為 $\\dfrac12$。"
+    ],
+    "blankLabels": [
+      "倍數與原因"
+    ],
+    "explanation": "節線位置由 $\\dfrac{\\Delta L}{\\lambda}$ 決定，波長減半，同樣的節線條件出現在一半的路程差處，整個圖樣依比例縮小。"
+  },
+  {
+    "id": "109m-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】質譜儀測量出帶電離子的荷質比，可進而分析離子的種類，其主要構造可分為離子源、具有均勻磁場 $B_1$ 的分析器及偵測器。質譜儀測量過程如圖 12 所示：質量 $m$、帶電荷 $q$（$q > 0$）的離子，由離子源以速度 $v$ 垂直射入均勻磁場 $B_1$ 中（以 • 表示射出紙面方向），經過半個圓周後射入偵測器，離子源和偵測器的距離固定為 $L$，只有特定質量的離子才能射入偵測器被偵測到。實驗時先讓離子經過平行金屬板間的區域，如圖 12 左下所示，該區域有橫向的均勻電場 $E$（以 → 表示電場方向）及進入紙面的均勻磁場 $B_2$（以 × 表示），目的為使垂直射入均勻磁場 $B_1$ 的離子皆有相同的速度 $v$。\n\n1. 欲使垂直射入均勻磁場 $B_1$ 的離子皆有相同的速度 $v$，則平行金屬板間區域的電場 $E$、磁場 $B_2$ 及離子速度 $v$ 有何關係？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-non-2.png\" alt=\"圖12 質譜儀：速度選擇器（E 與 B2）、分析器（B1）與相距 L 的偵測器\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$qE = qvB_2$，即 $v = \\dfrac{E}{B_2}$"
+    ],
+    "blankLabels": [
+      "關係式"
+    ],
+    "explanation": "離子要直線通過速度選擇器，電力與磁力必須平衡：$qE = qvB_2$，只有 $v = \\dfrac{E}{B_2}$ 的離子能通過。"
+  },
+  {
+    "id": "109m-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】質譜儀測量出帶電離子的荷質比，可進而分析離子的種類，其主要構造可分為離子源、具有均勻磁場 $B_1$ 的分析器及偵測器。質譜儀測量過程如圖 12 所示：質量 $m$、帶電荷 $q$（$q > 0$）的離子，由離子源以速度 $v$ 垂直射入均勻磁場 $B_1$ 中（以 • 表示射出紙面方向），經過半個圓周後射入偵測器，離子源和偵測器的距離固定為 $L$，只有特定質量的離子才能射入偵測器被偵測到。實驗時先讓離子經過平行金屬板間的區域，如圖 12 左下所示，該區域有橫向的均勻電場 $E$（以 → 表示電場方向）及進入紙面的均勻磁場 $B_2$（以 × 表示），目的為使垂直射入均勻磁場 $B_1$ 的離子皆有相同的速度 $v$。\n\n2. 計算可射入偵測器的離子的質量 $m$ 為何？（以 $q$、$v$、$B_1$、$L$ 表示）（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-non-2.png\" alt=\"圖12 質譜儀：速度選擇器（E 與 B2）、分析器（B1）與相距 L 的偵測器\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$m = \\dfrac{qB_1L}{2v}$"
+    ],
+    "blankLabels": [
+      "m"
+    ],
+    "explanation": "磁力作為向心力：$qvB_1 = \\dfrac{mv^2}{r}$，半圓的直徑為 $L$，$r = \\dfrac{L}{2}$：$m = \\dfrac{qB_1r}{v} = \\dfrac{qB_1L}{2v}$。"
+  },
+  {
+    "id": "109m-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】質譜儀測量出帶電離子的荷質比，可進而分析離子的種類，其主要構造可分為離子源、具有均勻磁場 $B_1$ 的分析器及偵測器。質譜儀測量過程如圖 12 所示：質量 $m$、帶電荷 $q$（$q > 0$）的離子，由離子源以速度 $v$ 垂直射入均勻磁場 $B_1$ 中（以 • 表示射出紙面方向），經過半個圓周後射入偵測器，離子源和偵測器的距離固定為 $L$，只有特定質量的離子才能射入偵測器被偵測到。實驗時先讓離子經過平行金屬板間的區域，如圖 12 左下所示，該區域有橫向的均勻電場 $E$（以 → 表示電場方向）及進入紙面的均勻磁場 $B_2$（以 × 表示），目的為使垂直射入均勻磁場 $B_1$ 的離子皆有相同的速度 $v$。\n\n3. 由於實驗中離子速率有誤差 $\\Delta v$，離子速率可表示為 $v + \\Delta v$，因此測量到的離子質量會有誤差 $\\Delta m$，質量可表示為 $m + \\Delta m$，計算離子質量的誤差比率（$\\dfrac{\\Delta m}{m}$）為何？（以 $v$ 和 $\\Delta v$ 表示）（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-phy-non-2.png\" alt=\"圖12 質譜儀：速度選擇器（E 與 B2）、分析器（B1）與相距 L 的偵測器\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$\\dfrac{\\Delta m}{m} = -\\dfrac{\\Delta v}{v + \\Delta v}$（$\\Delta v$ 很小時約為 $-\\dfrac{\\Delta v}{v}$）"
+    ],
+    "blankLabels": [
+      "誤差比率"
+    ],
+    "explanation": "$m + \\Delta m = \\dfrac{qB_1L}{2(v + \\Delta v)}$，減去 $m = \\dfrac{qB_1L}{2v}$：\n$\\Delta m = \\dfrac{qB_1L}{2}\\left(\\dfrac{1}{v + \\Delta v} - \\dfrac1v\\right) = -m\\dfrac{\\Delta v}{v + \\Delta v}$\n所以 $\\dfrac{\\Delta m}{m} = -\\dfrac{\\Delta v}{v + \\Delta v} \\approx -\\dfrac{\\Delta v}{v}$（兩種寫法都正確）。"
   }
 ]
