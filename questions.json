@@ -27942,5 +27942,473 @@
       "需測量的量"
     ],
     "explanation": "由 $R = \\rho\\dfrac{\\ell}{A}$，$\\rho = \\dfrac{RA}{\\ell}$。截面積通常用測微器量直徑求得。"
+  },
+  {
+    "id": "95-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "points": 4,
+    "question": "甲乙兩物體的質量各為 1.0 kg 和 4.0 kg，以細繩連接，跨過質量可不計的滑輪，置於兩個斜角均為 $30^\\circ$ 的光滑長斜面上，如圖 1 所示。若兩物體自靜止釋放，經過 1.0 秒，乙物體沿斜面移動多少 m？（設重力加速度為 $10\\text{ m/s}^2$）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-01.png\" alt=\"圖1 兩個 30° 光滑斜面，甲 1.0 kg 在左、乙 4.0 kg 在右，以細繩跨過頂端滑輪\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "0",
+      "1.5",
+      "2.0",
+      "2.5",
+      "3.0"
+    ],
+    "answerIndex": 1,
+    "explanation": "【連體運動】\n沿斜面的重力分量：乙 $4.0\\times10\\times\\dfrac12 = 20\\text{ N}$，甲 $1.0\\times10\\times\\dfrac12 = 5\\text{ N}$。\n$a = \\dfrac{20 - 5}{1.0 + 4.0} = 3\\text{ m/s}^2$，乙沿斜面下滑 $s = \\dfrac12at^2 = \\dfrac12\\times3\\times1^2 = 1.5\\text{ m}$。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "points": 4,
+    "question": "一台 220 伏特的電熱器在開啟 1 小時後關閉，所通過的電流隨時間的變化如圖 2 所示。在這一小時內，電熱器總共用電約幾度？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-02.png\" alt=\"圖2 電流對時間：約 0～20 分與 40～58 分為 10 安培，中間約為零\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "88000",
+      "220",
+      "88",
+      "2.2",
+      "1.5"
+    ],
+    "answerIndex": 4,
+    "explanation": "【電能（度 = kWh）】\n由圖，約 0～20 分鐘與 40～60 分鐘電流約 10 A，中間 20 分鐘約為零，通電約 40 分鐘。\n$E = IVt = 10\\times220\\times\\dfrac{40}{60}\\text{ h} \\approx 1470\\text{ Wh} \\approx 1.5\\text{ 度}$\n\n故選 (E)"
+  },
+  {
+    "id": "95-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "points": 4,
+    "question": "圖 3 所示為在同一平面上由細導線圍成半徑分別為 2r 及 r 的同心圓。已知一均勻磁場垂直通過此平面，若磁場隨時間作均勻變化，且感應電流所產生的磁場可忽略不計，則大圓導線與小圓導線的感應電動勢之比為多少？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-03.png\" alt=\"圖3 半徑 2r 與 r 的同心圓導線\" style=\"width:100%;max-width:140px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1:1",
+      "2:1",
+      "4:1",
+      "1:4",
+      "1:2"
+    ],
+    "answerIndex": 2,
+    "explanation": "【法拉第定律】\n$\\varepsilon = \\dfrac{\\Delta\\Phi}{\\Delta t} = A\\dfrac{\\Delta B}{\\Delta t}$，磁場變化率相同，電動勢與面積成正比：$\\dfrac{\\pi(2r)^2}{\\pi r^2} = 4$。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "points": 4,
+    "question": "若圖 4 所示為測量二極體特性曲線的電路圖，則 W，X，Y，Z 分別代表何種儀器或元件？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-04.png\" alt=\"圖4 W 並聯於二極體兩端，X、Y 與二極體串聯，Z 在下方支路\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "W：伏特計，X：電阻，Y：安培計，Z：60 Hz 交流電源供應器",
+      "W：60 Hz 交流電源供應器，X：電阻，Y：伏特計，Z：安培計",
+      "W：安培計，X：輸出電壓可調變的直流電源供應器，Y：電阻，Z：伏特計",
+      "W：伏特計，X：安培計，Y：電阻，Z：輸出電壓可調變的直流電源供應器",
+      "W：電阻，X：伏特計，Y：安培計，Z：輸出電壓可調變的直流電源供應器"
+    ],
+    "answerIndex": 3,
+    "explanation": "【量測電路的接法】\n• W 與二極體並聯：量二極體兩端電壓，必為伏特計。\n• X、Y 與二極體串聯：一個是量電流的安培計，一個是保護用的電阻。\n• Z 為電源；要測 $I$–$V$ 特性曲線，需輸出電壓可調變的直流電源。\n符合的是 (D)。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "points": 4,
+    "question": "某生欲以一狹縫寬度為 $3.20\\times10^{-3}\\text{ cm}$ 的單狹縫及未知波長的雷射光來測量一雙狹縫的兩狹縫間距。先以雷射光為光源垂直入射做單狹縫繞射實驗，單狹縫至屏幕的距離為 150.00 cm，經測得屏幕上中央亮帶的寬度為 5.93 cm。現將單狹縫換成雙狹縫，其餘器材與距離均未改變下，再做雙狹縫干涉實驗，在屏幕上測得相鄰兩暗紋間的距離為 0.60 cm。依據以上數據，雙狹縫的兩狹縫間距為若干？",
+    "options": [
+      "0.16 mm",
+      "0.32 mm",
+      "0.63 mm",
+      "1.26 mm",
+      "2.52 mm"
+    ],
+    "answerIndex": 0,
+    "explanation": "【單狹縫與雙狹縫】\n單狹縫中央亮帶寬 $= \\dfrac{2\\lambda L}{b}$：$\\lambda = \\dfrac{5.93\\times3.20\\times10^{-3}}{2\\times150} \\approx 6.33\\times10^{-5}\\text{ cm}$（約 633 nm）。\n雙狹縫相鄰暗紋間距 $= \\dfrac{\\lambda L}{d}$：$d = \\dfrac{6.33\\times10^{-5}\\times150}{0.60} \\approx 0.0158\\text{ cm} \\approx 0.16\\text{ mm}$。\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "points": 4,
+    "question": "某生做滑車實驗如圖 5 所示，每次實驗在吊掛之處逐次增加一個質量為 50 g 的砝碼，並且記錄滑車的加速度。如果滑車質量為 100 g，細繩質量可忽略，則下列曲線，何者最適合描述滑車加速度隨著吊掛砝碼個數的變化？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-06.png\" alt=\"圖5 水平桌面上的滑車以細繩跨過滑輪吊掛砝碼；選項 (A)~(E) 為加速度對砝碼數的圖\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 3,
+    "explanation": "【牛頓第二定律】\n吊掛 $n$ 個砝碼（每個 $m = 50$ g），滑車 $M = 100$ g（假設桌面摩擦可忽略）：\n$a = \\dfrac{nmg}{M + nm} = \\dfrac{n}{2 + n}g$\n$n = 0$ 時 $a = 0$；$n$ 增加時 $a$ 增加，但增加得愈來愈慢，逐漸趨近 $g$。符合的是由原點出發、向下彎曲而趨於平緩的圖 (D)。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "points": 4,
+    "question": "如圖 6 所示，一油壓機內裝密度為 $\\rho$ 之液體，兩活塞截面積各為 $A$ 與 $2A$，且活塞所受的阻力與重量可忽略。今在左活塞上置重量為 $W$ 的物體，在右活塞上置重量為 $\\dfrac{W}{2}$ 的物體，最後達到平衡。設重力加速度為 $g$，兩活塞之高度差為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-07.png\" alt=\"圖6 油壓機：左活塞面積 A 放重 W，右活塞面積 2A 放重 W/2\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{W}{4A\\rho g}$",
+      "$\\dfrac{W}{2A\\rho g}$",
+      "$\\dfrac{3W}{4A\\rho g}$",
+      "$\\dfrac{W}{A\\rho g}$",
+      "0"
+    ],
+    "answerIndex": 2,
+    "explanation": "【帕斯卡原理】\n左活塞下的壓力 $\\dfrac{W}{A}$，右活塞下 $\\dfrac{W/2}{2A} = \\dfrac{W}{4A}$。左邊壓力較大，所以左活塞較低。\n在左活塞的高度比較：$\\dfrac{W}{A} = \\dfrac{W}{4A} + \\rho gh \\Rightarrow h = \\dfrac{3W}{4A\\rho g}$\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "points": 4,
+    "question": "如圖 7 所示，一聲源 S 在靜止時發出波長 $\\lambda_0$ 之聲波，當其以速度 $v$ 朝向一長度 L 的單口管移動時，可在管內形成 6 個波節之駐波；而當聲源 S 反向以同速率飛離該管時，可在管內形成 5 個波節之駐波。下列關係式何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-08.png\" alt=\"圖7 長 L 的單口管（右端開口），聲源 S 以 v 向左接近\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$L = \\dfrac{30}{11}\\lambda_0$",
+      "$L = \\dfrac{99}{40}\\lambda_0$",
+      "$L = \\dfrac52\\lambda_0$",
+      "$L = \\dfrac94\\lambda_0$",
+      "$L = \\dfrac{22}{9}\\lambda_0$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【都卜勒效應＋閉管駐波】\n單口管（一端閉、一端開）：閉端為節點、開口為腹點。有 $N$ 個波節時 $L = (N - 1)\\dfrac{\\lambda}{2} + \\dfrac{\\lambda}{4} = \\dfrac{(2N - 1)\\lambda}{4}$。\n• 接近時 6 個節點：$L = \\dfrac{11}{4}\\lambda_1$，$\\lambda_1 = \\lambda_0\\left(1 - \\dfrac{v}{V}\\right)$\n• 遠離時 5 個節點：$L = \\dfrac94\\lambda_2$，$\\lambda_2 = \\lambda_0\\left(1 + \\dfrac{v}{V}\\right)$\n令 $u = \\dfrac{v}{V}$（$V$ 為聲速）：$11(1 - u) = 9(1 + u) \\Rightarrow u = 0.1$\n$L = \\dfrac{11}{4}\\times0.9\\lambda_0 = \\dfrac{99}{40}\\lambda_0$\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "points": 4,
+    "question": "如圖 8 所示，在折射率為 $n_s = \\sqrt2$ 的基板上鍍有折射率為 $n_f = 1.5$ 的薄膜，雷射光從薄膜左側空氣中以入射角 $\\theta$ 入射薄膜。若光線在薄膜中皆能以全反射方式傳播，則其入射角的最大範圍為下列何者？（空氣的折射率設為 1）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-09.png\" alt=\"圖8 光線由左側端面以 θ 射入薄膜，在膜的上下界面全反射前進\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$0 < \\theta \\le \\dfrac{\\pi}{6}$",
+      "$0 < \\theta \\le \\dfrac{\\pi}{7}$",
+      "$0 < \\theta \\le \\dfrac{\\pi}{8}$",
+      "$0 < \\theta \\le \\dfrac{\\pi}{3}$",
+      "$0 < \\theta \\le \\dfrac{\\pi}{4}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【光導中的全反射】\n光由左側端面射入，折射角 $\\alpha$（與水平軸的夾角）：$\\sin\\theta = 1.5\\sin\\alpha$。\n光線射到上、下界面時的入射角為 $90^\\circ - \\alpha$。下界面（膜→基板）的臨界角較大，條件較嚴：\n$\\sin(90^\\circ - \\alpha) = \\cos\\alpha \\ge \\dfrac{\\sqrt2}{1.5} \\Rightarrow \\sin\\alpha \\le \\sqrt{1 - \\dfrac{2}{2.25}} = \\dfrac13$\n$\\sin\\theta \\le 1.5\\times\\dfrac13 = \\dfrac12 \\Rightarrow \\theta \\le \\dfrac{\\pi}{6}$\n（上界面膜→空氣的臨界條件 $\\cos\\alpha \\ge \\dfrac{1}{1.5}$ 自然滿足。）\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "points": 4,
+    "question": "如圖 9 所示，甲、乙兩人造衛星以圓形軌道繞地球運轉，假設運行的軌道在同一平面上，且運行的方向相反。甲衛星發現每隔 1/9 週期會與乙衛星相遇（即甲、乙衛星與地球恰在一直線上且在地球同側），若忽略甲、乙兩衛星間的作用力，則甲、乙兩衛星軌道半徑之比為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-10.png\" alt=\"圖9 甲、乙衛星在兩個同心圓軌道上反向運行\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1:4",
+      "1:2",
+      "1:1",
+      "2:1",
+      "4:1"
+    ],
+    "answerIndex": 4,
+    "explanation": "【相對角速度與克卜勒定律】\n「1/9 週期」指甲的週期 $T_{\\text{甲}}$。反向運行，相對角速度為兩者之和，每轉過 $2\\pi$ 相遇一次：\n$(\\omega_{\\text{甲}} + \\omega_{\\text{乙}})\\dfrac{T_{\\text{甲}}}{9} = 2\\pi \\Rightarrow \\omega_{\\text{甲}} + \\omega_{\\text{乙}} = 9\\omega_{\\text{甲}} \\Rightarrow \\omega_{\\text{乙}} = 8\\omega_{\\text{甲}}$\n$T_{\\text{乙}} = \\dfrac{T_{\\text{甲}}}{8}$，由 $r^3 \\propto T^2$：$\\dfrac{r_{\\text{甲}}}{r_{\\text{乙}}} = 8^{2/3} = 4$\n\n故選 (E)"
+  },
+  {
+    "id": "95-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "甲、乙、丙三個相同材質的金屬球，質量比為 1:1:2，初始溫度分別為 50℃、30℃、10℃。今先將甲和乙接觸達熱平衡後分開，再將乙和丙接觸達熱平衡後分開，若僅考慮三金屬球間的熱傳導，且無其他熱流失，則以下敘述哪些是正確的？",
+    "options": [
+      "甲的最終溫度為 30℃",
+      "乙的最終溫度為 20℃",
+      "甲、乙、丙三者的最終攝氏溫度比值為 2:1:1",
+      "甲、乙、丙三者的熱容量比值為 1:1:2",
+      "甲、乙、丙三者的熱容量比值為 1:1:1"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "【熱平衡】\n同材質，熱容量與質量成正比：1:1:2，(D) 正確。\n• 甲、乙（熱容量相同）：$\\dfrac{50 + 30}{2} = 40^\\circ\\text{C}$，甲最終 40℃，(A) 錯。\n• 乙（40℃，熱容量 1）與丙（10℃，熱容量 2）：$\\dfrac{1\\times40 + 2\\times10}{3} = 20^\\circ\\text{C}$，(B) 正確。\n• 最終 40:20:20 = 2:1:1，(C) 正確。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "95-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "假設有一星球其密度為地球的 a 倍，其半徑為地球的 b 倍，下列敘述何者正確？",
+    "options": [
+      "該星球質量為地球的 $ab^3$ 倍",
+      "該星球表面之重力加速度為地球的 ab 倍",
+      "自該星球表面之脫離速度為地球的 $a\\sqrt b$ 倍",
+      "同一單擺在該星球表面上小角度擺動的頻率為地球的 $\\sqrt{ab}$ 倍",
+      "自該星球表面上以相同初速及仰角拋射之質點，其水平射程為地球的 ab 倍"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "【比例推理】\n• (A) 正確：$M = \\rho\\cdot\\dfrac43\\pi R^3 \\propto ab^3$。\n• (B) 正確：$g = \\dfrac{GM}{R^2} \\propto \\dfrac{ab^3}{b^2} = ab$。\n• (C) 錯誤：$v_{esc} = \\sqrt{\\dfrac{2GM}{R}} \\propto \\sqrt{\\dfrac{ab^3}{b}} = b\\sqrt a$。\n• (D) 正確：$f = \\dfrac{1}{2\\pi}\\sqrt{\\dfrac{g}{\\ell}} \\propto \\sqrt{ab}$。\n• (E) 錯誤：射程 $= \\dfrac{v^2\\sin2\\theta}{g} \\propto \\dfrac{1}{ab}$。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "95-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 10 所示，以繩將質量為 $M$ 且密度為水的一半之正方體繫在水底，該正方體邊長為 $\\ell$，其頂面恰與水面共平面。假設水面的面積遠大於 $\\ell^2$，重力加速度為 $g$，不考慮水的阻力，下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-13.png\" alt=\"圖10 以繩繫在水底、頂面恰與水面齊平的正方體\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "斷繩前，該繩的張力為 $\\dfrac{Mg}{2}$",
+      "假若該繩斷開，正方體上升的最大位移為 $\\ell$",
+      "斷繩後，該正方體不會作簡諧運動",
+      "斷繩後，該正方體會以頻率 $\\dfrac{1}{2\\pi}\\sqrt{\\dfrac{g}{\\ell}}$ 作簡諧運動",
+      "斷繩後，該正方體在上升時，最大速率為 $\\sqrt{\\dfrac{g\\ell}{2}}$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【浮體的簡諧運動】\n密度為水的一半，完全浸沒時浮力 $= 2Mg$，張力 $= 2Mg - Mg = Mg$，(A) 錯。\n斷繩後物體上升，浸入深度 $y$ 時浮力 $\\rho_w g\\ell^2 y$，與 $y$ 成線性關係，所以是簡諧運動，(C) 錯：\n• 平衡位置：浸入一半（$y = \\dfrac{\\ell}{2}$），振幅 $A = \\dfrac{\\ell}{2}$，最高點時剛好浸入深度為零，上升總位移 $\\ell$，(B) 正確。\n• 等效力常數 $k = \\rho_w g\\ell^2 = \\dfrac{2Mg}{\\ell}$，$\\omega = \\sqrt{\\dfrac{2g}{\\ell}}$，頻率 $\\dfrac{1}{2\\pi}\\sqrt{\\dfrac{2g}{\\ell}}$，(D) 錯。\n• 最大速率 $A\\omega = \\dfrac{\\ell}{2}\\sqrt{\\dfrac{2g}{\\ell}} = \\sqrt{\\dfrac{g\\ell}{2}}$，(E) 正確。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "95-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 11 所示，質量 $M$ 之均勻方形盒靜置於光滑的水平面上，自其頂部的中央 A 點，以長度 5.0 cm 之細繩懸吊一質量 $m = \\dfrac{M}{3}$ 的質點，開始時該質點靜止且繩與鉛直線夾角 $\\beta$ 為 $37^\\circ$，A 點的 $x$ 坐標 O 取為原點。設重力加速度為 $10\\text{ m/s}^2$，$\\sin37^\\circ = \\dfrac35$。對靜立地面的觀察者而言，下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-14.png\" alt=\"圖11 光滑地面上的方形盒，頂部中央 A 以細繩懸吊質點 m，繩與鉛直線夾 β\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "整個系統的動量守恆",
+      "整個系統的質心位置固定",
+      "整個系統質心的 x 坐標固定在 -0.75 cm",
+      "m 質點擺到最低點時，m 質點的速度為 3.9 cm/s",
+      "m 質點擺到右邊最高點時，M 方形盒向左移 1.5 cm"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【水平動量守恆與質心】\n水平方向無外力，水平動量守恆、質心 $x$ 坐標不變；鉛直方向有重力與地面正向力，合力不為零，所以「整個系統的動量」與「質心位置」都不固定，(A)(B) 錯。\n• (C) 正確：$m$ 在 $x = -5\\sin37^\\circ = -3\\text{ cm}$，盒在 0：$x_{cm} = \\dfrac{\\frac{M}{3}(-3)}{\\frac{4M}{3}} = -0.75\\text{ cm}$。\n• (D) 錯誤：最低點時 $mv = MV \\Rightarrow V = \\dfrac{v}{3}$；下降 $5(1 - 0.8) = 1\\text{ cm}$：$mg(0.01) = \\dfrac12mv^2 + \\dfrac12(3m)\\left(\\dfrac{v}{3}\\right)^2 = \\dfrac23mv^2$，$v = \\sqrt{0.15} \\approx 0.39\\text{ m/s} = 39\\text{ cm/s}$。\n• (E) 正確：擺到右邊最高點時，$m$ 相對盒子由 $-3$ cm 移到 $+3$ cm（相對位移 6 cm）。質心不動：$\\dfrac{M}{3}(\\Delta x + 6) + M\\Delta x = 0 \\Rightarrow \\Delta x = -1.5\\text{ cm}$，盒向左移 1.5 cm。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "95-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "在 xyz 直角坐標中，下列有關帶電質點在電磁場中運動軌跡的敘述，何者是正確的？",
+    "options": [
+      "質點以 y 方向的初速，進入 x 方向的均勻電場中，其軌跡為拋物線",
+      "質點以 x 方向的初速，進入 x 方向的均勻電場中，其軌跡為拋物線",
+      "質點以 z 方向的初速，進入 x 方向的均勻磁場中，其軌跡為圓弧",
+      "質點以 y 方向的初速，進入 x 方向的均勻磁場中，其軌跡為螺線",
+      "質點以 y 方向的初速，進入 x 方向的均勻磁場及電場中，其軌跡為拋物線"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "【電磁場中的軌跡】\n• (A) 正確：初速與定力垂直，類似水平拋射，拋物線。\n• (B) 錯誤：初速與電力平行，作直線運動。\n• (C) 正確：速度垂直於磁場，作等速率圓周運動，軌跡為圓弧。\n• (D) 錯誤：速度垂直於磁場，是圓周運動；要有平行磁場的速度分量才是螺線。\n• (E) 錯誤：磁場使它在 yz 平面繞圓，電場使它沿 $x$ 等加速，軌跡是螺距漸增的螺線，不是拋物線。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "95-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "圖 12 中波動在兩介質中的傳播速率分別為 $v_1$ 與 $v_2$。圖中直線代表此波動的部分波前。若波動由介質 1 經過界面傳播進入介質 2，則下列何者可能為該波動在介質 2 的傳播方式？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-16.png\" alt=\"圖12 介質 1 中斜向的波前射向介質 2；選項 (A)~(E) 為介質 2 中可能的波前\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【波前的折射】\n波前沿界面的「交點」速度在兩介質中相同，波前方向的變化由速率決定：\n• $v_1 > v_2$：進入慢的介質，波的行進方向偏向法線，波前與界面的夾角變小（較接近水平）、間距變小。(C) 符合；(A) 波前變成完全水平（只有垂直入射才可能），(B) 波前方向翻轉，都不可能。\n• $v_1 = v_2$：方向不變，波前應與原來平行，(D) 錯。\n• $v_1 < v_2$：偏離法線，波前與界面的夾角變大（較陡）、間距變大，(E) 符合。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "95-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "已知動能為 50.0 eV 的電子，其物質波波長為 $1.73\\times10^{-10}\\text{ m}$。若以波長為 $2.07\\times10^{-7}\\text{ m}$ 的紫外光照射於功函數為 4.0 eV 的金屬材料，則下列有關物質波及光電效應的敘述，何者正確？",
+    "options": [
+      "因光電效應所釋放出的電子，其物質波波長最小約為 $8.7\\times10^{-10}\\text{ m}$",
+      "波長為 $2.07\\times10^{-7}\\text{ m}$ 的紫外光波具有粒子性，其光子能量約為 25.0 eV",
+      "光電效應的實驗結果可証實物質波的存在",
+      "物質波的假設是由愛因斯坦首先提出的",
+      "動能為 50 eV 的電子束因具有物質波，入射金屬晶體後可觀察到電子的繞射現象"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "【光電效應與物質波】\n光子能量 $\\dfrac{hc}{\\lambda} = \\dfrac{1240\\text{ eV}\\cdot\\text{nm}}{207\\text{ nm}} \\approx 6.0\\text{ eV}$，(B) 錯。光電子最大動能 $6.0 - 4.0 = 2.0\\text{ eV}$。\n• (A) 正確：$\\lambda = \\dfrac{h}{\\sqrt{2mK}} \\propto \\dfrac{1}{\\sqrt K}$，動能最大時波長最小：$1.73\\times10^{-10}\\times\\sqrt{\\dfrac{50}{2}} \\approx 8.7\\times10^{-10}\\text{ m}$。\n• (C) 錯誤：光電效應證實的是光的粒子性。\n• (D) 錯誤：物質波由德布羅意提出。\n• (E) 正確：50 eV 電子的波長約 0.17 nm，與晶格間距相近，可觀察到繞射（戴維森–革末實驗）。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "95-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "圖 13 為康卜吞效應的實驗裝置圖，圖中 $\\theta$ 為 X 光的散射角。圖 14 為 X 光強度與其波長在三個不同散射角的數據圖，下列敘述何者正確？【提示：$\\Delta\\lambda = \\dfrac{h}{m_ec}(1 - \\cos\\theta)$】",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-18.png\" alt=\"圖13 X 光射向石墨、探測器在散射角 θ；圖14 三個散射角 θ1、θ2、θ3 的強度對波長圖\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "X 光的散射主要是由石墨中的電子所造成的",
+      "本實驗主要說明電子的波動性",
+      "入射 X 光之波長約 $7.0\\times10^{-11}\\text{ m}$",
+      "三個散射角中以 $\\theta_2$ 最小，$\\theta_3$ 最大",
+      "入射 X 光所損失的能量以散射角為 $\\theta_2$ 時最大"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "【康卜吞效應】\n每個散射角都有兩個峰：波長不變的峰（約 $0.70\\times10^{-10}\\text{ m}$）與波長變長的峰。\n• (A) 正確：X 光與石墨中的電子碰撞而散射。\n• (B) 錯誤：本實驗說明的是光（X 光）的粒子性。\n• (C) 正確：不變的峰就是入射波長，約 $7.0\\times10^{-11}\\text{ m}$。\n• (D) 正確：$\\theta_2$ 的兩峰最接近（$\\Delta\\lambda$ 最小）→ 散射角最小；$\\theta_3$ 的第二峰在 $0.75\\times10^{-10}$ m，$\\Delta\\lambda$ 最大 → 散射角最大。\n• (E) 錯誤：$\\Delta\\lambda$ 最大者損失的能量最多，是 $\\theta_3$。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "95-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】如圖 15 所示，在光滑水平面上有相互重疊之甲乙兩木塊，其質量各為 $2m$ 與 $m$。起初，甲木塊靜止在水平面上，而乙木塊在甲木塊上之左緣以初速 $v$ 向右運動。已知甲乙兩木塊之間的動摩擦係數為 $\\mu_k$，回答以下各問題（以 $m$、$v$、$\\mu_k$ 及重力加速度 $g$ 表示）。\n\n(1) 假設甲木塊夠長，使得乙木塊不會掉落到水平面上。一段時間後，甲乙兩木塊以同一速度 $v_f$ 運動，求 $v_f$。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-non-1.png\" alt=\"圖15 乙木塊在甲木塊左緣以 v 向右滑動\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$v_f = \\dfrac{v}{3}$"
+    ],
+    "blankLabels": [
+      "v_f"
+    ],
+    "explanation": "水平面光滑，兩木塊系統水平動量守恆：$mv = (m + 2m)v_f \\Rightarrow v_f = \\dfrac{v}{3}$。"
+  },
+  {
+    "id": "95-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】如圖 15 所示，在光滑水平面上有相互重疊之甲乙兩木塊，其質量各為 $2m$ 與 $m$。起初，甲木塊靜止在水平面上，而乙木塊在甲木塊上之左緣以初速 $v$ 向右運動。已知甲乙兩木塊之間的動摩擦係數為 $\\mu_k$，回答以下各問題（以 $m$、$v$、$\\mu_k$ 及重力加速度 $g$ 表示）。\n\n(2) 承 (1) 小題，求甲乙兩木塊達到同一速度 $v_f$ 所需的時間。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-non-1.png\" alt=\"圖15 乙木塊在甲木塊左緣以 v 向右滑動\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$t = \\dfrac{2v}{3\\mu_k g}$"
+    ],
+    "blankLabels": [
+      "時間"
+    ],
+    "explanation": "乙受動摩擦力 $\\mu_k mg$ 減速，$a_{\\text{乙}} = -\\mu_k g$：\n$\\dfrac{v}{3} = v - \\mu_k gt \\Rightarrow t = \\dfrac{2v}{3\\mu_k g}$\n（驗證甲：$a_{\\text{甲}} = \\dfrac{\\mu_k mg}{2m} = \\dfrac{\\mu_k g}{2}$，$t$ 秒後速度 $\\dfrac{\\mu_k g}{2}\\cdot\\dfrac{2v}{3\\mu_k g} = \\dfrac{v}{3}$，一致。）"
+  },
+  {
+    "id": "95-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】如圖 15 所示，在光滑水平面上有相互重疊之甲乙兩木塊，其質量各為 $2m$ 與 $m$。起初，甲木塊靜止在水平面上，而乙木塊在甲木塊上之左緣以初速 $v$ 向右運動。已知甲乙兩木塊之間的動摩擦係數為 $\\mu_k$，回答以下各問題（以 $m$、$v$、$\\mu_k$ 及重力加速度 $g$ 表示）。\n\n(3) 若不計乙木塊之長度，則甲木塊至少要多長，乙木塊才不會自甲木塊上掉落？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-non-1.png\" alt=\"圖15 乙木塊在甲木塊左緣以 v 向右滑動\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$\\ell = \\dfrac{v^2}{3\\mu_k g}$"
+    ],
+    "blankLabels": [
+      "甲的最小長度"
+    ],
+    "explanation": "乙相對甲滑行的距離，就是甲的最小長度。用能量：摩擦力乘相對滑行距離 = 系統損失的動能\n$\\mu_k mg\\,\\ell = \\dfrac12mv^2 - \\dfrac12(3m)\\left(\\dfrac{v}{3}\\right)^2 = \\dfrac13mv^2 \\Rightarrow \\ell = \\dfrac{v^2}{3\\mu_k g}$\n（或用相對運動：相對初速 $v$、相對加速度 $\\dfrac32\\mu_k g$，$\\ell = \\dfrac{v^2}{2\\cdot\\frac32\\mu_k g}$。）"
+  },
+  {
+    "id": "95-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】如圖 16 所示的電路，$\\varepsilon_1 = 4.0\\text{ V}$，$\\varepsilon_2 = 6.0\\text{ V}$，$R_1 = 3.5\\ \\Omega$，$R_2 = 1.5\\ \\Omega$，$R_3 = 4.0\\ \\Omega$，$C = 2.0\\text{ pF}$（$1\\text{ pF} = 1\\times10^{-12}\\text{ F}$）。電池的內電阻可以忽略，平行板電容器 C 的板距為 2.0 mm。充電完畢後，求下列各量。【提示：含電容器的分支電路在電容器充電完畢後，電流為零，故該分支電路形成斷路】\n\n(1) A 點與 B 點間的電位差（即 $V_A - V_B$）為何？（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-non-2.png\" alt=\"圖16 A、B 間三條支路：ε1 與 R1、ε2 與 R2、電容器 C 與 R3\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "blanks": [
+      "-3.0"
+    ],
+    "blankLabels": [
+      "V_A − V_B（V）"
+    ],
+    "acceptedBlanks": [
+      [
+        "-3",
+        "-3V",
+        "-3.0V"
+      ]
+    ],
+    "explanation": "充電完畢後含電容器的支路無電流，只剩 $\\varepsilon_1$–$R_1$ 與 $\\varepsilon_2$–$R_2$ 構成的迴路。依圖中兩電池的接法，兩電動勢在迴路中同向相加：\n$I = \\dfrac{\\varepsilon_1 + \\varepsilon_2}{R_1 + R_2} = \\dfrac{10}{5.0} = 2.0\\text{ A}$\n沿中間支路由 A 到 B：經 $\\varepsilon_2$ 電位升高 6.0 V，經 $R_2$ 降低 $2.0\\times1.5 = 3.0$ V：\n$V_A + 6.0 - 3.0 = V_B \\Rightarrow V_A - V_B = -3.0\\text{ V}$\n（沿上方支路驗算：$V_B - 2.0\\times3.5 + 4.0 = V_A$，同樣得 $-3.0$ V。）"
+  },
+  {
+    "id": "95-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】如圖 16 所示的電路，$\\varepsilon_1 = 4.0\\text{ V}$，$\\varepsilon_2 = 6.0\\text{ V}$，$R_1 = 3.5\\ \\Omega$，$R_2 = 1.5\\ \\Omega$，$R_3 = 4.0\\ \\Omega$，$C = 2.0\\text{ pF}$（$1\\text{ pF} = 1\\times10^{-12}\\text{ F}$）。電池的內電阻可以忽略，平行板電容器 C 的板距為 2.0 mm。充電完畢後，求下列各量。【提示：含電容器的分支電路在電容器充電完畢後，電流為零，故該分支電路形成斷路】\n\n(2) 平行板電容器 C 左右兩板各別所帶電荷的量值及符號。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-non-2.png\" alt=\"圖16 A、B 間三條支路：ε1 與 R1、ε2 與 R2、電容器 C 與 R3\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$Q = CV = 2.0\\times10^{-12}\\times3.0 = 6.0\\times10^{-12}\\text{ C}$；左板（接 A，電位較低）帶 $-6.0\\times10^{-12}$ C，右板帶 $+6.0\\times10^{-12}$ C。"
+    ],
+    "blankLabels": [
+      "電量與符號"
+    ],
+    "explanation": "$R_3$ 無電流，電容器兩板間電壓就是 $|V_A - V_B| = 3.0$ V。B 側電位較高，所以右板帶正電、左板帶負電。"
+  },
+  {
+    "id": "95-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】如圖 16 所示的電路，$\\varepsilon_1 = 4.0\\text{ V}$，$\\varepsilon_2 = 6.0\\text{ V}$，$R_1 = 3.5\\ \\Omega$，$R_2 = 1.5\\ \\Omega$，$R_3 = 4.0\\ \\Omega$，$C = 2.0\\text{ pF}$（$1\\text{ pF} = 1\\times10^{-12}\\text{ F}$）。電池的內電阻可以忽略，平行板電容器 C 的板距為 2.0 mm。充電完畢後，求下列各量。【提示：含電容器的分支電路在電容器充電完畢後，電流為零，故該分支電路形成斷路】\n\n(3) 平行板電容器內的電場。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-phy-non-2.png\" alt=\"圖16 A、B 間三條支路：ε1 與 R1、ε2 與 R2、電容器 C 與 R3\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$E = \\dfrac{V}{d} = \\dfrac{3.0}{2.0\\times10^{-3}} = 1.5\\times10^{3}\\text{ V/m}$，方向由右板指向左板（由 B 側指向 A 側）。"
+    ],
+    "blankLabels": [
+      "電場"
+    ],
+    "explanation": "平行板間為均勻電場 $E = \\dfrac{V}{d}$，方向由高電位（正板）指向低電位（負板）。"
   }
 ]
