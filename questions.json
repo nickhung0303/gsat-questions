@@ -40186,5 +40186,656 @@
       2
     ],
     "explanation": "【碘在鹼中的歧化】\n$3\\text{I}_2 + 6\\text{OH}^- \\to 5\\text{I}^- + \\text{IO}_3^- + 3\\text{H}_2\\text{O}$，碘由 0 同時變成 −1 與 +5。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "91-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關酚、苯及甲苯沸點高低的排序何者正確？",
+    "options": [
+      "酚 > 苯 > 甲苯",
+      "甲苯 > 苯 > 酚",
+      "苯 > 酚 > 甲苯",
+      "酚 > 甲苯 > 苯"
+    ],
+    "answerIndex": 3,
+    "explanation": "【分子間作用力】\n酚有 −OH，分子間形成氫鍵，沸點最高（182°C）；甲苯分子量較苯大，分散力較大（111°C > 80°C）。\n\n故選 (D)"
+  },
+  {
+    "id": "91-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "points": 3,
+    "question": "將各為 1.0 莫耳的 $\\text{Ba(OH)}_2$、NaOH、$\\text{BaSO}_4$ 及 $\\text{Na}_2\\text{SO}_4$ 固體，分別置入 1.0 升的水中。試問那一個溶液之蒸氣壓最高？",
+    "options": [
+      "$\\text{Ba(OH)}_2$",
+      "NaOH",
+      "$\\text{BaSO}_4$",
+      "$\\text{Na}_2\\text{SO}_4$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【蒸氣壓下降】\n溶質粒子愈少，蒸氣壓下降愈少。$\\text{BaSO}_4$ 幾乎不溶於水，溶液中粒子極少，蒸氣壓最接近純水，最高。\n\n故選 (C)"
+  },
+  {
+    "id": "91-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "points": 3,
+    "question": "在氯化鈉結晶格子中，每一個氯離子周圍，有六個最靠近的鈉離子，而每一個鈉離子周圍，也有六個最靠近的氯離子。試問每一個氯離子周圍最靠近的氯離子應有幾個？",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answerIndex": 3,
+    "explanation": "【面心立方】\nNaCl 晶體中，$\\text{Cl}^-$ 本身排成面心立方。面心立方中每個粒子最近的同類粒子有 12 個（同一層 4 個、上下兩層各 4 個）。\n\n故選 (D)"
+  },
+  {
+    "id": "91-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "points": 3,
+    "question": "有一烷類化合物，完全燃燒後會產生 9 升的二氧化碳及 10 升的水蒸氣，則下列何者為此化合物最有可能的分子式？",
+    "options": [
+      "$\\text{C}_7\\text{H}_{16}$",
+      "$\\text{C}_8\\text{H}_{18}$",
+      "$\\text{C}_9\\text{H}_{20}$",
+      "$\\text{C}_{10}\\text{H}_{22}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【燃燒產物】\n同溫同壓下體積比 = 莫耳數比：C : H = 9 : 20，烷類 $\\text{C}_n\\text{H}_{2n+2}$ 中 $n = 9$ 符合。\n\n故選 (C)"
+  },
+  {
+    "id": "91-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "points": 3,
+    "question": "如圖 1 之玻璃管，口徑為 0.50 公分。於 25℃，一大氣壓時，已知左方玻璃管上方密閉空間中的氣體為氦氣，其體積為 5 毫升，此時左右玻璃管中之汞柱高度差為 14 公分（右管汞面較高）。假設氦氣可視同理想氣體，今在右方開口處加入一些汞，使得最終左右汞柱高度差為 24 公分。試問此時氦氣的體積為若干毫升？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/91-ast-chem-05.png\" alt=\"圖1 U 形管：左管頂端封有氦氣，右管開口，右管汞面比左管高 14 cm\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "2.9",
+      "3.5",
+      "4.5",
+      "4.9"
+    ],
+    "answerIndex": 2,
+    "explanation": "【波以耳定律】\n右管開口通大氣，右管汞面較高：$P_{\\text{He}} = 76 + 14 = 90$ cmHg。加汞後 $P' = 76 + 24 = 100$ cmHg。\n$V' = 5\\times\\dfrac{90}{100} = 4.5$ mL\n\n故選 (C)"
+  },
+  {
+    "id": "91-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "points": 3,
+    "question": "有一暖暖包內含 100 毫升的水，暖暖包中另有一塑膠袋子，內裝有 40 克氯化鈣。使用時稍為用力敲打暖暖包，使其中之塑膠袋破裂，讓水與氯化鈣混合。已知氯化鈣的溶解熱為 −82.8 kJ/mol，而水的比熱為 4.20 $\\text{J g}^{-1}\\text{K}^{-1}$。假設氯化鈣的比熱甚小可以忽略，而氯化鈣溶解所釋出的熱量，完全由 100 毫升的水所吸收。若在阿里山上，取出一個 5 ℃ 的暖暖包打開使用，試問該暖暖包的溫度最高可升到幾 ℃？",
+    "options": [
+      "36",
+      "51",
+      "76",
+      "91"
+    ],
+    "answerIndex": 2,
+    "explanation": "【溶解熱】\n$\\text{CaCl}_2$ $\\dfrac{40}{111} \\approx 0.360$ mol，放熱 $0.360\\times82.8 \\approx 29.8$ kJ。\n$\\Delta T = \\dfrac{29800}{100\\times4.20} \\approx 71$°C，最高約 $5 + 71 = 76$°C。\n\n故選 (C)"
+  },
+  {
+    "id": "91-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "points": 3,
+    "question": "已知笑氣 $\\text{N}_2\\text{O}$ 分解生成 $\\text{N}_2$ 和 $\\text{O}_2$ 為一級反應，其半衰期為 t。若將 8 大氣壓的 $\\text{N}_2\\text{O}$ 置於一固定體積及溫度的容器中，試問經過 t 時間後，此系統之總壓力變為幾大氣壓？",
+    "options": [
+      "4",
+      "8",
+      "10",
+      "12"
+    ],
+    "answerIndex": 2,
+    "explanation": "【半衰期與分壓】\n$2\\text{N}_2\\text{O} \\to 2\\text{N}_2 + \\text{O}_2$。經一個半衰期，$\\text{N}_2\\text{O}$ 剩 4 atm，分解了 4 atm，生成 $\\text{N}_2$ 4 atm、$\\text{O}_2$ 2 atm。總壓 $4 + 4 + 2 = 10$ atm。\n\n故選 (C)"
+  },
+  {
+    "id": "91-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "points": 3,
+    "question": "某單質子酸 HA，在不同比例之 $[\\text{A}^-]/[\\text{HA}]$ 水溶液中的 pH 值如圖 2 所示，則此酸之 $K_a$ 值為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/91-ast-chem-08.png\" alt=\"圖2 pH 對 [A⁻]/[HA]：比值 2 時 pH 約 5.0\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$5\\times10^{-6}$",
+      "$2\\times10^{-5}$",
+      "$2\\times10^{-4}$",
+      "$5\\times10^{-4}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【緩衝溶液】\n$K_a = [\\text{H}^+]\\dfrac{[\\text{A}^-]}{[\\text{HA}]}$。由圖，比值 2 時 pH = 5.0：$K_a = 10^{-5}\\times2 = 2\\times10^{-5}$（取比值 1、pH 約 4.7 亦得相同結果）。\n\n故選 (B)"
+  },
+  {
+    "id": "91-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "points": 3,
+    "question": "分子式為 $\\text{C}_4\\text{H}_8$ 的化合物具有許多同分異構物，這些異構物可能屬於下列那些類別？",
+    "options": [
+      "烷類、烯類",
+      "烯類、炔類",
+      "炔類、烷類",
+      "芳香類、烷類"
+    ],
+    "answerIndex": 0,
+    "explanation": "【不飽和度 1】\n$\\text{C}_4\\text{H}_8$ 可以是烯類（1-丁烯、2-丁烯、2-甲基丙烯）或環烷類（環丁烷、甲基環丙烷）。炔類是 $\\text{C}_n\\text{H}_{2n-2}$；芳香族至少要 6 個碳。\n\n故選 (A)"
+  },
+  {
+    "id": "91-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列那個化合物，在 pH 4 之水中的溶解度，明顯高於其在中性之水中的溶解度？",
+    "options": [
+      "$\\text{BaF}_2$",
+      "$\\text{PbSO}_4$",
+      "AgI",
+      "$\\text{Hg}_2\\text{Cl}_2$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【弱酸根的鹽】\n$\\text{F}^-$ 是弱酸 HF（$K_a \\approx 7\\times10^{-4}$）的共軛鹼，在 pH 4 時有相當部分結合成 HF，使 $\\text{BaF}_2$ 溶解平衡右移。$\\text{SO}_4^{2-}$、$\\text{I}^-$、$\\text{Cl}^-$ 在 pH 4 時幾乎不受影響。\n\n故選 (A)"
+  },
+  {
+    "id": "91-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列有關材料的敘述何者正確？",
+    "options": [
+      "尼龍是由苯乙烯聚合而成",
+      "銅的氧化物可以作為製備超導體的原料",
+      "金剛石與石墨是碳的同素異形體，金剛石具網狀結構而石墨具層狀結構",
+      "玻璃為含二氧化矽的結晶性固體",
+      "奈米材料是指像米粒一般大小的顆粒所構成的材料"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "【材料】\n• (A) 錯：尼龍是聚醯胺；苯乙烯聚合得聚苯乙烯。\n• (B) 正確：高溫超導體多為銅的氧化物（如釔鋇銅氧）。\n• (C) 正確。\n• (D) 錯：玻璃是非晶形（無定形）固體。\n• (E) 錯：奈米為 $10^{-9}$ m 尺度。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "91-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 12-14 題為題組】自從工業上發展出氨的哈柏法製程之後，農業肥料有了比較充足的供應，人類的糧食問題也因之大獲疏解。磷與氮在週期表上同屬一族，而磷在空氣中充分燃燒可得氧化磷（實驗式為 $\\text{P}_2\\text{O}_5$），若在空氣不充分下氧化，則得另一種白色晶體。\n\n12. 下列有關氮與磷的物質中，那些在常溫常壓時是固態的？",
+    "options": [
+      "$\\text{N}_2\\text{O}_5$",
+      "$\\text{P}_2\\text{O}_5$",
+      "$\\text{NH}_4\\text{Cl}$",
+      "$\\text{P}_4$",
+      "$\\text{N}_2\\text{H}_4$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "acceptedAnswerIndices": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "explanation": "【常溫狀態】\n$\\text{P}_2\\text{O}_5$（$\\text{P}_4\\text{O}_{10}$）、$\\text{NH}_4\\text{Cl}$、白磷 $\\text{P}_4$ 都是固體；聯胺 $\\text{N}_2\\text{H}_4$ 是液體。\n$\\text{N}_2\\text{O}_5$ 常溫下為無色晶體但極易昇華（約 32°C），狀態有爭議，因此大考中心公告 BCD 或 ABCD 皆給分。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "91-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 12-14 題為題組】自從工業上發展出氨的哈柏法製程之後，農業肥料有了比較充足的供應，人類的糧食問題也因之大獲疏解。磷與氮在週期表上同屬一族，而磷在空氣中充分燃燒可得氧化磷（實驗式為 $\\text{P}_2\\text{O}_5$），若在空氣不充分下氧化，則得另一種白色晶體。\n\n13. 下列有關氮與磷物質的敘述，何者正確？",
+    "options": [
+      "磷在空氣不足的條件下氧化，所得晶體為 $\\text{P}_4\\text{O}_6$",
+      "$\\text{P}_4\\text{O}_6$ 溶於水中即得磷酸",
+      "$\\text{P}_2\\text{O}_5$ 可當乾燥劑使用",
+      "$\\text{K}_2\\text{HPO}_4$ 與 $\\text{NH}_4\\text{Cl}$ 中，氮與磷的氧化數相同",
+      "磷可用 3d 軌域參與鍵結，而氮卻不可"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【氮族化合物】\n• (A) 正確。\n• (B) 錯：$\\text{P}_4\\text{O}_6$（P 為 +3）溶於水得亞磷酸 $\\text{H}_3\\text{PO}_3$。\n• (C) 正確：$\\text{P}_4\\text{O}_{10}$ 極易吸水。\n• (D) 錯：P 為 +5，N 為 −3。\n• (E) 正確：P 在第三週期有 3d 軌域，可形成擴展八隅體（如 $\\text{PCl}_5$）；N 沒有可用的 d 軌域。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "91-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 12-14 題為題組】自從工業上發展出氨的哈柏法製程之後，農業肥料有了比較充足的供應，人類的糧食問題也因之大獲疏解。磷與氮在週期表上同屬一族，而磷在空氣中充分燃燒可得氧化磷（實驗式為 $\\text{P}_2\\text{O}_5$），若在空氣不充分下氧化，則得另一種白色晶體。\n\n14. 哈柏法製氨：$\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g) + 92$ kJ 反應中，用催化劑 $\\text{Fe}_2\\text{O}_3$ 在約 500℃ 下進行反應。有關此一反應，下列敘述何者正確？",
+    "options": [
+      "反應中，催化劑會使向右反應的反應速率增加",
+      "反應中，催化劑會使向左反應的反應速率增加",
+      "反應中，催化劑會使向右及向左反應的活化能皆降低",
+      "在高溫反應的主要目的是為使平衡向右移動",
+      "反應達平衡時，加高壓力會使平衡向右移動"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "【哈柏法】\n• (A)(B)(C) 正確：催化劑同時降低正、逆反應的活化能，加快兩者。\n• (D) 錯：放熱反應，升溫使平衡左移；用高溫是為了加快反應速率。\n• (E) 正確：氣體 4 莫耳 → 2 莫耳，加壓使平衡右移。\n\n故選 (A)(B)(C)(E)"
+  },
+  {
+    "id": "91-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "某元素 X 所形成的五種氣體化合物，在常溫常壓時，每 24.5 升的重量及其中所含 X 的重量百分比如下：\n• 甲：60 克，含 X 80%\n• 乙：44 克，含 X 82%\n• 丙：44 克，含 X 27%\n• 丁：30 克，含 X 80%\n• 戊：16 克，含 X 75%\n基於原子學說的模型及本實驗的結果，X 的原子量有多種可能，試問 X 的原子量可能為何？",
+    "options": [
+      "3",
+      "6",
+      "8",
+      "12",
+      "16"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "【坎尼乍若法】\n常溫常壓 24.5 升約為 1 莫耳，每莫耳化合物中 X 的質量：甲 48、乙 36、丙 12、丁 24、戊 12（克）。\n這些值都必須是 X 原子量的整數倍，最大公因數是 12，所以原子量可能是 12 或其因數 6、3（實驗只能給出上限 12）。8 與 16 不能整除 12。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "91-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列有關水的敘述何者正確？",
+    "options": [
+      "用碘化銀進行人造雨，是因為其結構與冰的晶體相似",
+      "在 0℃ 時，固態的密度較液態的低，是因為氫鍵的關係",
+      "離子交換樹脂可用於海水淡化",
+      "含有鉀離子及鈉離子的水稱為暫時硬水",
+      "一般雨水的 pH 值為 7"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "【水的性質】\n• (A)(B)(C) 正確（陽離子與陰離子交換樹脂可除去鹽類）。\n• (D) 錯：硬水指含 $\\text{Ca}^{2+}$、$\\text{Mg}^{2+}$；暫時硬水是含其碳酸氫鹽、可煮沸除去者。\n• (E) 錯：雨水溶有 $\\text{CO}_2$，pH 約 5.6。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "91-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "將 1.0 莫耳的醋酸溶於 10 毫升的重水中，試問在此溶液中會有那些化合物存在？",
+    "options": [
+      "$\\text{CH}_3\\text{COOH}$",
+      "$\\text{CH}_3\\text{COOD}$",
+      "$\\text{D}_2\\text{O}$",
+      "$\\text{H}_2\\text{O}$",
+      "HOD"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "【質子交換】\n醋酸的羧基氫可解離，與重水的 D 交換：$\\text{CH}_3\\text{COOH} + \\text{D}_2\\text{O} \\rightleftharpoons \\text{CH}_3\\text{COOD} + \\text{HOD}$；$2\\text{HOD} \\rightleftharpoons \\text{H}_2\\text{O} + \\text{D}_2\\text{O}$。所以五種都存在（醋酸 1 mol 與重水約 0.55 mol 相當，交換顯著）。\n\n故選 (A)(B)(C)(D)(E)"
+  },
+  {
+    "id": "91-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "已知 $\\text{C}_3\\text{H}_8(g)$、$\\text{CO}_2(g)$ 和 $\\text{H}_2\\text{O}(l)$ 之標準莫耳生成熱分別為 −23、−94 及 −68 仟卡，則下列敘述何者正確？",
+    "options": [
+      "每莫耳丙烷完全燃燒需消耗 5 莫耳氧氣",
+      "石墨之標準莫耳燃燒熱為 +94 仟卡",
+      "氫氣之標準莫耳燃燒熱為 −34 仟卡",
+      "丙烷之標準莫耳燃燒熱為 −531 仟卡",
+      "鑽石與石墨之莫耳燃燒熱相同"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "【生成熱與燃燒熱】\n• (A) 正確：$\\text{C}_3\\text{H}_8 + 5\\text{O}_2 \\to 3\\text{CO}_2 + 4\\text{H}_2\\text{O}$。\n• (B) 錯：石墨燃燒熱即 $\\text{CO}_2$ 生成熱 −94 仟卡（放熱為負）。\n• (C) 錯：氫氣燃燒熱即液態水的生成熱 −68 仟卡。\n• (D) 正確：$3(-94) + 4(-68) - (-23) = -531$ 仟卡。\n• (E) 錯：鑽石能量較高，燃燒熱較大。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "91-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列有關第一列過渡元素（原子序 21 至 30）性質的敘述何者正確？",
+    "options": [
+      "都是金屬",
+      "都能和稀鹽酸作用產生氫氣",
+      "都有兩種以上不同氧化數之穩定化合物",
+      "其 4s 軌域皆有價電子",
+      "比重都比水大"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "【第一列過渡元素】\n• (B) 錯：銅的活性小於氫，不與稀鹽酸反應。\n• (C) 錯：Sc 只有 +3、Zn 只有 +2。\n• (D) 正確：即使 Cr、Cu 也有一個 4s 電子。\n• (A)(E) 正確。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "91-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "假設 A、B、C 為三種理想氣體，在一密閉容器中，此三種氣體在 25℃ 時之初濃度及平衡濃度值如下：\n• A：初濃度 0.1、平衡濃度 0.05（mol/L）\n• B：初濃度 0.2、平衡濃度 0.05（mol/L）\n• C：初濃度 0、平衡濃度 0.1（mol/L）\n試問下列敘述何者正確？",
+    "options": [
+      "若有 1 莫耳 A 與 3 莫耳 B 完全反應，則可生成 2 莫耳 C",
+      "若平衡反應式為 $\\dfrac12\\text{A} + \\dfrac32\\text{B} \\rightleftharpoons \\text{C}$，則其在 25℃ 之濃度平衡常數為 40",
+      "此一反應平衡時，B 氣體之分壓為 A 之 3 倍",
+      "此一反應平衡時，氣體 C 之莫耳分率為 1/3",
+      "此一反應平衡時，系統之總壓力為 4.9 大氣壓"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "【由濃度變化求反應式】\nA 減 0.05、B 減 0.15、C 增 0.1：$\\text{A} + 3\\text{B} \\to 2\\text{C}$，(A) 正確。\n• (B) 正確：$K = \\dfrac{0.1}{(0.05)^{1/2}(0.05)^{3/2}} = \\dfrac{0.1}{0.0025} = 40$。\n• (C) 錯：平衡時 A、B 濃度相同，分壓相同。\n• (D) 錯：總濃度 0.2，C 占 $\\dfrac12$。\n• (E) 正確：$P = 0.2\\times0.082\\times298 \\approx 4.9$ atm。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "91-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列有關原子的敘述，何者正確？",
+    "options": [
+      "碳原子在基態時的電子組態，有四個未配對電子",
+      "鉀原子的第一游離能比鈣原子的第一游離能低",
+      "硫的原子半徑比鋁的原子半徑小",
+      "氯原子的電負度比氟原子的電負度大",
+      "錳原子的 d 軌域中有五個電子"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【原子性質】\n• (A) 錯：C 基態 $2s^2 2p^2$，2 個未配對電子。\n• (B) 正確。(C) 正確（同週期往右變小）。\n• (D) 錯：F 的電負度最大。\n• (E) 正確：Mn $[\\text{Ar}]3d^5 4s^2$。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "91-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "圖 3 中列出了一些實驗室使用的玻璃器材及裝置（甲為滴定管讀數，乙為蒸餾裝置），下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/91-ast-chem-22.png\" alt=\"圖3 甲：滴定管 24～25 mL 處的液面；乙：蒸餾裝置（溫度計、冷凝管、以橡皮塞塞緊的接收瓶）\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "硝酸銀的標準溶液不可以用透明玻璃瓶儲存",
+      "滴定的結果如甲所示，由此所讀取的讀數為 24.50 毫升",
+      "正確的蒸餾裝置如乙所示",
+      "測量溶液溫度時，以溫度計一面攪拌使其均勻，一面測量讀取其溫度",
+      "指示劑酚酞適用於 NaOH 對 $\\text{CH}_3\\text{COOH}$ 的酸鹼滴定"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "【實驗器材】\n• (A) 正確：硝酸銀見光分解，需存於褐色瓶。\n• (B) 錯：依圖中液面最低點的位置，讀數並非 24.50 mL（應估讀到 0.01 mL 並以凹液面最低點為準）。\n• (C) 錯：接收瓶不可以橡皮塞塞緊，否則系統密閉、壓力升高會有危險。\n• (D) 錯：溫度計易破，不可用來攪拌。\n• (E) 正確：當量點時醋酸鈉呈弱鹼性（pH 約 8.7），在酚酞變色範圍內。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "91-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "圖 4 為某分子之結構：$\\text{H}_3\\text{N}^+-\\text{CH}_2-\\text{CO}-\\text{NH}-\\text{CH}_2-\\text{CO}-\\text{NH}-\\text{CH(CH}_2\\text{C}_6\\text{H}_5)-\\text{CO}-\\text{NH}-\\text{CH(CH}_3)-\\text{COO}^-$。下列有關該分子之敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/91-ast-chem-23.png\" alt=\"圖4 由甘胺酸、甘胺酸、苯丙胺酸、丙胺酸組成的四肽（兩性離子形式）\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此分子含有四個胺基酸",
+      "此分子完全水解後可得四種胺基酸",
+      "此分子有十個碳原子具 $sp^2$ 混成軌域",
+      "此分子有三種官能基可以和三級胺形成氫鍵",
+      "此圖所示為一三肽分子"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "【四肽】\n• (A) 正確、(E) 錯：由 4 個胺基酸以 3 個肽鍵連成，是四肽。\n• (B) 錯：甘胺酸出現兩次，水解只得甘胺酸、苯丙胺酸、丙胺酸 3 種。\n• (C) 正確：3 個醯胺羰基碳 + 1 個羧酸根碳 + 苯環 6 個碳 = 10 個 $sp^2$ 碳。\n• (D) 錯：三級胺的 N 只能接受氫鍵，需要有 N−H 或 O−H 的基團提供 H：只有 $-\\text{NH}_3^+$ 與醯胺 N−H 兩種。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "91-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】有 2.0 克由 $\\text{BaO}(s)$ 及 $\\text{CaO}(s)$ 所組成的混合物，將其置於 1.5 升的瓶中，溫度為 27.0℃，且瓶中含有 760 毫米汞柱壓力的二氧化碳氣體。當混合物完全反應之後，生成 $\\text{BaCO}_3(s)$ 及 $\\text{CaCO}_3(s)$，瓶中二氧化碳氣體的壓力變為 380 毫米汞柱。（原子量：Ba = 137）\n\n1. 二氧化碳消耗的莫耳數。（2 分）",
+    "points": 2,
+    "blanks": [
+      "0.0305"
+    ],
+    "blankLabels": [
+      "CO₂（mol）"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.030",
+        "0.03",
+        "0.031",
+        "3.05×10^-2",
+        "3.0×10^-2",
+        "0.0305mol"
+      ]
+    ],
+    "explanation": "壓力由 760 降為 380 mmHg，減少 0.50 atm：$\\Delta n = \\dfrac{0.50\\times1.5}{0.082\\times300} \\approx 0.0305$ mol。"
+  },
+  {
+    "id": "91-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】有 2.0 克由 $\\text{BaO}(s)$ 及 $\\text{CaO}(s)$ 所組成的混合物，將其置於 1.5 升的瓶中，溫度為 27.0℃，且瓶中含有 760 毫米汞柱壓力的二氧化碳氣體。當混合物完全反應之後，生成 $\\text{BaCO}_3(s)$ 及 $\\text{CaCO}_3(s)$，瓶中二氧化碳氣體的壓力變為 380 毫米汞柱。（原子量：Ba = 137）\n\n2. 原先該混合物中 BaO(s) 之重量百分比為何？（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "約 23 %"
+    ],
+    "blankLabels": [
+      "BaO 重量百分比"
+    ],
+    "explanation": "每種氧化物都以 1:1 吸收 $\\text{CO}_2$。設 BaO $x$ 克（式量 153），CaO $(2.0 - x)$ 克（式量 56.1）：\n$\\dfrac{x}{153} + \\dfrac{2.0 - x}{56.1} = 0.0305 \\Rightarrow x \\approx 0.46$ 克，占 $\\dfrac{0.46}{2.0} \\approx 23\\%$。"
+  },
+  {
+    "id": "91-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】圖 5 是鹼氯工業中電解氯化鈉水溶液的一種裝置示意圖：（左側出口為氫氣、連接甲電極；右側出口為氣體 A、連接乙電極；兩極間以半透膜隔開）\n\n1. 寫出在甲電極發生的平衡半反應式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/91-ast-chem-non-2.png\" alt=\"圖5 電解氯化鈉水溶液：甲電極側放出氫氣，乙電極側放出氣體 A，中間為半透膜\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$2\\text{H}_2\\text{O} + 2e^- \\to \\text{H}_2 + 2\\text{OH}^-$"
+    ],
+    "blankLabels": [
+      "半反應式"
+    ],
+    "explanation": "甲電極側放出氫氣，是陰極，水被還原產生 $\\text{H}_2$ 與 $\\text{OH}^-$（$\\text{Na}^+$ 比水難還原）。"
+  },
+  {
+    "id": "91-ast-chem-non-2-2",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】圖 5 是鹼氯工業中電解氯化鈉水溶液的一種裝置示意圖：（左側出口為氫氣、連接甲電極；右側出口為氣體 A、連接乙電極；兩極間以半透膜隔開）\n\n2. 電解槽中乙電極一邊產生的氣體 A 為何？電解後，乙電極附近之水溶液會呈現酸性或鹼性？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/91-ast-chem-non-2.png\" alt=\"圖5 電解氯化鈉水溶液：甲電極側放出氫氣，乙電極側放出氣體 A，中間為半透膜\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "氯氣",
+      "酸性"
+    ],
+    "blankLabels": [
+      "氣體 A",
+      "酸鹼性"
+    ],
+    "acceptedBlanks": [
+      [
+        "Cl2",
+        "氯"
+      ],
+      []
+    ],
+    "explanation": "乙電極為陽極：$2\\text{Cl}^- \\to \\text{Cl}_2 + 2e^-$。部分氯氣溶於水 $\\text{Cl}_2 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{HCl} + \\text{HOCl}$，乙電極附近呈酸性（陰極側生成 $\\text{OH}^-$ 呈鹼性）。"
+  },
+  {
+    "id": "91-ast-chem-non-2-3",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】圖 5 是鹼氯工業中電解氯化鈉水溶液的一種裝置示意圖：（左側出口為氫氣、連接甲電極；右側出口為氣體 A、連接乙電極；兩極間以半透膜隔開）\n\n3. 氣體 A 之水溶液可形成漂白水，寫出其平衡化學反應式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/91-ast-chem-non-2.png\" alt=\"圖5 電解氯化鈉水溶液：甲電極側放出氫氣，乙電極側放出氣體 A，中間為半透膜\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{Cl}_2 + 2\\text{NaOH} \\to \\text{NaCl} + \\text{NaClO} + \\text{H}_2\\text{O}$"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "氯氣通入氫氧化鈉溶液（電解所生成的鹼）得次氯酸鈉，即漂白水的有效成分。只寫 $\\text{Cl}_2 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{HCl} + \\text{HOCl}$ 亦可說明其漂白作用。"
+  },
+  {
+    "id": "91-ast-chem-non-3-1",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】在溶液凝固點下降的測定實驗中，選用了環己烷當作溶劑，並分成三組進行實驗。實驗數據如表三所示：\n• 第一組：萘 1.92 克，環己烷 100 克，溶液凝固點 3.4℃\n• 第二組：樟腦 1.52 克，環己烷 100 克，溶液凝固點 4.4℃\n• 第三組：碘 1.91 克，環己烷 100 克，溶液凝固點 4.9℃\n（分子量：環己烷 84；萘 128；樟腦 152；碘 254　環己烷的比重為 0.78）\n\n1. 求出萘溶液的重量莫耳濃度。（2 分）",
+    "points": 2,
+    "blanks": [
+      "0.15"
+    ],
+    "blankLabels": [
+      "重量莫耳濃度（m）"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.150",
+        "0.15m",
+        "0.15mol/kg"
+      ]
+    ],
+    "explanation": "萘 $\\dfrac{1.92}{128} = 0.015$ mol，溶於 0.100 kg 環己烷：0.15 m。"
+  },
+  {
+    "id": "91-ast-chem-non-3-2",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】在溶液凝固點下降的測定實驗中，選用了環己烷當作溶劑，並分成三組進行實驗。實驗數據如表三所示：\n• 第一組：萘 1.92 克，環己烷 100 克，溶液凝固點 3.4℃\n• 第二組：樟腦 1.52 克，環己烷 100 克，溶液凝固點 4.4℃\n• 第三組：碘 1.91 克，環己烷 100 克，溶液凝固點 4.9℃\n（分子量：環己烷 84；萘 128；樟腦 152；碘 254　環己烷的比重為 0.78）\n\n2. 利用上述三組實驗數據，經過適當計算處理，將其結果，以濃度為橫座標，溫度為縱座標，繪入答案卷的方格紙中。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "三點：(0.15 m, 3.4℃)、(0.10 m, 4.4℃)、(0.075 m, 4.9℃)，連成一條斜率約 −20℃/m 的直線，延長與縱軸（濃度 0）相交。"
+    ],
+    "blankLabels": [
+      "作圖"
+    ],
+    "explanation": "樟腦 $\\dfrac{1.52}{152} = 0.010$ mol → 0.10 m；碘 $\\dfrac{1.91}{254} \\approx 0.0075$ mol → 0.075 m。凝固點與重量莫耳濃度成直線關係。"
+  },
+  {
+    "id": "91-ast-chem-non-3-3",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】在溶液凝固點下降的測定實驗中，選用了環己烷當作溶劑，並分成三組進行實驗。實驗數據如表三所示：\n• 第一組：萘 1.92 克，環己烷 100 克，溶液凝固點 3.4℃\n• 第二組：樟腦 1.52 克，環己烷 100 克，溶液凝固點 4.4℃\n• 第三組：碘 1.91 克，環己烷 100 克，溶液凝固點 4.9℃\n（分子量：環己烷 84；萘 128；樟腦 152；碘 254　環己烷的比重為 0.78）\n\n3. 在上圖中，標示出環己烷的正常凝固點的位置，並寫出其溫度為幾 ℃？（2 分）",
+    "points": 2,
+    "blanks": [
+      "6.4"
+    ],
+    "blankLabels": [
+      "正常凝固點（℃）"
+    ],
+    "acceptedBlanks": [
+      [
+        "6.4℃",
+        "6.4°C",
+        "6.5",
+        "6.3"
+      ]
+    ],
+    "explanation": "直線外插到濃度 0：$4.4 + 20\\times0.10 = 6.4$℃（文獻值約 6.5℃）。"
+  },
+  {
+    "id": "91-ast-chem-non-3-4",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】在溶液凝固點下降的測定實驗中，選用了環己烷當作溶劑，並分成三組進行實驗。實驗數據如表三所示：\n• 第一組：萘 1.92 克，環己烷 100 克，溶液凝固點 3.4℃\n• 第二組：樟腦 1.52 克，環己烷 100 克，溶液凝固點 4.4℃\n• 第三組：碘 1.91 克，環己烷 100 克，溶液凝固點 4.9℃\n（分子量：環己烷 84；萘 128；樟腦 152；碘 254　環己烷的比重為 0.78）\n\n4. 求出環己烷的凝固點下降常數 $K_f$？（2 分）",
+    "points": 2,
+    "blanks": [
+      "20"
+    ],
+    "blankLabels": [
+      "Kf（℃/m）"
+    ],
+    "acceptedBlanks": [
+      [
+        "20℃/m",
+        "20°C/m",
+        "20.0",
+        "19.8",
+        "20.2"
+      ]
+    ],
+    "explanation": "斜率：$\\dfrac{4.4 - 3.4}{0.15 - 0.10} = 20$，$K_f = 20$℃/m（以第三組驗算：$\\dfrac{6.4 - 4.9}{0.075} = 20$）。"
   }
 ]
