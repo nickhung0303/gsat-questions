@@ -41860,5 +41860,613 @@
       "答案與原因"
     ],
     "explanation": "異丙醇沸點 82°C、丙酮 56°C，差約 26°C。"
+  },
+  {
+    "id": "111-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "points": 4,
+    "question": "已知氨氣與氯化氫反應後，可生成固體的產物，其反應式如下：\n$$\\text{NH}_3\\text{(g)} + \\text{HCl(g)} \\to \\text{NH}_4\\text{Cl(s)}$$\n假設有一裝置容器，左、右各是 2.00 公升的球體，中間有一個氣體閥門（如圖 1）。在 $27^\\circ\\text{C}$，先將中間的氣體閥門關起來，在右邊球體內裝入 6.80 克的氨氣，在左邊球體裝入 2.46 atm 的氯化氫氣體。置入氣體後，將左、右氣體閥門關閉，再將中間的氣體閥門打開，使左、右氣體完全混合且反應完全。假設氨氣和氯化氫氣體皆為理想氣體，且反應前後溫度不變，生成的固體體積可忽略。上述實驗後，容器內所剩的氣體與其壓力為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-01.png\" alt=\"圖1 兩個 2.00 公升球體以閥門相連\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1.23 atm 的氨氣",
+      "2.46 atm 的氨氣",
+      "3.69 atm 的氨氣",
+      "1.23 atm 的氯化氫",
+      "2.46 atm 的氯化氫"
+    ],
+    "answerIndex": 0,
+    "explanation": "【先算莫耳數，再找限量試劑】\n• 氨：$n_{\\text{NH}_3} = \\dfrac{6.80}{17.0} = 0.400\\text{ mol}$\n• 氯化氫：$n_\\text{HCl} = \\dfrac{PV}{RT} = \\dfrac{2.46 \\times 2.00}{0.082 \\times 300} = 0.200\\text{ mol}$\n• 兩者 1 : 1 反應，HCl 用完，剩 $\\text{NH}_3$ $0.400 - 0.200 = 0.200\\text{ mol}$。\n• 剩餘氨氣分布在兩球共 4.00 L 中：\n$$P = \\frac{nRT}{V} = \\frac{0.200 \\times 0.082 \\times 300}{4.00} = 1.23\\text{ atm}$$\n\n故選 (A)"
+  },
+  {
+    "id": "111-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "points": 4,
+    "question": "在溫度 1000 K 下，已知反應式 $2\\text{N}_2\\text{O(g)} \\to 2\\text{N}_2\\text{(g)} + \\text{O}_2\\text{(g)}$，其反應速率常數為 $0.76\\text{ s}^{-1}$。在此溫度下，若將 1.0 莫耳 $\\text{N}_2\\text{O(g)}$ 注入 5.0 公升的真空容器內，則 $\\text{N}_2\\text{O}$ 的初始反應速率是多少（M/s）？",
+    "options": [
+      "$7.60\\times10^{-1}$",
+      "$1.52\\times10^{-1}$",
+      "$3.04\\times10^{-2}$",
+      "$6.08\\times10^{-2}$",
+      "$6.08\\times10^{-3}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【由速率常數的單位判斷反應級數】\n• 速率常數單位為 $\\text{s}^{-1}$，表示此反應對 $\\text{N}_2\\text{O}$ 為一級反應：$r = k[\\text{N}_2\\text{O}]$。\n• 初始濃度 $[\\text{N}_2\\text{O}] = \\dfrac{1.0}{5.0} = 0.20\\text{ M}$\n• 初始速率 $r = 0.76 \\times 0.20 = 0.152 = 1.52\\times10^{-1}\\text{ M/s}$\n\n故選 (B)"
+  },
+  {
+    "id": "111-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 3-4 題為題組】實驗課時進行電解濃食鹽水的實驗，實驗設計是以碳棒做為電極。大部分的學生實驗結果如圖 2 所示，陰極與陽極皆會產生氣體，且甲管與乙管的液面高度大致相同。\n但是，有五組的學生誤將其他鹽類當成食鹽配成水溶液進行電解實驗。誤拿的五種鹽類，事後發現應為亞硫酸鈉、硝酸銀、氯化鉀、硫酸鎂、硝酸鈉。學生找資料查到可能相關的標準還原電位數據，如表 1 所示。\n3. 在大部分學生正確使用濃食鹽水的結果中，甲管的氣體應為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-03.png\" alt=\"圖2 電解裝置（甲管接陽極、乙管接陰極）與表1 標準還原電位\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "氫氣",
+      "氧氣",
+      "氮氣",
+      "氯氣",
+      "二氧化氮"
+    ],
+    "answerIndex": 3,
+    "explanation": "【電解濃食鹽水】\n• 由圖 2，甲管接電池的陽極，陽極發生氧化反應。\n• 濃食鹽水中 $\\text{Cl}^-$ 濃度很高，雖然 $\\text{O}_2$ 的標準還原電位（1.229 V）略小於 $\\text{Cl}_2$（1.36 V），但水氧化成氧氣的過電位很大，實際上陽極主要是 $2\\text{Cl}^- \\to \\text{Cl}_2 + 2e^-$，產生氯氣。\n• 陰極（乙管）則是水還原產生氫氣：$2\\text{H}_2\\text{O} + 2e^- \\to \\text{H}_2 + 2\\text{OH}^-$。\n\n故選 (D)"
+  },
+  {
+    "id": "111-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 3-4 題為題組】實驗課時進行電解濃食鹽水的實驗，實驗設計是以碳棒做為電極。大部分的學生實驗結果如圖 2 所示，陰極與陽極皆會產生氣體，且甲管與乙管的液面高度大致相同。\n但是，有五組的學生誤將其他鹽類當成食鹽配成水溶液進行電解實驗。誤拿的五種鹽類，事後發現應為亞硫酸鈉、硝酸銀、氯化鉀、硫酸鎂、硝酸鈉。學生找資料查到可能相關的標準還原電位數據，如表 1 所示。\n4. 五組拿錯鹽類的學生中，有兩組學生很快就發現不對，因為在兩個集氣管中，有一管一直都沒有氣體產生，則他們所使用的鹽類分別為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-03.png\" alt=\"圖2 電解裝置（甲管接陽極、乙管接陰極）與表1 標準還原電位\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "亞硫酸鈉、硝酸銀",
+      "硝酸銀、氯化鉀",
+      "氯化鉀、硫酸鎂",
+      "硫酸鎂、硝酸鈉",
+      "硝酸鈉、亞硫酸鈉"
+    ],
+    "answerIndex": 0,
+    "explanation": "【找出某一極不產生氣體的鹽】\n• 亞硫酸鈉：陽極的 $\\text{SO}_3^{2-}$ 很容易被氧化成 $\\text{SO}_4^{2-}$（其還原電位 $-0.936$ V，反過來氧化非常容易），取代水被氧化，陽極沒有氣體；陰極產生 $\\text{H}_2$。\n• 硝酸銀：陰極的 $\\text{Ag}^+$（0.80 V）比水容易還原，析出銀而不產生氣體；陽極產生 $\\text{O}_2$。\n• 氯化鉀：陽極 $\\text{Cl}_2$、陰極 $\\text{H}_2$，兩管都有氣體。\n• 硫酸鎂、硝酸鈉：相當於電解水，陽極 $\\text{O}_2$、陰極 $\\text{H}_2$，兩管都有氣體。\n\n故選 (A)"
+  },
+  {
+    "id": "111-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 5-6 題為題組】甲、乙、丙、丁為四種具有孔洞的特殊大分子，其孔洞的內部可以吸附氣體。已知其莫耳質量分別為 1000、1100、1200、1300（g/mol），均具有單一孔洞且孔洞內總體積相同，但孔洞的口徑大小不同。氣態物質可經由孔洞進入這些特殊大分子內滯留，因此它們具有儲存氣體的特性。在同溫（$200^\\circ\\text{C}$）、同壓下，$\\text{H}_2$、He、Ne、Ar 及 Kr 進入甲、乙、丙、丁的莫耳數比例不同，其平衡常數 K 如表 2 所示。以氫氣進入甲分子的平衡常數為例：\n$$\\text{H}_2 + \\text{甲} \\rightleftharpoons \\text{H}_2@\\text{甲}\\qquad K = \\frac{n_{\\text{H}_2}@\\text{甲}}{P_{\\text{H}_2}\\times n_\\text{甲}}$$\n$n_{\\text{H}_2}@\\text{甲}$：含 $\\text{H}_2$ 分子的甲之莫耳數；$n_\\text{甲}$：未含 $\\text{H}_2$ 分子（空）的甲之莫耳數；$P_{\\text{H}_2}$：氫氣的壓力（atm）。\n5. 甲、乙、丙、丁四種分子上孔洞的口徑，最可能的相對大小為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-05.png\" alt=\"表2 各氣體進入甲乙丙丁的平衡常數 K（atm⁻¹）\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲＞乙",
+      "乙＞丙",
+      "丙＞丁",
+      "丁＞乙",
+      "丙＞甲"
+    ],
+    "answerIndex": 1,
+    "explanation": "【K = 0 表示該氣體分子進不了孔洞】\n氣體原子大小：$\\text{H}_2$、He 最小，依序 Ne ＜ Ar ＜ Kr。\n• 乙：$\\text{H}_2$、He、Ne、Ar 都進得去 → 口徑最大。\n• 甲、丁：只有 $\\text{H}_2$、He 進得去 → 口徑中等。\n• 丙：所有氣體都進不去 → 口徑最小。\n因此口徑大小：乙 ＞ 甲、丁 ＞ 丙。選項中只有「乙 ＞ 丙」成立。\n\n故選 (B)"
+  },
+  {
+    "id": "111-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 5-6 題為題組】甲、乙、丙、丁為四種具有孔洞的特殊大分子，其孔洞的內部可以吸附氣體。已知其莫耳質量分別為 1000、1100、1200、1300（g/mol），均具有單一孔洞且孔洞內總體積相同，但孔洞的口徑大小不同。氣態物質可經由孔洞進入這些特殊大分子內滯留，因此它們具有儲存氣體的特性。在同溫（$200^\\circ\\text{C}$）、同壓下，$\\text{H}_2$、He、Ne、Ar 及 Kr 進入甲、乙、丙、丁的莫耳數比例不同，其平衡常數 K 如表 2 所示。以氫氣進入甲分子的平衡常數為例：\n$$\\text{H}_2 + \\text{甲} \\rightleftharpoons \\text{H}_2@\\text{甲}\\qquad K = \\frac{n_{\\text{H}_2}@\\text{甲}}{P_{\\text{H}_2}\\times n_\\text{甲}}$$\n$n_{\\text{H}_2}@\\text{甲}$：含 $\\text{H}_2$ 分子的甲之莫耳數；$n_\\text{甲}$：未含 $\\text{H}_2$ 分子（空）的甲之莫耳數；$P_{\\text{H}_2}$：氫氣的壓力（atm）。\n6. 取甲分子 1000 克，於 $200^\\circ\\text{C}$ 下通入氫氣，達到平衡時，氫氣的壓力為 1000 atm，則含有 $\\text{H}_2$ 的甲莫耳數（$n_{\\text{H}_2}@\\text{甲}$）為何（mol）？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-05.png\" alt=\"表2 各氣體進入甲乙丙丁的平衡常數 K（atm⁻¹）\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "0.875",
+      "0.75",
+      "0.5",
+      "0.375",
+      "0.125"
+    ],
+    "answerIndex": 2,
+    "explanation": "【代入平衡常數】\n• 甲的總莫耳數 $= \\dfrac{1000}{1000} = 1\\text{ mol}$。設含 $\\text{H}_2$ 的甲為 $x$ mol，空的甲為 $(1 - x)$ mol。\n• 由表 2，$K = 10\\times10^{-4} = 1\\times10^{-3}\\text{ atm}^{-1}$：\n$$\\frac{x}{1000 \\times (1 - x)} = 1\\times10^{-3} \\implies \\frac{x}{1 - x} = 1 \\implies x = 0.5$$\n\n故選 (C)"
+  },
+  {
+    "id": "111-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "points": 4,
+    "question": "近年來，由於新型冠狀病毒在全球各地肆虐，耳溫槍已成為重要的防疫工具。耳溫槍是以量測鼓膜溫度來代表人體的體溫，假若人體鼓膜的輻射能量主要處於 6000～15000 nm 之間，則試問氫原子中的電子在下列哪一種主量子數 n 之間的躍遷，所釋出的電磁波能量與人體鼓膜的輻射能量最接近？（芮得柏方程式：$\\dfrac{1}{\\lambda} = R_\\text{H}\\left(\\dfrac{1}{n_1^2} - \\dfrac{1}{n_2^2}\\right)$，$n_2 > n_1$，芮得柏常數 $R_\\text{H}$ 約為 $1.0\\times10^{-2}\\text{ nm}^{-1}$）",
+    "options": [
+      "$n = 2 \\to n = 1$",
+      "$n = 3 \\to n = 2$",
+      "$n = 4 \\to n = 3$",
+      "$n = 5 \\to n = 4$",
+      "$n = 6 \\to n = 5$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【所需的 $\\dfrac{1}{n_1^2} - \\dfrac{1}{n_2^2}$ 範圍】\n$\\lambda$ 在 6000～15000 nm，則 $\\dfrac{1}{\\lambda R_\\text{H}}$ 約在 $0.0067$～$0.0167$ 之間。逐一計算：\n• (A) $1 - \\tfrac14 = 0.75$，$\\lambda \\approx 133$ nm（紫外）\n• (B) $\\tfrac14 - \\tfrac19 \\approx 0.139$，$\\lambda \\approx 720$ nm\n• (C) $\\tfrac19 - \\tfrac1{16} \\approx 0.0486$，$\\lambda \\approx 2057$ nm\n• (D) $\\tfrac1{16} - \\tfrac1{25} = 0.0225$，$\\lambda \\approx 4444$ nm\n• (E) $\\tfrac1{25} - \\tfrac1{36} \\approx 0.0122$，$\\lambda \\approx 8182$ nm，落在 6000～15000 nm 之間。\n\n故選 (E)"
+  },
+  {
+    "id": "111-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列有關分子結構與特性的敘述，哪些正確？",
+    "options": [
+      "$\\text{SO}_3$ 與 $\\text{NH}_3$ 皆具有偶極矩",
+      "氣態 $\\text{BeH}_2$ 與 $\\text{H}_2\\text{S}$ 皆為直線型分子",
+      "光氣（$\\text{COCl}_2$）為一具極性的平面分子",
+      "$\\text{NO}_2$ 的價電子總數為奇數，故其路易斯結構不符合八隅體規則",
+      "穩定態的 $\\text{SF}_6$ 為正八面體結構，但因為 S 和 F 原子電負度不同，故 $\\text{SF}_6$ 具有偶極矩"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "• (A) 錯誤：$\\text{SO}_3$ 為平面三角形，鍵偶極互相抵消，無偶極矩；$\\text{NH}_3$ 為角錐形，有偶極矩。\n• (B) 錯誤：$\\text{BeH}_2$ 為直線形，但 $\\text{H}_2\\text{S}$ 中心 S 有兩對孤對電子，為角形（彎曲形）。\n• (C) 正確：$\\text{COCl}_2$ 中心 C 為 $sp^2$，平面三角形；C=O 與 C–Cl 鍵偶極不同，無法抵消，為極性分子。\n• (D) 正確：$\\text{NO}_2$ 價電子數 $5 + 6\\times2 = 17$ 為奇數，必有一個原子周圍不足八個電子。\n• (E) 錯誤：正八面體高度對稱，六個 S–F 鍵偶極完全抵消，$\\text{SF}_6$ 為非極性分子。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "111-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 9-10 題為題組】將同溫、同壓、同體積的氣體 A 與氣體 B 共同置入一體積為 V 之密閉容器內，已知 A 與 B 會發生化學反應產生氣體 C，化學平衡反應式為 $2\\text{A(g)} + \\text{B(g)} \\rightleftharpoons 2\\text{C(g)}$。\n9. 定溫下，下列關係圖哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-09.png\" alt=\"第 9 題選項 (A)～(E) 的壓力對時間關係圖\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【反應 $2\\text{A} + \\text{B} \\rightleftharpoons 2\\text{C}$，A、B 起始分壓相同】\n• A 的消耗量是 B 的兩倍，所以 A、B 都隨時間下降，且 A 降得較多，平衡時 A 的分壓低於 B；C 從 0 開始上升。\n• (A) 錯誤：B 是反應物，分壓應下降而非上升。\n• (B) 錯誤：平衡時 A 應低於 B，圖中 A 高於 B。\n• (C) 正確：A、B 皆下降，A（實線）低於 B（虛線）。\n• (D) 正確：A 下降、C 由 0 上升並趨於定值。\n• (E) 錯誤：反應使氣體分子數由 3 變 2，定溫定容下總壓應下降。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "111-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 9-10 題為題組】將同溫、同壓、同體積的氣體 A 與氣體 B 共同置入一體積為 V 之密閉容器內，已知 A 與 B 會發生化學反應產生氣體 C，化學平衡反應式為 $2\\text{A(g)} + \\text{B(g)} \\rightleftharpoons 2\\text{C(g)}$。\n10. 上述反應達平衡後，於時間 $t_1$ 時，在定溫下將容器體積瞬間變成 2V，則下列關係圖哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-10.png\" alt=\"第 10 題選項 (A)～(E) 的壓力或反應速率對時間關係圖\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "【體積加倍：分壓瞬間減半，平衡往氣體分子數多的一方（左）移動】\n• (A) 錯誤：A、B 分壓瞬間減半後，平衡左移，A、B 應逐漸「上升」，圖中卻繼續下降。\n• 速率：正反應 $r_f = k_f[\\text{A}]^2[\\text{B}]$，濃度減半後變為原來的 $\\tfrac18$；逆反應 $r_r = k_r[\\text{C}]^2$ 變為原來的 $\\tfrac14$。兩者都瞬間下降，且逆反應速率大於正反應速率，之後逆反應速率漸減、正反應速率漸增，直到相等。\n• (B)(C) 錯誤：圖中體積變大後正反應速率高於逆反應速率，方向相反。\n• (D) 正確：逆反應（虛線）在上、正反應（實線）在下，逐漸趨於相等。\n• (E) 正確：總壓瞬間減半，之後平衡左移，氣體分子數增加，總壓逐漸上升（但不會回到原值）。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "111-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "王同學用乙醇與過量的醋酸進行酯化反應，反應完成後，利用萃取法將醋酸與產物分離。依序將水、乙醚加入至反應完成的混合液中，再倒入分液漏斗內，如圖 3 所示。下列有關此反應與萃取過程的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-11.png\" alt=\"圖3 分液漏斗的上層與下層\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "分液漏斗中的上層為水層",
+      "醋酸是有機物，但還是會溶於水層中",
+      "實驗過程中所加的乙醚，可以用丙酮取代",
+      "乙酸乙酯與乙醚可互溶，故用乙醚進行萃取",
+      "加入少量的濃硫酸，有助於此酯化反應的進行"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "• (A) 錯誤：乙醚密度（約 0.71 g/mL）比水小，上層為乙醚（有機層），下層為水層。\n• (B) 正確：醋酸可與水形成氫鍵，易溶於水，所以留在水層而與酯分離。\n• (C) 錯誤：丙酮與水互溶，無法與水分成兩層，不能當萃取溶劑。\n• (D) 正確：產物乙酸乙酯易溶於乙醚，且乙醚不溶於水，可把酯萃取到有機層。\n• (E) 正確：濃硫酸為催化劑，並可吸收生成的水，使平衡向酯化方向移動。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "111-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "以 0.10 M NaOH 溶液滴定 200 mL 0.050 M 之某有機酸溶液，其滴定曲線如圖 4 所示。下列有關於此有機酸的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-12.png\" alt=\"圖4 滴定曲線，A～E 為曲線上的點，當量點在 100 mL 與 200 mL\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$K_{a1}$ 大於 $10^{-4}$",
+      "此有機酸為單質子酸",
+      "在 pH 5.5 附近有很好的緩衝效果",
+      "當溶液的 pH = 10 時，該有機酸呈帶 +1 價離子",
+      "於上述有機酸溶液中加入 0.10 M NaOH 溶液 100 mL 時，溶液的 pH 值接近 7.0"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "【由當量點判斷質子數】\n• 酸的莫耳數 $= 0.050 \\times 0.200 = 0.010\\text{ mol}$；NaOH 100 mL 含 0.010 mol。圖中在 100 mL 與 200 mL 各有一個當量點，表示此酸為二質子酸。\n• (A) 正確：第一半當量點（50 mL，B 點）$\\text{pH} = \\text{p}K_{a1} \\approx 3$，$K_{a1} \\approx 10^{-3} > 10^{-4}$。\n• (B) 錯誤：有兩個當量點，為二質子酸。\n• (C) 正確：第二半當量點（150 mL，D 點）pH 約 5.5，此處 $\\text{HA}^-$ 與 $\\text{A}^{2-}$ 量相等，緩衝效果最好。\n• (D) 錯誤：pH = 10 時已超過第二當量點，酸以 $\\text{A}^{2-}$（帶 $-2$ 價）存在。\n• (E) 錯誤：加 100 mL 是第一當量點（C 點），pH 約 4，不是 7。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "111-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "「大象牙膏」是一有趣的化學實驗：將濃度為 30～35% 的雙氧水與清潔劑混合，雙氧水分解產生的氧氣被清潔劑水溶液包裹住產生氣泡，此泡沫狀物質會像噴泉一樣噴湧而出。已知其化學反應式為：\n$$2\\text{H}_2\\text{O}_2\\text{(l)} \\to 2\\text{H}_2\\text{O(l)} + \\text{O}_2\\text{(g)}\\quad \\Delta H^1 = -196\\text{ kJ/mol}\\text{，活化能} E_a^1 = 76\\text{ kJ/mol}$$\n若在此溶液中加入少量碘化鉀溶液，則泡沫噴湧的效果會更明顯。小安量測加入碘化鉀溶液後的反應活化能 $E_a^2 = 57\\text{ kJ/mol}$ 與反應熱 $\\Delta H^2 = -Q\\text{ kJ/mol}$。此外，小安發現加入碘化鉀溶液後，碘離子會參與反應，而且有甲、乙兩反應發生。\n甲：$\\text{H}_2\\text{O}_2\\text{(l)} + \\text{I}^-\\text{(aq)} \\to \\text{Y(aq)} + \\text{H}_2\\text{O(l)}$\n乙：$\\text{H}_2\\text{O}_2\\text{(l)} + \\text{Y(aq)} \\to \\text{Z(aq)} + \\text{H}_2\\text{O(l)} + \\text{O}_2\\text{(g)}$\n已知甲、乙兩個反應的反應係數皆已平衡，且甲反應的反應速率小於乙反應的反應速率，小安分析反應後碘離子的量沒有減少。根據以上實驗觀察及結論，下列敘述哪些正確？",
+    "options": [
+      "$Q > 196$",
+      "Y 是 $\\text{IO}_3^-$",
+      "Z 是 $\\text{I}^-$",
+      "甲反應活化能小於乙反應活化能",
+      "雙氧水在此實驗中既是氧化劑，也是還原劑"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【$\\text{I}^-$ 是催化劑】\n• (A) 錯誤：催化劑只降低活化能，不改變反應熱，$Q = 196$。\n• (B) 錯誤：甲式只多一個 O（$\\text{H}_2\\text{O}_2 \\to \\text{H}_2\\text{O}$ 給出一個 O），Y 為 $\\text{IO}^-$；若是 $\\text{IO}_3^-$，方程式無法配平。\n• (C) 正確：乙：$\\text{H}_2\\text{O}_2 + \\text{IO}^- \\to \\text{I}^- + \\text{H}_2\\text{O} + \\text{O}_2$，碘離子再生，所以量沒有減少。\n• (D) 錯誤：甲反應較慢，活化能較大。\n• (E) 正確：甲中 $\\text{H}_2\\text{O}_2$ 的 O 由 $-1$ 變 $-2$（氧化劑）；乙中 O 由 $-1$ 變 0 生成 $\\text{O}_2$（還原劑）。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "111-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "硫酸根離子濃度的檢測方法如下：首先加入適量的鹽酸使樣品溶液酸化，然後加入氯化鋇溶液，會產生白色沉澱，稱重後即可確定樣品所含有硫酸根離子的量。李同學取得一樣品，依照上述方法得到硫酸鋇沉澱，以預先稱重的濾紙過濾，並將濾紙與沉澱物置於已稱重的坩堝內，於烘箱內烘乾，最後再稱沉澱物、濾紙與坩堝的總重，可計算樣品中硫酸根離子的濃度。實驗完成後，發現所測得的結果高於實際濃度，下列哪些可能是造成此誤差的原因？",
+    "options": [
+      "最後稱重時，濾紙乾燥未完全",
+      "樣品溶液中含有不溶的固體雜質",
+      "在過濾的過程中，有粉末通過濾紙而流失",
+      "尚未加入氯化鋇前，在操作過程灑濺出樣品",
+      "空坩堝稱重前未完全乾燥，但最後稱沉澱物、濾紙與坩堝的總重時，則是完全乾燥"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "【沉澱質量 = 總重 − 濾紙重 − 坩堝重；沉澱算得偏重，結果就偏高】\n• (A) 正確：殘留水分使總重偏大，算出的 $\\text{BaSO}_4$ 偏多。\n• (B) 正確：不溶雜質也被濾紙收集，被當成 $\\text{BaSO}_4$ 計算，結果偏高。\n• (C) 錯誤：沉澱流失，結果偏低。\n• (D) 錯誤：樣品灑出，硫酸根變少，結果偏低。\n• (E) 錯誤：空坩堝重量含水而偏大，扣除後的沉澱質量偏小，結果偏低。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "111-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "小華在 $25^\\circ\\text{C}$ 時，將 1 毫克的蛋白質分別加到 10 mL 的純水、0.001 M 的鹽酸溶液、0.001 M 的氫氧化鈉溶液中，得到如下的實驗結果：\n（1）無法完全溶解於純水中\n（2）完全溶解於 0.001 M 的鹽酸溶液中\n（3）完全溶解於 0.001 M 的氫氧化鈉溶液中\n（4）在電場下，（2）所述溶液中的蛋白質，會向負（－）端移動\n（5）在電場下，（3）所述溶液中的蛋白質，會向正（＋）端移動\n根據上述，下列有關該蛋白質性質的推論哪些正確？",
+    "options": [
+      "溫度越高，該蛋白質溶解度越大",
+      "該蛋白質的溶解度和溶液酸鹼值有關",
+      "該蛋白質所帶的電荷和溶液的酸鹼值有關",
+      "若將（2）與（3）所述溶液等量混合，可能有部分蛋白質析出",
+      "溶於 0.001 M 氫氧化鈉溶液中的蛋白質，其移動速率不隨電場強弱而改變"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "• (A) 錯誤：實驗都在 $25^\\circ\\text{C}$ 進行，無法推論溫度的影響（且高溫常使蛋白質變性沉澱）。\n• (B) 正確：在純水中不能完全溶解，在酸或鹼中可完全溶解。\n• (C) 正確：酸中向負極移動（帶正電），鹼中向正極移動（帶負電）。\n• (D) 正確：等量等濃度的 HCl 與 NaOH 混合後接近中性，回到類似純水的環境，蛋白質淨電荷變小，可能有部分析出。\n• (E) 錯誤：帶電粒子受的電力與電場強度成正比，電場越強移動越快。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "111-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 16-17 題為題組】有甲、乙、丙、丁、戊、己等六個前三週期的元素，其相關的性質如表 3 所示。\n16. 根據表 3 所提供的資料，下列有關此六個元素的敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-16.png\" alt=\"表3 六個元素的價電子數、電負度與原子半徑\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "室溫下，甲可與甲醇反應",
+      "乙的第一游離能小於丁的第一游離能",
+      "室溫下，丙分子會與水進行氧化還原反應，而丁分子則不會",
+      "丁可形成雙原子和三原子兩種氣體分子，其中三原子分子的鍵長較長",
+      "室溫下，丙和戊均可形成同核雙原子分子，且戊分子的沸點比丙分子的沸點高"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "【先由價電子數、電負度與半徑認出元素】\n甲 Na（1 個價電子、0.9、154 pm）、乙 N（5、3.0、75）、丙 Cl（7、3.0、99）、丁 O（6、3.5、73）、戊 F（7、4.0、71）、己 Li（1、1.0、134）。\n• (A) 正確：$2\\text{Na} + 2\\text{CH}_3\\text{OH} \\to 2\\text{CH}_3\\text{ONa} + \\text{H}_2$。\n• (B) 錯誤：N 的 2p 為半填滿，較穩定，第一游離能（約 1402 kJ/mol）大於 O（約 1314 kJ/mol）。\n• (C) 正確：$\\text{Cl}_2 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{HCl} + \\text{HOCl}$ 為自身氧化還原；$\\text{O}_2$ 不與水反應。\n• (D) 正確：O 有 $\\text{O}_2$ 與 $\\text{O}_3$；$\\text{O}_3$ 的鍵約為 1.5 鍵，比 $\\text{O}_2$ 的雙鍵長。\n• (E) 錯誤：$\\text{F}_2$ 分子量較小，分散力較弱，沸點比 $\\text{Cl}_2$ 低。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "111-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 16-17 題為題組】有甲、乙、丙、丁、戊、己等六個前三週期的元素，其相關的性質如表 3 所示。\n17. 此六元素彼此之間可形成不同的化合物，下列相關化合物的敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-16.png\" alt=\"表3 六個元素的價電子數、電負度與原子半徑\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲與丙可形成離子化合物",
+      "乙與丁可形成多種化合物",
+      "丁與戊形成的分子化合物中，丁的氧化數可為 −1",
+      "乙與丙形成的分子化合物，其分子形狀為平面三角形",
+      "甲與丁可形成離子化合物，其中丁的氧化數可為 −1 或 −2"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "（甲 Na、乙 N、丙 Cl、丁 O、戊 F、己 Li）\n• (A) 正確：NaCl 為離子化合物。\n• (B) 正確：氮氧化物有 $\\text{N}_2\\text{O}$、NO、$\\text{NO}_2$、$\\text{N}_2\\text{O}_4$、$\\text{N}_2\\text{O}_5$ 等多種。\n• (C) 錯誤：F 電負度最大，在 $\\text{OF}_2$ 中 F 為 $-1$，O 為 $+2$。\n• (D) 錯誤：$\\text{NCl}_3$ 中心 N 有一對孤對電子，為角錐形。\n• (E) 正確：$\\text{Na}_2\\text{O}$ 中 O 為 $-2$；過氧化鈉 $\\text{Na}_2\\text{O}_2$ 中 O 為 $-1$。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "111-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 18-19 題為題組】長期濫用抗生素易使細菌產生抗藥性，細菌抗藥性產生的方式可透過本身的基因突變或獲得抗藥性基因，因此開發新類型的抗生素是迫切的課題。有研究指出，分子甲具有殺菌的作用，其結構如圖 5 所示。\n18. 下列關於甲的組成與結構之敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-18.png\" alt=\"圖5 環狀分子甲的結構；圖6 甲堆疊於細胞膜上\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "共有 8 個醯胺鍵",
+      "僅由 α-胺基酸組成",
+      "所有的原子皆在同一平面上",
+      "分子甲由 8 個胺基酸所構成",
+      "分子甲由 3 種不同的胺基酸縮合而成"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "【沿環數胺基酸】\n環上共有 8 個 $-\\text{NH}-\\text{CH(R)}-\\text{CO}-$ 單元，側鏈依序為：$-\\text{CH}_2\\text{CH}_2\\text{CONH}_2$（麩醯胺酸）、$-\\text{CH}_3$（丙胺酸）、$-\\text{CH}_2\\text{CH}_2\\text{COOH}$（麩胺酸）、$-\\text{CH}_3$、$-\\text{CH}_2\\text{CH}_2\\text{CONH}_2$、$-\\text{CH}_3$、$-\\text{CH}_2\\text{CH}_2\\text{COOH}$、$-\\text{CH}_3$。\n• (A) 錯誤：環上有 8 個肽鍵，另外兩個麩醯胺酸側鏈的 $-\\text{CONH}_2$ 也是醯胺基，共 10 個醯胺鍵。\n• (B) 正確：每個胺基都接在羧基旁的 α 碳上。\n• (C) 錯誤：α 碳與側鏈的 $sp^3$ 碳為四面體，原子不可能都共平面。\n• (D) 正確：8 個胺基酸以 8 個肽鍵首尾相連成環。\n• (E) 正確：只有麩醯胺酸、丙胺酸、麩胺酸 3 種。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "111-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 18-19 題為題組】長期濫用抗生素易使細菌產生抗藥性，細菌抗藥性產生的方式可透過本身的基因突變或獲得抗藥性基因，因此開發新類型的抗生素是迫切的課題。有研究指出，分子甲具有殺菌的作用，其結構如圖 5 所示。\n19. 研究指出，甲產生殺菌的效果，是透過分子間的作用力，堆疊在細菌的細胞膜上形成規律的結構，如圖 6 所示。下列關於甲的性質與其堆疊結構物的敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-18.png\" alt=\"圖5 環狀分子甲的結構；圖6 甲堆疊於細胞膜上\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲可形成分子間氫鍵",
+      "甲可分別與丙酮、丙酸及丙炔產生氫鍵",
+      "甲主要是藉由凡得瓦力互相堆疊",
+      "堆疊後的結構物，可形成中空的通道",
+      "甲的殺菌作用，可能是影響細菌細胞膜的功能"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "• (A) 正確：甲有 N–H、C=O、–COOH，可形成分子間氫鍵。\n• (B) 錯誤：丙酮的 C=O、丙酸的 –COOH 可與甲形成氫鍵，但丙炔只有 C、H，不能形成氫鍵。\n• (C) 錯誤：環狀肽上下層之間主要靠骨架的 N–H…O=C 氫鍵堆疊。\n• (D) 正確：環狀分子一層層疊起，中央的孔洞連成中空管道（圖 6）。\n• (E) 正確：管道穿過細胞膜，使離子任意進出，破壞細胞膜功能而殺菌。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "111-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 2,
+    "question": "【第 20-22 題為題組】某市因財政困難，停止使用自來水公司的供水系統，改為抽用河流的水，並停止添加金屬腐蝕抑制劑。常用金屬腐蝕抑制劑為磷酸鹽的衍生物，溶於水中所產生的磷酸根（$\\text{PO}_4^{3-}$）會與金屬水管腐蝕出的金屬離子形成難溶性鹽，即為水垢的來源。水垢會附著於管壁表面，減緩金屬水管腐蝕的速度，進而降低水中重金屬的含量。某研究團隊針對該水樣品中的金屬含量進行系統性的檢測，試圖找出水中重金屬與過往的差異。\n20. 研究團隊於某住家中收集水樣品，固定水龍頭的出水流量為 7.5 L/min，在 8 分鐘內，收集 6 瓶 1 公升的樣品 a-f 及 6 瓶 250 毫升的樣品 g-l，分析各樣品的鉛濃度，結果如圖 7 所示。根據上述，下列敘述哪些正確？（圖中的 μg 為微克，1 微克 $= 1\\times10^{-6}$ 克）（多選）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-20.png\" alt=\"圖7 各樣品鉛濃度對水流時間，虛線為平均鉛濃度 2988 μg/L\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "有 4 個樣品的鉛濃度高於平均鉛濃度",
+      "樣品 a-f 的鉛濃度皆高於樣品 g-l",
+      "樣品 a-f 的鉛含量皆高於樣品 g-l",
+      "持續出水 8 分鐘後，可完全降低水中的鉛濃度",
+      "若水樣品的密度為 1 g/mL，有 3 個樣品的鉛濃度高於 40 ppm"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "【讀圖】a 約 5700、b 約 4700、c 約 3500、d 約 700、e 約 1000、f 約 13200；g 約 1700、h 約 200、i 約 300、j 約 700、k 約 1700、l 約 1900（單位 μg/L）。\n• (A) 正確：高於 2988 μg/L 的有 a、b、c、f 共 4 個。\n• (B) 錯誤：d（約 700）低於 g（約 1700）。\n• (C) 正確：鉛含量 = 濃度 × 體積。a-f 各 1 L，最少為 d 約 700 μg；g-l 各 0.25 L，最多為 l 約 $1900 \\times 0.25 \\approx 475$ μg，所以 a-f 都較多。\n• (D) 錯誤：第 8 分鐘的 l 仍有約 1900 μg/L。\n• (E) 錯誤：40 ppm $= 40\\text{ mg/L} = 40000\\text{ μg/L}$，最高的 f 約 13200 μg/L 也沒有超過。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "111-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "points": 2,
+    "question": "【第 20-22 題為題組】某市因財政困難，停止使用自來水公司的供水系統，改為抽用河流的水，並停止添加金屬腐蝕抑制劑。常用金屬腐蝕抑制劑為磷酸鹽的衍生物，溶於水中所產生的磷酸根（$\\text{PO}_4^{3-}$）會與金屬水管腐蝕出的金屬離子形成難溶性鹽，即為水垢的來源。水垢會附著於管壁表面，減緩金屬水管腐蝕的速度，進而降低水中重金屬的含量。某研究團隊針對該水樣品中的金屬含量進行系統性的檢測，試圖找出水中重金屬與過往的差異。\n21. 研究團隊認為重金屬的來源是附著水管壁上的水垢崩解後流入水中（圖 8），水垢中重金屬的含量分布如圖 9 所示。假設分析水樣品的重金屬分布與水垢的重金屬分布相同，試問下列何者為水樣品中的重金屬分布？（單選）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-21.png\" alt=\"圖8 水垢崩解示意；圖9 水垢重金屬分布：鉛 70%、鐵 11%、鎘 8%、錫 8%、鋅 3%；選項 (A)～(E) 長條圖\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 2,
+    "explanation": "【與圓餅圖比對】圖 9：Pb 70%、Fe 11%、Cd 8%、Sn 8%、Zn 3%。\n• (A) Cd 約 25%、Zn 約 17%，不符。\n• (B) Cd 最多、Pb 只有約 10%，不符。\n• (C) Pb 約 70%、Fe 約 11%、Cd 與 Sn 約 8%、Zn 約 3%，完全相符。\n• (D) Sn 最多，不符。\n• (E) Fe 最多，不符。\n\n故選 (C)"
+  },
+  {
+    "id": "111-ast-chem-non-22",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 20-22 題為題組】某市因財政困難，停止使用自來水公司的供水系統，改為抽用河流的水，並停止添加金屬腐蝕抑制劑。常用金屬腐蝕抑制劑為磷酸鹽的衍生物，溶於水中所產生的磷酸根（$\\text{PO}_4^{3-}$）會與金屬水管腐蝕出的金屬離子形成難溶性鹽，即為水垢的來源。水垢會附著於管壁表面，減緩金屬水管腐蝕的速度，進而降低水中重金屬的含量。某研究團隊針對該水樣品中的金屬含量進行系統性的檢測，試圖找出水中重金屬與過往的差異。\n22. 已知水垢中含有氫氧磷酸鉛（$\\text{Pb}_5(\\text{PO}_4)_3\\text{OH}$）。式 (1) 為氫氧磷酸鉛在水中的溶解平衡，若在水中添加含磷酸鹽的金屬腐蝕抑制劑後，是否能降低水中鉛濃度？並說明之。（2 分）\n$$5\\text{Pb}^{2+}\\text{(aq)} + 3\\text{PO}_4^{3-}\\text{(aq)} + \\text{OH}^-\\text{(aq)} \\rightleftharpoons \\text{Pb}_5(\\text{PO}_4)_3\\text{OH(s)}\\quad\\text{式 (1)}$$",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "可以降低。水中磷酸根濃度提高，依勒沙特列原理（共同離子效應），式 (1) 平衡向右移動，抑制難溶鹽溶解、減緩水垢崩解，水中鉛濃度降低。"
+    ],
+    "blankLabels": [
+      "是否能降低鉛濃度並說明原因"
+    ],
+    "explanation": "【共同離子效應】\n• 加入磷酸鹽使 $[\\text{PO}_4^{3-}]$ 增加，依勒沙特列原理，式 (1) 平衡向右（生成固體）移動，$\\text{Pb}^{2+}$ 被沉澱下來。\n• 同時難溶的氫氧磷酸鉛較不易溶解，水垢不易崩解，管壁上的保護層也能減緩鉛管腐蝕。\n\n答：能降低水中鉛濃度。（評分：答「可以降低」得 1 分，以勒沙特列原理或共同離子效應說明原因再得 1 分。）"
+  },
+  {
+    "id": "111-ast-chem-non-23",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 23-24 題為題組】具有相同滲透壓的溶液稱為等張溶液，細胞必須處於等張的環境才能存活，細胞若處於滲透壓比細胞內大的高張溶液，則細胞會因為液體流出細胞外造成萎縮而凋亡，高鹽分與糖分的醃製食品即是利用此一現象來進行食物保存。相反地，若細胞處於滲透壓低於細胞內的低張溶液中，則可能會因液體流入細胞內使細胞膨脹甚至破裂。\n23. 已知有一單細胞細菌在 $27^\\circ\\text{C}$ 時，可存活於體積莫耳濃度 0.25 M 的等張硝酸銨溶液中。假設硝酸銨於水中完全解離，則此細菌細胞內的滲透壓為多少 atm？（2 分）",
+    "points": 2,
+    "blanks": [
+      "12.3"
+    ],
+    "acceptedBlanks": [
+      [
+        "12.30",
+        "12.3ATM"
+      ]
+    ],
+    "blankLabels": [
+      "滲透壓（atm）"
+    ],
+    "explanation": "【等張 → 細胞內滲透壓等於外液滲透壓】\n$\\text{NH}_4\\text{NO}_3 \\to \\text{NH}_4^+ + \\text{NO}_3^-$，凡特何夫因子 $i = 2$。\n$$\\pi = iC_MRT = 2 \\times 0.25 \\times 0.082 \\times (273 + 27) = 12.3\\text{ atm}$$\n\n答：12.3 atm"
+  },
+  {
+    "id": "111-ast-chem-non-24",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 23-24 題為題組】具有相同滲透壓的溶液稱為等張溶液，細胞必須處於等張的環境才能存活，細胞若處於滲透壓比細胞內大的高張溶液，則細胞會因為液體流出細胞外造成萎縮而凋亡，高鹽分與糖分的醃製食品即是利用此一現象來進行食物保存。相反地，若細胞處於滲透壓低於細胞內的低張溶液中，則可能會因液體流入細胞內使細胞膨脹甚至破裂。\n24. 某生製備了一重量百分率濃度 1.8% 且密度為 1.0 g/mL 的 100 克葡萄糖（莫耳質量為 180 g/mol）水溶液，若在 $27^\\circ\\text{C}$ 下將上述單細胞細菌置於此溶液中，則此細菌細胞變化如何？（需算出溶液濃度）（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "葡萄糖溶液濃度 0.1 M，滲透壓低於細胞內（低張溶液），細菌細胞會膨脹、變大甚至破裂。"
+    ],
+    "blankLabels": [
+      "溶液濃度與細胞變化"
+    ],
+    "explanation": "【算體積莫耳濃度，再比較滲透壓】\n• 葡萄糖質量 $100 \\times 1.8\\% = 1.8\\text{ g}$，莫耳數 $\\dfrac{1.8}{180} = 0.010\\text{ mol}$。\n• 溶液體積 $\\dfrac{100\\text{ g}}{1.0\\text{ g/mL}} = 100\\text{ mL} = 0.100\\text{ L}$，$[\\text{C}_6\\text{H}_{12}\\text{O}_6] = \\dfrac{0.010}{0.100} = 0.1\\text{ M}$。\n• 葡萄糖不解離，$\\pi = 0.1 \\times 0.082 \\times 300 \\approx 2.46\\text{ atm}$，遠小於細胞內的 12.3 atm，是低張溶液。\n• 水會流入細胞，細胞膨脹、變大甚至破裂。\n\n答：0.1 M；細胞膨脹（變大或破裂）。"
+  },
+  {
+    "id": "111-ast-chem-non-25",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 25-27 題為題組】現代的社會強調「資源可持續回復，循環再生」的循環經濟。鉛蓄電池因使用量非常龐大，環保署公告 2020 年回收的廢鉛蓄電池總處理量高達 6 萬多公噸。而廢鉛蓄電池中主要含金屬鉛（Pb）、氧化鉛（PbO）、二氧化鉛（$\\text{PbO}_2$）、硫酸鉛（$\\text{PbSO}_4$）。某研究團隊設計以下流程，可從廢鉛蓄電池中提煉高純度的 PbO。\nI. 將含有廢鉛蓄電池的廢料、濃度 2.0 M 的 $\\text{H}_2\\text{SO}_4$、0.1 M 的 $\\text{FeSO}_4$（在溶液中解離成 $\\text{Fe}^{2+}$ 和 $\\text{SO}_4^{2-}$）溶液的混合物在 $65^\\circ\\text{C}$ 進行反應，所產生的 $\\text{PbSO}_4$ 可以式 (2) 表示：\n$$\\text{Pb(s)} + \\text{PbO}_2\\text{(s)} + 2\\text{H}_2\\text{SO}_4\\text{(aq)} \\to 2\\text{PbSO}_4\\text{(s)} + 2\\text{H}_2\\text{O(l)}\\quad\\text{式 (2)}$$\nII. 將實驗 I 的 $\\text{PbSO}_4$ 粗產物溶於 10% NaOH 溶液，加熱，並趁熱過濾；待濾液冷卻至室溫後，過濾並收集含 PbO 的粗產物。\nIII. 將實驗 II 的 PbO 粗產物置於 35% NaOH 溶液中，在 $110^\\circ\\text{C}$ 下攪拌至完全溶解後趁熱過濾，靜置濾液使其冷卻至室溫，可得高純度的黃色物質即為 PbO。\n該研究團隊為探究 $\\text{Fe}^{2+}$ 在實驗 I 中扮演的角色，利用鐵離子會與 $\\text{SCN}^-$ 產生錯合物的特性，又進行以下兩個實驗：\nIV. $65^\\circ\\text{C}$ 時，於 2.0 M 的 $\\text{H}_2\\text{SO}_4$ 與 0.1 M 的 $\\text{FeSO}_4$ 的水溶液中加入適量 KSCN 水溶液後，溶液幾乎無色；但是若加入少量 $\\text{PbO}_2$ 後，溶液呈紅色，並有白色 $\\text{PbSO}_4$ 固體產生。\nV. 取出實驗 IV 的紅色溶液置於另一試管；在 $65^\\circ\\text{C}$ 時，加入鉛粉，溶液又變成幾乎無色，且有白色 $\\text{PbSO}_4$ 固體產生。\n25. 實驗 III 使用何種純化技術提煉 PbO？（2 分）",
+    "points": 2,
+    "blanks": [
+      "再結晶"
+    ],
+    "acceptedBlanks": [
+      [
+        "結晶",
+        "再結晶法",
+        "結晶法",
+        "重結晶"
+      ]
+    ],
+    "blankLabels": [
+      "純化技術"
+    ],
+    "explanation": "【利用溶解度隨溫度變化】\n實驗 III 在 $110^\\circ\\text{C}$ 把粗產物完全溶解、趁熱過濾除去不溶雜質，再讓濾液冷卻，溶解度降低使純的 PbO 析出，這就是（再）結晶法。\n\n答：結晶（再結晶）。"
+  },
+  {
+    "id": "111-ast-chem-non-26",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 25-27 題為題組】現代的社會強調「資源可持續回復，循環再生」的循環經濟。鉛蓄電池因使用量非常龐大，環保署公告 2020 年回收的廢鉛蓄電池總處理量高達 6 萬多公噸。而廢鉛蓄電池中主要含金屬鉛（Pb）、氧化鉛（PbO）、二氧化鉛（$\\text{PbO}_2$）、硫酸鉛（$\\text{PbSO}_4$）。某研究團隊設計以下流程，可從廢鉛蓄電池中提煉高純度的 PbO。\nI. 將含有廢鉛蓄電池的廢料、濃度 2.0 M 的 $\\text{H}_2\\text{SO}_4$、0.1 M 的 $\\text{FeSO}_4$（在溶液中解離成 $\\text{Fe}^{2+}$ 和 $\\text{SO}_4^{2-}$）溶液的混合物在 $65^\\circ\\text{C}$ 進行反應，所產生的 $\\text{PbSO}_4$ 可以式 (2) 表示：\n$$\\text{Pb(s)} + \\text{PbO}_2\\text{(s)} + 2\\text{H}_2\\text{SO}_4\\text{(aq)} \\to 2\\text{PbSO}_4\\text{(s)} + 2\\text{H}_2\\text{O(l)}\\quad\\text{式 (2)}$$\nII. 將實驗 I 的 $\\text{PbSO}_4$ 粗產物溶於 10% NaOH 溶液，加熱，並趁熱過濾；待濾液冷卻至室溫後，過濾並收集含 PbO 的粗產物。\nIII. 將實驗 II 的 PbO 粗產物置於 35% NaOH 溶液中，在 $110^\\circ\\text{C}$ 下攪拌至完全溶解後趁熱過濾，靜置濾液使其冷卻至室溫，可得高純度的黃色物質即為 PbO。\n該研究團隊為探究 $\\text{Fe}^{2+}$ 在實驗 I 中扮演的角色，利用鐵離子會與 $\\text{SCN}^-$ 產生錯合物的特性，又進行以下兩個實驗：\nIV. $65^\\circ\\text{C}$ 時，於 2.0 M 的 $\\text{H}_2\\text{SO}_4$ 與 0.1 M 的 $\\text{FeSO}_4$ 的水溶液中加入適量 KSCN 水溶液後，溶液幾乎無色；但是若加入少量 $\\text{PbO}_2$ 後，溶液呈紅色，並有白色 $\\text{PbSO}_4$ 固體產生。\nV. 取出實驗 IV 的紅色溶液置於另一試管；在 $65^\\circ\\text{C}$ 時，加入鉛粉，溶液又變成幾乎無色，且有白色 $\\text{PbSO}_4$ 固體產生。\n26. 寫出實驗 IV 中，溶液呈紅色的原因為何？（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{PbO}_2$ 把 $\\text{Fe}^{2+}$ 氧化成 $\\text{Fe}^{3+}$，$\\text{Fe}^{3+}$ 與 $\\text{SCN}^-$ 生成紅色錯合物：$\\text{Fe}^{3+} + \\text{SCN}^- \\to \\text{FeSCN}^{2+}$（紅色）"
+    ],
+    "blankLabels": [
+      "溶液呈紅色的原因"
+    ],
+    "explanation": "【$\\text{Fe}^{3+}$ 的檢驗】\n• $\\text{Fe}^{2+}$ 與 $\\text{SCN}^-$ 不會呈色，所以一開始溶液幾乎無色。\n• 加入強氧化劑 $\\text{PbO}_2$ 後，$\\text{Fe}^{2+}$ 被氧化成 $\\text{Fe}^{3+}$（$\\text{PbO}_2$ 則被還原為 $\\text{Pb}^{2+}$，與 $\\text{SO}_4^{2-}$ 生成白色 $\\text{PbSO}_4$）。\n• $\\text{Fe}^{3+} + \\text{SCN}^- \\to \\text{FeSCN}^{2+}$，生成血紅色錯離子。\n\n答：產生了 $\\text{Fe}^{3+}$，並與 $\\text{SCN}^-$ 生成紅色錯合物 $\\text{FeSCN}^{2+}$。"
+  },
+  {
+    "id": "111-ast-chem-non-27",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 25-27 題為題組】現代的社會強調「資源可持續回復，循環再生」的循環經濟。鉛蓄電池因使用量非常龐大，環保署公告 2020 年回收的廢鉛蓄電池總處理量高達 6 萬多公噸。而廢鉛蓄電池中主要含金屬鉛（Pb）、氧化鉛（PbO）、二氧化鉛（$\\text{PbO}_2$）、硫酸鉛（$\\text{PbSO}_4$）。某研究團隊設計以下流程，可從廢鉛蓄電池中提煉高純度的 PbO。\nI. 將含有廢鉛蓄電池的廢料、濃度 2.0 M 的 $\\text{H}_2\\text{SO}_4$、0.1 M 的 $\\text{FeSO}_4$（在溶液中解離成 $\\text{Fe}^{2+}$ 和 $\\text{SO}_4^{2-}$）溶液的混合物在 $65^\\circ\\text{C}$ 進行反應，所產生的 $\\text{PbSO}_4$ 可以式 (2) 表示：\n$$\\text{Pb(s)} + \\text{PbO}_2\\text{(s)} + 2\\text{H}_2\\text{SO}_4\\text{(aq)} \\to 2\\text{PbSO}_4\\text{(s)} + 2\\text{H}_2\\text{O(l)}\\quad\\text{式 (2)}$$\nII. 將實驗 I 的 $\\text{PbSO}_4$ 粗產物溶於 10% NaOH 溶液，加熱，並趁熱過濾；待濾液冷卻至室溫後，過濾並收集含 PbO 的粗產物。\nIII. 將實驗 II 的 PbO 粗產物置於 35% NaOH 溶液中，在 $110^\\circ\\text{C}$ 下攪拌至完全溶解後趁熱過濾，靜置濾液使其冷卻至室溫，可得高純度的黃色物質即為 PbO。\n該研究團隊為探究 $\\text{Fe}^{2+}$ 在實驗 I 中扮演的角色，利用鐵離子會與 $\\text{SCN}^-$ 產生錯合物的特性，又進行以下兩個實驗：\nIV. $65^\\circ\\text{C}$ 時，於 2.0 M 的 $\\text{H}_2\\text{SO}_4$ 與 0.1 M 的 $\\text{FeSO}_4$ 的水溶液中加入適量 KSCN 水溶液後，溶液幾乎無色；但是若加入少量 $\\text{PbO}_2$ 後，溶液呈紅色，並有白色 $\\text{PbSO}_4$ 固體產生。\nV. 取出實驗 IV 的紅色溶液置於另一試管；在 $65^\\circ\\text{C}$ 時，加入鉛粉，溶液又變成幾乎無色，且有白色 $\\text{PbSO}_4$ 固體產生。\n27. 分別寫出實驗 IV 與 V 中生成 $\\text{PbSO}_4$ 的淨離子平衡反應式。（4 分）",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{PbO}_2 + 2\\text{Fe}^{2+} + 4\\text{H}^+ + \\text{SO}_4^{2-} \\to \\text{PbSO}_4 + 2\\text{Fe}^{3+} + 2\\text{H}_2\\text{O}$",
+      "$\\text{Pb} + 2\\text{Fe}^{3+} + \\text{SO}_4^{2-} \\to \\text{PbSO}_4 + 2\\text{Fe}^{2+}$"
+    ],
+    "blankLabels": [
+      "實驗 IV",
+      "實驗 V"
+    ],
+    "explanation": "【氧化還原配平】\n• 實驗 IV：$\\text{PbO}_2$（Pb 為 +4）得 2 個電子變成 $\\text{Pb}^{2+}$；2 個 $\\text{Fe}^{2+}$ 各失 1 個電子變成 $\\text{Fe}^{3+}$；酸性溶液中 $\\text{PbO}_2$ 的兩個 O 與 $4\\text{H}^+$ 生成 $2\\text{H}_2\\text{O}$，$\\text{Pb}^{2+}$ 再與 $\\text{SO}_4^{2-}$ 沉澱：\n$$\\text{PbO}_2 + 2\\text{Fe}^{2+} + 4\\text{H}^+ + \\text{SO}_4^{2-} \\to \\text{PbSO}_4 + 2\\text{Fe}^{3+} + 2\\text{H}_2\\text{O}$$\n• 實驗 V：Pb 被 $\\text{Fe}^{3+}$ 氧化成 $\\text{Pb}^{2+}$，$\\text{Fe}^{3+}$ 還原回 $\\text{Fe}^{2+}$（紅色消失）：\n$$\\text{Pb} + 2\\text{Fe}^{3+} + \\text{SO}_4^{2-} \\to \\text{PbSO}_4 + 2\\text{Fe}^{2+}$$\n（也可只寫電子轉移部分：$2\\text{Fe}^{2+} + \\text{Pb}^{4+} \\to 2\\text{Fe}^{3+} + \\text{Pb}^{2+}$；$2\\text{Fe}^{3+} + \\text{Pb} \\to 2\\text{Fe}^{2+} + \\text{Pb}^{2+}$。）\n兩式相加，$\\text{Fe}^{2+}/\\text{Fe}^{3+}$ 消去，就是式 (2)：$\\text{Fe}^{2+}$ 在實驗 I 中扮演催化劑。"
+  },
+  {
+    "id": "111-ast-chem-non-28",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 28-30 題為題組】人類很早就已經知道奎寧樹皮的萃取物可治療瘧疾，其作用的主要成分是奎寧，別名金雞納霜或金雞納鹼，分子式為 $\\text{C}_{20}\\text{H}_{24}\\text{N}_2\\text{O}_2$，可用於治療與預防瘧疾及治療焦蟲症的藥物。奎寧化學結構如下圖所示，其中 $\\text{R}^1$、$\\text{R}^2$、$\\text{R}^3$ 的結構並未標示出，但小雅由文獻中得知 $\\text{R}^1$、$\\text{R}^2$、$\\text{R}^3$ 的結構共計含有 3 個 C、7 個 H 與 2 個 O，並可由以下實驗鑑定 $\\text{R}^1$、$\\text{R}^2$、$\\text{R}^3$ 所含的官能基。\n（一）奎寧可由化合物甲與乙醇鈉（$\\text{NaOC}_2\\text{H}_5$）加熱而得，如式 (3) 所示。\n（二）若將適當氧化劑與奎寧作用，可產生酮官能基的產物，分子式為 $\\text{C}_{20}\\text{H}_{22}\\text{N}_2\\text{O}_2$。\n（三）若將奎寧加入氯化鐵溶液，此溶液未變為紫色。\n28. 畫出取代基 $\\text{R}^1$ 的結構。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-28.png\" alt=\"式(3) 化合物甲與乙醇鈉加熱生成奎寧\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "乙烯基 $-\\text{CH}=\\text{CH}_2$（$\\text{H}_2\\text{C}=\\text{CH}-$）"
+    ],
+    "blankLabels": [
+      "R¹ 的結構"
+    ],
+    "explanation": "【先推出 $\\text{R}^1$、$\\text{R}^2$、$\\text{R}^3$】\n• (一) 乙醇鈉是強鹼，與化合物甲中的 $-\\text{CH(Br)}-$ 側鏈加熱，發生脫去 HBr 的消去反應，生成 $\\text{C}=\\text{C}$：$\\text{R}^1$ 為乙烯基 $-\\text{CH}=\\text{CH}_2$（$\\text{C}_2\\text{H}_3$）。\n• (二) 氧化後產物少 2 個 H 且生成酮基，表示 $\\text{R}^2$ 所在碳為二級醇：$\\text{R}^2$ 為羥基 $-\\text{OH}$（$\\text{H}_1\\text{O}_1$）。\n• 剩下 $\\text{C}_3\\text{H}_7\\text{O}_2 - \\text{C}_2\\text{H}_3 - \\text{OH} = \\text{CH}_3\\text{O}$：$\\text{R}^3$ 為甲氧基 $-\\text{OCH}_3$。\n• (三) 加 $\\text{FeCl}_3$ 不呈紫色，證明芳香環上沒有酚羥基，與 $\\text{R}^3 = -\\text{OCH}_3$（而非直接接在苯環上的 $-\\text{OH}$）一致。\n\n答：$\\text{R}^1$ 為乙烯基 $-\\text{CH}=\\text{CH}_2$。"
+  },
+  {
+    "id": "111-ast-chem-non-29",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 28-30 題為題組】人類很早就已經知道奎寧樹皮的萃取物可治療瘧疾，其作用的主要成分是奎寧，別名金雞納霜或金雞納鹼，分子式為 $\\text{C}_{20}\\text{H}_{24}\\text{N}_2\\text{O}_2$，可用於治療與預防瘧疾及治療焦蟲症的藥物。奎寧化學結構如下圖所示，其中 $\\text{R}^1$、$\\text{R}^2$、$\\text{R}^3$ 的結構並未標示出，但小雅由文獻中得知 $\\text{R}^1$、$\\text{R}^2$、$\\text{R}^3$ 的結構共計含有 3 個 C、7 個 H 與 2 個 O，並可由以下實驗鑑定 $\\text{R}^1$、$\\text{R}^2$、$\\text{R}^3$ 所含的官能基。\n（一）奎寧可由化合物甲與乙醇鈉（$\\text{NaOC}_2\\text{H}_5$）加熱而得，如式 (3) 所示。\n（二）若將適當氧化劑與奎寧作用，可產生酮官能基的產物，分子式為 $\\text{C}_{20}\\text{H}_{22}\\text{N}_2\\text{O}_2$。\n（三）若將奎寧加入氯化鐵溶液，此溶液未變為紫色。\n29. 取代基 $\\text{R}^2$ 為何種官能基？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-28.png\" alt=\"式(3) 化合物甲與乙醇鈉加熱生成奎寧\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "羥基"
+    ],
+    "acceptedBlanks": [
+      [
+        "OH",
+        "-OH",
+        "羥基(-OH)",
+        "羥基(OH)",
+        "氫氧基"
+      ]
+    ],
+    "blankLabels": [
+      "R² 的官能基"
+    ],
+    "explanation": "【先推出 $\\text{R}^1$、$\\text{R}^2$、$\\text{R}^3$】\n• (一) 乙醇鈉是強鹼，與化合物甲中的 $-\\text{CH(Br)}-$ 側鏈加熱，發生脫去 HBr 的消去反應，生成 $\\text{C}=\\text{C}$：$\\text{R}^1$ 為乙烯基 $-\\text{CH}=\\text{CH}_2$（$\\text{C}_2\\text{H}_3$）。\n• (二) 氧化後產物少 2 個 H 且生成酮基，表示 $\\text{R}^2$ 所在碳為二級醇：$\\text{R}^2$ 為羥基 $-\\text{OH}$（$\\text{H}_1\\text{O}_1$）。\n• 剩下 $\\text{C}_3\\text{H}_7\\text{O}_2 - \\text{C}_2\\text{H}_3 - \\text{OH} = \\text{CH}_3\\text{O}$：$\\text{R}^3$ 為甲氧基 $-\\text{OCH}_3$。\n• (三) 加 $\\text{FeCl}_3$ 不呈紫色，證明芳香環上沒有酚羥基，與 $\\text{R}^3 = -\\text{OCH}_3$（而非直接接在苯環上的 $-\\text{OH}$）一致。\n\n答：羥基（$-\\text{OH}$）。（只寫「醇基」僅得部分分數。）"
+  },
+  {
+    "id": "111-ast-chem-non-30",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 28-30 題為題組】人類很早就已經知道奎寧樹皮的萃取物可治療瘧疾，其作用的主要成分是奎寧，別名金雞納霜或金雞納鹼，分子式為 $\\text{C}_{20}\\text{H}_{24}\\text{N}_2\\text{O}_2$，可用於治療與預防瘧疾及治療焦蟲症的藥物。奎寧化學結構如下圖所示，其中 $\\text{R}^1$、$\\text{R}^2$、$\\text{R}^3$ 的結構並未標示出，但小雅由文獻中得知 $\\text{R}^1$、$\\text{R}^2$、$\\text{R}^3$ 的結構共計含有 3 個 C、7 個 H 與 2 個 O，並可由以下實驗鑑定 $\\text{R}^1$、$\\text{R}^2$、$\\text{R}^3$ 所含的官能基。\n（一）奎寧可由化合物甲與乙醇鈉（$\\text{NaOC}_2\\text{H}_5$）加熱而得，如式 (3) 所示。\n（二）若將適當氧化劑與奎寧作用，可產生酮官能基的產物，分子式為 $\\text{C}_{20}\\text{H}_{22}\\text{N}_2\\text{O}_2$。\n（三）若將奎寧加入氯化鐵溶液，此溶液未變為紫色。\n30. 在實驗（三）中為何要加入氯化鐵溶液，其作用為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-chem-28.png\" alt=\"式(3) 化合物甲與乙醇鈉加熱生成奎寧\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "檢驗芳香環上是否有羥基，即檢驗酚是否存在（酚遇 FeCl₃ 呈紫色）。"
+    ],
+    "blankLabels": [
+      "加入氯化鐵溶液的作用"
+    ],
+    "explanation": "【酚的檢驗】\n酚類（羥基直接接在苯環上）遇 $\\text{FeCl}_3$ 溶液會呈紫色，醇類則不會。奎寧加入後不變紫，表示苯環上沒有 $-\\text{OH}$，所以含 O 的 $\\text{R}^3$ 是甲氧基 $-\\text{OCH}_3$。\n\n答：檢驗芳香環上的羥基，也就是檢驗酚是否存在。"
   }
 ]
