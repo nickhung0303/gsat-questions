@@ -56711,5 +56711,387 @@
       "30"
     ],
     "explanation": "以 $A$ 為原點，$\\vec b = \\overrightarrow{AB}$、$\\vec d = \\overrightarrow{AD}$，則 $\\overrightarrow{AC} = \\overrightarrow{AB} + \\overrightarrow{BC} = 2\\vec b + \\vec d$、$\\overrightarrow{BD} = \\vec d - \\vec b$。\n• 等長：$4|\\vec b|^2 + 4\\vec b\\cdot\\vec d + |\\vec d|^2 = |\\vec d|^2 - 2\\vec b\\cdot\\vec d + |\\vec b|^2 \\implies \\vec b\\cdot\\vec d = -\\dfrac{|\\vec b|^2}{2}$。\n• 垂直：$(2\\vec b + \\vec d)\\cdot(\\vec d - \\vec b) = \\vec b\\cdot\\vec d - 2|\\vec b|^2 + |\\vec d|^2 = 0 \\implies |\\vec d|^2 = \\dfrac52|\\vec b|^2$。\n• $\\cos\\angle BAD = \\dfrac{-\\frac12}{\\sqrt{5/2}} = -\\dfrac{1}{\\sqrt{10}}$，$\\sin = \\dfrac{3}{\\sqrt{10}}$，$\\tan\\angle BAD = -3$。"
+  },
+  {
+    "id": "107-gsat-math-01",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "points": 5,
+    "question": "1. 給定相異兩點 $A$、$B$，試問空間中能使 $\\triangle PAB$ 成一正三角形的所有點 $P$ 所成集合為下列哪一選項？",
+    "options": [
+      "兩個點",
+      "一線段",
+      "一直線",
+      "一圓",
+      "一平面"
+    ],
+    "answerIndex": 3,
+    "explanation": "$P$ 到 $A$、$B$ 的距離都等於 $\\overline{AB}$：$P$ 在 $\\overline{AB}$ 的中垂面上，且到中點的距離固定為 $\\dfrac{\\sqrt3}{2}\\overline{AB}$，所以 $P$ 的集合是中垂面上的一個圓。\n\n故選 (D)"
+  },
+  {
+    "id": "107-gsat-math-02",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "points": 5,
+    "question": "2. 一份試卷共有 10 題單選題，每題有 5 個選項，其中只有一個選項是正確答案。假設小明以隨機猜答的方式回答此試卷，且各題猜答方式互不影響。試估計小明全部答對的機率最接近下列哪一選項？",
+    "options": [
+      "$10^{-5}$",
+      "$10^{-6}$",
+      "$10^{-7}$",
+      "$10^{-8}$",
+      "$10^{-9}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "$\\left(\\dfrac15\\right)^{10} = \\dfrac{1}{9765625} \\approx 1.02\\times10^{-7}$（$\\log5^{10} = 6.99$）。\n\n故選 (C)"
+  },
+  {
+    "id": "107-gsat-math-03",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "points": 5,
+    "question": "3. 某公司規定員工可在一星期（七天）當中選擇兩天休假。若甲、乙兩人隨機選擇休假日且兩人的選擇互不相關，試問一星期當中發生兩人在同一天休假的機率為何？",
+    "options": [
+      "$\\dfrac13$",
+      "$\\dfrac{8}{21}$",
+      "$\\dfrac37$",
+      "$\\dfrac{10}{21}$",
+      "$\\dfrac{11}{21}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "乙的兩天都避開甲的兩天：$\\dfrac{C^5_2}{C^7_2} = \\dfrac{10}{21}$。至少同一天：$1 - \\dfrac{10}{21} = \\dfrac{11}{21}$。\n\n故選 (E)"
+  },
+  {
+    "id": "107-gsat-math-04",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "points": 5,
+    "question": "4. 試問有多少個整數 $x$ 滿足 $10^9 < 2^x < 9^{10}$？",
+    "options": [
+      "1 個",
+      "2 個",
+      "3 個",
+      "4 個",
+      "0 個"
+    ],
+    "answerIndex": 1,
+    "explanation": "取對數：$9 < 0.301x < 10\\times0.4771 = 9.542$，$29.9 < x < 31.7$，$x = 30, 31$。\n\n故選 (B)"
+  },
+  {
+    "id": "107-gsat-math-05",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "points": 5,
+    "question": "5. 試問共有幾個角度 $\\theta$ 滿足 $0^\\circ < \\theta < 180^\\circ$，且 $\\cos(3\\theta - 60^\\circ), \\cos3\\theta, \\cos(3\\theta + 60^\\circ)$ 依序成一等差數列？",
+    "options": [
+      "1 個",
+      "2 個",
+      "3 個",
+      "4 個",
+      "5 個"
+    ],
+    "answerIndex": 2,
+    "explanation": "$\\cos(3\\theta - 60^\\circ) + \\cos(3\\theta + 60^\\circ) = 2\\cos3\\theta\\cos60^\\circ = \\cos3\\theta$。等差需等於 $2\\cos3\\theta$，所以 $\\cos3\\theta = 0$。\n$0^\\circ < 3\\theta < 540^\\circ$：$3\\theta = 90^\\circ, 270^\\circ, 450^\\circ$，共 3 個。\n\n故選 (C)"
+  },
+  {
+    "id": "107-gsat-math-06",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "points": 5,
+    "question": "6. 某貨品為避免因成本變動而造成售價波動太過劇烈，當週售價相對於前一週售價的漲跌幅定為當週成本相對於前一週成本的漲跌幅的一半。例如第二週成本上漲 100%，所以第二週售價上漲 50%。已知第一～四週成本依序為 50、100、50、90，售價依序為 120、180、x、y。依此定價方式，試選出正確的選項。",
+    "options": [
+      "120 = x < y < 180",
+      "120 < x < y < 180",
+      "x < 120 < y < 180",
+      "120 = x < 180 < y",
+      "120 < x < 180 < y"
+    ],
+    "answerIndex": 4,
+    "explanation": "• 第三週成本跌 50%，售價跌 25%：$x = 180\\times0.75 = 135$。\n• 第四週成本漲 80%，售價漲 40%：$y = 135\\times1.4 = 189$。\n$120 < 135 < 180 < 189$。\n\n故選 (E)"
+  },
+  {
+    "id": "107-gsat-math-07",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "points": 5,
+    "question": "7. $\\triangle ABC$ 內接於圓心為 $O$ 之單位圓。若 $\\overrightarrow{OA} + \\overrightarrow{OB} + \\sqrt3\\overrightarrow{OC} = \\vec 0$，則 $\\angle BAC$ 之度數為何？",
+    "options": [
+      "$30^\\circ$",
+      "$45^\\circ$",
+      "$60^\\circ$",
+      "$75^\\circ$",
+      "$90^\\circ$"
+    ],
+    "answerIndex": 3,
+    "explanation": "• $|\\overrightarrow{OA} + \\overrightarrow{OB}|^2 = 3 \\implies 2 + 2\\cos\\angle AOB = 3$，$\\angle AOB = 60^\\circ$。\n• $|\\overrightarrow{OB} + \\sqrt3\\overrightarrow{OC}|^2 = 1 \\implies 4 + 2\\sqrt3\\cos\\angle BOC = 1$，$\\cos\\angle BOC = -\\dfrac{\\sqrt3}{2}$，$\\angle BOC = 150^\\circ$。同理 $\\angle AOC = 150^\\circ$。\n• 三個圓心角 $60^\\circ + 150^\\circ + 150^\\circ = 360^\\circ$，$A$ 不在弧 $BC$（$150^\\circ$ 那段）上，$\\angle BAC = \\dfrac{150^\\circ}{2} = 75^\\circ$。\n\n故選 (D)"
+  },
+  {
+    "id": "107-gsat-math-08",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 某年學科能力測驗小華的成績為：國文 11 級分、英文 12 級分、數學 9 級分、自然 9 級分、社會 12 級分。表 1 為大考中心公布的學測各科成績標準；表 2 是他最有興趣的五個校系規定的申請檢定標準，依規定申請者需通過該校系所有檢定標準才會被列入篩選。表 2 空白者表示該校系對該科成績未規定檢定標準。根據以上資訊，試問小華可以考慮申請哪些校系（會被列入篩選）？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/107-gsat-math-08.png\" alt=\"表1 各科頂、前、均、後、底標；表2 甲～戊校系的檢定標準\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲校系",
+      "乙校系",
+      "丙校系",
+      "丁校系",
+      "戊校系"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "由表 1：國文前標 12、均標 10；英文前標 12、均標 9；數學前標 10；自然前標 11、均標 9；社會前標 12、均標 10。\n• 甲：國文均標（11 ✓）、英文前標（12 ✓）、社會均標（12 ✓）→ 可以。\n• 乙：國文前標需 12，小華 11 ✗。\n• 丙：數學或自然達前標，數學 9 < 10、自然 9 < 11 ✗。\n• 丁：國文或英文達前標（英文 12 ✓）、自然均標（9 ✓）、社會均標 ✓ → 可以。\n• 戊：自然前標需 11 ✗。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "107-gsat-math-09",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 已知多項式 $f(x)$ 除以 $x^2 - 1$ 之餘式為 $2x + 1$。試選出正確的選項。",
+    "options": [
+      "$f(0) = 1$",
+      "$f(1) = 3$",
+      "$f(x)$ 可能為一次式",
+      "$f(x)$ 可能為 $4x^4 + 2x^2 - 3$",
+      "$f(x)$ 可能為 $4x^4 + 2x^3 - 3$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "$f(x) = q(x)(x^2 - 1) + 2x + 1$。\n• (A) 錯誤：$f(0) = -q(0) + 1$，不一定。\n• (B) 正確：$f(1) = 3$。\n• (C) 正確：$q = 0$ 時 $f = 2x + 1$。\n• (D) 錯誤：以 $x^2 \\equiv 1$ 代入得餘式 $4 + 2 - 3 = 3$。\n• (E) 正確：$4 + 2x - 3 = 2x + 1$。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "107-gsat-math-10",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 已知坐標平面上 $\\triangle ABC$，其中 $\\overrightarrow{AB} = (-4, 3)$，且 $\\overrightarrow{AC} = \\left(\\dfrac25, \\dfrac45\\right)$。試選出正確的選項。",
+    "options": [
+      "$\\overline{BC} = 5$",
+      "$\\triangle ABC$ 是直角三角形",
+      "$\\triangle ABC$ 的面積為 $\\dfrac{11}{5}$",
+      "$\\sin B > \\sin C$",
+      "$\\cos A > \\cos B$"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "$\\overrightarrow{CB} = \\overrightarrow{AB} - \\overrightarrow{AC} = \\left(-\\dfrac{22}{5}, \\dfrac{11}{5}\\right)$，$\\overline{BC} = \\dfrac{11\\sqrt5}{5}$；$\\overline{AC} = \\dfrac{2\\sqrt5}{5}$。\n• (A) 錯誤。\n• (B) 正確：$\\overrightarrow{CA}\\cdot\\overrightarrow{CB} = \\left(-\\dfrac25\\right)\\left(-\\dfrac{22}{5}\\right) + \\left(-\\dfrac45\\right)\\dfrac{11}{5} = 0$，$\\angle C = 90^\\circ$。\n• (C) 正確：$\\dfrac12\\cdot\\dfrac{2\\sqrt5}{5}\\cdot\\dfrac{11\\sqrt5}{5} = \\dfrac{11}{5}$。\n• (D) 錯誤：$\\sin C = 1$ 最大。\n• (E) 錯誤：$\\overline{BC} > \\overline{AC}$，$A > B$，$\\cos A < \\cos B$。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "107-gsat-math-11",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 坐標空間中，設直線 $L: \\dfrac{x - 1}{2} = \\dfrac{y - 2}{-3} = \\dfrac{z}{-1}$，平面 $E_1: 2x - 3y - z = 0$，平面 $E_2: x + y - z = 0$。試選出正確的選項。",
+    "options": [
+      "點 $(3, 0, -1)$ 在直線 $L$ 上",
+      "點 $(1, 2, 3)$ 在平面 $E_1$ 上",
+      "直線 $L$ 與平面 $E_1$ 垂直",
+      "直線 $L$ 在平面 $E_2$ 上",
+      "平面 $E_1$ 與 $E_2$ 交於一直線"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "$L$ 過 $(1, 2, 0)$、方向 $(2, -3, -1)$。\n• (A) 錯誤：$t = 1$ 時為 $(3, -1, -1)$。\n• (B) 錯誤：$2 - 6 - 3 \\ne 0$。\n• (C) 正確：方向與 $E_1$ 的法向量相同。\n• (D) 錯誤：$(2, -3, -1)\\cdot(1, 1, -1) = 0$，$L \\parallel E_2$，但 $(1, 2, 0)$ 代入 $1 + 2 - 0 \\ne 0$，不在平面上。\n• (E) 正確：兩法向量不平行。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "107-gsat-math-12",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 試問下列哪些選項中的二次曲線，其焦點（之一）是拋物線 $y^2 = 2x$ 的焦點？",
+    "options": [
+      "$y = \\left(x - \\dfrac12\\right)^2 - \\dfrac14$",
+      "$\\dfrac{x^2}{4} + \\dfrac{y^2}{3} = 1$",
+      "$x^2 + \\dfrac{4y^2}{3} = 1$",
+      "$8x^2 - 8y^2 = 1$",
+      "$4x^2 - 4y^2 = 1$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "$y^2 = 2x = 4\\cdot\\dfrac12x$，焦點 $\\left(\\dfrac12, 0\\right)$。\n• (A) 頂點 $\\left(\\dfrac12, -\\dfrac14\\right)$，$\\left(x - \\dfrac12\\right)^2 = y + \\dfrac14 = 4\\cdot\\dfrac14\\left(y + \\dfrac14\\right)$，焦點 $\\left(\\dfrac12, 0\\right)$ ✓\n• (B) $c^2 = 4 - 3 = 1$，焦點 $(\\pm1, 0)$。\n• (C) $a^2 = 1$、$b^2 = \\dfrac34$，$c^2 = \\dfrac14$，焦點 $\\left(\\pm\\dfrac12, 0\\right)$ ✓\n• (D) $\\dfrac{x^2}{1/8} - \\dfrac{y^2}{1/8} = 1$，$c^2 = \\dfrac14$ ✓\n• (E) $c^2 = \\dfrac12$，焦點 $\\left(\\pm\\dfrac{\\sqrt2}{2}, 0\\right)$。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "107-gsat-math-A",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 已知坐標平面上三點 $(3, \\log3)$、$(6, \\log6)$ 與 $(12, y)$ 在同一直線上，則 $y = \\log$ ⑬⑭。",
+    "blanks": [
+      "2",
+      "4"
+    ],
+    "blankLabels": [
+      "13",
+      "14"
+    ],
+    "explanation": "斜率相等：$\\dfrac{\\log6 - \\log3}{3} = \\dfrac{y - \\log6}{6}$，$y = \\log6 + 2\\log2 = \\log24$。"
+  },
+  {
+    "id": "107-gsat-math-B",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 如右圖所示（只是示意圖），將梯子 $\\overline{AB}$ 靠在與地面垂直的牆 $AC$ 上，測得與水平地面的夾角 $\\angle ABC$ 為 $60^\\circ$。將在地面上的底 $B$ 沿著地面向外拉 51 公分到點 $F$（即 $\\overline{FB} = 51$ 公分），此時梯子 $\\overline{EF}$ 與地面的夾角 $\\angle EFC$ 之正弦值為 $\\sin\\angle EFC = 0.6$，則梯子長 $\\overline{AB} =$ ⑮⑯⑰ 公分。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/107-gsat-math-B.png\" alt=\"梯子 AB 靠牆、底端拉到 F 後為 EF\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "1",
+      "7",
+      "0"
+    ],
+    "blankLabels": [
+      "15",
+      "16",
+      "17"
+    ],
+    "explanation": "設梯長 $L$：$\\overline{BC} = L\\cos60^\\circ = \\dfrac L2$；$\\cos\\angle EFC = 0.8$，$\\overline{FC} = 0.8L$。\n$0.8L - 0.5L = 51$，$L = 170$ 公分。"
+  },
+  {
+    "id": "107-gsat-math-C",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 平面上兩點 $A$、$B$ 之距離為 5，以 $A$ 為圓心作一半徑為 $r$（$0 < r < 5$）的圓 $\\Gamma$，過 $B$ 作圓 $\\Gamma$ 的切線，切點（之一）為 $P$。當 $r$ 變動時，$\\triangle PAB$ 的面積最大可能值為 $\\dfrac{⑱⑲}{⑳}$。（化成最簡分數）",
+    "blanks": [
+      "2",
+      "5",
+      "4"
+    ],
+    "blankLabels": [
+      "18",
+      "19",
+      "20"
+    ],
+    "explanation": "$\\overline{AP} \\perp \\overline{BP}$，面積 $= \\dfrac12r\\sqrt{25 - r^2} = \\dfrac12\\sqrt{r^2(25 - r^2)} \\le \\dfrac12\\cdot\\dfrac{25}{2} = \\dfrac{25}{4}$（$r^2 = \\dfrac{25}{2}$ 時）。"
+  },
+  {
+    "id": "107-gsat-math-D",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "D. 坐標平面上，圓 $\\Gamma$ 完全落在四個不等式：$x - y \\le 4$、$x + y \\le 18$、$x - y \\ge -2$、$x + y \\ge -24$ 所圍成的區域內。則 $\\Gamma$ 最大可能面積為 $\\dfrac{㉑}{㉒}\\pi$。（化成最簡分數）",
+    "blanks": [
+      "9",
+      "2"
+    ],
+    "blankLabels": [
+      "21",
+      "22"
+    ],
+    "explanation": "區域是長方形：$-2 \\le x - y \\le 4$ 的寬為 $\\dfrac{6}{\\sqrt2} = 3\\sqrt2$，$-24 \\le x + y \\le 18$ 的寬為 $\\dfrac{42}{\\sqrt2}$。圓的直徑最大 $3\\sqrt2$，半徑 $\\dfrac{3\\sqrt2}{2}$，面積 $\\dfrac92\\pi$。"
+  },
+  {
+    "id": "107-gsat-math-E",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "E. 坐標平面上，若拋物線 $y = x^2 + 2x - 3$ 的頂點為 $C$，與 $x$ 軸的交點為 $A$、$B$，則 $\\cos\\angle ACB = \\dfrac{㉓}{㉔}$。（化成最簡分數）",
+    "blanks": [
+      "3",
+      "5"
+    ],
+    "blankLabels": [
+      "23",
+      "24"
+    ],
+    "explanation": "$A(-3, 0)$、$B(1, 0)$、$C(-1, -4)$。$\\overrightarrow{CA} = (-2, 4)$、$\\overrightarrow{CB} = (2, 4)$：\n$$\\cos\\angle ACB = \\frac{-4 + 16}{\\sqrt{20}\\sqrt{20}} = \\frac35$$"
+  },
+  {
+    "id": "107-gsat-math-F",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "F. 設 $a, b, c, d, e, x, y, z$ 皆為實數，考慮矩陣相乘：$\\begin{bmatrix} a & b \\\\ c & d \\\\ 1 & 2 \\end{bmatrix}\\begin{bmatrix} -3 & 5 & 7 \\\\ -4 & 6 & e \\end{bmatrix} = \\begin{bmatrix} 3 & x & 7 \\\\ 0 & y & 7 \\\\ -11 & z & 23 \\end{bmatrix}$，則 $y = \\dfrac{㉕}{㉖}$。（化成最簡分數）",
+    "blanks": [
+      "7",
+      "2"
+    ],
+    "blankLabels": [
+      "25",
+      "26"
+    ],
+    "explanation": "• 第三列：$7 + 2e = 23$，$e = 8$。\n• 第二列：$-3c - 4d = 0$、$7c + 8d = 7$，解得 $c = 7$、$d = -\\dfrac{21}{4}$。\n• $y = 5c + 6d = 35 - \\dfrac{63}{2} = \\dfrac72$。"
+  },
+  {
+    "id": "107-gsat-math-G",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "G. 設 $D$ 為 $\\triangle ABC$ 中 $\\overline{BC}$ 邊上的一點，已知 $\\angle ABC = 75^\\circ$、$\\angle ACB = 45^\\circ$、$\\angle ADB = 60^\\circ$。若 $\\overrightarrow{AD} = s\\overrightarrow{AB} + t\\overrightarrow{AC}$，則 $s = \\dfrac{㉗}{㉘}$，$t = \\dfrac{㉙}{㉚}$。（化成最簡分數）",
+    "blanks": [
+      "1",
+      "3",
+      "2",
+      "3"
+    ],
+    "blankLabels": [
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "explanation": "$\\angle BAC = 60^\\circ$；$\\triangle ABD$ 中 $\\angle BAD = 180^\\circ - 75^\\circ - 60^\\circ = 45^\\circ$，$\\angle DAC = 15^\\circ$。\n$$\\frac{\\overline{BD}}{\\overline{DC}} = \\frac{\\overline{AB}\\sin45^\\circ}{\\overline{AC}\\sin15^\\circ} = \\frac{\\sin45^\\circ}{\\sin75^\\circ}\\cdot\\frac{\\sin45^\\circ}{\\sin15^\\circ} = \\frac{1/2}{\\sin75^\\circ\\sin15^\\circ} = \\frac{1/2}{1/4} = 2$$\n$\\overline{BD} : \\overline{DC} = 2 : 1$，$\\overrightarrow{AD} = \\dfrac13\\overrightarrow{AB} + \\dfrac23\\overrightarrow{AC}$。"
+  },
+  {
+    "id": "107-gsat-math-H",
+    "examType": "學測",
+    "year": 107,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "H. 將一塊邊長 $\\overline{AB} = 15$ 公分、$\\overline{BC} = 20$ 公分的長方形鐵片 $ABCD$ 沿對角線 $\\overline{BD}$ 對摺後豎立，使得平面 $ABD$ 與平面 $CBD$ 垂直，則 $A$、$C$ 兩點（在空間）的距離 $\\overline{AC} = \\sqrt{㉛㉜㉝}$ 公分。（化成最簡根式）",
+    "blanks": [
+      "3",
+      "3",
+      "7"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33"
+    ],
+    "explanation": "$\\overline{BD} = 25$。$A$ 到 $\\overline{BD}$ 的距離 $\\dfrac{15\\cdot20}{25} = 12$，垂足距 $B$ 為 $\\dfrac{15^2}{25} = 9$；$C$ 到 $\\overline{BD}$ 的距離也是 12，垂足距 $B$ 為 $\\dfrac{20^2}{25} = 16$。\n兩面垂直，兩條垂線互相垂直且都垂直於 $BD$：\n$$\\overline{AC}^2 = 12^2 + 12^2 + (16 - 9)^2 = 337$$"
   }
 ]
