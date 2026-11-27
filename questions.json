@@ -54008,5 +54008,386 @@
       "高"
     ],
     "explanation": "【截角四面體 $ABCD$】$A$ 是長方體的頂點，$\\overline{AB}$、$\\overline{AC}$、$\\overline{AD}$ 沿三條互相垂直的稜，所以 $\\angle BAC = \\angle CAD = \\angle DAB = 90^\\circ$。\n設 $\\overline{AD} = x$、$\\overline{AB} = y$、$\\overline{AC} = z$：$x^2 + y^2 = 81$、$x^2 + z^2 = 81$、$y^2 + z^2 = 64$，得 $y = z = 4\\sqrt2$、$x = 7$。\n• 體積：以 $\\triangle ABC$（兩股 $4\\sqrt2$ 的直角三角形）為底、$\\overline{AD} = 7$ 為高：\n$$V = \\frac13\\cdot\\left(\\frac12\\cdot4\\sqrt2\\cdot4\\sqrt2\\right)\\cdot7 = \\frac{112}{3}$$\n• 以 $\\triangle BCD$ 為底：$\\dfrac13\\cdot4\\sqrt{65}\\cdot h = \\dfrac{112}{3}$，$h = \\dfrac{28}{\\sqrt{65}} = \\dfrac{28\\sqrt{65}}{65}$。"
+  },
+  {
+    "id": "112-gsat-mathA-01",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "points": 5,
+    "question": "1. 若在計算器中鍵入某正整數 $N$，接著連按「$\\sqrt{\\ }$」鍵（取正平方根）3 次，視窗顯示得到答案為 2，則 $N$ 等於下列哪一個選項？",
+    "options": [
+      "$2^3$",
+      "$2^4$",
+      "$2^6$",
+      "$2^8$",
+      "$2^{12}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "開平方 3 次即 $N^{1/8} = 2$，$N = 2^8$。\n\n故選 (D)"
+  },
+  {
+    "id": "112-gsat-mathA-02",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "points": 5,
+    "question": "2. 坐標平面上，以原點 $O$ 為圓心、1 為半徑作圓，分別交坐標軸正向於 $A$、$B$ 兩點。在第一象限的圓弧上取一點 $C$ 作圓的切線分別交兩軸於點 $D$、$E$，如圖所示。令 $\\angle OEC = \\theta$，試選出為 $\\tan\\theta$ 的選項。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-gsat-mathA-02.png\" alt=\"單位圓第一象限弧上一點 C 的切線交 x 軸於 D、y 軸於 E，∠OEC = θ\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\overline{OE}$",
+      "$\\overline{OC}$",
+      "$\\overline{OD}$",
+      "$\\overline{CE}$",
+      "$\\overline{CD}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "切線垂直半徑：$\\overline{OC} \\perp \\overline{DE}$。\n$\\triangle ODE$ 中 $\\angle E = \\theta$，所以 $\\angle ODE = 90^\\circ - \\theta$，在直角 $\\triangle OCD$ 中 $\\angle COD = \\theta$：\n$$\\tan\\theta = \\frac{\\overline{CD}}{\\overline{OC}} = \\overline{CD}$$\n\n故選 (E)"
+  },
+  {
+    "id": "112-gsat-mathA-03",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "points": 5,
+    "question": "3. 某生推導出兩物理量 $s, t$ 應滿足一等式。為了驗證其理論，他做了實驗得到 15 筆兩物理量的數據 $(s_k, t_k)$，$k = 1, \\ldots, 15$。老師建議他將其中的 $t_k$ 先取對數，在坐標平面上標出對應的點 $(s_k, \\log t_k)$，如圖所示；其中第一個數據為橫軸坐標，第二個數據為縱軸坐標。利用迴歸直線分析，某生印證了其理論。試問該生所得 $s, t$ 的關係式最可能為下列哪一選項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-gsat-mathA-03.png\" alt=\"散布圖：點 (s, log t) 大致沿通過原點、斜率約 1/2 的直線分布\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$s = 2t$",
+      "$s = 3t$",
+      "$t = 10^s$",
+      "$t^2 = 10^s$",
+      "$t^3 = 10^s$"
+    ],
+    "answerIndex": 3,
+    "explanation": "圖中的點大致落在通過原點、斜率約 $\\dfrac12$ 的直線上（例如 $s = 1$ 時 $\\log t \\approx 0.5$、$s = -1$ 時約 $-0.45$）：\n$$\\log t = \\frac s2 \\implies 2\\log t = s \\implies t^2 = 10^s$$\n\n故選 (D)"
+  },
+  {
+    "id": "112-gsat-mathA-04",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "points": 5,
+    "question": "4. 將數字 1、2、3、…、9 等 9 個數字排成九位數（數字不得重複），使得前 5 位從左至右遞增、且後 5 位從左至右遞減。試問共有幾個滿足條件的九位數？",
+    "options": [
+      "$\\dfrac{8!}{4!4!}$",
+      "$\\dfrac{8!}{5!3!}$",
+      "$\\dfrac{9!}{5!4!}$",
+      "$\\dfrac{8!}{5!}$",
+      "$\\dfrac{9!}{5!}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "第 5 位同時是前段遞增的最大與後段遞減的最大，必為 9。\n其餘 8 個數字選 4 個放前 4 位（由小到大排，方式唯一），剩下 4 個放後 4 位（由大到小排）：\n$$C^8_4 = \\frac{8!}{4!4!}$$\n\n故選 (A)"
+  },
+  {
+    "id": "112-gsat-mathA-05",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "points": 5,
+    "question": "5. 已知坐標空間中 $P$、$Q$、$R$ 為平面 $2x - 3y + 5z = \\sqrt7$ 上不共線三點。令 $\\overrightarrow{PQ} = (a_1, b_1, c_1)$，$\\overrightarrow{PR} = (a_2, b_2, c_2)$。試選出下列行列式中<u>絕對值</u>為最大的選項。（各選項為三階行列式，第二、三列分別為 $(a_1, b_1, c_1)$、$(a_2, b_2, c_2)$，第一列依序為下列向量）",
+    "options": [
+      "(−1, 1, 1)",
+      "(1, −1, 1)",
+      "(1, 1, −1)",
+      "(−1, −1, 1)",
+      "(−1, −1, −1)"
+    ],
+    "answerIndex": 1,
+    "explanation": "行列式 $= \\vec u\\cdot(\\overrightarrow{PQ}\\times\\overrightarrow{PR})$，而 $\\overrightarrow{PQ}\\times\\overrightarrow{PR}$ 平行於平面的法向量 $(2, -3, 5)$，所以只要比較 $|\\vec u\\cdot(2, -3, 5)|$：\n(A) $-2 - 3 + 5 = 0$；(B) $2 + 3 + 5 = 10$；(C) $2 - 3 - 5 = -6$；(D) $-2 + 3 + 5 = 6$；(E) $-2 + 3 - 5 = -4$。\n\n故選 (B)"
+  },
+  {
+    "id": "112-gsat-mathA-06",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "points": 5,
+    "question": "6. 坐標空間中，考慮邊長為 1 的正立方體，固定一頂點 $O$。從 $O$ 以外的七個頂點隨機選取相異兩點，設此兩點為 $P$、$Q$，試問所得的內積 $\\overrightarrow{OP}\\cdot\\overrightarrow{OQ}$ 之期望值為下列哪一個選項？",
+    "options": [
+      "$\\dfrac47$",
+      "$\\dfrac57$",
+      "$\\dfrac67$",
+      "1",
+      "$\\dfrac87$"
+    ],
+    "answerIndex": 2,
+    "explanation": "七個頂點：3 個 $(1,0,0)$ 型、3 個 $(1,1,0)$ 型、1 個 $(1,1,1)$。\n所有兩兩內積之和 $= \\dfrac{|\\sum\\vec v|^2 - \\sum|\\vec v|^2}{2}$：\n$\\sum\\vec v = (4, 4, 4)$，$|\\sum\\vec v|^2 = 48$；$\\sum|\\vec v|^2 = 3 + 6 + 3 = 12$。\n和 $= 18$，共 $C^7_2 = 21$ 組，期望值 $\\dfrac{18}{21} = \\dfrac67$。\n\n故選 (C)"
+  },
+  {
+    "id": "112-gsat-mathA-07",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "type": "multiple",
+    "points": 5,
+    "question": "7. 某公司有甲、乙兩新進員工，兩人同時間入職且起薪相同。公司承諾給甲、乙兩員工調薪的方式如下：甲：工作滿 3 個月，下個月開始月薪增加 200 元；以後再每滿 3 個月皆依此方式調薪。乙：工作滿 12 個月，下個月開始月薪增加 1000 元；以後再每滿 12 個月皆依此方式調薪。根據以上敘述，試選出正確的選項。",
+    "options": [
+      "甲工作滿 8 個月後，第 9 個月的月薪比第 1 個月的月薪增加 600 元",
+      "工作滿一年後，第 13 個月甲的月薪比乙的月薪高",
+      "工作滿 18 個月後，第 19 個月甲的月薪比乙的月薪高",
+      "工作滿 18 個月時，甲總共領到的薪水比乙總共領到的薪水少",
+      "工作滿兩年後，在第 3 年的 12 個月中，恰有 3 個月甲的月薪比乙的月薪高"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "第 $m$ 個月的加薪：甲 $200\\left\\lfloor\\dfrac{m-1}{3}\\right\\rfloor$，乙 $1000\\left\\lfloor\\dfrac{m-1}{12}\\right\\rfloor$。\n• (A) 錯誤：第 9 個月甲 $+400$。\n• (B) 錯誤：第 13 個月甲 $+800$、乙 $+1000$。\n• (C) 正確：第 19 個月甲 $+1200$、乙 $+1000$。\n• (D) 錯誤：前 18 個月甲多領 $3(0 + 200 + 400 + 600 + 800 + 1000) = 9000$，乙多領 $6\\times1000 = 6000$，甲較多。\n• (E) 正確：第 25～36 個月乙 $+2000$；甲依序 $+1600$、$+1800$、$+2000$、$+2200$（各 3 個月），只有第 34～36 個月甲較高。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "112-gsat-mathA-08",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 某抽獎遊戲單次中獎機率為 0.1，每次中獎與否皆為獨立事件。對每一正整數 $n$，令 $p_n$ 為玩此遊戲 $n$ 次至少中獎 1 次的機率。試選出正確的選項。",
+    "options": [
+      "$p_{n+1} > p_n$",
+      "$p_3 = 0.3$",
+      "$\\langle p_n\\rangle$ 為等差數列",
+      "玩此遊戲兩次以上，第一次未中獎且第二次中獎的機率等於 $p_2 - p_1$",
+      "玩此遊戲 $n$ 次且 $n \\ge 2$ 時，至少中獎 2 次的機率等於 $2p_n$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "$p_n = 1 - 0.9^n$。\n• (A) 正確：$0.9^n$ 遞減。\n• (B) 錯誤：$p_3 = 1 - 0.729 = 0.271$。\n• (C) 錯誤：差 $0.9^n\\times0.1$ 不是常數。\n• (D) 正確：$0.9\\times0.1 = 0.09 = (1 - 0.81) - 0.1$。\n• (E) 錯誤：$n = 2$ 時至少中 2 次的機率 0.01，而 $2p_2 = 0.38$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "112-gsat-mathA-09",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 設 $a_1, a_2, a_3, \\ldots, a_n$ 是首項為 3 且公比為 $3\\sqrt3$ 的等比數列。試選出滿足不等式 $\\log_3 a_1 - \\log_3 a_2 + \\log_3 a_3 - \\log_3 a_4 + \\cdots + (-1)^{n+1}\\log_3 a_n > 18$ 的項數 $n$ 之可能選項。",
+    "options": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "$a_k = 3\\cdot3^{1.5(k-1)}$，$\\log_3a_k = 1.5k - 0.5$，相鄰兩項差 1.5。\n• $n$ 為偶數：每一對 $(\\text{奇項} - \\text{偶項}) = -1.5$，總和為負，不合。\n• $n = 2m + 1$：前 $2m$ 項和 $-1.5m$，加上最後一項 $1.5(2m + 1) - 0.5 = 3m + 1$，和 $= 1.5m + 1 > 18 \\implies m > \\dfrac{34}{3}$，$m \\ge 12$，$n \\ge 25$。\n選項中 25、27 符合。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "112-gsat-mathA-10",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 考慮坐標平面上的直線 $L: 5y + (2k - 4)x - 10k = 0$（其中 $k$ 為一實數），以及長方形 $OABC$，其頂點坐標為 $O(0,0)$、$A(10,0)$、$B(10,6)$、$C(0,6)$。設 $L$ 分別交直線 $OC$、直線 $AB$ 於點 $D$、$E$。試選出正確的選項。",
+    "options": [
+      "當 $k = 4$ 時，直線 $L$ 通過點 $A$",
+      "若直線 $L$ 通過點 $C$，則 $L$ 的斜率為 $-\\dfrac52$",
+      "若點 $D$ 在線段 $\\overline{OC}$ 上，則 $0 \\le k \\le 3$",
+      "若 $k = \\dfrac12$，則線段 $\\overline{DE}$ 在長方形 $OABC$ 內部（含邊界）",
+      "若線段 $\\overline{DE}$ 在長方形 $OABC$ 內部（含邊界），則 $L$ 的斜率可能為 $\\dfrac{3}{10}$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "$L$ 的斜率 $\\dfrac{4 - 2k}{5}$；$D = (0, 2k)$，$E = (10, 8 - 2k)$。\n• (A) 正確：$k = 4$ 時 $E = (10, 0) = A$。\n• (B) 錯誤：$2k = 6$，$k = 3$，斜率 $-\\dfrac25$。\n• (C) 正確：$0 \\le 2k \\le 6$。\n• (D) 錯誤：$k = \\dfrac12$ 時 $E = (10, 7)$，超出長方形。\n• (E) 正確：斜率 $\\dfrac{3}{10}$ 時 $k = \\dfrac54$，$D = (0, 2.5)$、$E = (10, 5.5)$，都在邊界上，線段在長方形內。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "112-gsat-mathA-11",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 坐標平面上，設 $A$、$B$ 分別表示以原點為中心，順時針、逆時針旋轉 $90^\\circ$ 的旋轉矩陣。設 $C$、$D$ 分別表示以直線 $x = y$、$x = -y$ 為鏡射軸的鏡射矩陣。試選出正確的選項。",
+    "options": [
+      "$A$、$C$ 將點 $(1, 0)$ 映射到同一點",
+      "$A = -B$",
+      "$C = D^{-1}$",
+      "$AB = CD$",
+      "$AC = BD$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "$A = \\begin{bmatrix} 0 & 1 \\\\ -1 & 0 \\end{bmatrix}$、$B = \\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}$、$C = \\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}$、$D = \\begin{bmatrix} 0 & -1 \\\\ -1 & 0 \\end{bmatrix}$。\n• (A) 錯誤：$A(1,0) = (0,-1)$，$C(1,0) = (0,1)$。\n• (B) 正確。\n• (C) 錯誤：$D^{-1} = D \\ne C$。\n• (D) 錯誤：$AB = I$，$CD = -I$。\n• (E) 正確：$AC = BD = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}$（都是對 $x$ 軸鏡射）。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "112-gsat-mathA-12",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 令 $f(x) = \\sin x + \\sqrt3\\cos x$，試選出正確的選項。",
+    "options": [
+      "鉛直線 $x = \\dfrac{\\pi}{6}$ 為 $y = f(x)$ 圖形的對稱軸",
+      "若鉛直線 $x = a$ 和 $x = b$ 均為 $y = f(x)$ 圖形的對稱軸，則 $f(a) = f(b)$",
+      "在區間 $[0, 2\\pi)$ 中僅有一個實數 $x$ 滿足 $f(x) = \\sqrt3$",
+      "在區間 $[0, 2\\pi)$ 中滿足 $f(x) = \\dfrac12$ 的所有實數 $x$ 之和不超過 $2\\pi$",
+      "$y = f(x)$ 的圖形可由 $y = 4\\sin^2\\dfrac x2$ 的圖形經適當（左右、上下）平移得到"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "$f(x) = 2\\sin\\left(x + \\dfrac\\pi3\\right) = 2\\cos\\left(x - \\dfrac\\pi6\\right)$。\n• (A) 正確：$x = \\dfrac\\pi6$ 時取最大值 2，是對稱軸。\n• (B) 錯誤：對稱軸在最大值處（$\\dfrac\\pi6 + 2k\\pi$）與最小值處（$\\dfrac{7\\pi}{6} + 2k\\pi$），函數值 2 與 $-2$ 不同。\n• (C) 錯誤：$\\sin\\left(x + \\dfrac\\pi3\\right) = \\dfrac{\\sqrt3}{2}$，$x = 0$ 或 $\\dfrac\\pi3$，有 2 個。\n• (D) 錯誤：$u = x + \\dfrac\\pi3 \\in \\left[\\dfrac\\pi3, \\dfrac{7\\pi}{3}\\right)$，$\\sin u = \\dfrac14$ 的解為 $\\pi - \\alpha$ 與 $2\\pi + \\alpha$（$\\alpha = \\sin^{-1}\\dfrac14$），$x$ 的和 $= 3\\pi - \\dfrac{2\\pi}{3} = \\dfrac{7\\pi}{3} > 2\\pi$。\n• (E) 正確：$4\\sin^2\\dfrac x2 = 2 - 2\\cos x = 2 + 2\\cos(x - \\pi)$，向下平移 2、再向左平移 $\\dfrac{5\\pi}{6}$ 即得 $2\\cos\\left(x - \\dfrac\\pi6\\right)$。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "112-gsat-mathA-13",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 5,
+    "question": "13. 某間新開幕飲料專賣店推出果汁、奶茶、咖啡三種飲料，前 3 天各種飲料的銷售數量（單位：杯）與收入總金額（單位：元）如下：第 1 天果汁 60、奶茶 80、咖啡 50，收入 12900；第 2 天 30、40、30，收入 6850；第 3 天 50、70、40，收入 10800。已知同一種飲料每天的售價皆相同，則咖啡每杯的售價為 ⑬-1 ⑬-2 元。",
+    "blanks": [
+      "8",
+      "0"
+    ],
+    "blankLabels": [
+      "13-1",
+      "13-2"
+    ],
+    "explanation": "第 2 天 × 2：$60j + 80m + 60c = 13700$，減去第 1 天：$10c = 800$，$c = 80$ 元。"
+  },
+  {
+    "id": "112-gsat-mathA-14",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 5,
+    "question": "14. 設 $a, b$ 為實數（其中 $a > 0$），若多項式 $ax^2 + (2a + b)x - 12$ 除以 $x^2 + (2 - a)x - 2a$ 所得餘式為 6，則數對 $(a, b) =$（⑭-1，⑭-2 ⑭-3）。",
+    "blanks": [
+      "3",
+      "-",
+      "9"
+    ],
+    "blankLabels": [
+      "14-1",
+      "14-2",
+      "14-3"
+    ],
+    "explanation": "除式 $= (x + 2)(x - a)$。令 $f(x) = ax^2 + (2a + b)x - 12$，餘式 6 表示 $f(-2) = f(a) = 6$：\n• $f(-2) = 4a - 4a - 2b - 12 = -2b - 12 = 6 \\implies b = -9$。\n• $f(a) = a^3 + 2a^2 - 9a - 12 = 6 \\implies (a + 2)(a^2 - 9) = 0$，$a > 0$ 得 $a = 3$。\n$(a, b) = (3, -9)$。"
+  },
+  {
+    "id": "112-gsat-mathA-15",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 5,
+    "question": "15. 設 $O$、$A$、$B$ 為坐標平面上不共線三點，其中向量 $\\overrightarrow{OA}$ 垂直 $\\overrightarrow{OB}$。若 $C$、$D$ 兩點在直線 $AB$ 上，滿足 $\\overrightarrow{OC} = \\dfrac35\\overrightarrow{OA} + \\dfrac25\\overrightarrow{OB}$、$3\\overline{AD} = 8\\overline{BD}$，且 $\\overrightarrow{OC}$ 垂直 $\\overrightarrow{OD}$，則 $\\dfrac{\\overline{OB}}{\\overline{OA}} = \\dfrac{⑮\\text{-}1}{⑮\\text{-}2}$。（化為最簡分數）",
+    "blanks": [
+      "3",
+      "4"
+    ],
+    "blankLabels": [
+      "15-1",
+      "15-2"
+    ],
+    "explanation": "設 $A = (a, 0)$、$B = (0, b)$，$C = \\left(\\dfrac{3a}{5}, \\dfrac{2b}{5}\\right)$。$\\overline{AD} : \\overline{BD} = 8 : 3$：\n• $D$ 在 $\\overline{AB}$ 內：$D = \\left(\\dfrac{3a}{11}, \\dfrac{8b}{11}\\right)$，$\\overrightarrow{OC}\\cdot\\overrightarrow{OD} > 0$，不合。\n• $D$ 在 $B$ 外側：$D = \\overrightarrow{OA} + \\dfrac85(\\overrightarrow{OB} - \\overrightarrow{OA}) = \\left(-\\dfrac{3a}{5}, \\dfrac{8b}{5}\\right)$，\n$\\overrightarrow{OC}\\cdot\\overrightarrow{OD} = -\\dfrac{9a^2}{25} + \\dfrac{16b^2}{25} = 0 \\implies \\dfrac ba = \\dfrac34$。"
+  },
+  {
+    "id": "112-gsat-mathA-16",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 5,
+    "question": "16. 令 $E: x + z = 2$ 為坐標空間中過三點 $A(2, -1, 0)$、$B(0, 1, 2)$、$C(-2, 1, 4)$ 的平面。另有一點 $P$ 在平面 $z = 1$ 上且其於 $E$ 之投影點與 $A$、$B$、$C$ 三點等距離。則點 $P$ 與平面 $E$ 的距離為 ⑯-1 $\\sqrt{⑯\\text{-}2}$。（化為最簡根式）",
+    "blanks": [
+      "2",
+      "2"
+    ],
+    "blankLabels": [
+      "16-1",
+      "16-2"
+    ],
+    "explanation": "投影點是 $\\triangle ABC$ 的外心 $M = (x, y, 2 - x)$：\n• $|MB| = |MC|$：$2x^2 + (y - 1)^2 = 2(x + 2)^2 + (y - 1)^2 \\implies x = -1$。\n• $|MA| = |MB|$：$2(x - 2)^2 + (y + 1)^2 = 2x^2 + (y - 1)^2 \\implies 18 + (y + 1)^2 = 2 + (y - 1)^2 \\implies y = -4$。\n$M = (-1, -4, 3)$。$P = M + t(1, 0, 1)$，$z = 3 + t = 1$，$t = -2$，$P = (-3, -4, 1)$。\n距離 $= |t|\\sqrt2 = 2\\sqrt2$。"
+  },
+  {
+    "id": "112-gsat-mathA-17",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 5,
+    "question": "17. 坐標空間中有兩不相交直線 $L_1: \\begin{cases} x = 1 + t \\\\ y = 1 - t \\\\ z = 2 + t \\end{cases}$（$t$ 為實數）、$L_2: \\begin{cases} x = 2 + 2s \\\\ y = 5 + s \\\\ z = 6 - s \\end{cases}$（$s$ 為實數），另一直線 $L_3$ 與 $L_1$、$L_2$ 皆相交且垂直。若 $P$、$Q$ 兩點分別在 $L_1$、$L_2$ 上且與 $L_3$ 之距離皆為 3，則 $P$、$Q$ 兩點的距離為 ⑰-1 $\\sqrt{⑰\\text{-}2}$。（化為最簡根式）",
+    "blanks": [
+      "5",
+      "2"
+    ],
+    "blankLabels": [
+      "17-1",
+      "17-2"
+    ],
+    "explanation": "方向 $\\vec d_1 = (1, -1, 1)$、$\\vec d_2 = (2, 1, -1)$，$\\vec d_1\\cdot\\vec d_2 = 0$，互相垂直；公垂線方向 $\\vec d_1\\times\\vec d_2 = (0, 3, 3) \\parallel (0, 1, 1)$。\n• 兩線距離 $h = \\dfrac{|(1, 4, 4)\\cdot(0, 1, 1)|}{\\sqrt2} = 4\\sqrt2$。\n• 設公垂線與 $L_1$、$L_2$ 的交點為 $F_1$、$F_2$。$P$ 在 $L_1$ 上，$\\overline{PF_1} = 3$；$Q$ 在 $L_2$ 上，$\\overline{QF_2} = 3$。$\\overrightarrow{F_1P}$、$\\overrightarrow{F_2Q}$、$\\overrightarrow{F_1F_2}$ 兩兩垂直：\n$$\\overline{PQ}^2 = h^2 + 3^2 + 3^2 = 32 + 18 = 50 \\implies \\overline{PQ} = 5\\sqrt2$$"
+  },
+  {
+    "id": "112-gsat-mathA-18",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "points": 3,
+    "question": "【第 18-20 題為題組】坐標平面上 $O$ 為原點，給定 $A(1, 0)$、$B(-2, 0)$ 兩點。另有兩點 $P$、$Q$ 在上半平面，且滿足 $\\overline{AP} = \\overline{OA}$、$\\overline{BQ} = \\overline{OB}$、$\\angle POQ$ 為直角，如圖所示。令 $\\angle AOP = \\theta$。\n18. 線段 $\\overline{OP}$ 長為下列哪一選項？（單選題，3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-gsat-mathA-18.png\" alt=\"四邊形 PABQ：B、O、A 在 x 軸上，P、Q 在上方，∠POQ 為直角\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\sin\\theta$",
+      "$\\cos\\theta$",
+      "$2\\sin\\theta$",
+      "$2\\cos\\theta$",
+      "$\\cos2\\theta$"
+    ],
+    "answerIndex": 3,
+    "explanation": "$\\triangle AOP$ 中 $\\overline{AO} = \\overline{AP} = 1$，為等腰三角形，底角 $\\angle AOP = \\angle APO = \\theta$，底邊 $\\overline{OP} = 2\\cdot1\\cdot\\cos\\theta = 2\\cos\\theta$。\n\n故選 (D)"
+  },
+  {
+    "id": "112-gsat-mathA-19",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 18-20 題為題組】坐標平面上 $O$ 為原點，給定 $A(1, 0)$、$B(-2, 0)$ 兩點。另有兩點 $P$、$Q$ 在上半平面，且滿足 $\\overline{AP} = \\overline{OA}$、$\\overline{BQ} = \\overline{OB}$、$\\angle POQ$ 為直角，如圖所示。令 $\\angle AOP = \\theta$。\n19. 若 $\\sin\\theta = \\dfrac35$，試求點 $Q$ 的坐標，並說明 $\\overrightarrow{BQ} = 2\\overrightarrow{AP}$。（非選擇題，6 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-gsat-mathA-18.png\" alt=\"四邊形 PABQ：B、O、A 在 x 軸上，P、Q 在上方，∠POQ 為直角\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "selfGrade": true,
+    "blanks": [
+      "$Q\\left(-\\dfrac{36}{25}, \\dfrac{48}{25}\\right)$",
+      "$\\angle OAP = \\pi - 2\\theta$、$\\angle OBQ = 2\\theta$，兩角互補，$\\overrightarrow{AP}$ 與 $\\overrightarrow{BQ}$ 同向平行，且 $\\overline{BQ} = 2 = 2\\overline{AP}$"
+    ],
+    "blankLabels": [
+      "Q 的坐標",
+      "說明"
+    ],
+    "explanation": "• $\\triangle AOP$ 等腰：$\\angle APO = \\theta$，$\\angle OAP = \\pi - 2\\theta$。\n• $\\triangle BOQ$ 等腰（$\\overline{BQ} = \\overline{BO} = 2$）：$\\angle BOQ = \\pi - \\theta - \\dfrac\\pi2 = \\dfrac\\pi2 - \\theta$，所以 $\\angle OBQ = 2\\theta$。\n• $\\angle OAP + \\angle OBQ = \\pi$，$\\overrightarrow{AP}$ 與 $\\overrightarrow{BQ}$ 都與 $x$ 軸正向夾 $2\\theta$，同向平行；長度 $\\overline{BQ} = 2 = 2\\overline{AP}$，故 $\\overrightarrow{BQ} = 2\\overrightarrow{AP}$。\n• $\\cos\\theta = \\dfrac45$，$\\cos2\\theta = \\dfrac{7}{25}$、$\\sin2\\theta = \\dfrac{24}{25}$：$\\overrightarrow{BQ} = 2\\left(\\dfrac{7}{25}, \\dfrac{24}{25}\\right) = \\left(\\dfrac{14}{25}, \\dfrac{48}{25}\\right)$，$Q = (-2, 0) + \\overrightarrow{BQ} = \\left(-\\dfrac{36}{25}, \\dfrac{48}{25}\\right)$。"
+  },
+  {
+    "id": "112-gsat-mathA-20",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學A",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 18-20 題為題組】坐標平面上 $O$ 為原點，給定 $A(1, 0)$、$B(-2, 0)$ 兩點。另有兩點 $P$、$Q$ 在上半平面，且滿足 $\\overline{AP} = \\overline{OA}$、$\\overline{BQ} = \\overline{OB}$、$\\angle POQ$ 為直角，如圖所示。令 $\\angle AOP = \\theta$。\n20.（承 19 題）試求點 $A$ 到直線 $BQ$ 的距離，並求四邊形 $PABQ$ 的面積。（非選擇題，6 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-gsat-mathA-18.png\" alt=\"四邊形 PABQ：B、O、A 在 x 軸上，P、Q 在上方，∠POQ 為直角\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "selfGrade": true,
+    "blanks": [
+      "$\\dfrac{72}{25}$",
+      "$\\dfrac{108}{25}$"
+    ],
+    "blankLabels": [
+      "A 到 BQ 的距離",
+      "四邊形 PABQ 面積"
+    ],
+    "explanation": "• $A$ 到直線 $BQ$ 的距離 $= \\overline{AB}\\sin\\angle OBQ = 3\\cdot\\dfrac{24}{25} = \\dfrac{72}{25}$。\n• $\\overline{AP} \\parallel \\overline{BQ}$，$PABQ$ 是上下底 1、2 的梯形，高 $\\dfrac{72}{25}$：\n$$\\text{面積} = \\frac{(1 + 2)}{2}\\cdot\\frac{72}{25} = \\frac{108}{25}$$"
   }
 ]
