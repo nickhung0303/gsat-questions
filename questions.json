@@ -57093,5 +57093,681 @@
       "33"
     ],
     "explanation": "$\\overline{BD} = 25$。$A$ 到 $\\overline{BD}$ 的距離 $\\dfrac{15\\cdot20}{25} = 12$，垂足距 $B$ 為 $\\dfrac{15^2}{25} = 9$；$C$ 到 $\\overline{BD}$ 的距離也是 12，垂足距 $B$ 為 $\\dfrac{20^2}{25} = 16$。\n兩面垂直，兩條垂線互相垂直且都垂直於 $BD$：\n$$\\overline{AC}^2 = 12^2 + 12^2 + (16 - 9)^2 = 337$$"
+  },
+  {
+    "id": "114-gsat-eng-01",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. If you put a ______ under a leaking faucet, you will be surprised at the amount of water collected in 24 hours.",
+    "options": [
+      "border",
+      "timer",
+      "container",
+      "marker"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：如果你在漏水的水龍頭下放一個容器，你會對 24 小時收集到的水量感到驚訝。\n• (A) border 邊界　(B) timer 計時器　(C) container 容器　(D) marker 記號筆\n能「收集水」的只有容器。\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-eng-02",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. The local farmers' market is popular as it offers a variety of fresh seasonal ______ to people in the community.",
+    "options": [
+      "produce",
+      "fashion",
+      "brand",
+      "trend"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：當地的農夫市集很受歡迎，因為它為社區居民提供各式新鮮的當季農產品。\n• (A) produce (n.) 農產品（不可數）　(B) fashion 時尚　(C) brand 品牌　(D) trend 趨勢\nfresh seasonal produce「新鮮當季農產品」是固定搭配。\n\n故選 (A)"
+  },
+  {
+    "id": "114-gsat-eng-03",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. As the years have passed by, many of my childhood memories are already ______; I can no longer recall clearly what happened back then.",
+    "options": [
+      "blurring",
+      "trimming",
+      "draining",
+      "glaring"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：隨著歲月流逝，我很多童年記憶已經變模糊了，再也記不清楚當時發生的事。\n• (A) blur 變模糊　(B) trim 修剪　(C) drain 排乾、耗盡　(D) glare 怒目而視、發強光\n後句「記不清楚」對應「記憶模糊」。\n\n故選 (A)"
+  },
+  {
+    "id": "114-gsat-eng-04",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. Racist remarks are by nature ______ and hurtful, and should be avoided on all occasions.",
+    "options": [
+      "excessive",
+      "furious",
+      "offensive",
+      "stubborn"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：種族歧視的言論本質上就具冒犯性且傷人，在任何場合都應避免。\n• (A) excessive 過度的　(B) furious 狂怒的　(C) offensive 冒犯的　(D) stubborn 固執的\n與 hurtful（傷人的）並列，且形容「言論」，用 offensive。\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-eng-05",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. Not satisfied with the first ______ of her essay, Mary revised it several times before turning it in to the teacher.",
+    "options": [
+      "text",
+      "brush",
+      "draft",
+      "plot"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：瑪莉不滿意文章的初稿，在交給老師之前修改了好幾次。\n• (A) text 本文　(B) brush 刷子　(C) draft 草稿　(D) plot 情節\nthe first draft「初稿」，與 revised（修改）呼應。\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-eng-06",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. Left ______ for years, the deserted house was filled with a thick coating of dust and a smell of old damp wood.",
+    "options": [
+      "casual",
+      "fragile",
+      "remote",
+      "vacant"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：這間被遺棄的房子多年來空著，積了厚厚一層灰塵，還有老舊潮濕木頭的味道。\n• (A) casual 隨意的　(B) fragile 易碎的　(C) remote 遙遠的　(D) vacant 空著的、無人居住的\nleft vacant「被閒置、空著」。\n\n故選 (D)"
+  },
+  {
+    "id": "114-gsat-eng-07",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. The high school student showed ______ courage when she helped the old man escape from the fire.",
+    "options": [
+      "gigantic",
+      "exclusive",
+      "multiple",
+      "enormous"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：這位高中生幫助老人逃離火場時，展現了極大的勇氣。\n• (A) gigantic 巨大的（多指體積）　(B) exclusive 獨家的　(C) multiple 多重的　(D) enormous 極大的\nenormous 可修飾抽象名詞（courage），gigantic 通常形容具體物體的大小。\n\n故選 (D)"
+  },
+  {
+    "id": "114-gsat-eng-08",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. Publicly financed projects are often ______ or delayed during tough economic times due to a lack of resources.",
+    "options": [
+      "halted",
+      "hatched",
+      "possessed",
+      "reinforced"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：經濟艱困時期，公共出資的計畫常因資源不足而被暫停或延後。\n• (A) halt 停止　(B) hatch 孵化、策劃　(C) possess 擁有　(D) reinforce 強化\n與 delayed（延後）並列，表示「停止」。\n\n故選 (A)"
+  },
+  {
+    "id": "114-gsat-eng-09",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. Despite his busy schedule, the President ______ the school's graduation ceremony with his presence and a heartwarming speech.",
+    "options": [
+      "praised",
+      "graced",
+      "addressed",
+      "credited"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：儘管行程忙碌，總統仍蒞臨學校的畢業典禮增光，並發表溫馨的演說。\n• (A) praise 稱讚　(B) grace…with one's presence 蒞臨使增光　(C) address 向…演說　(D) credit 歸功於\n「grace + 場合 + with one's presence」是固定用法。\n\n故選 (B)"
+  },
+  {
+    "id": "114-gsat-eng-10",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. The manager of the company was sued for ______ abusing his colleagues, calling them \"hopeless losers.\"",
+    "options": [
+      "verbally",
+      "dominantly",
+      "legitimately",
+      "relevantly"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：公司經理因言語霸凌同事、稱他們為「沒救的失敗者」而被告。\n• (A) verbally 言語上地　(B) dominantly 佔優勢地　(C) legitimately 合法地　(D) relevantly 相關地\n後面說他「叫同事 hopeless losers」，是言語上的辱罵。\n\n故選 (A)"
+  },
+  {
+    "id": "114-gsat-eng-11",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nIn 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that 【 11 】 rapidly around the world.\n\nThe group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan 【 12 】 by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might 【 13 】 and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process 【 14 】 a new form of collective effort that transformed the depth, scope, and quality of their discussion.\n\nThe World Café was 【 15 】 created. Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.\n\n11.",
+    "options": [
+      "had spread",
+      "would spread",
+      "had been spreading",
+      "would have spread"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：他們都不知道自己即將創造出一個「後來會」迅速傳遍世界的社會創新。\n以過去（1995 年）的觀點描述之後才發生的事，用「過去未來式」would + V。had spread／had been spreading 表示比過去更早，不合；would have spread 是與過去事實相反的假設。\n\n故選 (B)"
+  },
+  {
+    "id": "114-gsat-eng-12",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nIn 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that 【 11 】 rapidly around the world.\n\nThe group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan 【 12 】 by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might 【 13 】 and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process 【 14 】 a new form of collective effort that transformed the depth, scope, and quality of their discussion.\n\nThe World Café was 【 15 】 created. Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.\n\n12.",
+    "options": [
+      "facilitated",
+      "disrupted",
+      "disclosed",
+      "fulfilled"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：原本計畫在花園討論，卻下起大雨；計畫被雨「打亂」，大家只好擠進客廳。\n• (A) facilitate 促進　(B) disrupt 擾亂、打亂　(C) disclose 揭露　(D) fulfill 實現\n\n故選 (B)"
+  },
+  {
+    "id": "114-gsat-eng-13",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nIn 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that 【 11 】 rapidly around the world.\n\nThe group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan 【 12 】 by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might 【 13 】 and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process 【 14 】 a new form of collective effort that transformed the depth, scope, and quality of their discussion.\n\nThe World Café was 【 15 】 created. Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.\n\n13.",
+    "options": [
+      "circulate",
+      "emphasize",
+      "recover",
+      "preserve"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：他們定期換桌，讓見解與想法得以「流通」並深化。\n• (A) circulate 流通、傳播　(B) emphasize 強調　(C) recover 恢復　(D) preserve 保存\n換桌的目的就是讓想法在各桌間流動。\n\n故選 (A)"
+  },
+  {
+    "id": "114-gsat-eng-14",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nIn 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that 【 11 】 rapidly around the world.\n\nThe group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan 【 12 】 by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might 【 13 】 and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process 【 14 】 a new form of collective effort that transformed the depth, scope, and quality of their discussion.\n\nThe World Café was 【 15 】 created. Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.\n\n14.",
+    "options": [
+      "made up for",
+      "kept track of",
+      "gave rise to",
+      "looked out for"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：這個創新的討論過程「產生了」一種新的集體合作形式。\n• (A) make up for 彌補　(B) keep track of 記錄、掌握　(C) give rise to 引起、產生　(D) look out for 留意\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-eng-15",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nIn 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that 【 11 】 rapidly around the world.\n\nThe group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan 【 12 】 by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might 【 13 】 and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process 【 14 】 a new form of collective effort that transformed the depth, scope, and quality of their discussion.\n\nThe World Café was 【 15 】 created. Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.\n\n15.",
+    "options": [
+      "still",
+      "also",
+      "further",
+      "thus"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：「世界咖啡館」就這樣誕生了。\n前文說明了它誕生的經過，此句為結果，用 thus（因此、就這樣）。\n\n故選 (D)"
+  },
+  {
+    "id": "114-gsat-eng-16",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nIf you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can 【 16 】 suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting.\n\nMotion sickness occurs when the signals your brain receives from your eyes, ears, and body 【 17 】. Your brain doesn't know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts 【 18 】. Your brain's confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope.\n\nYou can take some 【 19 】 to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help 【 20 】. You can also take medicine before your ride to avoid or reduce nausea and vomiting.\n\n16.",
+    "options": [
+      "crash",
+      "flush",
+      "burst",
+      "strike"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：暈動症可能會突然「發作」，從不適感發展到冒冷汗。\n• strike 可指疾病、災難「突然侵襲、發作」，最符合。crash 撞毀、flush 臉紅／沖水、burst 爆裂，皆不搭配疾病主詞。\n\n故選 (D)"
+  },
+  {
+    "id": "114-gsat-eng-17",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nIf you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can 【 16 】 suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting.\n\nMotion sickness occurs when the signals your brain receives from your eyes, ears, and body 【 17 】. Your brain doesn't know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts 【 18 】. Your brain's confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope.\n\nYou can take some 【 19 】 to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help 【 20 】. You can also take medicine before your ride to avoid or reduce nausea and vomiting.\n\n17.",
+    "options": [
+      "are not regular",
+      "can hardly move",
+      "do not match",
+      "are rarely cued"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：當大腦從眼睛、耳朵、身體收到的訊號「彼此不一致」時，就會發生暈動症。\n下一句說各部位傳來 conflicting information（互相衝突的訊息），對應 do not match。\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-eng-18",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nIf you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can 【 16 】 suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting.\n\nMotion sickness occurs when the signals your brain receives from your eyes, ears, and body 【 17 】. Your brain doesn't know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts 【 18 】. Your brain's confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope.\n\nYou can take some 【 19 】 to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help 【 20 】. You can also take medicine before your ride to avoid or reduce nausea and vomiting.\n\n18.",
+    "options": [
+      "aren't",
+      "won't",
+      "don't",
+      "haven't"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：平衡系統的一部分偵測到身體在動，但其他部分「沒有（偵測到）」。\n省略句的助動詞要與前面的動詞一致：detects 是一般動詞現在式，所以用 don't（= don't detect that your body is moving）。\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-eng-19",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nIf you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can 【 16 】 suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting.\n\nMotion sickness occurs when the signals your brain receives from your eyes, ears, and body 【 17 】. Your brain doesn't know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts 【 18 】. Your brain's confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope.\n\nYou can take some 【 19 】 to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help 【 20 】. You can also take medicine before your ride to avoid or reduce nausea and vomiting.\n\n19.",
+    "options": [
+      "special opportunities",
+      "preventive measures",
+      "potential risks",
+      "significant advantages"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：你可以採取一些「預防措施」來避免不適。\ntake measures（採取措施）為固定搭配，後文列舉的選座位、看遠方、吃藥都是預防方法。\n\n故選 (B)"
+  },
+  {
+    "id": "114-gsat-eng-20",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nIf you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can 【 16 】 suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting.\n\nMotion sickness occurs when the signals your brain receives from your eyes, ears, and body 【 17 】. Your brain doesn't know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts 【 18 】. Your brain's confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope.\n\nYou can take some 【 19 】 to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help 【 20 】. You can also take medicine before your ride to avoid or reduce nausea and vomiting.\n\n20.",
+    "options": [
+      "as well",
+      "by far",
+      "at least",
+      "after all"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：從車上望向遠方「也」有幫助。\n前一句已提出一個方法（選座位），此句再補充另一個方法，用 as well（也）。\n\n故選 (A)"
+  },
+  {
+    "id": "114-gsat-eng-21-30",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 21-30 題組】\nThe Notre-Dame de Paris is one of the most famous cathedrals in Europe. Located at the heart of Paris, this medieval cathedral is ___(21)___ for its intricate architecture, stunning stained glass windows, and, above all, its bells.\n\nMounted in the two tall towers of the cathedral, Notre-Dame's bells have been ringing for over 800 years. In fact, there is documented ___(22)___ to the ringing of bells even before the cathedral's construction was completed, dating as far back as the 12th century. The 10 bells vary in size, each ___(23)___ a name. The largest one, named \"Emmanuel,\" weighs over 13 tons. It is the only one of the whole group that ___(24)___ the French Revolution, while the rest were melted down for weapons. The melted bells were recast in the late 19th century. But due to their poor acoustic quality, all of the bells were replaced in 2013—except for Emmanuel, which ___(25)___ its renowned, excellent sound. This particular bell, ringing in F sharp, is considered one of the most harmonically beautiful in Europe.\n\nOver centuries, the bells have become a ___(26)___ part of life in Paris, where they are known as \"the cathedral's voice.\" They have been used to mark the hours of the day, to call the ___(27)___ to prayer, and to signal emergency situations such as fires and invasions. They have also rung in times of ___(28)___ and of mourning, announcing such events as royal weddings and coronations of kings, as well as funerals of heads of state.\n\nHowever, after the devastating fire that damaged the cathedral in 2019, the bells fell ___(29)___. The building went through a complex and time-consuming process of ___(30)___, and the famous monument was finally reopened on December 8, 2024. The sounds of Notre-Dame bells once again filled the air in Paris, and will be heard for generations to come.\n\n(A) reference　(B) bearing　(C) familiar　(D) retained　(E) faithful　(F) survived　(G) celebration　(H) restoration　(I) noted　(J) silent\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "I",
+      "A",
+      "B",
+      "F",
+      "D",
+      "C",
+      "E",
+      "G",
+      "J",
+      "H"
+    ],
+    "blankLabels": [
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "explanation": "• 21 (I) noted：be noted for（以…聞名），後接 its architecture…its bells。\n• 22 (A) reference：documented reference to…（有文獻提及…），形容詞 documented 後接名詞。\n• 23 (B) bearing：獨立分詞構句 each (bell) bearing a name（每口鐘都有名字）。\n• 24 (F) survived：唯一「倖存於」法國大革命的鐘，其餘都被熔掉。\n• 25 (D) retained：其他鐘在 2013 年被替換，只有 Emmanuel「保留了」它著名的好音色。\n• 26 (C) familiar：a familiar part of life（生活中熟悉的一部分）。\n• 27 (E) faithful：the faithful（信徒），定冠詞＋形容詞表示一群人；召喚信徒禱告。\n• 28 (G) celebration：與 mourning（哀悼）對比，下文 weddings、coronations 是慶典。\n• 29 (J) silent：fall silent（陷入沉寂），大火後鐘聲停止。\n• 30 (H) restoration：大教堂經歷了複雜耗時的「修復」過程才重新開放。"
+  },
+  {
+    "id": "114-gsat-eng-31-34",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "fill",
+    "points": 8,
+    "question": "【篇章結構 31-34 題組】\nA capsule hotel, also known as a pod hotel, is a unique type of basic, affordable accommodation. Originated in Japan, these hotels were initially meant for business professionals to stay close to populated business districts without spending a lot. ___(31)___\n\nA typical room of a capsule hotel is roughly the length and width of a single bed, with sufficient height for a guest to crawl in and sit up on the bed. The walls of each capsule may be made of wood, metal or any rigid material, but are often fiberglass or plastic. ___(32)___ Each capsule is equipped with a comfortable mattress, a small light, and sometimes a television or other entertainment options. Such minimalist design is what makes these hotels both inexpensive and efficient, providing only the essential elements for a good night sleep.\n\nThe first capsule hotel, the Capsule Inn Osaka, opened in 1979. Since then, capsule hotels have quickly spread to other cities and countries. Chains have emerged in Taiwan, Singapore, and even on resort islands like Bali. Pod hotels are also seen in Europe and North America, especially in big cities like New York, London, and Paris. ___(33)___ Instead of the traditional bare pod-sized style, new chains now feature interior design that appeals to digitally connected travelers from around the world. Guests may enjoy facilities such as free Wi-Fi, mobile charging, and even a soundless alarm system that raises the sleeping guests into a seated position while gradually brightening the lights.\n\nWhile offering budget-conscious travelers a unique option, capsule hotels may not be suitable for everyone. Some hotels may not provide air conditioning in the capsules, leading to poor air flow. ___(34)___ Also, you may have to share common facilities (such as bathrooms) with other guests. And, if you're worried about feeling claustrophobic in small spaces, you'd better think twice before making a reservation.\n\n(A) In response to rising demands, these hotels are embracing a wave of innovation.\n(B) The room's thin plastic walls easily transmit the sound of snoring made by neighboring guests.\n(C) The chambers are stacked side-by-side, two units high, with the upper rooms reached by a ladder.\n(D) Today, they provide low-budget, overnight lodging in commerce centers in large cities worldwide.\n（請依序填入各題代號 A～D）",
+    "blanks": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "explanation": "• 31 (D)：前句說膠囊旅館「起初」是給商務人士住；(D) 以 Today 對照，說明「如今」在全球大城市的商業中心提供平價住宿，承接並總結首段。\n• 32 (C)：本段描述房間構造（大小、牆壁材質），(C) 說明房間並排堆疊兩層、上層靠梯子進入，接在牆壁材質之後最自然。\n• 33 (A)：前句說膠囊旅館擴展到歐美大城市；後句說新連鎖品牌不再是傳統簡陋樣式、加入各種新設施，(A)「為因應需求上升，這些旅館迎來一波創新」正好銜接。\n• 34 (B)：本段列舉缺點；前句講通風不佳，(B)「薄塑膠牆容易傳來鄰居的打呼聲」是另一個缺點，後句以 Also 再補充共用浴室。"
+  },
+  {
+    "id": "114-gsat-eng-35",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 35-38 題組】\nWhile waiting to cross the street at busy intersections, have you ever wondered who invented the traffic light? Most people credit the first traffic light to Nottingham engineer John Peake Knight. A railway manager, Knight specialized in designing the signaling system for Britain's growing railway network in the 1860s. He saw no reason why this could not be adapted for use on the busy London intersections. Thus, he proposed a signaling system based on the railway movable-arm signal: Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director's gestures. Red and green gas lamps were added to the signal for use at night. A police officer was stationed by the side to operate the system.\n\nKnight's traffic signal was installed near London's Westminster Bridge in December 1868, but the system was short-lived. A gas leak one month later caused an explosion in the lights, injuring the policeman operating it. Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.\n\nIn the early 1900s, versions of the British traffic lights appeared in big cities in America, where traffic was on a sharp rise. Systems using movable arms were popular in Chicago, while those using the red and green lights were adopted in San Francisco. Patents with innovations on Knight's ideas were filed nationwide. A major breakthrough was the yellow light invented by a Detroit police officer William Potts. Installed in Detroit in 1920, Potts' three-color system allowed for the added signal \"proceed with caution\" to be displayed.\n\nNow, with the emergence of self-driving cars, researchers have begun to suggest that traffic signals are no longer necessary. Intersections will operate in a way that cars automatically adjust their speed to cross through, while maintaining safe distances from other vehicles. In the near future, we may experience a brand new form of traffic management!\n\n35. What is this passage mainly about?",
+    "options": [
+      "The evolution of traffic control systems.",
+      "The inventors of traffic lights in history.",
+      "The functions of different traffic signals.",
+      "The development of modern transportation."
+    ],
+    "answerIndex": 0,
+    "explanation": "全文依時間順序介紹：Knight 的鐵路臂式號誌 → 美國的改良與黃燈 → 未來自駕車可能不需號誌，主旨是交通控制系統的演變。(B) 只提到部分內容；(C)(D) 範圍不符。\n\n故選 (A)"
+  },
+  {
+    "id": "114-gsat-eng-36",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 35-38 題組】\nWhile waiting to cross the street at busy intersections, have you ever wondered who invented the traffic light? Most people credit the first traffic light to Nottingham engineer John Peake Knight. A railway manager, Knight specialized in designing the signaling system for Britain's growing railway network in the 1860s. He saw no reason why this could not be adapted for use on the busy London intersections. Thus, he proposed a signaling system based on the railway movable-arm signal: Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director's gestures. Red and green gas lamps were added to the signal for use at night. A police officer was stationed by the side to operate the system.\n\nKnight's traffic signal was installed near London's Westminster Bridge in December 1868, but the system was short-lived. A gas leak one month later caused an explosion in the lights, injuring the policeman operating it. Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.\n\nIn the early 1900s, versions of the British traffic lights appeared in big cities in America, where traffic was on a sharp rise. Systems using movable arms were popular in Chicago, while those using the red and green lights were adopted in San Francisco. Patents with innovations on Knight's ideas were filed nationwide. A major breakthrough was the yellow light invented by a Detroit police officer William Potts. Installed in Detroit in 1920, Potts' three-color system allowed for the added signal \"proceed with caution\" to be displayed.\n\nNow, with the emergence of self-driving cars, researchers have begun to suggest that traffic signals are no longer necessary. Intersections will operate in a way that cars automatically adjust their speed to cross through, while maintaining safe distances from other vehicles. In the near future, we may experience a brand new form of traffic management!\n\n36. Which of the following pictures shows Knight's proposed traffic signal?",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-gsat-eng-36.png\" alt=\"四張號誌圖片 (A)～(D)\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)"
+    ],
+    "answerIndex": 2,
+    "explanation": "第一段說 Knight 的號誌以鐵路的「可動臂」為基礎（水平代表停、下垂 45 度代表行），並加上紅綠「燈」供夜間使用。圖 (C) 同時有可動的臂與燈箱；(A) 只有燈、(B) 只有臂、(D) 是 STOP／GO 牌子。\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-eng-37",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 35-38 題組】\nWhile waiting to cross the street at busy intersections, have you ever wondered who invented the traffic light? Most people credit the first traffic light to Nottingham engineer John Peake Knight. A railway manager, Knight specialized in designing the signaling system for Britain's growing railway network in the 1860s. He saw no reason why this could not be adapted for use on the busy London intersections. Thus, he proposed a signaling system based on the railway movable-arm signal: Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director's gestures. Red and green gas lamps were added to the signal for use at night. A police officer was stationed by the side to operate the system.\n\nKnight's traffic signal was installed near London's Westminster Bridge in December 1868, but the system was short-lived. A gas leak one month later caused an explosion in the lights, injuring the policeman operating it. Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.\n\nIn the early 1900s, versions of the British traffic lights appeared in big cities in America, where traffic was on a sharp rise. Systems using movable arms were popular in Chicago, while those using the red and green lights were adopted in San Francisco. Patents with innovations on Knight's ideas were filed nationwide. A major breakthrough was the yellow light invented by a Detroit police officer William Potts. Installed in Detroit in 1920, Potts' three-color system allowed for the added signal \"proceed with caution\" to be displayed.\n\nNow, with the emergence of self-driving cars, researchers have begun to suggest that traffic signals are no longer necessary. Intersections will operate in a way that cars automatically adjust their speed to cross through, while maintaining safe distances from other vehicles. In the near future, we may experience a brand new form of traffic management!\n\n37. Which of the following statements is true, according to the passage?",
+    "options": [
+      "Knight was injured in the explosion of his traffic light.",
+      "Potts' traffic light was the first one to appear in the USA.",
+      "The first traffic signal originated from the idea of a traffic director.",
+      "Future vehicles may not need traffic lights to cross an intersection."
+    ],
+    "answerIndex": 3,
+    "explanation": "• (A) 錯：受傷的是操作號誌的警察。\n• (B) 錯：1900 年代初美國大城市已有英式號誌，Potts 的三色燈是 1920 年。\n• (C) 錯：號誌源自鐵路號誌系統，只是動作「類似」交通指揮員的手勢。\n• (D) 對：最後一段提到自駕車時代，路口可能不再需要號誌。\n\n故選 (D)"
+  },
+  {
+    "id": "114-gsat-eng-38",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 35-38 題組】\nWhile waiting to cross the street at busy intersections, have you ever wondered who invented the traffic light? Most people credit the first traffic light to Nottingham engineer John Peake Knight. A railway manager, Knight specialized in designing the signaling system for Britain's growing railway network in the 1860s. He saw no reason why this could not be adapted for use on the busy London intersections. Thus, he proposed a signaling system based on the railway movable-arm signal: Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director's gestures. Red and green gas lamps were added to the signal for use at night. A police officer was stationed by the side to operate the system.\n\nKnight's traffic signal was installed near London's Westminster Bridge in December 1868, but the system was short-lived. A gas leak one month later caused an explosion in the lights, injuring the policeman operating it. Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.\n\nIn the early 1900s, versions of the British traffic lights appeared in big cities in America, where traffic was on a sharp rise. Systems using movable arms were popular in Chicago, while those using the red and green lights were adopted in San Francisco. Patents with innovations on Knight's ideas were filed nationwide. A major breakthrough was the yellow light invented by a Detroit police officer William Potts. Installed in Detroit in 1920, Potts' three-color system allowed for the added signal \"proceed with caution\" to be displayed.\n\nNow, with the emergence of self-driving cars, researchers have begun to suggest that traffic signals are no longer necessary. Intersections will operate in a way that cars automatically adjust their speed to cross through, while maintaining safe distances from other vehicles. In the near future, we may experience a brand new form of traffic management!\n\n38. Here is a sentence: \"This design was adopted in later traffic light designs across the world.\" Which paragraph is most suitable to have it as the final sentence?",
+    "options": [
+      "Paragraph 1.",
+      "Paragraph 2.",
+      "Paragraph 3.",
+      "Paragraph 4."
+    ],
+    "answerIndex": 2,
+    "explanation": "This design 應指能被全世界沿用的設計，即第三段末的 Potts 三色號誌（紅黃綠燈至今通用）。第一、二段的 Knight 號誌失敗被禁用，第四段談未來。\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-eng-39",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 39-42 題組】\nTypically featuring zombies and serial killers, horror movies are too frightening to be fun for some people. But many others enjoy a good fear spectacle, and line up to see the latest scary movie. Given the variations in preferences, new studies have started to untangle the benefits and risks of horror movies.\n\nOne benefit of horror movies revolves around the concept of so-called \"safe fear.\" When watching a frightening film, people are in the comfort of their own home or theater seats rather than under the threat of any real danger. In a controlled environment, these films may actually reduce the negative impact on viewers and help them become tougher. Secondly, as people are drawn into the story, they tend to take the perspective of the characters and rehearse the plot unconsciously. Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world. In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over. This probably explains why during the COVID-19 pandemic, horror and pandemic thrillers were the most-watched movies on digital movie apps.\n\nHowever, researchers also find that horror movies can have negative effects on some people. People who are more sensitive to anxiety can panic after viewing a thriller. For those with unpleasant experiences, trauma may be triggered by the themes and images in the movies, which could make their symptoms worse. Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day. Finally, specialists warn that frightening films can have a negative impact on children. Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood. Worse yet, exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression.\n\n39. What field of study does the research mentioned in the passage most likely belong to?",
+    "options": [
+      "Psychology.",
+      "Education.",
+      "Philosophy.",
+      "Communication."
+    ],
+    "answerIndex": 0,
+    "explanation": "文中研究的是恐怖片對恐懼、焦慮、情緒釋放、創傷、睡眠等的影響，屬於心理學。\n\n故選 (A)"
+  },
+  {
+    "id": "114-gsat-eng-40",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 39-42 題組】\nTypically featuring zombies and serial killers, horror movies are too frightening to be fun for some people. But many others enjoy a good fear spectacle, and line up to see the latest scary movie. Given the variations in preferences, new studies have started to untangle the benefits and risks of horror movies.\n\nOne benefit of horror movies revolves around the concept of so-called \"safe fear.\" When watching a frightening film, people are in the comfort of their own home or theater seats rather than under the threat of any real danger. In a controlled environment, these films may actually reduce the negative impact on viewers and help them become tougher. Secondly, as people are drawn into the story, they tend to take the perspective of the characters and rehearse the plot unconsciously. Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world. In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over. This probably explains why during the COVID-19 pandemic, horror and pandemic thrillers were the most-watched movies on digital movie apps.\n\nHowever, researchers also find that horror movies can have negative effects on some people. People who are more sensitive to anxiety can panic after viewing a thriller. For those with unpleasant experiences, trauma may be triggered by the themes and images in the movies, which could make their symptoms worse. Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day. Finally, specialists warn that frightening films can have a negative impact on children. Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood. Worse yet, exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression.\n\n40. What does the author mean by \"learning vicariously\" in the second paragraph?",
+    "options": [
+      "Making inquiries without reservation.",
+      "Gaining knowledge through observation.",
+      "Acquiring insights by face-to-face interaction.",
+      "Obtaining information from personal experience."
+    ],
+    "answerIndex": 1,
+    "explanation": "vicariously 意為「間接地、替代地」。觀眾代入角色，藉由觀看劇情學到應付威脅的方法，而不是親身經歷，即「透過觀察獲得知識」。(D) 親身經歷正好相反。\n\n故選 (B)"
+  },
+  {
+    "id": "114-gsat-eng-41",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 39-42 題組】\nTypically featuring zombies and serial killers, horror movies are too frightening to be fun for some people. But many others enjoy a good fear spectacle, and line up to see the latest scary movie. Given the variations in preferences, new studies have started to untangle the benefits and risks of horror movies.\n\nOne benefit of horror movies revolves around the concept of so-called \"safe fear.\" When watching a frightening film, people are in the comfort of their own home or theater seats rather than under the threat of any real danger. In a controlled environment, these films may actually reduce the negative impact on viewers and help them become tougher. Secondly, as people are drawn into the story, they tend to take the perspective of the characters and rehearse the plot unconsciously. Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world. In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over. This probably explains why during the COVID-19 pandemic, horror and pandemic thrillers were the most-watched movies on digital movie apps.\n\nHowever, researchers also find that horror movies can have negative effects on some people. People who are more sensitive to anxiety can panic after viewing a thriller. For those with unpleasant experiences, trauma may be triggered by the themes and images in the movies, which could make their symptoms worse. Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day. Finally, specialists warn that frightening films can have a negative impact on children. Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood. Worse yet, exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression.\n\n41. Which of the following statements about horror movies can be inferred from the passage?",
+    "options": [
+      "Most horror movie lovers are prone to aggressive behavior.",
+      "There are far more benefits to horror movies than disadvantages.",
+      "COVID-19 was an important source of inspiration for horror movies.",
+      "Watching horror movies may have a long-term effect on personality."
+    ],
+    "answerIndex": 3,
+    "explanation": "末段提到 14 歲以下兒童看恐怖片，成年後較容易焦慮，也可能對暴力麻木、較能接受攻擊行為，可推知可能有長期的人格影響。\n(A) 文中只說兒童可能較能接受攻擊，非「多數愛好者」；(B) 文中優缺點並陳；(C) 疫情是觀看量增加的時機，不是創作靈感。\n\n故選 (D)"
+  },
+  {
+    "id": "114-gsat-eng-42",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 39-42 題組】\nTypically featuring zombies and serial killers, horror movies are too frightening to be fun for some people. But many others enjoy a good fear spectacle, and line up to see the latest scary movie. Given the variations in preferences, new studies have started to untangle the benefits and risks of horror movies.\n\nOne benefit of horror movies revolves around the concept of so-called \"safe fear.\" When watching a frightening film, people are in the comfort of their own home or theater seats rather than under the threat of any real danger. In a controlled environment, these films may actually reduce the negative impact on viewers and help them become tougher. Secondly, as people are drawn into the story, they tend to take the perspective of the characters and rehearse the plot unconsciously. Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world. In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over. This probably explains why during the COVID-19 pandemic, horror and pandemic thrillers were the most-watched movies on digital movie apps.\n\nHowever, researchers also find that horror movies can have negative effects on some people. People who are more sensitive to anxiety can panic after viewing a thriller. For those with unpleasant experiences, trauma may be triggered by the themes and images in the movies, which could make their symptoms worse. Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day. Finally, specialists warn that frightening films can have a negative impact on children. Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood. Worse yet, exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression.\n\n42. How does the author develop the ideas in this passage?",
+    "options": [
+      "By defining and illustrating a concept.",
+      "By showing opposing views of an issue.",
+      "By presenting cause and effect of a problem.",
+      "By providing steps for settling a disagreement."
+    ],
+    "answerIndex": 1,
+    "explanation": "第二段談恐怖片的好處，第三段以 However 轉而談壞處，呈現同一議題的正反兩面。\n\n故選 (B)"
+  },
+  {
+    "id": "114-gsat-eng-43",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 43-46 題組】\nRussia is widely portrayed as the most alcohol-dependent country in the world. Critics of the country say that drinking is almost an inherent trait of the Russian people. However, there is more to the story.\n\nThe consumption of alcoholic beverages was unusual in ancient Russia. Before the adoption of Christianity in Russia (10th century), there were no vineyards and therefore no wine. People only drank beverages with low alcohol content. Vodka, Russia's national drink, was not a Russian invention. The liquid was originally a grape alcohol introduced from France in the late 14th century. The first Russian-made vodka appeared in the 15th century, and the drink remained relatively low in alcohol content until the mid-18th century.\n\nThere is contradictory information about Russians' inclination toward alcohol in the 15th and 16th centuries. Some documents noted that Russians \"indulge in excessive drinking whenever the occasion arises,\" while others claimed that Russians \"rarely drink wine.\" The heaviest drinkers in medieval Europe were actually Germans. There were many sayings about their desire for alcohol, such as \"drunk as a German.\"\n\nThe Russian state played a significant role in the spread of alcohol consumption in the country. In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka. Thus, only the government was permitted to produce the alcohol. This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption. The situation worsened when the industrial production of vodka began in the country, causing its prices to drop sharply and making it available to even low-income citizens.\n\nMeanwhile, a powerful anti-alcohol movement started in the 19th century. Government policies were made and public organizations established to prevent the spread of alcoholism in the country. The movement continued over the years; however, the problem remains. Although Russia does not occupy first place when it comes to alcohol consumption per capita, it is still close to the top.\n\n43. What is the main purpose of the second paragraph in the passage?",
+    "options": [
+      "To discuss the content of alcoholic drinks in ancient Europe.",
+      "To highlight the French impact on Russians' drinking habits.",
+      "To argue against the assumption that Russians are born drinkers.",
+      "To link Russians' vodka consumption to their adoption of Christianity."
+    ],
+    "answerIndex": 2,
+    "explanation": "第一段說批評者認為飲酒是俄國人「天生」的特質，但 there is more to the story；第二段指出古代俄國少有人飲酒、伏特加也不是俄國發明，目的就是反駁「俄國人天生愛喝酒」的說法。\n\n故選 (C)"
+  },
+  {
+    "id": "114-gsat-eng-44",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 43-46 題組】\nRussia is widely portrayed as the most alcohol-dependent country in the world. Critics of the country say that drinking is almost an inherent trait of the Russian people. However, there is more to the story.\n\nThe consumption of alcoholic beverages was unusual in ancient Russia. Before the adoption of Christianity in Russia (10th century), there were no vineyards and therefore no wine. People only drank beverages with low alcohol content. Vodka, Russia's national drink, was not a Russian invention. The liquid was originally a grape alcohol introduced from France in the late 14th century. The first Russian-made vodka appeared in the 15th century, and the drink remained relatively low in alcohol content until the mid-18th century.\n\nThere is contradictory information about Russians' inclination toward alcohol in the 15th and 16th centuries. Some documents noted that Russians \"indulge in excessive drinking whenever the occasion arises,\" while others claimed that Russians \"rarely drink wine.\" The heaviest drinkers in medieval Europe were actually Germans. There were many sayings about their desire for alcohol, such as \"drunk as a German.\"\n\nThe Russian state played a significant role in the spread of alcohol consumption in the country. In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka. Thus, only the government was permitted to produce the alcohol. This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption. The situation worsened when the industrial production of vodka began in the country, causing its prices to drop sharply and making it available to even low-income citizens.\n\nMeanwhile, a powerful anti-alcohol movement started in the 19th century. Government policies were made and public organizations established to prevent the spread of alcoholism in the country. The movement continued over the years; however, the problem remains. Although Russia does not occupy first place when it comes to alcohol consumption per capita, it is still close to the top.\n\n44. Which of the following is true about vodka production?",
+    "options": [
+      "Vodka production in Russia started in the 15th century.",
+      "The first vodka made from wheat was imported from France.",
+      "Germany was the biggest vodka producer in medieval Europe.",
+      "Russian people were encouraged to make their own vodka in the 19th century."
+    ],
+    "answerIndex": 0,
+    "explanation": "• (A) 對：The first Russian-made vodka appeared in the 15th century.\n• (B) 錯：從法國傳入的是葡萄酒精（grape alcohol）。\n• (C) 錯：文中說德國人是最能喝的，不是最大生產者。\n• (D) 錯：19 世紀國家專賣，只有政府可以生產。\n\n故選 (A)"
+  },
+  {
+    "id": "114-gsat-eng-45",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 43-46 題組】\nRussia is widely portrayed as the most alcohol-dependent country in the world. Critics of the country say that drinking is almost an inherent trait of the Russian people. However, there is more to the story.\n\nThe consumption of alcoholic beverages was unusual in ancient Russia. Before the adoption of Christianity in Russia (10th century), there were no vineyards and therefore no wine. People only drank beverages with low alcohol content. Vodka, Russia's national drink, was not a Russian invention. The liquid was originally a grape alcohol introduced from France in the late 14th century. The first Russian-made vodka appeared in the 15th century, and the drink remained relatively low in alcohol content until the mid-18th century.\n\nThere is contradictory information about Russians' inclination toward alcohol in the 15th and 16th centuries. Some documents noted that Russians \"indulge in excessive drinking whenever the occasion arises,\" while others claimed that Russians \"rarely drink wine.\" The heaviest drinkers in medieval Europe were actually Germans. There were many sayings about their desire for alcohol, such as \"drunk as a German.\"\n\nThe Russian state played a significant role in the spread of alcohol consumption in the country. In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka. Thus, only the government was permitted to produce the alcohol. This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption. The situation worsened when the industrial production of vodka began in the country, causing its prices to drop sharply and making it available to even low-income citizens.\n\nMeanwhile, a powerful anti-alcohol movement started in the 19th century. Government policies were made and public organizations established to prevent the spread of alcoholism in the country. The movement continued over the years; however, the problem remains. Although Russia does not occupy first place when it comes to alcohol consumption per capita, it is still close to the top.\n\n45. What does \"This\" in the fourth paragraph refer to?",
+    "options": [
+      "The alcohol.",
+      "The government.",
+      "The illegal production.",
+      "The state monopoly."
+    ],
+    "answerIndex": 3,
+    "explanation": "「This soon filled the state treasury with huge revenues」——為國庫帶來大量收入、同時鼓勵伏特加消費的，是前面所說的國家專賣制度（只有政府可以生產）。\n\n故選 (D)"
+  },
+  {
+    "id": "114-gsat-eng-46",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 43-46 題組】\nRussia is widely portrayed as the most alcohol-dependent country in the world. Critics of the country say that drinking is almost an inherent trait of the Russian people. However, there is more to the story.\n\nThe consumption of alcoholic beverages was unusual in ancient Russia. Before the adoption of Christianity in Russia (10th century), there were no vineyards and therefore no wine. People only drank beverages with low alcohol content. Vodka, Russia's national drink, was not a Russian invention. The liquid was originally a grape alcohol introduced from France in the late 14th century. The first Russian-made vodka appeared in the 15th century, and the drink remained relatively low in alcohol content until the mid-18th century.\n\nThere is contradictory information about Russians' inclination toward alcohol in the 15th and 16th centuries. Some documents noted that Russians \"indulge in excessive drinking whenever the occasion arises,\" while others claimed that Russians \"rarely drink wine.\" The heaviest drinkers in medieval Europe were actually Germans. There were many sayings about their desire for alcohol, such as \"drunk as a German.\"\n\nThe Russian state played a significant role in the spread of alcohol consumption in the country. In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka. Thus, only the government was permitted to produce the alcohol. This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption. The situation worsened when the industrial production of vodka began in the country, causing its prices to drop sharply and making it available to even low-income citizens.\n\nMeanwhile, a powerful anti-alcohol movement started in the 19th century. Government policies were made and public organizations established to prevent the spread of alcoholism in the country. The movement continued over the years; however, the problem remains. Although Russia does not occupy first place when it comes to alcohol consumption per capita, it is still close to the top.\n\n46. How does the author conclude the passage in the last paragraph?",
+    "options": [
+      "By providing further facts.",
+      "By summarizing the main ideas.",
+      "By raising a new problem.",
+      "By making a future prediction."
+    ],
+    "answerIndex": 0,
+    "explanation": "最後一段補充 19 世紀起的反酗酒運動，以及俄國人均飲酒量仍接近世界前列的事實，是提供更多事實，而非總結、提出新問題或預測未來。\n\n故選 (A)"
+  },
+  {
+    "id": "114-gsat-eng-47-48",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "fill",
+    "points": 4,
+    "question": "【混合題 47-50 題組】\nA zoo is a place where animals in captivity are put on display for humans to see. While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education. Still, many animal rights activists believe the cost of confining animals outweighs the benefits. What are your opinions? Feel free to share your ideas on this forum.\n\nA. Amy: Personally I'm against zoos, though I do understand some of the arguments why they should exist. I don't agree with caging animals for our entertainment.\nB. Ben: What gives humans the right to capture, confine, or breed other species? Even if an animal is endangered, does that justify restricting its freedom?\nC. Cathy: Zoos are a tradition, and a visit to a zoo is a wholesome family activity. Wildlife encounters are unforgettable experiences for children and adults alike.\nD. Daniel: To me, a zoo can be a good place for endangered species which have difficulty finding suitable mates in the wild.\nE. Eddie: My childhood memory of a polar bear pacing back and forth in a very small space in a zoo keeps haunting me. Is it a good idea to keep animals in sites not suited to them?\nF. Frank: Well, if zoos are an inevitability, zoo keepers must provide the best possible conditions for the animals that live in captivity—to say the least!\nG. George: Zoos have an educational aspect to it. It's easier to learn about an animal by seeing them in person.\nH. Henry: Most animals in zoos are not endangered, nor are they being prepared for release into natural habitats. In fact, it is nearly impossible to release captive-bred animals.\nI. Irene: Fostering empathy...By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.\nJ. Jack: In making a case for or against zoos, both sides argue that they're saving animals. Whether or not zoos benefit the animal community, they certainly do make money. Like it or not, zoos will continue to exist as long as there is a demand for them.\n\n【47-48 題｜填充】請從論壇內容中各選出一個單詞（word），必要時改變字形，填入下列短文的空格。\nModern zoos serve the purposes of conserving endangered species as well as ___(47)___ visitors. However, some people are against zoos because the animals ___(48)___ there will lose the freedom they enjoy in the wild.",
+    "blanks": [
+      "entertaining",
+      "confined"
+    ],
+    "acceptedBlanks": [
+      [
+        "educating"
+      ],
+      [
+        "caged"
+      ]
+    ],
+    "blankLabels": [
+      "47",
+      "48"
+    ],
+    "explanation": "• 47：as well as 後與 conserving 對稱，需動名詞。論壇中 Amy 說 caging animals for our entertainment、George 說 zoos have an educational aspect，所以填 entertaining（entertainment 的動詞 entertain）或 educating（educational → educate）。\n• 48：the animals ___ there 需過去分詞作後位修飾（被關在那裡的動物）。Ben 的 confine、Amy 的 caging（cage），改為 confined 或 caged。"
+  },
+  {
+    "id": "114-gsat-eng-49",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "multiple",
+    "points": 4,
+    "question": "【混合題 47-50 題組】\nA zoo is a place where animals in captivity are put on display for humans to see. While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education. Still, many animal rights activists believe the cost of confining animals outweighs the benefits. What are your opinions? Feel free to share your ideas on this forum.\n\nA. Amy: Personally I'm against zoos, though I do understand some of the arguments why they should exist. I don't agree with caging animals for our entertainment.\nB. Ben: What gives humans the right to capture, confine, or breed other species? Even if an animal is endangered, does that justify restricting its freedom?\nC. Cathy: Zoos are a tradition, and a visit to a zoo is a wholesome family activity. Wildlife encounters are unforgettable experiences for children and adults alike.\nD. Daniel: To me, a zoo can be a good place for endangered species which have difficulty finding suitable mates in the wild.\nE. Eddie: My childhood memory of a polar bear pacing back and forth in a very small space in a zoo keeps haunting me. Is it a good idea to keep animals in sites not suited to them?\nF. Frank: Well, if zoos are an inevitability, zoo keepers must provide the best possible conditions for the animals that live in captivity—to say the least!\nG. George: Zoos have an educational aspect to it. It's easier to learn about an animal by seeing them in person.\nH. Henry: Most animals in zoos are not endangered, nor are they being prepared for release into natural habitats. In fact, it is nearly impossible to release captive-bred animals.\nI. Irene: Fostering empathy...By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.\nJ. Jack: In making a case for or against zoos, both sides argue that they're saving animals. Whether or not zoos benefit the animal community, they certainly do make money. Like it or not, zoos will continue to exist as long as there is a demand for them.\n\n49. From (A) to (J) in the above forum discussion, which ONES show a positive attitude toward zoos?",
+    "options": [
+      "Amy",
+      "Ben",
+      "Cathy",
+      "Daniel",
+      "Eddie",
+      "Frank",
+      "George",
+      "Henry",
+      "Irene",
+      "Jack"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      6,
+      8
+    ],
+    "explanation": "• 正面：Cathy（全家出遊、難忘的體驗）、Daniel（有助瀕危物種繁殖）、George（教育意義）、Irene（培養同理心）。\n• 負面：Amy、Ben、Eddie、Henry 都反對或質疑動物園。\n• 中立：Frank（若無法避免，至少要提供最好的環境）、Jack（不論好壞，只要有需求就會存在）。\n\n故選 (C)(D)(G)(I)"
+  },
+  {
+    "id": "114-gsat-eng-50",
+    "examType": "學測",
+    "year": 114,
+    "subject": "英文",
+    "type": "fill",
+    "points": 2,
+    "question": "【混合題 47-50 題組】\nA zoo is a place where animals in captivity are put on display for humans to see. While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education. Still, many animal rights activists believe the cost of confining animals outweighs the benefits. What are your opinions? Feel free to share your ideas on this forum.\n\nA. Amy: Personally I'm against zoos, though I do understand some of the arguments why they should exist. I don't agree with caging animals for our entertainment.\nB. Ben: What gives humans the right to capture, confine, or breed other species? Even if an animal is endangered, does that justify restricting its freedom?\nC. Cathy: Zoos are a tradition, and a visit to a zoo is a wholesome family activity. Wildlife encounters are unforgettable experiences for children and adults alike.\nD. Daniel: To me, a zoo can be a good place for endangered species which have difficulty finding suitable mates in the wild.\nE. Eddie: My childhood memory of a polar bear pacing back and forth in a very small space in a zoo keeps haunting me. Is it a good idea to keep animals in sites not suited to them?\nF. Frank: Well, if zoos are an inevitability, zoo keepers must provide the best possible conditions for the animals that live in captivity—to say the least!\nG. George: Zoos have an educational aspect to it. It's easier to learn about an animal by seeing them in person.\nH. Henry: Most animals in zoos are not endangered, nor are they being prepared for release into natural habitats. In fact, it is nearly impossible to release captive-bred animals.\nI. Irene: Fostering empathy...By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.\nJ. Jack: In making a case for or against zoos, both sides argue that they're saving animals. Whether or not zoos benefit the animal community, they certainly do make money. Like it or not, zoos will continue to exist as long as there is a demand for them.\n\n50. Which phrase on the forum discussion carries the meaning of \"building the ability to understand and share the feelings of others\"?",
+    "blanks": [
+      "fostering empathy"
+    ],
+    "acceptedBlanks": [
+      [
+        "fostering empathy."
+      ]
+    ],
+    "blankLabels": [
+      "50（論壇中的英文片語）"
+    ],
+    "explanation": "empathy 意為「同理心」（理解並分擔他人感受的能力），foster 意為「培養」。Irene 的發言開頭 Fostering empathy 正是「培養理解與分享他人感受的能力」。\n\n答：fostering empathy"
   }
 ]
