@@ -106755,5 +106755,821 @@
     ],
     "answerIndex": 1,
     "explanation": "AB 型的乙需要從父母分別得到 A 與 B，只有父母 I（B × AB）可能。父母 III（B × B）不可能生 A 型，但若兩人都是 BO 可生 O 型，所以甲屬於 III；丙（A 型）屬於父母 II（A × O）。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-01",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. John's clock is not functioning ______. The alarm rings even when it's not set to go off.",
+    "options": [
+      "tenderly",
+      "properly",
+      "solidly",
+      "favorably"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：John 的鬧鐘運作不正常，沒設定時也會響。\nfunction properly「正常運作」。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-02",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. Michael has decided to ______ a career in physics and has set his mind on becoming a professor.",
+    "options": [
+      "pursue",
+      "swear",
+      "reserve",
+      "draft"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：Michael 決定在物理學領域發展，立志成為教授。\npursue a career「追求（從事）某職業」。\n\n故選 (A)"
+  },
+  {
+    "id": "106-gsat-eng-03",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. Peter plans to hike in a ______ part of Africa, where he might not meet another human being for days.",
+    "options": [
+      "native",
+      "tricky",
+      "remote",
+      "vacant"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：Peter 打算到非洲偏遠地區健行，可能好幾天都遇不到人。\n• (C) remote 偏遠的　(D) vacant 空著的（房間、座位）\n\n故選 (C)"
+  },
+  {
+    "id": "106-gsat-eng-04",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. People in this community tend to ______ with the group they belong to, and often put group interests before personal ones.",
+    "options": [
+      "appoint",
+      "eliminate",
+      "occupy",
+      "identify"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：這個社群的人傾向認同自己所屬的團體，常把團體利益置於個人之前。\nidentify with…「認同…」。\n\n故選 (D)"
+  },
+  {
+    "id": "106-gsat-eng-05",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. I mistook the man for a well-known actor and asked for his autograph; it was really ______.",
+    "options": [
+      "relaxing",
+      "embarrassing",
+      "appealing",
+      "defending"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：我把那個人誤認為名演員還跟他要簽名，真是令人尷尬。\n• (B) embarrassing 令人尷尬的\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-06",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. After spending most of her salary on rent and food, Amelia ______ had any money left for entertainment and other expenses.",
+    "options": [
+      "barely",
+      "fairly",
+      "merely",
+      "readily"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：薪水大多花在房租和伙食後，Amelia 幾乎沒有錢可用於娛樂和其他開銷。\nbarely「幾乎沒有」，具否定意味，與 had any money 搭配。\n\n故選 (A)"
+  },
+  {
+    "id": "106-gsat-eng-07",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. In the Bermuda Triangle, a region in the western part of the North Atlantic Ocean, some airplanes and ships were reported to have mysteriously disappeared without a ______.",
+    "options": [
+      "guide",
+      "trace",
+      "code",
+      "print"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：據報導，有些飛機和船隻在百慕達三角洲神秘地消失得無影無蹤。\nwithout a trace「無影無蹤」。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-08",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. Shouting greetings and waving a big sign, Tony ______ the passing shoppers to visit his shop and buy the freshly baked bread.",
+    "options": [
+      "accessed",
+      "edited",
+      "imposed",
+      "urged"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：Tony 一邊大聲打招呼、一邊揮舞大招牌，力勸路過的購物者到店裡買剛出爐的麵包。\nurge sb. to V「力勸某人做…」。\n\n故選 (D)"
+  },
+  {
+    "id": "106-gsat-eng-09",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. With a continuous 3 km stretch of golden sand, the beach attracts artists around the world each summer to create amazing ______ with its fine soft sand.",
+    "options": [
+      "constitutions",
+      "objections",
+      "sculptures",
+      "adventures"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：這片綿延三公里的金色沙灘，每年夏天吸引世界各地的藝術家用細軟的沙創作驚人的雕塑。\n• (C) sculpture 雕塑\n\n故選 (C)"
+  },
+  {
+    "id": "106-gsat-eng-10",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. The clouds parted and a ______ of light fell on the church, through the windows, and onto the floor.",
+    "options": [
+      "dip",
+      "beam",
+      "spark",
+      "path"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：雲層散開，一道光束照在教堂上，穿過窗戶落到地板。\na beam of light「一道光束」。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-11",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "11. Instead of a gift, Tim's grandmother always ______ some money in the birthday card she gave him.",
+    "options": [
+      "enclosed",
+      "installed",
+      "preserved",
+      "rewarded"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：Tim 的奶奶總是在給他的生日卡裡附上一些錢，而不是送禮物。\nenclose「（隨信）附上」。\n\n故選 (A)"
+  },
+  {
+    "id": "106-gsat-eng-12",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "12. While winning a gold ______ is what every Olympic athlete dreams of, it becomes meaningless if it is achieved by cheating.",
+    "options": [
+      "signal",
+      "glory",
+      "medal",
+      "profit"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：贏得金牌是每個奧運選手的夢想，但若是靠作弊得來就毫無意義。\ngold medal「金牌」。\n\n故選 (C)"
+  },
+  {
+    "id": "106-gsat-eng-13",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "13. The thief went into the apartment building and stole some jewelry. He then ______ himself as a security guard and walked out the front gate.",
+    "options": [
+      "balanced",
+      "calculated",
+      "disguised",
+      "registered"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：小偷偷了珠寶後，假扮成警衛從前門走出去。\ndisguise oneself as…「假扮成…」。\n\n故選 (C)"
+  },
+  {
+    "id": "106-gsat-eng-14",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "14. Due to numerous accidents that occurred while people were playing Pokémon GO, players were advised to be ______ of possible dangers in the environment.",
+    "options": [
+      "aware",
+      "ashamed",
+      "doubtful",
+      "guilty"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：由於玩寶可夢 GO 時發生許多意外，玩家被提醒要注意環境中可能的危險。\nbe aware of…「察覺、注意到…」。\n\n故選 (A)"
+  },
+  {
+    "id": "106-gsat-eng-15",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "15. Sherlock Holmes, a detective in a popular fiction series, has impressed readers with his amazing powers of ______ and his knowledge of trivial facts.",
+    "options": [
+      "innocence",
+      "estimation",
+      "assurance",
+      "observation"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：福爾摩斯以驚人的觀察力與對瑣碎事實的知識令讀者印象深刻。\npowers of observation「觀察力」。\n\n故選 (D)"
+  },
+  {
+    "id": "106-gsat-eng-16",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nYou begin to notice a bit of pain on your eyelid each time you blink. You 【 16 】 the mirror to find a tiny red spot on the base of your lower lashes. These 【 17 】 are probably the beginning of an eye stye.\n\nAn eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily 【 18 】 to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye.\n\n【 19 】 a stye can look unpleasant at times, it is usually harmless and doesn't cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth 【 20 】 your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don't squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.\n16.",
+    "options": [
+      "check out",
+      "look into",
+      "watch over",
+      "see through"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：你「往」鏡子「裡看」，發現下睫毛根部有個小紅點。look into the mirror「照鏡子」。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-17",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nYou begin to notice a bit of pain on your eyelid each time you blink. You 【 16 】 the mirror to find a tiny red spot on the base of your lower lashes. These 【 17 】 are probably the beginning of an eye stye.\n\nAn eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily 【 18 】 to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye.\n\n【 19 】 a stye can look unpleasant at times, it is usually harmless and doesn't cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth 【 20 】 your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don't squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.\n17.",
+    "options": [
+      "incidents",
+      "measures",
+      "symptoms",
+      "explanations"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：眨眼時眼皮痛、出現小紅點，這些「症狀」可能是針眼的開始。\n\n故選 (C)"
+  },
+  {
+    "id": "106-gsat-eng-18",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nYou begin to notice a bit of pain on your eyelid each time you blink. You 【 16 】 the mirror to find a tiny red spot on the base of your lower lashes. These 【 17 】 are probably the beginning of an eye stye.\n\nAn eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily 【 18 】 to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye.\n\n【 19 】 a stye can look unpleasant at times, it is usually harmless and doesn't cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth 【 20 】 your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don't squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.\n18.",
+    "options": [
+      "attracted",
+      "contributed",
+      "exposed",
+      "transferred"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：細菌存在鼻子裡，揉完鼻子再揉眼睛時，很容易被「轉移」到眼睛。be transferred to…「被轉移到…」。\n\n故選 (D)"
+  },
+  {
+    "id": "106-gsat-eng-19",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nYou begin to notice a bit of pain on your eyelid each time you blink. You 【 16 】 the mirror to find a tiny red spot on the base of your lower lashes. These 【 17 】 are probably the beginning of an eye stye.\n\nAn eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily 【 18 】 to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye.\n\n【 19 】 a stye can look unpleasant at times, it is usually harmless and doesn't cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth 【 20 】 your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don't squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.\n19.",
+    "options": [
+      "As",
+      "If",
+      "Unless",
+      "Although"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：「雖然」針眼有時看起來不好看，但通常無害。前後語意相反，用 Although。\n\n故選 (D)"
+  },
+  {
+    "id": "106-gsat-eng-20",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nYou begin to notice a bit of pain on your eyelid each time you blink. You 【 16 】 the mirror to find a tiny red spot on the base of your lower lashes. These 【 17 】 are probably the beginning of an eye stye.\n\nAn eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily 【 18 】 to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye.\n\n【 19 】 a stye can look unpleasant at times, it is usually harmless and doesn't cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth 【 20 】 your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don't squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.\n20.",
+    "options": [
+      "against",
+      "among",
+      "about",
+      "after"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：把溫毛巾輕輕「按壓在」眼皮上。press A against B「把 A 壓在 B 上」。\n\n故選 (A)"
+  },
+  {
+    "id": "106-gsat-eng-21",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nShoes are hugely important for protecting our feet, especially in places like Africa, where healthcare provision is limited. Unfortunately, shoes are not always readily available for people living in poverty, 【 21 】 shoes that are the right size. Almost as soon as a child receives shoes to wear, he/she is likely to have grown out of them. Then the child has to 【 22 】 with shoes that are too small. The Shoe That Grows, created by a charity called Because International, changes all this. It allows children to 【 23 】 their shoes' size as their feet grow.\n\nThe innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires. They come 【 24 】 two sizes, and can expand in three places. The straps on the heel and toe control the length of the shoe, 【 25 】 the two on either side allow for different widths. With this special design, the shoes can \"grow\" up to five sizes and last for at least five years.\n21.",
+    "options": [
+      "except for",
+      "provided with",
+      "far from",
+      "let alone"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：窮人連鞋子都不一定有，「更不用說」尺寸合適的鞋子了。let alone「更別提」，用在否定句之後。\n\n故選 (D)"
+  },
+  {
+    "id": "106-gsat-eng-22",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nShoes are hugely important for protecting our feet, especially in places like Africa, where healthcare provision is limited. Unfortunately, shoes are not always readily available for people living in poverty, 【 21 】 shoes that are the right size. Almost as soon as a child receives shoes to wear, he/she is likely to have grown out of them. Then the child has to 【 22 】 with shoes that are too small. The Shoe That Grows, created by a charity called Because International, changes all this. It allows children to 【 23 】 their shoes' size as their feet grow.\n\nThe innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires. They come 【 24 】 two sizes, and can expand in three places. The straps on the heel and toe control the length of the shoe, 【 25 】 the two on either side allow for different widths. With this special design, the shoes can \"grow\" up to five sizes and last for at least five years.\n22.",
+    "options": [
+      "get done",
+      "get lost",
+      "make do",
+      "make believe"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：孩子只好「將就」穿太小的鞋。make do with…「將就使用…」。\n\n故選 (C)"
+  },
+  {
+    "id": "106-gsat-eng-23",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nShoes are hugely important for protecting our feet, especially in places like Africa, where healthcare provision is limited. Unfortunately, shoes are not always readily available for people living in poverty, 【 21 】 shoes that are the right size. Almost as soon as a child receives shoes to wear, he/she is likely to have grown out of them. Then the child has to 【 22 】 with shoes that are too small. The Shoe That Grows, created by a charity called Because International, changes all this. It allows children to 【 23 】 their shoes' size as their feet grow.\n\nThe innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires. They come 【 24 】 two sizes, and can expand in three places. The straps on the heel and toe control the length of the shoe, 【 25 】 the two on either side allow for different widths. With this special design, the shoes can \"grow\" up to five sizes and last for at least five years.\n23.",
+    "options": [
+      "adjust",
+      "explore",
+      "insert",
+      "overlook"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：這種鞋讓孩子能隨著腳長大「調整」鞋子尺寸。\n\n故選 (A)"
+  },
+  {
+    "id": "106-gsat-eng-24",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nShoes are hugely important for protecting our feet, especially in places like Africa, where healthcare provision is limited. Unfortunately, shoes are not always readily available for people living in poverty, 【 21 】 shoes that are the right size. Almost as soon as a child receives shoes to wear, he/she is likely to have grown out of them. Then the child has to 【 22 】 with shoes that are too small. The Shoe That Grows, created by a charity called Because International, changes all this. It allows children to 【 23 】 their shoes' size as their feet grow.\n\nThe innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires. They come 【 24 】 two sizes, and can expand in three places. The straps on the heel and toe control the length of the shoe, 【 25 】 the two on either side allow for different widths. With this special design, the shoes can \"grow\" up to five sizes and last for at least five years.\n24.",
+    "options": [
+      "by",
+      "in",
+      "from",
+      "down"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：這種鞋「有」兩種尺寸。come in + 尺寸/顏色「（產品）有…款式」。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-25",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nShoes are hugely important for protecting our feet, especially in places like Africa, where healthcare provision is limited. Unfortunately, shoes are not always readily available for people living in poverty, 【 21 】 shoes that are the right size. Almost as soon as a child receives shoes to wear, he/she is likely to have grown out of them. Then the child has to 【 22 】 with shoes that are too small. The Shoe That Grows, created by a charity called Because International, changes all this. It allows children to 【 23 】 their shoes' size as their feet grow.\n\nThe innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires. They come 【 24 】 two sizes, and can expand in three places. The straps on the heel and toe control the length of the shoe, 【 25 】 the two on either side allow for different widths. With this special design, the shoes can \"grow\" up to five sizes and last for at least five years.\n25.",
+    "options": [
+      "whether",
+      "while",
+      "with",
+      "for"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：腳跟和腳趾的帶子控制長度，「而」兩側的帶子調整寬度。while 表對比「而」，連接兩個子句。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-26",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nResearch has proven that weather plays a part in our moods: Warmer temperatures and exposure to sunshine increase positive thinking, whereas cold, rainy days bring anxiety and fatigue. 【 26 】, many people believe that bad weather can reduce productivity and efficiency.\n\nThere is, however, a significant 【 27 】 between such beliefs and the actual effect of weather on people's performance at work. Using empirical data from laboratory experiments 【 28 】 observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker's focus. When the weather is bad, individuals tend to focus more on their work rather than thinking about activities they could 【 29 】 outside of work. But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus 【 30 】 their productivity. The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.\n26.",
+    "options": [
+      "At most",
+      "In contrast",
+      "Literally",
+      "Accordingly"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：天氣影響心情；「因此」許多人相信壞天氣會降低生產力。Accordingly「因此」。\n\n故選 (D)"
+  },
+  {
+    "id": "106-gsat-eng-27",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nResearch has proven that weather plays a part in our moods: Warmer temperatures and exposure to sunshine increase positive thinking, whereas cold, rainy days bring anxiety and fatigue. 【 26 】, many people believe that bad weather can reduce productivity and efficiency.\n\nThere is, however, a significant 【 27 】 between such beliefs and the actual effect of weather on people's performance at work. Using empirical data from laboratory experiments 【 28 】 observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker's focus. When the weather is bad, individuals tend to focus more on their work rather than thinking about activities they could 【 29 】 outside of work. But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus 【 30 】 their productivity. The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.\n27.",
+    "options": [
+      "gap",
+      "link",
+      "clue",
+      "ratio"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：然而這種想法與天氣對工作表現的實際影響之間有很大的「落差」。後文說壞天氣反而讓人更專心。\n\n故選 (A)"
+  },
+  {
+    "id": "106-gsat-eng-28",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nResearch has proven that weather plays a part in our moods: Warmer temperatures and exposure to sunshine increase positive thinking, whereas cold, rainy days bring anxiety and fatigue. 【 26 】, many people believe that bad weather can reduce productivity and efficiency.\n\nThere is, however, a significant 【 27 】 between such beliefs and the actual effect of weather on people's performance at work. Using empirical data from laboratory experiments 【 28 】 observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker's focus. When the weather is bad, individuals tend to focus more on their work rather than thinking about activities they could 【 29 】 outside of work. But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus 【 30 】 their productivity. The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.\n28.",
+    "options": [
+      "out of",
+      "as well as",
+      "in case of",
+      "due to"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：使用實驗室實驗的數據「以及」一家日本銀行的實地觀察。as well as「以及」。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-29",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nResearch has proven that weather plays a part in our moods: Warmer temperatures and exposure to sunshine increase positive thinking, whereas cold, rainy days bring anxiety and fatigue. 【 26 】, many people believe that bad weather can reduce productivity and efficiency.\n\nThere is, however, a significant 【 27 】 between such beliefs and the actual effect of weather on people's performance at work. Using empirical data from laboratory experiments 【 28 】 observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker's focus. When the weather is bad, individuals tend to focus more on their work rather than thinking about activities they could 【 29 】 outside of work. But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus 【 30 】 their productivity. The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.\n29.",
+    "options": [
+      "break off",
+      "approve of",
+      "engage in",
+      "take over"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：天氣不好時，人們較不會去想工作以外可以「從事」的活動。engage in「從事、參與」。\n\n故選 (C)"
+  },
+  {
+    "id": "106-gsat-eng-30",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nResearch has proven that weather plays a part in our moods: Warmer temperatures and exposure to sunshine increase positive thinking, whereas cold, rainy days bring anxiety and fatigue. 【 26 】, many people believe that bad weather can reduce productivity and efficiency.\n\nThere is, however, a significant 【 27 】 between such beliefs and the actual effect of weather on people's performance at work. Using empirical data from laboratory experiments 【 28 】 observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker's focus. When the weather is bad, individuals tend to focus more on their work rather than thinking about activities they could 【 29 】 outside of work. But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus 【 30 】 their productivity. The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.\n30.",
+    "options": [
+      "reform",
+      "lower",
+      "switch",
+      "demand"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：戶外活動的照片會讓員工分心，因而「降低」生產力。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-31-40",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 31-40 題組】\nThe widespread popularity of onions is not limited to modern-day kitchens. There is evidence of onions being used for culinary and medicinal purposes all over the ancient world. Nonetheless, no culture ___(31)___ onions quite as much as the ancient Egyptians. For them, the onion was not just food or medicine; it held significant ___(32)___ meaning. Onions were considered to be ___(33)___ of eternal life. The circle-within-a-circle structure of an onion, for them, ___(34)___ the eternity of existence. According to certain documents, ancient Egyptians also used onions for medicinal purposes, but they likely would have viewed the ___(35)___ power of the vegetable as magical, rather than medical.\nOnions are depicted in many paintings ___(36)___ inside pyramids and tombs that span the history of ancient Egypt. They ___(37)___ as a funeral offering shown upon the altars of the gods. The dead were buried with onions and onion flowers on or around various ___(38)___ of their bodies. Mummies have also been found with onions and onion flowers ___(39)___ their pelvis, chest, ears, eyes, and feet.\nSome scholars theorize that onions may have been used for the dead because it was believed that their strong scent would ___(40)___ the dead to breathe again. Other researchers believe it was because onions were known for their special curative properties, which would be helpful in the afterlife.\n(A) reflected　(B) parts　(C) admired　(D) functioned　(E) prompt　(F) decorating　(G) spiritual　(H) discovered　(I) symbols　(J) healing\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "C",
+      "G",
+      "I",
+      "A",
+      "J",
+      "H",
+      "D",
+      "B",
+      "F",
+      "E"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "explanation": "• 31 (C) admired：沒有一個文化像古埃及人那樣「欣賞、推崇」洋蔥。\n• 32 (G) spiritual：洋蔥不只是食物或藥，還有重要的「精神上的」意義。\n• 33 (I) symbols：洋蔥被視為永生的「象徵」。\n• 34 (A) reflected：圈中有圈的結構「反映」了存在的永恆。\n• 35 (J) healing：他們把這種蔬菜的「療癒」力量視為魔法而非醫學。\n• 36 (H) discovered：洋蔥出現在金字塔與墓室內「被發現」的許多壁畫中，過去分詞修飾 paintings。\n• 37 (D) functioned：洋蔥「作為」祭品出現在神壇上，function as…「作為…之用」。\n• 38 (B) parts：死者身體各「部位」上或周圍放有洋蔥與洋蔥花。\n• 39 (F) decorating：木乃伊被發現有洋蔥與洋蔥花「裝飾」在骨盆、胸、耳、眼與腳上，現在分詞修飾 onions and onion flowers。\n• 40 (E) prompt：人們相信洋蔥的強烈氣味會「促使」死者再次呼吸，prompt sb. to V。"
+  },
+  {
+    "id": "106-gsat-eng-41",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nIs your dog an Einstein or a Charmer? For US ＄60, a recently-founded company called Dognition will help you learn more about your dog's cognitive traits. It offers an online test telling you about the brain behind the bark.\n\nDognition's test measures a dog's intellect in several aspects—from empathy to memory to reasoning skills. But don't expect it to measure your pet's IQ. Dr. Hare, one of the venture's co-founders, says a dog's intelligence can't be described with a single number. Just as humans have a wide range of intelligences, so do dogs. The question is what type your dog relies on more.\n\nAfter you plunk your money down, Dognition's website will take you through a questionnaire about your dog: For example, how excited does your dog get around other dogs, or children? Do fireworks scare your pup? Then, Dognition guides you through tests that are as fun as playing fetch or hide-and-seek. At the end, you get a report of your dog's cognitive profile.\n\nYour dog could fall into one of nine categories: Ace, Stargazer, Maverick, Charmer, Socialite, Protodog, Einstein, Expert, or Renaissance Dog. That can give you something to brag about on Dognition's Facebook page. It also can shed new light on why dogs do the things they do. For example, a Charmer is a dog that trusts you so much that it would prefer to solve problems using information you give it rather than information it can get with its own eyes.\n\nDognition helps people understand their dogs in ways that they have never been able to do. This new understanding can enrich the relationship between dogs and their owners.\n41. What is the third paragraph mainly about?",
+    "options": [
+      "The theory behind the questionnaire used in the Dognition test.",
+      "The procedure for evaluating a dog's intellect on Dognition.",
+      "The products one can get by paying a fee to Dognition.",
+      "The characteristics of the activities Dognition offers."
+    ],
+    "answerIndex": 1,
+    "explanation": "第三段依序說明：付費後先填問卷，再進行像玩遊戲一樣的測驗，最後拿到狗的認知報告，是評估狗智力的流程。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-42",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nIs your dog an Einstein or a Charmer? For US ＄60, a recently-founded company called Dognition will help you learn more about your dog's cognitive traits. It offers an online test telling you about the brain behind the bark.\n\nDognition's test measures a dog's intellect in several aspects—from empathy to memory to reasoning skills. But don't expect it to measure your pet's IQ. Dr. Hare, one of the venture's co-founders, says a dog's intelligence can't be described with a single number. Just as humans have a wide range of intelligences, so do dogs. The question is what type your dog relies on more.\n\nAfter you plunk your money down, Dognition's website will take you through a questionnaire about your dog: For example, how excited does your dog get around other dogs, or children? Do fireworks scare your pup? Then, Dognition guides you through tests that are as fun as playing fetch or hide-and-seek. At the end, you get a report of your dog's cognitive profile.\n\nYour dog could fall into one of nine categories: Ace, Stargazer, Maverick, Charmer, Socialite, Protodog, Einstein, Expert, or Renaissance Dog. That can give you something to brag about on Dognition's Facebook page. It also can shed new light on why dogs do the things they do. For example, a Charmer is a dog that trusts you so much that it would prefer to solve problems using information you give it rather than information it can get with its own eyes.\n\nDognition helps people understand their dogs in ways that they have never been able to do. This new understanding can enrich the relationship between dogs and their owners.\n42. According to the passage, which of the following statements is true?",
+    "options": [
+      "Different dogs display strengths in different intelligences.",
+      "A dog's cognitive profile is composed of nine cognitive skills.",
+      "The purpose of Dognition's testing is to control a dog's behavior.",
+      "A dog's intelligence can be ranked based on the score of a Dognition's test."
+    ],
+    "answerIndex": 0,
+    "explanation": "第二段：就像人類有多種智力，狗也是，問題在於你的狗比較依賴哪一種。\n(B) 九種是分類，不是九種技能；(D) 狗的智力無法用單一數字描述。\n\n故選 (A)"
+  },
+  {
+    "id": "106-gsat-eng-43",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nIs your dog an Einstein or a Charmer? For US ＄60, a recently-founded company called Dognition will help you learn more about your dog's cognitive traits. It offers an online test telling you about the brain behind the bark.\n\nDognition's test measures a dog's intellect in several aspects—from empathy to memory to reasoning skills. But don't expect it to measure your pet's IQ. Dr. Hare, one of the venture's co-founders, says a dog's intelligence can't be described with a single number. Just as humans have a wide range of intelligences, so do dogs. The question is what type your dog relies on more.\n\nAfter you plunk your money down, Dognition's website will take you through a questionnaire about your dog: For example, how excited does your dog get around other dogs, or children? Do fireworks scare your pup? Then, Dognition guides you through tests that are as fun as playing fetch or hide-and-seek. At the end, you get a report of your dog's cognitive profile.\n\nYour dog could fall into one of nine categories: Ace, Stargazer, Maverick, Charmer, Socialite, Protodog, Einstein, Expert, or Renaissance Dog. That can give you something to brag about on Dognition's Facebook page. It also can shed new light on why dogs do the things they do. For example, a Charmer is a dog that trusts you so much that it would prefer to solve problems using information you give it rather than information it can get with its own eyes.\n\nDognition helps people understand their dogs in ways that they have never been able to do. This new understanding can enrich the relationship between dogs and their owners.\n43. Which of the following is closest in meaning to the word \"venture\" in the second paragraph?",
+    "options": [
+      "Creative measurement.",
+      "Risky attempt.",
+      "Non-profit organization.",
+      "New business."
+    ],
+    "answerIndex": 3,
+    "explanation": "Dr. Hare 是 the venture 的共同創辦人，指的是第一段那家新成立的公司 Dognition，即新事業。\n\n故選 (D)"
+  },
+  {
+    "id": "106-gsat-eng-44",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nIs your dog an Einstein or a Charmer? For US ＄60, a recently-founded company called Dognition will help you learn more about your dog's cognitive traits. It offers an online test telling you about the brain behind the bark.\n\nDognition's test measures a dog's intellect in several aspects—from empathy to memory to reasoning skills. But don't expect it to measure your pet's IQ. Dr. Hare, one of the venture's co-founders, says a dog's intelligence can't be described with a single number. Just as humans have a wide range of intelligences, so do dogs. The question is what type your dog relies on more.\n\nAfter you plunk your money down, Dognition's website will take you through a questionnaire about your dog: For example, how excited does your dog get around other dogs, or children? Do fireworks scare your pup? Then, Dognition guides you through tests that are as fun as playing fetch or hide-and-seek. At the end, you get a report of your dog's cognitive profile.\n\nYour dog could fall into one of nine categories: Ace, Stargazer, Maverick, Charmer, Socialite, Protodog, Einstein, Expert, or Renaissance Dog. That can give you something to brag about on Dognition's Facebook page. It also can shed new light on why dogs do the things they do. For example, a Charmer is a dog that trusts you so much that it would prefer to solve problems using information you give it rather than information it can get with its own eyes.\n\nDognition helps people understand their dogs in ways that they have never been able to do. This new understanding can enrich the relationship between dogs and their owners.\n44. According to the passage, what would a Charmer most likely do?",
+    "options": [
+      "Stay away from people whenever possible.",
+      "Imitate how other dogs solve problems.",
+      "Rely on its owner to point out where a treat is.",
+      "Follow its own senses to get what it wants."
+    ],
+    "answerIndex": 2,
+    "explanation": "Charmer 非常信任主人，寧願用主人給的資訊解決問題，而非自己看到的資訊，所以會靠主人指出零食在哪裡。\n\n故選 (C)"
+  },
+  {
+    "id": "106-gsat-eng-45",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nCapoeira is a martial art that combines elements of fight, acrobatics, drumming, singing, dance, and rituals. It involves a variety of techniques that make use of the hands, feet, legs, arms, and head. Although Capoeira appears dancelike, many of its basic techniques are similar to those in other martial arts.\n\nCapoeira was created nearly 500 years ago in Brazil by African slaves. It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman. In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense. But it soon became a strong weapon in the life-or-death struggle against their oppressors. When the slave owners realized the power of Capoeira, they began to punish those who practiced it. Capoeiristas learned to camouflage the forbidden fights with singing, clapping, and dancing as though it were simply entertainment.\n\nAt first, Capoeira was considered illegal in Brazil. However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style. He succeeded in his endeavor and transformed the martial art into Brazil's national sport. He and Mestre Pastinha were the first to open schools, and the Capoeira tree grew, spreading its branches across the world. Nowadays, it is performed in movies and music clips. Capoeira is also believed to have influenced several dancing styles like breaking and hip-hop.\n45. What is the passage mainly about?",
+    "options": [
+      "The history of Capoeira.",
+      "The values of Capoeira.",
+      "The contribution of Capoeira.",
+      "The techniques of Capoeira."
+    ],
+    "answerIndex": 0,
+    "explanation": "文章說明卡波耶拉的起源（非洲奴隸）、被禁止與偽裝成舞蹈、Mestre Bimba 使其合法化，到今日的發展，主旨是它的歷史。\n\n故選 (A)"
+  },
+  {
+    "id": "106-gsat-eng-46",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nCapoeira is a martial art that combines elements of fight, acrobatics, drumming, singing, dance, and rituals. It involves a variety of techniques that make use of the hands, feet, legs, arms, and head. Although Capoeira appears dancelike, many of its basic techniques are similar to those in other martial arts.\n\nCapoeira was created nearly 500 years ago in Brazil by African slaves. It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman. In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense. But it soon became a strong weapon in the life-or-death struggle against their oppressors. When the slave owners realized the power of Capoeira, they began to punish those who practiced it. Capoeiristas learned to camouflage the forbidden fights with singing, clapping, and dancing as though it were simply entertainment.\n\nAt first, Capoeira was considered illegal in Brazil. However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style. He succeeded in his endeavor and transformed the martial art into Brazil's national sport. He and Mestre Pastinha were the first to open schools, and the Capoeira tree grew, spreading its branches across the world. Nowadays, it is performed in movies and music clips. Capoeira is also believed to have influenced several dancing styles like breaking and hip-hop.\n46. Which of the following will probably NOT be found in the performance of Capoeira?",
+    "options": [
+      "Singing with drums.",
+      "Sweeping with the legs.",
+      "Stabbing with swords.",
+      "Striking with the hands."
+    ],
+    "answerIndex": 2,
+    "explanation": "卡波耶拉結合鼓、歌唱與手腳等技巧，源自不用武器的徒手打鬥，所以不會用劍刺。\n\n故選 (C)"
+  },
+  {
+    "id": "106-gsat-eng-47",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nCapoeira is a martial art that combines elements of fight, acrobatics, drumming, singing, dance, and rituals. It involves a variety of techniques that make use of the hands, feet, legs, arms, and head. Although Capoeira appears dancelike, many of its basic techniques are similar to those in other martial arts.\n\nCapoeira was created nearly 500 years ago in Brazil by African slaves. It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman. In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense. But it soon became a strong weapon in the life-or-death struggle against their oppressors. When the slave owners realized the power of Capoeira, they began to punish those who practiced it. Capoeiristas learned to camouflage the forbidden fights with singing, clapping, and dancing as though it were simply entertainment.\n\nAt first, Capoeira was considered illegal in Brazil. However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style. He succeeded in his endeavor and transformed the martial art into Brazil's national sport. He and Mestre Pastinha were the first to open schools, and the Capoeira tree grew, spreading its branches across the world. Nowadays, it is performed in movies and music clips. Capoeira is also believed to have influenced several dancing styles like breaking and hip-hop.\n47. What is the author's attitude toward Capoeira as a sport?",
+    "options": [
+      "Admiring.",
+      "Objective.",
+      "Doubtful.",
+      "Harsh."
+    ],
+    "answerIndex": 1,
+    "explanation": "作者平實敘述卡波耶拉的特色與歷史，沒有明顯的讚揚或批評，態度客觀。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-48",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nCapoeira is a martial art that combines elements of fight, acrobatics, drumming, singing, dance, and rituals. It involves a variety of techniques that make use of the hands, feet, legs, arms, and head. Although Capoeira appears dancelike, many of its basic techniques are similar to those in other martial arts.\n\nCapoeira was created nearly 500 years ago in Brazil by African slaves. It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman. In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense. But it soon became a strong weapon in the life-or-death struggle against their oppressors. When the slave owners realized the power of Capoeira, they began to punish those who practiced it. Capoeiristas learned to camouflage the forbidden fights with singing, clapping, and dancing as though it were simply entertainment.\n\nAt first, Capoeira was considered illegal in Brazil. However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style. He succeeded in his endeavor and transformed the martial art into Brazil's national sport. He and Mestre Pastinha were the first to open schools, and the Capoeira tree grew, spreading its branches across the world. Nowadays, it is performed in movies and music clips. Capoeira is also believed to have influenced several dancing styles like breaking and hip-hop.\n48. According to the passage, which of the following statements is true about Capoeira?",
+    "options": [
+      "It was greatly influenced by modern dancing styles.",
+      "It was initially created as a type of dance and ritual.",
+      "It was mainly performed to protect a bride or desired woman.",
+      "It was officially recognized in Brazil through the effort of Mestre Bimba."
+    ],
+    "answerIndex": 3,
+    "explanation": "Mestre Bimba 說服巴西政府，使卡波耶拉成為官方武術與國家運動。\n(A) 是它影響了現代舞；(B) 最初是自衛的武術；(C) 非洲部落打鬥是為了「得到」新娘。\n\n故選 (D)"
+  },
+  {
+    "id": "106-gsat-eng-49",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nWinslow Homer (1836-1910) is regarded by many as the greatest American painter of the nineteenth century. Born and raised in Boston, he began his career at age eighteen in his hometown, working as an apprentice at a printing company. Skilled at drawing, he soon made a name for himself making illustrations for novels, sheet music, magazines, and children's books.\n\nHe then moved to New York City, where he worked as a freelance illustrator with Harper's Weekly, a popular magazine of the time, and began painting. Homer was assigned to cover the inauguration of President Lincoln and, later, the Civil War. His pictures of the Union troops won international recognition. Homer moved to England and, after a two-year stay, returned to America. He settled permanently in Maine in 1883.\n\nFrom the late 1850s until his death in 1910, Winslow Homer produced a body of work distinguished by its thoughtful expression and its independence from artistic conventions. A man of multiple talents, Homer excelled equally in the arts of illustration, oil painting, and watercolor. Many of his works—depictions of children at play and in school, farm girls attending to their work, hunters and their prey—have become classic images of nineteenth-century American life. Others speak to more universal themes such as the primal relationship of humans to nature.\n\nThis two-week exhibition highlights a wide and representative range of Homer's art. It shows his extraordinary career from the battlefields, farmland, and coastal villages of America, to the North Sea fishing village of Cullercoats, the rocky coast of Maine, the Adirondacks, and the Caribbean. The exhibition offers viewers an opportunity to experience and appreciate the breadth of his remarkable artistic achievement.\n49. Where does this passage most likely appear?",
+    "options": [
+      "On an ad featuring contemporary arts.",
+      "On a website of an art gallery.",
+      "In a booklet on American-born British artists.",
+      "In an encyclopedia on the art of printing."
+    ],
+    "answerIndex": 1,
+    "explanation": "最後一段介紹「這次為期兩週的展覽」，最可能是美術館網站上的展覽介紹。Homer 是 19 世紀畫家，不是當代藝術。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-50",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nWinslow Homer (1836-1910) is regarded by many as the greatest American painter of the nineteenth century. Born and raised in Boston, he began his career at age eighteen in his hometown, working as an apprentice at a printing company. Skilled at drawing, he soon made a name for himself making illustrations for novels, sheet music, magazines, and children's books.\n\nHe then moved to New York City, where he worked as a freelance illustrator with Harper's Weekly, a popular magazine of the time, and began painting. Homer was assigned to cover the inauguration of President Lincoln and, later, the Civil War. His pictures of the Union troops won international recognition. Homer moved to England and, after a two-year stay, returned to America. He settled permanently in Maine in 1883.\n\nFrom the late 1850s until his death in 1910, Winslow Homer produced a body of work distinguished by its thoughtful expression and its independence from artistic conventions. A man of multiple talents, Homer excelled equally in the arts of illustration, oil painting, and watercolor. Many of his works—depictions of children at play and in school, farm girls attending to their work, hunters and their prey—have become classic images of nineteenth-century American life. Others speak to more universal themes such as the primal relationship of humans to nature.\n\nThis two-week exhibition highlights a wide and representative range of Homer's art. It shows his extraordinary career from the battlefields, farmland, and coastal villages of America, to the North Sea fishing village of Cullercoats, the rocky coast of Maine, the Adirondacks, and the Caribbean. The exhibition offers viewers an opportunity to experience and appreciate the breadth of his remarkable artistic achievement.\n50. Which of the following is true about Homer's career?",
+    "options": [
+      "He achieved international fame with his vivid paintings of England.",
+      "He is considered the greatest illustrator in the history of American art.",
+      "He is better known for his watercolors than his illustrations and oil paintings.",
+      "He first established his reputation as an illustrator in his hometown of Boston."
+    ],
+    "answerIndex": 3,
+    "explanation": "他在家鄉波士頓開始職業生涯，很快就以畫插畫成名（made a name for himself）。\n(A) 讓他國際知名的是南北戰爭聯邦軍的畫；(B) 他被認為是最偉大的「畫家」；(C) 文中說他在插畫、油畫、水彩都同樣出色。\n\n故選 (D)"
+  },
+  {
+    "id": "106-gsat-eng-51",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nWinslow Homer (1836-1910) is regarded by many as the greatest American painter of the nineteenth century. Born and raised in Boston, he began his career at age eighteen in his hometown, working as an apprentice at a printing company. Skilled at drawing, he soon made a name for himself making illustrations for novels, sheet music, magazines, and children's books.\n\nHe then moved to New York City, where he worked as a freelance illustrator with Harper's Weekly, a popular magazine of the time, and began painting. Homer was assigned to cover the inauguration of President Lincoln and, later, the Civil War. His pictures of the Union troops won international recognition. Homer moved to England and, after a two-year stay, returned to America. He settled permanently in Maine in 1883.\n\nFrom the late 1850s until his death in 1910, Winslow Homer produced a body of work distinguished by its thoughtful expression and its independence from artistic conventions. A man of multiple talents, Homer excelled equally in the arts of illustration, oil painting, and watercolor. Many of his works—depictions of children at play and in school, farm girls attending to their work, hunters and their prey—have become classic images of nineteenth-century American life. Others speak to more universal themes such as the primal relationship of humans to nature.\n\nThis two-week exhibition highlights a wide and representative range of Homer's art. It shows his extraordinary career from the battlefields, farmland, and coastal villages of America, to the North Sea fishing village of Cullercoats, the rocky coast of Maine, the Adirondacks, and the Caribbean. The exhibition offers viewers an opportunity to experience and appreciate the breadth of his remarkable artistic achievement.\n51. According to the passage, which of the following best characterizes Homer's art?",
+    "options": [
+      "His pictures vividly portrayed the life of nineteenth-century Americans.",
+      "His art thoughtfully expressed the voices of people suffering from war.",
+      "His style faithfully conformed to the artistic traditions of his time.",
+      "His paintings constantly reflected his desire to escape from society."
+    ],
+    "answerIndex": 0,
+    "explanation": "他的許多作品（孩童玩耍上學、農家女工作、獵人與獵物）成為 19 世紀美國生活的經典圖像。\n(C) 他的作品以獨立於藝術傳統著稱。\n\n故選 (A)"
+  },
+  {
+    "id": "106-gsat-eng-52",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nWinslow Homer (1836-1910) is regarded by many as the greatest American painter of the nineteenth century. Born and raised in Boston, he began his career at age eighteen in his hometown, working as an apprentice at a printing company. Skilled at drawing, he soon made a name for himself making illustrations for novels, sheet music, magazines, and children's books.\n\nHe then moved to New York City, where he worked as a freelance illustrator with Harper's Weekly, a popular magazine of the time, and began painting. Homer was assigned to cover the inauguration of President Lincoln and, later, the Civil War. His pictures of the Union troops won international recognition. Homer moved to England and, after a two-year stay, returned to America. He settled permanently in Maine in 1883.\n\nFrom the late 1850s until his death in 1910, Winslow Homer produced a body of work distinguished by its thoughtful expression and its independence from artistic conventions. A man of multiple talents, Homer excelled equally in the arts of illustration, oil painting, and watercolor. Many of his works—depictions of children at play and in school, farm girls attending to their work, hunters and their prey—have become classic images of nineteenth-century American life. Others speak to more universal themes such as the primal relationship of humans to nature.\n\nThis two-week exhibition highlights a wide and representative range of Homer's art. It shows his extraordinary career from the battlefields, farmland, and coastal villages of America, to the North Sea fishing village of Cullercoats, the rocky coast of Maine, the Adirondacks, and the Caribbean. The exhibition offers viewers an opportunity to experience and appreciate the breadth of his remarkable artistic achievement.\n52. What does \"Others\" in the third paragraph refer to?",
+    "options": [
+      "Other artists.",
+      "Other themes.",
+      "Other works.",
+      "Other images."
+    ],
+    "answerIndex": 2,
+    "explanation": "前一句 Many of his works… have become classic images，接著 Others speak to more universal themes，Others 指他的其他作品。\n\n故選 (C)"
+  },
+  {
+    "id": "106-gsat-eng-53",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nTea, the most typical English drink, became established in Britain because of the influence of a foreign princess, Catherine of Braganza, the queen of Charles II. A lover of tea since her childhood in Portugal, she brought tea-drinking to the English royal court and set a trend for the beverage in the seventeenth century. The fashion soon spread beyond the circle of the nobility to the middle classes, and tea became a popular drink at the London coffee houses where people met to do business and discuss events of the day. Many employers served a cup of tea to their workers in the middle of the morning, thus inventing a lasting British institution, the \"tea break.\" However, drinking tea in social settings outside the workplace was beyond the means of the majority of British people. It came with a high price tag and tea was taxed as well.\n\nAround 1800, the seventh Duchess of Bedford, Anne Maria, began the popular practice of \"afternoon tea,\" a ceremony taking place at about four o'clock. Until then, people did not usually eat or drink anything between lunch and dinner. At approximately the same time, the Earl of Sandwich popularized a new way of eating bread—in thin slices, with something (e.g., jam or cucumbers) between them. Before long, a small meal at the end of the afternoon, involving tea and sandwiches, had become part of the British way of life.\n\nAs tea became much cheaper during the nineteenth century, its popularity spread right through all corners of the British society. Thus, tea became Britain's favorite drink. In working-class households, it was served with the main meal of the day, eaten when workers returned home after a day's labor. This meal has become known as \"high tea.\"\n\nToday, tea can be drunk at any time of the day, and accounts for over two-fifths of all beverages consumed in Britain—with the exception of water.\n53. How is this passage organized?",
+    "options": [
+      "By cause and effect.",
+      "In the order of importance.",
+      "In the sequence of time.",
+      "By comparison and contrast."
+    ],
+    "answerIndex": 2,
+    "explanation": "文章依時間順序：17 世紀凱薩琳王后帶來喝茶風氣、約 1800 年下午茶、19 世紀茶價下跌與 high tea、今日的情況。\n\n故選 (C)"
+  },
+  {
+    "id": "106-gsat-eng-54",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nTea, the most typical English drink, became established in Britain because of the influence of a foreign princess, Catherine of Braganza, the queen of Charles II. A lover of tea since her childhood in Portugal, she brought tea-drinking to the English royal court and set a trend for the beverage in the seventeenth century. The fashion soon spread beyond the circle of the nobility to the middle classes, and tea became a popular drink at the London coffee houses where people met to do business and discuss events of the day. Many employers served a cup of tea to their workers in the middle of the morning, thus inventing a lasting British institution, the \"tea break.\" However, drinking tea in social settings outside the workplace was beyond the means of the majority of British people. It came with a high price tag and tea was taxed as well.\n\nAround 1800, the seventh Duchess of Bedford, Anne Maria, began the popular practice of \"afternoon tea,\" a ceremony taking place at about four o'clock. Until then, people did not usually eat or drink anything between lunch and dinner. At approximately the same time, the Earl of Sandwich popularized a new way of eating bread—in thin slices, with something (e.g., jam or cucumbers) between them. Before long, a small meal at the end of the afternoon, involving tea and sandwiches, had become part of the British way of life.\n\nAs tea became much cheaper during the nineteenth century, its popularity spread right through all corners of the British society. Thus, tea became Britain's favorite drink. In working-class households, it was served with the main meal of the day, eaten when workers returned home after a day's labor. This meal has become known as \"high tea.\"\n\nToday, tea can be drunk at any time of the day, and accounts for over two-fifths of all beverages consumed in Britain—with the exception of water.\n54. What does the phrase \"a lasting British institution\" in the first paragraph mean?",
+    "options": [
+      "The most popular British organization.",
+      "A long-standing tradition in the UK.",
+      "The last tea company in London.",
+      "A well-established British business."
+    ],
+    "answerIndex": 1,
+    "explanation": "institution 在此指「慣例、習俗」。「上午的茶歇」至今仍是英國長久的傳統。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-eng-55",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nTea, the most typical English drink, became established in Britain because of the influence of a foreign princess, Catherine of Braganza, the queen of Charles II. A lover of tea since her childhood in Portugal, she brought tea-drinking to the English royal court and set a trend for the beverage in the seventeenth century. The fashion soon spread beyond the circle of the nobility to the middle classes, and tea became a popular drink at the London coffee houses where people met to do business and discuss events of the day. Many employers served a cup of tea to their workers in the middle of the morning, thus inventing a lasting British institution, the \"tea break.\" However, drinking tea in social settings outside the workplace was beyond the means of the majority of British people. It came with a high price tag and tea was taxed as well.\n\nAround 1800, the seventh Duchess of Bedford, Anne Maria, began the popular practice of \"afternoon tea,\" a ceremony taking place at about four o'clock. Until then, people did not usually eat or drink anything between lunch and dinner. At approximately the same time, the Earl of Sandwich popularized a new way of eating bread—in thin slices, with something (e.g., jam or cucumbers) between them. Before long, a small meal at the end of the afternoon, involving tea and sandwiches, had become part of the British way of life.\n\nAs tea became much cheaper during the nineteenth century, its popularity spread right through all corners of the British society. Thus, tea became Britain's favorite drink. In working-class households, it was served with the main meal of the day, eaten when workers returned home after a day's labor. This meal has become known as \"high tea.\"\n\nToday, tea can be drunk at any time of the day, and accounts for over two-fifths of all beverages consumed in Britain—with the exception of water.\n55. According to the passage, why was tea NOT a common drink of everyday life in the seventeenth century?",
+    "options": [
+      "It was only served at coffee houses in London.",
+      "It was taxed as an alcoholic drink.",
+      "It was forbidden outside of the business setting.",
+      "It was too expensive for most people."
+    ],
+    "answerIndex": 3,
+    "explanation": "第一段末：在工作場所之外的社交場合喝茶超出大多數英國人的經濟能力，因為茶價高還要課稅。\n\n故選 (D)"
+  },
+  {
+    "id": "106-gsat-eng-56",
+    "examType": "學測",
+    "year": 106,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nTea, the most typical English drink, became established in Britain because of the influence of a foreign princess, Catherine of Braganza, the queen of Charles II. A lover of tea since her childhood in Portugal, she brought tea-drinking to the English royal court and set a trend for the beverage in the seventeenth century. The fashion soon spread beyond the circle of the nobility to the middle classes, and tea became a popular drink at the London coffee houses where people met to do business and discuss events of the day. Many employers served a cup of tea to their workers in the middle of the morning, thus inventing a lasting British institution, the \"tea break.\" However, drinking tea in social settings outside the workplace was beyond the means of the majority of British people. It came with a high price tag and tea was taxed as well.\n\nAround 1800, the seventh Duchess of Bedford, Anne Maria, began the popular practice of \"afternoon tea,\" a ceremony taking place at about four o'clock. Until then, people did not usually eat or drink anything between lunch and dinner. At approximately the same time, the Earl of Sandwich popularized a new way of eating bread—in thin slices, with something (e.g., jam or cucumbers) between them. Before long, a small meal at the end of the afternoon, involving tea and sandwiches, had become part of the British way of life.\n\nAs tea became much cheaper during the nineteenth century, its popularity spread right through all corners of the British society. Thus, tea became Britain's favorite drink. In working-class households, it was served with the main meal of the day, eaten when workers returned home after a day's labor. This meal has become known as \"high tea.\"\n\nToday, tea can be drunk at any time of the day, and accounts for over two-fifths of all beverages consumed in Britain—with the exception of water.\n56. According to the passage, which of the following is true?",
+    "options": [
+      "High tea was served later in the day than afternoon tea in the nineteenth century.",
+      "British people had tea breaks twice a day in the eighteenth century.",
+      "Princess Catherine brought tea to England after visiting Portugal.",
+      "The Earl of Sandwich started the afternoon tea ceremony."
+    ],
+    "answerIndex": 0,
+    "explanation": "下午茶約在四點；high tea 搭配工人下班回家後的正餐，時間較晚。\n(C) 凱薩琳從小在葡萄牙就愛喝茶；(D) 下午茶由貝德福公爵夫人開始，三明治伯爵推廣的是三明治。\n\n故選 (A)"
   }
 ]
