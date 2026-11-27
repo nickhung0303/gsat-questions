@@ -58432,5 +58432,677 @@
       "50"
     ],
     "explanation": "對寒鴉而言，打亂平常飛行模式的干擾是天敵的出現：if a predator (such as a fox) is present, the pattern of their flight will change immediately.\n\n答：a predator（a fox）"
+  },
+  {
+    "id": "112-gsat-eng-01",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. The bus driver often complains about chewing gum found under passenger seats because it is ______ and very hard to remove.",
+    "options": [
+      "sticky",
+      "greasy",
+      "clumsy",
+      "mighty"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：公車司機常抱怨乘客座位下的口香糖，因為它很黏又很難清除。\n• (A) sticky 黏的　(B) greasy 油膩的　(C) clumsy 笨拙的　(D) mighty 強大的\n\n故選 (A)"
+  },
+  {
+    "id": "112-gsat-eng-02",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. Jesse is a talented model. He can easily adopt an elegant ______ for a camera shoot.",
+    "options": [
+      "clap",
+      "toss",
+      "pose",
+      "snap"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：Jesse 是有天分的模特兒，拍照時能輕鬆擺出優雅的姿勢。\n• (A) clap 拍手　(B) toss 拋擲　(C) pose 姿勢　(D) snap 快照、啪一聲\nadopt a pose「擺出姿勢」。\n\n故選 (C)"
+  },
+  {
+    "id": "112-gsat-eng-03",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. In order to draw her family tree, Mary tried to trace her ______ back to their arrival in North America.",
+    "options": [
+      "siblings",
+      "commuters",
+      "ancestors",
+      "instructors"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：為了畫族譜，Mary 試著追溯她的祖先到他們抵達北美的時候。\n• (A) siblings 兄弟姊妹　(B) commuters 通勤者　(C) ancestors 祖先　(D) instructors 教練\n\n故選 (C)"
+  },
+  {
+    "id": "112-gsat-eng-04",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. Upon the super typhoon warning, Nancy rushed to the supermarket—only to find the shelves almost ______ and the stock nearly gone.",
+    "options": [
+      "blank",
+      "bare",
+      "hollow",
+      "queer"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：一發布超級颱風警報，Nancy 衝到超市，結果發現貨架幾乎空空如也、存貨快沒了。\n• (A) blank 空白的（紙、表情）　(B) bare 空無一物的　(C) hollow 中空的　(D) queer 古怪的\n形容貨架上沒東西用 bare。\n\n故選 (B)"
+  },
+  {
+    "id": "112-gsat-eng-05",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. Even though Jack said \"Sorry!\" to me in person, I did not feel any ______ in his apology.",
+    "options": [
+      "liability",
+      "generosity",
+      "integrity",
+      "sincerity"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：雖然 Jack 當面向我說抱歉，我在他的道歉中感受不到任何誠意。\n• (A) liability 責任　(B) generosity 慷慨　(C) integrity 正直　(D) sincerity 誠意\n\n故選 (D)"
+  },
+  {
+    "id": "112-gsat-eng-06",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. My grandfather has astonishing powers of ______. He can still vividly describe his first day at school as a child.",
+    "options": [
+      "resolve",
+      "fraction",
+      "privilege",
+      "recall"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：我祖父的記憶力驚人，仍能生動描述小時候第一天上學的情形。\n• (A) resolve 決心　(B) fraction 部分　(C) privilege 特權　(D) recall 回想、記憶\npowers of recall「記憶力」。\n\n故選 (D)"
+  },
+  {
+    "id": "112-gsat-eng-07",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. Recent research has found lots of evidence to ______ the drug company's claims about its \"miracle\" tablets for curing cancer.",
+    "options": [
+      "provoke",
+      "counter",
+      "expose",
+      "convert"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：最近的研究發現許多證據可以反駁該藥廠宣稱其「神奇」藥丸能治癒癌症的說法。\n• (A) provoke 激怒　(B) counter 反駁　(C) expose 揭露、使暴露　(D) convert 轉換\n證據用來「反駁」說法，用 counter。\n\n故選 (B)"
+  },
+  {
+    "id": "112-gsat-eng-08",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. Corrupt officials and misguided policies have ______ the country's economy and burdened its people with enormous foreign debts.",
+    "options": [
+      "crippled",
+      "accelerated",
+      "rendered",
+      "ventured"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：貪官與錯誤的政策重創了國家經濟，使人民背負巨額外債。\n• (A) cripple 使癱瘓、重創　(B) accelerate 加速　(C) render 使成為　(D) venture 冒險\n\n故選 (A)"
+  },
+  {
+    "id": "112-gsat-eng-09",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. As a record number of fans showed up for the baseball final, the highways around the stadium were ______ with traffic all day.",
+    "options": [
+      "choked",
+      "disturbed",
+      "enclosed",
+      "injected"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：創紀錄的球迷湧入棒球冠軍賽，球場周邊公路整天車流壅塞。\nbe choked with traffic「交通阻塞」。\n\n故選 (A)"
+  },
+  {
+    "id": "112-gsat-eng-10",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. Studies show that the ______ unbiased media are in fact often deeply influenced by political ideology.",
+    "options": [
+      "undoubtedly",
+      "roughly",
+      "understandably",
+      "supposedly"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：研究顯示，那些「理應」中立的媒體其實常深受政治意識形態影響。\n• (A) undoubtedly 無疑地　(B) roughly 大約　(C) understandably 可理解地　(D) supposedly 據稱、理應\n與 in fact 形成對比，用 supposedly。\n\n故選 (D)"
+  },
+  {
+    "id": "112-gsat-eng-11",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nIn certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 【 11 】, touches the neighboring tree. This beautiful phenomenon is called crown shyness.\n\nScientists have been discussing crown shyness since the 1920s, proposing 【 12 】 explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain \"shyness gaps\"—spaces large enough to prevent them from touching their neighbors.\n\nOther scientists suggest that plants, like animals, 【 13 】 resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their 【 14 】 light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. 【 15 】 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.\n\n11.",
+    "options": [
+      "in no time",
+      "by all means",
+      "but not quite",
+      "and pretty much"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：每根樹枝長得恰到好處，幾乎、「但又沒有真的」碰到鄰樹，形成縫隙。but not quite 與 almost 呼應，表示差一點點。\n\n故選 (C)"
+  },
+  {
+    "id": "112-gsat-eng-12",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nIn certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 【 11 】, touches the neighboring tree. This beautiful phenomenon is called crown shyness.\n\nScientists have been discussing crown shyness since the 1920s, proposing 【 12 】 explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain \"shyness gaps\"—spaces large enough to prevent them from touching their neighbors.\n\nOther scientists suggest that plants, like animals, 【 13 】 resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their 【 14 】 light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. 【 15 】 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.\n\n12.",
+    "options": [
+      "universal",
+      "productive",
+      "conventional",
+      "multiple"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：科學家提出「多種」解釋，下文依序介紹 Some researchers… 與 Other scientists… 的不同說法。\n\n故選 (D)"
+  },
+  {
+    "id": "112-gsat-eng-13",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nIn certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 【 11 】, touches the neighboring tree. This beautiful phenomenon is called crown shyness.\n\nScientists have been discussing crown shyness since the 1920s, proposing 【 12 】 explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain \"shyness gaps\"—spaces large enough to prevent them from touching their neighbors.\n\nOther scientists suggest that plants, like animals, 【 13 】 resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their 【 14 】 light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. 【 15 】 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.\n\n13.",
+    "options": [
+      "get over",
+      "compete for",
+      "give way to",
+      "make up for"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：植物和動物一樣會「競爭」養分、水、空間和光等資源；下一句提到 intense struggle（激烈爭奪）。\n\n故選 (B)"
+  },
+  {
+    "id": "112-gsat-eng-14",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nIn certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 【 11 】, touches the neighboring tree. This beautiful phenomenon is called crown shyness.\n\nScientists have been discussing crown shyness since the 1920s, proposing 【 12 】 explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain \"shyness gaps\"—spaces large enough to prevent them from touching their neighbors.\n\nOther scientists suggest that plants, like animals, 【 13 】 resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their 【 14 】 light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. 【 15 】 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.\n\n14.",
+    "options": [
+      "reliance on",
+      "exposure to",
+      "sensitivity to",
+      "reflection on"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：樹冠間的縫隙讓樹木增加「照射到」光的程度，增強光合作用。exposure to light「曝光、照光」。\n\n故選 (B)"
+  },
+  {
+    "id": "112-gsat-eng-15",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nIn certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 【 11 】, touches the neighboring tree. This beautiful phenomenon is called crown shyness.\n\nScientists have been discussing crown shyness since the 1920s, proposing 【 12 】 explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain \"shyness gaps\"—spaces large enough to prevent them from touching their neighbors.\n\nOther scientists suggest that plants, like animals, 【 13 】 resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their 【 14 】 light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. 【 15 】 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.\n\n15.",
+    "options": [
+      "For",
+      "Besides",
+      "Despite",
+      "Concerning"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：「儘管」研究了數十年，對於樹冠羞避的成因仍無定論。前後語意相反，用 Despite。\n\n故選 (C)"
+  },
+  {
+    "id": "112-gsat-eng-16",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nGravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 【 16 】 Earth's pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts' 【 17 】 condition.\n\nOur bodies have evolved to exist within Earth's gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth's gravity. However, with the absence of gravity in the outer space, our body fluids 【 18 】, shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This \"Charlie Brown effect\" will be more 【 19 】 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often 【 20 】 space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.\n\n16.",
+    "options": [
+      "back to",
+      "free of",
+      "long before",
+      "straight on"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：克服重力，讓火箭能「擺脫」地球引力、射向月球。free of…「脫離…」。\n\n故選 (B)"
+  },
+  {
+    "id": "112-gsat-eng-17",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nGravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 【 16 】 Earth's pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts' 【 17 】 condition.\n\nOur bodies have evolved to exist within Earth's gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth's gravity. However, with the absence of gravity in the outer space, our body fluids 【 18 】, shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This \"Charlie Brown effect\" will be more 【 19 】 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often 【 20 】 space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.\n\n17.",
+    "options": [
+      "physical",
+      "perceptual",
+      "mental",
+      "external"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：如今科學家更關心低重力如何影響太空人的「身體」狀況；下文講體液移動、臉部浮腫等生理現象。\n\n故選 (A)"
+  },
+  {
+    "id": "112-gsat-eng-18",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nGravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 【 16 】 Earth's pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts' 【 17 】 condition.\n\nOur bodies have evolved to exist within Earth's gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth's gravity. However, with the absence of gravity in the outer space, our body fluids 【 18 】, shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This \"Charlie Brown effect\" will be more 【 19 】 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often 【 20 】 space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.\n\n18.",
+    "options": [
+      "redistribute",
+      "redistributed",
+      "redistributing",
+      "being redistributed"
+    ],
+    "answerIndex": 0,
+    "explanation": "本句主詞 our body fluids 缺少主要動詞，且全段用現在式描述一般事實，故用 redistribute（重新分布，不及物）；後面 shifting… 為分詞構句。\n\n故選 (A)"
+  },
+  {
+    "id": "112-gsat-eng-19",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nGravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 【 16 】 Earth's pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts' 【 17 】 condition.\n\nOur bodies have evolved to exist within Earth's gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth's gravity. However, with the absence of gravity in the outer space, our body fluids 【 18 】, shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This \"Charlie Brown effect\" will be more 【 19 】 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often 【 20 】 space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.\n\n19.",
+    "options": [
+      "contagious",
+      "unusual",
+      "severe",
+      "aggressive"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：火星任務需時約三年，比登月久得多，因此「查理布朗效應」會更「嚴重」。\n\n故選 (C)"
+  },
+  {
+    "id": "112-gsat-eng-20",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nGravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 【 16 】 Earth's pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts' 【 17 】 condition.\n\nOur bodies have evolved to exist within Earth's gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth's gravity. However, with the absence of gravity in the outer space, our body fluids 【 18 】, shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This \"Charlie Brown effect\" will be more 【 19 】 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often 【 20 】 space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.\n\n20.",
+    "options": [
+      "varied with",
+      "brought about",
+      "transferred from",
+      "accompanied by"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：此效應常「伴隨著」太空動暈症、頭痛和噁心。be accompanied by…「伴隨…」。\n\n故選 (D)"
+  },
+  {
+    "id": "112-gsat-eng-21-30",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 21-30 題組】\nWater makes up more than half of our body weight. To sustain this amount of fluid in our bodies, plain water is considered our best choice, for it contains no sugar and no calories. Yet, is water always the healthiest drink we can ___(21)___? Well, it depends on who and where we are, and what we're doing.\n\nObviously, a physically ___(22)___ person with an outdoor job under the sun will need to drink more fluid than a desk-bound person who lives and works in an air-conditioned place. But there's more to it than that. When a person sweats, he loses water and salt, so he needs to replace both. Replacing lost fluid with just plain water means the body has too much water and not enough salt. To ___(23)___ things out, the body will get rid of water by producing urine. For this reason, milk can actually be more ___(24)___ than drinking water. Milk naturally contains salt and lactose, a sugar which the human body needs in small amounts to help stimulate water ___(25)___. Coconut water, which contains salt and carbohydrates, is also more functional than water at restoring and maintaining a normal fluid ___(26)___ after exercise.\n\nFor the average person, however, water remains a very good ___(27)___ for keeping hydrated—if you know how to drink it. The secret is: Never wait until the body is telling you you're thirsty, since there must already have been significant changes in your body for it to eventually ___(28)___ your consciousness. At that point, it might be well past the best moment to take in fluid. Also, drinking a lot of liquid in one go can cause more water to ___(29)___ the body quickly and come out as urine. To ___(30)___ this, you need to drink water throughout the day to maintain your hydration levels.\n\n(A) absorption　(B) active　(C) alert　(D) combat　(E) option　(F) effective　(G) even　(H) status　(I) pass through　(J) reach for\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "J",
+      "B",
+      "G",
+      "F",
+      "A",
+      "H",
+      "E",
+      "C",
+      "I",
+      "D"
+    ],
+    "blankLabels": [
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "explanation": "• 21 (J) reach for：the healthiest drink we can reach for（我們能伸手拿的最健康飲品），can 後接原形動詞。\n• 22 (B) active：physically active person（活動量大的人），與 desk-bound（久坐的人）對比。\n• 23 (G) even：even things out（使平衡），身體排尿以平衡水與鹽。\n• 24 (F) effective：牛奶可能比水更「有效」（補水）。\n• 25 (A) absorption：乳糖幫助刺激水分「吸收」。\n• 26 (H) status：normal fluid status（正常的體液狀態）。\n• 27 (E) option：a very good option（很好的選擇）。\n• 28 (C) alert：alert your consciousness（提醒你的意識），for it to + 原形動詞。\n• 29 (I) pass through：大量喝水會讓水很快「通過」身體並排出。\n• 30 (D) combat：為了「對抗」這種情形，要整天分次喝水。"
+  },
+  {
+    "id": "112-gsat-eng-31-34",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "fill",
+    "points": 8,
+    "question": "【篇章結構 31-34 題組】\nHave you ever thought of \"coloring\" the names of the days of the week? When you listen to someone speaking, do you see a rainbow of colors? Or perhaps Mozart's music tastes like an apple pie to you? If so, it is very likely that you have synesthesia.\n\nSynesthesia is a condition in which people's senses intermix. In some cases, people with synesthesia may experience colors when they hear, read, or even think of letters and numbers. In others, words can trigger a real sensation of taste on their tongue.\n\n___(31)___ In the early 1990s, however, scientists noticed that synesthetic colors do not change over time. When asked what color is evoked by a letter or number, synesthetic people would persistently give the same answer even if tested months or years apart. ___(32)___ The most compelling support, however, comes from brain scans, which show that color processing areas in the brain light up when these people listen to certain words.\n\nIs synesthesia genetically inherited or acquired after birth? Scientists agree that synesthesia has a genetic basis, because it frequently runs in families. But an actual synesthesia gene (or genes) has not been identified yet. ___(33)___ For example, the flavors people with taste-word synesthesia experience are usually childhood flavors, such as chocolate or strawberries. Also, people with color-music synesthesia more often than not have had early musical training.\n\nOnce thought to be extremely rare, synesthesia is now found to affect about one to four percent of the population. ___(34)___ As is often observed, most of us tend to associate lower notes with darker colors and higher notes with brighter colors. Researchers further point out that in most people synesthesia is active only during the first months of their infancy, while this ability remains forever in certain individuals.\n\n(A) This consistency serves as a proof that synesthesia is real.\n(B) Meanwhile, environmental influences seem to shape a person's synesthesia.\n(C) People with synesthesia used to be accused of making their experiences up.\n(D) Some studies even show that people may all be synesthetic to some degree.\n（請依序填入各題代號 A～D）",
+    "blanks": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "explanation": "• 31 (C)：「聯覺者過去常被指控捏造經驗」，接著 however 轉折，說科學家發現聯覺顏色不隨時間改變。\n• 32 (A)：「這種一致性（consistency）證明聯覺是真的」，承接前句「多年後仍給相同答案」，後句 The most compelling support, however… 再提出更有力的證據。\n• 33 (B)：「同時，環境影響似乎也塑造聯覺」，接著舉童年口味、早期音樂訓練為例。\n• 34 (D)：「有研究甚至顯示人人某種程度上都有聯覺」，接著說多數人會把低音和暗色、高音和亮色聯想在一起。"
+  },
+  {
+    "id": "112-gsat-eng-35",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 35-38 題組】\nWhen did people first experience the joy of the hula hoop? Although the term did not emerge until the 18th century, toy hoops twirled around the waist, limbs, or neck can be traced back to ancient times. As early as 1000 BC, Egyptian children played with hoop toys of dried grapevine. They threw, jumped, and slung them around their bodies as we do today. They also struck them with sticks to roll them down the road. Hoop rolling was also popular in ancient Greece. Their hoops, often made of metal, were not merely toys for Greek children but served as exercise devices as well.\n\nIn the 14th century, hoops were popular as a form of recreation in Great Britain. The craze for hoops even resulted in dislocated backs and heart attacks, according to medical records. The term \"hula,\" however, did not enter the English language until the 1700s, when British sailors first witnessed hula dancing in the Hawaiian Islands. Though no hoops were used, the movements of the ritual dances looked very similar to those in hooping. Thus \"hula\" and \"hoop\" came together, resulting in the term \"hula hooping.\"\n\nHoops spun their way through the cultures of pre-colonial America as well. Often considered as representing the circle of life, hoops featured prominently in the ritual dances of Native Americans. Dancers used small reed hoops as symbolic representations of animals such as eagles or snakes. With very rapid movements, they used the hoops to construct the symbolic forms around their bodies.\n\nThe hula hoop gained international popularity in the late 1950s, when a plastic version was successfully marketed by California's Wham-O toy company. Twenty-five million plastic hoops were sold in less than four months. The hula hoop \"fad\" is still going strong today.\n\n35. What question does the passage answer?",
+    "options": [
+      "How was the word \"hula-hooping\" derived?",
+      "Why did Wham-O start making hula hoops?",
+      "Where did Hawaiian hula dancing come from?",
+      "What was the favorite toy of ancient Egyptian kids?"
+    ],
+    "answerIndex": 0,
+    "explanation": "第二段說明：英國水手在夏威夷看到草裙舞（hula），動作和轉呼拉圈相似，於是 hula 與 hoop 結合成 hula hooping。其他選項文中未說明。\n\n故選 (A)"
+  },
+  {
+    "id": "112-gsat-eng-36",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 35-38 題組】\nWhen did people first experience the joy of the hula hoop? Although the term did not emerge until the 18th century, toy hoops twirled around the waist, limbs, or neck can be traced back to ancient times. As early as 1000 BC, Egyptian children played with hoop toys of dried grapevine. They threw, jumped, and slung them around their bodies as we do today. They also struck them with sticks to roll them down the road. Hoop rolling was also popular in ancient Greece. Their hoops, often made of metal, were not merely toys for Greek children but served as exercise devices as well.\n\nIn the 14th century, hoops were popular as a form of recreation in Great Britain. The craze for hoops even resulted in dislocated backs and heart attacks, according to medical records. The term \"hula,\" however, did not enter the English language until the 1700s, when British sailors first witnessed hula dancing in the Hawaiian Islands. Though no hoops were used, the movements of the ritual dances looked very similar to those in hooping. Thus \"hula\" and \"hoop\" came together, resulting in the term \"hula hooping.\"\n\nHoops spun their way through the cultures of pre-colonial America as well. Often considered as representing the circle of life, hoops featured prominently in the ritual dances of Native Americans. Dancers used small reed hoops as symbolic representations of animals such as eagles or snakes. With very rapid movements, they used the hoops to construct the symbolic forms around their bodies.\n\nThe hula hoop gained international popularity in the late 1950s, when a plastic version was successfully marketed by California's Wham-O toy company. Twenty-five million plastic hoops were sold in less than four months. The hula hoop \"fad\" is still going strong today.\n\n36. Which of the following statements is true about use of the hoop in history?",
+    "options": [
+      "The British used it for medical purposes.",
+      "Native Americans used it to train animals.",
+      "Ancient Greeks used it as a tool for workout.",
+      "Hawaiian dancers used it to represent the circle of life."
+    ],
+    "answerIndex": 2,
+    "explanation": "第一段：古希臘的圈不只是玩具，也是運動器材（exercise devices）。\n(A) 英國的醫療紀錄是說呼拉圈造成傷害；(B) 美洲原住民用圈象徵動物；(D) 象徵生命循環的是美洲原住民，夏威夷舞蹈並沒有用圈。\n\n故選 (C)"
+  },
+  {
+    "id": "112-gsat-eng-37",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 35-38 題組】\nWhen did people first experience the joy of the hula hoop? Although the term did not emerge until the 18th century, toy hoops twirled around the waist, limbs, or neck can be traced back to ancient times. As early as 1000 BC, Egyptian children played with hoop toys of dried grapevine. They threw, jumped, and slung them around their bodies as we do today. They also struck them with sticks to roll them down the road. Hoop rolling was also popular in ancient Greece. Their hoops, often made of metal, were not merely toys for Greek children but served as exercise devices as well.\n\nIn the 14th century, hoops were popular as a form of recreation in Great Britain. The craze for hoops even resulted in dislocated backs and heart attacks, according to medical records. The term \"hula,\" however, did not enter the English language until the 1700s, when British sailors first witnessed hula dancing in the Hawaiian Islands. Though no hoops were used, the movements of the ritual dances looked very similar to those in hooping. Thus \"hula\" and \"hoop\" came together, resulting in the term \"hula hooping.\"\n\nHoops spun their way through the cultures of pre-colonial America as well. Often considered as representing the circle of life, hoops featured prominently in the ritual dances of Native Americans. Dancers used small reed hoops as symbolic representations of animals such as eagles or snakes. With very rapid movements, they used the hoops to construct the symbolic forms around their bodies.\n\nThe hula hoop gained international popularity in the late 1950s, when a plastic version was successfully marketed by California's Wham-O toy company. Twenty-five million plastic hoops were sold in less than four months. The hula hoop \"fad\" is still going strong today.\n\n37. Which of the following is NOT mentioned as a way of enjoying hula hoop fun?",
+    "options": [
+      "Striking.",
+      "Twirling.",
+      "Spinning.",
+      "Kicking."
+    ],
+    "answerIndex": 3,
+    "explanation": "文中提到 twirled（旋轉）、struck them with sticks（用棍子敲打）、spun（轉動），沒有提到「踢」。\n\n故選 (D)"
+  },
+  {
+    "id": "112-gsat-eng-38",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 35-38 題組】\nWhen did people first experience the joy of the hula hoop? Although the term did not emerge until the 18th century, toy hoops twirled around the waist, limbs, or neck can be traced back to ancient times. As early as 1000 BC, Egyptian children played with hoop toys of dried grapevine. They threw, jumped, and slung them around their bodies as we do today. They also struck them with sticks to roll them down the road. Hoop rolling was also popular in ancient Greece. Their hoops, often made of metal, were not merely toys for Greek children but served as exercise devices as well.\n\nIn the 14th century, hoops were popular as a form of recreation in Great Britain. The craze for hoops even resulted in dislocated backs and heart attacks, according to medical records. The term \"hula,\" however, did not enter the English language until the 1700s, when British sailors first witnessed hula dancing in the Hawaiian Islands. Though no hoops were used, the movements of the ritual dances looked very similar to those in hooping. Thus \"hula\" and \"hoop\" came together, resulting in the term \"hula hooping.\"\n\nHoops spun their way through the cultures of pre-colonial America as well. Often considered as representing the circle of life, hoops featured prominently in the ritual dances of Native Americans. Dancers used small reed hoops as symbolic representations of animals such as eagles or snakes. With very rapid movements, they used the hoops to construct the symbolic forms around their bodies.\n\nThe hula hoop gained international popularity in the late 1950s, when a plastic version was successfully marketed by California's Wham-O toy company. Twenty-five million plastic hoops were sold in less than four months. The hula hoop \"fad\" is still going strong today.\n\n38. According to the passage, what materials have been used for making hoops?",
+    "options": [
+      "reed, grapevine, bamboo, plastic",
+      "reed, grapevine, plastic, metal",
+      "reed, bamboo, plastic, animal skin",
+      "grapevine, plastic, metal, animal skin"
+    ],
+    "answerIndex": 1,
+    "explanation": "文中出現的材料：埃及的乾葡萄藤（grapevine）、希臘的金屬（metal）、美洲原住民的蘆葦（reed）、Wham-O 的塑膠（plastic）。沒有竹子或獸皮。\n\n故選 (B)"
+  },
+  {
+    "id": "112-gsat-eng-39",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 39-42 題組】\nWhen you enjoy your morning cup of tea, you are probably not aware that those tea leaves can mean injury, or even death, for Asian elephants roaming Indian tea gardens.\n\nIn the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant's habitats and endangering their population. Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs. The trenches, however, can be death traps for the elephants. Since the elephants need to use tea plantations as landmarks when navigating forests, they almost inevitably have to move through the farms. Moreover, because there are fewer humans around, pregnant females often use tea-growing areas as safe shelters to give birth. But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out. When mothers try to dig their babies out, both may be trapped and smothered by thick mud. Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.\n\nIs it possible for elephants to coexist with the prosperous tea business? Elephant Friendly Tea is an organization that takes the initiative to make it possible. The organization encourages consumers to choose brands that take precautions to protect elephants and has set up a certification program to reward tea growers who are doing it right. Until now, only smaller tea brands have been certified, but awareness is growing. The organization believes that people may be motivated to buy elephant-friendly brands when they know more about the risk tea can pose to these endangered animals.\n\n39. Why do farmers in Assam dig trenches in tea gardens?",
+    "options": [
+      "To protect tea trees.",
+      "To trap elephants.",
+      "To expand tea farms.",
+      "To mark boundaries of tea gardens."
+    ],
+    "answerIndex": 0,
+    "explanation": "第二段：土地平坦，農民挖排水溝以免積水傷害茶樹（hurting the shrubs）。\n\n故選 (A)"
+  },
+  {
+    "id": "112-gsat-eng-40",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 39-42 題組】\nWhen you enjoy your morning cup of tea, you are probably not aware that those tea leaves can mean injury, or even death, for Asian elephants roaming Indian tea gardens.\n\nIn the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant's habitats and endangering their population. Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs. The trenches, however, can be death traps for the elephants. Since the elephants need to use tea plantations as landmarks when navigating forests, they almost inevitably have to move through the farms. Moreover, because there are fewer humans around, pregnant females often use tea-growing areas as safe shelters to give birth. But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out. When mothers try to dig their babies out, both may be trapped and smothered by thick mud. Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.\n\nIs it possible for elephants to coexist with the prosperous tea business? Elephant Friendly Tea is an organization that takes the initiative to make it possible. The organization encourages consumers to choose brands that take precautions to protect elephants and has set up a certification program to reward tea growers who are doing it right. Until now, only smaller tea brands have been certified, but awareness is growing. The organization believes that people may be motivated to buy elephant-friendly brands when they know more about the risk tea can pose to these endangered animals.\n\n40. Why are baby elephants easily injured in the Assam tea gardens according to the passage?",
+    "options": [
+      "They cannot find a safe shelter when climbing out of the trenches.",
+      "They cannot locate the landmarks while trying to navigate forests.",
+      "They are trapped by the sharp branches of the tea trees.",
+      "They have difficulties moving around the uneven fields."
+    ],
+    "answerIndex": 3,
+    "explanation": "文中說小象 not used to negotiating rough ground（不習慣在崎嶇地面行走），容易掉進溝裡受傷，即難以在不平的田地中移動。\n\n故選 (D)"
+  },
+  {
+    "id": "112-gsat-eng-41",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 39-42 題組】\nWhen you enjoy your morning cup of tea, you are probably not aware that those tea leaves can mean injury, or even death, for Asian elephants roaming Indian tea gardens.\n\nIn the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant's habitats and endangering their population. Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs. The trenches, however, can be death traps for the elephants. Since the elephants need to use tea plantations as landmarks when navigating forests, they almost inevitably have to move through the farms. Moreover, because there are fewer humans around, pregnant females often use tea-growing areas as safe shelters to give birth. But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out. When mothers try to dig their babies out, both may be trapped and smothered by thick mud. Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.\n\nIs it possible for elephants to coexist with the prosperous tea business? Elephant Friendly Tea is an organization that takes the initiative to make it possible. The organization encourages consumers to choose brands that take precautions to protect elephants and has set up a certification program to reward tea growers who are doing it right. Until now, only smaller tea brands have been certified, but awareness is growing. The organization believes that people may be motivated to buy elephant-friendly brands when they know more about the risk tea can pose to these endangered animals.\n\n41. Which of the following statements about elephants and the tea gardens is true according to the passage?",
+    "options": [
+      "The elephants use the trenches to roam around the tea gardens.",
+      "The fast growth of the tea gardens destroys the elephants' food source.",
+      "Elephants are unwilling to leave their injured members behind in the tea gardens.",
+      "Pregnant elephants avoid delivering babies in the tea gardens for fear of being disturbed."
+    ],
+    "answerIndex": 2,
+    "explanation": "文中說大象不願丟下生病或垂死的同伴，象群會在困住小象的溝旁徘徊數小時。\n(A) 牠們以茶園為地標，不是利用溝渠；(B) 文中說破壞棲地，沒說食物來源；(D) 母象反而常到茶園生產。\n\n故選 (C)"
+  },
+  {
+    "id": "112-gsat-eng-42",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 39-42 題組】\nWhen you enjoy your morning cup of tea, you are probably not aware that those tea leaves can mean injury, or even death, for Asian elephants roaming Indian tea gardens.\n\nIn the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant's habitats and endangering their population. Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs. The trenches, however, can be death traps for the elephants. Since the elephants need to use tea plantations as landmarks when navigating forests, they almost inevitably have to move through the farms. Moreover, because there are fewer humans around, pregnant females often use tea-growing areas as safe shelters to give birth. But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out. When mothers try to dig their babies out, both may be trapped and smothered by thick mud. Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.\n\nIs it possible for elephants to coexist with the prosperous tea business? Elephant Friendly Tea is an organization that takes the initiative to make it possible. The organization encourages consumers to choose brands that take precautions to protect elephants and has set up a certification program to reward tea growers who are doing it right. Until now, only smaller tea brands have been certified, but awareness is growing. The organization believes that people may be motivated to buy elephant-friendly brands when they know more about the risk tea can pose to these endangered animals.\n\n42. What does \"it\" in the last paragraph refer to?",
+    "options": [
+      "To certify elephant-friendly trenches and organizations.",
+      "To reward tea growers for protecting the environment.",
+      "To encourage consumers to choose high-quality brands.",
+      "To create a win-win situation for elephants and tea farms."
+    ],
+    "answerIndex": 3,
+    "explanation": "前一句問「大象能否和繁榮的茶產業共存？」，該組織「主動讓它成為可能」，it 指大象與茶園共存，也就是雙贏局面。\n\n故選 (D)"
+  },
+  {
+    "id": "112-gsat-eng-43",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 43-46 題組】\nSituated off the coast of Tanzania and washed by the warm, clean waters of the Indian Ocean, Zanzibar is a tropical archipelago comprised of several scattered islands. This popular beach destination is now famous for its white sand beaches, slender palms, and turquoise seas. But few people know that in the past, control of Zanzibar meant access to unimaginable wealth.\n\nFrom ancient times, Zanzibar has been a trading hotspot, thanks to its location on the trade route between Arabia and Africa. Traders from Asia had already visited the islands 900 years before the arrival of its first permanent settlers from the African mainland (around 1000 AD). In the 8th century, Persian merchants built settlements here, which grew over the next four centuries into their trading posts. Between the 12th and 15th centuries, trade increased between Arabia, Persia, and Zanzibar, bringing the archipelago both wealth and power.\n\nDuring the Age of Exploration, commerce in Zanzibar quickly boomed, largely due to the rise of the spice trade. At the close of the 15th century, Europeans' craze for spices gave rise to the Spice Route, a network of sea lanes joining Europe with the Far East, where most spices came from. In 1498, Portuguese explorer Vasco da Gama made the first sea voyage to India, via the southernmost tip of Africa. In 1499, he arrived at Zanzibar, an archipelago sitting at the crossroads of the Spice Route. The islands soon attracted traders from different lands. Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction, and Zanzibar became one of the biggest trading centers in the world.\n\nSince the 16th century, Zanzibar has come under the rule of the Portuguese, the Arabians, and then the British, each leaving a mark on the place. The paths of various religions also crossed here: Muslims have lived peacefully with Christians and Buddhists on the islands for centuries. The unique cultural intersections, scented with the aroma of cloves, vanilla, and cinnamon floating in the air, give these jewels on the Indian Ocean an amazing charm that goes far beyond tropical beach fun.\n\n43. Which of the following is true about the earliest traders in Zanzibar?",
+    "options": [
+      "The earliest traders arrived around 900 AD.",
+      "Most of the earliest merchants came from Africa.",
+      "Asian merchants arrived centuries before the African settlers.",
+      "Traders from Persia settled down permanently around 1000 AD."
+    ],
+    "answerIndex": 2,
+    "explanation": "第二段：亞洲商人在第一批非洲永久定居者（約西元 1000 年）抵達前 900 年就已到過這些島嶼，即早了好幾世紀。\n\n故選 (C)"
+  },
+  {
+    "id": "112-gsat-eng-44",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 43-46 題組】\nSituated off the coast of Tanzania and washed by the warm, clean waters of the Indian Ocean, Zanzibar is a tropical archipelago comprised of several scattered islands. This popular beach destination is now famous for its white sand beaches, slender palms, and turquoise seas. But few people know that in the past, control of Zanzibar meant access to unimaginable wealth.\n\nFrom ancient times, Zanzibar has been a trading hotspot, thanks to its location on the trade route between Arabia and Africa. Traders from Asia had already visited the islands 900 years before the arrival of its first permanent settlers from the African mainland (around 1000 AD). In the 8th century, Persian merchants built settlements here, which grew over the next four centuries into their trading posts. Between the 12th and 15th centuries, trade increased between Arabia, Persia, and Zanzibar, bringing the archipelago both wealth and power.\n\nDuring the Age of Exploration, commerce in Zanzibar quickly boomed, largely due to the rise of the spice trade. At the close of the 15th century, Europeans' craze for spices gave rise to the Spice Route, a network of sea lanes joining Europe with the Far East, where most spices came from. In 1498, Portuguese explorer Vasco da Gama made the first sea voyage to India, via the southernmost tip of Africa. In 1499, he arrived at Zanzibar, an archipelago sitting at the crossroads of the Spice Route. The islands soon attracted traders from different lands. Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction, and Zanzibar became one of the biggest trading centers in the world.\n\nSince the 16th century, Zanzibar has come under the rule of the Portuguese, the Arabians, and then the British, each leaving a mark on the place. The paths of various religions also crossed here: Muslims have lived peacefully with Christians and Buddhists on the islands for centuries. The unique cultural intersections, scented with the aroma of cloves, vanilla, and cinnamon floating in the air, give these jewels on the Indian Ocean an amazing charm that goes far beyond tropical beach fun.\n\n44. According to the passage, where is Zanzibar most likely located on the following map?",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-gsat-eng-44.png\" alt=\"世界地圖，標有 A（直布羅陀附近）、B（非洲東岸、赤道以南不遠處）、C（孟加拉灣）、D（非洲南端）四個位置\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 1,
+    "explanation": "文中說桑吉巴在坦尚尼亞外海、位於印度洋，處於阿拉伯與非洲間的貿易路線上，所以位在非洲東岸靠近赤道的 B。A 在直布羅陀附近，C 在孟加拉灣，D 在非洲南端，都不在坦尚尼亞外海。\n\n故選 (B)"
+  },
+  {
+    "id": "112-gsat-eng-45",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 43-46 題組】\nSituated off the coast of Tanzania and washed by the warm, clean waters of the Indian Ocean, Zanzibar is a tropical archipelago comprised of several scattered islands. This popular beach destination is now famous for its white sand beaches, slender palms, and turquoise seas. But few people know that in the past, control of Zanzibar meant access to unimaginable wealth.\n\nFrom ancient times, Zanzibar has been a trading hotspot, thanks to its location on the trade route between Arabia and Africa. Traders from Asia had already visited the islands 900 years before the arrival of its first permanent settlers from the African mainland (around 1000 AD). In the 8th century, Persian merchants built settlements here, which grew over the next four centuries into their trading posts. Between the 12th and 15th centuries, trade increased between Arabia, Persia, and Zanzibar, bringing the archipelago both wealth and power.\n\nDuring the Age of Exploration, commerce in Zanzibar quickly boomed, largely due to the rise of the spice trade. At the close of the 15th century, Europeans' craze for spices gave rise to the Spice Route, a network of sea lanes joining Europe with the Far East, where most spices came from. In 1498, Portuguese explorer Vasco da Gama made the first sea voyage to India, via the southernmost tip of Africa. In 1499, he arrived at Zanzibar, an archipelago sitting at the crossroads of the Spice Route. The islands soon attracted traders from different lands. Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction, and Zanzibar became one of the biggest trading centers in the world.\n\nSince the 16th century, Zanzibar has come under the rule of the Portuguese, the Arabians, and then the British, each leaving a mark on the place. The paths of various religions also crossed here: Muslims have lived peacefully with Christians and Buddhists on the islands for centuries. The unique cultural intersections, scented with the aroma of cloves, vanilla, and cinnamon floating in the air, give these jewels on the Indian Ocean an amazing charm that goes far beyond tropical beach fun.\n\n45. Which of the following can be inferred from the passage about Zanzibar?",
+    "options": [
+      "For centuries, Zanzibar has been a heaven for beach lovers.",
+      "Cloves, vanilla, and cinnamon are common spices in Zanzibar.",
+      "Besides spices, Zanzibar is well known for a great variety of jewelry.",
+      "Vasco da Gama was Zanzibar's first foreign ruler during the Age of Exploration."
+    ],
+    "answerIndex": 1,
+    "explanation": "最後一段說空氣中飄著丁香、香草、肉桂的香氣，可推知這些是當地常見的香料。\n(A) 過去是因貿易聞名；(C) jewels 是比喻島嶼本身；(D) 達伽馬只是抵達，沒有統治。\n\n故選 (B)"
+  },
+  {
+    "id": "112-gsat-eng-46",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 43-46 題組】\nSituated off the coast of Tanzania and washed by the warm, clean waters of the Indian Ocean, Zanzibar is a tropical archipelago comprised of several scattered islands. This popular beach destination is now famous for its white sand beaches, slender palms, and turquoise seas. But few people know that in the past, control of Zanzibar meant access to unimaginable wealth.\n\nFrom ancient times, Zanzibar has been a trading hotspot, thanks to its location on the trade route between Arabia and Africa. Traders from Asia had already visited the islands 900 years before the arrival of its first permanent settlers from the African mainland (around 1000 AD). In the 8th century, Persian merchants built settlements here, which grew over the next four centuries into their trading posts. Between the 12th and 15th centuries, trade increased between Arabia, Persia, and Zanzibar, bringing the archipelago both wealth and power.\n\nDuring the Age of Exploration, commerce in Zanzibar quickly boomed, largely due to the rise of the spice trade. At the close of the 15th century, Europeans' craze for spices gave rise to the Spice Route, a network of sea lanes joining Europe with the Far East, where most spices came from. In 1498, Portuguese explorer Vasco da Gama made the first sea voyage to India, via the southernmost tip of Africa. In 1499, he arrived at Zanzibar, an archipelago sitting at the crossroads of the Spice Route. The islands soon attracted traders from different lands. Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction, and Zanzibar became one of the biggest trading centers in the world.\n\nSince the 16th century, Zanzibar has come under the rule of the Portuguese, the Arabians, and then the British, each leaving a mark on the place. The paths of various religions also crossed here: Muslims have lived peacefully with Christians and Buddhists on the islands for centuries. The unique cultural intersections, scented with the aroma of cloves, vanilla, and cinnamon floating in the air, give these jewels on the Indian Ocean an amazing charm that goes far beyond tropical beach fun.\n\n46. Which set of words is used in the passage to refer to Zanzibar?",
+    "options": [
+      "islands, settlements, posts, crossroads",
+      "islands, posts, jewels, destination",
+      "archipelago, islands, jewels, destination",
+      "archipelago, settlements, paths, islands"
+    ],
+    "answerIndex": 2,
+    "explanation": "文中用 archipelago（群島）、islands、this popular beach destination、these jewels on the Indian Ocean 指桑吉巴。settlements、posts 是波斯人建的聚落、商站，crossroads 指香料路線的交會點，paths 指宗教的路徑。\n\n故選 (C)"
+  },
+  {
+    "id": "112-gsat-eng-47-48",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "fill",
+    "points": 4,
+    "question": "【混合題 47-50 題組】\nEven if you're not a vegetarian, there's a good chance you've heard of plant-based meat. These meat substitutes are often advertised as beneficial for the environment. But do the customers really like them? Read the following chatroom discussions about GreenBurger, a product using alternative-meat patties.\n\n(A) Olivia: That's a firm NO! I tried one when I was a prep cook for Next Level Burgers...tasted awful, just like mashed peas gone to rot.\n(B) Smith: I haven't tried them. I just don't see the point. They are heavily processed with more calories and sodium than meat and are more expensive too! Unless you are a strict vegetarian and eschew meat for ethical reasons, meat is surely a better deal.\n(C) Mika: Not really. It tastes too much like actual meat. If I wanted to eat a dead cow, I would go for real burgers. Being vegan means I try to stick to plant food. But this is just not something that will ever interest me.\n(D) Thomas: GreenBurger just tastes \"beany\" to me, so I think that whatever form it comes in, it works better in recipes that would usually contain beans, such as in a rice bowl (as ground meat substitute). That being said, I'm definitely a carnivore and prefer meat, but I don't see anything wrong with choosing one of the fakey-fakey meaty things once in a while—just for a change.\n(E) Rico: I finally tried one last week. It didn't taste that bad, but I was surprised to find it had 40 more calories than the meat version! Isn't it supposed to be a healthy choice?\n(F) Linda: I liked it fine. I did NOT like the price, though. Hopefully that will come down. I'm trying to eat less beef.\n(G) Ablo: Yes! My whole family does. We've been mostly vegan 90% of the time for the last 6 years and we cannot thank GreenBurger enough! Especially when a burger craving hits...a GreenBurger does the trick. I've tried all kinds of vegan \"burgers,\" and GreenBurgers are closer to what I'm looking for. In fact, I can have them every day—vegan or not!\n(H) Alexander: Well, they taste good if you add plenty of spices and sauces. Good for you? No, not at all. They're highly processed and contain no vegetables. They also contain a very large amount of processed coconut oil, which is even worse than lard. It's a killer for sure if eaten regularly. So why risk your life?\n\n【47-48 題｜填充】請從文章中各選出一個單詞（word），必要時改變字形，填入下列句子的空格。\nOn the whole, the chatroom discussions about GreenBurger mainly focus on the issues of ___(47)___, price, and ___(48)___ concerns.",
+    "blanks": [
+      "taste",
+      "health"
+    ],
+    "acceptedBlanks": [
+      [
+        "health"
+      ],
+      [
+        "taste"
+      ]
+    ],
+    "blankLabels": [
+      "47",
+      "48"
+    ],
+    "explanation": "討論集中在三方面：口味（tasted awful、tastes beany、taste good）、價格（expensive、the price）以及健康（calories、sodium、healthy choice、Good for you?）。依參考答案，47、48 填 taste 與 health，兩者順序可互換。"
+  },
+  {
+    "id": "112-gsat-eng-49",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "multiple",
+    "points": 4,
+    "question": "【混合題 47-50 題組】\nEven if you're not a vegetarian, there's a good chance you've heard of plant-based meat. These meat substitutes are often advertised as beneficial for the environment. But do the customers really like them? Read the following chatroom discussions about GreenBurger, a product using alternative-meat patties.\n\n(A) Olivia: That's a firm NO! I tried one when I was a prep cook for Next Level Burgers...tasted awful, just like mashed peas gone to rot.\n(B) Smith: I haven't tried them. I just don't see the point. They are heavily processed with more calories and sodium than meat and are more expensive too! Unless you are a strict vegetarian and eschew meat for ethical reasons, meat is surely a better deal.\n(C) Mika: Not really. It tastes too much like actual meat. If I wanted to eat a dead cow, I would go for real burgers. Being vegan means I try to stick to plant food. But this is just not something that will ever interest me.\n(D) Thomas: GreenBurger just tastes \"beany\" to me, so I think that whatever form it comes in, it works better in recipes that would usually contain beans, such as in a rice bowl (as ground meat substitute). That being said, I'm definitely a carnivore and prefer meat, but I don't see anything wrong with choosing one of the fakey-fakey meaty things once in a while—just for a change.\n(E) Rico: I finally tried one last week. It didn't taste that bad, but I was surprised to find it had 40 more calories than the meat version! Isn't it supposed to be a healthy choice?\n(F) Linda: I liked it fine. I did NOT like the price, though. Hopefully that will come down. I'm trying to eat less beef.\n(G) Ablo: Yes! My whole family does. We've been mostly vegan 90% of the time for the last 6 years and we cannot thank GreenBurger enough! Especially when a burger craving hits...a GreenBurger does the trick. I've tried all kinds of vegan \"burgers,\" and GreenBurgers are closer to what I'm looking for. In fact, I can have them every day—vegan or not!\n(H) Alexander: Well, they taste good if you add plenty of spices and sauces. Good for you? No, not at all. They're highly processed and contain no vegetables. They also contain a very large amount of processed coconut oil, which is even worse than lard. It's a killer for sure if eaten regularly. So why risk your life?\n\n49. From (A) to (H) in the above chatroom discussions, which ones show that GreenBurger can be a choice for the chatroom participants themselves only under certain circumstances?",
+    "options": [
+      "Olivia",
+      "Smith",
+      "Mika",
+      "Thomas",
+      "Rico",
+      "Linda",
+      "Ablo",
+      "Alexander"
+    ],
+    "answerIndices": [
+      3,
+      5
+    ],
+    "explanation": "題目問「在特定條件下，才會成為發言者自己的選擇」：\n• (D) Thomas：偏好肉，但偶爾換換口味會選它（once in a while—just for a change）。\n• (F) Linda：喜歡它，但不喜歡價格，希望價格降下來（條件是價格）。\n• (A)(B)(C)(H) 都表示不吃或不建議；(E) Rico 只表達對熱量的驚訝；(G) Ablo 每天都可以吃，沒有條件。\n（(B) Smith 說的「除非是嚴格素食者」是講別人，不是他自己。）\n\n故選 (D)(F)"
+  },
+  {
+    "id": "112-gsat-eng-50",
+    "examType": "學測",
+    "year": 112,
+    "subject": "英文",
+    "type": "fill",
+    "points": 2,
+    "question": "【混合題 47-50 題組】\nEven if you're not a vegetarian, there's a good chance you've heard of plant-based meat. These meat substitutes are often advertised as beneficial for the environment. But do the customers really like them? Read the following chatroom discussions about GreenBurger, a product using alternative-meat patties.\n\n(A) Olivia: That's a firm NO! I tried one when I was a prep cook for Next Level Burgers...tasted awful, just like mashed peas gone to rot.\n(B) Smith: I haven't tried them. I just don't see the point. They are heavily processed with more calories and sodium than meat and are more expensive too! Unless you are a strict vegetarian and eschew meat for ethical reasons, meat is surely a better deal.\n(C) Mika: Not really. It tastes too much like actual meat. If I wanted to eat a dead cow, I would go for real burgers. Being vegan means I try to stick to plant food. But this is just not something that will ever interest me.\n(D) Thomas: GreenBurger just tastes \"beany\" to me, so I think that whatever form it comes in, it works better in recipes that would usually contain beans, such as in a rice bowl (as ground meat substitute). That being said, I'm definitely a carnivore and prefer meat, but I don't see anything wrong with choosing one of the fakey-fakey meaty things once in a while—just for a change.\n(E) Rico: I finally tried one last week. It didn't taste that bad, but I was surprised to find it had 40 more calories than the meat version! Isn't it supposed to be a healthy choice?\n(F) Linda: I liked it fine. I did NOT like the price, though. Hopefully that will come down. I'm trying to eat less beef.\n(G) Ablo: Yes! My whole family does. We've been mostly vegan 90% of the time for the last 6 years and we cannot thank GreenBurger enough! Especially when a burger craving hits...a GreenBurger does the trick. I've tried all kinds of vegan \"burgers,\" and GreenBurgers are closer to what I'm looking for. In fact, I can have them every day—vegan or not!\n(H) Alexander: Well, they taste good if you add plenty of spices and sauces. Good for you? No, not at all. They're highly processed and contain no vegetables. They also contain a very large amount of processed coconut oil, which is even worse than lard. It's a killer for sure if eaten regularly. So why risk your life?\n\n50. Which phrase in the chatroom discussions means \"serves the purpose\" or \"works well\"?",
+    "blanks": [
+      "does the trick"
+    ],
+    "acceptedBlanks": [
+      [
+        "do the trick"
+      ]
+    ],
+    "blankLabels": [
+      "50"
+    ],
+    "explanation": "Ablo 說 when a burger craving hits...a GreenBurger does the trick（想吃漢堡時，GreenBurger 就能解饞），do the trick 意為「奏效、達到目的」。\n\n答：does the trick"
   }
 ]
