@@ -54389,5 +54389,385 @@
       "四邊形 PABQ 面積"
     ],
     "explanation": "• $A$ 到直線 $BQ$ 的距離 $= \\overline{AB}\\sin\\angle OBQ = 3\\cdot\\dfrac{24}{25} = \\dfrac{72}{25}$。\n• $\\overline{AP} \\parallel \\overline{BQ}$，$PABQ$ 是上下底 1、2 的梯形，高 $\\dfrac{72}{25}$：\n$$\\text{面積} = \\frac{(1 + 2)}{2}\\cdot\\frac{72}{25} = \\frac{108}{25}$$"
+  },
+  {
+    "id": "112-gsat-mathB-01",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "points": 5,
+    "question": "1. 某抽水站發現其用電量（單位：度）與抽水馬達轉速（單位：rpm）的三次方成正比。根據上述，試問下列這五個圖中，哪一個最可以描述此抽水站的用電量 $y$（度）與抽水馬達轉速 $x$（rpm）的對應關係？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-gsat-mathB-01.png\" alt=\"五個圖形：(1) 遞增且越來越陡 (2) 直線 (3) 遞增但越來越平 (4) 先升後降再升 (5) 先升後降\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (1)",
+      "圖 (2)",
+      "圖 (3)",
+      "圖 (4)",
+      "圖 (5)"
+    ],
+    "answerIndex": 0,
+    "explanation": "$y = kx^3$（$k > 0$，$x \\ge 0$）：過原點、遞增，且增加得越來越快（凹口向上），對應圖 (1)。\n\n故選 (A)"
+  },
+  {
+    "id": "112-gsat-mathB-02",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "points": 5,
+    "question": "2. 考慮實數二階方陣 $\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$，若 $\\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}\\begin{bmatrix} 1 & 0 \\\\ 0 & -2 \\end{bmatrix} = \\begin{bmatrix} 3 & -4 \\\\ -9 & -7 \\end{bmatrix}$，則 $c - 2b$ 的值為何？",
+    "options": [
+      "−11",
+      "−4",
+      "1",
+      "10",
+      "11"
+    ],
+    "answerIndex": 1,
+    "explanation": "左乘 $\\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}$ 交換兩列，右乘 $\\begin{bmatrix} 1 & 0 \\\\ 0 & -2 \\end{bmatrix}$ 把第二行乘 $-2$：\n$$\\begin{bmatrix} c & -2d \\\\ a & -2b \\end{bmatrix} = \\begin{bmatrix} 3 & -4 \\\\ -9 & -7 \\end{bmatrix}$$\n$c = 3$、$-2b = -7$，$c - 2b = 3 - 7 = -4$。\n\n故選 (B)"
+  },
+  {
+    "id": "112-gsat-mathB-03",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "points": 5,
+    "question": "3. 地面上有甲、乙兩大樓，已知甲的高度大於乙，且甲、乙兩大樓的水平距離為 150 公尺。某人從甲樓頂拉一條繩索到乙樓頂，並從甲樓頂測得乙樓頂的俯角為 22°。假設該繩索被拉成直線，試問繩索的長度（單位：公尺）最接近下列哪個選項？（註：眼睛往下看目標物時，視線與水平線間的夾角稱為俯角）",
+    "options": [
+      "150",
+      "$150\\sin22^\\circ$",
+      "$150\\cos22^\\circ$",
+      "$\\dfrac{150}{\\cos22^\\circ}$",
+      "$\\dfrac{150}{\\sin22^\\circ}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "繩索是直角三角形的斜邊，水平距離 150 是俯角的鄰邊：繩長 $= \\dfrac{150}{\\cos22^\\circ}$。\n\n故選 (D)"
+  },
+  {
+    "id": "112-gsat-mathB-04",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "points": 5,
+    "question": "4. 某校期中考試有 29 名考生，且成績均相異，統計後得到位於第 25、第 50、第 75 與第 95 百分位數的考生成績分別為 41、60、74 與 92 分。後來發現成績有誤需要調整分數，成績較高的前 15 名學生的分數應該要各加 5 分，其餘學生成績不變。假設調整後第 25、第 50、第 75 與第 95 百分位數的考生成績分別為 a、b、c 與 d 分，則數組 (a, b, c, d) 為下列哪個選項？",
+    "options": [
+      "(41, 60, 74, 92)",
+      "(41, 60, 74, 97)",
+      "(41, 65, 79, 97)",
+      "(46, 65, 79, 92)",
+      "(46, 65, 79, 97)"
+    ],
+    "answerIndex": 2,
+    "explanation": "由低到高排名，$29\\times0.25 = 7.25$、$29\\times0.5 = 14.5$、$29\\times0.75 = 21.75$、$29\\times0.95 = 27.55$，分別取第 8、15、22、28 名（由低往高數）。\n前 15 名高分者是由低往高的第 15～29 名，所以第 15、22、28 名各加 5 分，第 8 名不變：$(41, 65, 79, 97)$。（加分後排名順序不變。）\n\n故選 (C)"
+  },
+  {
+    "id": "112-gsat-mathB-05",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "points": 5,
+    "question": "5. 袋子裡有編號分別為 1, 2, …, 100 的 100 顆球，某甲從袋中隨機抽取一球，每顆球被抽到的機率均相等。試問在下列哪個選項的條件下，某甲抽到 7 號球的條件機率最大？",
+    "options": [
+      "某甲抽到球的號碼是奇數",
+      "某甲抽到球的號碼是質數",
+      "某甲抽到球的號碼是 7 的倍數",
+      "某甲抽到球的號碼不是 5 的倍數",
+      "某甲抽到球的號碼小於 10"
+    ],
+    "answerIndex": 4,
+    "explanation": "7 號都滿足每個條件，條件機率 $= \\dfrac{1}{\\text{滿足條件的球數}}$：奇數 50、質數 25、7 的倍數 14、不是 5 的倍數 80、小於 10 有 9 顆。9 最少，機率 $\\dfrac19$ 最大。\n\n故選 (E)"
+  },
+  {
+    "id": "112-gsat-mathB-06",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "points": 5,
+    "question": "6. 某甲計算多項式 $f(x) = x^3 + ax^2 + bx + c$ 除以 $g(x) = ax^3 + bx^2 + cx + d$ 的餘式，其中 $a, b, c, d$ 為實數，且 $a \\ne 0$。他誤看成 $g(x)$ 除以 $f(x)$，計算後得出餘式為 $-3x - 17$。假設 $f(x)$ 除以 $g(x)$ 正確的餘式等於 $px^2 + qx + r$，則 $p$ 的值會等於下列哪個選項？",
+    "options": [
+      "−3",
+      "−1",
+      "0",
+      "2",
+      "3"
+    ],
+    "answerIndex": 2,
+    "explanation": "兩者都是三次式，$g(x) \\div f(x)$ 的商為 $a$：$g(x) = a f(x) + (-3x - 17)$。\n所以 $f(x) = \\dfrac1a g(x) + \\dfrac{3x + 17}{a}$，$f \\div g$ 的餘式為 $\\dfrac{3}{a}x + \\dfrac{17}{a}$，沒有 $x^2$ 項，$p = 0$。\n\n故選 (C)"
+  },
+  {
+    "id": "112-gsat-mathB-07",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "points": 5,
+    "question": "7. 已知某手電筒照射的光線為直圓錐狀，且光發散的夾角為 $60^\\circ$，如圖所示。設牆壁與地板垂直且交界處為直線 $L$，將此手電筒以垂直於 $L$ 的方向照射，即此直圓錐的軸與 $L$ 垂直。若手電筒照射在牆壁上的光線邊緣為拋物線的一部份，則在地板上的光線邊緣為下列哪種圖形的一部份？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-gsat-mathB-07.png\" alt=\"手電筒照向牆角，光錐頂角 60°，牆上光邊為拋物線\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "兩相交直線",
+      "圓形",
+      "拋物線",
+      "長短軸不相等的橢圓",
+      "雙曲線"
+    ],
+    "answerIndex": 3,
+    "explanation": "光錐半頂角 $30^\\circ$。牆上為拋物線，表示牆面與一條母線平行，也就是錐軸與牆面夾 $30^\\circ$。\n牆與地板垂直，且錐軸垂直於 $L$，所以錐軸與地板的夾角為 $90^\\circ - 30^\\circ = 60^\\circ$，大於半頂角 $30^\\circ$ 且不等於 $90^\\circ$，截痕為長短軸不相等的橢圓。\n\n故選 (D)"
+  },
+  {
+    "id": "112-gsat-mathB-08",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 某電子看板持續不斷的輪流播放 $A$、$B$ 兩段廣告（$A$、$B$、$A$、$B$…），每個廣告播放時間皆為 $T$ 分鐘（其中 $T$ 為整數）。某甲經過時剛好開始播放 $A$ 廣告，30 分鐘後，某甲回到該處，看到恰好開始播放 $B$ 廣告。試選出可能是 $T$ 值的選項。",
+    "options": [
+      "15",
+      "10",
+      "8",
+      "6",
+      "5"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "$A$ 開始後，$B$ 開始的時刻為 $T, 3T, 5T, \\ldots$，即 $T$ 的奇數倍。需 $30 = (2k + 1)T$：\n$T = 10$（3 倍）✓、$T = 6$（5 倍）✓；$T = 15$（2 倍）、$T = 5$（6 倍）是偶數倍，看到的是 $A$；$T = 8$ 不整除 30。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "112-gsat-mathB-09",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 已知 $a = 6$、$b = \\dfrac{20}{3}$、$c = 2\\sqrt{10}$ 和 $d$，且 $d$ 為有理數，將這四個數標註在數線上，即 $A(a)$、$B(b)$、$C(c)$ 和 $D(d)$。試選出正確的選項。",
+    "options": [
+      "$a + b + c + d$ 必為一個有理數",
+      "$abcd$ 必為一個無理數",
+      "點 $D$ 有可能與點 $C$ 的距離等於 $2\\sqrt{10} + 6$",
+      "點 $A$ 和點 $B$ 的中點位在點 $C$ 的右邊",
+      "數線上和點 $B$ 距離小於 8 的所有點中，正整數有 14 個，負整數有 1 個"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "• (A) 錯誤：含無理數 $2\\sqrt{10}$，和必為無理數。\n• (B) 錯誤：$d = 0$ 時乘積為 0。\n• (C) 正確：取 $d = -6$，$|d - c| = 6 + 2\\sqrt{10}$。\n• (D) 正確：中點 $\\dfrac{19}{3} \\approx 6.333$，$2\\sqrt{10} \\approx 6.325$。\n• (E) 正確：$\\left|x - \\dfrac{20}{3}\\right| < 8 \\iff -\\dfrac43 < x < \\dfrac{44}{3}$，正整數 1～14 共 14 個，負整數只有 $-1$。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "112-gsat-mathB-10",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 某機構在 12 點時將兩種不同的營養劑分別投入培養皿甲與培養皿乙中，此時甲、乙的細菌數量分別為 $X$、$Y$。已知甲的數量每 3 小時成長為原來的 2 倍，例如 15 點時甲的數量為 $2X$。乙的數量每 2 小時成長為原來的 2 倍，例如 14 點時乙的數量為 $2Y$、16 點時乙的數量為 $4Y$。該機構在 18 點時測量發現甲、乙的數量相同，欲以細菌數量隨時間呈指數成長的模型來預估甲、乙 12 點至 24 點的細菌數量。根據上述，試選出正確的選項。",
+    "options": [
+      "$X > Y$",
+      "在 13 點時，甲的數量為 $\\dfrac43X$",
+      "在 15 點時，乙的數量為 $3Y$",
+      "在 19 點時，乙的數量為甲的 1.5 倍",
+      "在 24 點時，乙的數量為甲的 2 倍"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "$t$ 小時後：甲 $X\\cdot2^{t/3}$、乙 $Y\\cdot2^{t/2}$。18 點（$t = 6$）：$4X = 8Y$，$X = 2Y$。\n• (A) 正確。\n• (B) 錯誤：$2^{1/3}X \\approx 1.26X$。\n• (C) 錯誤：$2^{1.5}Y = 2\\sqrt2Y$。\n• (D) 錯誤：$t = 7$，$\\dfrac{Y\\cdot2^{3.5}}{2Y\\cdot2^{7/3}} = 2^{1/6}$。\n• (E) 正確：$t = 12$，乙 $64Y$、甲 $2Y\\cdot16 = 32Y$。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "112-gsat-mathB-11",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 坐標平面上有一圓，其圓心為 $A(a, b)$，且此圓與兩坐標軸皆相切，另有一點 $P(c, c)$，其中 $a > c > 0$，且已知 $\\overline{PA} = a + c$，試選出正確的選項。",
+    "options": [
+      "$a = b$",
+      "點 $P$ 位於直線 $x + y = 0$ 上",
+      "點 $P$ 在此圓內",
+      "$\\dfrac{a + c}{b - c} = \\sqrt2$",
+      "$\\dfrac ac = 2 + 3\\sqrt2$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "與兩軸相切：$|b| = a$（半徑 $a$）。\n• 若 $b = -a$：$\\overline{PA}^2 = (a - c)^2 + (a + c)^2 > (a + c)^2$，不合，所以 $b = a$ ✓ (A)。\n• $\\overline{PA}^2 = 2(a - c)^2 = (a + c)^2 \\implies \\sqrt2(a - c) = a + c$。\n• (B) 錯誤：$c + c > 0$。\n• (C) 錯誤：$\\overline{PA} = a + c >$ 半徑 $a$，在圓外。\n• (D) 正確：$\\dfrac{a + c}{a - c} = \\sqrt2$。\n• (E) 錯誤：$\\dfrac ac = \\dfrac{\\sqrt2 + 1}{\\sqrt2 - 1} = 3 + 2\\sqrt2$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "112-gsat-mathB-12",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 在球心為 $O$ 的球形地球儀上，有 $A$、$B$、$C$、$D$、$E$ 五個點，其中 $A$、$B$、$C$ 三點都在赤道上，且經度分別為東經 $0^\\circ$、$60^\\circ$ 和 $90^\\circ$；$D$、$E$ 兩點都在北緯 $30^\\circ$ 線上，且經度分別為東經 $0^\\circ$、$180^\\circ$。試選出正確的選項。",
+    "options": [
+      "赤道的長度等於東經 $0^\\circ$ 和 $180^\\circ$ 這兩條經線長度的總和",
+      "北緯 $45^\\circ$ 線的長度等於赤道長度的 $\\dfrac12$",
+      "「由 $A$ 沿赤道移動到 $B$ 的最短路徑長」等於「由 $D$ 沿東經 $0^\\circ$ 經線移動到北極點的路徑長」",
+      "「由 $D$ 沿北緯 $30^\\circ$ 線移動到 $E$ 的路徑長」等於「由 $D$ 沿東經 $0^\\circ$ 經線移動到北極點，再由北極點沿東經 $180^\\circ$ 經線移動到 $E$ 的路徑長的總和」",
+      "通過北極點與 $A$ 點的直線與通過北極點與 $C$ 點的直線互相垂直"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "設半徑 $R$。\n• (A) 正確：赤道 $2\\pi R$；每條經線（極到極）$\\pi R$，兩條合計 $2\\pi R$。\n• (B) 錯誤：$2\\pi R\\cos45^\\circ = \\dfrac{\\sqrt2}{2}\\cdot2\\pi R$。\n• (C) 正確：兩者都是 $60^\\circ$ 的大圓弧。\n• (D) 錯誤：沿緯線為半圈 $\\pi R\\cos30^\\circ \\approx 2.72R$；經北極為 $120^\\circ$ 的大圓弧 $\\dfrac{2\\pi R}{3} \\approx 2.09R$。\n• (E) 錯誤：$N = (0, 0, R)$、$A = (R, 0, 0)$、$C = (0, R, 0)$，$\\overrightarrow{NA}\\cdot\\overrightarrow{NC} = R^2 \\ne 0$（夾 $60^\\circ$）。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "112-gsat-mathB-13",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "13. 有兩個正實數 $a$、$b$，已知 $ab^2 = 10^5$，$a^2b = 10^3$，則 $\\log b = \\dfrac{⑬\\text{-}1}{⑬\\text{-}2}$。（化為最簡分數）",
+    "blanks": [
+      "7",
+      "3"
+    ],
+    "blankLabels": [
+      "13-1",
+      "13-2"
+    ],
+    "explanation": "令 $x = \\log a$、$y = \\log b$：$x + 2y = 5$、$2x + y = 3$，解得 $y = \\dfrac73$。"
+  },
+  {
+    "id": "112-gsat-mathB-14",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "14. 從 1 到 20 的 20 個整數中，取出相異的 3 個數 $a$、$b$、$c$，使其成為等差數列，且 $a < b < c$，則 $(a, b, c)$ 的取法有 ⑭-1 ⑭-2 種。",
+    "blanks": [
+      "9",
+      "0"
+    ],
+    "blankLabels": [
+      "14-1",
+      "14-2"
+    ],
+    "explanation": "$b = \\dfrac{a + c}{2}$ 為整數 $\\iff a, c$ 同奇偶。從 10 個奇數或 10 個偶數中選兩個當 $a, c$：$2\\times C^{10}_2 = 90$ 種。"
+  },
+  {
+    "id": "112-gsat-mathB-15",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "15. 如圖所示，平面上有一點 $P_0$ 先朝某方向前進 2 個單位長到達點 $P_1$ 後，依前進方向左轉 15 度；朝新方向前進 2 個單位長到達點 $P_2$ 後，然後再依前進方向左轉 15 度；再朝新方向前進 2 個單位長到達點 $P_3$ 後，…依此類推。則向量 $\\overrightarrow{P_2P_3}$ 與 $\\overrightarrow{P_5P_6}$ 的內積為 ⑮-1 $\\sqrt{⑮\\text{-}2}$。（化為最簡根式）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-gsat-mathB-15.png\" alt=\"P₀ 出發每走 2 單位左轉 15°\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "2",
+      "2"
+    ],
+    "blankLabels": [
+      "15-1",
+      "15-2"
+    ],
+    "explanation": "每走一段轉 $15^\\circ$，$\\overrightarrow{P_2P_3}$ 與 $\\overrightarrow{P_5P_6}$ 相差 3 次轉向，夾角 $45^\\circ$：\n$$2\\cdot2\\cdot\\cos45^\\circ = 2\\sqrt2$$"
+  },
+  {
+    "id": "112-gsat-mathB-16",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "16. 正方形紙張上有一點 $P$，$P$ 點距離紙張左邊界 6 公分，距離下邊界 8 公分。今將紙張的左下角 $O$ 點往內摺至 $P$ 點，如圖所示。則摺進去的三角形面積是 $\\dfrac{⑯\\text{-}1\\ ⑯\\text{-}2\\ ⑯\\text{-}3}{24}$ 平方公分。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-gsat-mathB-16.png\" alt=\"左：紙上一點 P（距左 6、距下 8）；右：左下角 O 摺到 P\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "6",
+      "2",
+      "5"
+    ],
+    "blankLabels": [
+      "16-1",
+      "16-2",
+      "16-3"
+    ],
+    "explanation": "以 $O$ 為原點，$P(6, 8)$。摺痕是 $\\overline{OP}$ 的中垂線：過中點 $(3, 4)$、法向量 $(6, 8)$，即 $3x + 4y = 25$。\n與兩邊交於 $\\left(\\dfrac{25}{3}, 0\\right)$、$\\left(0, \\dfrac{25}{4}\\right)$，摺進去的三角形面積：\n$$\\frac12\\cdot\\frac{25}{3}\\cdot\\frac{25}{4} = \\frac{625}{24}$$"
+  },
+  {
+    "id": "112-gsat-mathB-17",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "17. 考慮所有只用 0, 1, 2 三種數字組成的序列，序列長度 $n$ 是指該序列由 $n$ 個數字組成（可重複出現）。令 $a(n)$ 為在所有長度 $n$ 的序列中連續兩個零（即 00）出現的次數總和。例如長度 3 的序列中含有連續兩個零的有 000、001、002、100、200，其中 000 貢獻 2 次 00，其餘各貢獻 1 次 00，故 $a(3) = 6$。則 $a(5)$ 的值為 ⑰-1 ⑰-2 ⑰-3。",
+    "blanks": [
+      "1",
+      "0",
+      "8"
+    ],
+    "blankLabels": [
+      "17-1",
+      "17-2",
+      "17-3"
+    ],
+    "explanation": "逐個位置計數：長度 5 有 4 個相鄰位置，每個位置是「00」的序列有 $3^3 = 27$ 個（其餘 3 位任意）。\n$a(5) = 4\\times27 = 108$。（驗證 $a(3) = 2\\times3 = 6$ ✓）"
+  },
+  {
+    "id": "112-gsat-mathB-18",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 3,
+    "question": "【第 18-20 題為題組】空地上有三根與地面垂直且等高的電線桿，其底座在一直線上且間距相等。某甲以單點透視法在畫布上畫這三根電線桿。在畫布上設坐標系，使得電線桿皆與 $y$ 軸平行，三根底座的點分別為 $A_1(0, 0)$、$A_2$、$A_3$，都在直線 $L: x + 3y = 0$ 上；三根頂端的點分別為 $B_1(0, 3)$、$B_2$、$B_3$，都在直線 $M: 2x - 3y + 9 = 0$ 上，如圖所示。已知 $\\overline{A_3B_3} = 2\\overline{A_1B_1}$，且由單點透視法可知直線 $A_1B_3$ 與直線 $A_3B_1$ 的交點在直線 $A_2B_2$ 上。設 $L$ 和 $M$ 相交於 $P$ 點（此點又稱為「消失點」）。\n18. 若向量 $\\overrightarrow{PA_1} = k\\overrightarrow{PA_3}$，則 $k$ 的值為 $\\dfrac{⑱\\text{-}1}{⑱\\text{-}2}$。（化為最簡分數）（選填題，3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-gsat-mathB-18.png\" alt=\"透視圖：L、M 兩線交於左方消失點，三根直立線段 A₁B₁、A₂B₂、A₃B₃\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "1",
+      "2"
+    ],
+    "blankLabels": [
+      "18-1",
+      "18-2"
+    ],
+    "explanation": "三根桿子實際等高，畫面上的高度與到消失點 $P$ 的距離成正比。$\\overline{A_3B_3} = 2\\overline{A_1B_1}$，所以 $\\overline{PA_3} = 2\\overline{PA_1}$，且同向，$k = \\dfrac12$。"
+  },
+  {
+    "id": "112-gsat-mathB-19",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 18-20 題為題組】空地上有三根與地面垂直且等高的電線桿，其底座在一直線上且間距相等。某甲以單點透視法在畫布上畫這三根電線桿。在畫布上設坐標系，使得電線桿皆與 $y$ 軸平行，三根底座的點分別為 $A_1(0, 0)$、$A_2$、$A_3$，都在直線 $L: x + 3y = 0$ 上；三根頂端的點分別為 $B_1(0, 3)$、$B_2$、$B_3$，都在直線 $M: 2x - 3y + 9 = 0$ 上，如圖所示。已知 $\\overline{A_3B_3} = 2\\overline{A_1B_1}$，且由單點透視法可知直線 $A_1B_3$ 與直線 $A_3B_1$ 的交點在直線 $A_2B_2$ 上。設 $L$ 和 $M$ 相交於 $P$ 點（此點又稱為「消失點」）。\n19. 試求 $P$ 與 $B_3$ 這兩點的坐標。（非選擇題，6 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-gsat-mathB-18.png\" alt=\"透視圖：L、M 兩線交於左方消失點，三根直立線段 A₁B₁、A₂B₂、A₃B₃\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "selfGrade": true,
+    "blanks": [
+      "$P(-3, 1)$",
+      "$B_3(3, 5)$"
+    ],
+    "blankLabels": [
+      "P",
+      "B₃"
+    ],
+    "explanation": "【消失點】解 $x + 3y = 0$、$2x - 3y + 9 = 0$：$P(-3, 1)$。以 $P$ 為中心的伸縮，把 $A_1B_1$ 放大 2 倍成 $A_3B_3$：$\\overrightarrow{PA_3} = 2\\overrightarrow{PA_1}$，$A_3 = (3, -1)$，$B_3 = (3, 5)$。\n（也可由 $A_1$ 為 $\\overline{PA_3}$ 中點得 $A_3(3, -1)$，再由 $\\overline{A_3B_3} = 6$、桿子鉛直得 $B_3(3, 5)$。）"
+  },
+  {
+    "id": "112-gsat-mathB-20",
+    "examType": "學測",
+    "year": 112,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 18-20 題為題組】空地上有三根與地面垂直且等高的電線桿，其底座在一直線上且間距相等。某甲以單點透視法在畫布上畫這三根電線桿。在畫布上設坐標系，使得電線桿皆與 $y$ 軸平行，三根底座的點分別為 $A_1(0, 0)$、$A_2$、$A_3$，都在直線 $L: x + 3y = 0$ 上；三根頂端的點分別為 $B_1(0, 3)$、$B_2$、$B_3$，都在直線 $M: 2x - 3y + 9 = 0$ 上，如圖所示。已知 $\\overline{A_3B_3} = 2\\overline{A_1B_1}$，且由單點透視法可知直線 $A_1B_3$ 與直線 $A_3B_1$ 的交點在直線 $A_2B_2$ 上。設 $L$ 和 $M$ 相交於 $P$ 點（此點又稱為「消失點」）。\n20. 若有隻蜜蜂恰好停在中間那根電線桿上距離底座與頂端的長度比為 1：2 的位置上。某甲想在這個畫布的線段 $A_2B_2$ 上畫出這隻蜜蜂，假設畫布上蜜蜂位置為 $Q$ 點，即點 $Q$ 到線段 $A_2B_2$ 的底座 $A_2$ 與到線段 $A_2B_2$ 頂端 $B_2$ 的長度比為 1：2，試求 $Q$ 點坐標。（非選擇題，6 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-gsat-mathB-18.png\" alt=\"透視圖：L、M 兩線交於左方消失點，三根直立線段 A₁B₁、A₂B₂、A₃B₃\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "selfGrade": true,
+    "blanks": [
+      "$Q(1, 1)$"
+    ],
+    "blankLabels": [
+      "Q"
+    ],
+    "explanation": "【消失點】解 $x + 3y = 0$、$2x - 3y + 9 = 0$：$P(-3, 1)$。以 $P$ 為中心的伸縮，把 $A_1B_1$ 放大 2 倍成 $A_3B_3$：$\\overrightarrow{PA_3} = 2\\overrightarrow{PA_1}$，$A_3 = (3, -1)$，$B_3 = (3, 5)$。\n• 直線 $A_1B_3$：$5x - 3y = 0$；直線 $A_3B_1$：$4x + 3y = 9$，交點 $R\\left(1, \\dfrac53\\right)$，$A_2B_2$ 為 $x = 1$。\n• $A_2$：$x = 1$ 代入 $L$，$A_2\\left(1, -\\dfrac13\\right)$；$B_2$：代入 $M$，$B_2\\left(1, \\dfrac{11}{3}\\right)$。\n• 同一根桿子在畫面上等比例縮放，所以 $Q$ 把 $\\overline{A_2B_2}$ 分成 1：2：\n$$Q = \\frac23A_2 + \\frac13B_2 = \\left(1, \\frac23\\cdot\\left(-\\frac13\\right) + \\frac13\\cdot\\frac{11}{3}\\right) = (1, 1)$$"
   }
 ]
