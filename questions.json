@@ -27449,5 +27449,498 @@
       "原因"
     ],
     "explanation": "本實驗的關鍵假設是「兩球在同一高度水平飛出，落地時間相同」，這樣水平位移 $\\propto$ 水平速度。若兩球不同時落地，表示碰撞點不等高或碰後有鉛直速度，假設不成立，數據不可用。"
+  },
+  {
+    "id": "96-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "points": 4,
+    "question": "一質量為 $m$ 的小球，在一光滑水平面上，以速度 $\\vec v_0$ 作直線運動。在時間 $t = 0$ 時，小球開始受一定力 $\\vec F$ 的作用，如圖 1 所示，$\\vec F$ 與 $\\vec v_0$ 的夾角為 $\\dfrac{\\pi}{4}$，其量值分別為 $F$ 及 $v_0$。設 $\\vec F$ 的方向為正 $x$ 軸方向，$y$ 軸與之垂直，則在之後的時間 $t = t'$ 時，下列何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-phy-01.png\" alt=\"圖1 v0 與 x 軸夾 π/4，定力 F 沿 +x\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "小球動量在 $x$ 方向的量值為 $mv_0$",
+      "小球動量在 $y$ 方向的量值為 $\\dfrac{\\sqrt2}{2}mv_0 + Ft'$",
+      "小球動量的方向與 $x$ 軸的夾角仍為 $\\dfrac{\\pi}{4}$",
+      "小球動量的量值為 $mv_0 + Ft'$",
+      "小球的動量在 $x$ 方向的量值與在 $y$ 方向的量值的比值為 $1 + \\dfrac{\\sqrt2 Ft'}{mv_0}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【衝量與動量】\n力只在 $x$ 方向，衝量 $Ft'$ 只改變 $p_x$：\n$p_x = \\dfrac{\\sqrt2}{2}mv_0 + Ft'$，$p_y = \\dfrac{\\sqrt2}{2}mv_0$（不變）\n$\\dfrac{p_x}{p_y} = 1 + \\dfrac{Ft'}{\\frac{\\sqrt2}{2}mv_0} = 1 + \\dfrac{\\sqrt2 Ft'}{mv_0}$\n動量方向逐漸偏向 $x$ 軸，量值也不是 $mv_0 + Ft'$（要向量相加）。\n\n故選 (E)"
+  },
+  {
+    "id": "96-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "points": 4,
+    "question": "一質量為 $m$ 之物體固定在一理想彈簧的右端，靜置在水平面上，彈簧的左端固定。設向右拉動物體一小距離，使彈簧較原長伸長 $2x$ 時，彈簧的位能為 $U$。放手後物體由靜止往左運動通過平衡點後，當彈簧較原長減縮 $x$ 時，彈簧的位能為若干？",
+    "options": [
+      "$\\dfrac{U}{4}$",
+      "$-\\dfrac{U}{4}$",
+      "$-U$",
+      "$\\dfrac{U}{2}$",
+      "$-\\dfrac{U}{2}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【彈力位能】\n$U_s = \\dfrac12k(\\Delta x)^2$，與伸長或壓縮無關，且恆為正。\n伸長 $2x$：$U = \\dfrac12k(2x)^2 = 2kx^2$；壓縮 $x$：$\\dfrac12kx^2 = \\dfrac{U}{4}$。\n\n故選 (A)"
+  },
+  {
+    "id": "96-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "points": 4,
+    "question": "質量為 $m$ 的甲球與質量為 $5m$ 的乙球分別固定在一長為 $L$ 的細桿兩端，並繞其質心以角頻率 $\\omega$ 旋轉，轉軸與細桿垂直，旋轉時細桿長度不變；設細桿極輕，其質量可以忽略不計，且兩球的直徑與桿長相比極小，也可以忽略不計。則相對於質心，此轉動系統的角動量的量值為下列何者？",
+    "options": [
+      "$\\dfrac12 mL^2\\omega$",
+      "$\\dfrac23 mL^2\\omega$",
+      "$\\dfrac56 mL^2\\omega$",
+      "$\\dfrac{21}{25} mL^2\\omega$",
+      "$6mL^2\\omega$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【角動量 $L = \\sum mr^2\\omega$】\n質心距甲 $\\dfrac{5}{6}L$、距乙 $\\dfrac16L$。\n$L_{\\text{角}} = \\left[m\\left(\\dfrac{5L}{6}\\right)^2 + 5m\\left(\\dfrac{L}{6}\\right)^2\\right]\\omega = \\dfrac{25 + 5}{36}mL^2\\omega = \\dfrac56 mL^2\\omega$\n\n故選 (C)"
+  },
+  {
+    "id": "96-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "points": 4,
+    "question": "有一均勻木棒，一端置於水平地面上，另一端以水平細繩繫至一鉛直牆壁，使木棒與地面夾 $\\theta$ 角，如圖 2 所示。若已知 $\\tan\\theta = \\dfrac34$，則木棒與地面之間的靜摩擦係數至少應為多少，木棒才不會滑動？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-phy-04.png\" alt=\"圖2 斜靠的木棒，上端以水平細繩繫於牆壁，下端在地面\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "6/5",
+      "2/3",
+      "4/5",
+      "3/5",
+      "3/8"
+    ],
+    "answerIndex": 1,
+    "explanation": "【靜力平衡】\n設棒長 $\\ell$、重 $W$，繩張力 $T$（水平），地面正向力 $N$、靜摩擦力 $f$。\n鉛直：$N = W$；水平：$f = T$。\n以地面接觸點為支點：$T\\cdot\\ell\\sin\\theta = W\\cdot\\dfrac{\\ell}{2}\\cos\\theta \\Rightarrow T = \\dfrac{W}{2\\tan\\theta} = \\dfrac{2W}{3}$\n$\\mu_s \\ge \\dfrac{f}{N} = \\dfrac23$\n\n故選 (B)"
+  },
+  {
+    "id": "96-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "points": 4,
+    "question": "如圖 3 所示，在截面積為 $0.01\\text{ m}^2$ 的 U 形管中，注入密度為 $500\\text{ kg/m}^3$ 的油及密度為 $1000\\text{ kg/m}^3$ 的水，左端開口有一活塞使之形成閉口端，活塞的質量及與器壁的摩擦力均可不計，活塞下方油深 0.1 m。試問需從活塞上方向下施以多大的力，才可維持左側閉口端的油面與右側開口端的水面等高？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-phy-05.png\" alt=\"圖3 U 形管左側活塞下有 0.1 m 深的油，右側為水，兩液面等高\" style=\"width:100%;max-width:150px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "0.98 N",
+      "2.5 N",
+      "4.9 N",
+      "9.8 N",
+      "490 N"
+    ],
+    "answerIndex": 2,
+    "explanation": "【連通管的壓力】\n取油、水交界面的高度（油面下 0.1 m）比較，同一液體（水）中同高度壓力相等：\n左：$\\dfrac{F}{A} + \\rho_{\\text{油}}g(0.1)$；右：$\\rho_{\\text{水}}g(0.1)$（大氣壓力兩邊相同，可抵消）\n$\\dfrac{F}{A} = (1000 - 500)\\times9.8\\times0.1 = 490\\text{ Pa}$，$F = 490\\times0.01 = 4.9\\text{ N}$\n\n故選 (C)"
+  },
+  {
+    "id": "96-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "points": 4,
+    "question": "如圖 4 所示，在平行於 $+y$ 方向上施加一強度為 $E$ 的均勻電場，另在垂直射出紙面的方向上施加一強度為 $B$ 的均勻磁場。起始時，有一質量為 $m$、帶有正電荷 $q$ 的質點，靜止放置在原點處。只受此電磁場的作用下（重力可不計），則在質點的運動過程中，下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-phy-06.png\" alt=\"圖4 +y 方向電場 E 與出紙面磁場 B，正電荷 q 靜置於原點\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "任何時刻質點的加速度朝向 +y 方向",
+      "任何時刻磁場對質點不作功",
+      "任何時刻電場對質點不作功",
+      "任何時刻磁場對質點的作用力為零",
+      "質點在此電磁場中的運動軌跡為圓形"
+    ],
+    "answerIndex": 1,
+    "explanation": "【電磁場中的運動】\n• 磁力 $q\\vec v\\times\\vec B$ 永遠垂直於速度，不作功，(B) 正確。\n• 質點受電力開始運動後就受磁力，加速度不再只朝 $+y$；電場對它作功（有正有負），磁力也不為零。\n• 由靜止出發，在正交電磁場中的軌跡是擺線（像滾輪上一點的軌跡），不是圓。\n\n故選 (B)"
+  },
+  {
+    "id": "96-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "points": 4,
+    "question": "如圖 5 所示，將一揚聲器置於一管狀物的一端開口處，連續改變揚聲器發出的聲頻，發現當頻率為 400 Hz、500 Hz、及 600 Hz 時都會產生共鳴。關於此管狀物的敘述，下列何者可能為正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-phy-07.png\" alt=\"圖5 揚聲器在管子右端開口處，左端未知\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "另一端為閉口，基頻為 100 Hz",
+      "另一端為閉口，基頻為 200 Hz",
+      "另一端為開口，基頻為 100 Hz",
+      "另一端為開口，基頻為 200 Hz",
+      "另一端可以為開口，也可以為閉口"
+    ],
+    "answerIndex": 2,
+    "explanation": "【管柱的共鳴頻率】\n相鄰共鳴頻率相差 100 Hz。\n• 兩端開口：$f_n = nf_1$，相鄰差 $f_1$。$f_1 = 100\\text{ Hz}$ 時 400、500、600 Hz 分別是第 4、5、6 諧音，符合。\n• 一端閉口：只有奇數倍 $f_n = (2n-1)f_1$，相鄰差 $2f_1 = 100$，$f_1 = 50$ Hz，但 400 Hz $= 8f_1$ 是偶數倍，不可能共鳴。\n所以另一端為開口、基頻 100 Hz。\n\n故選 (C)"
+  },
+  {
+    "id": "96-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "points": 4,
+    "question": "小聰有一支會發綠光的雷射筆，他在實驗室中想用單狹縫繞射來決定此綠光的波長，若已知單狹縫的縫寬為 $d$，他還需要測量下列哪些物理量：筆的長度 $\\ell$、光源到屏壁的距離 $L_1$、單狹縫到屏壁的距離 $L_2$、在屏壁上中央亮紋附近所產生兩暗紋的間距 $y$，才能求得此綠光的波長？",
+    "options": [
+      "$\\ell$，$L_1$",
+      "$\\ell$，$L_2$",
+      "$L_1$，$L_2$",
+      "$y$，$L_1$",
+      "$y$，$L_2$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【單狹縫繞射】\n暗紋條件 $d\\sin\\theta = n\\lambda$，小角度時相鄰暗紋間距 $y = \\dfrac{\\lambda L_2}{d}$，其中 $L_2$ 是「狹縫到屏幕」的距離。\n$\\lambda = \\dfrac{yd}{L_2}$，需要量 $y$ 與 $L_2$。光源到屏幕的距離、筆的長度都無關（雷射是平行光）。\n\n故選 (E)"
+  },
+  {
+    "id": "96-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "points": 4,
+    "question": "甲、乙兩鋼瓶分別裝有 3 莫耳的氦氣及 1 莫耳的氬氣，兩鋼瓶維持固定溫度，甲鋼瓶內氦氣的溫度為 300 K，乙鋼瓶內氬氣的溫度為 450 K，且甲鋼瓶容積為乙鋼瓶容積的 2 倍。下列有關兩鋼瓶內理想氣體的敘述中何者正確？（氦的原子量為 4，氬的原子量為 40）",
+    "options": [
+      "氦氣與氬氣的壓力不相等",
+      "氦原子與氬原子的平均動能相等",
+      "氦原子的平均動能小於氬原子的平均動能",
+      "氦原子與氬原子的方均根速率相等",
+      "氦原子的方均根速率小於氬原子的方均根速率"
+    ],
+    "answerIndex": 2,
+    "explanation": "【氣體動力論】\n• 壓力 $P = \\dfrac{nRT}{V}$：氦 $\\dfrac{3R\\times300}{2V} = \\dfrac{450R}{V}$，氬 $\\dfrac{1R\\times450}{V} = \\dfrac{450R}{V}$，相等，(A) 錯。\n• 平均動能 $\\dfrac32kT$ 只與溫度有關：300 K < 450 K，氦較小，(C) 正確、(B) 錯。\n• 方均根速率 $\\sqrt{\\dfrac{3RT}{M}}$：氦 $\\sqrt{\\dfrac{300}{4}} \\approx 8.7$，氬 $\\sqrt{\\dfrac{450}{40}} \\approx 3.4$（相對值），氦較大，(D)(E) 錯。\n\n故選 (C)"
+  },
+  {
+    "id": "96-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "points": 4,
+    "question": "依照波耳的氫原子模型，電子繞質子作等速率圓周運動。若已知電子的質量為 $m$，氫原子在基態時，電子的角動量的量值為 $\\hbar$（$\\hbar = \\dfrac{h}{2\\pi}$，$h$ 為卜朗克常數），其軌道半徑為 $a_0$，則下列敘述何者正確？",
+    "options": [
+      "氫原子在基態時，電子的角速率為 $\\dfrac{\\hbar}{ma_0}$",
+      "氫原子在基態時，電子的靜電位能為 $-\\dfrac{\\hbar^2}{ma_0^2}$",
+      "氫原子在基態時，電子的總能量為 $+\\dfrac{\\hbar^2}{2ma_0^2}$",
+      "氫原子在第一受激態時，電子的總能量為 $+\\dfrac{2\\hbar^2}{ma_0^2}$",
+      "作等速率圓周運動的電子在質子處產生的磁場為零"
+    ],
+    "answerIndex": 1,
+    "explanation": "【波耳模型的能量】\n$mva_0 = \\hbar \\Rightarrow v = \\dfrac{\\hbar}{ma_0}$，角速率 $\\omega = \\dfrac{v}{a_0} = \\dfrac{\\hbar}{ma_0^2}$，(A) 錯。\n動能 $K = \\dfrac12mv^2 = \\dfrac{\\hbar^2}{2ma_0^2}$。庫侖力作圓周運動時 $U = -2K = -\\dfrac{\\hbar^2}{ma_0^2}$，(B) 正確。\n總能量 $E = K + U = -\\dfrac{\\hbar^2}{2ma_0^2}$（負值），(C) 錯；第一受激態能量為基態的 $\\dfrac14$，仍為負，(D) 錯。\n(E) 繞行的電子相當於環形電流，在圓心（質子處）產生磁場，不為零。\n\n故選 (B)"
+  },
+  {
+    "id": "96-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "將萬有引力常數當作已知，則從下面哪些選項中的兩個數據，就可以估計出地球的質量？",
+    "options": [
+      "地球與同步衛星間的距離，地球的自轉周期",
+      "人造衛星的運動速率，人造衛星的周期",
+      "人造衛星與地球間的距離，人造衛星的周期",
+      "地球繞太陽運轉的周期，地球與太陽間的距離",
+      "月球繞地球運轉的周期，月球與地球間的距離"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "【由繞行天體求中心天體質量】\n繞地球作圓周運動：$\\dfrac{GMm}{r^2} = m\\dfrac{4\\pi^2r}{T^2} \\Rightarrow M = \\dfrac{4\\pi^2r^3}{GT^2}$，只要知道「繞地球運動者」的 $r$ 與 $T$。\n• (A) 同步衛星的週期就是地球自轉週期，加上距離即可。\n• (B) 由 $v$ 與 $T$ 得 $r = \\dfrac{vT}{2\\pi}$，也可以。\n• (C)(E) 直接給 $r$ 與 $T$。\n• (D) 地球繞太陽的資料只能求出太陽的質量。\n\n故選 (A)(B)(C)(E)"
+  },
+  {
+    "id": "96-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "當飛機以速率 $v$ 作水平飛行時，若所受的空氣阻力可用 $f = -bv$（$b > 0$，且為常數）表示，負號表示此阻力方向與飛機飛行方向相反，則下列敘述哪些正確？",
+    "options": [
+      "當飛機以等速率水平飛行時，飛機的引擎所提供的水平推力與飛機所受阻力大小相等方向相反",
+      "當飛機以等速率 $2v_0$ 水平飛行時，引擎所需提供的水平推力大小為當飛機以等速率 $v_0$ 水平飛行時的兩倍",
+      "飛機以等速率水平飛行時，飛機所受昇力的大小等於飛機的重量",
+      "飛機水平飛行時，單位時間內阻力所作的功與飛機的速率無關",
+      "當飛機以等速率 $2v_0$ 水平飛行時，引擎輸出的功率為飛機以等速率 $v_0$ 水平飛行時的 2 倍"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "【等速飛行的力與功率】\n• (A)(C) 正確：等速水平飛行合力為零，推力與阻力平衡、昇力與重力平衡。\n• (B) 正確：推力 $= bv$，速率加倍推力加倍。\n• (D) 錯誤：阻力的功率 $= fv = bv^2$，與速率有關。\n• (E) 錯誤：功率 $= bv^2$，速率加倍功率變 4 倍。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "96-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "圖 6 所示為一帶電粒子偵測器裝置的側視圖：在一水平放置、厚度為 $d$ 之薄板上下，有強度相同但方向相反之均勻磁場 $B$；上方之磁場方向為射入紙面，而下方之磁場方向為射出紙面。有一帶電量為 $q$、質量為 $m$ 之粒子進入此偵測器，其運動軌跡為如圖 6 中所示的曲線，粒子的軌跡垂直於磁場方向且垂直穿過薄板。如果薄板下方軌跡之半徑 $R$ 大於薄板上方軌跡之半徑 $r$ 時，設重力與空氣阻力可忽略不計，則下列哪些敘述是正確的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-phy-13.png\" alt=\"圖6 薄板上方入紙面磁場、下方出紙面磁場，軌跡由 O 經薄板到 P，上方半徑 r、下方半徑 R\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "粒子沿著軌跡由 O 點運動至 P 點",
+      "粒子帶正電",
+      "穿過薄板時，粒子動能增加",
+      "穿過薄板所導致的粒子動能改變量為 $\\dfrac12\\dfrac{q^2B^2}{m}(R^2 - r^2)$",
+      "粒子穿過薄板時，所受到的平均阻力為 $\\dfrac{qB}{md}(R^2 - r^2)$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "acceptedAnswerIndices": [
+      [
+        1
+      ]
+    ],
+    "explanation": "【由軌跡半徑判斷能量損失】\n$r = \\dfrac{mv}{qB}$，半徑與速率成正比。粒子穿過薄板只會損失動能、速率變小，所以是從大半徑 $R$ 的下方穿到小半徑 $r$ 的上方：由 P 運動到 O，(A)(C) 錯。\n• (B) 正確：在薄板處粒子向上運動，下方軌跡的圓心在穿越點的右方，向心力向右；下方磁場出紙面，$q\\hat y\\times\\hat z = q\\hat x$ 向右，所以 $q > 0$。\n• (D) 動能 $K = \\dfrac{(qBR)^2}{2m}$，改變量的大小為 $\\dfrac12\\dfrac{q^2B^2}{m}(R^2 - r^2)$（實為減少）。大考中心公告 BD 或 B 皆給分。\n• (E) 錯誤：平均阻力 $= \\dfrac{\\Delta K}{d} = \\dfrac{q^2B^2}{2md}(R^2 - r^2)$。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "96-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "下列各選項中，哪些是電磁波？",
+    "options": [
+      "超聲波",
+      "物質波",
+      "紫外線",
+      "陰極射線",
+      "黑體輻射"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【電磁波】\n• (A) 超聲波是頻率很高的聲波（力學波）。\n• (B) 物質波是描述粒子波動性的波。\n• (C) 紫外線是電磁波。\n• (D) 陰極射線是電子束。\n• (E) 黑體輻射是物體因溫度而放出的電磁波。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "96-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 7 所示的電路，是由電阻為 $R$ 的電阻器與一個二極體 D 並聯，再以電阻可忽略的導線 $L_1$ 與 $L_2$ 分別連接到直流電源供應器 S 的正負極而成。設此二極體的順向偏壓為 $V_d$ 時，通過的電流為 $I_d$。試問當電源供應器供應的電壓調升至 $V_d$ 時，下列敘述中哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-phy-15.png\" alt=\"圖7 電阻 R 與順向的二極體 D 並聯，接到電源 S\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "通過電阻器的電流一定小於 $I_d$",
+      "通過電阻器的電流一定大於 $I_d$",
+      "通過導線 $L_1$ 或 $L_2$ 的電流一定小於 $I_d$",
+      "通過導線 $L_1$ 或 $L_2$ 的電流一定大於 $I_d$",
+      "通過電阻器的電流為 $\\dfrac{V_d}{R}$"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "【並聯電路】\n由圖，電源正極經 $L_1$ 接到二極體的 p 端，二極體為順向偏壓。並聯兩端電壓都是 $V_d$：\n• 二極體電流 $I_d$；電阻器電流 $\\dfrac{V_d}{R}$，(E) 正確。$R$ 未知，無法判斷它與 $I_d$ 的大小，(A)(B) 錯。\n• 導線電流為兩者之和 $I_d + \\dfrac{V_d}{R} > I_d$，(D) 正確、(C) 錯。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "96-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "波列很長的四個橫波，都沿正 $x$ 軸方向傳播，若 $x$ 軸上 O 與 P 兩點間距離為 $L$，在時間 $t = t_0$ 看到此四個波的部份波形分別如圖 8 的甲、乙、丙及丁所示，其波速分別為 $4v$、$3v$、$2v$ 及 $v$。則下列敘述中哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-phy-16.png\" alt=\"圖8 OP 間的四個波形：甲半個波長（向上）、乙一個波長（先向下）、丙 1.5 個波長（先向上）、丁 2 個波長（先向下）\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "頻率大小依序為丁 > 丙 > 乙 > 甲",
+      "甲與丁的周期相同，乙與丙的頻率相同",
+      "甲的波長是乙的兩倍，乙的波長則是丁的兩倍",
+      "在時間 $t = t_0$ 後，O 點最早出現下一個波峰的是乙",
+      "在時間 $t = t_0$ 後，O 點最早出現下一個波谷的是丙"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "【由波形讀波長、頻率與相位】\n由圖：甲 OP 為半波長 $\\lambda = 2L$；乙一個波長 $\\lambda = L$；丙 1.5 個波長 $\\lambda = \\dfrac{2L}{3}$；丁 2 個波長 $\\lambda = \\dfrac{L}{2}$。\n$f = \\dfrac{v}{\\lambda}$：甲 $\\dfrac{2v}{L}$、乙 $\\dfrac{3v}{L}$、丙 $\\dfrac{3v}{L}$、丁 $\\dfrac{2v}{L}$。(B)(C) 正確，(A) 錯。\n波向右傳，O 點接下來的位移依序是 O 左方的波形。甲、丙在 O 右側先向上，表示 O 左側先是波谷：O 將先往下，$\\dfrac{T}{4}$ 後到波谷、$\\dfrac{3T}{4}$ 後到波峰。乙、丁在 O 右側先向下：O 將先往上，$\\dfrac{T}{4}$ 到波峰、$\\dfrac{3T}{4}$ 到波谷。\n• 下一個波峰：甲 $\\dfrac34\\cdot\\dfrac{L}{2v} = \\dfrac{3L}{8v}$、乙 $\\dfrac14\\cdot\\dfrac{L}{3v} = \\dfrac{L}{12v}$、丙 $\\dfrac{L}{4v}$、丁 $\\dfrac{L}{8v}$，乙最早，(D) 正確。\n• 下一個波谷：甲 $\\dfrac{L}{8v}$、乙 $\\dfrac{L}{4v}$、丙 $\\dfrac{L}{12v}$、丁 $\\dfrac{3L}{8v}$，丙最早，(E) 正確。\n\n故選 (B)(C)(D)(E)"
+  },
+  {
+    "id": "96-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "下列各選項中，線框內之光學元件皆為透光玻璃製成。由線框左方射入單色平行光後，哪些線框內之光學元件可能造成如圖 9 所示之光線行進方向？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-phy-17.png\" alt=\"圖9 平行光射入線框後向外發散；選項 (A) 三稜鏡、(B)(C) 兩個稜鏡的不同擺法、(D)(E) 兩種凹透鏡\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "acceptedAnswerIndices": [
+      [
+        1,
+        2,
+        3,
+        4
+      ]
+    ],
+    "explanation": "【使平行光發散的元件】\n圖 9 中平行光射入後向上、向下散開（發散）。\n• (D)(E) 中央薄、邊緣厚的凹透鏡（無論哪一面凹），都會使平行光發散，正確。\n• (A) 單一三稜鏡讓光線都偏向底邊同一側，不會上下散開。\n• (B)(C) 上下兩個稜鏡若分別把上方光線偏向上、下方光線偏向下，也能得到類似的出射方向，因此大考中心公告 DE 或 BCDE 皆給分。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "96-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "釙（Po）是具有放射性的元素，其質量數 $A = 210$，原子序 $Z = 84$，它放射出的 $\\alpha$ 粒子的動能 $E = 5.3\\text{ MeV}$（百萬電子伏特），其衰變式可寫成 Po → Y + $\\alpha$。下列敘述中哪些正確？",
+    "options": [
+      "Y 的 A = 208，Z = 80",
+      "Y 的 A = 206，Z = 82",
+      "衰變前 Po 原子的質量等於衰變後 Y 原子的質量與 $\\alpha$ 粒子的質量之和",
+      "衰變後 Y 與 $\\alpha$ 的質量中心的位置與衰變前 Po 的質量中心位置相同",
+      "對 Po 的質量中心而言，衰變後 Y 是靜止的"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "acceptedAnswerIndices": [
+      [
+        1
+      ]
+    ],
+    "explanation": "【α 衰變】\n• (B) 正確、(A) 錯：放出 $^4_2\\text{He}$，$A = 210 - 4 = 206$，$Z = 84 - 2 = 82$（鉛）。\n• (C) 錯誤：衰變釋放能量（α 粒子有 5.3 MeV 動能），來自質量虧損，衰變前質量大於衰變後的總和。\n• (D) 正確：衰變是內力作用，原本靜止的 Po 質心保持不動。\n• (E) 錯誤：動量守恆，α 粒子射出時 Y 必向反方向反衝。\n大考中心公告 BD 或 B 皆給分。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "96-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】以質量為 $M$ 的鐵鎚沿水平方向正面敲擊鐵釘，欲將長為 $L$、質量為 $m$ 的鐵釘垂直釘入牆內。若鐵鎚每次均以相同之速度 $v_0$ 敲擊鐵釘，敲擊後鐵鎚與鐵釘一起運動，使鐵釘進入牆內一段距離。設鐵鎚與鐵釘碰撞過程所經歷的時間極短，可以忽略不計，且每次鐵釘被鐵鎚敲擊入牆時所受之阻力，均為前次阻力之 $n$ 倍（$n > 1$）。忽略重力。\n\n1. 鐵鎚剛敲擊到鐵釘而與鐵釘一起運動時，兩者的總動能為何？（以 $M$、$m$ 及 $v_0$ 表示）（4 分）",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$K = \\dfrac12\\dfrac{M^2v_0^2}{M + m}$"
+    ],
+    "blankLabels": [
+      "總動能"
+    ],
+    "explanation": "碰撞時間極短，動量守恆（完全非彈性碰撞）：$Mv_0 = (M + m)V \\Rightarrow V = \\dfrac{Mv_0}{M + m}$\n$K = \\dfrac12(M + m)V^2 = \\dfrac{M^2v_0^2}{2(M + m)}$"
+  },
+  {
+    "id": "96-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】以質量為 $M$ 的鐵鎚沿水平方向正面敲擊鐵釘，欲將長為 $L$、質量為 $m$ 的鐵釘垂直釘入牆內。若鐵鎚每次均以相同之速度 $v_0$ 敲擊鐵釘，敲擊後鐵鎚與鐵釘一起運動，使鐵釘進入牆內一段距離。設鐵鎚與鐵釘碰撞過程所經歷的時間極短，可以忽略不計，且每次鐵釘被鐵鎚敲擊入牆時所受之阻力，均為前次阻力之 $n$ 倍（$n > 1$）。忽略重力。\n\n2. 如果鐵釘受鐵鎚敲擊兩次後就完全釘入牆內。求證第一次敲擊時的阻力為 $F_1 = \\dfrac12\\dfrac{M^2v_0^2}{M + m}\\dfrac1L\\left(1 + \\dfrac1n\\right)$。（3 分）",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "每次敲擊後的動能 $K$ 都被阻力作功消耗：$F_1d_1 = K$，$F_2d_2 = nF_1d_2 = K \\Rightarrow d_2 = \\dfrac{d_1}{n}$。$d_1 + d_2 = L \\Rightarrow d_1 = \\dfrac{L}{1 + 1/n}$，所以 $F_1 = \\dfrac{K}{d_1} = \\dfrac12\\dfrac{M^2v_0^2}{M + m}\\dfrac1L\\left(1 + \\dfrac1n\\right)$。"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "關鍵：每次敲擊後的動能都相同（$K = \\dfrac{M^2v_0^2}{2(M+m)}$），而阻力作功把它全部消耗。第二次阻力是第一次的 $n$ 倍，進入深度只有 $\\dfrac1n$。兩次深度總和等於釘長 $L$。"
+  },
+  {
+    "id": "96-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】以質量為 $M$ 的鐵鎚沿水平方向正面敲擊鐵釘，欲將長為 $L$、質量為 $m$ 的鐵釘垂直釘入牆內。若鐵鎚每次均以相同之速度 $v_0$ 敲擊鐵釘，敲擊後鐵鎚與鐵釘一起運動，使鐵釘進入牆內一段距離。設鐵鎚與鐵釘碰撞過程所經歷的時間極短，可以忽略不計，且每次鐵釘被鐵鎚敲擊入牆時所受之阻力，均為前次阻力之 $n$ 倍（$n > 1$）。忽略重力。\n\n3. 若第一次敲擊時，釘入牆內的深度為 $d_1$，當 $d_1$ 夠大，則敲擊若干次後，鐵釘會完全進入牆內。求證若 $d_1 > L\\left(1 - \\dfrac1n\\right)$，則鐵釘才有可能在有限次的敲擊後完全被釘入牆內。（3 分）",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "第 $k$ 次深度 $d_k = \\dfrac{d_1}{n^{k-1}}$，為公比 $\\dfrac1n$ 的等比數列，無限次的總和為 $\\dfrac{d_1}{1 - 1/n}$。有限次就要釘完，需此總和大於 $L$：$\\dfrac{d_1}{1 - 1/n} > L \\Rightarrow d_1 > L\\left(1 - \\dfrac1n\\right)$。"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "若 $d_1 \\le L\\left(1 - \\dfrac1n\\right)$，即使敲無限多次，總深度也只會趨近（不超過）$L$，永遠釘不完。所以 $d_1 > L\\left(1 - \\dfrac1n\\right)$ 時，部分和才會在有限項內超過 $L$。"
+  },
+  {
+    "id": "96-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】圖 10 為以惠司同電橋來測量一鎳鉻線電阻 $R_x$ 的實驗裝置的示意圖。圖中 $R_1$ 為電阻箱之電阻，MN 為惠司同電橋之滑線電阻線，P 為滑動接點，G 為電流計，$\\varepsilon$ 為電池之電動勢，S 為開關，$R_3$、$R_4$ 分別為 M、P 兩點間與 P、N 兩點間的電阻。\n\n1. 按下開關 S 後，如何選定惠司同電橋滑線電阻線上 P 點的位置？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-phy-non-2.png\" alt=\"圖10 滑線式惠司同電橋：R1、Rx 在上，滑線 MN 在下，電流計 G 接 Q 與滑動接點 P\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "移動滑動接點 P，直到電流計 G 的讀數為零（指針不偏轉），此時電橋平衡，該處即為 P 點位置。"
+    ],
+    "blankLabels": [
+      "方法"
+    ],
+    "explanation": "G 讀數為零表示 Q 與 P 等電位，電橋達到平衡。"
+  },
+  {
+    "id": "96-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】圖 10 為以惠司同電橋來測量一鎳鉻線電阻 $R_x$ 的實驗裝置的示意圖。圖中 $R_1$ 為電阻箱之電阻，MN 為惠司同電橋之滑線電阻線，P 為滑動接點，G 為電流計，$\\varepsilon$ 為電池之電動勢，S 為開關，$R_3$、$R_4$ 分別為 M、P 兩點間與 P、N 兩點間的電阻。\n\n2. 電阻線上 P 點的位置確定後，如何決定 $R_4$ 對 $R_3$ 的比值？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-phy-non-2.png\" alt=\"圖10 滑線式惠司同電橋：R1、Rx 在上，滑線 MN 在下，電流計 G 接 Q 與滑動接點 P\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "滑線為均勻電阻線，電阻與長度成正比：量出 MP 與 PN 的長度，$\\dfrac{R_4}{R_3} = \\dfrac{\\overline{PN}}{\\overline{MP}}$。"
+    ],
+    "blankLabels": [
+      "方法"
+    ],
+    "explanation": "$R = \\rho\\dfrac{\\ell}{A}$，同一條均勻電阻線的 $\\rho$、$A$ 相同，電阻比等於長度比。"
+  },
+  {
+    "id": "96-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】圖 10 為以惠司同電橋來測量一鎳鉻線電阻 $R_x$ 的實驗裝置的示意圖。圖中 $R_1$ 為電阻箱之電阻，MN 為惠司同電橋之滑線電阻線，P 為滑動接點，G 為電流計，$\\varepsilon$ 為電池之電動勢，S 為開關，$R_3$、$R_4$ 分別為 M、P 兩點間與 P、N 兩點間的電阻。\n\n3. 說明如何決定 $R_x$。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-phy-non-2.png\" alt=\"圖10 滑線式惠司同電橋：R1、Rx 在上，滑線 MN 在下，電流計 G 接 Q 與滑動接點 P\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "電橋平衡時 $\\dfrac{R_1}{R_x} = \\dfrac{R_3}{R_4}$，所以 $R_x = R_1\\dfrac{R_4}{R_3} = R_1\\dfrac{\\overline{PN}}{\\overline{MP}}$（$R_1$ 由電阻箱讀出）。"
+    ],
+    "blankLabels": [
+      "方法"
+    ],
+    "explanation": "平衡時 Q、P 等電位：$R_1$ 上的電壓等於 $R_3$ 上的電壓，$R_x$ 上的電壓等於 $R_4$ 上的電壓，上下兩支路的電流各自相同，得 $\\dfrac{R_1}{R_x} = \\dfrac{R_3}{R_4}$。"
+  },
+  {
+    "id": "96-ast-phy-non-2-4",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】圖 10 為以惠司同電橋來測量一鎳鉻線電阻 $R_x$ 的實驗裝置的示意圖。圖中 $R_1$ 為電阻箱之電阻，MN 為惠司同電橋之滑線電阻線，P 為滑動接點，G 為電流計，$\\varepsilon$ 為電池之電動勢，S 為開關，$R_3$、$R_4$ 分別為 M、P 兩點間與 P、N 兩點間的電阻。\n\n4. 若已量出待測鎳鉻線的電阻，則還需測量哪兩個物理量，來決定此鎳鉻線的電阻率？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-phy-non-2.png\" alt=\"圖10 滑線式惠司同電橋：R1、Rx 在上，滑線 MN 在下，電流計 G 接 Q 與滑動接點 P\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "鎳鉻線的長度 $\\ell$ 與截面積 $A$（量直徑 $D$，$A = \\dfrac{\\pi D^2}{4}$），電阻率 $\\rho = \\dfrac{R_xA}{\\ell}$。"
+    ],
+    "blankLabels": [
+      "需測量的量"
+    ],
+    "explanation": "由 $R = \\rho\\dfrac{\\ell}{A}$，$\\rho = \\dfrac{RA}{\\ell}$。截面積通常用測微器量直徑求得。"
   }
 ]
