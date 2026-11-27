@@ -126474,5 +126474,675 @@
     ],
     "answerIndex": 0,
     "explanation": "第二段講大自然塑造的奇特地景，第三段講人類在此留下的岩洞教堂與地下村落，是自然與人文交會的奇景。\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-eng-01",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. When dining at a restaurant, we need to be ______ of other customers and keep our conversations at an appropriate noise level.",
+    "options": [
+      "peculiar",
+      "defensive",
+      "noticeable",
+      "considerate"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：在餐廳用餐時要體諒其他客人，說話音量保持適當。\nbe considerate of…「體諒…」。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-eng-02",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. John shows ______ towards his classmates. He doesn't take part in any of the class activities and doesn't even bother talking to other students in his class.",
+    "options": [
+      "indifference",
+      "sympathy",
+      "ambiguity",
+      "desperation"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：John 對同學很冷漠，不參加任何班級活動，連話都懶得跟同學說。\n• (A) indifference 冷漠\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-eng-03",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. To meet the unique needs of the elderly, the company designed a cell phone ______ for seniors, which has big buttons and large color displays.",
+    "options": [
+      "necessarily",
+      "relatively",
+      "specifically",
+      "voluntarily"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：為滿足長者的特殊需求，這家公司設計了一款專為老人打造的手機，按鍵大、彩色螢幕大。\n• (C) specifically 特別地、專門地\n\n故選 (C)"
+  },
+  {
+    "id": "103-ast-eng-04",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. A well-constructed building has a better chance of ______ natural disasters such as typhoons, tornadoes, and earthquakes.",
+    "options": [
+      "undertaking",
+      "conceiving",
+      "executing",
+      "withstanding"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：建造良好的建築較能承受颱風、龍捲風、地震等天災。\n• (D) withstand 承受、抵擋\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-eng-05",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. Our family doctor has repeatedly warned me that spicy food may ______ my stomach, so I'd better stay away from it.",
+    "options": [
+      "irritate",
+      "liberate",
+      "kidnap",
+      "override"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：家庭醫師一再警告我辛辣食物可能刺激胃，最好少碰。\n• (A) irritate 刺激（器官）\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-eng-06",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. Because the new principal is young and inexperienced, the teachers are ______ about whether he can run the school well.",
+    "options": [
+      "passionate",
+      "impressive",
+      "arrogant",
+      "skeptical"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：新校長年輕又沒經驗，老師們懷疑他能否把學校辦好。\nbe skeptical about…「對…存疑」。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-eng-07",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. Many universities offer a large number of scholarships as an ______ to attract outstanding students to enroll in their schools.",
+    "options": [
+      "ornament",
+      "incentive",
+      "emphasis",
+      "application"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：許多大學提供大量獎學金作為誘因，吸引優秀學生就讀。\n• (B) incentive 誘因\n\n故選 (B)"
+  },
+  {
+    "id": "103-ast-eng-08",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. Since Diana is such an ______ speaker, she has won several medals for her school in national speech contests.",
+    "options": [
+      "authentic",
+      "imperative",
+      "eloquent",
+      "optional"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：Diana 口才很好，在全國演講比賽中替學校贏得好幾面獎牌。\n• (C) eloquent 口才好的\n\n故選 (C)"
+  },
+  {
+    "id": "103-ast-eng-09",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. The candidate made energy ______ the central theme of his campaign, calling for a greater reduction in oil consumption.",
+    "options": [
+      "evolution",
+      "conservation",
+      "donation",
+      "opposition"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：候選人以節約能源作為競選主軸，呼籲大幅減少石油消耗。\nenergy conservation「節約能源」。\n\n故選 (B)"
+  },
+  {
+    "id": "103-ast-eng-10",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. Concerned about mudslides, the local government quickly ______ the villagers from their homes before the typhoon hit the mountain area.",
+    "options": [
+      "evacuated",
+      "suffocated",
+      "humiliated",
+      "accommodated"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：擔心土石流，地方政府在颱風侵襲山區前迅速撤離村民。\n• (A) evacuate 撤離\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-eng-11",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nBrushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can 【 11 】 in toothbrushes over time.\n\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends 【 12 】 a new toothbrush every three to four months. Children's toothbrushes may need to be changed more 【 13 】.\n\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. 【 14 】, rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let 【 15 】 air dry. Most importantly, do not share toothbrushes.\n11.",
+    "options": [
+      "accumulate",
+      "crumble",
+      "establish",
+      "radiate"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：這些細菌來自口腔，時間一久會在牙刷上「累積」。\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-eng-12",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nBrushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can 【 11 】 in toothbrushes over time.\n\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends 【 12 】 a new toothbrush every three to four months. Children's toothbrushes may need to be changed more 【 13 】.\n\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. 【 14 】, rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let 【 15 】 air dry. Most importantly, do not share toothbrushes.\n12.",
+    "options": [
+      "use",
+      "to use",
+      "using",
+      "used"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：美國牙醫協會建議每三到四個月「使用」新牙刷。recommend + V-ing。\n\n故選 (C)"
+  },
+  {
+    "id": "103-ast-eng-13",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nBrushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can 【 11 】 in toothbrushes over time.\n\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends 【 12 】 a new toothbrush every three to four months. Children's toothbrushes may need to be changed more 【 13 】.\n\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. 【 14 】, rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let 【 15 】 air dry. Most importantly, do not share toothbrushes.\n13.",
+    "options": [
+      "essentially",
+      "frequently",
+      "typically",
+      "objectively"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：兒童的牙刷可能需要更「頻繁地」更換。\n\n故選 (B)"
+  },
+  {
+    "id": "103-ast-eng-14",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nBrushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can 【 11 】 in toothbrushes over time.\n\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends 【 12 】 a new toothbrush every three to four months. Children's toothbrushes may need to be changed more 【 13 】.\n\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. 【 14 】, rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let 【 15 】 air dry. Most importantly, do not share toothbrushes.\n14.",
+    "options": [
+      "In short",
+      "Otherwise",
+      "Nevertheless",
+      "For example"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：保持牙刷清潔有幾種方法；「例如」，用後以自來水徹底沖洗。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-eng-15",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nBrushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can 【 11 】 in toothbrushes over time.\n\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends 【 12 】 a new toothbrush every three to four months. Children's toothbrushes may need to be changed more 【 13 】.\n\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. 【 14 】, rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let 【 15 】 air dry. Most importantly, do not share toothbrushes.\n15.",
+    "options": [
+      "it",
+      "one",
+      "the",
+      "which"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：把牙刷直立存放，讓「它」自然風乾。it 指 your toothbrush。\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-eng-16",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nHiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is 【 16 】! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred 【 17 】 generations.\n\nLonsdorf has always been interested in animal learning and tool use, 【 18 】 the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very 【 19 】 to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors 【 20 】 like.\n\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.\n16.",
+    "options": [
+      "proposed",
+      "ordered",
+      "digested",
+      "served"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：黑猩猩用草從洞裡挖出小蟲，晚餐「上桌了」！Dinner is served「開飯了」。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-eng-17",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nHiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is 【 16 】! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred 【 17 】 generations.\n\nLonsdorf has always been interested in animal learning and tool use, 【 18 】 the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very 【 19 】 to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors 【 20 】 like.\n\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.\n17.",
+    "options": [
+      "across",
+      "beside",
+      "upon",
+      "within"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：試圖找出學習如何「跨越」世代傳承。across generations「代代之間」。\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-eng-18",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nHiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is 【 16 】! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred 【 17 】 generations.\n\nLonsdorf has always been interested in animal learning and tool use, 【 18 】 the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very 【 19 】 to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors 【 20 】 like.\n\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.\n18.",
+    "options": [
+      "especially",
+      "originally",
+      "consequently",
+      "fortunately"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：她一直對動物學習與使用工具感興趣，「尤其是」幼年動物如何成長、學會生存。\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-eng-19",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nHiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is 【 16 】! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred 【 17 】 generations.\n\nLonsdorf has always been interested in animal learning and tool use, 【 18 】 the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very 【 19 】 to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors 【 20 】 like.\n\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.\n19.",
+    "options": [
+      "casual",
+      "similar",
+      "direct",
+      "grateful"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：黑猩猩的親子關係與人類「相似」。similar to「與…相似」。\n\n故選 (B)"
+  },
+  {
+    "id": "103-ast-eng-20",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nHiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is 【 16 】! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred 【 17 】 generations.\n\nLonsdorf has always been interested in animal learning and tool use, 【 18 】 the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very 【 19 】 to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors 【 20 】 like.\n\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.\n20.",
+    "options": [
+      "is to be",
+      "was to be",
+      "might have been",
+      "will have been"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：研究者希望了解最早祖先的發展「可能是」什麼樣子。對過去的推測：might have been。\n\n故選 (C)"
+  },
+  {
+    "id": "103-ast-eng-21-30",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 21-30 題組】\nThe practice of burning paper money or paper model offerings at funerals in Chinese society can be traced back to the Tang dynasty (618-907 AD). Chinese people believe that when someone passes away, there is a death of the body, but the ___(21)___ continues to live in the next world. This \"next world\" is a mirror of the human world, where the \"residents\" need places to live, money to spend, daily necessities, and entertainment just like when they were ___(22)___. Some of these necessities are buried with the deceased, while most others are \"shipped\" to them by burning paper models. As the ashes fly high, the offerings are ___(23)___ by the residents in the next world.\nRelatives of the deceased want to see their beloved family members live comfortably in the next world, so the paper houses are big and the cars are very ___(24)___, mostly Mercedes-Benzes. A complete package of paper offerings may include a couple of servants, cash, and credit cards so that the deceased will have all their ___(25)___ satisfied.\nThese traditional paper offerings were sold only at specialty stores in the past. The style and variety of the products were ___(26)___. For example, \"houses\" looked all the same and were built by pasting paper around a bamboo frame, with ___(27)___ of a door, windows, and a roof printed on it. There were no trendy, modern supplies to choose from. Now, the ___(28)___ can be made on the Internet. And with the incorporation of new materials and designs, paper offerings come in many more varieties. The old one-style-fits-all houses have been ___(29)___ by buildings that are fully equipped with decorations, furniture, and household appliances. Digital cameras, iPhones, and even skin care products are also ___(30)___. It seems that, with the help of a simple click, this old Chinese tradition has been given a face-lift.\n(A) replaced　(B) mortal　(C) spirit　(D) available　(E) journey　(F) luxurious　(G) collected　(H) purchase　(I) alive　(J) needs　(K) limited　(L) images\n（請依序填入各題代號 A～L）",
+    "blanks": [
+      "C",
+      "I",
+      "G",
+      "F",
+      "J",
+      "K",
+      "L",
+      "H",
+      "A",
+      "D"
+    ],
+    "blankLabels": [
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "explanation": "• 21 (C) spirit：身體死去，但「靈魂」在另一個世界繼續存活。\n• 22 (I) alive：就像他們「在世」時一樣需要住所、金錢。\n• 23 (G) collected：紙灰飛起，祭品就被另一個世界的居民「收到」。\n• 24 (F) luxurious：紙屋很大，車子很「豪華」，多半是賓士。\n• 25 (J) needs：讓往生者的所有「需求」都得到滿足。\n• 26 (K) limited：過去紙紮品的款式與種類很「有限」，下句說房子都長一樣。\n• 27 (L) images：紙上印著門、窗、屋頂的「圖案」。\n• 28 (H) purchase：現在可以在網路上「購買」，make a purchase。\n• 29 (A) replaced：舊式一成不變的紙屋已被設備齊全的建築「取代」。\n• 30 (D) available：數位相機、iPhone 甚至保養品也都「買得到」。"
+  },
+  {
+    "id": "103-ast-eng-31-35",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【篇章結構 31-35 題組】\nEccentrics are people who have an unusual or odd personality, set of beliefs, or behavior pattern. They may or may not comprehend the standards for normal behavior in their culture. They simply don't care about the society's disapproval of their habits or beliefs.\nOnce considered socially unacceptable, eccentric people have been found to possess some positive characteristics. ___(31)___ They often have more curiosity about the world and, in many cases, are contentedly obsessed by hobbies and interests. ___(32)___ They live in a world of their own and do not worry about what others think of them. So they are usually less restricted and therefore more carefree in forming new ideas.\n___(33)___ Statistics show they visit their doctors less--about once in eight to nine years, which is 20 times less than the average person. This could be partly due to their innate traits such as humor and happiness. ___(34)___ This may explain why eccentrics are, on the whole, healthier.\nPsychologists therefore suggest that we pay attention to those who do not conform. It could be our aunt who has been raising pet lizards. ___(35)___ Their crazy hobby or strange sense of humor is what keeps them going. Eccentric people may seem odd, but they will likely live a happier and healthier life because they enjoy what they are doing. In fact, many of history's most brilliant minds have displayed some unusual behaviors and habits.\n(A) Eccentrics are also found to be healthier.\n(B) According to a recent study in England, eccentrics are more creative.\n(C) Or it could be our best friend's brother who wears shorts to a formal dance.\n(D) People may have eccentric taste in clothes, or have eccentric hobbies.\n(E) Psychologists also find that eccentric people do not follow conventions.\n(F) Such personal traits are found to play an important role in boosting the body's immune system.\n（請依序填入各題代號 A～F）",
+    "blanks": [
+      "B",
+      "E",
+      "A",
+      "F",
+      "C"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35"
+    ],
+    "explanation": "• 31 (B)：承接「怪人有正面特質」，研究發現他們更有創意；下句說他們好奇心強、熱衷嗜好。\n• 32 (E)：心理學家也發現怪人不遵循常規；下句說他們活在自己的世界，不在意別人看法。\n• 33 (A)：段落主題句：怪人也比較健康；下句以看醫生次數佐證。\n• 34 (F)：Such personal traits 指前句的幽默與快樂，能增強免疫系統；下句因此說他們較健康。\n• 35 (C)：Or it could be… 承接前句 It could be our aunt…，再舉一個不從眾的例子。\n(D) 說人可能有怪異的穿衣品味或嗜好，放在各空格都無法銜接，為誘答選項。"
+  },
+  {
+    "id": "103-ast-eng-36",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 36-39 題組】\nOpened in 1883, the Brooklyn Bridge was the first long-span suspension bridge to carry motor traffic, and it quickly became the model for the great suspension bridges of the following century. Spanning New York's East River, it provided the first traffic artery between Manhattan Island and Brooklyn. Before that, the only transportation was by ferries, which were slow and could be dangerous in winter.\n\nThe construction of a bridge over the East River had been discussed since the early 19th century, but the outbreak of the Civil War in 1861 deflected all consideration of the project. When the war ended in 1865, the bridge became an important issue once more. In 1867, the New York State legislature passed an act incorporating the New York Bridge Company for the purpose of constructing and maintaining a bridge between Manhattan Island and Brooklyn.\n\nJohn Augustus Roebling was chosen to design the bridge. Born in Germany in 1806, he held radical views as a student and was listed by the German police as a dangerous liberal. He emigrated to America in 1830 to escape political discrimination.\n\nRoebling proposed a bridge with a span of 1,500 feet (465 m), with two masonry towers in the East River serving as the main piers. The bridge that was actually built is longer--1,597 feet (486 m), the longest suspension bridge at that time.\n36. What was the purpose of building the Brooklyn Bridge?",
+    "options": [
+      "To replace an old bridge.",
+      "To set up a model for bridge construction.",
+      "To build a suspension bridge for the Civil War.",
+      "To provide faster and safer transportation than boats."
+    ],
+    "answerIndex": 3,
+    "explanation": "建橋前只能搭渡輪，又慢、冬天又危險；大橋成為曼哈頓與布魯克林之間第一條交通要道。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-eng-37",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 36-39 題組】\nOpened in 1883, the Brooklyn Bridge was the first long-span suspension bridge to carry motor traffic, and it quickly became the model for the great suspension bridges of the following century. Spanning New York's East River, it provided the first traffic artery between Manhattan Island and Brooklyn. Before that, the only transportation was by ferries, which were slow and could be dangerous in winter.\n\nThe construction of a bridge over the East River had been discussed since the early 19th century, but the outbreak of the Civil War in 1861 deflected all consideration of the project. When the war ended in 1865, the bridge became an important issue once more. In 1867, the New York State legislature passed an act incorporating the New York Bridge Company for the purpose of constructing and maintaining a bridge between Manhattan Island and Brooklyn.\n\nJohn Augustus Roebling was chosen to design the bridge. Born in Germany in 1806, he held radical views as a student and was listed by the German police as a dangerous liberal. He emigrated to America in 1830 to escape political discrimination.\n\nRoebling proposed a bridge with a span of 1,500 feet (465 m), with two masonry towers in the East River serving as the main piers. The bridge that was actually built is longer--1,597 feet (486 m), the longest suspension bridge at that time.\n37. Which of the following is closest in meaning to \"deflected\" in the second paragraph?",
+    "options": [
+      "Blocked.",
+      "Detected.",
+      "Engaged.",
+      "Indicated."
+    ],
+    "answerIndex": 0,
+    "explanation": "內戰爆發使建橋的討論「被擱置」，戰後才再度成為重要議題，deflect 在此指使偏離、阻擋。\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-eng-38",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 36-39 題組】\nOpened in 1883, the Brooklyn Bridge was the first long-span suspension bridge to carry motor traffic, and it quickly became the model for the great suspension bridges of the following century. Spanning New York's East River, it provided the first traffic artery between Manhattan Island and Brooklyn. Before that, the only transportation was by ferries, which were slow and could be dangerous in winter.\n\nThe construction of a bridge over the East River had been discussed since the early 19th century, but the outbreak of the Civil War in 1861 deflected all consideration of the project. When the war ended in 1865, the bridge became an important issue once more. In 1867, the New York State legislature passed an act incorporating the New York Bridge Company for the purpose of constructing and maintaining a bridge between Manhattan Island and Brooklyn.\n\nJohn Augustus Roebling was chosen to design the bridge. Born in Germany in 1806, he held radical views as a student and was listed by the German police as a dangerous liberal. He emigrated to America in 1830 to escape political discrimination.\n\nRoebling proposed a bridge with a span of 1,500 feet (465 m), with two masonry towers in the East River serving as the main piers. The bridge that was actually built is longer--1,597 feet (486 m), the longest suspension bridge at that time.\n38. Which of the following is true about the Brooklyn Bridge?",
+    "options": [
+      "It was built in 1865.",
+      "It is shorter than originally planned.",
+      "It was first proposed after the Civil War.",
+      "It was built by the New York Bridge Company."
+    ],
+    "answerIndex": 3,
+    "explanation": "1867 年州議會立法成立紐約大橋公司，負責興建與維護這座橋。\n(A) 1883 年通車；(B) 實際比原計畫長；(C) 19 世紀初就有人討論。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-eng-39",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 36-39 題組】\nOpened in 1883, the Brooklyn Bridge was the first long-span suspension bridge to carry motor traffic, and it quickly became the model for the great suspension bridges of the following century. Spanning New York's East River, it provided the first traffic artery between Manhattan Island and Brooklyn. Before that, the only transportation was by ferries, which were slow and could be dangerous in winter.\n\nThe construction of a bridge over the East River had been discussed since the early 19th century, but the outbreak of the Civil War in 1861 deflected all consideration of the project. When the war ended in 1865, the bridge became an important issue once more. In 1867, the New York State legislature passed an act incorporating the New York Bridge Company for the purpose of constructing and maintaining a bridge between Manhattan Island and Brooklyn.\n\nJohn Augustus Roebling was chosen to design the bridge. Born in Germany in 1806, he held radical views as a student and was listed by the German police as a dangerous liberal. He emigrated to America in 1830 to escape political discrimination.\n\nRoebling proposed a bridge with a span of 1,500 feet (465 m), with two masonry towers in the East River serving as the main piers. The bridge that was actually built is longer--1,597 feet (486 m), the longest suspension bridge at that time.\n39. According to the passage, which of the following correctly describes John Augustus Roebling?",
+    "options": [
+      "He participated in the Civil War and was seriously wounded.",
+      "He was chosen to design the bridge because of his radical views.",
+      "He was the first person to propose the construction of the bridge.",
+      "He moved to America because he was discriminated against in his home country."
+    ],
+    "answerIndex": 3,
+    "explanation": "他在德國被警方列為危險的自由派，1830 年為逃避政治歧視移民美國。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-eng-40",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 40-43 題組】\nThe Japanese have long puzzled public health researchers because they are such an apparent paradox: They have the world's lowest rates of heart disease and the largest number of people that live to or beyond 100 years despite the fact that most Japanese men smoke--and smoking counts as one of the strongest risk factors for heart disease. So what's protecting Japanese men?\n\nTwo professors at the University of California at Berkeley hoped to find out the answer. They investigated a pool of 12,000 Japanese men equally divided into three groups: One group had lived in Japan for all their lives, and the other two groups had emigrated to Hawaii or Northern California. It was found that the rate of heart disease among Japanese men increased five times in California and about half of that for those in Hawaii.\n\nThe differences could not be explained by any of the usual risk factors for heart disease, such as smoking, high blood pressure, or cholesterol counts. The change in diet, from sushi to hamburgers and fries, was also not related to the rise in heart disease. However, the kind of society they had created for themselves in their new home country was. The most traditional group of Japanese Americans, who maintained tight-knit and mutually supportive social groups, had a heart-attack rate as low as their fellow Japanese back home. But those who had adopted the more isolated Western lifestyle increased their heart-attack incidence by three to five times.\n\nThe study shows that the need to bond with a social group is so fundamental to humans that it remains the key determinant of whether we stay healthy or get ill, even whether we live or die. We need to feel part of something bigger to thrive. We need to belong, not online, but in the real world of hugs, handshakes, and pats on the back.\n40. What is the best title of this passage?",
+    "options": [
+      "Heart Diseases and Their Causes",
+      "The Power of Social Connection",
+      "Differences in Japanese Americans",
+      "The Sense of Belonging vs. Isolation"
+    ],
+    "answerIndex": 1,
+    "explanation": "研究發現維持緊密社群的日裔美國人心臟病發生率低，結論是與社會群體連結是健康的關鍵。\n\n故選 (B)"
+  },
+  {
+    "id": "103-ast-eng-41",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 40-43 題組】\nThe Japanese have long puzzled public health researchers because they are such an apparent paradox: They have the world's lowest rates of heart disease and the largest number of people that live to or beyond 100 years despite the fact that most Japanese men smoke--and smoking counts as one of the strongest risk factors for heart disease. So what's protecting Japanese men?\n\nTwo professors at the University of California at Berkeley hoped to find out the answer. They investigated a pool of 12,000 Japanese men equally divided into three groups: One group had lived in Japan for all their lives, and the other two groups had emigrated to Hawaii or Northern California. It was found that the rate of heart disease among Japanese men increased five times in California and about half of that for those in Hawaii.\n\nThe differences could not be explained by any of the usual risk factors for heart disease, such as smoking, high blood pressure, or cholesterol counts. The change in diet, from sushi to hamburgers and fries, was also not related to the rise in heart disease. However, the kind of society they had created for themselves in their new home country was. The most traditional group of Japanese Americans, who maintained tight-knit and mutually supportive social groups, had a heart-attack rate as low as their fellow Japanese back home. But those who had adopted the more isolated Western lifestyle increased their heart-attack incidence by three to five times.\n\nThe study shows that the need to bond with a social group is so fundamental to humans that it remains the key determinant of whether we stay healthy or get ill, even whether we live or die. We need to feel part of something bigger to thrive. We need to belong, not online, but in the real world of hugs, handshakes, and pats on the back.\n41. Which of the following is a finding of the two American professors' study?",
+    "options": [
+      "Many Japanese men that lived up to 100 years were smokers.",
+      "Those who often ate hamburgers and fries were more likely to fall sick.",
+      "Japanese immigrants to America usually formed a tight-knit community.",
+      "Westernized social life was related to the heart-attack rate of Japanese Americans."
+    ],
+    "answerIndex": 3,
+    "explanation": "採取較孤立的西方生活方式者，心臟病發生率增加三到五倍。\n(B) 飲食改變與心臟病增加無關。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-eng-42",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 40-43 題組】\nThe Japanese have long puzzled public health researchers because they are such an apparent paradox: They have the world's lowest rates of heart disease and the largest number of people that live to or beyond 100 years despite the fact that most Japanese men smoke--and smoking counts as one of the strongest risk factors for heart disease. So what's protecting Japanese men?\n\nTwo professors at the University of California at Berkeley hoped to find out the answer. They investigated a pool of 12,000 Japanese men equally divided into three groups: One group had lived in Japan for all their lives, and the other two groups had emigrated to Hawaii or Northern California. It was found that the rate of heart disease among Japanese men increased five times in California and about half of that for those in Hawaii.\n\nThe differences could not be explained by any of the usual risk factors for heart disease, such as smoking, high blood pressure, or cholesterol counts. The change in diet, from sushi to hamburgers and fries, was also not related to the rise in heart disease. However, the kind of society they had created for themselves in their new home country was. The most traditional group of Japanese Americans, who maintained tight-knit and mutually supportive social groups, had a heart-attack rate as low as their fellow Japanese back home. But those who had adopted the more isolated Western lifestyle increased their heart-attack incidence by three to five times.\n\nThe study shows that the need to bond with a social group is so fundamental to humans that it remains the key determinant of whether we stay healthy or get ill, even whether we live or die. We need to feel part of something bigger to thrive. We need to belong, not online, but in the real world of hugs, handshakes, and pats on the back.\n42. Which of the following is an example of \"something bigger\" in the last paragraph?",
+    "options": [
+      "A family.",
+      "A stadium.",
+      "The universe.",
+      "The digital world."
+    ],
+    "answerIndex": 0,
+    "explanation": "something bigger 指比自己更大的社會群體，例如家庭；而且要在真實世界中，不是網路上。\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-eng-43",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 40-43 題組】\nThe Japanese have long puzzled public health researchers because they are such an apparent paradox: They have the world's lowest rates of heart disease and the largest number of people that live to or beyond 100 years despite the fact that most Japanese men smoke--and smoking counts as one of the strongest risk factors for heart disease. So what's protecting Japanese men?\n\nTwo professors at the University of California at Berkeley hoped to find out the answer. They investigated a pool of 12,000 Japanese men equally divided into three groups: One group had lived in Japan for all their lives, and the other two groups had emigrated to Hawaii or Northern California. It was found that the rate of heart disease among Japanese men increased five times in California and about half of that for those in Hawaii.\n\nThe differences could not be explained by any of the usual risk factors for heart disease, such as smoking, high blood pressure, or cholesterol counts. The change in diet, from sushi to hamburgers and fries, was also not related to the rise in heart disease. However, the kind of society they had created for themselves in their new home country was. The most traditional group of Japanese Americans, who maintained tight-knit and mutually supportive social groups, had a heart-attack rate as low as their fellow Japanese back home. But those who had adopted the more isolated Western lifestyle increased their heart-attack incidence by three to five times.\n\nThe study shows that the need to bond with a social group is so fundamental to humans that it remains the key determinant of whether we stay healthy or get ill, even whether we live or die. We need to feel part of something bigger to thrive. We need to belong, not online, but in the real world of hugs, handshakes, and pats on the back.\n43. What is the ratio of heart disease between Japanese living in Japan and Japanese Americans in Hawaii?",
+    "options": [
+      "1 to 2.5",
+      "1 to 5",
+      "3 to 5",
+      "1.5 to 5"
+    ],
+    "answerIndex": 0,
+    "explanation": "加州的日本人心臟病率增為 5 倍，夏威夷約為其一半，即 2.5 倍；故日本：夏威夷 = 1：2.5。\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-eng-44",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-47 題組】\nBitcoin is an experimental, decentralized digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate with no central authority; that is, managing transactions and issuing money are carried out collectively through the network.\n\nAny transaction issued with Bitcoin cannot be reversed; it can only be refunded by the person receiving the funds. That means you should do business with people and organizations you know and trust, or who have an established reputation. Bitcoin can detect typos and usually won't let you send money to an invalid address by mistake.\n\nAll Bitcoin transactions are stored publicly and permanently on the network, which means anyone can see the balance and transactions of any Bitcoin address. However, the identity of the user behind an address remains unknown until information is revealed during a purchase or in other circumstances.\n\nThe price of a bitcoin can unpredictably increase or decrease over a short period of time due to its young economy, novel nature, and sometimes illiquid markets. Consequently, keeping your savings with Bitcoin is not recommended at this point. Bitcoin should be seen like a high risk asset, and you should never store money that you cannot afford to lose with Bitcoin. If you receive payments with Bitcoin, many service providers can convert them to your local currency.\n\nBitcoin is an experimental new currency that is in active development. Although it becomes less experimental as usage grows, you should keep in mind that Bitcoin is a new invention that is exploring ideas that have never been attempted before. As such, its future cannot be predicted by anyone.\n44. What is the purpose of this article?",
+    "options": [
+      "To introduce a new currency.",
+      "To prove the value of a young economy.",
+      "To explore ways to do online transactions.",
+      "To explain how to build up a business network."
+    ],
+    "answerIndex": 0,
+    "explanation": "文章介紹比特幣這種實驗性的數位貨幣：運作方式、交易特性與風險。\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-eng-45",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-47 題組】\nBitcoin is an experimental, decentralized digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate with no central authority; that is, managing transactions and issuing money are carried out collectively through the network.\n\nAny transaction issued with Bitcoin cannot be reversed; it can only be refunded by the person receiving the funds. That means you should do business with people and organizations you know and trust, or who have an established reputation. Bitcoin can detect typos and usually won't let you send money to an invalid address by mistake.\n\nAll Bitcoin transactions are stored publicly and permanently on the network, which means anyone can see the balance and transactions of any Bitcoin address. However, the identity of the user behind an address remains unknown until information is revealed during a purchase or in other circumstances.\n\nThe price of a bitcoin can unpredictably increase or decrease over a short period of time due to its young economy, novel nature, and sometimes illiquid markets. Consequently, keeping your savings with Bitcoin is not recommended at this point. Bitcoin should be seen like a high risk asset, and you should never store money that you cannot afford to lose with Bitcoin. If you receive payments with Bitcoin, many service providers can convert them to your local currency.\n\nBitcoin is an experimental new currency that is in active development. Although it becomes less experimental as usage grows, you should keep in mind that Bitcoin is a new invention that is exploring ideas that have never been attempted before. As such, its future cannot be predicted by anyone.\n45. Why is the value of Bitcoin not stable?",
+    "options": [
+      "Because its use is illegal.",
+      "Because it is not a valid investment.",
+      "Because it is still developing.",
+      "Because its circulation is limited to the youth."
+    ],
+    "answerIndex": 2,
+    "explanation": "比特幣價格波動大，是因為經濟體尚年輕、性質新穎、市場有時流動性不足，也就是仍在發展中。\n(D) young economy 指經濟體年輕，不是使用者年輕。\n\n故選 (C)"
+  },
+  {
+    "id": "103-ast-eng-46",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-47 題組】\nBitcoin is an experimental, decentralized digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate with no central authority; that is, managing transactions and issuing money are carried out collectively through the network.\n\nAny transaction issued with Bitcoin cannot be reversed; it can only be refunded by the person receiving the funds. That means you should do business with people and organizations you know and trust, or who have an established reputation. Bitcoin can detect typos and usually won't let you send money to an invalid address by mistake.\n\nAll Bitcoin transactions are stored publicly and permanently on the network, which means anyone can see the balance and transactions of any Bitcoin address. However, the identity of the user behind an address remains unknown until information is revealed during a purchase or in other circumstances.\n\nThe price of a bitcoin can unpredictably increase or decrease over a short period of time due to its young economy, novel nature, and sometimes illiquid markets. Consequently, keeping your savings with Bitcoin is not recommended at this point. Bitcoin should be seen like a high risk asset, and you should never store money that you cannot afford to lose with Bitcoin. If you receive payments with Bitcoin, many service providers can convert them to your local currency.\n\nBitcoin is an experimental new currency that is in active development. Although it becomes less experimental as usage grows, you should keep in mind that Bitcoin is a new invention that is exploring ideas that have never been attempted before. As such, its future cannot be predicted by anyone.\n46. Which of the following is true about Bitcoin?",
+    "options": [
+      "Bitcoin addresses are known only to their owners.",
+      "Once a transaction is made, the Bitcoin cannot be refunded.",
+      "Bitcoin user's identity is always open to the general public.",
+      "When a payment is received, the Bitcoin can be turned into local currency."
+    ],
+    "answerIndex": 3,
+    "explanation": "收到比特幣付款後，許多服務商可以轉換成當地貨幣。\n(B) 交易無法撤銷，但收款人可以退款；(C) 使用者身分通常不公開。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-eng-47",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-47 題組】\nBitcoin is an experimental, decentralized digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate with no central authority; that is, managing transactions and issuing money are carried out collectively through the network.\n\nAny transaction issued with Bitcoin cannot be reversed; it can only be refunded by the person receiving the funds. That means you should do business with people and organizations you know and trust, or who have an established reputation. Bitcoin can detect typos and usually won't let you send money to an invalid address by mistake.\n\nAll Bitcoin transactions are stored publicly and permanently on the network, which means anyone can see the balance and transactions of any Bitcoin address. However, the identity of the user behind an address remains unknown until information is revealed during a purchase or in other circumstances.\n\nThe price of a bitcoin can unpredictably increase or decrease over a short period of time due to its young economy, novel nature, and sometimes illiquid markets. Consequently, keeping your savings with Bitcoin is not recommended at this point. Bitcoin should be seen like a high risk asset, and you should never store money that you cannot afford to lose with Bitcoin. If you receive payments with Bitcoin, many service providers can convert them to your local currency.\n\nBitcoin is an experimental new currency that is in active development. Although it becomes less experimental as usage grows, you should keep in mind that Bitcoin is a new invention that is exploring ideas that have never been attempted before. As such, its future cannot be predicted by anyone.\n47. What advice would the author give to those who are interested in keeping money in Bitcoin?",
+    "options": [
+      "Better late than never.",
+      "Look before you leap.",
+      "Make hay while the sun shines.",
+      "No pain, no gain."
+    ],
+    "answerIndex": 1,
+    "explanation": "作者提醒比特幣是高風險資產，不建議存放儲蓄，即「三思而後行」。\n\n故選 (B)"
+  },
+  {
+    "id": "103-ast-eng-48",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nScientists are trying to genetically modify the world in which we live. They are even trying to wipe out diseases via genetic modification. For example, researchers have tried to engineer mosquitoes to kill malaria parasites. The malaria parasite is carried by the female Anopheles mosquito. When transmitted to a human, the parasite travels first to the liver and then on to the bloodstream, where it reproduces and destroys red blood cells. An estimated 250 million people suffer from malaria each year, and about one million die--many of them children. There are currently no effective or approved malaria vaccines.\n\nTo \"kill\" malaria, scientists are genetically modifying a bacterium in mosquitoes so that it releases toxic compounds. These compounds are not harmful to humans or the mosquito itself, but they do kill off the malaria parasite, making the mosquito incapable of infecting humans with malaria.\n\nDespite this achievement, scientists are faced with the challenge of giving the modified mosquitoes a competitive advantage so that they can eventually replace the wild population. Complete blockage of the malaria parasite is very important. If some of the parasites slip through the mechanism, then the next generation will likely become resistant to it. And if that happens, the scientists are back where they started.\n\nAnother challenge for scientists is to gain public approval for this genetic modification regarding mosquitoes and malaria control. Environmental activists have raised concerns about the release of genetically engineered organisms without any clear knowledge of their long-term effect on ecosystems and human health. There is still a long way to go before genetic modification techniques are put to use in disease control.\n48. What is the main idea of this passage?",
+    "options": [
+      "Researchers have found an effective way to halt the spread of insect-borne diseases around the world.",
+      "Many people are worried about the effects of genetically modified organisms on the environment.",
+      "It takes time to gain public support for the application of genetic modification to disease control.",
+      "Genetic engineering looks promising in reducing malaria, though there may be unknown consequences."
+    ],
+    "answerIndex": 3,
+    "explanation": "基因改造蚊子體內細菌可殺死瘧原蟲，前景看好，但仍有抗藥性與生態影響等未知後果。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-eng-49",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nScientists are trying to genetically modify the world in which we live. They are even trying to wipe out diseases via genetic modification. For example, researchers have tried to engineer mosquitoes to kill malaria parasites. The malaria parasite is carried by the female Anopheles mosquito. When transmitted to a human, the parasite travels first to the liver and then on to the bloodstream, where it reproduces and destroys red blood cells. An estimated 250 million people suffer from malaria each year, and about one million die--many of them children. There are currently no effective or approved malaria vaccines.\n\nTo \"kill\" malaria, scientists are genetically modifying a bacterium in mosquitoes so that it releases toxic compounds. These compounds are not harmful to humans or the mosquito itself, but they do kill off the malaria parasite, making the mosquito incapable of infecting humans with malaria.\n\nDespite this achievement, scientists are faced with the challenge of giving the modified mosquitoes a competitive advantage so that they can eventually replace the wild population. Complete blockage of the malaria parasite is very important. If some of the parasites slip through the mechanism, then the next generation will likely become resistant to it. And if that happens, the scientists are back where they started.\n\nAnother challenge for scientists is to gain public approval for this genetic modification regarding mosquitoes and malaria control. Environmental activists have raised concerns about the release of genetically engineered organisms without any clear knowledge of their long-term effect on ecosystems and human health. There is still a long way to go before genetic modification techniques are put to use in disease control.\n49. Which of the following best shows the organization of this passage?",
+    "options": [
+      "Introduction → Comparison → Contrast",
+      "Problem → Solution → Potential difficulties",
+      "Proposal → Arguments → Counter-arguments",
+      "Definition → Examples → Tentative conclusions"
+    ],
+    "answerIndex": 1,
+    "explanation": "第一段說明瘧疾問題，第二段提出基因改造的解決方法，第三、四段說明可能遇到的困難。\n\n故選 (B)"
+  },
+  {
+    "id": "103-ast-eng-50",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nScientists are trying to genetically modify the world in which we live. They are even trying to wipe out diseases via genetic modification. For example, researchers have tried to engineer mosquitoes to kill malaria parasites. The malaria parasite is carried by the female Anopheles mosquito. When transmitted to a human, the parasite travels first to the liver and then on to the bloodstream, where it reproduces and destroys red blood cells. An estimated 250 million people suffer from malaria each year, and about one million die--many of them children. There are currently no effective or approved malaria vaccines.\n\nTo \"kill\" malaria, scientists are genetically modifying a bacterium in mosquitoes so that it releases toxic compounds. These compounds are not harmful to humans or the mosquito itself, but they do kill off the malaria parasite, making the mosquito incapable of infecting humans with malaria.\n\nDespite this achievement, scientists are faced with the challenge of giving the modified mosquitoes a competitive advantage so that they can eventually replace the wild population. Complete blockage of the malaria parasite is very important. If some of the parasites slip through the mechanism, then the next generation will likely become resistant to it. And if that happens, the scientists are back where they started.\n\nAnother challenge for scientists is to gain public approval for this genetic modification regarding mosquitoes and malaria control. Environmental activists have raised concerns about the release of genetically engineered organisms without any clear knowledge of their long-term effect on ecosystems and human health. There is still a long way to go before genetic modification techniques are put to use in disease control.\n50. According to the passage, which of the following is true about malaria parasites?",
+    "options": [
+      "They are resistant to genetic modification and vaccines.",
+      "They reproduce in the human liver and grow stronger there.",
+      "They can be found in only one gender of a class of mosquitoes.",
+      "They are transmitted to around one million children each year."
+    ],
+    "answerIndex": 2,
+    "explanation": "瘧原蟲由雌性瘧蚊攜帶。\n(B) 是在血液中繁殖；(D) 每年約一百萬人死亡，其中許多是兒童。\n\n故選 (C)"
+  },
+  {
+    "id": "103-ast-eng-51",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nScientists are trying to genetically modify the world in which we live. They are even trying to wipe out diseases via genetic modification. For example, researchers have tried to engineer mosquitoes to kill malaria parasites. The malaria parasite is carried by the female Anopheles mosquito. When transmitted to a human, the parasite travels first to the liver and then on to the bloodstream, where it reproduces and destroys red blood cells. An estimated 250 million people suffer from malaria each year, and about one million die--many of them children. There are currently no effective or approved malaria vaccines.\n\nTo \"kill\" malaria, scientists are genetically modifying a bacterium in mosquitoes so that it releases toxic compounds. These compounds are not harmful to humans or the mosquito itself, but they do kill off the malaria parasite, making the mosquito incapable of infecting humans with malaria.\n\nDespite this achievement, scientists are faced with the challenge of giving the modified mosquitoes a competitive advantage so that they can eventually replace the wild population. Complete blockage of the malaria parasite is very important. If some of the parasites slip through the mechanism, then the next generation will likely become resistant to it. And if that happens, the scientists are back where they started.\n\nAnother challenge for scientists is to gain public approval for this genetic modification regarding mosquitoes and malaria control. Environmental activists have raised concerns about the release of genetically engineered organisms without any clear knowledge of their long-term effect on ecosystems and human health. There is still a long way to go before genetic modification techniques are put to use in disease control.\n51. What does \"that\" in the third paragraph refer to?",
+    "options": [
+      "Some malaria parasites escaping from the ecosystems.",
+      "Malaria parasites becoming immune to the engineered bacterium.",
+      "Modified mosquitoes becoming more competitive than the wild ones.",
+      "Transmission of malaria being blocked from mosquitoes to humans."
+    ],
+    "answerIndex": 1,
+    "explanation": "that 指前句：若部分瘧原蟲逃過機制，下一代可能產生抗性，也就是瘧原蟲對改造細菌免疫。\n\n故選 (B)"
   }
 ]
