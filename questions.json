@@ -117363,5 +117363,804 @@
     ],
     "answerIndex": 2,
     "explanation": "文章介紹紅火蟻的來源、擴散、築巢習性與危害，目的在提供相關資訊。\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-eng-01",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. I called the airline to ______ my flight reservation a week before I left for Canada.",
+    "options": [
+      "expand",
+      "attach",
+      "confirm",
+      "strengthen"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：出發去加拿大前一週，我打電話給航空公司確認機位。\nconfirm a reservation「確認預約」。\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-eng-02",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. In order to write a report on stars, we decided to ______ the stars in the sky every night.",
+    "options": [
+      "design",
+      "seize",
+      "quote",
+      "observe"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：為了寫星星的報告，我們決定每晚觀察天上的星星。\n• (D) observe 觀察\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-03",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. Julie wants to buy a ______ computer so that she can carry it around when she travels.",
+    "options": [
+      "memorable",
+      "portable",
+      "predictable",
+      "readable"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：Julie 想買一台可攜式電腦，旅行時可以帶著走。\n• (B) portable 可攜帶的\n\n故選 (B)"
+  },
+  {
+    "id": "93-gsat-eng-04",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. My grandmother likes to surprise people. She never calls ______ to inform us of her visits.",
+    "options": [
+      "beforehand",
+      "anyhow",
+      "originally",
+      "consequently"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：奶奶喜歡給人驚喜，來訪前從不事先打電話通知。\n• (A) beforehand 事先\n\n故選 (A)"
+  },
+  {
+    "id": "93-gsat-eng-05",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. As the tallest building in the world, Taipei 101 has become a new ______ of Taipei City.",
+    "options": [
+      "incident",
+      "geography",
+      "skylight",
+      "landmark"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：身為（當時）世界最高建築，台北 101 成了台北市的新地標。\n• (D) landmark 地標\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-06",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. Many scholars and experts from all over the world will be invited to attend this yearly ______ on drug control.",
+    "options": [
+      "reference",
+      "intention",
+      "conference",
+      "interaction"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：許多世界各地的學者專家將受邀出席這場年度毒品管制會議。\n• (C) conference 會議\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-eng-07",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. John had failed to pay his phone bills for months, so his telephone was ______ last week.",
+    "options": [
+      "interrupted",
+      "disconnected",
+      "excluded",
+      "discriminated"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：John 好幾個月沒繳電話費，上週電話被斷線了。\n• (B) disconnect 切斷（電話、水電）\n\n故選 (B)"
+  },
+  {
+    "id": "93-gsat-eng-08",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. The organic food products are made of natural ingredients, with no ______ flavors added.",
+    "options": [
+      "accurate",
+      "regular",
+      "superficial",
+      "artificial"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：有機食品以天然原料製成，不添加人工香料。\n• (D) artificial 人工的\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-09",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. Jessica is a very religious girl; she believes that she is always ______ supported by her god.",
+    "options": [
+      "spiritually",
+      "typically",
+      "historically",
+      "officially"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：Jessica 很虔誠，相信神總是在心靈上支持著她。\n• (A) spiritually 精神上\n\n故選 (A)"
+  },
+  {
+    "id": "93-gsat-eng-10",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. Jane usually buys things on ______. Her purchases seem to be driven by some sudden force or desire.",
+    "options": [
+      "accident",
+      "compliment",
+      "justification",
+      "impulse"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：Jane 常衝動購物，似乎受一時的衝動或慾望驅使。\non impulse「一時衝動地」。\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-11",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "11. The week-long rainfall has ______ landslides and flooding in the mountain areas.",
+    "options": [
+      "set about",
+      "brought about",
+      "come about",
+      "put about"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：連續一週的降雨在山區造成山崩和水災。\n• (B) bring about 造成\n\n故選 (B)"
+  },
+  {
+    "id": "93-gsat-eng-12",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "12. In the cross-lake swimming race, a boat will be ______ in case of an emergency.",
+    "options": [
+      "standing by",
+      "turning on",
+      "getting on",
+      "running down"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：泳渡湖泊比賽中會有一艘船待命，以防緊急狀況。\n• (A) stand by 待命\n\n故選 (A)"
+  },
+  {
+    "id": "93-gsat-eng-13",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "13. The ground is slippery. Hold onto the rope and don't ______.",
+    "options": [
+      "put off",
+      "turn up",
+      "let go",
+      "take apart"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：地很滑，抓緊繩子別放手。\n• (C) let go 放手\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-eng-14",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "14. ______ the weather, the athletic meetings will be held on time.",
+    "options": [
+      "Instead of",
+      "In relation to",
+      "On behalf of",
+      "Regardless of"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：無論天氣如何，運動會都會準時舉行。\n• (D) regardless of 不管、不論\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-15",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "15. If people keep polluting the rivers, no fish there will survive ______.",
+    "options": [
+      "at all cost",
+      "for a long while",
+      "in the long run",
+      "by no means"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：如果人們持續污染河川，長遠來看那裡的魚都活不了。\n• (C) in the long run 長遠來看\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-eng-16",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nWhenever a Dalai Lama died, a search began for his reincarnation. The 【 16 】 male child had to have certain qualities. 【 17 】 was the ability to identify the belongings of his predecessor, or rather his previous self. Another requirement was 【 18 】 he should have large ears, upward-slanting eyes and eyebrows. Besides, one of his hands should bear a mark like a conch-shell. The successful candidate, usually 【 19 】 two or three, was then removed from his family to Lhasa to begin spiritual training for his future role. The Panchen Lamas were chosen in a similar way. The reincarnated leaders were always \"discovered\" in the households of lowly families 【 20 】 noble ones. This was to ensure that no single and powerful noble family could seize the title and pass it to the next generation.\n16.",
+    "options": [
+      "chosen",
+      "searching",
+      "dead",
+      "previous"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：「被選中的」男童必須具備某些特質。過去分詞 chosen 表被動。\n\n故選 (A)"
+  },
+  {
+    "id": "93-gsat-eng-17",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nWhenever a Dalai Lama died, a search began for his reincarnation. The 【 16 】 male child had to have certain qualities. 【 17 】 was the ability to identify the belongings of his predecessor, or rather his previous self. Another requirement was 【 18 】 he should have large ears, upward-slanting eyes and eyebrows. Besides, one of his hands should bear a mark like a conch-shell. The successful candidate, usually 【 19 】 two or three, was then removed from his family to Lhasa to begin spiritual training for his future role. The Panchen Lamas were chosen in a similar way. The reincarnated leaders were always \"discovered\" in the households of lowly families 【 20 】 noble ones. This was to ensure that no single and powerful noble family could seize the title and pass it to the next generation.\n17.",
+    "options": [
+      "It",
+      "All",
+      "One",
+      "This"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：特質之「一」是能認出前世的遺物。與下句 Another requirement 呼應。\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-eng-18",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nWhenever a Dalai Lama died, a search began for his reincarnation. The 【 16 】 male child had to have certain qualities. 【 17 】 was the ability to identify the belongings of his predecessor, or rather his previous self. Another requirement was 【 18 】 he should have large ears, upward-slanting eyes and eyebrows. Besides, one of his hands should bear a mark like a conch-shell. The successful candidate, usually 【 19 】 two or three, was then removed from his family to Lhasa to begin spiritual training for his future role. The Panchen Lamas were chosen in a similar way. The reincarnated leaders were always \"discovered\" in the households of lowly families 【 20 】 noble ones. This was to ensure that no single and powerful noble family could seize the title and pass it to the next generation.\n18.",
+    "options": [
+      "what",
+      "whether",
+      "why",
+      "that"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：另一項條件「是」他要有大耳朵、上揚的眼睛與眉毛。that 引導名詞子句作主詞補語，子句本身完整。\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-19",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nWhenever a Dalai Lama died, a search began for his reincarnation. The 【 16 】 male child had to have certain qualities. 【 17 】 was the ability to identify the belongings of his predecessor, or rather his previous self. Another requirement was 【 18 】 he should have large ears, upward-slanting eyes and eyebrows. Besides, one of his hands should bear a mark like a conch-shell. The successful candidate, usually 【 19 】 two or three, was then removed from his family to Lhasa to begin spiritual training for his future role. The Panchen Lamas were chosen in a similar way. The reincarnated leaders were always \"discovered\" in the households of lowly families 【 20 】 noble ones. This was to ensure that no single and powerful noble family could seize the title and pass it to the next generation.\n19.",
+    "options": [
+      "having aged",
+      "aging",
+      "to age",
+      "aged"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：雀屏中選者通常「年齡」兩三歲。aged + 數字「…歲的」。\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-20",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nWhenever a Dalai Lama died, a search began for his reincarnation. The 【 16 】 male child had to have certain qualities. 【 17 】 was the ability to identify the belongings of his predecessor, or rather his previous self. Another requirement was 【 18 】 he should have large ears, upward-slanting eyes and eyebrows. Besides, one of his hands should bear a mark like a conch-shell. The successful candidate, usually 【 19 】 two or three, was then removed from his family to Lhasa to begin spiritual training for his future role. The Panchen Lamas were chosen in a similar way. The reincarnated leaders were always \"discovered\" in the households of lowly families 【 20 】 noble ones. This was to ensure that no single and powerful noble family could seize the title and pass it to the next generation.\n20.",
+    "options": [
+      "relative to",
+      "rather than",
+      "as a result of",
+      "with regard to"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：轉世領袖總是在卑微的家庭中「而不是」貴族家庭被「發現」。下句說明是為了防止貴族奪權。\n\n故選 (B)"
+  },
+  {
+    "id": "93-gsat-eng-21",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThe CAMBODIA DAILY is launching a world-wide campaign to wipe out malaria in Cambodia. You can help save three lives for only ＄5 by supporting this effort. Each and every dollar you contribute will go 【 21 】 the purchase of family-sized insecticide-treated mosquito nets costing ＄5 each. These nets are recognized by medical experts as the best hope for 【 22 】 the spread of malaria—Cambodia's most deadly disease. 【 23 】 the Health Ministry and the Malaria Center, The CAMBODIA DAILY will distribute the nets to the most 【 24 】 areas of the country.\n\n【 25 】 to this campaign and save three lives for only ＄5, send your donation to: American Assistance for Cambodia, P.O. Box 2716, GPO, New York, NY 10116. Credit Card donations are also accepted.\n21.",
+    "options": [
+      "towards",
+      "against",
+      "down",
+      "over"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：你捐的每一塊錢都會「用於」購買蚊帳。go towards「用於支付」。\n\n故選 (A)"
+  },
+  {
+    "id": "93-gsat-eng-22",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThe CAMBODIA DAILY is launching a world-wide campaign to wipe out malaria in Cambodia. You can help save three lives for only ＄5 by supporting this effort. Each and every dollar you contribute will go 【 21 】 the purchase of family-sized insecticide-treated mosquito nets costing ＄5 each. These nets are recognized by medical experts as the best hope for 【 22 】 the spread of malaria—Cambodia's most deadly disease. 【 23 】 the Health Ministry and the Malaria Center, The CAMBODIA DAILY will distribute the nets to the most 【 24 】 areas of the country.\n\n【 25 】 to this campaign and save three lives for only ＄5, send your donation to: American Assistance for Cambodia, P.O. Box 2716, GPO, New York, NY 10116. Credit Card donations are also accepted.\n22.",
+    "options": [
+      "expanding",
+      "eliminating",
+      "deleting",
+      "assisting"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：這些蚊帳被視為「消除」瘧疾傳播的最佳希望。eliminate「消除」；delete 用於文字、檔案。\n\n故選 (B)"
+  },
+  {
+    "id": "93-gsat-eng-23",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThe CAMBODIA DAILY is launching a world-wide campaign to wipe out malaria in Cambodia. You can help save three lives for only ＄5 by supporting this effort. Each and every dollar you contribute will go 【 21 】 the purchase of family-sized insecticide-treated mosquito nets costing ＄5 each. These nets are recognized by medical experts as the best hope for 【 22 】 the spread of malaria—Cambodia's most deadly disease. 【 23 】 the Health Ministry and the Malaria Center, The CAMBODIA DAILY will distribute the nets to the most 【 24 】 areas of the country.\n\n【 25 】 to this campaign and save three lives for only ＄5, send your donation to: American Assistance for Cambodia, P.O. Box 2716, GPO, New York, NY 10116. Credit Card donations are also accepted.\n23.",
+    "options": [
+      "In view of",
+      "In spite of",
+      "In case of",
+      "In conjunction with"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：「與」衛生部和瘧疾中心「合作」，柬埔寨日報將發放蚊帳。in conjunction with「與…協力」。\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-24",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThe CAMBODIA DAILY is launching a world-wide campaign to wipe out malaria in Cambodia. You can help save three lives for only ＄5 by supporting this effort. Each and every dollar you contribute will go 【 21 】 the purchase of family-sized insecticide-treated mosquito nets costing ＄5 each. These nets are recognized by medical experts as the best hope for 【 22 】 the spread of malaria—Cambodia's most deadly disease. 【 23 】 the Health Ministry and the Malaria Center, The CAMBODIA DAILY will distribute the nets to the most 【 24 】 areas of the country.\n\n【 25 】 to this campaign and save three lives for only ＄5, send your donation to: American Assistance for Cambodia, P.O. Box 2716, GPO, New York, NY 10116. Credit Card donations are also accepted.\n24.",
+    "options": [
+      "affected",
+      "frequent",
+      "effective",
+      "included"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：蚊帳將發放到受瘧疾「影響」最嚴重的地區。affected areas「災區、疫區」。\n\n故選 (A)"
+  },
+  {
+    "id": "93-gsat-eng-25",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThe CAMBODIA DAILY is launching a world-wide campaign to wipe out malaria in Cambodia. You can help save three lives for only ＄5 by supporting this effort. Each and every dollar you contribute will go 【 21 】 the purchase of family-sized insecticide-treated mosquito nets costing ＄5 each. These nets are recognized by medical experts as the best hope for 【 22 】 the spread of malaria—Cambodia's most deadly disease. 【 23 】 the Health Ministry and the Malaria Center, The CAMBODIA DAILY will distribute the nets to the most 【 24 】 areas of the country.\n\n【 25 】 to this campaign and save three lives for only ＄5, send your donation to: American Assistance for Cambodia, P.O. Box 2716, GPO, New York, NY 10116. Credit Card donations are also accepted.\n25.",
+    "options": [
+      "Contributing",
+      "Contribute",
+      "To contribute",
+      "For contributing"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：「為了」捐款給這項活動，請把捐款寄到…。主要子句為祈使句 send…，前面用不定詞表目的。\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-eng-26",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nLearning style means a person's natural, habitual, and preferred way(s) of learning. Research about learning styles has identified 【 26 】 differences. For example, one study found various differences 【 27 】 boys and girls in sensory learning styles. Girls were 【 28 】 more sensitive to sounds and more skillful at fine motor performance than boys. Boys, 【 29 】, showed an early visual superiority to girls. They were, however, clumsier than girls. They performed poorly at a detailed activity 【 30 】 arranging a row of beads. But boys excelled at other activities that required total body coordination.\n26.",
+    "options": [
+      "cultural",
+      "racial",
+      "age",
+      "gender"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：學習風格研究已找出「性別」差異；下文舉男孩與女孩的差異為例。\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-27",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nLearning style means a person's natural, habitual, and preferred way(s) of learning. Research about learning styles has identified 【 26 】 differences. For example, one study found various differences 【 27 】 boys and girls in sensory learning styles. Girls were 【 28 】 more sensitive to sounds and more skillful at fine motor performance than boys. Boys, 【 29 】, showed an early visual superiority to girls. They were, however, clumsier than girls. They performed poorly at a detailed activity 【 30 】 arranging a row of beads. But boys excelled at other activities that required total body coordination.\n27.",
+    "options": [
+      "for",
+      "within",
+      "between",
+      "into"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：男孩和女孩「之間」的差異。differences between A and B。\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-eng-28",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nLearning style means a person's natural, habitual, and preferred way(s) of learning. Research about learning styles has identified 【 26 】 differences. For example, one study found various differences 【 27 】 boys and girls in sensory learning styles. Girls were 【 28 】 more sensitive to sounds and more skillful at fine motor performance than boys. Boys, 【 29 】, showed an early visual superiority to girls. They were, however, clumsier than girls. They performed poorly at a detailed activity 【 30 】 arranging a row of beads. But boys excelled at other activities that required total body coordination.\n28.",
+    "options": [
+      "very",
+      "both",
+      "still",
+      "thus"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：女孩「既」對聲音較敏感，「又」較擅長精細動作。both A and B。\n\n故選 (B)"
+  },
+  {
+    "id": "93-gsat-eng-29",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nLearning style means a person's natural, habitual, and preferred way(s) of learning. Research about learning styles has identified 【 26 】 differences. For example, one study found various differences 【 27 】 boys and girls in sensory learning styles. Girls were 【 28 】 more sensitive to sounds and more skillful at fine motor performance than boys. Boys, 【 29 】, showed an early visual superiority to girls. They were, however, clumsier than girls. They performed poorly at a detailed activity 【 30 】 arranging a row of beads. But boys excelled at other activities that required total body coordination.\n29.",
+    "options": [
+      "similarly",
+      "moreover",
+      "in contrast",
+      "in consequence"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：「相反地」，男孩在視覺上較早顯現優勢，與前句女孩的優勢對比。\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-eng-30",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nLearning style means a person's natural, habitual, and preferred way(s) of learning. Research about learning styles has identified 【 26 】 differences. For example, one study found various differences 【 27 】 boys and girls in sensory learning styles. Girls were 【 28 】 more sensitive to sounds and more skillful at fine motor performance than boys. Boys, 【 29 】, showed an early visual superiority to girls. They were, however, clumsier than girls. They performed poorly at a detailed activity 【 30 】 arranging a row of beads. But boys excelled at other activities that required total body coordination.\n30.",
+    "options": [
+      "according to",
+      "next to",
+      "such as",
+      "because of"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：他們在精細活動「例如」排一列珠子時表現較差。such as 舉例。\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-eng-31-40",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 31-40 題組】\nAlthough stories about aliens have never been officially confirmed, their existence has been widely speculated upon.\nMany people believe that ___(31)___ from outer space have visited us for centuries. Some say that life on Earth ___(32)___ \"out there\" and was seeded here. Others say that aliens have ___(33)___ what happens on Earth, and are responsible for quite a few legends, and that the ancient Greek and Roman gods, ___(34)___ the fairies and dwarfs in many classical tales, were in fact \"space people\" living here. Still ___(35)___ say that aliens were responsible for the growth of highly evolved civilizations which have ___(36)___ perished, including the Incan and Mayan civilizations and the legendary Atlantis.\nA lot of ancient civilizations, ___(37)___ the Egyptians, Hindus, Greeks, and Mayans, have left writings and ___(38)___ which indicate contacts with superior beings \"from the stars.\" Many believe that the aliens are here to help us, while others hold that the aliens intend us ___(39)___. Still others think that most aliens visit Earth to study us like our scientists study primitive natives and animals, and have no interest in helping us ___(40)___.\nIt is difficult to comment conclusively on these theories in general, apart from saying that any and all of them might be possible. Maybe time will tell.\n(A) as well as　(B) beings　(C) drawings　(D) in any way　(E) kept an eye on　(F) like　(G) others　(H) originated　(I) since　(J) harm\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "B",
+      "H",
+      "E",
+      "A",
+      "G",
+      "I",
+      "F",
+      "C",
+      "J",
+      "D"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "explanation": "• 31 (B) beings：beings from outer space「外太空生物」，作子句主詞。\n• 32 (H) originated：地球上的生命「起源於」外太空，與 was seeded 並列用過去式。\n• 33 (E) kept an eye on：外星人一直「注意著」地球上發生的事，have + p.p.。\n• 34 (A) as well as：希臘羅馬諸神，「以及」古典故事中的仙子與矮人。\n• 35 (G) others：Some… Others… Still others…「還有些人」。\n• 36 (I) since：have since perished「此後已經滅亡」，since 作副詞。\n• 37 (F) like：「像是」埃及人、印度人、希臘人、馬雅人，舉例。\n• 38 (C) drawings：留下文字和「圖畫」，與 writings 並列。\n• 39 (J) harm：intend sb. harm「打算加害某人」。\n• 40 (D) in any way：對以「任何方式」幫助我們都沒興趣。"
+  },
+  {
+    "id": "93-gsat-eng-41",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nA sense of humor is just one of the many things shared by Alfred and Anthony Melillo, 64-year-old twin brothers from East Haven who made history in February 2002. On Christmas Eve, 1992, Anthony had a heart transplant from a 21-year-old donor. Two days before Valentine's Day in 2002, Alfred received a 19-year-old heart, marking the first time on record that twin adults each received heart transplants.\n\n\"I'm 15 minutes older than him, but now I'm younger because of my heart and I'm not going to respect him,\" Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes.\n\nWhile the twins knew that genetics might have played a role in their condition, they recognized that their eating habits might have also contributed to their heart problems. \"We'd put half a pound of butter on a steak. I overdid it on all the food that tasted good, so I guess I deserved what I got for not dieting properly.\"\n\nThe discussion moved to Anthony's recovery. In the five years since his heart transplant, he had been on an exercise program where he regularly rode a bicycle for five miles, swam each day, and walked a couple of miles. He was still on medication, but not nearly as much as Alfred, who was just in the early stage of his recovery.\n\n\"Right now I feel pretty young and I'm doing very well,\" Anthony said. \"I feel like a new person.\" Alfred said his goal, of course, was to feel even better than his brother. But, he added, \"I love my brother very much. We're very close and I'm sure we'll do just fine.\"\n41. This article is mainly about ______.",
+    "options": [
+      "the danger of heart transplant surgery",
+      "becoming young by getting a new heart",
+      "the effect of genetics on the heart",
+      "the twin brothers who received heart transplants"
+    ],
+    "answerIndex": 3,
+    "explanation": "文章報導一對雙胞胎兄弟先後接受心臟移植，是首例成年雙胞胎都換心的紀錄。\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-42",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nA sense of humor is just one of the many things shared by Alfred and Anthony Melillo, 64-year-old twin brothers from East Haven who made history in February 2002. On Christmas Eve, 1992, Anthony had a heart transplant from a 21-year-old donor. Two days before Valentine's Day in 2002, Alfred received a 19-year-old heart, marking the first time on record that twin adults each received heart transplants.\n\n\"I'm 15 minutes older than him, but now I'm younger because of my heart and I'm not going to respect him,\" Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes.\n\nWhile the twins knew that genetics might have played a role in their condition, they recognized that their eating habits might have also contributed to their heart problems. \"We'd put half a pound of butter on a steak. I overdid it on all the food that tasted good, so I guess I deserved what I got for not dieting properly.\"\n\nThe discussion moved to Anthony's recovery. In the five years since his heart transplant, he had been on an exercise program where he regularly rode a bicycle for five miles, swam each day, and walked a couple of miles. He was still on medication, but not nearly as much as Alfred, who was just in the early stage of his recovery.\n\n\"Right now I feel pretty young and I'm doing very well,\" Anthony said. \"I feel like a new person.\" Alfred said his goal, of course, was to feel even better than his brother. But, he added, \"I love my brother very much. We're very close and I'm sure we'll do just fine.\"\n42. What did Alfred and Anthony have in common?",
+    "options": [
+      "Lifespan.",
+      "Career goals.",
+      "A sense of humor.",
+      "Love for bicycling."
+    ],
+    "answerIndex": 2,
+    "explanation": "首句：幽默感只是 Alfred 和 Anthony 共有的許多特質之一。\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-eng-43",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nA sense of humor is just one of the many things shared by Alfred and Anthony Melillo, 64-year-old twin brothers from East Haven who made history in February 2002. On Christmas Eve, 1992, Anthony had a heart transplant from a 21-year-old donor. Two days before Valentine's Day in 2002, Alfred received a 19-year-old heart, marking the first time on record that twin adults each received heart transplants.\n\n\"I'm 15 minutes older than him, but now I'm younger because of my heart and I'm not going to respect him,\" Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes.\n\nWhile the twins knew that genetics might have played a role in their condition, they recognized that their eating habits might have also contributed to their heart problems. \"We'd put half a pound of butter on a steak. I overdid it on all the food that tasted good, so I guess I deserved what I got for not dieting properly.\"\n\nThe discussion moved to Anthony's recovery. In the five years since his heart transplant, he had been on an exercise program where he regularly rode a bicycle for five miles, swam each day, and walked a couple of miles. He was still on medication, but not nearly as much as Alfred, who was just in the early stage of his recovery.\n\n\"Right now I feel pretty young and I'm doing very well,\" Anthony said. \"I feel like a new person.\" Alfred said his goal, of course, was to feel even better than his brother. But, he added, \"I love my brother very much. We're very close and I'm sure we'll do just fine.\"\n43. What did Alfred and Anthony think caused their heart problems?",
+    "options": [
+      "Exercise.",
+      "Diet.",
+      "Surgery.",
+      "Medicines."
+    ],
+    "answerIndex": 1,
+    "explanation": "他們認為飲食習慣（牛排上放半磅奶油、沒有好好節制飲食）也導致心臟問題。\n\n故選 (B)"
+  },
+  {
+    "id": "93-gsat-eng-44",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nA sense of humor is just one of the many things shared by Alfred and Anthony Melillo, 64-year-old twin brothers from East Haven who made history in February 2002. On Christmas Eve, 1992, Anthony had a heart transplant from a 21-year-old donor. Two days before Valentine's Day in 2002, Alfred received a 19-year-old heart, marking the first time on record that twin adults each received heart transplants.\n\n\"I'm 15 minutes older than him, but now I'm younger because of my heart and I'm not going to respect him,\" Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes.\n\nWhile the twins knew that genetics might have played a role in their condition, they recognized that their eating habits might have also contributed to their heart problems. \"We'd put half a pound of butter on a steak. I overdid it on all the food that tasted good, so I guess I deserved what I got for not dieting properly.\"\n\nThe discussion moved to Anthony's recovery. In the five years since his heart transplant, he had been on an exercise program where he regularly rode a bicycle for five miles, swam each day, and walked a couple of miles. He was still on medication, but not nearly as much as Alfred, who was just in the early stage of his recovery.\n\n\"Right now I feel pretty young and I'm doing very well,\" Anthony said. \"I feel like a new person.\" Alfred said his goal, of course, was to feel even better than his brother. But, he added, \"I love my brother very much. We're very close and I'm sure we'll do just fine.\"\n44. Why did Alfred say, \"I'm 15 minutes older than him, but now I'm younger because of my heart\"?",
+    "options": [
+      "His heart transplant surgery was more successful than Anthony's.",
+      "His recovery from the heart surgery was faster than Anthony's.",
+      "His exercise program was better than Anthony's.",
+      "His new heart was younger than Anthony's."
+    ],
+    "answerIndex": 3,
+    "explanation": "Alfred 換的是 19 歲的心臟，Anthony 換的是 21 歲的心臟，所以他開玩笑說自己的心比較年輕。\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-45",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-47 題組】\nIn 1993, the Metropolitan Museum of Art reluctantly handed over 363 pieces of gold, silver, precious stones, paintings, and sculptures back to Turkey after a court case. Following increasing calls for the return of artistic objects that were removed decades or centuries ago, some of the world's leading museums have signed a declaration that they will not hand back the ancient artifacts to their countries of origin. They say people all over the world have only been able to fully appreciate ancient civilizations because these museums have provided access to these artistic objects. The ancient civilizations would not be so deeply admired today if these ancient artifacts were not so widely available to an international public in major museums throughout Europe and America. For example, Egyptian culture would not have become so well-known if the museums had not put Egyptian mummies on show.\n\nThe British Museum has not signed the declaration, but says it fully supports it. Over the recent years, it has faced growing pressure to hand back the Elgin Marbles, sculptures taken from the Parthenon in Athens, Greece, in the 19th century. But the British Museum has said that the Museum is the best possible place for them. \"They must remain here if the museum is to continue to achieve its aim, which is to show the world to the world,\" said the director of the museum.\n45. What reason do the major museums provide for not handing back the ancient objects?",
+    "options": [
+      "Only in the leading museums can the objects be fully appreciated by the world.",
+      "It is better for those objects to remain at a certain place than to be moved around.",
+      "They need those well-known ancient objects to attract people from all over the world.",
+      "Ancient civilizations can only be admired if they are removed from their home countries."
+    ],
+    "answerIndex": 0,
+    "explanation": "博物館表示，正因為這些大博物館展出文物，全世界的人才能充分欣賞古文明。\n\n故選 (A)"
+  },
+  {
+    "id": "93-gsat-eng-46",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-47 題組】\nIn 1993, the Metropolitan Museum of Art reluctantly handed over 363 pieces of gold, silver, precious stones, paintings, and sculptures back to Turkey after a court case. Following increasing calls for the return of artistic objects that were removed decades or centuries ago, some of the world's leading museums have signed a declaration that they will not hand back the ancient artifacts to their countries of origin. They say people all over the world have only been able to fully appreciate ancient civilizations because these museums have provided access to these artistic objects. The ancient civilizations would not be so deeply admired today if these ancient artifacts were not so widely available to an international public in major museums throughout Europe and America. For example, Egyptian culture would not have become so well-known if the museums had not put Egyptian mummies on show.\n\nThe British Museum has not signed the declaration, but says it fully supports it. Over the recent years, it has faced growing pressure to hand back the Elgin Marbles, sculptures taken from the Parthenon in Athens, Greece, in the 19th century. But the British Museum has said that the Museum is the best possible place for them. \"They must remain here if the museum is to continue to achieve its aim, which is to show the world to the world,\" said the director of the museum.\n46. Which of the following is NOT mentioned as one of the \"countries of origin\" in the article?",
+    "options": [
+      "Turkey.",
+      "Britain.",
+      "Egypt.",
+      "Greece."
+    ],
+    "answerIndex": 1,
+    "explanation": "文物來源國提到土耳其、埃及（木乃伊）、希臘（埃爾金石雕）；英國是收藏文物的國家，不是來源國。\n\n故選 (B)"
+  },
+  {
+    "id": "93-gsat-eng-47",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-47 題組】\nIn 1993, the Metropolitan Museum of Art reluctantly handed over 363 pieces of gold, silver, precious stones, paintings, and sculptures back to Turkey after a court case. Following increasing calls for the return of artistic objects that were removed decades or centuries ago, some of the world's leading museums have signed a declaration that they will not hand back the ancient artifacts to their countries of origin. They say people all over the world have only been able to fully appreciate ancient civilizations because these museums have provided access to these artistic objects. The ancient civilizations would not be so deeply admired today if these ancient artifacts were not so widely available to an international public in major museums throughout Europe and America. For example, Egyptian culture would not have become so well-known if the museums had not put Egyptian mummies on show.\n\nThe British Museum has not signed the declaration, but says it fully supports it. Over the recent years, it has faced growing pressure to hand back the Elgin Marbles, sculptures taken from the Parthenon in Athens, Greece, in the 19th century. But the British Museum has said that the Museum is the best possible place for them. \"They must remain here if the museum is to continue to achieve its aim, which is to show the world to the world,\" said the director of the museum.\n47. What does \"the world\" mean in \"show the world to the world\"?",
+    "options": [
+      "The global village.",
+      "The leading museums.",
+      "The ancient civilizations.",
+      "The international public."
+    ],
+    "answerIndex": 2,
+    "explanation": "第一個 the world 是被展示的對象，即各地的古文明（文物）；第二個 the world 才是世界大眾。\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-eng-48",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nSome animals have organs in their bodies that produce light. When it is dark, they flash their lights on and off to signal to others of their species, to lure prey toward them, or to escape from predators.\n\nSome fish are found to produce light in the blackness of the sea. When night falls over the Red Sea, tiny flashlight fish rise to the surface for food, each with a pair of \"headlamps,\" one beneath each eye. With the light produced by bacteria living there, they communicate with other flashlight fish to avoid getting too close to each other, so that the fish may spread out evenly to get enough food. And if a flashlight fish is threatened by a predator, it swims away in a zigzag path, flashing its light on and off very quickly to confuse the animal pursuing it.\n\nCertain land animals can also produce light. Fireflies, small beetles that live in many warmer parts of the world, use light to attract a mate. After darkness falls in some parts of North America, female fireflies gather on the ground. The males fly overhead, flashing light from the undersides of their bodies. As there are a number of species of firefly, the males of each kind flash their own particular signal. Recognizing the flashing code of her own species, a female signals back to the male, and he lands beside her.\n\nOn land as in the sea, living lights can be deceiving. When they are hungry, some female fireflies lure the males of other species to them. They flash a false response when these males signal overhead, but eat them when they land.\n48. Which of the following is the best title for the article?",
+    "options": [
+      "Mating of Flashlight Fish and Fireflies.",
+      "Darkness and Light.",
+      "Living Lights and Animal Communication.",
+      "Life on Land and in the Sea."
+    ],
+    "answerIndex": 2,
+    "explanation": "文章介紹會發光的動物（燈眼魚、螢火蟲）如何用光與同類溝通、求偶、捕食或逃避天敵。\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-eng-49",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nSome animals have organs in their bodies that produce light. When it is dark, they flash their lights on and off to signal to others of their species, to lure prey toward them, or to escape from predators.\n\nSome fish are found to produce light in the blackness of the sea. When night falls over the Red Sea, tiny flashlight fish rise to the surface for food, each with a pair of \"headlamps,\" one beneath each eye. With the light produced by bacteria living there, they communicate with other flashlight fish to avoid getting too close to each other, so that the fish may spread out evenly to get enough food. And if a flashlight fish is threatened by a predator, it swims away in a zigzag path, flashing its light on and off very quickly to confuse the animal pursuing it.\n\nCertain land animals can also produce light. Fireflies, small beetles that live in many warmer parts of the world, use light to attract a mate. After darkness falls in some parts of North America, female fireflies gather on the ground. The males fly overhead, flashing light from the undersides of their bodies. As there are a number of species of firefly, the males of each kind flash their own particular signal. Recognizing the flashing code of her own species, a female signals back to the male, and he lands beside her.\n\nOn land as in the sea, living lights can be deceiving. When they are hungry, some female fireflies lure the males of other species to them. They flash a false response when these males signal overhead, but eat them when they land.\n49. Flashlight fish in the Red Sea give out light at night ______.",
+    "options": [
+      "when they come out for food",
+      "as they try to look for their companions",
+      "because they want to get rid of the bacteria",
+      "so that they can get close to other flashlight fish"
+    ],
+    "answerIndex": 0,
+    "explanation": "夜晚燈眼魚浮到海面覓食時發光。\n(D) 相反，是為了避免靠得太近。\n\n故選 (A)"
+  },
+  {
+    "id": "93-gsat-eng-50",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nSome animals have organs in their bodies that produce light. When it is dark, they flash their lights on and off to signal to others of their species, to lure prey toward them, or to escape from predators.\n\nSome fish are found to produce light in the blackness of the sea. When night falls over the Red Sea, tiny flashlight fish rise to the surface for food, each with a pair of \"headlamps,\" one beneath each eye. With the light produced by bacteria living there, they communicate with other flashlight fish to avoid getting too close to each other, so that the fish may spread out evenly to get enough food. And if a flashlight fish is threatened by a predator, it swims away in a zigzag path, flashing its light on and off very quickly to confuse the animal pursuing it.\n\nCertain land animals can also produce light. Fireflies, small beetles that live in many warmer parts of the world, use light to attract a mate. After darkness falls in some parts of North America, female fireflies gather on the ground. The males fly overhead, flashing light from the undersides of their bodies. As there are a number of species of firefly, the males of each kind flash their own particular signal. Recognizing the flashing code of her own species, a female signals back to the male, and he lands beside her.\n\nOn land as in the sea, living lights can be deceiving. When they are hungry, some female fireflies lure the males of other species to them. They flash a false response when these males signal overhead, but eat them when they land.\n50. According to the passage, NEITHER flashlight fish NOR fireflies send out light to ______.",
+    "options": [
+      "attract a mate",
+      "lure their prey",
+      "escape from their enemies",
+      "find their way home"
+    ],
+    "answerIndex": 3,
+    "explanation": "螢火蟲用光求偶、誘捕獵物；燈眼魚用光逃避天敵。文中沒有提到用光找路回家。\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-51",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nSome animals have organs in their bodies that produce light. When it is dark, they flash their lights on and off to signal to others of their species, to lure prey toward them, or to escape from predators.\n\nSome fish are found to produce light in the blackness of the sea. When night falls over the Red Sea, tiny flashlight fish rise to the surface for food, each with a pair of \"headlamps,\" one beneath each eye. With the light produced by bacteria living there, they communicate with other flashlight fish to avoid getting too close to each other, so that the fish may spread out evenly to get enough food. And if a flashlight fish is threatened by a predator, it swims away in a zigzag path, flashing its light on and off very quickly to confuse the animal pursuing it.\n\nCertain land animals can also produce light. Fireflies, small beetles that live in many warmer parts of the world, use light to attract a mate. After darkness falls in some parts of North America, female fireflies gather on the ground. The males fly overhead, flashing light from the undersides of their bodies. As there are a number of species of firefly, the males of each kind flash their own particular signal. Recognizing the flashing code of her own species, a female signals back to the male, and he lands beside her.\n\nOn land as in the sea, living lights can be deceiving. When they are hungry, some female fireflies lure the males of other species to them. They flash a false response when these males signal overhead, but eat them when they land.\n51. Which of the following statements about fireflies is true?",
+    "options": [
+      "All kinds of fireflies use the same signals.",
+      "Fireflies use their headlamps to communicate.",
+      "Male fireflies may deceive females with false signals.",
+      "Female fireflies respond from the ground to males' signals."
+    ],
+    "answerIndex": 3,
+    "explanation": "雌螢火蟲聚在地面，認出同種雄蟲的閃光密碼後回應訊號。\n(A) 各種類訊號不同；(B) 頭燈是燈眼魚；(C) 欺騙的是雌蟲。\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-52",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 52-55 題組】\nBrooks, Bruce. Everywhere. HarperCollins, 1990. ISBN0060207299. 70 pages.\nPeanuts' beloved grandfather has suffered a heart attack. Peanuts is sad over the possibility of losing his grandfather. Dooley keeps Peanuts company while the adults in the family attend to Grandfather. Dooley attempts to save the old man by a ritual learned from comic books: killing a turtle and trading his soul for Grandfather's. With the imaginative assistance of Dooley, Peanuts discovers the healing power of hope and love.\n--------------------\nBabbitt, Natalie. Tuck Everlasting. Farrar, 1975. ISBN0374378487. 180 pages.\nThe Tuck family has discovered a spring whose water brings eternal life. A man learns their secret and threatens to sell the water to the highest bidder. Mrs. Tuck kills the man and is jailed and sentenced to be executed. Though the family knows she cannot be killed, they worry that their secret will be revealed when they try to kill her.\n--------------------\nBaylor, Byrd. The Table Where Rich People Sit. Simon & Schuster, 1994. ISBN0684196530. 52 pages.\nAround an old kitchen table, a young girl calls a family meeting to show her parents that they should earn more money so they can have nicer things. As she points out they are not sitting at a table where rich people would sit, her parents calculate the value of the desert hills, the blooming cactus, the calls of eagles, and one another's company. Soon, she realizes that her poor family is rich in things that matter in life. She concludes that this is indeed a table where rich people sit.\n--------------------\nGoble, Paul. Beyond the Ridge. Bradbury, 1989. ISBN0027365816. 32 pages.\nThere is no death; only a change of worlds--the author delivers these reassurances to readers in this book, based on the customs of the Plains Indians in America. The book reads like a prayer, expressing specific beliefs about dying. It describes a woman who is called by her long-dead mother to go \"beyond the ridge.\" After a steep climb, she discovers a world that is abundantly beautiful, and there she finds the familiar faces of people who have passed that way before her.\n52. Which book is the thickest?",
+    "options": [
+      "Everywhere.",
+      "Tuck Everlasting.",
+      "The Table Where Rich People Sit.",
+      "Beyond the Ridge."
+    ],
+    "answerIndex": 1,
+    "explanation": "頁數：Everywhere 70 頁、Tuck Everlasting 180 頁、The Table Where Rich People Sit 52 頁、Beyond the Ridge 32 頁，以 Tuck Everlasting 最厚。\n\n故選 (B)"
+  },
+  {
+    "id": "93-gsat-eng-53",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 52-55 題組】\nBrooks, Bruce. Everywhere. HarperCollins, 1990. ISBN0060207299. 70 pages.\nPeanuts' beloved grandfather has suffered a heart attack. Peanuts is sad over the possibility of losing his grandfather. Dooley keeps Peanuts company while the adults in the family attend to Grandfather. Dooley attempts to save the old man by a ritual learned from comic books: killing a turtle and trading his soul for Grandfather's. With the imaginative assistance of Dooley, Peanuts discovers the healing power of hope and love.\n--------------------\nBabbitt, Natalie. Tuck Everlasting. Farrar, 1975. ISBN0374378487. 180 pages.\nThe Tuck family has discovered a spring whose water brings eternal life. A man learns their secret and threatens to sell the water to the highest bidder. Mrs. Tuck kills the man and is jailed and sentenced to be executed. Though the family knows she cannot be killed, they worry that their secret will be revealed when they try to kill her.\n--------------------\nBaylor, Byrd. The Table Where Rich People Sit. Simon & Schuster, 1994. ISBN0684196530. 52 pages.\nAround an old kitchen table, a young girl calls a family meeting to show her parents that they should earn more money so they can have nicer things. As she points out they are not sitting at a table where rich people would sit, her parents calculate the value of the desert hills, the blooming cactus, the calls of eagles, and one another's company. Soon, she realizes that her poor family is rich in things that matter in life. She concludes that this is indeed a table where rich people sit.\n--------------------\nGoble, Paul. Beyond the Ridge. Bradbury, 1989. ISBN0027365816. 32 pages.\nThere is no death; only a change of worlds--the author delivers these reassurances to readers in this book, based on the customs of the Plains Indians in America. The book reads like a prayer, expressing specific beliefs about dying. It describes a woman who is called by her long-dead mother to go \"beyond the ridge.\" After a steep climb, she discovers a world that is abundantly beautiful, and there she finds the familiar faces of people who have passed that way before her.\n53. Which book is published in 1990?",
+    "options": [
+      "Everywhere.",
+      "Tuck Everlasting.",
+      "The Table Where Rich People Sit.",
+      "Beyond the Ridge."
+    ],
+    "answerIndex": 0,
+    "explanation": "Everywhere 由 HarperCollins 於 1990 年出版。\n\n故選 (A)"
+  },
+  {
+    "id": "93-gsat-eng-54",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 52-55 題組】\nBrooks, Bruce. Everywhere. HarperCollins, 1990. ISBN0060207299. 70 pages.\nPeanuts' beloved grandfather has suffered a heart attack. Peanuts is sad over the possibility of losing his grandfather. Dooley keeps Peanuts company while the adults in the family attend to Grandfather. Dooley attempts to save the old man by a ritual learned from comic books: killing a turtle and trading his soul for Grandfather's. With the imaginative assistance of Dooley, Peanuts discovers the healing power of hope and love.\n--------------------\nBabbitt, Natalie. Tuck Everlasting. Farrar, 1975. ISBN0374378487. 180 pages.\nThe Tuck family has discovered a spring whose water brings eternal life. A man learns their secret and threatens to sell the water to the highest bidder. Mrs. Tuck kills the man and is jailed and sentenced to be executed. Though the family knows she cannot be killed, they worry that their secret will be revealed when they try to kill her.\n--------------------\nBaylor, Byrd. The Table Where Rich People Sit. Simon & Schuster, 1994. ISBN0684196530. 52 pages.\nAround an old kitchen table, a young girl calls a family meeting to show her parents that they should earn more money so they can have nicer things. As she points out they are not sitting at a table where rich people would sit, her parents calculate the value of the desert hills, the blooming cactus, the calls of eagles, and one another's company. Soon, she realizes that her poor family is rich in things that matter in life. She concludes that this is indeed a table where rich people sit.\n--------------------\nGoble, Paul. Beyond the Ridge. Bradbury, 1989. ISBN0027365816. 32 pages.\nThere is no death; only a change of worlds--the author delivers these reassurances to readers in this book, based on the customs of the Plains Indians in America. The book reads like a prayer, expressing specific beliefs about dying. It describes a woman who is called by her long-dead mother to go \"beyond the ridge.\" After a steep climb, she discovers a world that is abundantly beautiful, and there she finds the familiar faces of people who have passed that way before her.\n54. Who wrote the book about Native Americans' view of death?",
+    "options": [
+      "Bruce Brooks.",
+      "Natalie Babbitt.",
+      "Byrd Baylor.",
+      "Paul Goble."
+    ],
+    "answerIndex": 3,
+    "explanation": "Beyond the Ridge 根據美洲平原印第安人的習俗談死亡，作者是 Paul Goble。\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-eng-55",
+    "examType": "學測",
+    "year": 93,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 52-55 題組】\nBrooks, Bruce. Everywhere. HarperCollins, 1990. ISBN0060207299. 70 pages.\nPeanuts' beloved grandfather has suffered a heart attack. Peanuts is sad over the possibility of losing his grandfather. Dooley keeps Peanuts company while the adults in the family attend to Grandfather. Dooley attempts to save the old man by a ritual learned from comic books: killing a turtle and trading his soul for Grandfather's. With the imaginative assistance of Dooley, Peanuts discovers the healing power of hope and love.\n--------------------\nBabbitt, Natalie. Tuck Everlasting. Farrar, 1975. ISBN0374378487. 180 pages.\nThe Tuck family has discovered a spring whose water brings eternal life. A man learns their secret and threatens to sell the water to the highest bidder. Mrs. Tuck kills the man and is jailed and sentenced to be executed. Though the family knows she cannot be killed, they worry that their secret will be revealed when they try to kill her.\n--------------------\nBaylor, Byrd. The Table Where Rich People Sit. Simon & Schuster, 1994. ISBN0684196530. 52 pages.\nAround an old kitchen table, a young girl calls a family meeting to show her parents that they should earn more money so they can have nicer things. As she points out they are not sitting at a table where rich people would sit, her parents calculate the value of the desert hills, the blooming cactus, the calls of eagles, and one another's company. Soon, she realizes that her poor family is rich in things that matter in life. She concludes that this is indeed a table where rich people sit.\n--------------------\nGoble, Paul. Beyond the Ridge. Bradbury, 1989. ISBN0027365816. 32 pages.\nThere is no death; only a change of worlds--the author delivers these reassurances to readers in this book, based on the customs of the Plains Indians in America. The book reads like a prayer, expressing specific beliefs about dying. It describes a woman who is called by her long-dead mother to go \"beyond the ridge.\" After a steep climb, she discovers a world that is abundantly beautiful, and there she finds the familiar faces of people who have passed that way before her.\n55. Who wrote the book which shows that money is not the only way to measure wealth?",
+    "options": [
+      "Bruce Brooks.",
+      "Natalie Babbitt.",
+      "Byrd Baylor.",
+      "Paul Goble."
+    ],
+    "answerIndex": 2,
+    "explanation": "The Table Where Rich People Sit 中女孩發現貧窮的家庭在真正重要的事物上很富有，作者是 Byrd Baylor。\n\n故選 (C)"
   }
 ]
