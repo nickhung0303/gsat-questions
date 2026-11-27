@@ -4262,7 +4262,6 @@
     "subject": "化學",
     "points": 3,
     "question": "【第 8-9 題為題組】已知 $\\text{OCl}^-$ 及 HOCl 的標準還原電位表如下：\n$$\\text{HOCl} + \\text{H}^+ + \\text{e}^- \\to \\tfrac{1}{2}\\text{Cl}_2 + \\text{H}_2\\text{O}\\qquad E^\\circ = +1.61\\text{ V}$$\n$$\\text{OCl}^- + \\text{H}_2\\text{O} + 2\\text{e}^- \\to \\text{Cl}^- + 2\\text{OH}^-\\qquad E^\\circ = +0.81\\text{ V}$$\n9. 下列有關 $\\text{Cl}_2$、NaOCl 及 HOCl 的敘述，何者正確？",
-    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-chem-08.png\" alt=\"圖2 Cl2、HOCl、OCl- 含量隨 pH 變化\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
     "options": [
       "HOCl 的 $\\text{p}K_a$ 值約為 7.5",
       "NaOCl 可用於洗手消毒",
