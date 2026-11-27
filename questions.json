@@ -127144,5 +127144,675 @@
     ],
     "answerIndex": 1,
     "explanation": "that 指前句：若部分瘧原蟲逃過機制，下一代可能產生抗性，也就是瘧原蟲對改造細菌免疫。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-eng-01",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. Industrial waste must be carefully handled, or it will ______ the public water supply.",
+    "options": [
+      "contaminate",
+      "facilitate",
+      "legitimate",
+      "manipulate"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：工業廢棄物必須妥善處理，否則會污染公共水源。\n• (A) contaminate 污染\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-eng-02",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. John's vision was direct, concrete and simple and he recorded ______ the incidents of everyday life.",
+    "options": [
+      "universally",
+      "scarcely",
+      "passively",
+      "faithfully"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：John 的視角直接、具體又簡單，他忠實地記錄日常生活中的大小事。\n• (D) faithfully 忠實地\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-eng-03",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. The government cannot find a good reason to ______ its high expenses on weapons, especially when the number of people living in poverty is so high.",
+    "options": [
+      "abolish",
+      "escort",
+      "justify",
+      "mingle"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：政府找不到好理由為高額軍購辯解，尤其貧窮人口這麼多的時候。\n• (C) justify 為…辯護、證明…有理\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-eng-04",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. The writing teacher has found that reading fantasies such as J. K. Rowling's Harry Potter may inspire her students to think and write with ______.",
+    "options": [
+      "creativity",
+      "generosity",
+      "superstition",
+      "foundation"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：寫作老師發現，閱讀《哈利波特》等奇幻小說能激發學生有創意地思考和寫作。\n• (A) creativity 創造力\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-eng-05",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. Since several child ______ cases were reported on the TV news, the public has become more aware of the issue of domestic violence.",
+    "options": [
+      "blunder",
+      "abuse",
+      "essence",
+      "defect"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：電視新聞報導了幾起虐童案後，大眾更加關注家暴問題。\nchild abuse「虐待兒童」。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-eng-06",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. Helen's doctor suggested that she undergo a heart surgery. But she decided to ask for a second ______ from another doctor.",
+    "options": [
+      "purpose",
+      "statement",
+      "opinion",
+      "excuse"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：醫生建議 Helen 接受心臟手術，但她決定找另一位醫生聽聽第二意見。\na second opinion「第二意見」。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-eng-07",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. All candidates selected after ______ screening will be further invited to an interview, after which the final admission decision will be made.",
+    "options": [
+      "preliminary",
+      "affectionate",
+      "controversial",
+      "excessive"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：通過初步篩選的候選人將受邀面試，之後才做出最終錄取決定。\n• (A) preliminary 初步的\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-eng-08",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. To prevent terrorist attacks, the security guards at the airport check all luggage carefully to see if there are any ______ items or other dangerous objects.",
+    "options": [
+      "dynamic",
+      "identical",
+      "permanent",
+      "explosive"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：為防範恐怖攻擊，機場安檢人員仔細檢查所有行李，看是否有爆裂物或其他危險物品。\n• (D) explosive 爆炸性的\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-eng-09",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. In the desert, a huge mall with art galleries, theaters, and museums will be constructed to ______ visitors from the heat outside.",
+    "options": [
+      "convert",
+      "defend",
+      "shelter",
+      "vacuum"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：沙漠中將興建一座有藝廊、劇院和博物館的大型購物中心，讓遊客躲避外面的酷熱。\nshelter A from B「保護 A 免受 B」。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-eng-10",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. Judge Harris always has good points to make. Her arguments are very ______ as they are based on logic and sound reasoning.",
+    "options": [
+      "emphatic",
+      "indifferent",
+      "dominant",
+      "persuasive"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：Harris 法官總是言之有物，她的論點以邏輯和合理推論為基礎，非常有說服力。\n• (D) persuasive 有說服力的\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-eng-11",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe undersea world isn't as quiet as we thought, according to a New Zealand researcher. Fish can \"talk\" to each other and make a range of 【 11 】 by vibrating their swim bladder, an internal gas-filled organ used as a resonating chamber to produce or receive sound.\n\nFish are believed to speak to each other for a number of reasons, such as to attract mates, scare off predators, or give directions to other fish. Damselfish, for example, have been found to make sounds to scare off 【 12 】 fish and even divers. Another discovery about fish sounds is that not all fish are 【 13 】 \"talkative.\" Some species talk a lot, while others don't. The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, 【 14 】, usually keep silent, except when they are laying eggs.\n\nAny goldfish lover who hopes to strike up a conversation with their pet goldfish is 【 15 】. Goldfish have excellent hearing, but they don't make any sound whatsoever. Their excellent hearing isn't associated with vocalization.\n11.",
+    "options": [
+      "choices",
+      "objects",
+      "accents",
+      "noises"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：魚可以藉由振動魚鰾發出各種「聲音」。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-eng-12",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe undersea world isn't as quiet as we thought, according to a New Zealand researcher. Fish can \"talk\" to each other and make a range of 【 11 】 by vibrating their swim bladder, an internal gas-filled organ used as a resonating chamber to produce or receive sound.\n\nFish are believed to speak to each other for a number of reasons, such as to attract mates, scare off predators, or give directions to other fish. Damselfish, for example, have been found to make sounds to scare off 【 12 】 fish and even divers. Another discovery about fish sounds is that not all fish are 【 13 】 \"talkative.\" Some species talk a lot, while others don't. The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, 【 14 】, usually keep silent, except when they are laying eggs.\n\nAny goldfish lover who hopes to strike up a conversation with their pet goldfish is 【 15 】. Goldfish have excellent hearing, but they don't make any sound whatsoever. Their excellent hearing isn't associated with vocalization.\n12.",
+    "options": [
+      "threatened",
+      "being threatened",
+      "threatening",
+      "being threatening"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：雀鯛會發出聲音嚇跑「具威脅性的」魚，甚至潛水員。threatening「具威脅性的」修飾 fish。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-eng-13",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe undersea world isn't as quiet as we thought, according to a New Zealand researcher. Fish can \"talk\" to each other and make a range of 【 11 】 by vibrating their swim bladder, an internal gas-filled organ used as a resonating chamber to produce or receive sound.\n\nFish are believed to speak to each other for a number of reasons, such as to attract mates, scare off predators, or give directions to other fish. Damselfish, for example, have been found to make sounds to scare off 【 12 】 fish and even divers. Another discovery about fish sounds is that not all fish are 【 13 】 \"talkative.\" Some species talk a lot, while others don't. The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, 【 14 】, usually keep silent, except when they are laying eggs.\n\nAny goldfish lover who hopes to strike up a conversation with their pet goldfish is 【 15 】. Goldfish have excellent hearing, but they don't make any sound whatsoever. Their excellent hearing isn't associated with vocalization.\n13.",
+    "options": [
+      "merely",
+      "equally",
+      "officially",
+      "favorably"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：並非所有魚都「一樣」愛說話，有些很多話，有些很安靜。not all… equally「並非都同樣」。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-eng-14",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe undersea world isn't as quiet as we thought, according to a New Zealand researcher. Fish can \"talk\" to each other and make a range of 【 11 】 by vibrating their swim bladder, an internal gas-filled organ used as a resonating chamber to produce or receive sound.\n\nFish are believed to speak to each other for a number of reasons, such as to attract mates, scare off predators, or give directions to other fish. Damselfish, for example, have been found to make sounds to scare off 【 12 】 fish and even divers. Another discovery about fish sounds is that not all fish are 【 13 】 \"talkative.\" Some species talk a lot, while others don't. The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, 【 14 】, usually keep silent, except when they are laying eggs.\n\nAny goldfish lover who hopes to strike up a conversation with their pet goldfish is 【 15 】. Goldfish have excellent hearing, but they don't make any sound whatsoever. Their excellent hearing isn't associated with vocalization.\n14.",
+    "options": [
+      "by all means",
+      "for example",
+      "as a result",
+      "on the other hand"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：魴鮄一直嘰嘰喳喳；「另一方面」，鱈魚通常很安靜，對比兩種魚。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-eng-15",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe undersea world isn't as quiet as we thought, according to a New Zealand researcher. Fish can \"talk\" to each other and make a range of 【 11 】 by vibrating their swim bladder, an internal gas-filled organ used as a resonating chamber to produce or receive sound.\n\nFish are believed to speak to each other for a number of reasons, such as to attract mates, scare off predators, or give directions to other fish. Damselfish, for example, have been found to make sounds to scare off 【 12 】 fish and even divers. Another discovery about fish sounds is that not all fish are 【 13 】 \"talkative.\" Some species talk a lot, while others don't. The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, 【 14 】, usually keep silent, except when they are laying eggs.\n\nAny goldfish lover who hopes to strike up a conversation with their pet goldfish is 【 15 】. Goldfish have excellent hearing, but they don't make any sound whatsoever. Their excellent hearing isn't associated with vocalization.\n15.",
+    "options": [
+      "out of luck",
+      "in the dark",
+      "off the record",
+      "on the rise"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：想和金魚聊天的人「運氣不好」，因為金魚完全不會發出聲音。out of luck「不走運」。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-eng-16",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, 【 16 】 Aug. 1 this year. This decision was announced on Wednesday without congressional approval. 【 17 】 forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this 【 18 】 will save about ＄2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses 【 19 】 the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays 【 20 】 customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.\n16.",
+    "options": [
+      "starts",
+      "started",
+      "starting",
+      "to start"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：郵局計畫「從」今年 8 月 1 日「開始」週六不送信。starting + 日期「自…起」。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-eng-17",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, 【 16 】 Aug. 1 this year. This decision was announced on Wednesday without congressional approval. 【 17 】 forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this 【 18 】 will save about ＄2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses 【 19 】 the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays 【 20 】 customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.\n17.",
+    "options": [
+      "When",
+      "Unless",
+      "Once",
+      "Lest"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：「除非」國會禁止，郵局將首次只在週一至週五送信。Unless (it is) forbidden…，省略主詞與 be 動詞。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-eng-18",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, 【 16 】 Aug. 1 this year. This decision was announced on Wednesday without congressional approval. 【 17 】 forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this 【 18 】 will save about ＄2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses 【 19 】 the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays 【 20 】 customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.\n18.",
+    "options": [
+      "move",
+      "round",
+      "chance",
+      "fact"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：預計這項「措施」每年可省下約 20 億美元。move「措施、行動」。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-eng-19",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, 【 16 】 Aug. 1 this year. This decision was announced on Wednesday without congressional approval. 【 17 】 forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this 【 18 】 will save about ＄2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses 【 19 】 the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays 【 20 】 customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.\n19.",
+    "options": [
+      "at",
+      "with",
+      "under",
+      "between"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：「隨著」網路與電子商務日益普及，郵局近年虧損數百億美元。with 表伴隨原因。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-eng-20",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, 【 16 】 Aug. 1 this year. This decision was announced on Wednesday without congressional approval. 【 17 】 forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this 【 18 】 will save about ＄2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses 【 19 】 the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays 【 20 】 customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.\n20.",
+    "options": [
+      "so that",
+      "as soon as",
+      "in case",
+      "ever since"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：週六郵局仍會營業，「以便」顧客寄信、買郵票或開信箱。so that 表目的。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-eng-21-30",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 21-30 題組】\nPeople who want to experience an overnight stay in arctic-like cold may try the ice hotel--a building of frozen water. Despite the seemingly unattractive prospect of sleeping in a room at minus 15 degrees Celsius, every year about 4,000 people ___(21)___ to an ice hotel in a town in Canada.\nThe only warm things at the ice hotel are the candles on the bedside tables. The air is so cold that you can see your ___(22)___, which turns to liquid and appears as tiny droplets at the opening of your sleeping bag. The tip of your nose feels numb--almost as though it were ___(23)___. Getting up for a little while--to drink a glass of water or go to the bathroom--seems ___(24)___ without risking death.\nSince an adventurous spirit alone is not enough to ___(25)___ more than two hours at the icy hotel, the staff briefs guests on what to wear and how to behave. Normal winter boots and outfits ___(26)___ little protection from the cold. The guests also learn how to ___(27)___ quickly in their arctic sleeping bags and how to prevent eyeglasses from freezing.\nFor individuals who need to escape the cold for a brief period, there are outdoor hot tubs in the hotel courtyard. You should make sure you have stopped sweating before you go to bed, though, because any ___(28)___ freezes immediately. Guests who are not ___(29)___ can quickly get cold feet and a blocked nose.\nComfort, however, is not the ___(30)___ to stay in the ice hotel. Guests want to feel like polar explorers. For them, the first hot cup of post-expedition coffee is pure delight.\n(A) breath　(B) careful　(C) check in　(D) deposit　(E) frozen　(F) impossible　(G) moisture　(H) offer　(I) purpose　(J) sufficient　(K) warm up　(L) withstand\n（請依序填入各題代號 A～L）",
+    "blanks": [
+      "C",
+      "A",
+      "E",
+      "F",
+      "L",
+      "H",
+      "K",
+      "G",
+      "B",
+      "I"
+    ],
+    "blankLabels": [
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "explanation": "• 21 (C) check in：每年約 4,000 人「入住」加拿大的冰旅館，check in to a hotel。\n• 22 (A) breath：空氣冷到看得見自己呼出的「氣」，下句說它在睡袋開口凝成水滴。\n• 23 (E) frozen：鼻尖麻木，彷彿「凍住了」。\n• 24 (F) impossible：起床一下下去喝水或上廁所，似乎「不可能」不冒生命危險。\n• 25 (L) withstand：光有冒險精神不足以「撐過」兩小時以上。\n• 26 (H) offer：一般冬靴和冬衣「提供」不了多少保暖。\n• 27 (K) warm up：學會如何在極地睡袋裡迅速「暖和起來」。\n• 28 (G) moisture：睡前要確定已經不再流汗，因為任何「濕氣」都會立刻結冰。\n• 29 (B) careful：不「小心」的客人很快就會腳冷、鼻塞。\n• 30 (I) purpose：舒適並不是住冰旅館的「目的」，客人想體驗當極地探險家。"
+  },
+  {
+    "id": "102-ast-eng-31-35",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【篇章結構 31-35 題組】\nIn the Dutch colonial town later known as Albany, New York, there lived a baker, Van Amsterdam, who was as honest as he could be. He took great care to give his customers exactly what they paid for--not more and not less.\nOne Saint Nicholas Day morning, when the baker was just ready for business, the door of his shop flew open. ___(31)___ She asked for a dozen of the baker's Saint Nicholas cookies. Van Amsterdam counted out twelve cookies. But the woman insisted that a dozen is thirteen. Van Amsterdam was not a man to bear foolishness. He refused. The woman turned to go without the cookies but she stopped at the door, saying, \"Van Amsterdam! However honest you may be, your heart is small and your fist is tight.\" Then she was gone.\n___(32)___ His bread rose too high or not at all. His pies were sour or too sweet. His cookies were burnt or doughy. His customers soon noticed the difference and slipped away.\nA year passed. The baker grew poorer and poorer. Finally, on the day before Saint Nicholas Day, no customer came to his shop. ___(33)___\nThat night, the baker had a dream. He saw Saint Nicholas pulling out gifts from his baskets for a crowd of happy children. No matter how many presents Nicholas handed out, there were always more to give. Then somehow, Saint Nicholas turned into the old woman with the long black shawl!\n___(34)___ He suddenly realized that he always gave his customers exactly what they paid for, \"But why not give more?\"\nThe next morning, on Saint Nicholas Day, the baker rose early to make cookies. And to his surprise, the cookies were as fine as they could be. When he had just finished, the old woman appeared at his door again. She asked for a dozen of Van Amsterdam's Saint Nicholas cookies. ___(35)___\nWhen people heard he counted thirteen as a dozen, he had more customers than ever and became wealthy. The practice then spread to other towns as a common custom.\n(A) Van Amsterdam awoke with a start.\n(B) In walked an old woman wrapped in a long black shawl.\n(C) The more he took from the baskets, the more they seemed to hold.\n(D) From that day, everything went wrong in Van Amsterdam's bakery.\n(E) In great excitement, Van Amsterdam counted out twelve cookies--and one more.\n(F) Staring at his unsold Saint Nicholas cookies, he prayed that Saint Nicholas could help him.\n（請依序填入各題代號 A～F）",
+    "blanks": [
+      "B",
+      "D",
+      "F",
+      "A",
+      "E"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35"
+    ],
+    "explanation": "• 31 (B)：店門被推開，走進一位披著黑色長披肩的老婦人；下句 She asked… 承接。\n• 32 (D)：從那天起，麵包店一切都不對勁；下文列舉麵包、派、餅乾都出問題。\n• 33 (F)：沒有客人上門，他盯著賣不出去的餅乾，祈求聖尼古拉幫忙；下段便夢見聖尼古拉。\n• 34 (A)：夢中聖尼古拉變成老婦人，他猛然驚醒，接著領悟「為何不多給一點？」\n• 35 (E)：老婦人再來買一打餅乾，他興奮地數出十二塊，再多給一塊；下段 counted thirteen as a dozen 承接。\n(C) 描述籃子越拿越多，與夢境段落 there were always more to give 重複，放在任何空格都不連貫，為誘答選項。"
+  },
+  {
+    "id": "102-ast-eng-36",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 36-39 題組】\nAll pop artists like to say that they owe their success to their fans. In the case of British band SVM, it's indeed true. The band is currently recording songs because 358 fans contributed the £100,000 needed for the project. The arrangement came via MMC, an online record label that uses Web-based, social-network-style \"crowd-funding\" to finance its acts.\n\nHere's how it works: MMC posts demos and videos of 10 artists on its website, and users are invited to invest from £10 to £1,000 in the ones they most enjoy or think are most likely to become popular. Once an act reaches £100,000, the financing process is completed, and the money is used to pay for recording and possibly a concert tour. Profits from resulting music sales, concerts, and merchandise are split three ways: investors get to divide 40%; another 40% goes to MMC; the artist pockets 20%. The payoff for investors can be big. One fan in France who contributed £4,250 got his money back 22 times over.\n\nCrowd-funding musical acts is not new. But MMC takes the concept to another level. First of all, investors can get cash rather than just goodies like free downloads or tickets. Also, MMC is a record label. It has the means to get its music distributed around the world and to market artists effectively. \"Artists need professional support,\" says the CEO of MMC's international division.\n\nWhile digital technology and the Net have created a do-it-yourself boom among musicians, success is still a long shot. Out of the 20,000 records released in the U.S. in 2009, only 14 DIY acts made it to the Top 200. Also, with less revenue from recorded music, music companies have become less likely to take risks, which has led to fewer artists receiving funding. The crowd-funding model, however, allows for more records to be made by spreading risk among hundreds of backers. And the social-network aspect of the site helps expand fan bases; that is, investors become a promotional army.\n36. Which of the following titles best expresses the main idea of the passage?",
+    "options": [
+      "Web-based Music Production",
+      "Fundraising for Music Companies",
+      "Music Fans Profiting from Investments",
+      "Crowd-funding in the Music Industry"
+    ],
+    "answerIndex": 3,
+    "explanation": "全文介紹網路唱片公司 MMC 如何以「群眾募資」資助音樂人，以及這種模式的優點。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-eng-37",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 36-39 題組】\nAll pop artists like to say that they owe their success to their fans. In the case of British band SVM, it's indeed true. The band is currently recording songs because 358 fans contributed the £100,000 needed for the project. The arrangement came via MMC, an online record label that uses Web-based, social-network-style \"crowd-funding\" to finance its acts.\n\nHere's how it works: MMC posts demos and videos of 10 artists on its website, and users are invited to invest from £10 to £1,000 in the ones they most enjoy or think are most likely to become popular. Once an act reaches £100,000, the financing process is completed, and the money is used to pay for recording and possibly a concert tour. Profits from resulting music sales, concerts, and merchandise are split three ways: investors get to divide 40%; another 40% goes to MMC; the artist pockets 20%. The payoff for investors can be big. One fan in France who contributed £4,250 got his money back 22 times over.\n\nCrowd-funding musical acts is not new. But MMC takes the concept to another level. First of all, investors can get cash rather than just goodies like free downloads or tickets. Also, MMC is a record label. It has the means to get its music distributed around the world and to market artists effectively. \"Artists need professional support,\" says the CEO of MMC's international division.\n\nWhile digital technology and the Net have created a do-it-yourself boom among musicians, success is still a long shot. Out of the 20,000 records released in the U.S. in 2009, only 14 DIY acts made it to the Top 200. Also, with less revenue from recorded music, music companies have become less likely to take risks, which has led to fewer artists receiving funding. The crowd-funding model, however, allows for more records to be made by spreading risk among hundreds of backers. And the social-network aspect of the site helps expand fan bases; that is, investors become a promotional army.\n37. How much money does a band have to raise via MMC to have their music recorded?",
+    "options": [
+      "£10.",
+      "£1,000.",
+      "£4,250.",
+      "£100,000."
+    ],
+    "answerIndex": 3,
+    "explanation": "一組藝人募到 10 萬英鎊，募資才算完成，資金用於錄音或巡演。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-eng-38",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 36-39 題組】\nAll pop artists like to say that they owe their success to their fans. In the case of British band SVM, it's indeed true. The band is currently recording songs because 358 fans contributed the £100,000 needed for the project. The arrangement came via MMC, an online record label that uses Web-based, social-network-style \"crowd-funding\" to finance its acts.\n\nHere's how it works: MMC posts demos and videos of 10 artists on its website, and users are invited to invest from £10 to £1,000 in the ones they most enjoy or think are most likely to become popular. Once an act reaches £100,000, the financing process is completed, and the money is used to pay for recording and possibly a concert tour. Profits from resulting music sales, concerts, and merchandise are split three ways: investors get to divide 40%; another 40% goes to MMC; the artist pockets 20%. The payoff for investors can be big. One fan in France who contributed £4,250 got his money back 22 times over.\n\nCrowd-funding musical acts is not new. But MMC takes the concept to another level. First of all, investors can get cash rather than just goodies like free downloads or tickets. Also, MMC is a record label. It has the means to get its music distributed around the world and to market artists effectively. \"Artists need professional support,\" says the CEO of MMC's international division.\n\nWhile digital technology and the Net have created a do-it-yourself boom among musicians, success is still a long shot. Out of the 20,000 records released in the U.S. in 2009, only 14 DIY acts made it to the Top 200. Also, with less revenue from recorded music, music companies have become less likely to take risks, which has led to fewer artists receiving funding. The crowd-funding model, however, allows for more records to be made by spreading risk among hundreds of backers. And the social-network aspect of the site helps expand fan bases; that is, investors become a promotional army.\n38. Which of the following statements is true about MMC?",
+    "options": [
+      "It has helped many do-it-yourself musicians get to the Top 200.",
+      "There are works of fourteen artists posted at a time on its website.",
+      "It allows fans to provide financial support to the musicians they like.",
+      "The biggest share of its profits from a crowd-funding project goes to the musician."
+    ],
+    "answerIndex": 2,
+    "explanation": "使用者可投資 10 到 1,000 英鎊給自己喜歡或看好的藝人。\n(B) 網站放 10 組藝人；(D) 藝人只拿 20%。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-eng-39",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 36-39 題組】\nAll pop artists like to say that they owe their success to their fans. In the case of British band SVM, it's indeed true. The band is currently recording songs because 358 fans contributed the £100,000 needed for the project. The arrangement came via MMC, an online record label that uses Web-based, social-network-style \"crowd-funding\" to finance its acts.\n\nHere's how it works: MMC posts demos and videos of 10 artists on its website, and users are invited to invest from £10 to £1,000 in the ones they most enjoy or think are most likely to become popular. Once an act reaches £100,000, the financing process is completed, and the money is used to pay for recording and possibly a concert tour. Profits from resulting music sales, concerts, and merchandise are split three ways: investors get to divide 40%; another 40% goes to MMC; the artist pockets 20%. The payoff for investors can be big. One fan in France who contributed £4,250 got his money back 22 times over.\n\nCrowd-funding musical acts is not new. But MMC takes the concept to another level. First of all, investors can get cash rather than just goodies like free downloads or tickets. Also, MMC is a record label. It has the means to get its music distributed around the world and to market artists effectively. \"Artists need professional support,\" says the CEO of MMC's international division.\n\nWhile digital technology and the Net have created a do-it-yourself boom among musicians, success is still a long shot. Out of the 20,000 records released in the U.S. in 2009, only 14 DIY acts made it to the Top 200. Also, with less revenue from recorded music, music companies have become less likely to take risks, which has led to fewer artists receiving funding. The crowd-funding model, however, allows for more records to be made by spreading risk among hundreds of backers. And the social-network aspect of the site helps expand fan bases; that is, investors become a promotional army.\n39. What does the author mean by \"success is still a long shot\" in the fourth paragraph?",
+    "options": [
+      "Success is everlasting in effect.",
+      "Success is not easy to achieve.",
+      "Success often starts with one big shot.",
+      "Success should be every musician's long-term goal."
+    ],
+    "answerIndex": 1,
+    "explanation": "a long shot「希望渺茫的事」；下句說 2009 年兩萬張唱片中只有 14 組 DIY 音樂人進入前 200 名。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-eng-40",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 40-43 題組】\nIn science fiction TV programs such as Star Trek, tractor beams are used to tow spaceships and move objects. For years, scientists have labored to replicate this feat. In 2013, they succeeded. A team of British and Czech scientists, led by Dr. Tomas Cizmar, say they have created a real-life \"tractor beam,\" like the kind from Star Trek, which uses a beam of light to attract objects, at least at a microscopic level.\n\nLight manipulation techniques have existed since the 1970s, but this is thought to be the first time a light beam has been used to draw objects towards a light source. Usually when microscopic objects are hit by a beam of light, they are forced along the direction of the beam. After many years' research, Dr. Cizmar's team discovered a technique that allows for the radiant force of light to be reversed and to use the negative force to draw out certain particles.\n\nDr. Cizmar says that even though it is a few years away from practical use, the technology has huge potential for medical research. In particular, the tractor beam is highly selective in the particles it can attract, so it can pick up particles that have specific properties, such as size or composition, in a mixture. \"Eventually, this could be used to separate white blood cells, for example,\" Dr. Cizmar told BBC News.\n\nIt has been a primary plot device in science fiction TV programs and movies to allow objects like spaceships to be trapped in a beam of light. But Dr. Cizmar said this particular technique would not eventually lead to that. A transfer of energy happens in the process. On a microscopic scale that is OK, but on a large scale it would cause huge problems. A large object could be destroyed by the heating, which results from the massive amount of energy necessary to pull it.\n40. What is this passage mainly about?",
+    "options": [
+      "The application of lighting technology in modern society.",
+      "The uses and limitations of a scientific invention by a research team.",
+      "The adoption of light manipulation techniques in medical treatment.",
+      "The influences and effects of scientific developments on science fiction."
+    ],
+    "answerIndex": 1,
+    "explanation": "文章介紹 Cizmar 團隊發明的「牽引光束」：原理、在醫學研究上的潛力，以及無法用於大型物體的限制。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-eng-41",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 40-43 題組】\nIn science fiction TV programs such as Star Trek, tractor beams are used to tow spaceships and move objects. For years, scientists have labored to replicate this feat. In 2013, they succeeded. A team of British and Czech scientists, led by Dr. Tomas Cizmar, say they have created a real-life \"tractor beam,\" like the kind from Star Trek, which uses a beam of light to attract objects, at least at a microscopic level.\n\nLight manipulation techniques have existed since the 1970s, but this is thought to be the first time a light beam has been used to draw objects towards a light source. Usually when microscopic objects are hit by a beam of light, they are forced along the direction of the beam. After many years' research, Dr. Cizmar's team discovered a technique that allows for the radiant force of light to be reversed and to use the negative force to draw out certain particles.\n\nDr. Cizmar says that even though it is a few years away from practical use, the technology has huge potential for medical research. In particular, the tractor beam is highly selective in the particles it can attract, so it can pick up particles that have specific properties, such as size or composition, in a mixture. \"Eventually, this could be used to separate white blood cells, for example,\" Dr. Cizmar told BBC News.\n\nIt has been a primary plot device in science fiction TV programs and movies to allow objects like spaceships to be trapped in a beam of light. But Dr. Cizmar said this particular technique would not eventually lead to that. A transfer of energy happens in the process. On a microscopic scale that is OK, but on a large scale it would cause huge problems. A large object could be destroyed by the heating, which results from the massive amount of energy necessary to pull it.\n41. Which of the following is true about Dr. Cizmar's tractor beam?",
+    "options": [
+      "It moves big objects as the tractor beam did in Star Trek.",
+      "It is the first light beam device that pushes objects forward.",
+      "It relies on negative force to pull out specific kinds of particles.",
+      "It is currently being used for separating blood cells in medical research."
+    ],
+    "answerIndex": 2,
+    "explanation": "團隊讓光的輻射力反轉，用負向力吸出特定粒子。\n(A) 只能在微觀層次；(D) 離實際應用還要幾年。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-eng-42",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 40-43 題組】\nIn science fiction TV programs such as Star Trek, tractor beams are used to tow spaceships and move objects. For years, scientists have labored to replicate this feat. In 2013, they succeeded. A team of British and Czech scientists, led by Dr. Tomas Cizmar, say they have created a real-life \"tractor beam,\" like the kind from Star Trek, which uses a beam of light to attract objects, at least at a microscopic level.\n\nLight manipulation techniques have existed since the 1970s, but this is thought to be the first time a light beam has been used to draw objects towards a light source. Usually when microscopic objects are hit by a beam of light, they are forced along the direction of the beam. After many years' research, Dr. Cizmar's team discovered a technique that allows for the radiant force of light to be reversed and to use the negative force to draw out certain particles.\n\nDr. Cizmar says that even though it is a few years away from practical use, the technology has huge potential for medical research. In particular, the tractor beam is highly selective in the particles it can attract, so it can pick up particles that have specific properties, such as size or composition, in a mixture. \"Eventually, this could be used to separate white blood cells, for example,\" Dr. Cizmar told BBC News.\n\nIt has been a primary plot device in science fiction TV programs and movies to allow objects like spaceships to be trapped in a beam of light. But Dr. Cizmar said this particular technique would not eventually lead to that. A transfer of energy happens in the process. On a microscopic scale that is OK, but on a large scale it would cause huge problems. A large object could be destroyed by the heating, which results from the massive amount of energy necessary to pull it.\n42. What does \"that\" in the last paragraph refer to?",
+    "options": [
+      "Transferring a massive amount of energy.",
+      "Making science fiction programs and movies.",
+      "Burning a large object into ashes.",
+      "Capturing spaceships in a beam of light."
+    ],
+    "answerIndex": 3,
+    "explanation": "前句說科幻作品常讓太空船被困在光束中，that 指用光束捕捉太空船。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-eng-43",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 40-43 題組】\nIn science fiction TV programs such as Star Trek, tractor beams are used to tow spaceships and move objects. For years, scientists have labored to replicate this feat. In 2013, they succeeded. A team of British and Czech scientists, led by Dr. Tomas Cizmar, say they have created a real-life \"tractor beam,\" like the kind from Star Trek, which uses a beam of light to attract objects, at least at a microscopic level.\n\nLight manipulation techniques have existed since the 1970s, but this is thought to be the first time a light beam has been used to draw objects towards a light source. Usually when microscopic objects are hit by a beam of light, they are forced along the direction of the beam. After many years' research, Dr. Cizmar's team discovered a technique that allows for the radiant force of light to be reversed and to use the negative force to draw out certain particles.\n\nDr. Cizmar says that even though it is a few years away from practical use, the technology has huge potential for medical research. In particular, the tractor beam is highly selective in the particles it can attract, so it can pick up particles that have specific properties, such as size or composition, in a mixture. \"Eventually, this could be used to separate white blood cells, for example,\" Dr. Cizmar told BBC News.\n\nIt has been a primary plot device in science fiction TV programs and movies to allow objects like spaceships to be trapped in a beam of light. But Dr. Cizmar said this particular technique would not eventually lead to that. A transfer of energy happens in the process. On a microscopic scale that is OK, but on a large scale it would cause huge problems. A large object could be destroyed by the heating, which results from the massive amount of energy necessary to pull it.\n43. What is the tone of this passage?",
+    "options": [
+      "Objective.",
+      "Suspicious.",
+      "Admiring.",
+      "Pessimistic."
+    ],
+    "answerIndex": 0,
+    "explanation": "文章客觀報導這項發明的原理、潛力與限制，語氣中立。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-eng-44",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-47 題組】\nGrace Wambui, a 14-year-old pupil in Nairobi, had never touched a tablet computer. But it took her only about one minute to work out how to use one when such devices arrived at Amaf School in Kawangware, a slum in the Kenyan capital. Teaching used to be conducted with a blackboard and a handful of tattered textbooks. Now children in groups of five take turns to swipe the touch screen of the devices, which are loaded with a multimedia version of Kenya's syllabus.\n\nThe tablets at Amaf School are part of a pilot project run by eLimu, a technology start-up. If it and other firms are right, tablets and other digital devices may soon be the rule in African schools. Many are betting on a boom in digital education in Kenya and elsewhere. Some executives even expect it to take off like M-Pesa, Kenya's hugely successful mobile-money service.\n\nSuch growth in digital education would be timely. The flood of new pupils has overwhelmed state schools, which were already understaffed, underfunded and poorly managed. The prospect of Africa's 300 million pupils learning digitally has caught the attention of global technology giants. Amazon has seen sales of its Kindle e-readers in Africa increase tenfold in the past year. Intel has been helping African governments buy entry-level computers. In Nigeria, Intel brought together a publisher and a telecom carrier to provide exam-preparation tools over mobile phones, a service that has become hugely popular.\n\nA bigger question is whether digital tools actually improve education. Early results are encouraging. In Ghana, reading skills improved measurably among 350 children that had been given Kindle e-readers. In Ethiopia, in the absence of teachers, children figured out how to use tablets and learned the English ABCs. At Amaf School, average marks in science went from 58 to 73 in a single term.\n44. Which of the following is the best title for this passage?",
+    "options": [
+      "The Bestseller in Africa",
+      "Problems Plaguing Education in Africa",
+      "Schools in Africa Are Going Digital",
+      "Tablet Computers Are in Great Demand in Kenya"
+    ],
+    "answerIndex": 2,
+    "explanation": "文章描述平板電腦、電子書等數位工具進入非洲學校，以及初步成效。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-eng-45",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-47 題組】\nGrace Wambui, a 14-year-old pupil in Nairobi, had never touched a tablet computer. But it took her only about one minute to work out how to use one when such devices arrived at Amaf School in Kawangware, a slum in the Kenyan capital. Teaching used to be conducted with a blackboard and a handful of tattered textbooks. Now children in groups of five take turns to swipe the touch screen of the devices, which are loaded with a multimedia version of Kenya's syllabus.\n\nThe tablets at Amaf School are part of a pilot project run by eLimu, a technology start-up. If it and other firms are right, tablets and other digital devices may soon be the rule in African schools. Many are betting on a boom in digital education in Kenya and elsewhere. Some executives even expect it to take off like M-Pesa, Kenya's hugely successful mobile-money service.\n\nSuch growth in digital education would be timely. The flood of new pupils has overwhelmed state schools, which were already understaffed, underfunded and poorly managed. The prospect of Africa's 300 million pupils learning digitally has caught the attention of global technology giants. Amazon has seen sales of its Kindle e-readers in Africa increase tenfold in the past year. Intel has been helping African governments buy entry-level computers. In Nigeria, Intel brought together a publisher and a telecom carrier to provide exam-preparation tools over mobile phones, a service that has become hugely popular.\n\nA bigger question is whether digital tools actually improve education. Early results are encouraging. In Ghana, reading skills improved measurably among 350 children that had been given Kindle e-readers. In Ethiopia, in the absence of teachers, children figured out how to use tablets and learned the English ABCs. At Amaf School, average marks in science went from 58 to 73 in a single term.\n45. What is the author trying to convey in citing Grace Wambui's case?",
+    "options": [
+      "Grace is a genius in computer skills.",
+      "The tablet computer is very user-friendly.",
+      "The delivery system in Kenya is very poor.",
+      "Tablet computers are common in Kawangware."
+    ],
+    "answerIndex": 1,
+    "explanation": "從沒碰過平板的 Grace 只花一分鐘就學會使用，顯示平板非常容易上手。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-eng-46",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-47 題組】\nGrace Wambui, a 14-year-old pupil in Nairobi, had never touched a tablet computer. But it took her only about one minute to work out how to use one when such devices arrived at Amaf School in Kawangware, a slum in the Kenyan capital. Teaching used to be conducted with a blackboard and a handful of tattered textbooks. Now children in groups of five take turns to swipe the touch screen of the devices, which are loaded with a multimedia version of Kenya's syllabus.\n\nThe tablets at Amaf School are part of a pilot project run by eLimu, a technology start-up. If it and other firms are right, tablets and other digital devices may soon be the rule in African schools. Many are betting on a boom in digital education in Kenya and elsewhere. Some executives even expect it to take off like M-Pesa, Kenya's hugely successful mobile-money service.\n\nSuch growth in digital education would be timely. The flood of new pupils has overwhelmed state schools, which were already understaffed, underfunded and poorly managed. The prospect of Africa's 300 million pupils learning digitally has caught the attention of global technology giants. Amazon has seen sales of its Kindle e-readers in Africa increase tenfold in the past year. Intel has been helping African governments buy entry-level computers. In Nigeria, Intel brought together a publisher and a telecom carrier to provide exam-preparation tools over mobile phones, a service that has become hugely popular.\n\nA bigger question is whether digital tools actually improve education. Early results are encouraging. In Ghana, reading skills improved measurably among 350 children that had been given Kindle e-readers. In Ethiopia, in the absence of teachers, children figured out how to use tablets and learned the English ABCs. At Amaf School, average marks in science went from 58 to 73 in a single term.\n46. According to the passage, what is eLimu?",
+    "options": [
+      "A company.",
+      "A computer program.",
+      "An e-book.",
+      "An educational project."
+    ],
+    "answerIndex": 0,
+    "explanation": "eLimu 是一家科技新創公司（a technology start-up），負責這項試行計畫。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-eng-47",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-47 題組】\nGrace Wambui, a 14-year-old pupil in Nairobi, had never touched a tablet computer. But it took her only about one minute to work out how to use one when such devices arrived at Amaf School in Kawangware, a slum in the Kenyan capital. Teaching used to be conducted with a blackboard and a handful of tattered textbooks. Now children in groups of five take turns to swipe the touch screen of the devices, which are loaded with a multimedia version of Kenya's syllabus.\n\nThe tablets at Amaf School are part of a pilot project run by eLimu, a technology start-up. If it and other firms are right, tablets and other digital devices may soon be the rule in African schools. Many are betting on a boom in digital education in Kenya and elsewhere. Some executives even expect it to take off like M-Pesa, Kenya's hugely successful mobile-money service.\n\nSuch growth in digital education would be timely. The flood of new pupils has overwhelmed state schools, which were already understaffed, underfunded and poorly managed. The prospect of Africa's 300 million pupils learning digitally has caught the attention of global technology giants. Amazon has seen sales of its Kindle e-readers in Africa increase tenfold in the past year. Intel has been helping African governments buy entry-level computers. In Nigeria, Intel brought together a publisher and a telecom carrier to provide exam-preparation tools over mobile phones, a service that has become hugely popular.\n\nA bigger question is whether digital tools actually improve education. Early results are encouraging. In Ghana, reading skills improved measurably among 350 children that had been given Kindle e-readers. In Ethiopia, in the absence of teachers, children figured out how to use tablets and learned the English ABCs. At Amaf School, average marks in science went from 58 to 73 in a single term.\n47. According to the passage, which of the following is true about education in Africa?",
+    "options": [
+      "The number of students keeps dropping in recent years.",
+      "There are more than enough teachers for traditional classroom teaching.",
+      "Students have received Kindle e-readers donated by Amazon to improve reading.",
+      "Early results from use of digital tools in teaching are quite positive in some countries."
+    ],
+    "answerIndex": 3,
+    "explanation": "初步結果令人鼓舞：迦納閱讀能力提升、衣索比亞學會英文字母、Amaf 學校自然科成績進步。\n(A) 學生大量湧入；(C) 文中只說 Kindle 銷量成長，沒說是捐贈。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-eng-48",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nIn the Spartathlon, one of the world's toughest ultra-marathons, runners run 245 km, about six marathons, within 36 hours. The runners start in Athens, and run all the way to historical Sparta.\n\nThe Spartathlon's heritage goes back to 490 B.C., when Pheidippides, an Athenian, made the journey to Sparta to ask the Spartans for help in fighting the invading Persians. It is recorded that he reached Sparta on the day after he left Athens. In 1982, this story sparked the interest of a British air-force officer and long-distance runner called John Foden, who wondered if it really was possible to run from Athens to Sparta and arrive the next day. With four other officers, Foden decided to see for himself; after a 36-hour slog they arrived in Sparti, as the town is now called. That achievement inspired the organization of the first Spartathlon a year later.\n\nThe Spartathlon's attraction has two sources. The first is the difficulty of finishing it. The Spartathlon is not the most difficult race, but it combines lots of different tests. There is the heat of the Greek day, and then the plunge in temperatures when darkness falls. There are climbs: the route includes a series of ascents, among them a 1,200-meter mountain pass in the dead of night. Above all, there is the relentless pressure of the clock. The second reason is that the idea of retracing Pheidippides's footsteps still grips many participants. It feels like racing in history, passing through places where history began.\n\nAs finishers receive a laurel wreath and water from schoolgirls, many are overjoyed with emotion. However, the euphoria is fleeting. Within a few minutes, their joints and muscles start to seize up: after the race, Sparti resembles the set of a zombie film as participants lumber slowly around on legs that will not bend. But the itch to do it all over again soon appears.\n48. What is the second paragraph mainly about?",
+    "options": [
+      "The background of John Foden.",
+      "The route of an ultra-marathon.",
+      "The origin of the Spartathlon.",
+      "The story of Pheidippides in ancient Athens."
+    ],
+    "answerIndex": 2,
+    "explanation": "第二段說明斯巴達松的由來：古代斐迪庇第斯的故事，啟發 Foden 在 1982 年親身試跑，隔年舉辦第一屆。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-eng-49",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nIn the Spartathlon, one of the world's toughest ultra-marathons, runners run 245 km, about six marathons, within 36 hours. The runners start in Athens, and run all the way to historical Sparta.\n\nThe Spartathlon's heritage goes back to 490 B.C., when Pheidippides, an Athenian, made the journey to Sparta to ask the Spartans for help in fighting the invading Persians. It is recorded that he reached Sparta on the day after he left Athens. In 1982, this story sparked the interest of a British air-force officer and long-distance runner called John Foden, who wondered if it really was possible to run from Athens to Sparta and arrive the next day. With four other officers, Foden decided to see for himself; after a 36-hour slog they arrived in Sparti, as the town is now called. That achievement inspired the organization of the first Spartathlon a year later.\n\nThe Spartathlon's attraction has two sources. The first is the difficulty of finishing it. The Spartathlon is not the most difficult race, but it combines lots of different tests. There is the heat of the Greek day, and then the plunge in temperatures when darkness falls. There are climbs: the route includes a series of ascents, among them a 1,200-meter mountain pass in the dead of night. Above all, there is the relentless pressure of the clock. The second reason is that the idea of retracing Pheidippides's footsteps still grips many participants. It feels like racing in history, passing through places where history began.\n\nAs finishers receive a laurel wreath and water from schoolgirls, many are overjoyed with emotion. However, the euphoria is fleeting. Within a few minutes, their joints and muscles start to seize up: after the race, Sparti resembles the set of a zombie film as participants lumber slowly around on legs that will not bend. But the itch to do it all over again soon appears.\n49. Why do ultra-runners choose the Spartathlon?",
+    "options": [
+      "It is the most classical ultra-marathon in the world.",
+      "Runners feel like racing through history.",
+      "Their personal problems will be solved in the race.",
+      "They have to finish all the tests in one day."
+    ],
+    "answerIndex": 1,
+    "explanation": "吸引力之一是重走斐迪庇第斯的足跡，感覺像在歷史中賽跑。\n(D) 時限是 36 小時。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-eng-50",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nIn the Spartathlon, one of the world's toughest ultra-marathons, runners run 245 km, about six marathons, within 36 hours. The runners start in Athens, and run all the way to historical Sparta.\n\nThe Spartathlon's heritage goes back to 490 B.C., when Pheidippides, an Athenian, made the journey to Sparta to ask the Spartans for help in fighting the invading Persians. It is recorded that he reached Sparta on the day after he left Athens. In 1982, this story sparked the interest of a British air-force officer and long-distance runner called John Foden, who wondered if it really was possible to run from Athens to Sparta and arrive the next day. With four other officers, Foden decided to see for himself; after a 36-hour slog they arrived in Sparti, as the town is now called. That achievement inspired the organization of the first Spartathlon a year later.\n\nThe Spartathlon's attraction has two sources. The first is the difficulty of finishing it. The Spartathlon is not the most difficult race, but it combines lots of different tests. There is the heat of the Greek day, and then the plunge in temperatures when darkness falls. There are climbs: the route includes a series of ascents, among them a 1,200-meter mountain pass in the dead of night. Above all, there is the relentless pressure of the clock. The second reason is that the idea of retracing Pheidippides's footsteps still grips many participants. It feels like racing in history, passing through places where history began.\n\nAs finishers receive a laurel wreath and water from schoolgirls, many are overjoyed with emotion. However, the euphoria is fleeting. Within a few minutes, their joints and muscles start to seize up: after the race, Sparti resembles the set of a zombie film as participants lumber slowly around on legs that will not bend. But the itch to do it all over again soon appears.\n50. What does \"the euphoria is fleeting\" in the last paragraph mean?",
+    "options": [
+      "The feeling of triumph will last forever.",
+      "The race is incomprehensibly difficult to finish.",
+      "The fatigue after the race is overwhelming.",
+      "The excitement of finishing the race is soon gone."
+    ],
+    "answerIndex": 3,
+    "explanation": "euphoria「狂喜」，fleeting「短暫的」；幾分鐘內關節肌肉就開始僵硬，完賽的興奮很快就消失。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-eng-51",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 48-51 題組】\nIn the Spartathlon, one of the world's toughest ultra-marathons, runners run 245 km, about six marathons, within 36 hours. The runners start in Athens, and run all the way to historical Sparta.\n\nThe Spartathlon's heritage goes back to 490 B.C., when Pheidippides, an Athenian, made the journey to Sparta to ask the Spartans for help in fighting the invading Persians. It is recorded that he reached Sparta on the day after he left Athens. In 1982, this story sparked the interest of a British air-force officer and long-distance runner called John Foden, who wondered if it really was possible to run from Athens to Sparta and arrive the next day. With four other officers, Foden decided to see for himself; after a 36-hour slog they arrived in Sparti, as the town is now called. That achievement inspired the organization of the first Spartathlon a year later.\n\nThe Spartathlon's attraction has two sources. The first is the difficulty of finishing it. The Spartathlon is not the most difficult race, but it combines lots of different tests. There is the heat of the Greek day, and then the plunge in temperatures when darkness falls. There are climbs: the route includes a series of ascents, among them a 1,200-meter mountain pass in the dead of night. Above all, there is the relentless pressure of the clock. The second reason is that the idea of retracing Pheidippides's footsteps still grips many participants. It feels like racing in history, passing through places where history began.\n\nAs finishers receive a laurel wreath and water from schoolgirls, many are overjoyed with emotion. However, the euphoria is fleeting. Within a few minutes, their joints and muscles start to seize up: after the race, Sparti resembles the set of a zombie film as participants lumber slowly around on legs that will not bend. But the itch to do it all over again soon appears.\n51. According to the passage, which of the following statements is true about the Spartathlon?",
+    "options": [
+      "The Spartathlon was first organized in 1983.",
+      "The event of the Spartathlon was made into a movie.",
+      "After completing the race, many decide not to try it again.",
+      "The runners have to endure high temperature day and night."
+    ],
+    "answerIndex": 0,
+    "explanation": "Foden 在 1982 年試跑成功，一年後舉辦第一屆斯巴達松，即 1983 年。\n(C) 很快又想再跑；(D) 入夜後氣溫驟降。\n\n故選 (A)"
   }
 ]
