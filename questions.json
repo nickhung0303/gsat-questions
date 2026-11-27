@@ -110835,5 +110835,821 @@
     ],
     "answerIndex": 1,
     "explanation": "現在有各種裝飾貼紙款式，配合衣服顏色，配戴吉祥痣已成為時尚表現多於宗教習俗。\n(A) 位置固定在額頭中央；(D) 男性配戴的傳統已逐漸消失。\n\n故選 (B)"
+  },
+  {
+    "id": "101-gsat-eng-01",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. The ending of the movie did not come as a ______ to John because he had already read the novel that the movie was based on.",
+    "options": [
+      "vision",
+      "focus",
+      "surprise",
+      "conclusion"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：John 已經讀過電影改編的小說，所以電影結局沒讓他感到意外。\ncome as a surprise「令人意外」。\n\n故選 (C)"
+  },
+  {
+    "id": "101-gsat-eng-02",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. In order to stay healthy and fit, John exercises ______. He works out twice a week in a gym.",
+    "options": [
+      "regularly",
+      "directly",
+      "hardly",
+      "gradually"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：為了保持健康，John 規律運動，每週上健身房兩次。\n• (A) regularly 規律地\n\n故選 (A)"
+  },
+  {
+    "id": "101-gsat-eng-03",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. Traveling is a good way for us to ______ different cultures and broaden our horizons.",
+    "options": [
+      "assume",
+      "explore",
+      "occupy",
+      "inspire"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：旅行是探索不同文化、開拓眼界的好方法。\n• (B) explore 探索\n\n故選 (B)"
+  },
+  {
+    "id": "101-gsat-eng-04",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. The story about Hou-I shooting down nine suns is a well-known Chinese ______, but it may not be a true historical event.",
+    "options": [
+      "figure",
+      "rumor",
+      "miracle",
+      "legend"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：后羿射九日是有名的中國傳說，但可能不是真實的歷史事件。\n• (D) legend 傳說\n\n故選 (D)"
+  },
+  {
+    "id": "101-gsat-eng-05",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. According to recent research, children under the age of 12 are generally not ______ enough to recognize risk and deal with dangerous situations.",
+    "options": [
+      "diligent",
+      "mature",
+      "familiar",
+      "sincere"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：研究顯示，12 歲以下的孩子通常還不夠成熟，無法辨識風險、處理危險情況。\n• (B) mature 成熟的\n\n故選 (B)"
+  },
+  {
+    "id": "101-gsat-eng-06",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. Helen let out a sigh of ______ after hearing that her brother was not injured in the accident.",
+    "options": [
+      "hesitation",
+      "relief",
+      "sorrow",
+      "triumph"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：聽到弟弟在意外中沒有受傷，Helen 鬆了一口氣。\na sigh of relief「如釋重負的嘆息」。\n\n故選 (B)"
+  },
+  {
+    "id": "101-gsat-eng-07",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. Research suggests that people with outgoing personalities tend to be more ______, often expecting that good things will happen.",
+    "options": [
+      "efficient",
+      "practical",
+      "changeable",
+      "optimistic"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：研究顯示，個性外向的人往往比較樂觀，常期待好事會發生。\n• (D) optimistic 樂觀的\n\n故選 (D)"
+  },
+  {
+    "id": "101-gsat-eng-08",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. No one could beat Paul at running. He has won the running championship ______ for three years.",
+    "options": [
+      "rapidly",
+      "urgently",
+      "continuously",
+      "temporarily"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：沒人跑得贏 Paul，他已連續三年拿下賽跑冠軍。\n• (C) continuously 連續地\n\n故選 (C)"
+  },
+  {
+    "id": "101-gsat-eng-09",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. If you fly from Taipei to Tokyo, you'll be taking an international, rather than a ______ flight.",
+    "options": [
+      "liberal",
+      "domestic",
+      "connected",
+      "universal"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：從台北飛東京搭的是國際線，而不是國內線。\n• (B) domestic 國內的\n\n故選 (B)"
+  },
+  {
+    "id": "101-gsat-eng-10",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. Jack is very proud of his fancy new motorcycle. He has been ______ to all his friends about how cool it looks and how fast it runs.",
+    "options": [
+      "boasting",
+      "proposing",
+      "gossiping",
+      "confessing"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：Jack 對新機車非常得意，一直向朋友吹噓它多酷、多快。\nboast about…「吹噓…」。\n\n故選 (A)"
+  },
+  {
+    "id": "101-gsat-eng-11",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "11. The ideas about family have changed ______ in the past twenty years. For example, my grandfather was one of ten children in his family, but I am the only child.",
+    "options": [
+      "mutually",
+      "narrowly",
+      "considerably",
+      "scarcely"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：過去二十年家庭觀念改變很大，例如祖父有十個兄弟姊妹，我卻是獨生子。\n• (C) considerably 相當大地\n\n故選 (C)"
+  },
+  {
+    "id": "101-gsat-eng-12",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "12. The chairperson of the meeting asked everyone to speak up instead of ______ their opinions among themselves.",
+    "options": [
+      "reciting",
+      "giggling",
+      "murmuring",
+      "whistling"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：會議主席請大家大聲說出意見，而不是私下低聲嘀咕。\n• (C) murmur 低聲說\n\n故選 (C)"
+  },
+  {
+    "id": "101-gsat-eng-13",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "13. Although Mr. Chen is rich, he is a very ______ person and is never willing to spend any money to help those who are in need.",
+    "options": [
+      "absolute",
+      "precise",
+      "economic",
+      "stingy"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：陳先生雖然有錢卻很小氣，從不願花錢幫助需要的人。\n• (D) stingy 吝嗇的\n\n故選 (D)"
+  },
+  {
+    "id": "101-gsat-eng-14",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "14. If you want to know what your dreams mean, now there are websites you can visit to help you ______ them.",
+    "options": [
+      "overcome",
+      "interpret",
+      "transfer",
+      "revise"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：想知道夢的意義，現在有網站可以幫你解夢。\n• (B) interpret 解釋、詮釋\n\n故選 (B)"
+  },
+  {
+    "id": "101-gsat-eng-15",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "15. The memory ______ of the new computer has been increased so that more information can be stored.",
+    "options": [
+      "capacity",
+      "occupation",
+      "attachment",
+      "machinery"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：新電腦的記憶體容量增加了，可以儲存更多資料。\nmemory capacity「記憶體容量」。\n\n故選 (A)"
+  },
+  {
+    "id": "101-gsat-eng-16",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nKizhi is an island on Lake Onega in Karelia, Russia, with a beautiful collection of wooden churches and houses. It is one of the most popular tourist 【 16 】 in Russia and a United Nations Educational, Scientific, and Cultural Organization (UNESCO) World Heritage Site.\n\nThe island is about 7 km long and 0.5 km wide. It is surrounded by about 5,000 other islands, some of 【 17 】 are just rocks sticking out of the ground.\n\nThe entire island of Kizhi is, 【 18 】, an outdoor museum of wooden architecture created in 1966. It contains many historically significant and beautiful wooden structures, 【 19 】 windmills, boathouses, chapels, fish houses, and homes. The jewel of the architecture is the 22-domed Transfiguration Church, built in the early 1700s. It is about 37 m tall, 【 20 】 it one of the tallest log structures in the world. The church was built with pine trees brought from the mainland, which was quite common for the 18th century.\n16.",
+    "options": [
+      "affairs",
+      "fashions",
+      "industries",
+      "attractions"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：基日島是俄羅斯最受歡迎的觀光「景點」之一。tourist attraction「觀光景點」。\n\n故選 (D)"
+  },
+  {
+    "id": "101-gsat-eng-17",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nKizhi is an island on Lake Onega in Karelia, Russia, with a beautiful collection of wooden churches and houses. It is one of the most popular tourist 【 16 】 in Russia and a United Nations Educational, Scientific, and Cultural Organization (UNESCO) World Heritage Site.\n\nThe island is about 7 km long and 0.5 km wide. It is surrounded by about 5,000 other islands, some of 【 17 】 are just rocks sticking out of the ground.\n\nThe entire island of Kizhi is, 【 18 】, an outdoor museum of wooden architecture created in 1966. It contains many historically significant and beautiful wooden structures, 【 19 】 windmills, boathouses, chapels, fish houses, and homes. The jewel of the architecture is the 22-domed Transfiguration Church, built in the early 1700s. It is about 37 m tall, 【 20 】 it one of the tallest log structures in the world. The church was built with pine trees brought from the mainland, which was quite common for the 18th century.\n17.",
+    "options": [
+      "them",
+      "that",
+      "those",
+      "which"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：周圍有約五千座島，其中有些只是突出的岩石。關係代名詞 which 接在介系詞 of 後面，引導非限定子句。\n\n故選 (D)"
+  },
+  {
+    "id": "101-gsat-eng-18",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nKizhi is an island on Lake Onega in Karelia, Russia, with a beautiful collection of wooden churches and houses. It is one of the most popular tourist 【 16 】 in Russia and a United Nations Educational, Scientific, and Cultural Organization (UNESCO) World Heritage Site.\n\nThe island is about 7 km long and 0.5 km wide. It is surrounded by about 5,000 other islands, some of 【 17 】 are just rocks sticking out of the ground.\n\nThe entire island of Kizhi is, 【 18 】, an outdoor museum of wooden architecture created in 1966. It contains many historically significant and beautiful wooden structures, 【 19 】 windmills, boathouses, chapels, fish houses, and homes. The jewel of the architecture is the 22-domed Transfiguration Church, built in the early 1700s. It is about 37 m tall, 【 20 】 it one of the tallest log structures in the world. The church was built with pine trees brought from the mainland, which was quite common for the 18th century.\n18.",
+    "options": [
+      "in fact",
+      "once again",
+      "as usual",
+      "for instance"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：整座基日島「其實」就是一座 1966 年成立的戶外木造建築博物館。\n\n故選 (A)"
+  },
+  {
+    "id": "101-gsat-eng-19",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nKizhi is an island on Lake Onega in Karelia, Russia, with a beautiful collection of wooden churches and houses. It is one of the most popular tourist 【 16 】 in Russia and a United Nations Educational, Scientific, and Cultural Organization (UNESCO) World Heritage Site.\n\nThe island is about 7 km long and 0.5 km wide. It is surrounded by about 5,000 other islands, some of 【 17 】 are just rocks sticking out of the ground.\n\nThe entire island of Kizhi is, 【 18 】, an outdoor museum of wooden architecture created in 1966. It contains many historically significant and beautiful wooden structures, 【 19 】 windmills, boathouses, chapels, fish houses, and homes. The jewel of the architecture is the 22-domed Transfiguration Church, built in the early 1700s. It is about 37 m tall, 【 20 】 it one of the tallest log structures in the world. The church was built with pine trees brought from the mainland, which was quite common for the 18th century.\n19.",
+    "options": [
+      "except",
+      "besides",
+      "including",
+      "regarding"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：島上有許多木造建築，「包括」風車、船屋、小禮拜堂等。\n\n故選 (C)"
+  },
+  {
+    "id": "101-gsat-eng-20",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nKizhi is an island on Lake Onega in Karelia, Russia, with a beautiful collection of wooden churches and houses. It is one of the most popular tourist 【 16 】 in Russia and a United Nations Educational, Scientific, and Cultural Organization (UNESCO) World Heritage Site.\n\nThe island is about 7 km long and 0.5 km wide. It is surrounded by about 5,000 other islands, some of 【 17 】 are just rocks sticking out of the ground.\n\nThe entire island of Kizhi is, 【 18 】, an outdoor museum of wooden architecture created in 1966. It contains many historically significant and beautiful wooden structures, 【 19 】 windmills, boathouses, chapels, fish houses, and homes. The jewel of the architecture is the 22-domed Transfiguration Church, built in the early 1700s. It is about 37 m tall, 【 20 】 it one of the tallest log structures in the world. The church was built with pine trees brought from the mainland, which was quite common for the 18th century.\n20.",
+    "options": [
+      "make",
+      "making",
+      "made",
+      "to make"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：教堂約 37 公尺高，「使它成為」世界上最高的木造建築之一。分詞構句表結果，用現在分詞 making。\n\n故選 (B)"
+  },
+  {
+    "id": "101-gsat-eng-21",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThere was once a time when all human beings were gods. However, they often took their divinity for granted and 【 21 】 abused it. Seeing this, Brahma, the chief god, decided to take their divinity away from them and hide it 【 22 】 it could never be found.\n\nBrahma called a council of the gods to help him decide on a place to hide the divinity. The gods suggested that they hide it 【 23 】 in the earth or take it to the top of the highest mountain. But Brahma thought 【 24 】 would do because he believed humans would dig into the earth and climb every mountain, and eventually find it. So, the gods gave up.\n\nBrahma thought for a long time and finally decided to hide their divinity in the center of their own being, for humans would never think to 【 25 】 it there. Since that time humans have been going up and down the earth, digging, climbing, and exploring—searching for something already within themselves.\n21.",
+    "options": [
+      "yet",
+      "even",
+      "never",
+      "rather"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：人類把神性視為理所當然，「甚至」濫用它。even「甚至」，表程度加深。\n\n故選 (B)"
+  },
+  {
+    "id": "101-gsat-eng-22",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThere was once a time when all human beings were gods. However, they often took their divinity for granted and 【 21 】 abused it. Seeing this, Brahma, the chief god, decided to take their divinity away from them and hide it 【 22 】 it could never be found.\n\nBrahma called a council of the gods to help him decide on a place to hide the divinity. The gods suggested that they hide it 【 23 】 in the earth or take it to the top of the highest mountain. But Brahma thought 【 24 】 would do because he believed humans would dig into the earth and climb every mountain, and eventually find it. So, the gods gave up.\n\nBrahma thought for a long time and finally decided to hide their divinity in the center of their own being, for humans would never think to 【 25 】 it there. Since that time humans have been going up and down the earth, digging, climbing, and exploring—searching for something already within themselves.\n22.",
+    "options": [
+      "though",
+      "because",
+      "where",
+      "when"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：梵天決定拿走人類的神性，藏在一個永遠找不到的「地方」。where 引導地方副詞子句。\n\n故選 (C)"
+  },
+  {
+    "id": "101-gsat-eng-23",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThere was once a time when all human beings were gods. However, they often took their divinity for granted and 【 21 】 abused it. Seeing this, Brahma, the chief god, decided to take their divinity away from them and hide it 【 22 】 it could never be found.\n\nBrahma called a council of the gods to help him decide on a place to hide the divinity. The gods suggested that they hide it 【 23 】 in the earth or take it to the top of the highest mountain. But Brahma thought 【 24 】 would do because he believed humans would dig into the earth and climb every mountain, and eventually find it. So, the gods gave up.\n\nBrahma thought for a long time and finally decided to hide their divinity in the center of their own being, for humans would never think to 【 25 】 it there. Since that time humans have been going up and down the earth, digging, climbing, and exploring—searching for something already within themselves.\n23.",
+    "options": [
+      "close",
+      "apart",
+      "deep",
+      "hard"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：眾神建議把神性「深深」埋在地底，或放到最高的山頂。\n\n故選 (C)"
+  },
+  {
+    "id": "101-gsat-eng-24",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThere was once a time when all human beings were gods. However, they often took their divinity for granted and 【 21 】 abused it. Seeing this, Brahma, the chief god, decided to take their divinity away from them and hide it 【 22 】 it could never be found.\n\nBrahma called a council of the gods to help him decide on a place to hide the divinity. The gods suggested that they hide it 【 23 】 in the earth or take it to the top of the highest mountain. But Brahma thought 【 24 】 would do because he believed humans would dig into the earth and climb every mountain, and eventually find it. So, the gods gave up.\n\nBrahma thought for a long time and finally decided to hide their divinity in the center of their own being, for humans would never think to 【 25 】 it there. Since that time humans have been going up and down the earth, digging, climbing, and exploring—searching for something already within themselves.\n24.",
+    "options": [
+      "each",
+      "more",
+      "any",
+      "neither"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：梵天認為「兩個都不」行，因為人類會挖地、爬山而找到它。neither 指兩者皆非。\n\n故選 (D)"
+  },
+  {
+    "id": "101-gsat-eng-25",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nThere was once a time when all human beings were gods. However, they often took their divinity for granted and 【 21 】 abused it. Seeing this, Brahma, the chief god, decided to take their divinity away from them and hide it 【 22 】 it could never be found.\n\nBrahma called a council of the gods to help him decide on a place to hide the divinity. The gods suggested that they hide it 【 23 】 in the earth or take it to the top of the highest mountain. But Brahma thought 【 24 】 would do because he believed humans would dig into the earth and climb every mountain, and eventually find it. So, the gods gave up.\n\nBrahma thought for a long time and finally decided to hide their divinity in the center of their own being, for humans would never think to 【 25 】 it there. Since that time humans have been going up and down the earth, digging, climbing, and exploring—searching for something already within themselves.\n25.",
+    "options": [
+      "look for",
+      "get over",
+      "do without",
+      "bump into"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：人類永遠想不到要在自己身上「尋找」它。後文說人類到處搜尋本就在自己內心的東西。\n\n故選 (A)"
+  },
+  {
+    "id": "101-gsat-eng-26",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nIn the fall of 1973, in an effort to bring attention to the conflict between Egypt and Israel, World Hello Day was born. The objective is to promote peace all over the world, and to 【 26 】 barriers between every nationality. Since then, World Hello Day—November 21st of every year—【 27 】 observed by people in 180 countries.\n\nTaking part couldn't be 【 28 】. All one has to do is say hello to 10 people on the day. However, in response to the 【 29 】 of this event, the concepts of fostering peace and harmony do not have to be confined to one day a year. We can 【 30 】 the spirit going by communicating often and consciously. It is a simple act that anyone can do and it reminds us that communication is more effective than conflict.\n26.",
+    "options": [
+      "skip over",
+      "come across",
+      "look into",
+      "break down"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：目標是促進世界和平，並「打破」國籍之間的隔閡。break down barriers「打破藩籬」。\n\n故選 (D)"
+  },
+  {
+    "id": "101-gsat-eng-27",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nIn the fall of 1973, in an effort to bring attention to the conflict between Egypt and Israel, World Hello Day was born. The objective is to promote peace all over the world, and to 【 26 】 barriers between every nationality. Since then, World Hello Day—November 21st of every year—【 27 】 observed by people in 180 countries.\n\nTaking part couldn't be 【 28 】. All one has to do is say hello to 10 people on the day. However, in response to the 【 29 】 of this event, the concepts of fostering peace and harmony do not have to be confined to one day a year. We can 【 30 】 the spirit going by communicating often and consciously. It is a simple act that anyone can do and it reminds us that communication is more effective than conflict.\n27.",
+    "options": [
+      "is",
+      "has been",
+      "was",
+      "had been"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：「自那時起」，世界問候日「一直」受到 180 個國家的人重視。since then 搭配現在完成式。\n\n故選 (B)"
+  },
+  {
+    "id": "101-gsat-eng-28",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nIn the fall of 1973, in an effort to bring attention to the conflict between Egypt and Israel, World Hello Day was born. The objective is to promote peace all over the world, and to 【 26 】 barriers between every nationality. Since then, World Hello Day—November 21st of every year—【 27 】 observed by people in 180 countries.\n\nTaking part couldn't be 【 28 】. All one has to do is say hello to 10 people on the day. However, in response to the 【 29 】 of this event, the concepts of fostering peace and harmony do not have to be confined to one day a year. We can 【 30 】 the spirit going by communicating often and consciously. It is a simple act that anyone can do and it reminds us that communication is more effective than conflict.\n28.",
+    "options": [
+      "quicker",
+      "sooner",
+      "easier",
+      "better"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：參與再「容易」不過了，只要在那天跟十個人打招呼。couldn't be easier「再容易不過」。\n\n故選 (C)"
+  },
+  {
+    "id": "101-gsat-eng-29",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nIn the fall of 1973, in an effort to bring attention to the conflict between Egypt and Israel, World Hello Day was born. The objective is to promote peace all over the world, and to 【 26 】 barriers between every nationality. Since then, World Hello Day—November 21st of every year—【 27 】 observed by people in 180 countries.\n\nTaking part couldn't be 【 28 】. All one has to do is say hello to 10 people on the day. However, in response to the 【 29 】 of this event, the concepts of fostering peace and harmony do not have to be confined to one day a year. We can 【 30 】 the spirit going by communicating often and consciously. It is a simple act that anyone can do and it reminds us that communication is more effective than conflict.\n29.",
+    "options": [
+      "aim",
+      "tone",
+      "key",
+      "peak"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：為了呼應這個活動的「目的」，促進和平不必只限於一年一天。\n\n故選 (A)"
+  },
+  {
+    "id": "101-gsat-eng-30",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nIn the fall of 1973, in an effort to bring attention to the conflict between Egypt and Israel, World Hello Day was born. The objective is to promote peace all over the world, and to 【 26 】 barriers between every nationality. Since then, World Hello Day—November 21st of every year—【 27 】 observed by people in 180 countries.\n\nTaking part couldn't be 【 28 】. All one has to do is say hello to 10 people on the day. However, in response to the 【 29 】 of this event, the concepts of fostering peace and harmony do not have to be confined to one day a year. We can 【 30 】 the spirit going by communicating often and consciously. It is a simple act that anyone can do and it reminds us that communication is more effective than conflict.\n30.",
+    "options": [
+      "push",
+      "keep",
+      "bring",
+      "make"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：我們可以經常有意識地溝通，「使」這種精神延續下去。keep…going「使…持續」。\n\n故選 (B)"
+  },
+  {
+    "id": "101-gsat-eng-31-40",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 31-40 題組】\nGenerally there are two ways to name typhoons: the number-based convention and the list-based convention. Following the number-based convention, typhoons are coded with ___(31)___ types of numbers such as a 4-digit or a 6-digit code. For example, the 14th typhoon in 2003 can be labeled either as Typhoon 0314 or Typhoon 200314. The ___(32)___ of this convention, however, is that a number is hard to remember. The list-based convention, on the other hand, is based on the list of typhoon names compiled in advance by a committee, and is more widely used.\nAt the very beginning, only ___(33)___ names were used because at that time typhoons were named after girlfriends or wives of the experts on the committee. In 1979, however, male names were also included because women protested against the original naming ___(34)___ for reasons of gender equality.\nIn Asia, Western names were used until 2000 when the committee decided to use Asian names to ___(35)___ Asians' awareness of typhoons. The names were chosen from a name pool ___(36)___ of 140 names, 10 each from the 14 members of the committee. Each country has its unique naming preferences. Korea and Japan ___(37)___ animal names and China likes names of gods such as Longwang (dragon king) and Fengshen (god of the wind).\nAfter the 140 names are all used in order, they will be ___(38)___. But the names can be changed. If a member country suffers great damage from a certain typhoon, it can ___(39)___ that the name of the typhoon be deleted from the list at the annual committee meeting. For example, the names of Nabi by South Korea, and Longwang by China were ___(40)___ with other names in 2007. The deletion of both names was due to the severe damage caused by the typhoons bearing the names.\n(A) request　(B) favor　(C) disadvantage　(D) composed　(E) recycled　(F) practice　(G) replaced　(H) raise　(I) various　(J) female\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "I",
+      "C",
+      "J",
+      "F",
+      "H",
+      "D",
+      "B",
+      "E",
+      "A",
+      "G"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "explanation": "• 31 (I) various：颱風以「各種」數字編碼，例如四碼或六碼。\n• 32 (C) disadvantage：這種方法的「缺點」是數字很難記。\n• 33 (J) female：一開始只用「女性」名字，因為颱風以委員們的女友或妻子命名。\n• 34 (F) practice：女性基於性別平等抗議原本的命名「做法」。\n• 35 (H) raise：委員會決定用亞洲名字以「提高」亞洲人對颱風的警覺。\n• 36 (D) composed：名字取自「由」140 個名字「組成」的名單，composed of…。\n• 37 (B) favor：韓國和日本「偏好」動物名字。\n• 38 (E) recycled：140 個名字依序用完後會被「循環使用」。\n• 39 (A) request：會員國可以「要求」把颱風名字從名單刪除，request that + (should) 原形動詞。\n• 40 (G) replaced：韓國的「蝴蝶」與中國的「龍王」在 2007 年被其他名字「取代」，replace A with B。"
+  },
+  {
+    "id": "101-gsat-eng-41",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nThe kilt is a skirt traditionally worn by Scottish men. It is a tailored garment that is wrapped around the wearer's body at the waist starting from one side, around the front and back and across the front again to the opposite side. The overlapping layers in front are called \"aprons.\" Usually, the kilt covers the body from the waist down to just above the knees. A properly made kilt should not be so loose that the wearer can easily twist the kilt around the body, nor should it be so tight that it causes bulging of the fabric where it is buckled. Underwear may be worn as one prefers.\n\nOne of the most distinctive features of the kilt is the pattern of squares, or sett, it exhibits. The association of particular patterns with individual families can be traced back hundreds of years. Then in the Victorian era (19th century), weaving companies began to systematically record and formalize the system of setts for commercial purposes. Today there are also setts for States and Provinces, schools and universities, and general patterns that anybody can wear.\n\nThe kilt can be worn with accessories. On the front apron, there is often a kilt pin, topped with a small decorative family symbol. A small knife can be worn with the kilt too. It typically comes in a very wide variety, from fairly plain to quite elaborate silver- and jewel-ornamented designs. The kilt can also be worn with a sporran, which is the Gaelic word for pouch or purse.\n41. What's the proper way of wearing the kilt?",
+    "options": [
+      "It should be worn with underwear underneath it.",
+      "It should loosely fit on the body to be turned around.",
+      "It should be long enough to cover the wearer's knees.",
+      "It should be wrapped across the front of the body two times."
+    ],
+    "answerIndex": 3,
+    "explanation": "格子裙從一側開始繞過前面、後面，再繞過前面到另一側，所以前面交疊兩次。\n(A) 內衣可依喜好穿；(B) 不應鬆到能轉動；(C) 長度到膝蓋上方。\n\n故選 (D)"
+  },
+  {
+    "id": "101-gsat-eng-42",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nThe kilt is a skirt traditionally worn by Scottish men. It is a tailored garment that is wrapped around the wearer's body at the waist starting from one side, around the front and back and across the front again to the opposite side. The overlapping layers in front are called \"aprons.\" Usually, the kilt covers the body from the waist down to just above the knees. A properly made kilt should not be so loose that the wearer can easily twist the kilt around the body, nor should it be so tight that it causes bulging of the fabric where it is buckled. Underwear may be worn as one prefers.\n\nOne of the most distinctive features of the kilt is the pattern of squares, or sett, it exhibits. The association of particular patterns with individual families can be traced back hundreds of years. Then in the Victorian era (19th century), weaving companies began to systematically record and formalize the system of setts for commercial purposes. Today there are also setts for States and Provinces, schools and universities, and general patterns that anybody can wear.\n\nThe kilt can be worn with accessories. On the front apron, there is often a kilt pin, topped with a small decorative family symbol. A small knife can be worn with the kilt too. It typically comes in a very wide variety, from fairly plain to quite elaborate silver- and jewel-ornamented designs. The kilt can also be worn with a sporran, which is the Gaelic word for pouch or purse.\n42. Which of the following is a correct description about setts?",
+    "options": [
+      "They were once symbols for different Scottish families.",
+      "They were established by the government for business purposes.",
+      "They represented different States and Provinces in the 19th century.",
+      "They used to come in one general pattern for all individuals and institutions."
+    ],
+    "answerIndex": 0,
+    "explanation": "特定格紋與家族的關聯可追溯數百年前，代表不同的蘇格蘭家族。\n(B) 是織布公司為商業目的而記錄；(C) 州省格紋是今日才有。\n\n故選 (A)"
+  },
+  {
+    "id": "101-gsat-eng-43",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nThe kilt is a skirt traditionally worn by Scottish men. It is a tailored garment that is wrapped around the wearer's body at the waist starting from one side, around the front and back and across the front again to the opposite side. The overlapping layers in front are called \"aprons.\" Usually, the kilt covers the body from the waist down to just above the knees. A properly made kilt should not be so loose that the wearer can easily twist the kilt around the body, nor should it be so tight that it causes bulging of the fabric where it is buckled. Underwear may be worn as one prefers.\n\nOne of the most distinctive features of the kilt is the pattern of squares, or sett, it exhibits. The association of particular patterns with individual families can be traced back hundreds of years. Then in the Victorian era (19th century), weaving companies began to systematically record and formalize the system of setts for commercial purposes. Today there are also setts for States and Provinces, schools and universities, and general patterns that anybody can wear.\n\nThe kilt can be worn with accessories. On the front apron, there is often a kilt pin, topped with a small decorative family symbol. A small knife can be worn with the kilt too. It typically comes in a very wide variety, from fairly plain to quite elaborate silver- and jewel-ornamented designs. The kilt can also be worn with a sporran, which is the Gaelic word for pouch or purse.\n43. Which of the following items is NOT typically worn with the kilt for decoration?",
+    "options": [
+      "A pin.",
+      "A purse.",
+      "A ruby apron.",
+      "A silver knife."
+    ],
+    "answerIndex": 2,
+    "explanation": "配件有裙針、小刀（可有銀飾）與毛皮袋（purse）。apron 是裙子前面的交疊層，不是配件，也沒有提到紅寶石。\n\n故選 (C)"
+  },
+  {
+    "id": "101-gsat-eng-44",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nThe kilt is a skirt traditionally worn by Scottish men. It is a tailored garment that is wrapped around the wearer's body at the waist starting from one side, around the front and back and across the front again to the opposite side. The overlapping layers in front are called \"aprons.\" Usually, the kilt covers the body from the waist down to just above the knees. A properly made kilt should not be so loose that the wearer can easily twist the kilt around the body, nor should it be so tight that it causes bulging of the fabric where it is buckled. Underwear may be worn as one prefers.\n\nOne of the most distinctive features of the kilt is the pattern of squares, or sett, it exhibits. The association of particular patterns with individual families can be traced back hundreds of years. Then in the Victorian era (19th century), weaving companies began to systematically record and formalize the system of setts for commercial purposes. Today there are also setts for States and Provinces, schools and universities, and general patterns that anybody can wear.\n\nThe kilt can be worn with accessories. On the front apron, there is often a kilt pin, topped with a small decorative family symbol. A small knife can be worn with the kilt too. It typically comes in a very wide variety, from fairly plain to quite elaborate silver- and jewel-ornamented designs. The kilt can also be worn with a sporran, which is the Gaelic word for pouch or purse.\n44. What is the purpose of this passage?",
+    "options": [
+      "To introduce a Scottish garment.",
+      "To advertise a weaving pattern.",
+      "To persuade men to wear kilts.",
+      "To compare a skirt with a kilt."
+    ],
+    "answerIndex": 0,
+    "explanation": "文章介紹蘇格蘭格子裙的穿法、格紋與配件。\n\n故選 (A)"
+  },
+  {
+    "id": "101-gsat-eng-45",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nWesla Whitfield, a famous jazz singer, has a unique style and life story, so I decided to see one of her performances and interview her for my column.\n\nI went to a nightclub in New York and watched the stage lights go up. After the band played an introduction, Wesla Whitfield wheeled herself onstage in a wheelchair. As she sang, Whitfield's voice was so powerful and soulful that everyone in the room forgot the wheelchair was even there.\n\nAt 57, Whitfield is small and pretty, witty and humble, persistent and philosophical. Raised in California, Whitfield began performing in public at age 18, when she took a job as a singing waitress at a pizza parlor. After studying classical music in college, she moved to San Francisco and went on to sing with the San Francisco Opera Chorus.\n\nWalking home from rehearsal at age 29, she was caught in the midst of a random shooting that left her paralyzed from the waist down. I asked how she dealt with the realization that she'd never walk again, and she confessed that initially she didn't want to face it. After a year of depression she tried to kill herself. She was then admitted to a hospital for treatment, where she was able to recover.\n\nWhitfield said she came to understand that the only thing she had lost in this misfortunate event was the ability to walk. She still possessed her most valuable asset—her mind. Pointing to her head, she said, \"Everything important is in here. The only real disability in life is losing your mind.\" When I asked if she was angry about what she had lost, she admitted to being frustrated occasionally, \"especially when everybody's dancing, because I love to dance. But when that happens I just remove myself so I can focus instead on what I can do.\"\n45. In which of the following places has Wesla Whitfield worked?",
+    "options": [
+      "A college.",
+      "A hospital.",
+      "A pizza parlor.",
+      "A news agency."
+    ],
+    "answerIndex": 2,
+    "explanation": "她 18 歲時在披薩店當會唱歌的服務生。她在大學是讀書，在醫院是治療。\n\n故選 (C)"
+  },
+  {
+    "id": "101-gsat-eng-46",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nWesla Whitfield, a famous jazz singer, has a unique style and life story, so I decided to see one of her performances and interview her for my column.\n\nI went to a nightclub in New York and watched the stage lights go up. After the band played an introduction, Wesla Whitfield wheeled herself onstage in a wheelchair. As she sang, Whitfield's voice was so powerful and soulful that everyone in the room forgot the wheelchair was even there.\n\nAt 57, Whitfield is small and pretty, witty and humble, persistent and philosophical. Raised in California, Whitfield began performing in public at age 18, when she took a job as a singing waitress at a pizza parlor. After studying classical music in college, she moved to San Francisco and went on to sing with the San Francisco Opera Chorus.\n\nWalking home from rehearsal at age 29, she was caught in the midst of a random shooting that left her paralyzed from the waist down. I asked how she dealt with the realization that she'd never walk again, and she confessed that initially she didn't want to face it. After a year of depression she tried to kill herself. She was then admitted to a hospital for treatment, where she was able to recover.\n\nWhitfield said she came to understand that the only thing she had lost in this misfortunate event was the ability to walk. She still possessed her most valuable asset—her mind. Pointing to her head, she said, \"Everything important is in here. The only real disability in life is losing your mind.\" When I asked if she was angry about what she had lost, she admitted to being frustrated occasionally, \"especially when everybody's dancing, because I love to dance. But when that happens I just remove myself so I can focus instead on what I can do.\"\n46. What does \"when that happens\" mean in the last paragraph?",
+    "options": [
+      "When Wesla is losing her mind.",
+      "When Wesla is singing on the stage.",
+      "When Wesla is going out in her wheelchair.",
+      "When Wesla is watching other people dancing."
+    ],
+    "answerIndex": 3,
+    "explanation": "她說大家都在跳舞時會感到挫折，因為她愛跳舞；when that happens 指看到別人跳舞的時候。\n\n故選 (D)"
+  },
+  {
+    "id": "101-gsat-eng-47",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nWesla Whitfield, a famous jazz singer, has a unique style and life story, so I decided to see one of her performances and interview her for my column.\n\nI went to a nightclub in New York and watched the stage lights go up. After the band played an introduction, Wesla Whitfield wheeled herself onstage in a wheelchair. As she sang, Whitfield's voice was so powerful and soulful that everyone in the room forgot the wheelchair was even there.\n\nAt 57, Whitfield is small and pretty, witty and humble, persistent and philosophical. Raised in California, Whitfield began performing in public at age 18, when she took a job as a singing waitress at a pizza parlor. After studying classical music in college, she moved to San Francisco and went on to sing with the San Francisco Opera Chorus.\n\nWalking home from rehearsal at age 29, she was caught in the midst of a random shooting that left her paralyzed from the waist down. I asked how she dealt with the realization that she'd never walk again, and she confessed that initially she didn't want to face it. After a year of depression she tried to kill herself. She was then admitted to a hospital for treatment, where she was able to recover.\n\nWhitfield said she came to understand that the only thing she had lost in this misfortunate event was the ability to walk. She still possessed her most valuable asset—her mind. Pointing to her head, she said, \"Everything important is in here. The only real disability in life is losing your mind.\" When I asked if she was angry about what she had lost, she admitted to being frustrated occasionally, \"especially when everybody's dancing, because I love to dance. But when that happens I just remove myself so I can focus instead on what I can do.\"\n47. Which of the following statements is true about Wesla Whitfield's physical disability?",
+    "options": [
+      "It was caused by a traffic accident.",
+      "It made her sad and depressed at first.",
+      "It seriously affected her singing career.",
+      "It happened when she was a college student."
+    ],
+    "answerIndex": 1,
+    "explanation": "她一開始不願面對，經歷一年的憂鬱甚至想自殺。\n(A) 是隨機槍擊；(C) 她的歌聲讓觀眾忘記輪椅；(D) 發生在 29 歲。\n\n故選 (B)"
+  },
+  {
+    "id": "101-gsat-eng-48",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nWesla Whitfield, a famous jazz singer, has a unique style and life story, so I decided to see one of her performances and interview her for my column.\n\nI went to a nightclub in New York and watched the stage lights go up. After the band played an introduction, Wesla Whitfield wheeled herself onstage in a wheelchair. As she sang, Whitfield's voice was so powerful and soulful that everyone in the room forgot the wheelchair was even there.\n\nAt 57, Whitfield is small and pretty, witty and humble, persistent and philosophical. Raised in California, Whitfield began performing in public at age 18, when she took a job as a singing waitress at a pizza parlor. After studying classical music in college, she moved to San Francisco and went on to sing with the San Francisco Opera Chorus.\n\nWalking home from rehearsal at age 29, she was caught in the midst of a random shooting that left her paralyzed from the waist down. I asked how she dealt with the realization that she'd never walk again, and she confessed that initially she didn't want to face it. After a year of depression she tried to kill herself. She was then admitted to a hospital for treatment, where she was able to recover.\n\nWhitfield said she came to understand that the only thing she had lost in this misfortunate event was the ability to walk. She still possessed her most valuable asset—her mind. Pointing to her head, she said, \"Everything important is in here. The only real disability in life is losing your mind.\" When I asked if she was angry about what she had lost, she admitted to being frustrated occasionally, \"especially when everybody's dancing, because I love to dance. But when that happens I just remove myself so I can focus instead on what I can do.\"\n48. What advice would Wesla most likely give other disabled people?",
+    "options": [
+      "Ignore what you have lost and make the best use of what you have.",
+      "Be modest and hard-working to earn respect from other people.",
+      "Acquire a skill so that you can still be successful and famous.",
+      "Try to sing whenever you feel upset and depressed."
+    ],
+    "answerIndex": 0,
+    "explanation": "她說自己只失去走路的能力，最寶貴的心智仍在，並專注於自己能做的事。\n\n故選 (A)"
+  },
+  {
+    "id": "101-gsat-eng-49",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nForks trace their origins back to the ancient Greeks. Forks at that time were fairly large with two tines that aided in the carving of meat in the kitchen. The tines prevented meat from twisting or moving during carving and allowed food to slide off more easily than it would with a knife.\n\nBy the 7th century A.D., royal courts of the Middle East began to use forks at the table for dining. From the 10th through the 13th centuries, forks were fairly common among the wealthy in Byzantium. In the 11th century, a Byzantine wife brought forks to Italy; however, they were not widely adopted there until the 16th century. Then in 1533, forks were brought from Italy to France. The French were also slow to accept forks, for using them was thought to be awkward.\n\nIn 1608, forks were brought to England by Thomas Coryate, who saw them during his travels in Italy. The English first ridiculed forks as being unnecessary. \"Why should a person need a fork when God had given him hands?\" they asked. Slowly, however, forks came to be adopted by the wealthy as a symbol of their social status. They were prized possessions made of expensive materials intended to impress guests. By the mid 1600s, eating with forks was considered fashionable among the wealthy British.\n\nEarly table forks were modeled after kitchen forks, but small pieces of food often fell through the two tines or slipped off easily. In late 17th century France, larger forks with four curved tines were developed. The additional tines made diners less likely to drop food, and the curved tines served as a scoop so people did not have to constantly switch to a spoon while eating. By the early 19th century, four-tined forks had also been developed in Germany and England and slowly began to spread to America.\n49. What is the passage mainly about?",
+    "options": [
+      "The different designs of forks.",
+      "The spread of fork-aided cooking.",
+      "The history of using forks for dining.",
+      "The development of fork-related table manners."
+    ],
+    "answerIndex": 2,
+    "explanation": "文章從古希臘的廚房叉子，談到中東、拜占庭、義大利、法國、英國開始用叉子用餐，以及四齒叉的發展。\n\n故選 (C)"
+  },
+  {
+    "id": "101-gsat-eng-50",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nForks trace their origins back to the ancient Greeks. Forks at that time were fairly large with two tines that aided in the carving of meat in the kitchen. The tines prevented meat from twisting or moving during carving and allowed food to slide off more easily than it would with a knife.\n\nBy the 7th century A.D., royal courts of the Middle East began to use forks at the table for dining. From the 10th through the 13th centuries, forks were fairly common among the wealthy in Byzantium. In the 11th century, a Byzantine wife brought forks to Italy; however, they were not widely adopted there until the 16th century. Then in 1533, forks were brought from Italy to France. The French were also slow to accept forks, for using them was thought to be awkward.\n\nIn 1608, forks were brought to England by Thomas Coryate, who saw them during his travels in Italy. The English first ridiculed forks as being unnecessary. \"Why should a person need a fork when God had given him hands?\" they asked. Slowly, however, forks came to be adopted by the wealthy as a symbol of their social status. They were prized possessions made of expensive materials intended to impress guests. By the mid 1600s, eating with forks was considered fashionable among the wealthy British.\n\nEarly table forks were modeled after kitchen forks, but small pieces of food often fell through the two tines or slipped off easily. In late 17th century France, larger forks with four curved tines were developed. The additional tines made diners less likely to drop food, and the curved tines served as a scoop so people did not have to constantly switch to a spoon while eating. By the early 19th century, four-tined forks had also been developed in Germany and England and slowly began to spread to America.\n50. By which route did the use of forks spread?",
+    "options": [
+      "Middle East → Greece → England → Italy → France",
+      "Greece → Middle East → Italy → France → England",
+      "Greece → Middle East → France → Italy → Germany",
+      "Middle East → France → England → Italy → Germany"
+    ],
+    "answerIndex": 1,
+    "explanation": "古希臘 → 7 世紀中東宮廷 → 11 世紀傳到義大利 → 1533 年到法國 → 1608 年到英國。\n\n故選 (B)"
+  },
+  {
+    "id": "101-gsat-eng-51",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nForks trace their origins back to the ancient Greeks. Forks at that time were fairly large with two tines that aided in the carving of meat in the kitchen. The tines prevented meat from twisting or moving during carving and allowed food to slide off more easily than it would with a knife.\n\nBy the 7th century A.D., royal courts of the Middle East began to use forks at the table for dining. From the 10th through the 13th centuries, forks were fairly common among the wealthy in Byzantium. In the 11th century, a Byzantine wife brought forks to Italy; however, they were not widely adopted there until the 16th century. Then in 1533, forks were brought from Italy to France. The French were also slow to accept forks, for using them was thought to be awkward.\n\nIn 1608, forks were brought to England by Thomas Coryate, who saw them during his travels in Italy. The English first ridiculed forks as being unnecessary. \"Why should a person need a fork when God had given him hands?\" they asked. Slowly, however, forks came to be adopted by the wealthy as a symbol of their social status. They were prized possessions made of expensive materials intended to impress guests. By the mid 1600s, eating with forks was considered fashionable among the wealthy British.\n\nEarly table forks were modeled after kitchen forks, but small pieces of food often fell through the two tines or slipped off easily. In late 17th century France, larger forks with four curved tines were developed. The additional tines made diners less likely to drop food, and the curved tines served as a scoop so people did not have to constantly switch to a spoon while eating. By the early 19th century, four-tined forks had also been developed in Germany and England and slowly began to spread to America.\n51. How did forks become popular in England?",
+    "options": [
+      "Wealthy British were impressed by the design of forks.",
+      "Wealthy British thought it awkward to use their hands to eat.",
+      "Wealthy British gave special forks to the nobles as luxurious gifts.",
+      "Wealthy British considered dining with forks a sign of social status."
+    ],
+    "answerIndex": 3,
+    "explanation": "英國富人漸漸把叉子當作社會地位的象徵，到 17 世紀中葉用叉子吃飯成為富人間的時尚。\n\n故選 (D)"
+  },
+  {
+    "id": "101-gsat-eng-52",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nForks trace their origins back to the ancient Greeks. Forks at that time were fairly large with two tines that aided in the carving of meat in the kitchen. The tines prevented meat from twisting or moving during carving and allowed food to slide off more easily than it would with a knife.\n\nBy the 7th century A.D., royal courts of the Middle East began to use forks at the table for dining. From the 10th through the 13th centuries, forks were fairly common among the wealthy in Byzantium. In the 11th century, a Byzantine wife brought forks to Italy; however, they were not widely adopted there until the 16th century. Then in 1533, forks were brought from Italy to France. The French were also slow to accept forks, for using them was thought to be awkward.\n\nIn 1608, forks were brought to England by Thomas Coryate, who saw them during his travels in Italy. The English first ridiculed forks as being unnecessary. \"Why should a person need a fork when God had given him hands?\" they asked. Slowly, however, forks came to be adopted by the wealthy as a symbol of their social status. They were prized possessions made of expensive materials intended to impress guests. By the mid 1600s, eating with forks was considered fashionable among the wealthy British.\n\nEarly table forks were modeled after kitchen forks, but small pieces of food often fell through the two tines or slipped off easily. In late 17th century France, larger forks with four curved tines were developed. The additional tines made diners less likely to drop food, and the curved tines served as a scoop so people did not have to constantly switch to a spoon while eating. By the early 19th century, four-tined forks had also been developed in Germany and England and slowly began to spread to America.\n52. Why were forks made into a curved shape?",
+    "options": [
+      "They could be used to scoop food as well.",
+      "They looked more fashionable in this way.",
+      "They were designed in this way for export to the US.",
+      "They ensured the meat would not twist while being cut."
+    ],
+    "answerIndex": 0,
+    "explanation": "彎曲的叉齒可以像湯匙一樣舀食物，用餐時不必一直換湯匙。\n\n故選 (A)"
+  },
+  {
+    "id": "101-gsat-eng-53",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nAnimals are a favorite subject of many photographers. Cats, dogs, and other pets top the list, followed by zoo animals. However, because it's hard to get them to sit still and \"perform on command,\" some professional photographers refuse to photograph pets.\n\nOne way to get an appealing portrait of a cat or dog is to hold a biscuit or treat above the camera. The animal's longing look toward the food will be captured by the camera, but the treat won't appear in the picture because it's out of the camera's range. When you show the picture to your friends afterwards, they'll be impressed by your pet's loving expression.\n\nIf you are using fast film, you can take some good, quick shots of a pet by simply snapping a picture right after calling its name. You'll get a different expression from your pet using this technique. Depending on your pet's mood, the picture will capture an interested, curious expression or possibly a look of annoyance, especially if you've awakened it from a nap.\n\nTaking pictures of zoo animals requires a little more patience. After all, you can't wake up a lion! You may have to wait for a while until the animal does something interesting or moves into a position for you to get a good shot. When photographing zoo animals, don't get too close to the cages, and never tap on the glass or throw things between the bars of a cage. Concentrate on shooting some good pictures, and always respect the animals you are photographing.\n53. Why do some professional photographers NOT like to take pictures of pets?",
+    "options": [
+      "Pets may not follow orders.",
+      "Pets don't want to be bothered.",
+      "Pets may not like photographers.",
+      "Pets seldom change their expressions."
+    ],
+    "answerIndex": 0,
+    "explanation": "很難讓寵物乖乖坐好、「聽命表演」，所以有些專業攝影師拒絕拍寵物。\n\n故選 (A)"
+  },
+  {
+    "id": "101-gsat-eng-54",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nAnimals are a favorite subject of many photographers. Cats, dogs, and other pets top the list, followed by zoo animals. However, because it's hard to get them to sit still and \"perform on command,\" some professional photographers refuse to photograph pets.\n\nOne way to get an appealing portrait of a cat or dog is to hold a biscuit or treat above the camera. The animal's longing look toward the food will be captured by the camera, but the treat won't appear in the picture because it's out of the camera's range. When you show the picture to your friends afterwards, they'll be impressed by your pet's loving expression.\n\nIf you are using fast film, you can take some good, quick shots of a pet by simply snapping a picture right after calling its name. You'll get a different expression from your pet using this technique. Depending on your pet's mood, the picture will capture an interested, curious expression or possibly a look of annoyance, especially if you've awakened it from a nap.\n\nTaking pictures of zoo animals requires a little more patience. After all, you can't wake up a lion! You may have to wait for a while until the animal does something interesting or moves into a position for you to get a good shot. When photographing zoo animals, don't get too close to the cages, and never tap on the glass or throw things between the bars of a cage. Concentrate on shooting some good pictures, and always respect the animals you are photographing.\n54. What is the use of a biscuit in taking pictures of a pet?",
+    "options": [
+      "To capture a cute look.",
+      "To create a special atmosphere.",
+      "To arouse the appetite of the pet.",
+      "To keep the pet from looking at the camera."
+    ],
+    "answerIndex": 0,
+    "explanation": "把餅乾拿在相機上方，可以拍到寵物渴望地看著食物的可愛表情，朋友會對牠「充滿愛的表情」印象深刻。\n\n故選 (A)"
+  },
+  {
+    "id": "101-gsat-eng-55",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nAnimals are a favorite subject of many photographers. Cats, dogs, and other pets top the list, followed by zoo animals. However, because it's hard to get them to sit still and \"perform on command,\" some professional photographers refuse to photograph pets.\n\nOne way to get an appealing portrait of a cat or dog is to hold a biscuit or treat above the camera. The animal's longing look toward the food will be captured by the camera, but the treat won't appear in the picture because it's out of the camera's range. When you show the picture to your friends afterwards, they'll be impressed by your pet's loving expression.\n\nIf you are using fast film, you can take some good, quick shots of a pet by simply snapping a picture right after calling its name. You'll get a different expression from your pet using this technique. Depending on your pet's mood, the picture will capture an interested, curious expression or possibly a look of annoyance, especially if you've awakened it from a nap.\n\nTaking pictures of zoo animals requires a little more patience. After all, you can't wake up a lion! You may have to wait for a while until the animal does something interesting or moves into a position for you to get a good shot. When photographing zoo animals, don't get too close to the cages, and never tap on the glass or throw things between the bars of a cage. Concentrate on shooting some good pictures, and always respect the animals you are photographing.\n55. What is the advantage of calling your pet's name when taking a shot of it?",
+    "options": [
+      "To help your pet look its best.",
+      "To make sure that your pet sits still.",
+      "To keep your pet awake for a while.",
+      "To catch a different expression of your pet."
+    ],
+    "answerIndex": 3,
+    "explanation": "叫牠名字後立刻拍，可以拍到寵物不同的表情，例如好奇或被吵醒的不悅。\n\n故選 (D)"
+  },
+  {
+    "id": "101-gsat-eng-56",
+    "examType": "學測",
+    "year": 101,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nAnimals are a favorite subject of many photographers. Cats, dogs, and other pets top the list, followed by zoo animals. However, because it's hard to get them to sit still and \"perform on command,\" some professional photographers refuse to photograph pets.\n\nOne way to get an appealing portrait of a cat or dog is to hold a biscuit or treat above the camera. The animal's longing look toward the food will be captured by the camera, but the treat won't appear in the picture because it's out of the camera's range. When you show the picture to your friends afterwards, they'll be impressed by your pet's loving expression.\n\nIf you are using fast film, you can take some good, quick shots of a pet by simply snapping a picture right after calling its name. You'll get a different expression from your pet using this technique. Depending on your pet's mood, the picture will capture an interested, curious expression or possibly a look of annoyance, especially if you've awakened it from a nap.\n\nTaking pictures of zoo animals requires a little more patience. After all, you can't wake up a lion! You may have to wait for a while until the animal does something interesting or moves into a position for you to get a good shot. When photographing zoo animals, don't get too close to the cages, and never tap on the glass or throw things between the bars of a cage. Concentrate on shooting some good pictures, and always respect the animals you are photographing.\n56. In what way is photographing zoo animals different from photographing pets?",
+    "options": [
+      "You need to have fast film.",
+      "You need special equipment.",
+      "You need to stay close to the animals.",
+      "You need more time to watch and wait."
+    ],
+    "answerIndex": 3,
+    "explanation": "拍動物園動物需要更多耐心，要等動物做出有趣的動作或移到好位置。\n\n故選 (D)"
   }
 ]
