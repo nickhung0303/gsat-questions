@@ -37341,5 +37341,598 @@
       "CO₂"
     ],
     "explanation": "固體的量不影響平衡（不出現在 $K_p$ 中），$P_{\\text{CO}_2}$ 仍為 1.21 atm，體積、溫度不變，$\\text{CO}_2$ 莫耳數不變，$\\text{CaCO}_3$ 也不變。"
+  },
+  {
+    "id": "95-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "要配製 0.100 M 的標準溶液 100 毫升，最好要使用 100 毫升的下列哪一種儀器？",
+    "options": [
+      "燒杯",
+      "量筒",
+      "燒瓶",
+      "容量瓶",
+      "錐形瓶"
+    ],
+    "answerIndex": 3,
+    "explanation": "【精確配製溶液】\n容量瓶只有一條刻度線，校正後體積最精確，專門用來配製標準溶液。燒杯、量筒、錐形瓶的刻度只是概略值。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "在實驗室製備氣體，收集氣體產物的方法有三：向上排氣法、向下排氣法、排水集氣法。試問下列選項中的哪一種氣體，製備時僅能用向下排氣法收集？",
+    "options": [
+      "氫",
+      "氨",
+      "氧",
+      "氯",
+      "二氧化碳"
+    ],
+    "answerIndex": 1,
+    "explanation": "【集氣法的選擇】\n氨比空氣輕（分子量 17）又極易溶於水，不能用排水集氣法，只能用向下排氣法（瓶口朝下，氣體由上往下把空氣排出）。\n氫、氧可用排水法；氯、二氧化碳比空氣重，用向上排氣法。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "某碳氫化合物 2.2 克，經完全燃燒後產生 6.6 克二氧化碳，則此化合物最可能之分子式為何？",
+    "options": [
+      "$\\text{CH}_4$",
+      "$\\text{C}_2\\text{H}_6$",
+      "$\\text{C}_2\\text{H}_4$",
+      "$\\text{C}_3\\text{H}_8$",
+      "$\\text{C}_4\\text{H}_{10}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【元素分析】\nC：$\\dfrac{6.6}{44} = 0.15$ mol = 1.8 g；H：$2.2 - 1.8 = 0.4$ g = 0.4 mol。\nC : H = 0.15 : 0.4 = 3 : 8，為 $\\text{C}_3\\text{H}_8$。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "物質 X 燃燒時的化學反應式為 $\\text{X} + 2\\text{O}_2 \\to \\text{CO}_2 + \\text{H}_2\\text{O}$（注意：只有產物的係數尚未平衡）。試問下列選項的哪一個，最有可能是 X？",
+    "options": [
+      "$\\text{H}_2$",
+      "CO",
+      "$\\text{CH}_4$",
+      "$\\text{CH}_3\\text{OH}$",
+      "$\\text{C}_2\\text{H}_5\\text{OH}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【燃燒所需氧量】\n每 1 mol 需 2 mol $\\text{O}_2$：$\\text{CH}_4 + 2\\text{O}_2 \\to \\text{CO}_2 + 2\\text{H}_2\\text{O}$ ✓。\n甲醇需 1.5、乙醇需 3、CO 需 0.5；$\\text{H}_2$ 不會產生 $\\text{CO}_2$。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列何者是鹼土族原子基態的電子組態？",
+    "options": [
+      "$1s^2\\,2s^2\\,2p^5$",
+      "$1s^2\\,2s^2\\,2p^6$",
+      "$1s^2\\,2s^1\\,2p^6\\,3s^1$",
+      "$1s^2\\,2s^2\\,2p^6\\,3s^2$",
+      "$1s^2\\,2s^2\\,2p^5\\,3s^2$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【電子組態】\n鹼土族（第 2 族）最外層為 $ns^2$，基態的 Mg 為 $1s^2 2s^2 2p^6 3s^2$。(C)(E) 是激發態；(A) 為 F，(B) 為 Ne。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "在標準狀態下，已知 Zn−Ag 電池電壓為 1.56 伏特，Zn−Cu 電池電壓為 1.10 伏特。若定 $\\text{Cu}^{2+}(aq) + 2e^- \\to \\text{Cu}(s)$，$E^* = 0.00$ 伏特為參考點，則 $\\text{Ag}^+(aq) + e^- \\to \\text{Ag}(s)$ 之 $E^*$ 為幾伏特？",
+    "options": [
+      "0.23",
+      "0.46",
+      "0.80",
+      "1.10",
+      "1.56"
+    ],
+    "answerIndex": 1,
+    "explanation": "【改變參考點】\n$E_{\\text{Ag}} - E_{\\text{Zn}} = 1.56$、$E_{\\text{Cu}} - E_{\\text{Zn}} = 1.10$，相減得 $E_{\\text{Ag}} - E_{\\text{Cu}} = 0.46$ V。以銅為 0，銀為 0.46 V。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "綠色化學的概念強調化學製程中原子的使用效率，若製程中使用很多原子，最後這些原子卻成為廢棄物，就不符合綠色化學的原則。原子的使用效率定義為：化學反應式中，想要獲得的產物的莫耳質量（分子量）除以所有生成物的莫耳質量（分子量）。甲基丙烯酸甲酯是一個製造壓克力高分子的單體，以往是由丙酮製造，完整的製程可以用下列平衡的化學反應式表示：\n$\\text{CH}_3\\text{COCH}_3 + \\text{HCN} + \\text{CH}_3\\text{OH} + \\text{H}_2\\text{SO}_4 \\to \\text{CH}_2{=}\\text{C(CH}_3)\\text{CO}_2\\text{CH}_3 + \\text{NH}_4\\text{HSO}_4$\n新的製程則用觸媒催化丙炔、甲醇與一氧化碳反應直接生成產物：\n$\\text{CH}_3\\text{C}{\\equiv}\\text{CH} + \\text{CH}_3\\text{OH} + \\text{CO} \\to \\text{CH}_2{=}\\text{C(CH}_3)\\text{CO}_2\\text{CH}_3$\n使用丙炔的新製程，沒有製造任何廢棄物，原子使用效率為 100%。試問使用丙酮製程的原子使用效率，最接近下列哪一項？",
+    "options": [
+      "18%",
+      "29%",
+      "47%",
+      "55%",
+      "69%"
+    ],
+    "answerIndex": 2,
+    "explanation": "【原子使用效率】\n甲基丙烯酸甲酯 $\\text{C}_5\\text{H}_8\\text{O}_2$ = 100；$\\text{NH}_4\\text{HSO}_4$ = 115。\n效率 $= \\dfrac{100}{100 + 115} \\approx 47\\%$。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 8-10 題為題組】報載少數商人用一氧化碳處理生魚片，使其色澤紅潤，看起來比較『新鮮』，實際上卻未必如此。生魚片與許多肉類的顏色主要來自肌肉纖維中的肌紅蛋白（Mb）與殘存的血紅蛋白（Hb）（亦即血紅素）。肌紅蛋白與血紅蛋白的主要功能在輸送氧氣與排除二氧化碳。肌紅蛋白分子可以與小分子 X（如氧或一氧化碳）結合。此結合反應式可寫為\n$\\text{Mb}(aq) + \\text{X}(g) \\rightleftharpoons \\text{MbX}(aq)$，平衡常數 $K = \\dfrac{[\\text{MbX}]}{[\\text{Mb}]\\cdot p/p_0}$\n$p$ 表示分子 X 的壓力；$p_0$ 表示標準狀態壓力（$p_0 = 1$ atm）。\n\n8. 若用附著率 $f = \\dfrac{[\\text{MbX}]}{[\\text{Mb}] + [\\text{MbX}]}$ 來描述小分子 X 吸附到肌紅蛋白分子上的比率，則下列何者正確表示附著率與小分子 X 的壓力關係？",
+    "options": [
+      "$f = \\dfrac{K\\cdot p/p_0}{1 + K\\cdot p/p_0}$",
+      "$f = \\dfrac{K + p/p_0}{p/p_0}$",
+      "$f = \\dfrac{p/p_0}{K + p/p_0}$",
+      "$f = \\dfrac{1 + K\\cdot p/p_0}{K\\cdot p/p_0}$",
+      "$f = K\\cdot p/p_0$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【代數推導】\n由平衡常數：$[\\text{MbX}] = K[\\text{Mb}]\\dfrac{p}{p_0}$，代入：\n$f = \\dfrac{K[\\text{Mb}]p/p_0}{[\\text{Mb}] + K[\\text{Mb}]p/p_0} = \\dfrac{K\\,p/p_0}{1 + K\\,p/p_0}$\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 8-10 題為題組】報載少數商人用一氧化碳處理生魚片，使其色澤紅潤，看起來比較『新鮮』，實際上卻未必如此。生魚片與許多肉類的顏色主要來自肌肉纖維中的肌紅蛋白（Mb）與殘存的血紅蛋白（Hb）（亦即血紅素）。肌紅蛋白與血紅蛋白的主要功能在輸送氧氣與排除二氧化碳。肌紅蛋白分子可以與小分子 X（如氧或一氧化碳）結合。此結合反應式可寫為\n$\\text{Mb}(aq) + \\text{X}(g) \\rightleftharpoons \\text{MbX}(aq)$，平衡常數 $K = \\dfrac{[\\text{MbX}]}{[\\text{Mb}]\\cdot p/p_0}$\n$p$ 表示分子 X 的壓力；$p_0$ 表示標準狀態壓力（$p_0 = 1$ atm）。\n\n9. 在常溫，肌紅蛋白與一氧化碳結合反應的平衡常數（$K_{\\text{CO}}$）遠大於與氧結合的平衡常數（$K_{\\text{O}_2}$）。試問下列哪一個圖最能代表附著率與此兩種氣體壓力的關係？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-09.png\" alt=\"五張附著率 f 對壓力 p 的圖 (A)～(E)\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 3,
+    "explanation": "【飽和曲線】\n$f = \\dfrac{Kp}{1 + Kp}$：壓力為 0 時 $f = 0$，隨壓力增加而上升並趨近 1；K 愈大上升愈快。CO 的 K 遠大於 O₂，所以 CO 的曲線在極低壓就接近 1，O₂ 的曲線上升較慢。符合的是 (D)。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 8-10 題為題組】報載少數商人用一氧化碳處理生魚片，使其色澤紅潤，看起來比較『新鮮』，實際上卻未必如此。生魚片與許多肉類的顏色主要來自肌肉纖維中的肌紅蛋白（Mb）與殘存的血紅蛋白（Hb）（亦即血紅素）。肌紅蛋白與血紅蛋白的主要功能在輸送氧氣與排除二氧化碳。肌紅蛋白分子可以與小分子 X（如氧或一氧化碳）結合。此結合反應式可寫為\n$\\text{Mb}(aq) + \\text{X}(g) \\rightleftharpoons \\text{MbX}(aq)$，平衡常數 $K = \\dfrac{[\\text{MbX}]}{[\\text{Mb}]\\cdot p/p_0}$\n$p$ 表示分子 X 的壓力；$p_0$ 表示標準狀態壓力（$p_0 = 1$ atm）。\n\n10. 在常溫，一氧化碳的壓力為 $10^{-4}$ atm 時，會有半數肌紅蛋白附著有一氧化碳分子。試問一氧化碳與肌紅蛋白結合的平衡常數為何？",
+    "options": [
+      "$10^{-4}$",
+      "$10^{-2}$",
+      "1",
+      "$10^{2}$",
+      "$10^{4}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【半飽和】\n$f = 0.5$ 時 $[\\text{MbX}] = [\\text{Mb}]$，$K = \\dfrac{1}{p/p_0} = \\dfrac{1}{10^{-4}} = 10^4$。\n\n故選 (E)"
+  },
+  {
+    "id": "95-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 11-12 題為題組】根據環保署公布的河川污染調查報告，國內河川中的魚貝體內，有的含有「環境賀爾蒙」，如多溴二苯醚與壬基苯酚。當動物誤食這些魚貝時，會引起基因突變或賀爾蒙分泌失調，因此這些物質被稱為「環境賀爾蒙」。\n\n11. 下列哪一選項正確表示壬基苯酚的分子結構？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-11.png\" alt=\"五個苯環化合物 (A)～(E) 的結構\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 0,
+    "explanation": "【命名】\n「壬基」是 9 個碳的烷基 $-(\\text{CH}_2)_8\\text{CH}_3$，「苯酚」是苯環直接接 −OH。兩者都接在苯環上的是 (A)。(C) 的 OH 接在碳鏈末端是醇；(B)(D)(E) 含醚鍵。\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 11-12 題為題組】根據環保署公布的河川污染調查報告，國內河川中的魚貝體內，有的含有「環境賀爾蒙」，如多溴二苯醚與壬基苯酚。當動物誤食這些魚貝時，會引起基因突變或賀爾蒙分泌失調，因此這些物質被稱為「環境賀爾蒙」。\n\n12. 這些環境荷爾蒙均具有高沸點、高脂溶性、以及不易分解的特性。若欲從河底淤泥中萃取多溴二苯醚以供檢測，則下列哪一溶劑最合適？",
+    "options": [
+      "純水",
+      "氨水",
+      "稀鹽酸",
+      "食鹽水",
+      "乙酸乙酯"
+    ],
+    "answerIndex": 4,
+    "explanation": "【萃取溶劑】\n多溴二苯醚是非極性、脂溶性物質，要用有機溶劑萃取。其他選項都是水溶液。\n\n故選 (E)"
+  },
+  {
+    "id": "95-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 13-14 題為題組】市售光纖的內部多呈中空，內徑約數微米。李同學小心將光纖插入軟木塞中，並讓光纖穿透出軟木塞底部。之後，他將軟木塞緊塞在一個有刻度的圓柱管頂端，再將圓柱管固定在一大燒杯中，並在燒杯內盛入水，整個裝置如圖 1 所示。李同學發現若將氣體灌入圓柱管內後，管中的水會被所充入的氣體排開，但若停止充氣，氣體可從光纖中逸出，因此管內的水面會因而緩慢回復至原位置。李同學於是對多種氣體進行實驗，記錄水面回復至原處所需的時間。\n\n13. 若將氫氣充入圓柱管後，水面從刻度 0 mL 處上升至 10 mL 處需 40 秒。試預測在相同實驗條件下，氧氣充入圓柱管後，水面從刻度 0 mL 處上升至 10 mL 處約需要多少時間？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-13.png\" alt=\"圖1 氣體逸出裝置：圓柱管頂端軟木塞插有光纖，管內氣體把水排開\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "20 秒",
+      "40 秒",
+      "160 秒",
+      "320 秒",
+      "640 秒"
+    ],
+    "answerIndex": 2,
+    "explanation": "【格銳目逸散定律】\n逸散速率 $\\propto \\dfrac{1}{\\sqrt M}$，逸出相同體積所需時間 $\\propto \\sqrt M$：$40\\times\\sqrt{\\dfrac{32}{2}} = 40\\times4 = 160$ 秒。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 13-14 題為題組】市售光纖的內部多呈中空，內徑約數微米。李同學小心將光纖插入軟木塞中，並讓光纖穿透出軟木塞底部。之後，他將軟木塞緊塞在一個有刻度的圓柱管頂端，再將圓柱管固定在一大燒杯中，並在燒杯內盛入水，整個裝置如圖 1 所示。李同學發現若將氣體灌入圓柱管內後，管中的水會被所充入的氣體排開，但若停止充氣，氣體可從光纖中逸出，因此管內的水面會因而緩慢回復至原位置。李同學於是對多種氣體進行實驗，記錄水面回復至原處所需的時間。\n\n14. 在相同實驗條件下，李同學發現氯化氫從 0 mL 上升至 10 mL 時所耗費的時間比氫氣的長，卻比氧氣的短。試問這一差異主要是下列哪一項因素造成的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-13.png\" alt=\"圖1 氣體逸出裝置：圓柱管頂端軟木塞插有光纖，管內氣體把水排開\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "氫氣易被液化",
+      "氧氣的密度較大",
+      "氫氣的平均動能較高",
+      "氯化氫在水中的溶解度較高",
+      "氯化氫易分解成氫氣與氯氣"
+    ],
+    "answerIndex": 3,
+    "explanation": "【偏離逸散定律的原因】\nHCl 分子量 36.5 大於 O₂ 的 32，依逸散定律應比氧氣慢。實際上卻較快，是因為 HCl 極易溶於水，管內氣體有一部分溶入水中，水面回升得較快。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 15-16 題為題組】一個已經純化的有機物（醇類或醚類）試樣（含碳 60.0%；氫 13.3%）。已知該有機物的一分子內的碳數小於 5，在常溫常壓為液體。今取試樣 0.1337 克，先將其變成氣體後，以取代水的方法收集了水 56.15 毫升（相當於試樣變成氣體的體積）。以上的實驗重做了一次，得到了同樣的數據。做這些實驗時的室溫為 27.0℃，而重複兩次讀取壓力計，均得 756.7 mmHg。另外，查表得知在 27.0℃ 時，水的蒸氣壓為 26.7 mmHg。今用以上數據，採取兩種方法計算分子量（如圖）。（原子量以 H = 1.00；C = 12.0；O = 16.0，而溫度 0℃ = 273.0 K 為準）\n\n15. 已知上列計算方法以及運算過程均適當，則該有機物的分子量（g/mol）是下列哪一項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-15.png\" alt=\"方法一：由元素分析得實驗式 C3H8O，分子量 60.0；方法二：由 PV = (g/M)RT 算得 61.02\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "方法一的 60.0",
+      "方法二的 61.02",
+      "方法二的，但取三位數 61.0",
+      "由兩種方法所得結果的平均值：$\\dfrac{60.0 + 61.02}{2} = 60.5$",
+      "因方法二做了兩次，加其權數為 2：$\\dfrac{60.0 + 61.02\\times2}{3} = 60.68$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【分子量必須對應整數個原子】\n方法一由元素分析得實驗式 $\\text{C}_3\\text{H}_8\\text{O}$；碳數小於 5，且 $\\text{C}_6\\text{H}_{16}\\text{O}_2$ 不可能（H 太多），所以分子式就是 $\\text{C}_3\\text{H}_8\\text{O}$，分子量必為 60.0。方法二用氣體定律量測，只能得到近似值，作為確認分子式的倍數即可，不能取代由分子式算出的精確值，也不能與之平均。\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "points": 3,
+    "question": "分子式為 $\\text{C}_3\\text{H}_8\\text{O}$ 的有機物有三個，若欲在普通的高中化學實驗室，做實驗來推測該物質是什麼有機物，則下列哪一種方法最方便而有效？",
+    "options": [
+      "測沸點後查資料",
+      "測熔點後查資料",
+      "測滲透壓",
+      "用沸點上升法",
+      "用凝固點下降法"
+    ],
+    "answerIndex": 0,
+    "explanation": "【鑑別同分異構物】\n三者為 1-丙醇（沸點 97°C）、2-丙醇（82°C）、甲乙醚（7°C），沸點差異明顯，且常溫為液體，測沸點最方便。熔點都很低，不易測；滲透壓、沸點上升、凝固點下降只能測分子量，而三者分子量相同。\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "氫鍵是生物體內一種重要的化學鍵，去氧核糖核酸的雙螺旋結構就是利用氫鍵來維繫的。下列用點線表示的鍵結（不考慮鍵角），哪些是氫鍵？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-17.png\" alt=\"(A) H−H···H−H (B) H−O−H···H−O−H（H 對 H）(C) H−F···H−F (D) H₃N···F−H (E) H₂O···H−O−C₂H₅\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【氫鍵的條件】\n氫鍵是接在 N、O、F 上的 H，與另一分子 N、O、F 上的孤對電子之間的吸引：X−H···Y。\n• (C) 正確：H−F 的 H 與另一 HF 的 F 之間（圖中 F···H）。\n• (E) 正確：乙醇 O−H 的 H 與水的 O 之間。\n• (A) $\\text{H}_2$ 沒有 N、O、F。(B) 畫的是 H 與 H 相連，不是氫鍵。(D) 畫成 N 與 F 相連，應該是 F−H 的 H 指向 N 才對。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "95-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "晶體試樣甲、乙、丙三種，假定在小溫度的範圍內，其溶解度（克/100 克水）曲線可簡化為如圖 2。今在室溫 20℃，配製甲、乙、丙三種試樣的飽和溶液，分別過濾得到澄清溶液後，做了下列實驗。試問下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-18.png\" alt=\"圖2 溶解度對溫度：甲隨溫度上升、乙隨溫度下降、丙不變（20 g）\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "升溫或降溫，丙溶液都不會有晶體析出來",
+      "若將各溶液分別降溫至 15℃，則甲晶體會析出來",
+      "若將各溶液的溫度，從 20℃ 升溫至 35℃，則只有乙晶體會析出來",
+      "若將各溶液升溫至 30℃ 後過濾，所得澄清溶液在 30℃ 蒸發。當蒸發到溶液的體積變為原體積的約十分之九時，甲與乙的晶體會析出來",
+      "若將各溶液升溫至 35℃ 後過濾，所得澄清溶液在 35℃ 蒸發。當蒸發到溶液的體積變為原體積的約十分之九時，乙與丙的晶體會析出來"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "【溶解度曲線】\n• (A) 正確：丙的溶解度不隨溫度改變。\n• (B) 正確：甲的溶解度隨溫度降低而變小，飽和溶液降溫析出晶體。\n• (C) 正確：升溫時只有乙的溶解度變小而析出。\n• (D) 錯：20℃ 的甲飽和溶液升溫到 30℃ 已變成未飽和（溶解度由約 17 g 增為約 42 g），蒸發 10% 的水仍不會析出；只有過濾後仍飽和的乙會析出。\n• (E) 正確：35℃ 時乙（析出後過濾）與丙仍是飽和溶液，蒸發水分就析出；甲未飽和。\n\n故選 (A)(B)(C)(E)"
+  },
+  {
+    "id": "95-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "若用金絲作為負極，而用與高一化學的「簡易電解實驗」相同的方法，電解 1 M 的氯化鋅水溶液，則在負極會有鋅沉積在金絲電極上。試問實驗後要清洗沾有鋅的金絲電極，可以採用下列哪些方法？",
+    "options": [
+      "作為正極，電解 0.1 M 的 $\\text{Na}_2\\text{SO}_4$ 溶液",
+      "浸泡於 3 M 的氫氧化鈉溶液",
+      "浸泡於 3 M 的食鹽水溶液",
+      "浸泡於 3 M 的鹽酸溶液",
+      "浸泡於王水"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "【去除金絲上的鋅】\n• (A) 正確：作為陽極時，鋅優先被氧化成 $\\text{Zn}^{2+}$ 溶出，金不會。\n• (B) 正確：鋅是兩性金屬，溶於強鹼：$\\text{Zn} + 2\\text{OH}^- + 2\\text{H}_2\\text{O} \\to \\text{Zn(OH)}_4^{2-} + \\text{H}_2$。\n• (C) 錯：食鹽水不能溶解鋅。\n• (D) 正確：鋅溶於鹽酸，金不溶。\n• (E) 錯：王水會連金絲一起溶解。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "95-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 20-22 題為題組】天然油脂結構的核心為甘油（$\\text{HOCH}_2\\text{CH(OH)CH}_2\\text{OH}$），有一瘦身用的非天然油脂，其結構的核心則為蔗糖（$\\text{C}_{12}\\text{H}_{22}\\text{O}_{11}$）。該非天然油脂可由直鏈型的不飽和油酸（$\\text{C}_{17}\\text{H}_{33}\\text{COOH}$）與蔗糖反應而得，其反應示意圖如圖 3。\n\n20. 試問該非天然油脂含有下列哪些官能基？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-20.png\" alt=\"圖3 蔗糖與油酸反應，八個羥基都酯化成非天然油脂（R = C17H33）\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "炔",
+      "烯",
+      "酯",
+      "酮",
+      "酸"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "【官能基】\n油酸的碳鏈含一個 C=C（烯），蔗糖的羥基與油酸的羧基形成酯基。另外還有蔗糖骨架中的醚鍵，但沒有炔、酮、羧酸。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "95-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 20-22 題為題組】天然油脂結構的核心為甘油（$\\text{HOCH}_2\\text{CH(OH)CH}_2\\text{OH}$），有一瘦身用的非天然油脂，其結構的核心則為蔗糖（$\\text{C}_{12}\\text{H}_{22}\\text{O}_{11}$）。該非天然油脂可由直鏈型的不飽和油酸（$\\text{C}_{17}\\text{H}_{33}\\text{COOH}$）與蔗糖反應而得，其反應示意圖如圖 3。\n\n21. 油酸與蔗糖的反應屬於下列哪些反應？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-20.png\" alt=\"圖3 蔗糖與油酸反應，八個羥基都酯化成非天然油脂（R = C17H33）\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "加成反應",
+      "皂化反應",
+      "脫水反應",
+      "酯化反應",
+      "聚合反應"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【反應類型】\n醇（蔗糖的 −OH）與羧酸（油酸）作用生成酯與水，是酯化反應，同時也是脫去水分子的縮合（脫水）反應。皂化是酯與鹼的水解；產物是單一分子，不是高分子聚合物。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "95-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 20-22 題為題組】天然油脂結構的核心為甘油（$\\text{HOCH}_2\\text{CH(OH)CH}_2\\text{OH}$），有一瘦身用的非天然油脂，其結構的核心則為蔗糖（$\\text{C}_{12}\\text{H}_{22}\\text{O}_{11}$）。該非天然油脂可由直鏈型的不飽和油酸（$\\text{C}_{17}\\text{H}_{33}\\text{COOH}$）與蔗糖反應而得，其反應示意圖如圖 3。\n\n22. 該非天然油脂與氫氧化鈉溶液共熱，水解後的產物，可與下列哪些試劑反應？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-20.png\" alt=\"圖3 蔗糖與油酸反應，八個羥基都酯化成非天然油脂（R = C17H33）\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "斐林試液",
+      "多侖試液",
+      "溴的四氯化碳溶液",
+      "澱粉溶液",
+      "鹼性過錳酸鉀溶液"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【水解產物的性質】\n皂化產物為蔗糖與油酸鈉。\n• 蔗糖是非還原醣，不與斐林試液、多侖試液反應。\n• 油酸鈉含 C=C，可使溴的四氯化碳溶液及鹼性過錳酸鉀溶液褪色。\n• 澱粉溶液是檢驗碘用的，與兩者都不反應。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "95-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】實驗課後王同學發現實驗桌上有六瓶試劑未予歸位，可能為醋酸、鹽酸、硫酸、氫氧化鉀、氫氧化鈣以及氨水。王同學取出其中兩瓶，進行簡易分析實驗以辨識二者成分。以下為其實驗記錄：\n實驗 I：從第一瓶溶液中取出 25.00 mL，以標準 NaOH 溶液滴定，滴定結果列於表 1（加入 NaOH 5.0、10.0、20.0、24.0、24.8、25.0、25.2、26.0、30.0 mL 時，pH 分別為 2.2、2.4、3.0、3.8、4.5、7.0、9.5、10.0、10.7）。\n實驗 II：從第一瓶溶液中取 25.00 mL 後，加入 10.00 mL、0.01 M 的硫酸，再以同一標準 NaOH 溶液滴定，滴定結果繪於圖 4 中（當量點約在 45 mL）。\n實驗 III：從第一瓶與第二瓶溶液中分別取出 25.00 mL 與 10.00 mL，相互混合之後，再以標準 NaOH 溶液滴定。滴定結果也繪於圖 4 中（當量點約在 15 mL）。\n實驗 IV：完成實驗 III 後，再加入數滴 $\\text{BaCl}_2$，溶液並無沉澱出現，但若改加草酸鈉，則溶液出現白色沉澱。\n\n1. 在答案紙上，比照圖 4 的繪圖方式，將實驗 I 的滴定結果繪於方格紙內，並以平滑曲線連接各點。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-non-1.png\" alt=\"表1 實驗 I 的滴定數據；圖4 實驗 II 與實驗 III 的滴定曲線\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "橫軸 NaOH 體積（mL）、縱軸 pH，標出 9 個數據點並以平滑曲線連接：前段 pH 由 2.2 緩慢上升，在 25.0 mL（pH 7.0）附近幾乎垂直地急升，之後趨於平緩（約 10.7）。"
+    ],
+    "blankLabels": [
+      "作圖"
+    ],
+    "explanation": "評分重點：坐標軸標示數字、9 點正確、標出 25 mL 時 pH 7.0 的當量點，曲線在當量點附近斜率很大。"
+  },
+  {
+    "id": "95-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】實驗課後王同學發現實驗桌上有六瓶試劑未予歸位，可能為醋酸、鹽酸、硫酸、氫氧化鉀、氫氧化鈣以及氨水。王同學取出其中兩瓶，進行簡易分析實驗以辨識二者成分。以下為其實驗記錄：\n實驗 I：從第一瓶溶液中取出 25.00 mL，以標準 NaOH 溶液滴定，滴定結果列於表 1（加入 NaOH 5.0、10.0、20.0、24.0、24.8、25.0、25.2、26.0、30.0 mL 時，pH 分別為 2.2、2.4、3.0、3.8、4.5、7.0、9.5、10.0、10.7）。\n實驗 II：從第一瓶溶液中取 25.00 mL 後，加入 10.00 mL、0.01 M 的硫酸，再以同一標準 NaOH 溶液滴定，滴定結果繪於圖 4 中（當量點約在 45 mL）。\n實驗 III：從第一瓶與第二瓶溶液中分別取出 25.00 mL 與 10.00 mL，相互混合之後，再以標準 NaOH 溶液滴定。滴定結果也繪於圖 4 中（當量點約在 15 mL）。\n實驗 IV：完成實驗 III 後，再加入數滴 $\\text{BaCl}_2$，溶液並無沉澱出現，但若改加草酸鈉，則溶液出現白色沉澱。\n\n2. 計算標準 NaOH 溶液的濃度（單位：M）。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-non-1.png\" alt=\"表1 實驗 I 的滴定數據；圖4 實驗 II 與實驗 III 的滴定曲線\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "blanks": [
+      "0.01"
+    ],
+    "blankLabels": [
+      "[NaOH]（M）"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.010",
+        "0.01M",
+        "1×10^-2",
+        "1.0×10^-2"
+      ]
+    ],
+    "explanation": "比較實驗 I 與 II：多加了 10.00 mL、0.01 M 的硫酸（$\\text{H}^+$ $10\\times0.01\\times2 = 0.20$ mmol），當量點由 25 mL 延後到 45 mL，多用了 20 mL NaOH：\n$20\\times[\\text{NaOH}] = 0.20 \\Rightarrow [\\text{NaOH}] = 0.01$ M"
+  },
+  {
+    "id": "95-ast-chem-non-1-3",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】實驗課後王同學發現實驗桌上有六瓶試劑未予歸位，可能為醋酸、鹽酸、硫酸、氫氧化鉀、氫氧化鈣以及氨水。王同學取出其中兩瓶，進行簡易分析實驗以辨識二者成分。以下為其實驗記錄：\n實驗 I：從第一瓶溶液中取出 25.00 mL，以標準 NaOH 溶液滴定，滴定結果列於表 1（加入 NaOH 5.0、10.0、20.0、24.0、24.8、25.0、25.2、26.0、30.0 mL 時，pH 分別為 2.2、2.4、3.0、3.8、4.5、7.0、9.5、10.0、10.7）。\n實驗 II：從第一瓶溶液中取 25.00 mL 後，加入 10.00 mL、0.01 M 的硫酸，再以同一標準 NaOH 溶液滴定，滴定結果繪於圖 4 中（當量點約在 45 mL）。\n實驗 III：從第一瓶與第二瓶溶液中分別取出 25.00 mL 與 10.00 mL，相互混合之後，再以標準 NaOH 溶液滴定。滴定結果也繪於圖 4 中（當量點約在 15 mL）。\n實驗 IV：完成實驗 III 後，再加入數滴 $\\text{BaCl}_2$，溶液並無沉澱出現，但若改加草酸鈉，則溶液出現白色沉澱。\n\n3. 若在 12.50 mL 標準 NaOH 溶液中加入 12.50 mL、0.01 M 的鹽酸溶液，則最後溶液的 pH 值為何？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-non-1.png\" alt=\"表1 實驗 I 的滴定數據；圖4 實驗 II 與實驗 III 的滴定曲線\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "blanks": [
+      "7"
+    ],
+    "blankLabels": [
+      "pH"
+    ],
+    "acceptedBlanks": [
+      [
+        "7.0",
+        "7.00"
+      ]
+    ],
+    "explanation": "NaOH $12.50\\times0.01 = 0.125$ mmol，HCl $12.50\\times0.01 = 0.125$ mmol，強酸強鹼恰好中和，pH = 7.0。"
+  },
+  {
+    "id": "95-ast-chem-non-1-4",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】實驗課後王同學發現實驗桌上有六瓶試劑未予歸位，可能為醋酸、鹽酸、硫酸、氫氧化鉀、氫氧化鈣以及氨水。王同學取出其中兩瓶，進行簡易分析實驗以辨識二者成分。以下為其實驗記錄：\n實驗 I：從第一瓶溶液中取出 25.00 mL，以標準 NaOH 溶液滴定，滴定結果列於表 1（加入 NaOH 5.0、10.0、20.0、24.0、24.8、25.0、25.2、26.0、30.0 mL 時，pH 分別為 2.2、2.4、3.0、3.8、4.5、7.0、9.5、10.0、10.7）。\n實驗 II：從第一瓶溶液中取 25.00 mL 後，加入 10.00 mL、0.01 M 的硫酸，再以同一標準 NaOH 溶液滴定，滴定結果繪於圖 4 中（當量點約在 45 mL）。\n實驗 III：從第一瓶與第二瓶溶液中分別取出 25.00 mL 與 10.00 mL，相互混合之後，再以標準 NaOH 溶液滴定。滴定結果也繪於圖 4 中（當量點約在 15 mL）。\n實驗 IV：完成實驗 III 後，再加入數滴 $\\text{BaCl}_2$，溶液並無沉澱出現，但若改加草酸鈉，則溶液出現白色沉澱。\n\n4. 寫出第一瓶所含成分的正確中文名稱與化學式，並計算其濃度（單位：M）。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-non-1.png\" alt=\"表1 實驗 I 的滴定數據；圖4 實驗 II 與實驗 III 的滴定曲線\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "blanks": [
+      "鹽酸",
+      "HCl",
+      "0.01"
+    ],
+    "blankLabels": [
+      "名稱",
+      "化學式",
+      "濃度（M）"
+    ],
+    "acceptedBlanks": [
+      [
+        "氯化氫"
+      ],
+      [],
+      [
+        "0.010",
+        "0.01M",
+        "1.0×10^-2"
+      ]
+    ],
+    "explanation": "實驗 I 的曲線起始 pH 低、當量點 pH 7 且突變明顯，是強酸。實驗 IV 加 $\\text{BaCl}_2$ 沒有沉澱，表示沒有 $\\text{SO}_4^{2-}$，所以是鹽酸。\n$25\\times[\\text{HCl}] = 25\\times0.01 \\Rightarrow [\\text{HCl}] = 0.01$ M"
+  },
+  {
+    "id": "95-ast-chem-non-1-5",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】實驗課後王同學發現實驗桌上有六瓶試劑未予歸位，可能為醋酸、鹽酸、硫酸、氫氧化鉀、氫氧化鈣以及氨水。王同學取出其中兩瓶，進行簡易分析實驗以辨識二者成分。以下為其實驗記錄：\n實驗 I：從第一瓶溶液中取出 25.00 mL，以標準 NaOH 溶液滴定，滴定結果列於表 1（加入 NaOH 5.0、10.0、20.0、24.0、24.8、25.0、25.2、26.0、30.0 mL 時，pH 分別為 2.2、2.4、3.0、3.8、4.5、7.0、9.5、10.0、10.7）。\n實驗 II：從第一瓶溶液中取 25.00 mL 後，加入 10.00 mL、0.01 M 的硫酸，再以同一標準 NaOH 溶液滴定，滴定結果繪於圖 4 中（當量點約在 45 mL）。\n實驗 III：從第一瓶與第二瓶溶液中分別取出 25.00 mL 與 10.00 mL，相互混合之後，再以標準 NaOH 溶液滴定。滴定結果也繪於圖 4 中（當量點約在 15 mL）。\n實驗 IV：完成實驗 III 後，再加入數滴 $\\text{BaCl}_2$，溶液並無沉澱出現，但若改加草酸鈉，則溶液出現白色沉澱。\n\n5. 寫出第二瓶所含成分的正確中文名稱與化學式，並計算其濃度（單位：M）。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-chem-non-1.png\" alt=\"表1 實驗 I 的滴定數據；圖4 實驗 II 與實驗 III 的滴定曲線\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "blanks": [
+      "氫氧化鈣",
+      "Ca(OH)2",
+      "0.005"
+    ],
+    "blankLabels": [
+      "名稱",
+      "化學式",
+      "濃度（M）"
+    ],
+    "acceptedBlanks": [
+      [],
+      [],
+      [
+        "0.0050",
+        "0.005M",
+        "5×10^-3",
+        "5.0×10^-3"
+      ]
+    ],
+    "explanation": "實驗 III 中當量點由 25 mL 提前到 15 mL，表示第二瓶 10 mL 中和了 $10\\times0.01 = 0.10$ mmol 的 $\\text{H}^+$，是鹼；加草酸鈉出現白色草酸鈣沉澱，含 $\\text{Ca}^{2+}$，為氫氧化鈣。\n$10\\times y\\times2 = 0.10 \\Rightarrow y = 0.005$ M"
+  },
+  {
+    "id": "95-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】有 10 種未知物質，分別用代號甲、乙、丙、丁、戊、己、庚、辛、壬、癸來表示。已知下列事項：\n(1) 甲、乙、丙、丁、戊均為元素物質（只由一種元素所組成的物質），而且其元素均為週期表上第一至第三週期的非金屬元素，而癸、己、庚、辛、壬均係由上述 5 種元素所構成的二元素化合物。\n(2) 在常溫常壓，甲與乙為固體；癸為液體，其餘均為氣體。\n(3) 癸是日常生活中不可或缺，而且用量最大的化合物。\n(4) 甲的原子序小於乙的原子序，而其比為 3 比 8。\n(5) 構成庚的兩種原子的質子數比為 3 比 4，而庚為無色無味的有毒氣體，常見於關閉門窗使用瓦斯爐所發生的中毒事件。\n(6) 構成辛的兩種元素的質量比約為 7 比 16，而辛為有色，具刺激性的有毒氣體。\n(7) 氣體庚與壬具有共同的元素戊。\n(8) 乙在空氣中燃燒可得壬。\n(9) 丙是癸的成分元素之一，在適當的催化劑與溫壓下，丙與丁作用可得到己。在工業上，己可用於製造化學肥料。\n(10) 丁 + 戊 → X，X 再與戊反應即得化合物辛。\n\n1. 用正式的元素符號，寫出下列代號所代表的物質的化學式（包括常溫常壓時的狀態）：(a) 甲、(b) 庚、(c) 癸。（6 分）",
+    "points": 6,
+    "blanks": [
+      "C(s)",
+      "CO(g)",
+      "H2O(l)"
+    ],
+    "blankLabels": [
+      "甲",
+      "庚",
+      "癸"
+    ],
+    "acceptedBlanks": [
+      [
+        "C",
+        "C（s）",
+        "C(石墨)"
+      ],
+      [
+        "CO",
+        "CO（g）"
+      ],
+      [
+        "H2O",
+        "H2O（l）",
+        "H2O(aq)"
+      ]
+    ],
+    "explanation": "• 癸：日常用量最大的液態化合物，水 $\\text{H}_2\\text{O}$。\n• 甲、乙為固體，原子序比 3：8，在 B、C、Si、P、S 中只有 C（6）與 S（16）符合：甲為碳、乙為硫。\n• 庚：無色無味有毒、常見於瓦斯中毒，質子數比 3：4（C 6、O 8）：CO。\n• 其餘元素（氣體）：戊為 O₂（庚與壬共有），丙為 H₂，丁為 N₂；辛為 NO₂（N：O = 14：32 = 7：16），己為 NH₃。"
+  },
+  {
+    "id": "95-ast-chem-non-2-2",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】有 10 種未知物質，分別用代號甲、乙、丙、丁、戊、己、庚、辛、壬、癸來表示。已知下列事項：\n(1) 甲、乙、丙、丁、戊均為元素物質（只由一種元素所組成的物質），而且其元素均為週期表上第一至第三週期的非金屬元素，而癸、己、庚、辛、壬均係由上述 5 種元素所構成的二元素化合物。\n(2) 在常溫常壓，甲與乙為固體；癸為液體，其餘均為氣體。\n(3) 癸是日常生活中不可或缺，而且用量最大的化合物。\n(4) 甲的原子序小於乙的原子序，而其比為 3 比 8。\n(5) 構成庚的兩種原子的質子數比為 3 比 4，而庚為無色無味的有毒氣體，常見於關閉門窗使用瓦斯爐所發生的中毒事件。\n(6) 構成辛的兩種元素的質量比約為 7 比 16，而辛為有色，具刺激性的有毒氣體。\n(7) 氣體庚與壬具有共同的元素戊。\n(8) 乙在空氣中燃燒可得壬。\n(9) 丙是癸的成分元素之一，在適當的催化劑與溫壓下，丙與丁作用可得到己。在工業上，己可用於製造化學肥料。\n(10) 丁 + 戊 → X，X 再與戊反應即得化合物辛。\n\n2. 用正式的元素符號，寫出下列反應的化學反應式（各物質的狀態不需表示，但係數必須平衡）：(d) 乙 + 戊 → 壬、(e) 丙 + 丁 → 己、(f) X + 戊 → 辛。（6 分）",
+    "points": 6,
+    "selfGrade": true,
+    "blanks": [
+      "(d) $\\text{S} + \\text{O}_2 \\to \\text{SO}_2$（或 $\\text{S}_8 + 8\\text{O}_2 \\to 8\\text{SO}_2$）；(e) $3\\text{H}_2 + \\text{N}_2 \\to 2\\text{NH}_3$；(f) $2\\text{NO} + \\text{O}_2 \\to 2\\text{NO}_2$"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "• 硫在空氣中燃燒生成 $\\text{SO}_2$（壬）。\n• 哈柏法合成氨（己），用於製造化學肥料。\n• 丁（$\\text{N}_2$）+ 戊（$\\text{O}_2$）→ X（NO），NO 再與氧反應得紅棕色的 $\\text{NO}_2$（辛）。"
   }
 ]
