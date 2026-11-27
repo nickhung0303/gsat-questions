@@ -1927,5 +1927,572 @@
     "blankLabels": ["50（原文英文片語）"],
     "blanks": ["one of a kind"],
     "explanation": "【文章細節定位與片語解析】\n• 原文定位：回到 C 段（Aroma Paradise），店主 Joseph Tang 的引言中說道：\n  “Each store is one of a kind in Wonder Village,” he states.\n  （他說：「在 Wonder Village，每一家店都是獨一無二的。」）\n• 片語字義：one of a kind 意為「獨一無二的、世上僅有的」，正好對應題目所問用來形容商店「獨特性（uniqueness）」的片語。\n\n故答案為 one of a kind。"
+  },
+  {
+    "id": "109-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 1-2 題為題組】新型冠狀病毒與流感病毒可使人類感染致病，甚至危害生命，因此必須防止病毒傳播。進出公共場所用額溫槍量測額溫、戴口罩及利用紫外線消滅病毒等都是可行的措施。\n1. 新型冠狀病毒防疫期間，常使用額溫槍量測人體額溫，下列敘述何者正確？",
+    "options": [
+      "額溫槍量測額溫的物理原理與偵測宇宙背景輻射類似",
+      "額溫槍偵測的主要波段為紫外線範圍",
+      "額溫槍偵測到主要波段的輻射強度越強，表示額溫越低",
+      "額溫槍偵測到最大輻射強度的輻射頻率，隨額溫升高而變小",
+      "額溫槍需與額頭表面皮膚達熱平衡才能準確量測額溫"
+    ],
+    "answerIndex": 0,
+    "explanation": "【熱輻射（黑體輻射）】\n• (A) 正確：額溫槍偵測皮膚發出的熱輻射（紅外線），由輻射強度推算溫度；宇宙背景輻射也是依黑體輻射的光譜推得溫度約 $2.7\\text{ K}$，原理類似。\n• (B) 錯誤：人體約 $310\\text{ K}$，熱輻射主要在紅外線波段。\n• (C) 錯誤：溫度越高，輻射強度越強。\n• (D) 錯誤：由維恩位移定律，溫度越高，最強輻射的波長越短、頻率越高。\n• (E) 錯誤：額溫槍是非接觸式量測，不需與皮膚達熱平衡。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 1-2 題為題組】新型冠狀病毒與流感病毒可使人類感染致病，甚至危害生命，因此必須防止病毒傳播。進出公共場所用額溫槍量測額溫、戴口罩及利用紫外線消滅病毒等都是可行的措施。\n2. 表面沾有流感病毒的口罩，可使用波長為 $253.7\\text{ nm}$ 的紫外線－C 照射，破壞病毒的去氧核糖核酸（DNA）及核糖核酸（RNA）結構，達到消滅病毒的效果。若以強度為 $6600\\ \\mu\\text{W/cm}^2$ 的紫外線－C 垂直照射口罩表面 $2.0\\text{ s}$，則兩秒鐘內每平方公分的紫外線－C 光子數約為若干？（普朗克常數 $h = 6.63 \\times 10^{-34}\\text{ J}\\cdot\\text{s}$，光速 $c = 3.0 \\times 10^8\\text{ m/s}$）",
+    "options": [
+      "$2.4 \\times 10^{13}$",
+      "$6.4 \\times 10^{14}$",
+      "$8.4 \\times 10^{15}$",
+      "$1.7 \\times 10^{16}$",
+      "$9.6 \\times 10^{17}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【光子能量與光子數】\n• 每個光子能量：$E = \\dfrac{hc}{\\lambda} = \\dfrac{6.63\\times10^{-34} \\times 3.0\\times10^{8}}{253.7\\times10^{-9}} \\approx 7.84\\times10^{-19}\\text{ J}$\n• 每平方公分 $2.0\\text{ s}$ 內接收的能量：$6600\\times10^{-6}\\text{ W/cm}^2 \\times 2.0\\text{ s} = 1.32\\times10^{-2}\\text{ J}$\n• 光子數：$N = \\dfrac{1.32\\times10^{-2}}{7.84\\times10^{-19}} \\approx 1.7\\times10^{16}$\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "X 射線應用於醫學影像及晶體結構分析，其頻率範圍約在 $3\\times10^{17}\\text{ Hz}$ 至 $3\\times10^{19}\\text{ Hz}$。下列有關 X 射線的敘述何者正確？（光速 $c = 3.0 \\times 10^8\\text{ m/s}$）",
+    "options": [
+      "X 射線可顯示骨骼結構影像，是由於波的干涉所產生",
+      "X 射線可顯示晶體結構，是由於其高穿透力特性所產生",
+      "X 射線的路徑不受磁場與電場的影響",
+      "用狹縫間距為 $0.1\\text{ mm}$ 的雙狹縫即可觀察到 X 射線的干涉條紋",
+      "氫原子光譜的來曼系就有 X 射線的頻率"
+    ],
+    "answerIndex": 2,
+    "explanation": "【X 射線的性質】\n• (A) 錯誤：骨骼影像是利用 X 射線的穿透力，骨骼吸收較多而形成陰影，不是干涉。\n• (B) 錯誤：晶體結構是利用 X 射線在晶格上的繞射（波長與原子間距相近），不是穿透力。\n• (C) 正確：X 射線是電磁波（光子不帶電），不受電場、磁場偏折。\n• (D) 錯誤：X 射線波長約 $\\lambda = \\dfrac{c}{f} \\approx 10^{-9}\\sim10^{-11}\\text{ m}$，比 $0.1\\text{ mm}$ 小太多，條紋間距 $\\dfrac{L\\lambda}{d}$ 小到無法觀察。\n• (E) 錯誤：來曼系最大光子能量約 $13.6\\text{ eV}$，屬紫外線範圍。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "一質點作週期運動，經測量發現，位移平方的平均等於 $X^2$，動量平方的平均等於 $P^2$，總力學能等於 $E$，下列何者的因次與週期相同？",
+    "options": [
+      "$\\sqrt{X^2P^2}\\,/\\,E$",
+      "$X^2P^2\\,/\\,E$",
+      "$\\sqrt{X^2E^2}\\,/\\,P^2$",
+      "$E\\sqrt{X^2/P^2}$",
+      "$E\\sqrt{P^2/X^2}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【因次分析】\n• $[X] = \\text{m}$，$[P] = \\text{kg}\\cdot\\text{m/s}$，$[E] = \\text{J} = \\text{kg}\\cdot\\text{m}^2/\\text{s}^2$\n• $[XP] = \\text{kg}\\cdot\\text{m}^2/\\text{s}$，與 $[E]\\cdot\\text{s}$ 相同，所以\n$$\\left[\\frac{\\sqrt{X^2P^2}}{E}\\right] = \\frac{\\text{kg}\\cdot\\text{m}^2/\\text{s}}{\\text{kg}\\cdot\\text{m}^2/\\text{s}^2} = \\text{s}$$\n與週期的因次相同。其他選項的因次都不是時間。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "一顆落地前沒有旋轉的網球落在水平地面前瞬間的速度為 $(v_x,\\ -v_y)$，其中 $v_x, v_y > 0$，落地反彈後瞬間的速度為 $(v'_x,\\ v'_y)$，其中 $v'_x, v'_y > 0$，如圖 1 所示。若網球和地面間有摩擦力，忽略空氣阻力，則下列有關網球反彈後運動的敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-05.png\" alt=\"圖1 網球落地反彈\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$v'_x > v_x$，且網球以逆時針方向旋轉",
+      "$v'_x > v_x$，且網球以順時針方向旋轉",
+      "$v'_x < v_x$，且網球以逆時針方向旋轉",
+      "$v'_x < v_x$，且網球以順時針方向旋轉",
+      "$v'_x < v_x$，且網球並不旋轉"
+    ],
+    "answerIndex": 3,
+    "explanation": "【摩擦力的效果：減速＋產生力矩】\n網球向右運動，接觸地面時底部相對地面向右滑，地面給球底部向左的摩擦力。\n• 水平方向：摩擦力向左，使水平速度變小，$v'_x < v_x$。\n• 轉動：向左的摩擦力作用在球的最低點，對球心產生順時針的力矩，網球開始以順時針方向旋轉（向右前進時的上旋）。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "學生為探討磁場對腦部神經組織的影響及臨床醫學應用，查閱網頁資訊得知：「利用可耐高電流的金屬線圈，放置頭部上方約數公分處，並施以線圈約千安培、歷時約幾毫秒的脈衝電流，如圖 2 所示（脈衝電流以 $I$ 表示，脈衝電流時間以 $\\Delta t$ 表示）。電流流經線圈產生瞬間的高強度脈衝磁場，磁場穿過頭顱對腦部特定區域產生應電場及應電流，而對腦神經產生電刺激作用。」以下學生討論的內容，何者較合理？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-06.png\" alt=\"圖2 頭部上方的線圈與脈衝電流\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲生：脈衝電流 $I$ 流經線圈會產生高強度的磁場，是電磁感應所造成",
+      "乙生：脈衝電流 $I$ 在線圈產生的脈衝磁場，會在線圈周圍空間產生應電場，是電流磁效應所造成",
+      "丙生：若將脈衝電流改為穩定的直流電流，可持續對腦神經產生電刺激作用",
+      "丁生：脈衝電流通過線圈後的一段時間，通過腦部特定區域的磁通量仍維持固定",
+      "戊生：若脈衝電流最大強度不變，但縮短脈衝電流時間 $\\Delta t$，則在腦部產生的應電場及應電流會增強"
+    ],
+    "answerIndex": 4,
+    "explanation": "【電流磁效應與電磁感應】\n• (A) 錯誤：電流產生磁場是「電流的磁效應」。\n• (B) 錯誤：變動磁場產生應電場是「電磁感應」。\n• (C) 錯誤：穩定直流產生穩定磁場，磁通量不變，不會產生應電場與應電流。\n• (D) 錯誤：脈衝結束後電流為零，磁場與磁通量也回到零，並非維持固定。\n• (E) 正確：由法拉第定律 $\\varepsilon = -\\dfrac{\\Delta\\Phi}{\\Delta t}$，磁通量變化相同但時間更短，應電動勢（應電場）與應電流都會增強。\n\n故選 (E)"
+  },
+  {
+    "id": "109-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "某卡車的水平載貨廂的長度為 $3.0\\text{ m}$，上面載有一裝滿衛生紙的紙箱，其長、寬、高皆為 $0.50\\text{ m}$，緊貼前方駕駛室背面放置，如圖 3 所示。卡車在水平道路上由靜止開始，以加速度 $1.2\\text{ m/s}^2$ 往前方行駛 $10\\text{ s}$，已知紙箱和載貨廂底部間的動摩擦係數為 $0.10$、靜摩擦係數為 $0.11$，取重力加速度為 $10.0\\text{ m/s}^2$，若載貨廂後方的擋板沒有關上，則下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-07.png\" alt=\"圖3 卡車載貨廂與紙箱\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "紙箱自始至終都不會掉出載貨廂",
+      "紙箱在卡車開始行駛後 3 秒至 4 秒間會掉出載貨廂",
+      "紙箱在卡車開始行駛後 4 秒至 5 秒間會掉出載貨廂",
+      "紙箱在卡車開始行駛後 5 秒至 6 秒間會掉出載貨廂",
+      "紙箱在卡車開始行駛後 6 秒至 7 秒間會掉出載貨廂"
+    ],
+    "answerIndex": 3,
+    "explanation": "【相對運動與摩擦力】\n• 最大靜摩擦力能提供的加速度：$\\mu_s g = 0.11 \\times 10 = 1.1\\text{ m/s}^2 < 1.2\\text{ m/s}^2$，紙箱會相對車廂向後滑動。\n• 滑動時動摩擦力使紙箱的加速度為 $\\mu_k g = 1.0\\text{ m/s}^2$（向前），相對車廂的加速度為 $1.2 - 1.0 = 0.2\\text{ m/s}^2$（向後）。\n• 紙箱後緣到車廂尾端距離 $3.0 - 0.5 = 2.5\\text{ m}$：$\\dfrac{1}{2}(0.2)t^2 = 2.5 \\implies t = 5.0\\text{ s}$，此時紙箱開始伸出車尾。\n• 紙箱重心（再滑 $0.25\\text{ m}$）越過車尾時：$\\dfrac{1}{2}(0.2)t^2 = 2.75 \\implies t \\approx 5.2\\text{ s}$，紙箱翻落；整個紙箱離開約在 $t = \\sqrt{30} \\approx 5.5\\text{ s}$。（這段時間都在 $10\\text{ s}$ 加速期間內。）\n\n紙箱在 5 秒至 6 秒間掉出載貨廂。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "若行星繞行恆星的軌道可視為圓形軌道，表 1 所列行星軌道運動的物理量均與其軌道半徑 $R$ 的 $N$ 次方成正比，例如行星週期 $T \\propto R^{3/2}$，即 $N = 3/2$。下列 $N_1$、$N_2$ 與 $N_3$ 的大小關係何者正確？",
+    "svg": "<svg viewBox=\"0 0 504 92\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><text x=\"252\" y=\"20\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 1</text><rect x=\"2\" y=\"28\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">物理量</text><rect x=\"72\" y=\"28\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">繞行週期 T</text><rect x=\"162\" y=\"28\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"207\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">繞行速率 V</text><rect x=\"252\" y=\"28\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">動能 K</text><rect x=\"322\" y=\"28\" width=\"180\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">相對軌道圓心的角動量 L</text><rect x=\"2\" y=\"58\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">N</text><rect x=\"72\" y=\"58\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3/2</text><rect x=\"162\" y=\"58\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"207\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">N₁</text><rect x=\"252\" y=\"58\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">N₂</text><rect x=\"322\" y=\"58\" width=\"180\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">N₃</text></svg>",
+    "options": [
+      "$N_3 > N_1 > N_2$",
+      "$N_3 > N_2 > N_1$",
+      "$N_1 > N_2 > N_3$",
+      "$N_2 > N_1 > N_3$",
+      "$N_2 > N_3 > N_1$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【圓軌道的物理量與半徑】\n萬有引力提供向心力：$\\dfrac{GMm}{R^2} = \\dfrac{mV^2}{R} \\implies V = \\sqrt{\\dfrac{GM}{R}} \\propto R^{-1/2}$\n• $N_1 = -\\dfrac{1}{2}$\n• 動能 $K = \\dfrac{1}{2}mV^2 \\propto R^{-1}$，$N_2 = -1$\n• 角動量 $L = mVR \\propto R^{1/2}$，$N_3 = \\dfrac{1}{2}$\n\n所以 $N_3 > N_1 > N_2$。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "一直徑為 $d$ 的圓柱狀銅棒，加工製成半徑為 $R$、間隙為 $x$ 的開口圓環狀零件，如圖 4 所示。若均勻加熱該零件，則下列有關 $x$、$R$ 和 $d$ 長度變化的敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-09.png\" alt=\"圖4 開口圓環零件\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$x$、$R$ 和 $d$ 皆不變",
+      "$x$ 減少，$R$ 和 $d$ 增加",
+      "$x$ 和 $R$ 減少，$d$ 增加",
+      "$d$ 減少，$x$ 和 $R$ 增加",
+      "$x$、$R$ 和 $d$ 皆增加"
+    ],
+    "answerIndex": 4,
+    "explanation": "【均勻熱膨脹】\n均勻受熱時，物體各部分以相同比例放大，就像把整個零件「照相放大」：所有長度（包括間隙 $x$、半徑 $R$、直徑 $d$）都乘上 $(1 + \\alpha\\Delta T)$。間隙不會因為環變長而被擠小，反而一起變大。\n\n故選 (E)"
+  },
+  {
+    "id": "109-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "一體積可變的密閉容器內裝有可視為理想氣體的定量氦氣，當氣體的體積為 $V_0$、溫度為絕對溫度 $T_0$ 時，氣體分子的方均根速率為 $v_0$。經由某一過程達到熱平衡後，氣體的體積變為 $V_0/2$、溫度變為 $4T_0$，則此時氣體分子的方均根速率為何？",
+    "options": [
+      "$v_0/2$",
+      "$v_0$",
+      "$2v_0$",
+      "$4v_0$",
+      "$8v_0$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【方均根速率只與溫度有關】\n$$v_{rms} = \\sqrt{\\frac{3kT}{m}} \\propto \\sqrt{T}$$\n與體積無關。溫度變為 $4$ 倍，方均根速率變為 $\\sqrt{4} = 2$ 倍，即 $2v_0$。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "進行「載流導線的磁效應」的示範實驗時，將導線連接可變電阻及電源後，卻沒有看到指北針的指針偏轉，下列使用三用電表檢修該實驗電路的方式，何者不正確？",
+    "options": [
+      "為測量導線電阻值，先選擇三用電表的電阻檔，再將兩支量測棒碰觸短路，作歸零校正",
+      "將導線連接電源後，再以電阻檔量測導線電阻，確定導線是否為斷路",
+      "三用電表和電源並聯，以電壓檔量測，確定電源有電壓輸出",
+      "三用電表測得電壓和電阻值，計算電流的大小是否足夠使指針偏轉",
+      "三用電表和電路串聯，以電流檔量測，確定迴路上有電流通過"
+    ],
+    "answerIndex": 1,
+    "explanation": "【三用電表的正確使用】\n• (A) 正確：電阻檔使用前要將兩量測棒短接做歸零調整。\n• (B) 不正確：電阻檔是靠電表內部電池送出電流來量電阻，必須在待測元件「未接電源」時量測；接著電源量測會讀數錯誤，甚至損壞電表。\n• (C) 正確：量電壓時電表與待測元件並聯。\n• (D) 正確：由 $I = \\dfrac{V}{R}$ 估算電流是否足以使指針偏轉。\n• (E) 正確：量電流時電表與電路串聯。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "某城市的輕軌電車自上方電線引電，其引電構造側視圖，如圖 5 所示，電線連接直流高壓電源，在空中沿水平延伸，可視為一載流長直導線。若電線離地面 $3\\text{ m}$ 且電流為 $150\\text{ A}$，為探討電線的高電流產生的磁場是否對行人有害，試計算在其正下方 $1.5\\text{ m}$ 處所產生磁場的量值，約為該處地球磁場的幾倍？（該處的地球磁場約 $0.5\\times10^{-4}\\text{ T}$，磁導率約 $4\\pi\\times10^{-7}\\text{ T}\\cdot\\text{m/A}$）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-12.png\" alt=\"圖5 輕軌電車引電構造側視圖\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "40",
+      "4.0",
+      "0.4",
+      "0.04",
+      "0.004"
+    ],
+    "answerIndex": 2,
+    "explanation": "【長直導線的磁場】\n$$B = \\frac{\\mu_0 I}{2\\pi r} = \\frac{4\\pi\\times10^{-7} \\times 150}{2\\pi \\times 1.5} = 2.0\\times10^{-5}\\text{ T}$$\n$$\\frac{B}{B_{地}} = \\frac{2.0\\times10^{-5}}{0.5\\times10^{-4}} = 0.4$$\n故選 (C)"
+  },
+  {
+    "id": "109-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "有一雙狹縫裝置，其狹縫間距為 $d$，屏幕與雙狹縫平行、距離為 $L$，以一束綠色雷射光經空氣垂直射入雙狹縫，在屏幕上相鄰兩亮紋間距為 $x_1$。若改在平靜的水中進行上述實驗，其餘條件皆相同，在屏幕上相鄰兩亮紋間距為 $x_2$，則 $x_2/x_1$ 之值為何？（已知水的折射率為 $4/3$）",
+    "options": [
+      "3/2",
+      "4/3",
+      "1",
+      "3/4",
+      "2/3"
+    ],
+    "answerIndex": 3,
+    "explanation": "【介質中的波長】\n相鄰亮紋間距 $\\Delta y = \\dfrac{L\\lambda}{d}$。光進入水中，頻率不變、波速變為 $\\dfrac{c}{n}$，波長變為 $\\lambda' = \\dfrac{\\lambda}{n} = \\dfrac{3}{4}\\lambda$。\n$$\\frac{x_2}{x_1} = \\frac{\\lambda'}{\\lambda} = \\frac{3}{4}$$\n故選 (D)"
+  },
+  {
+    "id": "109-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "兩塊完全相同的直角三角形玻璃塊，將其中一塊倒置，使其斜面互相平行，且兩平行斜面間的灰色區域填入某種均勻透明介質，如圖 6 所示。以一道雷射光束由左方垂直入射，若不考慮所有的反射光線，則右方哪些線條是可能的折射光線？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-14.png\" alt=\"圖6 兩直角三角形玻璃塊與 1-9 號出射光線\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1、2、3 中的任一條都有可能",
+      "4、5、6 中的任一條都有可能",
+      "7、8、9 中的任一條都有可能",
+      "1、4、7 中的任一條都有可能",
+      "3、6、9 中的任一條都有可能"
+    ],
+    "answerIndex": 1,
+    "explanation": "【平行界面的折射＝平移】\n• 光垂直射入左邊玻璃塊，方向不變。\n• 光在玻璃→介質→玻璃經過兩個互相平行的斜面：第一次折射偏折多少，第二次就反向偏折回來，所以進入右邊玻璃塊後的方向與原入射方向平行，只是上下平移。\n• 再垂直射出右邊玻璃塊的直立面，方向不變。\n\n所以出射光一定是水平的，平移量視介質折射率比玻璃大、小或相等而定（向上、向下或不偏移），只能是水平的 4、5、6 之一。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "長笛與單簧管為常見的管樂器，長笛的管柱兩端皆為開口，單簧管的管柱一端封閉而另一端開口。吹奏時，透過按壓管柱的音孔，可改變管內空氣柱長度，當吹氣通過簧片或管口產生聲音的頻率與空氣柱振動頻率相同時，會發生共振並在管內空氣柱形成駐波。若忽略聲音駐波的管口修正量，當長笛吹奏出基音的頻率與單簧管第一泛音的頻率相同時，此時長笛空氣柱長度為單簧管空氣柱長度的幾倍？",
+    "options": [
+      "1/2",
+      "2/3",
+      "3/4",
+      "4/3",
+      "3/2"
+    ],
+    "answerIndex": 1,
+    "explanation": "【開管與閉管的駐波】\n• 長笛（兩端開口）基音：$L_1 = \\dfrac{\\lambda}{2}$\n• 單簧管（一端封閉）的自然頻率為 $\\dfrac{v}{4L}$ 的奇數倍，第一泛音為 $3$ 倍：$L_2 = \\dfrac{3\\lambda}{4}$\n頻率相同則波長相同：\n$$\\frac{L_1}{L_2} = \\frac{\\lambda/2}{3\\lambda/4} = \\frac{2}{3}$$\n故選 (B)"
+  },
+  {
+    "id": "109-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "已知氫原子的能階公式為 $E_n = -13.6/n^2\\text{ eV}$，其中 $n$ 為主量子數。一個動能為 $12.3\\text{ eV}$ 的電子與基態的氫原子發生碰撞，下列何者可能為激發後的氫原子所發出的光子能量？",
+    "options": [
+      "0.7 eV",
+      "1.5 eV",
+      "1.9 eV",
+      "12.3 eV",
+      "12.8 eV"
+    ],
+    "answerIndex": 2,
+    "explanation": "【電子碰撞激發】\n電子可以只交出部分動能，氫原子能吸收的能量必須剛好等於能階差：\n• $n=1\\to2$：$13.6 \\times \\dfrac{3}{4} = 10.2\\text{ eV}$\n• $n=1\\to3$：$13.6 \\times \\dfrac{8}{9} \\approx 12.09\\text{ eV}$\n• $n=1\\to4$：$13.6 \\times \\dfrac{15}{16} = 12.75\\text{ eV} > 12.3\\text{ eV}$（不可能）\n\n最高激發到 $n=3$，可能發出的光子：$3\\to2$：$13.6\\left(\\dfrac{1}{4}-\\dfrac{1}{9}\\right) \\approx 1.89\\text{ eV}$、$2\\to1$：$10.2\\text{ eV}$、$3\\to1$：$12.09\\text{ eV}$。選項中只有 $1.9\\text{ eV}$ 符合。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "核反應：甲 → 乙 + 丙，產生的乙、丙粒子垂直經過出紙面方向的均勻磁場之軌跡紀錄，如圖 7 所示。若忽略重力與空氣阻力，已知乙、丙的電量大小相同，且對應軌跡的圓弧半徑比 $R_乙 : R_丙 = 5 : 3$，則甲、乙、丙三粒子動量的量值比 $p_甲 : p_乙 : p_丙$ 為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-17.png\" alt=\"圖7 乙、丙粒子在磁場中的軌跡\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "8 : 5 : 3",
+      "8 : 3 : 5",
+      "2 : 5 : 3",
+      "2 : 3 : 5",
+      "1 : 1 : 1"
+    ],
+    "answerIndex": 0,
+    "explanation": "【磁場中的圓周運動＋動量守恆】\n• 半徑 $R = \\dfrac{p}{qB}$，電量相同，所以 $p_乙 : p_丙 = R_乙 : R_丙 = 5 : 3$。\n• 由圖 7，乙、丙剛產生時的速度方向都與甲原來的運動方向相同（向下），只是因電性相反而分別向左、向右偏轉。\n• 動量守恆：$p_甲 = p_乙 + p_丙 = 5 + 3 = 8$。\n\n所以 $p_甲 : p_乙 : p_丙 = 8 : 5 : 3$。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "實驗室常因應用上的需要而自行設計分壓器。圖 8 為以兩串聯電阻 $R_1$、$R_2$ 和一電壓源 $V_{in}$ 組成分壓器的電路，其中 $R_1 = 75\\ \\Omega$ 及 $V_{in} = 100\\text{ V}$，若負載 $R_L$ 的電壓 $V_{out}$ 為 $25\\text{ V}$，且流經 $R_L$ 的電流為 $900\\text{ mA}$，則 $R_2$ 的電阻值為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-18.png\" alt=\"圖8 分壓器電路\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$25\\ \\Omega$",
+      "$75\\ \\Omega$",
+      "$100\\ \\Omega$",
+      "$175\\ \\Omega$",
+      "$250\\ \\Omega$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【分壓電路】\n• $R_1$ 兩端電壓：$100 - 25 = 75\\text{ V}$，電流 $I_1 = \\dfrac{75}{75} = 1.0\\text{ A}$。\n• 此電流分給 $R_2$ 與 $R_L$（兩者並聯，電壓都是 $25\\text{ V}$）：$I_2 = 1.0 - 0.90 = 0.10\\text{ A}$。\n• $R_2 = \\dfrac{25}{0.10} = 250\\ \\Omega$\n\n故選 (E)"
+  },
+  {
+    "id": "109-ast-phy-19",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "水平面上有一圓盤半徑為 $R$，圓盤邊緣放置一質點，圓盤和質點一起繞圓盤中心旋轉，如圖 9 所示，若圓盤角速度超過 $\\omega$ 時，質點就會脫離圓盤。設重力加速度為 $g$，當質點和圓盤一起旋轉時，下列敘述何者正確？",
+    "svg": "<svg viewBox=\"0 0 240 220\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><defs><marker id=\"m109p19\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 1 L10 5 L0 9 z\" fill=\"#ffeb3b\"/></marker></defs><circle cx=\"110\" cy=\"110\" r=\"90\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"2\"/><circle cx=\"110\" cy=\"110\" r=\"3\" fill=\"#ffffff\"/><line x1=\"110\" y1=\"110\" x2=\"200\" y2=\"110\" stroke=\"#ffffff\" stroke-dasharray=\"5,4\"/><circle cx=\"200\" cy=\"110\" r=\"7\" fill=\"#ffeb3b\"/><text x=\"150\" y=\"130\" fill=\"#ffffff\" font-size=\"15\" font-style=\"italic\">R</text><path d=\"M 212 80 A 100 100 0 0 0 180 30\" fill=\"none\" stroke=\"#ffeb3b\" stroke-width=\"2\" marker-end=\"url(#m109p19)\"/></svg>",
+    "options": [
+      "質點與圓盤間無摩擦力",
+      "質點與圓盤間動摩擦力提供質點向心力",
+      "質點與圓盤間靜摩擦力作負功",
+      "質點與圓盤間動摩擦力作負功",
+      "質點與圓盤間靜摩擦係數 $\\mu_s \\le R\\omega^2/g$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【靜摩擦力提供向心力】\n• (A)(B) 錯誤：質點與圓盤沒有相對滑動，由「靜」摩擦力提供向心力 $f_s = mR\\omega'^2$。\n• (C)(D) 錯誤：等速圓周運動時靜摩擦力指向圓心、與速度垂直，不作功。\n• (E) 正確：角速度超過 $\\omega$ 就脫離，表示在 $\\omega$ 時所需向心力已達（或超過）最大靜摩擦力：$mR\\omega^2 \\ge \\mu_s mg \\implies \\mu_s \\le \\dfrac{R\\omega^2}{g}$。\n\n故選 (E)"
+  },
+  {
+    "id": "109-ast-phy-20",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "points": 3,
+    "question": "蘇花公路山區改善路段（簡稱蘇花改）已全線通車，包含隧道內的部分路段，行車最高速限於 2020 年 6 月 20 日正式調整至 70 公里／小時。目前的科技，可以在長隧道內每隔一段區間建置一個具有自動化設備的偵測點，以兩固定點間之平均速率偵測是否超速。有一輛汽車駛入一長直隧道內，隧道內某段區間的兩偵測點間距離為 4.2 公里，該車之車尾通過第一個偵測點時的速率為 66 公里／小時，汽車以等加速運動行駛 36 秒後速率達到 74 公里／小時，接著以等速率行駛 60 秒，然後以等減速運動行駛。為使汽車在兩偵測點間之平均速率不超過最高速限 70 公里／小時，該車之車尾通過第二個偵測點時的最高速率為何？",
+    "options": [
+      "60 公里／小時",
+      "62 公里／小時",
+      "64 公里／小時",
+      "66 公里／小時",
+      "68 公里／小時"
+    ],
+    "answerIndex": 1,
+    "explanation": "【平均速率與等加速度運動】\n• 以 $70\\text{ km/h}$ 走完 $4.2\\text{ km}$ 需 $0.06\\text{ h} = 216\\text{ s}$，總時間至少 $216\\text{ s}$。\n• 加速段 $36\\text{ s}$：平均速率 $\\dfrac{66+74}{2} = 70\\text{ km/h}$，距離 $\\dfrac{70}{3.6}\\times36 = 700\\text{ m}$。\n• 等速段 $60\\text{ s}$：$\\dfrac{74}{3.6}\\times60 \\approx 1233.3\\text{ m}$。\n• 剩下 $4200 - 1933.3 = 2266.7\\text{ m}$，時間至多 $216 - 96 = 120\\text{ s}$（時間越短末速越大，取 $120\\text{ s}$）。\n等減速段平均速率：$\\dfrac{2266.7}{120}\\text{ m/s} = 68\\text{ km/h} = \\dfrac{74 + v}{2} \\implies v = 62\\text{ km/h}$\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-phy-21",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "籃球比賽中，進攻球隊的當家射手運球在三分線外，突然急停跳投，以與水平面夾角 $\\theta$（$\\cos\\theta = \\dfrac{4}{5}$）的仰角、初速 $v_0 = 9.00\\text{ m/s}$ 將籃球投出，並通過籃框中心入網，已知籃框距離水平地面的高度 $H = 3.05\\text{ m}$，籃球被投出時，距離地面高度 $h$、與籃框中心點的水平距離 $d = 7.20\\text{ m}$，若將籃球視為質點，且忽略籃球的旋轉與空氣阻力，則下列有關籃球運動狀態的描述哪些正確？（重力加速度 $g = 10.0\\text{ m/s}^2$）",
+    "options": [
+      "在運動的過程中，籃球的動能守恆",
+      "籃球投出時的初始速率比其通過籃框中心時的速率大",
+      "籃球從被投出至運動軌跡最高點經過的時間約 $0.72\\text{ s}$",
+      "籃球從被投出至通過籃框中心經過的時間約 $1.00\\text{ s}$",
+      "籃球被投出時，距離地面高度 $h$ 約 $2.65\\text{ m}$"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "【斜拋運動】\n$v_x = 9.00 \\times \\dfrac{4}{5} = 7.20\\text{ m/s}$，$v_y = 9.00 \\times \\dfrac{3}{5} = 5.40\\text{ m/s}$\n• (A) 錯誤：守恆的是力學能，動能會隨高度改變。\n• (D) 正確：$t = \\dfrac{d}{v_x} = \\dfrac{7.20}{7.20} = 1.00\\text{ s}$\n• (E) 正確：$1.00\\text{ s}$ 時的上升量 $\\Delta y = 5.40(1.00) - \\dfrac{1}{2}(10)(1.00)^2 = 0.40\\text{ m}$，所以 $h = 3.05 - 0.40 = 2.65\\text{ m}$。\n• (B) 正確：籃框比出手點高，由力學能守恆，入框時速率較小。\n• (C) 錯誤：到最高點時間 $\\dfrac{v_y}{g} = 0.54\\text{ s}$。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "109-ast-phy-22",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "下列有關聲波的敘述，哪些正確？",
+    "options": [
+      "探測魚群的聲納主要是利用聲波的反射性質來探測水中魚群的位置",
+      "聲波由水中傳入空氣中時，其波長變長",
+      "若月球上空有東西爆炸，在爆炸處附近的太空人聽不到爆炸聲",
+      "甲的聲音低沉但較大聲，乙的聲音尖銳但較小聲。在無風的環境，兩人站在與丙等距離的兩個地點同時向丙喊話，丙會先聽到甲的聲音再聽到乙的聲音",
+      "日常生活中聲波的繞射現象比可見光的繞射現象容易顯現，主要原因是聲波的波長與一般物體的尺度較為接近，而可見光的波長太短"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【聲波的性質】\n• (A) 正確：聲納發出聲波，由回聲的時間與方向判斷魚群位置。\n• (B) 錯誤：頻率不變，聲速在空氣中（約 $340\\text{ m/s}$）比水中（約 $1500\\text{ m/s}$）慢，波長變短。\n• (C) 正確：月球幾乎沒有大氣，聲波無法在真空中傳播。\n• (D) 錯誤：同一介質中聲速與頻率、響度無關，兩人的聲音同時到達。\n• (E) 正確：繞射明顯的條件是波長與障礙物尺度相近；聲波波長約數公分到數公尺，可見光只有數百奈米。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "109-ast-phy-23",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "智慧型手機的照相裝置主要包括兩部分：鏡頭透鏡和位於成像平面的感光元件。為了使遠近不同的物體均能成像於感光元件上，透鏡和感光元件之間的距離，需靠手機的自動控制機件，使其在 $4.0\\text{ mm}$ 到 $4.5\\text{ mm}$ 之間變動。已知照相裝置可以將無窮遠處的物體透過透鏡成像於感光元件上，若鏡頭透鏡可視為單一薄透鏡，且透鏡的焦距固定，則下列敘述哪些正確？",
+    "options": [
+      "鏡頭透鏡為凹透鏡",
+      "鏡頭透鏡的焦距約為 $4.0\\text{ mm}$",
+      "鏡頭前的物體在感光元件上所成的像為正立實像",
+      "鏡頭前的物體，只要其物距大於 $36\\text{ mm}$，都可以清楚對焦",
+      "當物距為 $4.0\\text{ m}$ 時，透鏡和感光元件之間的距離為 $4.5\\text{ mm}$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "【凸透鏡成像】\n• (A) 錯誤：要在感光元件上成實像，必須是凸透鏡。\n• (B) 正確：無窮遠物體成像在焦點，最短像距 $4.0\\text{ mm}$ 即焦距 $f = 4.0\\text{ mm}$。\n• (C) 錯誤：凸透鏡成的實像是倒立的。\n• (D) 正確：像距最大 $4.5\\text{ mm}$ 時，$\\dfrac{1}{p} = \\dfrac{1}{4.0} - \\dfrac{1}{4.5} = \\dfrac{1}{36}$，$p = 36\\text{ mm}$；物距更大時像距介於 $4.0$ 與 $4.5\\text{ mm}$ 之間，都能對焦。\n• (E) 錯誤：$p = 4.0\\text{ m} = 4000\\text{ mm}$，$q = \\dfrac{pf}{p - f} = \\dfrac{4000 \\times 4}{3996} \\approx 4.004\\text{ mm}$，不是 $4.5\\text{ mm}$。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "109-ast-phy-24",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "高速鐵路列車通常使用磁剎車系統。磁剎車工作原理可簡述如下：將磁鐵的 N 極靠近一塊正在以逆時鐘方向旋轉的圓形鋁盤，使磁力線垂直射入（以 × 表示）鋁盤內，鋁盤隨即減速，如圖 10 所示。圖中磁鐵左方鋁盤的甲區域（虛線區域）朝磁鐵方向運動，磁鐵右方鋁盤的乙區域（虛線區域）朝離開磁鐵方向運動。下列有關鋁盤磁剎車的敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-24.png\" alt=\"圖10 鋁盤磁剎車\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "鋁盤甲區域的應電流會產生穿出紙面的應磁場",
+      "鋁盤乙區域的應電流會產生穿出紙面的應磁場",
+      "磁場與應電流之間的作用力，會產生將鋁盤減速旋轉的淨力矩",
+      "應電流在鋁盤產生的熱能，是將鋁盤減速的最主要原因",
+      "若將實心鋁盤換成布滿小空洞的鋁盤，則磁鐵對空洞鋁盤所產生的減速效果與實心鋁盤相同"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "【渦電流與冷次定律】\n• (A) 正確：甲區域進入磁場，穿入紙面的磁通量增加，由冷次定律，應電流產生穿出紙面的磁場來反抗。\n• (B) 錯誤：乙區域離開磁場，穿入紙面的磁通量減少，應磁場方向為穿入紙面。\n• (C) 正確：渦電流在磁場中受力，方向總是反抗鋁盤的相對運動，形成使鋁盤減速的力矩。\n• (D) 錯誤：減速是因為磁力的力矩；熱能是動能被轉換後的結果，不是減速的原因。\n• (E) 錯誤：空洞會截斷渦電流的路徑，渦電流變小，減速效果變差。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "109-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】兩物體碰撞並與彈簧作用的運動：大小相同的甲、乙兩個均勻物體，質量分別為 $3m$、$m$。甲物體自靜止沿固定於地面的光滑曲面下滑後，與靜止在光滑水平地面上的乙物體發生正面彈性碰撞，如圖 11 所示。若甲物體的質心下降高度為 $h$，重力加速度為 $g$。\n\n1. 碰撞後瞬間，甲、乙兩物體的速率各為多少？（以 $m$、$g$、$h$ 表示）（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-non-1.png\" alt=\"圖11 甲沿曲面下滑撞乙、圖12 乙接觸彈簧\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$v'_甲 = \\dfrac{1}{2}\\sqrt{2gh}$",
+      "$v'_乙 = \\dfrac{3}{2}\\sqrt{2gh}$"
+    ],
+    "blankLabels": [
+      "甲的速率",
+      "乙的速率"
+    ],
+    "explanation": "【力學能守恆＋彈性碰撞】\n• 甲滑下後的速率：$3mgh = \\dfrac{1}{2}(3m)v_甲^2 \\implies v_甲 = \\sqrt{2gh}$\n• 一維彈性碰撞（乙原本靜止）：\n$$v'_甲 = \\frac{3m - m}{3m + m}v_甲 = \\frac{1}{2}\\sqrt{2gh},\\qquad v'_乙 = \\frac{2(3m)}{3m + m}v_甲 = \\frac{3}{2}\\sqrt{2gh}$$\n（也可用動量守恆加上「碰撞前後相對速度大小不變」求得。）\n\n答：甲 $\\dfrac{1}{2}\\sqrt{2gh}$，乙 $\\dfrac{3}{2}\\sqrt{2gh}$，兩者都向右。"
+  },
+  {
+    "id": "109-ast-phy-non-1-2a",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】兩物體碰撞並與彈簧作用的運動：大小相同的甲、乙兩個均勻物體，質量分別為 $3m$、$m$。甲物體自靜止沿固定於地面的光滑曲面下滑後，與靜止在光滑水平地面上的乙物體發生正面彈性碰撞，如圖 11 所示。若甲物體的質心下降高度為 $h$，重力加速度為 $g$。\n承第 1 小題，碰撞後隔一段時間，當甲、乙兩物體相距 $r$ 時，乙物體恰正向接觸前方一處於自然長度、力常數為 $k$、右端固定於牆壁之理想彈簧（其質量可忽略不計），如圖 12 所示。乙物體壓縮彈簧後反彈，當作簡諧運動的彈簧第一次恢復至原自然長度時，乙物體恰與甲物體發生第二次碰撞。\n\n2.(a) 乙物體剛接觸彈簧時，甲、乙兩物體間的距離 $r$ 為何？（以 $m$、$g$、$h$、$k$ 表示）（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-non-1.png\" alt=\"圖11 甲沿曲面下滑撞乙、圖12 乙接觸彈簧\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$r = \\dfrac{\\pi}{2}\\sqrt{\\dfrac{2mgh}{k}}$"
+    ],
+    "blankLabels": [
+      "距離 r"
+    ],
+    "explanation": "【簡諧運動的半週期】\n乙從接觸彈簧到彈簧第一次恢復原長，正好是簡諧運動的半個週期：\n$$t = \\frac{T}{2} = \\pi\\sqrt{\\frac{m}{k}}$$\n這段時間乙回到接觸點，而甲以 $v'_甲$ 等速前進了 $r$ 剛好也到達該點（第二次碰撞）：\n$$r = v'_甲 t = \\frac{1}{2}\\sqrt{2gh}\\cdot\\pi\\sqrt{\\frac{m}{k}} = \\frac{\\pi}{2}\\sqrt{\\frac{2mgh}{k}}$$\n\n答：$r = \\dfrac{\\pi}{2}\\sqrt{\\dfrac{2mgh}{k}}$"
+  },
+  {
+    "id": "109-ast-phy-non-1-2b",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】兩物體碰撞並與彈簧作用的運動：大小相同的甲、乙兩個均勻物體，質量分別為 $3m$、$m$。甲物體自靜止沿固定於地面的光滑曲面下滑後，與靜止在光滑水平地面上的乙物體發生正面彈性碰撞，如圖 11 所示。若甲物體的質心下降高度為 $h$，重力加速度為 $g$。\n承第 1 小題，碰撞後隔一段時間，當甲、乙兩物體相距 $r$ 時，乙物體恰正向接觸前方一處於自然長度、力常數為 $k$、右端固定於牆壁之理想彈簧（其質量可忽略不計），如圖 12 所示。乙物體壓縮彈簧後反彈，當作簡諧運動的彈簧第一次恢復至原自然長度時，乙物體恰與甲物體發生第二次碰撞。\n\n2.(b) 在乙物體與甲物體發生第二次碰撞前，從彈簧開始接觸乙物體至彈簧到達最大壓縮量時，彈力對乙物體所作的功與最大壓縮量之值各為何？（以 $m$、$g$、$h$、$k$ 表示）（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-non-1.png\" alt=\"圖11 甲沿曲面下滑撞乙、圖12 乙接觸彈簧\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$W = -\\dfrac{9}{4}mgh$",
+      "$A = \\dfrac{3}{2}\\sqrt{\\dfrac{2mgh}{k}}$"
+    ],
+    "blankLabels": [
+      "彈力作的功 W",
+      "最大壓縮量 A"
+    ],
+    "explanation": "【功能定理與彈力位能】\n• 最大壓縮時乙速度為零，由功能定理：\n$$W = 0 - \\frac{1}{2}m\\left(\\frac{3}{2}\\sqrt{2gh}\\right)^2 = -\\frac{9}{4}mgh$$\n• 乙的動能全部轉為彈力位能：$\\dfrac{9}{4}mgh = \\dfrac{1}{2}kA^2 \\implies A = \\sqrt{\\dfrac{9mgh}{2k}} = \\dfrac{3}{2}\\sqrt{\\dfrac{2mgh}{k}}$\n\n答：$W = -\\dfrac{9}{4}mgh$（負功），$A = \\dfrac{3}{2}\\sqrt{\\dfrac{2mgh}{k}}$"
+  },
+  {
+    "id": "109-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】物理老師在課堂介紹平行板的等電位線與電場，同學為探討其他形狀電極等電位線與電場的分布情形，向實驗室借用到 3 個圓柱形金屬電極（圓柱直徑 3 公分、高度 5 公分）、1 條長條形金屬電極（長、寬、高各為 30 公分、3 公分、5 公分）、2 組金屬探針、1 台直流電源供應器（$0\\sim15\\text{ V}$）、數條導線、數張方格紙，欲進行「等電位線與電場」的實驗。\n\n1. 除上述所列，尚需要哪些必要的實驗器材，才能完成等電位線與電場的實驗？（列出至少兩項器材名稱）（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "(1) 可讓電流通過但不會短路的導電介質，例如電場形成盤、裝導電水溶液（鹽水）的透明水槽；(2) 量測電壓或電流的儀器，例如三用電表、伏特計、檢流計。"
+    ],
+    "blankLabels": [
+      "所需器材"
+    ],
+    "explanation": "【等電位線實驗的器材】\n電極之間需要一個「有電阻、能導電」的平面介質（如導電紙、電場形成盤或淺鹽水槽），電流才會在平面上分布，形成可量測的電位差；同時需要檢流計或電表，找出兩探針間電位差為零（電流為零）的位置。\n\n答：導電介質（電場形成盤／鹽水槽等）與量測儀器（檢流計／三用電表等）。"
+  },
+  {
+    "id": "109-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】物理老師在課堂介紹平行板的等電位線與電場，同學為探討其他形狀電極等電位線與電場的分布情形，向實驗室借用到 3 個圓柱形金屬電極（圓柱直徑 3 公分、高度 5 公分）、1 條長條形金屬電極（長、寬、高各為 30 公分、3 公分、5 公分）、2 組金屬探針、1 台直流電源供應器（$0\\sim15\\text{ V}$）、數條導線、數張方格紙，欲進行「等電位線與電場」的實驗。\n\n2. 實驗器材架設完畢後，寫出如何以金屬探針量測得到等電位線，並說明如何繪出電力線的方法。（3 分）",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "固定一根探針，移動另一根探針，找出檢流計讀數為零的多個位置並連成線，即為一條等電位線；改變固定探針的位置重複上述步驟，得到多條等電位線；再畫出處處與等電位線垂直的線，即為電力線，方向由正極指向負極。"
+    ],
+    "blankLabels": [
+      "方法"
+    ],
+    "explanation": "【零電流法找等電位點】\n• 兩探針接在檢流計兩端，讀數為零表示兩探針所在位置電位相等。\n• 固定一根、移動另一根，記錄多個零讀數的點，連起來就是一條等電位線；改變固定點可得到不同電位的等電位線。\n• 電力線處處與等電位線垂直，從正電極出發、終止於負電極，依此畫出電力線。\n\n答：以零電流法找出等電位點連成等電位線，再畫垂直於等電位線、由正極指向負極的電力線。"
+  },
+  {
+    "id": "109-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】物理老師在課堂介紹平行板的等電位線與電場，同學為探討其他形狀電極等電位線與電場的分布情形，向實驗室借用到 3 個圓柱形金屬電極（圓柱直徑 3 公分、高度 5 公分）、1 條長條形金屬電極（長、寬、高各為 30 公分、3 公分、5 公分）、2 組金屬探針、1 台直流電源供應器（$0\\sim15\\text{ V}$）、數條導線、數張方格紙，欲進行「等電位線與電場」的實驗。\n\n3. 若兩圓柱形金屬電極相距 20 公分，左邊圓柱為正極、右邊圓柱為負極（相對位置的俯視圖，如圖 13 所示），畫出兩圓柱形金屬電極四周的等電位線與電力線的分布情形（以虛線代表等電位線，以實線代表電力線）。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-non-2.png\" alt=\"圖13 兩圓柱電極、圖14 長條形與圓柱電極\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "電力線（實線）由左邊正極發出，呈弧形彎向右邊負極，兩電極連線上為直線，越外側弧度越大，並標示由 + 指向 − 的箭頭；等電位線（虛線）在兩電極附近是包圍電極的封閉曲線，中垂線為一條直的等電位線，且等電位線與電力線處處垂直。圖形左右對稱。"
+    ],
+    "blankLabels": [
+      "作圖要點"
+    ],
+    "explanationSvg": "<svg viewBox=\"0 0 400 240\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><defs><marker id=\"m109n23a\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"5\" markerHeight=\"5\" orient=\"auto\"><path d=\"M0 1 L10 5 L0 9 z\" fill=\"#ffeb3b\"/></marker></defs><g fill=\"none\" stroke=\"#ffeb3b\" stroke-width=\"1.8\"><path d=\"M 112 120 L 288 120\" marker-mid=\"url(#m109n23a)\"/><path d=\"M 110 112 Q 200 60 290 112\"/><path d=\"M 110 128 Q 200 180 290 128\"/><path d=\"M 106 108 Q 200 10 294 108\"/><path d=\"M 106 132 Q 200 230 294 132\"/><path d=\"M 92 120 L 30 120\"/><path d=\"M 308 120 L 370 120\"/><path d=\"M 94 110 L 40 70\"/><path d=\"M 94 130 L 40 170\"/><path d=\"M 306 110 L 360 70\"/><path d=\"M 306 130 L 360 170\"/></g><g fill=\"#ffeb3b\"><path d=\"M 205 116 L 215 120 L 205 124 z\"/><path d=\"M 205 81 L 215 86 L 205 90 z\"/><path d=\"M 205 150 L 215 154 L 205 159 z\"/></g><g fill=\"none\" stroke=\"#80deea\" stroke-width=\"1.5\" stroke-dasharray=\"6,5\"><line x1=\"200\" y1=\"10\" x2=\"200\" y2=\"230\"/><ellipse cx=\"100\" cy=\"120\" rx=\"30\" ry=\"40\"/><ellipse cx=\"300\" cy=\"120\" rx=\"30\" ry=\"40\"/><path d=\"M 150 20 Q 135 120 150 220\"/><path d=\"M 250 20 Q 265 120 250 220\"/></g><circle cx=\"100\" cy=\"120\" r=\"12\" fill=\"#1b4332\" stroke=\"#ffffff\" stroke-width=\"2\"/><circle cx=\"300\" cy=\"120\" r=\"12\" fill=\"#1b4332\" stroke=\"#ffffff\" stroke-width=\"2\"/><text x=\"94\" y=\"126\" fill=\"#ffffff\" font-size=\"18\">+</text><text x=\"296\" y=\"126\" fill=\"#ffffff\" font-size=\"18\">−</text><text x=\"10\" y=\"236\" fill=\"#ffeb3b\" font-size=\"12\">實線：電力線（+ → −）</text><text x=\"200\" y=\"236\" fill=\"#80deea\" font-size=\"12\">虛線：等電位線</text></svg>",
+    "explanation": "【一正一負兩點電荷（電偶極）的電場】\n兩圓柱電極的俯視圖可看成一正一負的兩點電荷：\n• 電力線從正極出發、終止於負極，中間那條沿兩極連線為直線，其他呈弧形向外鼓。\n• 等電位線與電力線處處垂直：靠近電極處是包圍電極的封閉曲線，兩極正中間的垂直平分線是一條直的等電位線（電位為兩極的平均）。\n• 整體圖形以中垂線為軸左右對稱（電力線方向一致由左向右）。\n\n答：見下方參考圖（實線為電力線、虛線為等電位線）。"
+  },
+  {
+    "id": "109-ast-phy-non-2-4",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】物理老師在課堂介紹平行板的等電位線與電場，同學為探討其他形狀電極等電位線與電場的分布情形，向實驗室借用到 3 個圓柱形金屬電極（圓柱直徑 3 公分、高度 5 公分）、1 條長條形金屬電極（長、寬、高各為 30 公分、3 公分、5 公分）、2 組金屬探針、1 台直流電源供應器（$0\\sim15\\text{ V}$）、數條導線、數張方格紙，欲進行「等電位線與電場」的實驗。\n\n4. 根據平行板電極與圓柱電極的實驗，推論並畫出一個圓柱形與一條長條形金屬電極之間的電力線分布情形（圓柱形與長條形金屬電極相距 20 公分，左邊長條形金屬為正極、右邊圓柱形金屬為負極，相對位置的俯視圖，如圖 14 所示）。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-non-2.png\" alt=\"圖13 兩圓柱電極、圖14 長條形與圓柱電極\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "電力線由左邊長條形正極垂直發出（靠近長條電極處像平行板，近似平行），越接近右邊圓柱負極越向其匯聚，最後垂直進入圓柱表面；中間一條沿兩電極連線為直線，箭頭由正極指向負極，圖形上下對稱。"
+    ],
+    "blankLabels": [
+      "作圖要點"
+    ],
+    "explanationSvg": "<svg viewBox=\"0 0 320 220\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><rect x=\"40\" y=\"15\" width=\"14\" height=\"190\" fill=\"#1b4332\" stroke=\"#ffffff\" stroke-width=\"2\"/><text x=\"42\" y=\"36\" fill=\"#ffffff\" font-size=\"14\">+</text><text x=\"42\" y=\"61\" fill=\"#ffffff\" font-size=\"14\">+</text><text x=\"42\" y=\"86\" fill=\"#ffffff\" font-size=\"14\">+</text><text x=\"42\" y=\"111\" fill=\"#ffffff\" font-size=\"14\">+</text><text x=\"42\" y=\"136\" fill=\"#ffffff\" font-size=\"14\">+</text><text x=\"42\" y=\"161\" fill=\"#ffffff\" font-size=\"14\">+</text><text x=\"42\" y=\"186\" fill=\"#ffffff\" font-size=\"14\">+</text><circle cx=\"250\" cy=\"110\" r=\"11\" fill=\"#1b4332\" stroke=\"#ffffff\" stroke-width=\"2\"/><text x=\"245\" y=\"115\" fill=\"#ffffff\" font-size=\"16\">−</text><g fill=\"none\" stroke=\"#ffeb3b\" stroke-width=\"1.8\"><path d=\"M 54 110 L 238 110\"/><path d=\"M 54 80 Q 170 80 240 104\"/><path d=\"M 54 140 Q 170 140 240 116\"/><path d=\"M 54 50 Q 180 45 243 101\"/><path d=\"M 54 170 Q 180 175 243 119\"/></g><g fill=\"#ffeb3b\"><path d=\"M 140 106 L 150 110 L 140 114 z\"/><path d=\"M 140 77 L 150 81 L 140 86 z\"/><path d=\"M 140 135 L 150 139 L 140 144 z\"/></g><text x=\"70\" y=\"214\" fill=\"#ffeb3b\" font-size=\"12\">電力線垂直離開長條電極，向圓柱電極匯聚</text></svg>",
+    "explanation": "【長條電極與點狀電極之間的電場】\n• 導體表面是等電位面，電力線必定垂直於導體表面：從長條形電極垂直出發、垂直進入圓柱電極。\n• 長條電極附近的電場類似平行板，電力線近似平行；接近圓柱時逐漸向圓柱匯聚，像點電荷附近的放射狀分布。\n• 中央電力線沿兩電極的連線，整體上下對稱。\n\n答：見下方參考圖。"
   }
 ]
