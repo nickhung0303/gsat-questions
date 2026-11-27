@@ -107571,5 +107571,821 @@
     ],
     "answerIndex": 0,
     "explanation": "下午茶約在四點；high tea 搭配工人下班回家後的正餐，時間較晚。\n(C) 凱薩琳從小在葡萄牙就愛喝茶；(D) 下午茶由貝德福公爵夫人開始，三明治伯爵推廣的是三明治。\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-eng-01",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. Posters of the local rock band were displayed in store windows to promote the sale of their ______ tickets.",
+    "options": [
+      "journey",
+      "traffic",
+      "concert",
+      "record"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：店家櫥窗張貼本地搖滾樂團的海報，以促銷他們的演唱會門票。\nconcert ticket「演唱會門票」。\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-eng-02",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. Maria didn't want to deliver the bad news to David about his failing the job interview. She herself was quite ______ about it.",
+    "options": [
+      "awful",
+      "drowsy",
+      "tragic",
+      "upset"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：Maria 不想告訴 David 他面試沒過的壞消息，她自己也很難過。\n• (D) upset 難過的、心煩的\n\n故選 (D)"
+  },
+  {
+    "id": "105-gsat-eng-03",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. The newcomer speaks with a strong Irish ______; he must be from Ireland.",
+    "options": [
+      "accent",
+      "identity",
+      "gratitude",
+      "signature"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：新來的人說話有很重的愛爾蘭口音，他一定是愛爾蘭人。\n• (A) accent 口音\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-eng-04",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. Although Maggie has been physically ______ to her wheelchair since the car accident, she does not limit herself to indoor activities.",
+    "options": [
+      "ceased",
+      "committed",
+      "confined",
+      "conveyed"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：雖然車禍後 Maggie 身體只能困在輪椅上，她並不限制自己只做室內活動。\nbe confined to…「被限制在…」。\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-eng-05",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of ______ in case of an accident.",
+    "options": [
+      "injury",
+      "offense",
+      "sacrifice",
+      "victim"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：所有乘客都必須繫安全帶，以降低發生意外時受傷的風險。\n• (A) injury 受傷\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-eng-06",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. The principal of this school is a man of exceptional ______. He sets aside a part of his salary for a scholarship fund for children from needy families.",
+    "options": [
+      "security",
+      "maturity",
+      "facility",
+      "generosity"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：這位校長非常慷慨，撥出部分薪水為清寒家庭的孩子設立獎學金。\n• (D) generosity 慷慨\n\n故選 (D)"
+  },
+  {
+    "id": "105-gsat-eng-07",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. The science teacher always ______ the use of the laboratory equipment before she lets her students use it on their own.",
+    "options": [
+      "tolerates",
+      "associates",
+      "demonstrates",
+      "exaggerates"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：自然老師總是先示範實驗器材的用法，才讓學生自己使用。\n• (C) demonstrate 示範\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-eng-08",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. Most of the area is covered by woods, where bird species are so ______ that it is a paradise for birdwatchers.",
+    "options": [
+      "durable",
+      "private",
+      "realistic",
+      "numerous"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：這一帶大部分是樹林，鳥類種類非常多，是賞鳥人的天堂。\n• (D) numerous 眾多的\n\n故選 (D)"
+  },
+  {
+    "id": "105-gsat-eng-09",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. In most cases, the committee members can reach agreement quickly. ______, however, they differ greatly in opinion and have a hard time making decisions.",
+    "options": [
+      "Occasionally",
+      "Automatically",
+      "Enormously",
+      "Innocently"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：大多數情況下委員們很快就能達成共識；然而「偶爾」他們意見分歧，很難做決定。\n• (A) occasionally 偶爾\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-eng-10",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. Many people try to save a lot of money before ______, since having enough money would give them a sense of security for their future.",
+    "options": [
+      "isolation",
+      "promotion",
+      "retirement",
+      "announcement"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：許多人在退休前努力存很多錢，因為有足夠的錢讓他們對未來有安全感。\n• (C) retirement 退休\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-eng-11",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "11. In winter, our skin tends to become dry and ______, a problem which is usually treated by applying lotions or creams.",
+    "options": [
+      "alert",
+      "itchy",
+      "steady",
+      "flexible"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：冬天皮膚容易又乾又癢，通常塗乳液或乳霜處理。\n• (B) itchy 癢的\n\n故選 (B)"
+  },
+  {
+    "id": "105-gsat-eng-12",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "12. Benson married Julie soon after he had ______ her heart and gained her parents' approval.",
+    "options": [
+      "conquered",
+      "estimated",
+      "guaranteed",
+      "intensified"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：Benson 贏得 Julie 的芳心並得到她父母同意後，很快就娶了她。\nconquer one's heart「贏得某人的芳心」。\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-eng-13",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "13. The recent flood completely ______ my parents' farm. The farmhouse and fruit trees were all gone and nothing was left.",
+    "options": [
+      "ruined",
+      "cracked",
+      "hastened",
+      "neglected"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：最近的洪水徹底毀了我父母的農場，農舍和果樹全都沒了。\n• (A) ruin 毀壞\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-eng-14",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "14. The results of this survey are not reliable because the people it questioned were not a typical or ______ sample of the entire population that was studied.",
+    "options": [
+      "primitive",
+      "spiritual",
+      "representative",
+      "informative"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：這份調查結果不可靠，因為受訪者不是整個研究母體中典型或具代表性的樣本。\nrepresentative sample「具代表性的樣本」。\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-eng-15",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "15. In line with the worldwide green movement, carmakers have been working hard to make their new models more ______ friendly to reduce pollution.",
+    "options": [
+      "liberally",
+      "individually",
+      "financially",
+      "environmentally"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：配合全球綠色運動，汽車製造商努力讓新車款更環保以減少汙染。\nenvironmentally friendly「環保的」。\n\n故選 (D)"
+  },
+  {
+    "id": "105-gsat-eng-16",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nBill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of ＄2,000 to return the boy. 【 16 】, their plan quickly got out of control. Their young captive 【 17 】 to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to 【 18 】 the little terror. They lowered the price to ＄1,500. Yet, knowing perfectly well 【 19 】 a troublemaker his son was, the father refused to give them any money. 【 20 】, he asked the kidnappers to pay him ＄250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and ＄250 to the banker and fled town as quickly as they could.\n16.",
+    "options": [
+      "However",
+      "Otherwise",
+      "Furthermore",
+      "Accordingly"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：他們要求贖金；「然而」計畫很快就失控了。前後語意轉折，用 However。\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-eng-17",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nBill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of ＄2,000 to return the boy. 【 16 】, their plan quickly got out of control. Their young captive 【 17 】 to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to 【 18 】 the little terror. They lowered the price to ＄1,500. Yet, knowing perfectly well 【 19 】 a troublemaker his son was, the father refused to give them any money. 【 20 】, he asked the kidnappers to pay him ＄250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and ＄250 to the banker and fled town as quickly as they could.\n17.",
+    "options": [
+      "made believe",
+      "got along",
+      "turned out",
+      "felt like"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：他們綁來的小孩「結果是」個頑皮的男孩。turn out to be…「結果是…」。\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-eng-18",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nBill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of ＄2,000 to return the boy. 【 16 】, their plan quickly got out of control. Their young captive 【 17 】 to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to 【 18 】 the little terror. They lowered the price to ＄1,500. Yet, knowing perfectly well 【 19 】 a troublemaker his son was, the father refused to give them any money. 【 20 】, he asked the kidnappers to pay him ＄250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and ＄250 to the banker and fled town as quickly as they could.\n18.",
+    "options": [
+      "hold on to",
+      "get rid of",
+      "make fun of",
+      "take advantage of"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：兩人很快就絕望了，決定「擺脫」這個小惡魔，於是降低贖金。get rid of「擺脫」。\n\n故選 (B)"
+  },
+  {
+    "id": "105-gsat-eng-19",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nBill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of ＄2,000 to return the boy. 【 16 】, their plan quickly got out of control. Their young captive 【 17 】 to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to 【 18 】 the little terror. They lowered the price to ＄1,500. Yet, knowing perfectly well 【 19 】 a troublemaker his son was, the father refused to give them any money. 【 20 】, he asked the kidnappers to pay him ＄250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and ＄250 to the banker and fled town as quickly as they could.\n19.",
+    "options": [
+      "how",
+      "that",
+      "why",
+      "what"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：父親很清楚兒子是個「多麼」愛惹麻煩的人。what a + 名詞「多麼…的…」，引導名詞子句作 know 的受詞。\n\n故選 (D)"
+  },
+  {
+    "id": "105-gsat-eng-20",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nBill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of ＄2,000 to return the boy. 【 16 】, their plan quickly got out of control. Their young captive 【 17 】 to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to 【 18 】 the little terror. They lowered the price to ＄1,500. Yet, knowing perfectly well 【 19 】 a troublemaker his son was, the father refused to give them any money. 【 20 】, he asked the kidnappers to pay him ＄250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and ＄250 to the banker and fled town as quickly as they could.\n20.",
+    "options": [
+      "Namely",
+      "Altogether",
+      "Simply",
+      "Instead"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：父親拒絕付錢，「反而」要綁匪付他 250 元才肯把孩子接回去。Instead「反而」。\n\n故選 (D)"
+  },
+  {
+    "id": "105-gsat-eng-21",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nA polygraph machine, also known as a \"lie detector,\" is a common part of criminal investigations. The instrument is used to measure 【 21 】 a person's body reacts to questions. The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.\n\nWhen a person takes a polygraph test, four to six wires, called sensors, are 【 22 】 to different parts of his body. The sensors pick up signals from the person's blood pressure, pulse, and perspiration. 【 23 】 the process of questioning, all the signals are recorded on a single strip of moving paper. Once the questions are finished, the examiner analyzes the results to determine if the person tested 【 24 】 truthful.\n\nWell-trained examiners can usually detect lying with a high degree of 【 25 】 when they use a polygraph. However, because different people behave differently when lying, a polygraph test is by no means perfect.\n21.",
+    "options": [
+      "what",
+      "when",
+      "how",
+      "why"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：測謊機用來測量一個人的身體「如何」對問題做出反應。\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-eng-22",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nA polygraph machine, also known as a \"lie detector,\" is a common part of criminal investigations. The instrument is used to measure 【 21 】 a person's body reacts to questions. The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.\n\nWhen a person takes a polygraph test, four to six wires, called sensors, are 【 22 】 to different parts of his body. The sensors pick up signals from the person's blood pressure, pulse, and perspiration. 【 23 】 the process of questioning, all the signals are recorded on a single strip of moving paper. Once the questions are finished, the examiner analyzes the results to determine if the person tested 【 24 】 truthful.\n\nWell-trained examiners can usually detect lying with a high degree of 【 25 】 when they use a polygraph. However, because different people behave differently when lying, a polygraph test is by no means perfect.\n22.",
+    "options": [
+      "adapted",
+      "attached",
+      "related",
+      "restricted"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：四到六條稱為感應器的線被「貼附」在身體不同部位。be attached to…「附著在…」。\n\n故選 (B)"
+  },
+  {
+    "id": "105-gsat-eng-23",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nA polygraph machine, also known as a \"lie detector,\" is a common part of criminal investigations. The instrument is used to measure 【 21 】 a person's body reacts to questions. The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.\n\nWhen a person takes a polygraph test, four to six wires, called sensors, are 【 22 】 to different parts of his body. The sensors pick up signals from the person's blood pressure, pulse, and perspiration. 【 23 】 the process of questioning, all the signals are recorded on a single strip of moving paper. Once the questions are finished, the examiner analyzes the results to determine if the person tested 【 24 】 truthful.\n\nWell-trained examiners can usually detect lying with a high degree of 【 25 】 when they use a polygraph. However, because different people behave differently when lying, a polygraph test is by no means perfect.\n23.",
+    "options": [
+      "Before",
+      "Among",
+      "Without",
+      "Throughout"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：「在整個」詢問過程中，所有訊號都被記錄在一條移動的紙帶上。\n\n故選 (D)"
+  },
+  {
+    "id": "105-gsat-eng-24",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nA polygraph machine, also known as a \"lie detector,\" is a common part of criminal investigations. The instrument is used to measure 【 21 】 a person's body reacts to questions. The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.\n\nWhen a person takes a polygraph test, four to six wires, called sensors, are 【 22 】 to different parts of his body. The sensors pick up signals from the person's blood pressure, pulse, and perspiration. 【 23 】 the process of questioning, all the signals are recorded on a single strip of moving paper. Once the questions are finished, the examiner analyzes the results to determine if the person tested 【 24 】 truthful.\n\nWell-trained examiners can usually detect lying with a high degree of 【 25 】 when they use a polygraph. However, because different people behave differently when lying, a polygraph test is by no means perfect.\n24.",
+    "options": [
+      "was being",
+      "would be",
+      "was to be",
+      "would have been"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：問完問題後，施測者分析結果，判斷受測者「當時是否」誠實。強調詢問當下的狀態，用過去進行式 was being truthful。\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-eng-25",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nA polygraph machine, also known as a \"lie detector,\" is a common part of criminal investigations. The instrument is used to measure 【 21 】 a person's body reacts to questions. The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.\n\nWhen a person takes a polygraph test, four to six wires, called sensors, are 【 22 】 to different parts of his body. The sensors pick up signals from the person's blood pressure, pulse, and perspiration. 【 23 】 the process of questioning, all the signals are recorded on a single strip of moving paper. Once the questions are finished, the examiner analyzes the results to determine if the person tested 【 24 】 truthful.\n\nWell-trained examiners can usually detect lying with a high degree of 【 25 】 when they use a polygraph. However, because different people behave differently when lying, a polygraph test is by no means perfect.\n25.",
+    "options": [
+      "quantity",
+      "accuracy",
+      "possibility",
+      "emergency"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：受過良好訓練的施測者通常能以很高的「準確度」測出說謊。\n\n故選 (B)"
+  },
+  {
+    "id": "105-gsat-eng-26",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nInternational trade is the exchange of goods and services between countries. Trade is driven by different production costs in different countries, making 【 26 】 cheaper for some countries to import goods rather than make them. A country is said to have a comparative advantage over another when it can produce a commodity more cheaply. This comparative advantage is 【 27 】 by key factors of production such as land, capital, and labor.\n\nWhile international trade has long been conducted in history, its economic, social, and political importance has been 【 28 】 in recent centuries. During the 1990s, international trade grew by nearly 8.6% each year. In the year 1990 alone, the growth in trade in services was as high as 19%.\n\nToday, all countries are involved in, and to varying degrees dependent on, trade with other countries. 【 29 】 international trade, nations would be limited to the goods and services produced within their own borders. Trade is certainly a main 【 30 】 force for globalization. It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).\n26.",
+    "options": [
+      "them",
+      "such",
+      "what",
+      "it"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：生產成本不同，使得有些國家進口比自製更便宜。make it + 形容詞 + to V，it 為虛受詞。\n\n故選 (D)"
+  },
+  {
+    "id": "105-gsat-eng-27",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nInternational trade is the exchange of goods and services between countries. Trade is driven by different production costs in different countries, making 【 26 】 cheaper for some countries to import goods rather than make them. A country is said to have a comparative advantage over another when it can produce a commodity more cheaply. This comparative advantage is 【 27 】 by key factors of production such as land, capital, and labor.\n\nWhile international trade has long been conducted in history, its economic, social, and political importance has been 【 28 】 in recent centuries. During the 1990s, international trade grew by nearly 8.6% each year. In the year 1990 alone, the growth in trade in services was as high as 19%.\n\nToday, all countries are involved in, and to varying degrees dependent on, trade with other countries. 【 29 】 international trade, nations would be limited to the goods and services produced within their own borders. Trade is certainly a main 【 30 】 force for globalization. It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).\n27.",
+    "options": [
+      "installed",
+      "reserved",
+      "opposed",
+      "determined"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：這種比較優勢是由土地、資本、勞力等主要生產要素「決定」的。\n\n故選 (D)"
+  },
+  {
+    "id": "105-gsat-eng-28",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nInternational trade is the exchange of goods and services between countries. Trade is driven by different production costs in different countries, making 【 26 】 cheaper for some countries to import goods rather than make them. A country is said to have a comparative advantage over another when it can produce a commodity more cheaply. This comparative advantage is 【 27 】 by key factors of production such as land, capital, and labor.\n\nWhile international trade has long been conducted in history, its economic, social, and political importance has been 【 28 】 in recent centuries. During the 1990s, international trade grew by nearly 8.6% each year. In the year 1990 alone, the growth in trade in services was as high as 19%.\n\nToday, all countries are involved in, and to varying degrees dependent on, trade with other countries. 【 29 】 international trade, nations would be limited to the goods and services produced within their own borders. Trade is certainly a main 【 30 】 force for globalization. It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).\n28.",
+    "options": [
+      "to the point",
+      "on the rise",
+      "off the hook",
+      "for the record"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：國際貿易的重要性近幾世紀「持續上升」，後文舉出成長數據。on the rise「上升中」。\n\n故選 (B)"
+  },
+  {
+    "id": "105-gsat-eng-29",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nInternational trade is the exchange of goods and services between countries. Trade is driven by different production costs in different countries, making 【 26 】 cheaper for some countries to import goods rather than make them. A country is said to have a comparative advantage over another when it can produce a commodity more cheaply. This comparative advantage is 【 27 】 by key factors of production such as land, capital, and labor.\n\nWhile international trade has long been conducted in history, its economic, social, and political importance has been 【 28 】 in recent centuries. During the 1990s, international trade grew by nearly 8.6% each year. In the year 1990 alone, the growth in trade in services was as high as 19%.\n\nToday, all countries are involved in, and to varying degrees dependent on, trade with other countries. 【 29 】 international trade, nations would be limited to the goods and services produced within their own borders. Trade is certainly a main 【 30 】 force for globalization. It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).\n29.",
+    "options": [
+      "Despite",
+      "Between",
+      "Without",
+      "Under"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：「如果沒有」國際貿易，各國只能使用境內生產的商品與服務。Without… 搭配 would be 表與現在事實相反的假設。\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-eng-30",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nInternational trade is the exchange of goods and services between countries. Trade is driven by different production costs in different countries, making 【 26 】 cheaper for some countries to import goods rather than make them. A country is said to have a comparative advantage over another when it can produce a commodity more cheaply. This comparative advantage is 【 27 】 by key factors of production such as land, capital, and labor.\n\nWhile international trade has long been conducted in history, its economic, social, and political importance has been 【 28 】 in recent centuries. During the 1990s, international trade grew by nearly 8.6% each year. In the year 1990 alone, the growth in trade in services was as high as 19%.\n\nToday, all countries are involved in, and to varying degrees dependent on, trade with other countries. 【 29 】 international trade, nations would be limited to the goods and services produced within their own borders. Trade is certainly a main 【 30 】 force for globalization. It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).\n30.",
+    "options": [
+      "driving",
+      "pulling",
+      "riding",
+      "bringing"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：貿易無疑是全球化的主要「驅動」力量。driving force「驅動力」。\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-eng-31-40",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 31-40 題組】\nAre forests always created by nature? A man from rural India proves that this is not necessarily ___(31)___.\nAbdul Kareem, who used to be an airline ticketing agent, has a great love for the woods. Though he never went to college, he can talk about plants and trees like an expert. In 1977, he bought a piece of rocky wasteland with the ___(32)___ of growing trees on it. In the beginning, people thought he was ___(33)___ to waste his time and money on the land. But he simply ___(34)___ them and kept working on the soil and planting trees there. The land was so ___(35)___ that it had to be watered several times a day. Kareem had to fetch the water from a source that was a kilometer away. In the first two years, none of the trees he planted ___(36)___. However, in the third year, several young trees started growing. Greatly ___(37)___ by the result, Kareem planted more trees and his man-made forest began to take shape.\nKareem let his forest grow naturally, without using fertilizers or insecticides. He believed in the ability of nature to renew itself without the ___(38)___ of humans. That's why he did not allow fallen leaves or twigs from the forest to be removed.\nAfter years of hard work, Kareem has not only realized his dream but also transformed a piece of ___(39)___ property into a beautiful forest. Today, his forest is home to 1,500 medicinal plants, 2,000 varieties of trees, rare birds, animals, and insects. Now, scientists from all over the world come to visit his ___(40)___. They hope to find the secret of his success.\n(A) deserted　(B) interference　(C) vision　(D) crazy　(E) creation　(F) encouraged　(G) ignored　(H) survived　(I) dry　(J) true\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "J",
+      "C",
+      "D",
+      "G",
+      "I",
+      "H",
+      "F",
+      "B",
+      "A",
+      "E"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "explanation": "• 31 (J) true：一位印度人證明森林不一定都是自然形成的，this is not necessarily true。\n• 32 (C) vision：他買下一塊荒地，抱著在上面種樹的「願景」。\n• 33 (D) crazy：一開始人們認為他把時間金錢浪費在這塊地上是「瘋了」。\n• 34 (G) ignored：他只是「不理會」他們，繼續整地種樹。\n• 35 (I) dry：土地太「乾」，一天要澆好幾次水。\n• 36 (H) survived：頭兩年種的樹沒有一棵「存活」。\n• 37 (F) encouraged：受到結果的極大「鼓舞」，他種了更多樹，過去分詞表被動。\n• 38 (B) interference：他相信大自然不需人類「干預」就能自我更新。\n• 39 (A) deserted：把一塊「荒廢的」土地變成美麗的森林。\n• 40 (E) creation：世界各地的科學家來參觀他的「創造物」。"
+  },
+  {
+    "id": "105-gsat-eng-41",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nIn Japan, a person's blood type is popularly believed to decide his/her temperament and personality. Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious. Type Os are curious and generous but stubborn. Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish. Though lacking scientific evidence, this belief is widely seen in books, magazines, and television shows.\n\nThe blood-type belief has been used in unusual ways. The women's softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player. Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee's blood type. In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to \"their ability to make plans.\"\n\nThe belief even affects politics. One former prime minister considered it important enough to reveal in his official profile that he was a type A, while his opposition rival was type B. In 2011, a minister, Ryu Matsumoto, was forced to resign after only a week in office, when a bad-tempered encounter with local officials was televised. In his resignation speech, he blamed his failings on the fact that he was blood type B.\n\nThe blood-type craze, considered simply harmless fun by some Japanese, may manifest itself as prejudice and discrimination. In fact, this seems so common that the Japanese now have a term for it: bura-hara, meaning blood-type harassment. There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.\n41. What is the speaker's attitude toward the blood-type belief in Japan?",
+    "options": [
+      "Negative.",
+      "Defensive.",
+      "Objective.",
+      "Encouraging."
+    ],
+    "answerIndex": 2,
+    "explanation": "作者說明這種信念缺乏科學證據，再列舉它在運動、教育、企業、政治上的應用與造成的歧視，以陳述事實為主，態度客觀。\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-eng-42",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nIn Japan, a person's blood type is popularly believed to decide his/her temperament and personality. Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious. Type Os are curious and generous but stubborn. Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish. Though lacking scientific evidence, this belief is widely seen in books, magazines, and television shows.\n\nThe blood-type belief has been used in unusual ways. The women's softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player. Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee's blood type. In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to \"their ability to make plans.\"\n\nThe belief even affects politics. One former prime minister considered it important enough to reveal in his official profile that he was a type A, while his opposition rival was type B. In 2011, a minister, Ryu Matsumoto, was forced to resign after only a week in office, when a bad-tempered encounter with local officials was televised. In his resignation speech, he blamed his failings on the fact that he was blood type B.\n\nThe blood-type craze, considered simply harmless fun by some Japanese, may manifest itself as prejudice and discrimination. In fact, this seems so common that the Japanese now have a term for it: bura-hara, meaning blood-type harassment. There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.\n42. According to the examples mentioned in the passage, which blood type can we infer is the LEAST favored in Japan?",
+    "options": [
+      "Type A.",
+      "Type B.",
+      "Type O.",
+      "Type AB."
+    ],
+    "answerIndex": 1,
+    "explanation": "B 型被描述為古怪、自私；前首相刻意表明對手是 B 型；松本龍辭職時也把失敗歸咎於自己是 B 型，可推知 B 型最不受歡迎。\n\n故選 (B)"
+  },
+  {
+    "id": "105-gsat-eng-43",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nIn Japan, a person's blood type is popularly believed to decide his/her temperament and personality. Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious. Type Os are curious and generous but stubborn. Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish. Though lacking scientific evidence, this belief is widely seen in books, magazines, and television shows.\n\nThe blood-type belief has been used in unusual ways. The women's softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player. Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee's blood type. In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to \"their ability to make plans.\"\n\nThe belief even affects politics. One former prime minister considered it important enough to reveal in his official profile that he was a type A, while his opposition rival was type B. In 2011, a minister, Ryu Matsumoto, was forced to resign after only a week in office, when a bad-tempered encounter with local officials was televised. In his resignation speech, he blamed his failings on the fact that he was blood type B.\n\nThe blood-type craze, considered simply harmless fun by some Japanese, may manifest itself as prejudice and discrimination. In fact, this seems so common that the Japanese now have a term for it: bura-hara, meaning blood-type harassment. There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.\n43. Why did Prime Minister Ryu Matsumoto resign from office?",
+    "options": [
+      "He revealed his rival's blood type.",
+      "He was seen behaving rudely on TV.",
+      "He blamed his failings on local officials.",
+      "He was discriminated against because of blood type."
+    ],
+    "answerIndex": 1,
+    "explanation": "他與地方官員發脾氣的場面被電視播出，就任一週即被迫辭職。（題目稱他為首相，文中其實是部長，但依題意作答。）\n\n故選 (B)"
+  },
+  {
+    "id": "105-gsat-eng-44",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nIn Japan, a person's blood type is popularly believed to decide his/her temperament and personality. Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious. Type Os are curious and generous but stubborn. Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish. Though lacking scientific evidence, this belief is widely seen in books, magazines, and television shows.\n\nThe blood-type belief has been used in unusual ways. The women's softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player. Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee's blood type. In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to \"their ability to make plans.\"\n\nThe belief even affects politics. One former prime minister considered it important enough to reveal in his official profile that he was a type A, while his opposition rival was type B. In 2011, a minister, Ryu Matsumoto, was forced to resign after only a week in office, when a bad-tempered encounter with local officials was televised. In his resignation speech, he blamed his failings on the fact that he was blood type B.\n\nThe blood-type craze, considered simply harmless fun by some Japanese, may manifest itself as prejudice and discrimination. In fact, this seems so common that the Japanese now have a term for it: bura-hara, meaning blood-type harassment. There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.\n44. Which field is NOT mentioned in the passage as being affected by blood-type beliefs?",
+    "options": [
+      "Education.",
+      "Sports.",
+      "Business.",
+      "Medicine."
+    ],
+    "answerIndex": 3,
+    "explanation": "文中提到幼稚園教學（教育）、壘球隊訓練（運動）、企業人事分派（商業），沒有提到醫學。\n\n故選 (D)"
+  },
+  {
+    "id": "105-gsat-eng-45",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nLike many other five-year-olds, Jeanie Low of Houston, Texas, would use a stool to help her reach the bathroom sink. However, the plastic step-stool she had at home was unstable and cluttered up the small bathroom shared by her whole family. After learning of an invention contest held by her school that year, Jeanie resolved to enter the contest by creating a stool that would be a permanent fixture in the bathroom, and yet could be kept out of the way when not in use.\n\nJeanie decided to make a stool attached to the bathroom cabinet door under the sink. She cut a plank of wood into two pieces, each about two feet wide and one foot long. Using metal hinges, Jeanie attached one piece of the wood to the front of the cabinet door, and the second piece to the first. The first piece was set just high enough so that when it swung out horizontally from the cabinet door, the second piece would swing down from the first, just touching the ground, and so serving as a support for the first piece of the wood. This created a convenient, sturdy platform for any person too short to reach the sink. When not in use, the hinges allowed the two pieces of wood to fold back up tightly against the cabinet, where they were held in place by magnets. Jeanie called her invention the \"Kiddie Stool.\"\n\nJeanie's Kiddie Stool won first place in her school's contest. Two years later, it was awarded first prize again at Houston's first annual Invention Fair. As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers. Many people found the story of the Kiddie Stool inspiring because it showed that with imagination, anyone can be an inventor.\n45. Why did Jeanie Low invent the Kiddie Stool, according to the passage?",
+    "options": [
+      "Many other five-year-olds had problems reaching the bathroom sink.",
+      "She did not think that plastic stools were tall enough for her.",
+      "The stool in her bathroom was not firm and often got in the way.",
+      "She was invited to enter an invention contest held by her school."
+    ],
+    "answerIndex": 2,
+    "explanation": "家裡的塑膠踏腳凳不穩，又占用全家共用的小浴室空間，所以她想做一個固定、不用時又不礙事的凳子。\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-eng-46",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nLike many other five-year-olds, Jeanie Low of Houston, Texas, would use a stool to help her reach the bathroom sink. However, the plastic step-stool she had at home was unstable and cluttered up the small bathroom shared by her whole family. After learning of an invention contest held by her school that year, Jeanie resolved to enter the contest by creating a stool that would be a permanent fixture in the bathroom, and yet could be kept out of the way when not in use.\n\nJeanie decided to make a stool attached to the bathroom cabinet door under the sink. She cut a plank of wood into two pieces, each about two feet wide and one foot long. Using metal hinges, Jeanie attached one piece of the wood to the front of the cabinet door, and the second piece to the first. The first piece was set just high enough so that when it swung out horizontally from the cabinet door, the second piece would swing down from the first, just touching the ground, and so serving as a support for the first piece of the wood. This created a convenient, sturdy platform for any person too short to reach the sink. When not in use, the hinges allowed the two pieces of wood to fold back up tightly against the cabinet, where they were held in place by magnets. Jeanie called her invention the \"Kiddie Stool.\"\n\nJeanie's Kiddie Stool won first place in her school's contest. Two years later, it was awarded first prize again at Houston's first annual Invention Fair. As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers. Many people found the story of the Kiddie Stool inspiring because it showed that with imagination, anyone can be an inventor.\n46. Which of the following statements is true about how the Kiddie Stool works?",
+    "options": [
+      "The Kiddie Stool will swing out only when the cabinet door opens.",
+      "It uses hinges and magnets to keep the wooden pieces in place.",
+      "It swings from left to right to be attached to the cabinet door.",
+      "The platform is supported by two pieces of metal."
+    ],
+    "answerIndex": 1,
+    "explanation": "用金屬鉸鏈連接兩塊木板，不用時折起貼在櫃門上，由磁鐵固定。平台由第二塊木板支撐，不是金屬。\n\n故選 (B)"
+  },
+  {
+    "id": "105-gsat-eng-47",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nLike many other five-year-olds, Jeanie Low of Houston, Texas, would use a stool to help her reach the bathroom sink. However, the plastic step-stool she had at home was unstable and cluttered up the small bathroom shared by her whole family. After learning of an invention contest held by her school that year, Jeanie resolved to enter the contest by creating a stool that would be a permanent fixture in the bathroom, and yet could be kept out of the way when not in use.\n\nJeanie decided to make a stool attached to the bathroom cabinet door under the sink. She cut a plank of wood into two pieces, each about two feet wide and one foot long. Using metal hinges, Jeanie attached one piece of the wood to the front of the cabinet door, and the second piece to the first. The first piece was set just high enough so that when it swung out horizontally from the cabinet door, the second piece would swing down from the first, just touching the ground, and so serving as a support for the first piece of the wood. This created a convenient, sturdy platform for any person too short to reach the sink. When not in use, the hinges allowed the two pieces of wood to fold back up tightly against the cabinet, where they were held in place by magnets. Jeanie called her invention the \"Kiddie Stool.\"\n\nJeanie's Kiddie Stool won first place in her school's contest. Two years later, it was awarded first prize again at Houston's first annual Invention Fair. As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers. Many people found the story of the Kiddie Stool inspiring because it showed that with imagination, anyone can be an inventor.\n47. What are the characteristics of Jeanie's Kiddie Stool?",
+    "options": [
+      "Permanent and foldable.",
+      "Fragile and eye-catching.",
+      "Conventional and touching.",
+      "Convenient and recyclable."
+    ],
+    "answerIndex": 0,
+    "explanation": "凳子固定在浴室櫃門上（permanent fixture），不用時可以折起（fold back up），所以是固定且可折疊。\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-eng-48",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nLike many other five-year-olds, Jeanie Low of Houston, Texas, would use a stool to help her reach the bathroom sink. However, the plastic step-stool she had at home was unstable and cluttered up the small bathroom shared by her whole family. After learning of an invention contest held by her school that year, Jeanie resolved to enter the contest by creating a stool that would be a permanent fixture in the bathroom, and yet could be kept out of the way when not in use.\n\nJeanie decided to make a stool attached to the bathroom cabinet door under the sink. She cut a plank of wood into two pieces, each about two feet wide and one foot long. Using metal hinges, Jeanie attached one piece of the wood to the front of the cabinet door, and the second piece to the first. The first piece was set just high enough so that when it swung out horizontally from the cabinet door, the second piece would swing down from the first, just touching the ground, and so serving as a support for the first piece of the wood. This created a convenient, sturdy platform for any person too short to reach the sink. When not in use, the hinges allowed the two pieces of wood to fold back up tightly against the cabinet, where they were held in place by magnets. Jeanie called her invention the \"Kiddie Stool.\"\n\nJeanie's Kiddie Stool won first place in her school's contest. Two years later, it was awarded first prize again at Houston's first annual Invention Fair. As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers. Many people found the story of the Kiddie Stool inspiring because it showed that with imagination, anyone can be an inventor.\n48. Which of the following sayings best captures the spirit of Jeanie Low's story?",
+    "options": [
+      "Failure is the mother of success.",
+      "There's nothing new under the sun.",
+      "Necessity is the mother of invention.",
+      "Genius is 1% inspiration and 99% perspiration."
+    ],
+    "answerIndex": 2,
+    "explanation": "她因為生活上的需要（構不到洗手台、凳子礙事）而發明 Kiddie Stool，正是「需要為發明之母」。\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-eng-49",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nOngoing conflicts across the Middle East have prevented more than 13 million children from attending school, according to a report published by UNICEF, the United Nations Children's Fund.\n\nThe report states that 40% of all children across the region are currently not receiving an education, which is a result of two consequences of violence: structural damage to schools and the displacement of populations, also called \"forced migration.\" Both issues result from the tide of violence that has crossed the region in recent years. The report examines nine countries where a state of war has become the norm. Across these countries, violence has made 8,500 schools unusable. In certain cases, communities have relied on school buildings to function as shelters for the displaced, with up to nine families living in a single classroom in former schools across Iraq.\n\nThe report pays particularly close attention to Syria, where a bloody civil war has displaced at least nine million people since the war began in 2011. With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point. Within the country, the quality and availability of education depends on whether a particular region is suffering violence.\n\nThe report concludes with an earnest request to international policymakers to distribute financial and other resources to ease the regional crisis. With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance. The forces that are crushing individual lives and futures are also destroying the prospects for an entire region.\n49. What is this article mainly about?",
+    "options": [
+      "Why people are moving away from their own countries.",
+      "Why there are civil wars and violence in the Middle East.",
+      "Why many schools have become shelters for displaced families.",
+      "Why many children in the Middle East are not attending school."
+    ],
+    "answerIndex": 3,
+    "explanation": "文章以聯合國兒童基金會報告為主，說明中東衝突使一千三百多萬兒童無法上學的原因與情況。\n\n故選 (D)"
+  },
+  {
+    "id": "105-gsat-eng-50",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nOngoing conflicts across the Middle East have prevented more than 13 million children from attending school, according to a report published by UNICEF, the United Nations Children's Fund.\n\nThe report states that 40% of all children across the region are currently not receiving an education, which is a result of two consequences of violence: structural damage to schools and the displacement of populations, also called \"forced migration.\" Both issues result from the tide of violence that has crossed the region in recent years. The report examines nine countries where a state of war has become the norm. Across these countries, violence has made 8,500 schools unusable. In certain cases, communities have relied on school buildings to function as shelters for the displaced, with up to nine families living in a single classroom in former schools across Iraq.\n\nThe report pays particularly close attention to Syria, where a bloody civil war has displaced at least nine million people since the war began in 2011. With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point. Within the country, the quality and availability of education depends on whether a particular region is suffering violence.\n\nThe report concludes with an earnest request to international policymakers to distribute financial and other resources to ease the regional crisis. With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance. The forces that are crushing individual lives and futures are also destroying the prospects for an entire region.\n50. Why is \"Iraq\" mentioned in the second paragraph?",
+    "options": [
+      "To convince people that temporary housing can be easily found.",
+      "To prove that classrooms there are big enough to host many families.",
+      "To give an example of why schools are not usable for children's learning.",
+      "To show how structural damages of school can affect the quality of education."
+    ],
+    "answerIndex": 2,
+    "explanation": "伊拉克的學校被當作難民收容所，一間教室住多達九個家庭，舉例說明學校為何無法用於上課。\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-eng-51",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nOngoing conflicts across the Middle East have prevented more than 13 million children from attending school, according to a report published by UNICEF, the United Nations Children's Fund.\n\nThe report states that 40% of all children across the region are currently not receiving an education, which is a result of two consequences of violence: structural damage to schools and the displacement of populations, also called \"forced migration.\" Both issues result from the tide of violence that has crossed the region in recent years. The report examines nine countries where a state of war has become the norm. Across these countries, violence has made 8,500 schools unusable. In certain cases, communities have relied on school buildings to function as shelters for the displaced, with up to nine families living in a single classroom in former schools across Iraq.\n\nThe report pays particularly close attention to Syria, where a bloody civil war has displaced at least nine million people since the war began in 2011. With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point. Within the country, the quality and availability of education depends on whether a particular region is suffering violence.\n\nThe report concludes with an earnest request to international policymakers to distribute financial and other resources to ease the regional crisis. With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance. The forces that are crushing individual lives and futures are also destroying the prospects for an entire region.\n51. What does the phrase \"in the balance\" in the last paragraph most likely mean?",
+    "options": [
+      "Being well taken care of.",
+      "In an uncertain situation.",
+      "Under control by the authority.",
+      "Moving in the wrong direction."
+    ],
+    "answerIndex": 1,
+    "explanation": "一千三百多萬兒童被迫離開教室，整個世代的教育前景懸而未決。in the balance「處於未定狀態」。\n\n故選 (B)"
+  },
+  {
+    "id": "105-gsat-eng-52",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nOngoing conflicts across the Middle East have prevented more than 13 million children from attending school, according to a report published by UNICEF, the United Nations Children's Fund.\n\nThe report states that 40% of all children across the region are currently not receiving an education, which is a result of two consequences of violence: structural damage to schools and the displacement of populations, also called \"forced migration.\" Both issues result from the tide of violence that has crossed the region in recent years. The report examines nine countries where a state of war has become the norm. Across these countries, violence has made 8,500 schools unusable. In certain cases, communities have relied on school buildings to function as shelters for the displaced, with up to nine families living in a single classroom in former schools across Iraq.\n\nThe report pays particularly close attention to Syria, where a bloody civil war has displaced at least nine million people since the war began in 2011. With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point. Within the country, the quality and availability of education depends on whether a particular region is suffering violence.\n\nThe report concludes with an earnest request to international policymakers to distribute financial and other resources to ease the regional crisis. With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance. The forces that are crushing individual lives and futures are also destroying the prospects for an entire region.\n52. According to the passage, which of the following statements is true?",
+    "options": [
+      "The war in Syria has been going on since 2011.",
+      "More than nine thousand schools have been destroyed by wars.",
+      "Thirteen million people have been forced to leave their homes in the Middle East.",
+      "Forty percent of all children in the world are not attending schools due to ongoing conflict."
+    ],
+    "answerIndex": 0,
+    "explanation": "第三段：敘利亞內戰自 2011 年開始。\n(B) 是 8,500 所學校；(C) 一千三百萬是失學兒童；(D) 40% 指中東地區的兒童。\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-eng-53",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nMany marine animals, including penguins and marine iguanas, have evolved ways to get rid of excess salt by using special salt-expelling glands around their tongue. However, the sea snake's salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater. This poses a serious problem when it comes to getting enough water to drink. If seawater is not an option, how does this animal survive in the ocean?\n\nAn international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year. Because yellow-bellied sea snakes usually spend all of their time far from land, rain is the animals' only source of fresh water. When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource. But during the dry season when there is no rain, snakes presumably have nothing to drink. Thus, the team became interested in testing whether sea snakes became dehydrated at sea.\n\nThe researchers collected more than 500 yellow-bellied sea snakes and weighed them. They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season. A snake's likelihood to drink also correlated with its body condition, with more withered snakes being more likely to drink, and to drink more. Finally, as predicted, snakes captured during the dry season contained significantly less body water than those scooped up in the rainy season. Thus, it seems the snake is able to endure certain degrees of dehydration in between rains. Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.\n53. What is the purpose of the study described in this passage?",
+    "options": [
+      "To test if sea snakes lose body water at sea.",
+      "To see whether sea snakes drink water offered to them.",
+      "To find out if sea snakes are greatly reduced in population.",
+      "To prove that sea snakes drink only water coming from rivers."
+    ],
+    "answerIndex": 0,
+    "explanation": "第二段末：研究團隊想測試海蛇在海上是否會脫水。\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-eng-54",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nMany marine animals, including penguins and marine iguanas, have evolved ways to get rid of excess salt by using special salt-expelling glands around their tongue. However, the sea snake's salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater. This poses a serious problem when it comes to getting enough water to drink. If seawater is not an option, how does this animal survive in the ocean?\n\nAn international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year. Because yellow-bellied sea snakes usually spend all of their time far from land, rain is the animals' only source of fresh water. When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource. But during the dry season when there is no rain, snakes presumably have nothing to drink. Thus, the team became interested in testing whether sea snakes became dehydrated at sea.\n\nThe researchers collected more than 500 yellow-bellied sea snakes and weighed them. They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season. A snake's likelihood to drink also correlated with its body condition, with more withered snakes being more likely to drink, and to drink more. Finally, as predicted, snakes captured during the dry season contained significantly less body water than those scooped up in the rainy season. Thus, it seems the snake is able to endure certain degrees of dehydration in between rains. Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.\n54. Which of the following is true about sea snakes?",
+    "options": [
+      "Their salt glands can remove the salt in the seawater.",
+      "They can drink seawater when it mixes with rainwater.",
+      "The ocean is like a desert to them since they don't drink seawater.",
+      "They usually live near the coastal area where there is more fresh water."
+    ],
+    "answerIndex": 2,
+    "explanation": "海蛇的鹽腺無法處理喝海水攝入的大量鹽分，只能靠雨水，所以海洋對牠們就像沙漠。\n(D) 黃腹海蛇大多遠離陸地生活。\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-eng-55",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nMany marine animals, including penguins and marine iguanas, have evolved ways to get rid of excess salt by using special salt-expelling glands around their tongue. However, the sea snake's salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater. This poses a serious problem when it comes to getting enough water to drink. If seawater is not an option, how does this animal survive in the ocean?\n\nAn international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year. Because yellow-bellied sea snakes usually spend all of their time far from land, rain is the animals' only source of fresh water. When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource. But during the dry season when there is no rain, snakes presumably have nothing to drink. Thus, the team became interested in testing whether sea snakes became dehydrated at sea.\n\nThe researchers collected more than 500 yellow-bellied sea snakes and weighed them. They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season. A snake's likelihood to drink also correlated with its body condition, with more withered snakes being more likely to drink, and to drink more. Finally, as predicted, snakes captured during the dry season contained significantly less body water than those scooped up in the rainy season. Thus, it seems the snake is able to endure certain degrees of dehydration in between rains. Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.\n55. Which of the following is one of the findings of the study?",
+    "options": [
+      "If a sea snake was dried and weak, it drank more fresh water.",
+      "If captured in the wet season, sea snakes drank a lot of fresh water.",
+      "Most of the sea snakes had lost a lot of body water when captured.",
+      "Dehydration is not a problem among sea snakes since they live at sea."
+    ],
+    "answerIndex": 0,
+    "explanation": "身體愈乾癟的海蛇愈可能喝水，也喝得愈多。\n(B) 雨季時幾乎都不喝；(C) 只有乾季捕獲的海蛇體內水分明顯較少。\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-eng-56",
+    "examType": "學測",
+    "year": 105,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nMany marine animals, including penguins and marine iguanas, have evolved ways to get rid of excess salt by using special salt-expelling glands around their tongue. However, the sea snake's salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater. This poses a serious problem when it comes to getting enough water to drink. If seawater is not an option, how does this animal survive in the ocean?\n\nAn international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year. Because yellow-bellied sea snakes usually spend all of their time far from land, rain is the animals' only source of fresh water. When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource. But during the dry season when there is no rain, snakes presumably have nothing to drink. Thus, the team became interested in testing whether sea snakes became dehydrated at sea.\n\nThe researchers collected more than 500 yellow-bellied sea snakes and weighed them. They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season. A snake's likelihood to drink also correlated with its body condition, with more withered snakes being more likely to drink, and to drink more. Finally, as predicted, snakes captured during the dry season contained significantly less body water than those scooped up in the rainy season. Thus, it seems the snake is able to endure certain degrees of dehydration in between rains. Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.\n56. What can be inferred from the study?",
+    "options": [
+      "Sea snakes can easily survive long years of drought.",
+      "Evolution will very likely enable sea snakes to drink seawater.",
+      "Sea snakes will be the last creature affected by global warming.",
+      "The sea snakes' population distribution is closely related to rainfall."
+    ],
+    "answerIndex": 3,
+    "explanation": "海蛇唯一的淡水來源是雨水，科學家認為海上脫水可能是某些地區海蛇族群減少的原因，可推知其分布與降雨密切相關。\n\n故選 (D)"
   }
 ]
