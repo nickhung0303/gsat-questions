@@ -85,16 +85,16 @@
     "year": 110,
     "subject": "物理",
     "points": 3,
-    "question": "甲、乙兩計時器原來置於地球表面計時，甲計時器以在鉛垂面作小角度左右擺動的單擺週期，作為計時基準；乙計時器利用彈簧讓重物在光滑水平面上振動，以其週期作為計時基準。現將兩計時器移至另一星球表面，該星球表面的重力加速度量值為地球表面的 $4$ 倍，則下列有關甲計時器擺動週期 $T_{甲}$ 和乙計時器振動週期 $T_{乙}$ 的敘述何者正確？（忽略空氣阻力）",
+    "question": "甲、乙兩計時器原來置於地球表面計時，甲計時器以在鉛垂面作小角度左右擺動的單擺週期，作為計時基準；乙計時器利用彈簧讓重物在光滑水平面上振動，以其週期作為計時基準。現將兩計時器移至另一星球表面，該星球表面的重力加速度量值為地球表面的 $4$ 倍，則下列有關甲計時器擺動週期 $T_{\\text{甲}}$ 和乙計時器振動週期 $T_{\\text{乙}}$ 的敘述何者正確？（忽略空氣阻力）",
     "options": [
-      "$T_{甲}$、$T_{乙}$ 均變為原來的 $4$ 倍",
-      "$T_{甲}$、$T_{乙}$ 均變為原來的 $\\dfrac{1}{2}$",
-      "$T_{甲}$ 變為原來的 $2$ 倍，$T_{乙}$ 不變",
-      "$T_{甲}$ 變為原來的 $\\dfrac{1}{2}$，$T_{乙}$ 不變",
-      "$T_{甲}$、$T_{乙}$ 均不變"
+      "$T_{\\text{甲}}$、$T_{\\text{乙}}$ 均變為原來的 $4$ 倍",
+      "$T_{\\text{甲}}$、$T_{\\text{乙}}$ 均變為原來的 $\\dfrac{1}{2}$",
+      "$T_{\\text{甲}}$ 變為原來的 $2$ 倍，$T_{\\text{乙}}$ 不變",
+      "$T_{\\text{甲}}$ 變為原來的 $\\dfrac{1}{2}$，$T_{\\text{乙}}$ 不變",
+      "$T_{\\text{甲}}$、$T_{\\text{乙}}$ 均不變"
     ],
     "answerIndex": 3,
-    "explanation": "【簡諧運動週期】\n• 單擺（小角度）：$T_{甲} = 2\\pi\\sqrt{\\dfrac{L}{g}}$，$g$ 變為 $4$ 倍，週期變為 $\\dfrac{1}{\\sqrt{4}} = \\dfrac{1}{2}$ 倍。\n• 水平彈簧振子：$T_{乙} = 2\\pi\\sqrt{\\dfrac{m}{k}}$，與重力加速度無關，且在光滑水平面上重力不影響回復力，因此週期不變。\n\n故選 (D)"
+    "explanation": "【簡諧運動週期】\n• 單擺（小角度）：$T_{\\text{甲}} = 2\\pi\\sqrt{\\dfrac{L}{g}}$，$g$ 變為 $4$ 倍，週期變為 $\\dfrac{1}{\\sqrt{4}} = \\dfrac{1}{2}$ 倍。\n• 水平彈簧振子：$T_{\\text{乙}} = 2\\pi\\sqrt{\\dfrac{m}{k}}$，與重力加速度無關，且在光滑水平面上重力不影響回復力，因此週期不變。\n\n故選 (D)"
   },
   {
     "id": "110-ast-phy-06",
@@ -138,7 +138,7 @@
     "year": 110,
     "subject": "物理",
     "points": 3,
-    "question": "在聲速為 $350\\text{ m/s}$ 的環境中，進行音叉與氣柱的共鳴實驗。從零開始，逐漸增加氣柱長度，並將測得共鳴時的氣柱長度，依時間的先後順序編號為 $1、2、3、4$，四次測得之共鳴氣柱長度對編號作圖，如圖 3 所示。實驗所用的音叉頻率，最接近多少 $\\text{Hz}$？",
+    "question": "在聲速為 $350\\text{ m/s}$ 的環境中，進行音叉與氣柱的共鳴實驗。從零開始，逐漸增加氣柱長度，並將測得共鳴時的氣柱長度，依時間的先後順序編號為 $1\\text{、}2\\text{、}3\\text{、}4$，四次測得之共鳴氣柱長度對編號作圖，如圖 3 所示。實驗所用的音叉頻率，最接近多少 $\\text{Hz}$？",
     "svg": "<svg viewBox=\"0 0 300 220\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><g stroke=\"#546e7a\" stroke-width=\"1\"><line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"180\"/><line x1=\"100\" y1=\"20\" x2=\"100\" y2=\"180\"/><line x1=\"140\" y1=\"20\" x2=\"140\" y2=\"180\"/><line x1=\"180\" y1=\"20\" x2=\"180\" y2=\"180\"/><line x1=\"220\" y1=\"20\" x2=\"220\" y2=\"180\"/><line x1=\"260\" y1=\"20\" x2=\"260\" y2=\"180\"/><line x1=\"60\" y1=\"180\" x2=\"260\" y2=\"180\"/><line x1=\"60\" y1=\"153.32999999999998\" x2=\"260\" y2=\"153.32999999999998\"/><line x1=\"60\" y1=\"126.66\" x2=\"260\" y2=\"126.66\"/><line x1=\"60\" y1=\"99.99\" x2=\"260\" y2=\"99.99\"/><line x1=\"60\" y1=\"73.32\" x2=\"260\" y2=\"73.32\"/><line x1=\"60\" y1=\"46.64999999999998\" x2=\"260\" y2=\"46.64999999999998\"/><line x1=\"60\" y1=\"19.97999999999999\" x2=\"260\" y2=\"19.97999999999999\"/></g><line x1=\"60\" y1=\"180\" x2=\"265\" y2=\"180\" stroke=\"#ffffff\" stroke-width=\"2\"/><line x1=\"60\" y1=\"180\" x2=\"60\" y2=\"15\" stroke=\"#ffffff\" stroke-width=\"2\"/><text x=\"56\" y=\"198\" fill=\"#ffffff\" font-size=\"12\">0</text><text x=\"96\" y=\"198\" fill=\"#ffffff\" font-size=\"12\">1</text><text x=\"136\" y=\"198\" fill=\"#ffffff\" font-size=\"12\">2</text><text x=\"176\" y=\"198\" fill=\"#ffffff\" font-size=\"12\">3</text><text x=\"216\" y=\"198\" fill=\"#ffffff\" font-size=\"12\">4</text><text x=\"256\" y=\"198\" fill=\"#ffffff\" font-size=\"12\">5</text><text x=\"44\" y=\"184\" fill=\"#ffffff\" font-size=\"12\">0</text><text x=\"36\" y=\"130.66\" fill=\"#ffffff\" font-size=\"12\">20</text><text x=\"36\" y=\"77.32000000000001\" fill=\"#ffffff\" font-size=\"12\">40</text><text x=\"36\" y=\"23.980000000000018\" fill=\"#ffffff\" font-size=\"12\">60</text><rect x=\"96\" y=\"154.664\" width=\"8\" height=\"8\" fill=\"#ffeb3b\"/><rect x=\"136\" y=\"110.6585\" width=\"8\" height=\"8\" fill=\"#ffeb3b\"/><rect x=\"176\" y=\"66.653\" width=\"8\" height=\"8\" fill=\"#ffeb3b\"/><rect x=\"216\" y=\"23.981000000000023\" width=\"8\" height=\"8\" fill=\"#ffeb3b\"/><text x=\"130\" y=\"216\" fill=\"#ffffff\" font-size=\"12\">共鳴編號</text><text x=\"6\" y=\"100\" fill=\"#ffffff\" font-size=\"11\" transform=\"rotate(-90 14 100)\">共鳴氣柱長度（公分）</text></svg>",
     "options": [
       "350",
@@ -148,7 +148,7 @@
       "2000"
     ],
     "answerIndex": 3,
-    "explanation": "【一端閉管共鳴】\n一端封閉的氣柱，相鄰兩次共鳴的氣柱長度差為半個波長：$\\Delta L = \\dfrac{\\lambda}{2}$。\n由圖讀出四次共鳴長度約為 $8、24.5、41、57\\text{ cm}$，相鄰差約 $16.4\\text{ cm}$，所以\n$$\\lambda \\approx 2 \\times 16.4 = 32.8\\text{ cm} = 0.328\\text{ m}$$\n$$f = \\frac{v}{\\lambda} = \\frac{350}{0.328} \\approx 1.07 \\times 10^3\\text{ Hz}$$\n最接近 $1050\\text{ Hz}$。（第一次共鳴 $8\\text{ cm}$ 略小於 $\\dfrac{\\lambda}{4}$，是管口修正的結果。）\n\n故選 (D)"
+    "explanation": "【一端閉管共鳴】\n一端封閉的氣柱，相鄰兩次共鳴的氣柱長度差為半個波長：$\\Delta L = \\dfrac{\\lambda}{2}$。\n由圖讀出四次共鳴長度約為 $8\\text{、}24.5\\text{、}41\\text{、}57\\text{ cm}$，相鄰差約 $16.4\\text{ cm}$，所以\n$$\\lambda \\approx 2 \\times 16.4 = 32.8\\text{ cm} = 0.328\\text{ m}$$\n$$f = \\frac{v}{\\lambda} = \\frac{350}{0.328} \\approx 1.07 \\times 10^3\\text{ Hz}$$\n最接近 $1050\\text{ Hz}$。（第一次共鳴 $8\\text{ cm}$ 略小於 $\\dfrac{\\lambda}{4}$，是管口修正的結果。）\n\n故選 (D)"
   },
   {
     "id": "110-ast-phy-09",
@@ -174,17 +174,17 @@
     "year": 110,
     "subject": "物理",
     "points": 3,
-    "question": "氣泡室是裝滿液態氫的特殊容器，其內部具有均勻磁場。當帶電粒子穿過氣泡室時，沿著粒子軌跡會產生小氣泡，是一種能用來追蹤粒子動向的工具。圖 5 是不同的帶電粒子由左至右垂直射入氣泡室所產生的軌跡（磁場垂直進入紙面），分別以 $1、2、3$ 編號標示，而帶電粒子因與氣泡室內的液態氫作用而損失能量，軌跡呈螺旋形，其中粒子 $1、2$ 進行逆時針旋轉、粒子 $3$ 則為順時針旋轉。下列敘述何者正確？（以 $|mv/q|_i$ 表示編號 $i$ 的粒子其動量除以電量的量值）",
+    "question": "氣泡室是裝滿液態氫的特殊容器，其內部具有均勻磁場。當帶電粒子穿過氣泡室時，沿著粒子軌跡會產生小氣泡，是一種能用來追蹤粒子動向的工具。圖 5 是不同的帶電粒子由左至右垂直射入氣泡室所產生的軌跡（磁場垂直進入紙面），分別以 $1\\text{、}2\\text{、}3$ 編號標示，而帶電粒子因與氣泡室內的液態氫作用而損失能量，軌跡呈螺旋形，其中粒子 $1\\text{、}2$ 進行逆時針旋轉、粒子 $3$ 則為順時針旋轉。下列敘述何者正確？（以 $|mv/q|_i$ 表示編號 $i$ 的粒子其動量除以電量的量值）",
     "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-phy-10.png\" alt=\"圖5 氣泡室中三個帶電粒子的軌跡\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
     "options": [
-      "編號 $1、2、3$ 的粒子均帶正電，且 $|mv/q|_3 > |mv/q|_2 > |mv/q|_1$",
-      "編號 $1、2、3$ 的粒子均帶負電，且 $|mv/q|_1 > |mv/q|_2 > |mv/q|_3$",
-      "編號 $1、2$ 的粒子均帶正電，編號 $3$ 的粒子帶負電，且 $|mv/q|_1 > |mv/q|_2 > |mv/q|_3$",
-      "編號 $1、2$ 的粒子均帶正電，編號 $3$ 的粒子帶負電，且 $|mv/q|_3 > |mv/q|_2 > |mv/q|_1$",
-      "編號 $1、2$ 的粒子均帶負電，編號 $3$ 的粒子帶正電，且 $|mv/q|_3 > |mv/q|_2 > |mv/q|_1$"
+      "編號 $1\\text{、}2\\text{、}3$ 的粒子均帶正電，且 $|mv/q|_3 > |mv/q|_2 > |mv/q|_1$",
+      "編號 $1\\text{、}2\\text{、}3$ 的粒子均帶負電，且 $|mv/q|_1 > |mv/q|_2 > |mv/q|_3$",
+      "編號 $1\\text{、}2$ 的粒子均帶正電，編號 $3$ 的粒子帶負電，且 $|mv/q|_1 > |mv/q|_2 > |mv/q|_3$",
+      "編號 $1\\text{、}2$ 的粒子均帶正電，編號 $3$ 的粒子帶負電，且 $|mv/q|_3 > |mv/q|_2 > |mv/q|_1$",
+      "編號 $1\\text{、}2$ 的粒子均帶負電，編號 $3$ 的粒子帶正電，且 $|mv/q|_3 > |mv/q|_2 > |mv/q|_1$"
     ],
     "answerIndex": 3,
-    "explanation": "【帶電粒子在磁場中的圓周運動】\n• 電性：粒子向右運動（$+x$），磁場垂直進入紙面（$-z$）。正電荷受力 $\\vec F = q\\vec v \\times \\vec B$ 方向為 $+x \\times (-z) = +y$（向上），因此向上偏轉，軌跡為逆時針。所以逆時針的 $1、2$ 帶正電，順時針的 $3$ 帶負電。\n• 半徑：$qvB = \\dfrac{mv^2}{r} \\implies r = \\dfrac{mv}{qB}$，$|mv/q|$ 越大半徑越大。粒子 $3$ 幾乎直線（半徑最大），粒子 $2$ 的螺旋比粒子 $1$ 大，所以 $|mv/q|_3 > |mv/q|_2 > |mv/q|_1$。\n\n故選 (D)"
+    "explanation": "【帶電粒子在磁場中的圓周運動】\n• 電性：粒子向右運動（$+x$），磁場垂直進入紙面（$-z$）。正電荷受力 $\\vec F = q\\vec v \\times \\vec B$ 方向為 $+x \\times (-z) = +y$（向上），因此向上偏轉，軌跡為逆時針。所以逆時針的 $1\\text{、}2$ 帶正電，順時針的 $3$ 帶負電。\n• 半徑：$qvB = \\dfrac{mv^2}{r} \\implies r = \\dfrac{mv}{qB}$，$|mv/q|$ 越大半徑越大。粒子 $3$ 幾乎直線（半徑最大），粒子 $2$ 的螺旋比粒子 $1$ 大，所以 $|mv/q|_3 > |mv/q|_2 > |mv/q|_1$。\n\n故選 (D)"
   },
   {
     "id": "110-ast-phy-11",
@@ -289,7 +289,7 @@
       "3"
     ],
     "answerIndex": 3,
-    "explanation": "【能階躍遷譜線數】\n從主量子數 $n$ 的能階往下躍遷，任兩個能階之間都可能產生一條譜線，譜線數為\n$$C^n_2 = \\frac{n(n-1)}{2} = 6 \\implies n = 4$$\n（$4\\to3、4\\to2、4\\to1、3\\to2、3\\to1、2\\to1$ 共六條）\n\n故選 (D)"
+    "explanation": "【能階躍遷譜線數】\n從主量子數 $n$ 的能階往下躍遷，任兩個能階之間都可能產生一條譜線，譜線數為\n$$C^n_2 = \\frac{n(n-1)}{2} = 6 \\implies n = 4$$\n（$4\\to3\\text{、}4\\to2\\text{、}4\\to1\\text{、}3\\to2\\text{、}3\\to1\\text{、}2\\to1$ 共六條）\n\n故選 (D)"
   },
   {
     "id": "110-ast-phy-17",
@@ -324,7 +324,7 @@
       "22"
     ],
     "answerIndex": 0,
-    "explanation": "【浮力平衡＋理想氣體】\n浮力 = 總重：\n$$\\rho_{外} V g = (M + \\rho_{內} V)g \\implies \\rho_{內} = \\rho_{外} - \\frac{M}{V} = 1.2 - \\frac{600}{3000} = 1.0\\text{ kg/m}^3$$\n球內外壓力相同，理想氣體 $P = \\dfrac{\\rho R T}{M_{mol}}$，所以 $\\rho T$ 為定值：\n$$T_{內} = T_{外}\\frac{\\rho_{外}}{\\rho_{內}} = 295 \\times \\frac{1.2}{1.0} = 354\\text{ K} \\approx 81^\\circ\\text{C}$$\n故選 (A)"
+    "explanation": "【浮力平衡＋理想氣體】\n浮力 = 總重：\n$$\\rho_{\\text{外}} V g = (M + \\rho_{\\text{內}} V)g \\implies \\rho_{\\text{內}} = \\rho_{\\text{外}} - \\frac{M}{V} = 1.2 - \\frac{600}{3000} = 1.0\\text{ kg/m}^3$$\n球內外壓力相同，理想氣體 $P = \\dfrac{\\rho R T}{M_{mol}}$，所以 $\\rho T$ 為定值：\n$$T_{\\text{內}} = T_{\\text{外}}\\frac{\\rho_{\\text{外}}}{\\rho_{\\text{內}}} = 295 \\times \\frac{1.2}{1.0} = 354\\text{ K} \\approx 81^\\circ\\text{C}$$\n故選 (A)"
   },
   {
     "id": "110-ast-phy-19",
@@ -466,7 +466,7 @@
     "blankLabels": [
       "目的"
     ],
-    "explanation": "【量熱器實驗的步驟設計】\n• 量熱器也會吸收熱量，計算時需要知道它的初始溫度 $T_{量}$。量熱器的溫度很難直接量，但冷水與量熱器達熱平衡後，水溫就等於量熱器溫度，因此 $T_{冷} = T_{量}$。\n• 先放冷水讓系統的熱容量變大，再加入熱水時，系統溫度不會升得太高，與環境溫差較小，散失的熱量較少，結果較準確。\n\n答：目的是 (1) 由水溫得知量熱器初溫；(2) 增加系統熱容量以減少熱量散失。"
+    "explanation": "【量熱器實驗的步驟設計】\n• 量熱器也會吸收熱量，計算時需要知道它的初始溫度 $T_{\\text{量}}$。量熱器的溫度很難直接量，但冷水與量熱器達熱平衡後，水溫就等於量熱器溫度，因此 $T_{\\text{冷}} = T_{\\text{量}}$。\n• 先放冷水讓系統的熱容量變大，再加入熱水時，系統溫度不會升得太高，與環境溫差較小，散失的熱量較少，結果較準確。\n\n答：目的是 (1) 由水溫得知量熱器初溫；(2) 增加系統熱容量以減少熱量散失。"
   },
   {
     "id": "110-ast-phy-non-1-2",
@@ -501,7 +501,7 @@
     "blankLabels": [
       "金屬塊 A 的比熱（J/(g°C)）"
     ],
-    "explanation": "【先求量熱器熱容量，再求比熱】\n1. 由表 1，熱水放熱 = 冷水吸熱 + 量熱器吸熱（量熱器初溫等於冷水初溫 $15^\\circ\\text{C}$）：\n$$200 \\times 4.2 \\times (100 - 65) = 100 \\times 4.2 \\times (65 - 15) + C_{量}(65 - 15)$$\n$$C_{量} = \\frac{29400 - 21000}{50} = 168\\text{ J/}^\\circ\\text{C}$$\n2. 由表 2，金屬塊 A 放熱 = 冷水吸熱 + 量熱器吸熱：\n$$100 \\times s_A \\times (100 - 24) = (100 \\times 4.2 + 168)(24 - 19)$$\n$$s_A = \\frac{588 \\times 5}{7600} \\approx 0.39\\text{ J/(g}^\\circ\\text{C)}$$\n\n答：$s_A \\approx 0.39\\text{ J/(g}^\\circ\\text{C)}$（金屬塊 A 應貼標籤一）"
+    "explanation": "【先求量熱器熱容量，再求比熱】\n1. 由表 1，熱水放熱 = 冷水吸熱 + 量熱器吸熱（量熱器初溫等於冷水初溫 $15^\\circ\\text{C}$）：\n$$200 \\times 4.2 \\times (100 - 65) = 100 \\times 4.2 \\times (65 - 15) + C_{\\text{量}}(65 - 15)$$\n$$C_{\\text{量}} = \\frac{29400 - 21000}{50} = 168\\text{ J/}^\\circ\\text{C}$$\n2. 由表 2，金屬塊 A 放熱 = 冷水吸熱 + 量熱器吸熱：\n$$100 \\times s_A \\times (100 - 24) = (100 \\times 4.2 + 168)(24 - 19)$$\n$$s_A = \\frac{588 \\times 5}{7600} \\approx 0.39\\text{ J/(g}^\\circ\\text{C)}$$\n\n答：$s_A \\approx 0.39\\text{ J/(g}^\\circ\\text{C)}$（金屬塊 A 應貼標籤一）"
   },
   {
     "id": "110-ast-phy-non-1-4",
@@ -2136,7 +2136,7 @@
       "0.004"
     ],
     "answerIndex": 2,
-    "explanation": "【長直導線的磁場】\n$$B = \\frac{\\mu_0 I}{2\\pi r} = \\frac{4\\pi\\times10^{-7} \\times 150}{2\\pi \\times 1.5} = 2.0\\times10^{-5}\\text{ T}$$\n$$\\frac{B}{B_{地}} = \\frac{2.0\\times10^{-5}}{0.5\\times10^{-4}} = 0.4$$\n故選 (C)"
+    "explanation": "【長直導線的磁場】\n$$B = \\frac{\\mu_0 I}{2\\pi r} = \\frac{4\\pi\\times10^{-7} \\times 150}{2\\pi \\times 1.5} = 2.0\\times10^{-5}\\text{ T}$$\n$$\\frac{B}{B_{\\text{地}}} = \\frac{2.0\\times10^{-5}}{0.5\\times10^{-4}} = 0.4$$\n故選 (C)"
   },
   {
     "id": "109-ast-phy-13",
@@ -2213,7 +2213,7 @@
     "year": 109,
     "subject": "物理",
     "points": 3,
-    "question": "核反應：甲 → 乙 + 丙，產生的乙、丙粒子垂直經過出紙面方向的均勻磁場之軌跡紀錄，如圖 7 所示。若忽略重力與空氣阻力，已知乙、丙的電量大小相同，且對應軌跡的圓弧半徑比 $R_乙 : R_丙 = 5 : 3$，則甲、乙、丙三粒子動量的量值比 $p_甲 : p_乙 : p_丙$ 為何？",
+    "question": "核反應：甲 → 乙 + 丙，產生的乙、丙粒子垂直經過出紙面方向的均勻磁場之軌跡紀錄，如圖 7 所示。若忽略重力與空氣阻力，已知乙、丙的電量大小相同，且對應軌跡的圓弧半徑比 $R_\\text{乙} : R_\\text{丙} = 5 : 3$，則甲、乙、丙三粒子動量的量值比 $p_\\text{甲} : p_\\text{乙} : p_\\text{丙}$ 為何？",
     "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-phy-17.png\" alt=\"圖7 乙、丙粒子在磁場中的軌跡\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
     "options": [
       "8 : 5 : 3",
@@ -2223,7 +2223,7 @@
       "1 : 1 : 1"
     ],
     "answerIndex": 0,
-    "explanation": "【磁場中的圓周運動＋動量守恆】\n• 半徑 $R = \\dfrac{p}{qB}$，電量相同，所以 $p_乙 : p_丙 = R_乙 : R_丙 = 5 : 3$。\n• 由圖 7，乙、丙剛產生時的速度方向都與甲原來的運動方向相同（向下），只是因電性相反而分別向左、向右偏轉。\n• 動量守恆：$p_甲 = p_乙 + p_丙 = 5 + 3 = 8$。\n\n所以 $p_甲 : p_乙 : p_丙 = 8 : 5 : 3$。\n\n故選 (A)"
+    "explanation": "【磁場中的圓周運動＋動量守恆】\n• 半徑 $R = \\dfrac{p}{qB}$，電量相同，所以 $p_\\text{乙} : p_\\text{丙} = R_\\text{乙} : R_\\text{丙} = 5 : 3$。\n• 由圖 7，乙、丙剛產生時的速度方向都與甲原來的運動方向相同（向下），只是因電性相反而分別向左、向右偏轉。\n• 動量守恆：$p_\\text{甲} = p_\\text{乙} + p_\\text{丙} = 5 + 3 = 8$。\n\n所以 $p_\\text{甲} : p_\\text{乙} : p_\\text{丙} = 8 : 5 : 3$。\n\n故選 (A)"
   },
   {
     "id": "109-ast-phy-18",
@@ -2376,14 +2376,14 @@
     "points": 4,
     "selfGrade": true,
     "blanks": [
-      "$v'_甲 = \\dfrac{1}{2}\\sqrt{2gh}$",
-      "$v'_乙 = \\dfrac{3}{2}\\sqrt{2gh}$"
+      "$v'_\\text{甲} = \\dfrac{1}{2}\\sqrt{2gh}$",
+      "$v'_\\text{乙} = \\dfrac{3}{2}\\sqrt{2gh}$"
     ],
     "blankLabels": [
       "甲的速率",
       "乙的速率"
     ],
-    "explanation": "【力學能守恆＋彈性碰撞】\n• 甲滑下後的速率：$3mgh = \\dfrac{1}{2}(3m)v_甲^2 \\implies v_甲 = \\sqrt{2gh}$\n• 一維彈性碰撞（乙原本靜止）：\n$$v'_甲 = \\frac{3m - m}{3m + m}v_甲 = \\frac{1}{2}\\sqrt{2gh},\\qquad v'_乙 = \\frac{2(3m)}{3m + m}v_甲 = \\frac{3}{2}\\sqrt{2gh}$$\n（也可用動量守恆加上「碰撞前後相對速度大小不變」求得。）\n\n答：甲 $\\dfrac{1}{2}\\sqrt{2gh}$，乙 $\\dfrac{3}{2}\\sqrt{2gh}$，兩者都向右。"
+    "explanation": "【力學能守恆＋彈性碰撞】\n• 甲滑下後的速率：$3mgh = \\dfrac{1}{2}(3m)v_\\text{甲}^2 \\implies v_\\text{甲} = \\sqrt{2gh}$\n• 一維彈性碰撞（乙原本靜止）：\n$$v'_\\text{甲} = \\frac{3m - m}{3m + m}v_\\text{甲} = \\frac{1}{2}\\sqrt{2gh},\\qquad v'_\\text{乙} = \\frac{2(3m)}{3m + m}v_\\text{甲} = \\frac{3}{2}\\sqrt{2gh}$$\n（也可用動量守恆加上「碰撞前後相對速度大小不變」求得。）\n\n答：甲 $\\dfrac{1}{2}\\sqrt{2gh}$，乙 $\\dfrac{3}{2}\\sqrt{2gh}$，兩者都向右。"
   },
   {
     "id": "109-ast-phy-non-1-2a",
@@ -2401,7 +2401,7 @@
     "blankLabels": [
       "距離 r"
     ],
-    "explanation": "【簡諧運動的半週期】\n乙從接觸彈簧到彈簧第一次恢復原長，正好是簡諧運動的半個週期：\n$$t = \\frac{T}{2} = \\pi\\sqrt{\\frac{m}{k}}$$\n這段時間乙回到接觸點，而甲以 $v'_甲$ 等速前進了 $r$ 剛好也到達該點（第二次碰撞）：\n$$r = v'_甲 t = \\frac{1}{2}\\sqrt{2gh}\\cdot\\pi\\sqrt{\\frac{m}{k}} = \\frac{\\pi}{2}\\sqrt{\\frac{2mgh}{k}}$$\n\n答：$r = \\dfrac{\\pi}{2}\\sqrt{\\dfrac{2mgh}{k}}$"
+    "explanation": "【簡諧運動的半週期】\n乙從接觸彈簧到彈簧第一次恢復原長，正好是簡諧運動的半個週期：\n$$t = \\frac{T}{2} = \\pi\\sqrt{\\frac{m}{k}}$$\n這段時間乙回到接觸點，而甲以 $v'_\\text{甲}$ 等速前進了 $r$ 剛好也到達該點（第二次碰撞）：\n$$r = v'_\\text{甲} t = \\frac{1}{2}\\sqrt{2gh}\\cdot\\pi\\sqrt{\\frac{m}{k}} = \\frac{\\pi}{2}\\sqrt{\\frac{2mgh}{k}}$$\n\n答：$r = \\dfrac{\\pi}{2}\\sqrt{\\dfrac{2mgh}{k}}$"
   },
   {
     "id": "109-ast-phy-non-1-2b",
@@ -2606,16 +2606,16 @@
     "year": 108,
     "subject": "物理",
     "points": 3,
-    "question": "將位於同一高度的甲、乙兩質點，以相同初速同時鉛直上拋。甲在僅受重力的情況下，自初始上拋至再回到起點所需的時間為 $t_甲$，過程中最大的上升高度離起點為 $h$。但乙在上升時，與一片固定在離起點高度為 $h/2$ 的水平鋼板面發生彈性碰撞而向下折返，自初始上拋至再回到起點所需的時間為 $t_乙$。若空氣阻力可忽略，則下列敘述何者正確？\n（註：原題未說明兩質點質量是否相同，大考中心公告本題無標準答案、全部給分；本題庫練習時假設兩質點質量相同。）",
+    "question": "將位於同一高度的甲、乙兩質點，以相同初速同時鉛直上拋。甲在僅受重力的情況下，自初始上拋至再回到起點所需的時間為 $t_\\text{甲}$，過程中最大的上升高度離起點為 $h$。但乙在上升時，與一片固定在離起點高度為 $h/2$ 的水平鋼板面發生彈性碰撞而向下折返，自初始上拋至再回到起點所需的時間為 $t_\\text{乙}$。若空氣阻力可忽略，則下列敘述何者正確？\n（註：原題未說明兩質點質量是否相同，大考中心公告本題無標準答案、全部給分；本題庫練習時假設兩質點質量相同。）",
     "options": [
-      "$t_甲 = t_乙$",
+      "$t_\\text{甲} = t_\\text{乙}$",
       "乙再回到起點瞬間，甲的速度方向為向下",
       "在各自再回到起點瞬間，甲、乙兩者的動能相同",
       "就上拋至再回到起點的整個過程而言，重力對甲所作之功大於對乙所作之功",
       "乙發生碰撞後，向下運動的加速度量值，大於甲向下運動的加速度量值"
     ],
     "answerIndex": 2,
-    "explanation": "【鉛直上拋與彈性碰撞】\n設初速 $v_0 = \\sqrt{2gh}$。\n• (A) 錯誤：乙只到 $h/2$ 就折返，所需時間較短。乙上升到 $h/2$ 的時間 $t_1$ 滿足 $\\dfrac{h}{2} = v_0t_1 - \\dfrac{1}{2}gt_1^2$，得 $t_1 = (\\sqrt{2} - 1)\\sqrt{\\dfrac{h}{g}}$，$t_乙 = 2t_1 \\approx 0.83\\sqrt{\\dfrac{h}{g}}$；而 $t_甲 = 2\\sqrt{\\dfrac{2h}{g}} \\approx 2.83\\sqrt{\\dfrac{h}{g}}$。\n• (B) 錯誤：甲到最高點需 $\\sqrt{\\dfrac{2h}{g}} \\approx 1.41\\sqrt{\\dfrac{h}{g}}$，乙回到起點時甲仍在上升。\n• (C) 正確（質量相同時）：彈性碰撞不損失動能，兩者回到起點時速率都是 $v_0$；質量相同則動能相同。（若質量不同，動能就不同，這正是原題條件不足之處。）\n• (D) 錯誤：回到起點，位移為零，重力對兩者作功都是零。\n• (E) 錯誤：碰撞後只受重力，加速度都是 $g$。\n\n故選 (C)"
+    "explanation": "【鉛直上拋與彈性碰撞】\n設初速 $v_0 = \\sqrt{2gh}$。\n• (A) 錯誤：乙只到 $h/2$ 就折返，所需時間較短。乙上升到 $h/2$ 的時間 $t_1$ 滿足 $\\dfrac{h}{2} = v_0t_1 - \\dfrac{1}{2}gt_1^2$，得 $t_1 = (\\sqrt{2} - 1)\\sqrt{\\dfrac{h}{g}}$，$t_\\text{乙} = 2t_1 \\approx 0.83\\sqrt{\\dfrac{h}{g}}$；而 $t_\\text{甲} = 2\\sqrt{\\dfrac{2h}{g}} \\approx 2.83\\sqrt{\\dfrac{h}{g}}$。\n• (B) 錯誤：甲到最高點需 $\\sqrt{\\dfrac{2h}{g}} \\approx 1.41\\sqrt{\\dfrac{h}{g}}$，乙回到起點時甲仍在上升。\n• (C) 正確（質量相同時）：彈性碰撞不損失動能，兩者回到起點時速率都是 $v_0$；質量相同則動能相同。（若質量不同，動能就不同，這正是原題條件不足之處。）\n• (D) 錯誤：回到起點，位移為零，重力對兩者作功都是零。\n• (E) 錯誤：碰撞後只受重力，加速度都是 $g$。\n\n故選 (C)"
   },
   {
     "id": "108-ast-phy-08",
@@ -2651,7 +2651,7 @@
       "3.5"
     ],
     "answerIndex": 1,
-    "explanation": "【磁場的向量合成】\n線圈在 $yz$ 平面，圓心處的磁場 $B_線$ 沿 $x$ 軸，與電流成正比；地磁 $B_地$ 沿 $+y$。磁針沿合磁場方向，與 $+x$ 軸夾角 $\\theta$ 滿足\n$$\\tan\\theta = \\frac{B_地}{B_線}$$\n• $2.0\\text{ A}$ 時：$\\tan 37^\\circ = \\dfrac{3}{4} = \\dfrac{B_地}{B_線} \\implies B_線 = \\dfrac{4}{3}B_地$\n• 要 $45^\\circ$：$B_線' = B_地 = \\dfrac{3}{4}B_線$，所以 $I' = \\dfrac{3}{4} \\times 2.0 = 1.5\\text{ A}$\n\n故選 (B)"
+    "explanation": "【磁場的向量合成】\n線圈在 $yz$ 平面，圓心處的磁場 $B_\\text{線}$ 沿 $x$ 軸，與電流成正比；地磁 $B_\\text{地}$ 沿 $+y$。磁針沿合磁場方向，與 $+x$ 軸夾角 $\\theta$ 滿足\n$$\\tan\\theta = \\frac{B_\\text{地}}{B_\\text{線}}$$\n• $2.0\\text{ A}$ 時：$\\tan 37^\\circ = \\dfrac{3}{4} = \\dfrac{B_\\text{地}}{B_\\text{線}} \\implies B_\\text{線} = \\dfrac{4}{3}B_\\text{地}$\n• 要 $45^\\circ$：$B_\\text{線}' = B_\\text{地} = \\dfrac{3}{4}B_\\text{線}$，所以 $I' = \\dfrac{3}{4} \\times 2.0 = 1.5\\text{ A}$\n\n故選 (B)"
   },
   {
     "id": "108-ast-phy-10",
@@ -2685,7 +2685,7 @@
       "$\\dfrac{1}{4}$"
     ],
     "answerIndex": 0,
-    "explanation": "【克卜勒第三定律】\n$\\omega^2 r^3 = GM$ 為定值，所以 $\\omega \\propto r^{-3/2}$。\n• GPS 衛星軌道半徑：$6400 + 20200 = 26600\\text{ km}$\n• 同步衛星軌道半徑：$6400 + 36000 = 42400\\text{ km}$\n$$\\frac{\\omega_{GPS}}{\\omega_{同步}} = \\left(\\frac{42400}{26600}\\right)^{3/2} \\approx (1.59)^{1.5} \\approx 2.0$$\n（GPS 衛星週期約 12 小時，同步衛星 24 小時。）\n\n故選 (A)"
+    "explanation": "【克卜勒第三定律】\n$\\omega^2 r^3 = GM$ 為定值，所以 $\\omega \\propto r^{-3/2}$。\n• GPS 衛星軌道半徑：$6400 + 20200 = 26600\\text{ km}$\n• 同步衛星軌道半徑：$6400 + 36000 = 42400\\text{ km}$\n$$\\frac{\\omega_{GPS}}{\\omega_{\\text{同步}}} = \\left(\\frac{42400}{26600}\\right)^{3/2} \\approx (1.59)^{1.5} \\approx 2.0$$\n（GPS 衛星週期約 12 小時，同步衛星 24 小時。）\n\n故選 (A)"
   },
   {
     "id": "108-ast-phy-12",
@@ -2789,7 +2789,7 @@
       "$\\dfrac{1}{3}r$"
     ],
     "answerIndex": 3,
-    "explanation": "【力學能守恆＋彈性碰撞】\n• 甲滑到最低點：$mgr = \\dfrac{1}{2}mv^2 \\implies v = \\sqrt{2gr}$\n• 彈性碰撞（乙靜止）：$v'_乙 = \\dfrac{2m}{m + 2m}v = \\dfrac{2}{3}\\sqrt{2gr}$\n• 乙上升高度：$H = \\dfrac{v'^2_乙}{2g} = \\dfrac{4}{9} \\cdot \\dfrac{2gr}{2g} = \\dfrac{4}{9}r$\n（$H < r$，乙在四分之一圓以內，不會脫離軌道。）\n\n故選 (D)"
+    "explanation": "【力學能守恆＋彈性碰撞】\n• 甲滑到最低點：$mgr = \\dfrac{1}{2}mv^2 \\implies v = \\sqrt{2gr}$\n• 彈性碰撞（乙靜止）：$v'_\\text{乙} = \\dfrac{2m}{m + 2m}v = \\dfrac{2}{3}\\sqrt{2gr}$\n• 乙上升高度：$H = \\dfrac{v'^2_\\text{乙}}{2g} = \\dfrac{4}{9} \\cdot \\dfrac{2gr}{2g} = \\dfrac{4}{9}r$\n（$H < r$，乙在四分之一圓以內，不會脫離軌道。）\n\n故選 (D)"
   },
   {
     "id": "108-ast-phy-18",
@@ -3434,7 +3434,7 @@
       3,
       4
     ],
-    "explanation": "【全反射的臨界角】\n光線垂直射入底平面，方向不變。打到球面時，入射角 $\\theta$ 滿足 $\\sin\\theta = \\dfrac{y}{R}$（$y$ 為光線到中心軸的距離）。\n臨界角：$\\sin c = \\dfrac{1}{1.8} \\approx 0.56$\n甲、乙、丙、丁、戊離軸分別為 $0、\\dfrac{R}{5}、\\dfrac{2R}{5}、\\dfrac{3R}{5}、\\dfrac{4R}{5}$，$\\sin\\theta = 0、0.2、0.4、0.6、0.8$。\n$\\sin\\theta > 0.56$ 的丁、戊會發生全反射。\n\n故選 (D)(E)"
+    "explanation": "【全反射的臨界角】\n光線垂直射入底平面，方向不變。打到球面時，入射角 $\\theta$ 滿足 $\\sin\\theta = \\dfrac{y}{R}$（$y$ 為光線到中心軸的距離）。\n臨界角：$\\sin c = \\dfrac{1}{1.8} \\approx 0.56$\n甲、乙、丙、丁、戊離軸分別為 $0\\text{、}\\dfrac{R}{5}\\text{、}\\dfrac{2R}{5}\\text{、}\\dfrac{3R}{5}\\text{、}\\dfrac{4R}{5}$，$\\sin\\theta = 0\\text{、}0.2\\text{、}0.4\\text{、}0.6\\text{、}0.8$。\n$\\sin\\theta > 0.56$ 的丁、戊會發生全反射。\n\n故選 (D)(E)"
   },
   {
     "id": "107-ast-phy-24",
@@ -3693,7 +3693,7 @@
       "若入射角為 $60^\\circ$，則折射角為 $45^\\circ$"
     ],
     "answerIndex": 0,
-    "explanation": "【水波的折射】\n$v^2 \\propto$ 水深，深水區波速是淺水區的 $\\sqrt2$ 倍。折射定律：\n$$\\frac{\\sin\\theta_r}{\\sin\\theta_i} = \\frac{v_{深}}{v_{淺}} = \\sqrt2$$\n入射角 $30^\\circ$：$\\sin\\theta_r = \\sqrt2 \\times \\dfrac{1}{2} = \\dfrac{\\sqrt2}{2} \\implies \\theta_r = 45^\\circ$\n（入射角 $45^\\circ$ 時 $\\sin\\theta_r = 1$，恰為臨界角；由淺入深折射角必大於入射角，所以 (D)(E) 錯誤。）\n\n故選 (A)"
+    "explanation": "【水波的折射】\n$v^2 \\propto$ 水深，深水區波速是淺水區的 $\\sqrt2$ 倍。折射定律：\n$$\\frac{\\sin\\theta_r}{\\sin\\theta_i} = \\frac{v_{\\text{深}}}{v_{\\text{淺}}} = \\sqrt2$$\n入射角 $30^\\circ$：$\\sin\\theta_r = \\sqrt2 \\times \\dfrac{1}{2} = \\dfrac{\\sqrt2}{2} \\implies \\theta_r = 45^\\circ$\n（入射角 $45^\\circ$ 時 $\\sin\\theta_r = 1$，恰為臨界角；由淺入深折射角必大於入射角，所以 (D)(E) 錯誤。）\n\n故選 (A)"
   },
   {
     "id": "106-ast-phy-08",
@@ -3893,7 +3893,7 @@
     "year": 106,
     "subject": "物理",
     "points": 3,
-    "question": "以頻率為 $f_0$ 的紫外光分別照射兩塊金屬甲與乙後，均可測得光電子。金屬甲所產生的光電子的截止電壓為 $V$，金屬乙的截止電壓為 $3V/2$。若金屬甲的底限頻率為 $f_甲 = 2f_0/3$，金屬乙的底限頻率為 $f_乙$，則兩者的比值 $\\dfrac{f_甲}{f_乙}$ 為下列何者？",
+    "question": "以頻率為 $f_0$ 的紫外光分別照射兩塊金屬甲與乙後，均可測得光電子。金屬甲所產生的光電子的截止電壓為 $V$，金屬乙的截止電壓為 $3V/2$。若金屬甲的底限頻率為 $f_\\text{甲} = 2f_0/3$，金屬乙的底限頻率為 $f_\\text{乙}$，則兩者的比值 $\\dfrac{f_\\text{甲}}{f_\\text{乙}}$ 為下列何者？",
     "options": [
       "2/3",
       "3/4",
@@ -3902,7 +3902,7 @@
       "3/2"
     ],
     "answerIndex": 3,
-    "explanation": "【光電方程式 $eV_s = hf - hf_{底限}$】\n• 甲：$eV = hf_0 - \\dfrac{2}{3}hf_0 = \\dfrac{1}{3}hf_0$\n• 乙：$e \\cdot \\dfrac{3V}{2} = \\dfrac{3}{2} \\cdot \\dfrac{1}{3}hf_0 = \\dfrac{1}{2}hf_0 = hf_0 - hf_乙 \\implies f_乙 = \\dfrac{1}{2}f_0$\n\n$$\\frac{f_甲}{f_乙} = \\frac{2/3}{1/2} = \\frac{4}{3}$$\n故選 (D)"
+    "explanation": "【光電方程式 $eV_s = hf - hf_{\\text{底限}}$】\n• 甲：$eV = hf_0 - \\dfrac{2}{3}hf_0 = \\dfrac{1}{3}hf_0$\n• 乙：$e \\cdot \\dfrac{3V}{2} = \\dfrac{3}{2} \\cdot \\dfrac{1}{3}hf_0 = \\dfrac{1}{2}hf_0 = hf_0 - hf_\\text{乙} \\implies f_\\text{乙} = \\dfrac{1}{2}f_0$\n\n$$\\frac{f_\\text{甲}}{f_\\text{乙}} = \\frac{2/3}{1/2} = \\frac{4}{3}$$\n故選 (D)"
   },
   {
     "id": "106-ast-phy-20",
@@ -3941,7 +3941,7 @@
       2,
       4
     ],
-    "explanation": "【$v$-$t$ 圖：斜率是加速度，面積是位移】\n甲：$v_甲 = 40 - 10t$（$0\\sim4$ 小時）；乙：$0\\sim1$ 小時 $v_乙 = 60 - 40t$，$1\\sim3$ 小時 $20\\text{ km/h}$，$3\\sim4$ 小時由 $20$ 均勻減到 $0$。\n• (A) 錯誤：甲的速度一直減小。\n• (B) 錯誤：乙追近的距離 $\\displaystyle\\int_0^t (v_乙 - v_甲)\\,dt = 20t - 15t^2$，令其等於 $5$：$15t^2 - 20t + 5 = 0$，$t = \\dfrac{1}{3}$ 或 $1$ 小時。第一次相遇在 $\\dfrac{1}{3}$ 小時，第一小時末是第二次相遇。\n• (C) 正確：第一小時內斜率為 $-40\\text{ km/h}^2$ 的直線。\n• (D) 錯誤：$1\\sim3$ 小時速度固定，是等速運動。\n• (E) 正確：甲共走 $\\dfrac{1}{2} \\times 40 \\times 4 = 80\\text{ km}$；乙共走 $40 + 40 + 10 = 90\\text{ km}$。甲在 $5 + 80 = 85\\text{ km}$、乙在 $90\\text{ km}$，相距 $5\\text{ km}$（乙在前）。\n\n故選 (C)(E)"
+    "explanation": "【$v$-$t$ 圖：斜率是加速度，面積是位移】\n甲：$v_\\text{甲} = 40 - 10t$（$0\\sim4$ 小時）；乙：$0\\sim1$ 小時 $v_\\text{乙} = 60 - 40t$，$1\\sim3$ 小時 $20\\text{ km/h}$，$3\\sim4$ 小時由 $20$ 均勻減到 $0$。\n• (A) 錯誤：甲的速度一直減小。\n• (B) 錯誤：乙追近的距離 $\\displaystyle\\int_0^t (v_\\text{乙} - v_\\text{甲})\\,dt = 20t - 15t^2$，令其等於 $5$：$15t^2 - 20t + 5 = 0$，$t = \\dfrac{1}{3}$ 或 $1$ 小時。第一次相遇在 $\\dfrac{1}{3}$ 小時，第一小時末是第二次相遇。\n• (C) 正確：第一小時內斜率為 $-40\\text{ km/h}^2$ 的直線。\n• (D) 錯誤：$1\\sim3$ 小時速度固定，是等速運動。\n• (E) 正確：甲共走 $\\dfrac{1}{2} \\times 40 \\times 4 = 80\\text{ km}$；乙共走 $40 + 40 + 10 = 90\\text{ km}$。甲在 $5 + 80 = 85\\text{ km}$、乙在 $90\\text{ km}$，相距 $5\\text{ km}$（乙在前）。\n\n故選 (C)(E)"
   },
   {
     "id": "106-ast-phy-22",
@@ -5060,7 +5060,7 @@
     "subject": "化學",
     "type": "multiple",
     "points": 4,
-    "question": "【第 18-19 題為題組】一氧化氮和二氧化氮為常見的空氣汙染物。汽機車引擎的高溫可促使空氣中的氮氣與氧氣反應產生一氧化氮，一氧化氮再與空氣中的氧氣反應產生紅棕色二氧化氮，其反應式如式（1）所示。兩分子的二氧化氮在密閉系統中可結合生成無色的四氧化二氮氣體，其反應式如式（2）所示。\n$$2\\text{NO}(g) + \\text{O}_2(g) \\to 2\\text{NO}_2(g)\\qquad 式(1)$$\n$$2\\text{NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)\\qquad 式(2)$$\n18. 在定溫下，式（1）反應物初濃度（$[\\text{NO}]_0$、$[\\text{O}_2]_0$）與生成 $\\text{NO}_2$ 之初速率的關係如表 3 所示。下列相關敘述，哪些正確？",
+    "question": "【第 18-19 題為題組】一氧化氮和二氧化氮為常見的空氣汙染物。汽機車引擎的高溫可促使空氣中的氮氣與氧氣反應產生一氧化氮，一氧化氮再與空氣中的氧氣反應產生紅棕色二氧化氮，其反應式如式（1）所示。兩分子的二氧化氮在密閉系統中可結合生成無色的四氧化二氮氣體，其反應式如式（2）所示。\n$$2\\text{NO}(g) + \\text{O}_2(g) \\to 2\\text{NO}_2(g)\\qquad \\text{式}(1)$$\n$$2\\text{NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)\\qquad \\text{式}(2)$$\n18. 在定溫下，式（1）反應物初濃度（$[\\text{NO}]_0$、$[\\text{O}_2]_0$）與生成 $\\text{NO}_2$ 之初速率的關係如表 3 所示。下列相關敘述，哪些正確？",
     "svg": "<svg viewBox=\"0 0 474 152\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><text x=\"237\" y=\"20\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 3</text><rect x=\"2\" y=\"28\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">實驗</text><rect x=\"62\" y=\"28\" width=\"110\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">[NO]₀ (M)</text><rect x=\"172\" y=\"28\" width=\"110\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">[O₂]₀ (M)</text><rect x=\"282\" y=\"28\" width=\"190\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"377\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">生成 NO₂ 初速率 (M/s)</text><rect x=\"2\" y=\"58\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1</text><rect x=\"62\" y=\"58\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.010</text><rect x=\"172\" y=\"58\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.020</text><rect x=\"282\" y=\"58\" width=\"190\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"377\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1.4 × 10⁻²</text><rect x=\"2\" y=\"88\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2</text><rect x=\"62\" y=\"88\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.020</text><rect x=\"172\" y=\"88\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.020</text><rect x=\"282\" y=\"88\" width=\"190\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"377\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">5.6 × 10⁻²</text><rect x=\"2\" y=\"118\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3</text><rect x=\"62\" y=\"118\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.010</text><rect x=\"172\" y=\"118\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.040</text><rect x=\"282\" y=\"118\" width=\"190\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"377\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2.8 × 10⁻²</text></svg>",
     "options": [
       "反應物 NO 的反應級數為 1",
@@ -5083,7 +5083,7 @@
     "subject": "化學",
     "type": "multiple",
     "points": 4,
-    "question": "【第 18-19 題為題組】一氧化氮和二氧化氮為常見的空氣汙染物。汽機車引擎的高溫可促使空氣中的氮氣與氧氣反應產生一氧化氮，一氧化氮再與空氣中的氧氣反應產生紅棕色二氧化氮，其反應式如式（1）所示。兩分子的二氧化氮在密閉系統中可結合生成無色的四氧化二氮氣體，其反應式如式（2）所示。\n$$2\\text{NO}(g) + \\text{O}_2(g) \\to 2\\text{NO}_2(g)\\qquad 式(1)$$\n$$2\\text{NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)\\qquad 式(2)$$\n19. 在定溫下，測得式（2）的平衡常數（$K_c$）為 16。下列有關此反應的敘述，哪些正確？",
+    "question": "【第 18-19 題為題組】一氧化氮和二氧化氮為常見的空氣汙染物。汽機車引擎的高溫可促使空氣中的氮氣與氧氣反應產生一氧化氮，一氧化氮再與空氣中的氧氣反應產生紅棕色二氧化氮，其反應式如式（1）所示。兩分子的二氧化氮在密閉系統中可結合生成無色的四氧化二氮氣體，其反應式如式（2）所示。\n$$2\\text{NO}(g) + \\text{O}_2(g) \\to 2\\text{NO}_2(g)\\qquad \\text{式}(1)$$\n$$2\\text{NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)\\qquad \\text{式}(2)$$\n19. 在定溫下，測得式（2）的平衡常數（$K_c$）為 16。下列有關此反應的敘述，哪些正確？",
     "options": [
       "此反應的平衡常數 $K_c = \\dfrac{[\\text{N}_2\\text{O}_4]}{[\\text{NO}_2]^2}$",
       "反應到達平衡時，容器內顏色雖不再變化，但 $\\text{NO}_2$ 的結合反應與其逆反應仍持續進行",
@@ -5194,7 +5194,7 @@
     "subject": "化學",
     "type": "multiple",
     "points": 4,
-    "question": "在測量反應速率的秒錶反應實驗中，準備的兩個反應溶液如下：\n溶液 A：碘酸鉀（$\\text{KIO}_3$）\n溶液 B：亞硫酸氫鈉（$\\text{NaHSO}_3$）、硫酸、澱粉\n實驗中相關的離子反應式如下：\n$$\\text{IO}_3^- + 3\\text{HSO}_3^- \\to \\text{I}^- + 3\\text{SO}_4^{2-} + 3\\text{H}^+\\qquad 式(3)$$\n$$\\text{IO}_3^- + 5\\text{I}^- + 6\\text{H}^+ \\to 3\\text{I}_2(s) + 3\\text{H}_2\\text{O}(l)\\qquad 式(4)$$\n$$\\text{I}_2(s) + \\text{HSO}_3^- + \\text{H}_2\\text{O}(l) \\to 2\\text{I}^- + \\text{SO}_4^{2-} + 3\\text{H}^+\\qquad 式(5)$$\n下列敘述，哪些正確？",
+    "question": "在測量反應速率的秒錶反應實驗中，準備的兩個反應溶液如下：\n溶液 A：碘酸鉀（$\\text{KIO}_3$）\n溶液 B：亞硫酸氫鈉（$\\text{NaHSO}_3$）、硫酸、澱粉\n實驗中相關的離子反應式如下：\n$$\\text{IO}_3^- + 3\\text{HSO}_3^- \\to \\text{I}^- + 3\\text{SO}_4^{2-} + 3\\text{H}^+\\qquad \\text{式}(3)$$\n$$\\text{IO}_3^- + 5\\text{I}^- + 6\\text{H}^+ \\to 3\\text{I}_2(s) + 3\\text{H}_2\\text{O}(l)\\qquad \\text{式}(4)$$\n$$\\text{I}_2(s) + \\text{HSO}_3^- + \\text{H}_2\\text{O}(l) \\to 2\\text{I}^- + \\text{SO}_4^{2-} + 3\\text{H}^+\\qquad \\text{式}(5)$$\n下列敘述，哪些正確？",
     "options": [
       "當溶液 A 與溶液 B 混合時，要盡量避免搖晃混合溶液，以免干擾反應速率的測量",
       "本實驗所測量的是式（3）中亞硫酸氫根離子之消耗速率",
@@ -5491,7 +5491,7 @@
     "year": 108,
     "subject": "化學",
     "points": 3,
-    "question": "取含有 $\\text{Fe}_2\\text{O}_3$ 雜質的金塊樣品 3.2 克，以適量鹽酸使雜質恰完全作用，釋出的 $\\text{Fe}^{3+}$ 再以鐵還原成 $\\text{Fe}^{2+}$，該溶液中無 $\\text{Fe}^{3+}$ 殘留，其反應如式（1）及式（2）。用去離子水將該溶液稀釋至 100 毫升，取該稀釋液 10 毫升，在標準狀況下通入氯氣 13.44 毫升（視為理想氣體），可將 $\\text{Fe}^{2+}$ 完全氧化，如式（3）所示，該溶液中無 $\\text{Fe}^{2+}$ 殘留。試問金塊樣品中所含 $\\text{Fe}_2\\text{O}_3$ 的重量百分比為多少（%）？（$\\text{Fe}_2\\text{O}_3$ 莫耳質量為 160 g/mol）\n$$\\text{Fe}_2\\text{O}_3(s) + 6\\text{H}^+(aq) \\to 2\\text{Fe}^{3+}(aq) + 3\\text{H}_2\\text{O}(l)\\qquad 式(1)$$\n$$\\text{Fe}(s) + 2\\text{Fe}^{3+}(aq) \\to 3\\text{Fe}^{2+}(aq)\\qquad 式(2)$$\n$$2\\text{Fe}^{2+}(aq) + \\text{Cl}_2(g) \\to 2\\text{Fe}^{3+}(aq) + 2\\text{Cl}^-(aq)\\qquad 式(3)$$",
+    "question": "取含有 $\\text{Fe}_2\\text{O}_3$ 雜質的金塊樣品 3.2 克，以適量鹽酸使雜質恰完全作用，釋出的 $\\text{Fe}^{3+}$ 再以鐵還原成 $\\text{Fe}^{2+}$，該溶液中無 $\\text{Fe}^{3+}$ 殘留，其反應如式（1）及式（2）。用去離子水將該溶液稀釋至 100 毫升，取該稀釋液 10 毫升，在標準狀況下通入氯氣 13.44 毫升（視為理想氣體），可將 $\\text{Fe}^{2+}$ 完全氧化，如式（3）所示，該溶液中無 $\\text{Fe}^{2+}$ 殘留。試問金塊樣品中所含 $\\text{Fe}_2\\text{O}_3$ 的重量百分比為多少（%）？（$\\text{Fe}_2\\text{O}_3$ 莫耳質量為 160 g/mol）\n$$\\text{Fe}_2\\text{O}_3(s) + 6\\text{H}^+(aq) \\to 2\\text{Fe}^{3+}(aq) + 3\\text{H}_2\\text{O}(l)\\qquad \\text{式}(1)$$\n$$\\text{Fe}(s) + 2\\text{Fe}^{3+}(aq) \\to 3\\text{Fe}^{2+}(aq)\\qquad \\text{式}(2)$$\n$$2\\text{Fe}^{2+}(aq) + \\text{Cl}_2(g) \\to 2\\text{Fe}^{3+}(aq) + 2\\text{Cl}^-(aq)\\qquad \\text{式}(3)$$",
     "options": [
       "20",
       "30",
@@ -6339,7 +6339,7 @@
     "question": "【第 16-17 題為題組】去年八月，某一水圳森林公園的湖水有一段時間常出現死魚，經家畜疾病防治所採取該湖水樣品化驗，發現常見危害環境的化學物質含量並未超過法規標準，死魚樣體送驗也未驗出任何病毒。\n16. 下列有關該湖水水質的敘述，何者正確？",
     "options": [
       "公園湖水若未被汙染，則湖內除了水外不含有任何化合物",
-      "此地風大時，湖上的空氣會迅速被風帶走，依白努利原理，此時湖水中的溶氧量會降低",
+      "此地風大時，湖上的空氣會迅速被風帶走，依勒沙特列原理，此時湖水中的溶氧量會降低",
       "夏季高溫可使該湖水中溶氧量減少，致使魚群死亡",
       "若遊客餵食湖內的魚類，使有機物堆積於湖底，有助於水質優養化，可減少湖內魚類的死亡",
       "若湖水樣品中的二氧化碳濃度下降，則其 pH 值會略為下降"
@@ -6445,7 +6445,7 @@
     "subject": "化學",
     "type": "multiple",
     "points": 4,
-    "question": "室溫時，小明進行草酸鎂的溶度積（$K_{sp}$）測定實驗，將 1.12 g 草酸鎂固體（$\\text{MgC}_2\\text{O}_4$，式量 = 112）置於燒杯中，加入 100.0 mL 純水，並充分攪拌以達溶解平衡，過濾去除未溶解之草酸鎂固體後，得到飽和草酸鎂溶液。精確量取 25.0 mL 飽和草酸鎂溶液至錐形瓶中，並加入適量的 1.0 M $\\text{H}_2\\text{SO}_4(aq)$ 溶液後，以 0.010 M 過錳酸鉀溶液進行滴定，共用了 10.0 mL 始達滴定終點。此滴定的反應式為：\n$$\\text{MnO}_4^-(aq) + \\text{C}_2\\text{O}_4^{2-}(aq) + \\text{H}^+(aq) \\to \\text{Mn}^{2+}(aq) + \\text{CO}_2(g) + \\text{H}_2\\text{O}(l)\\ （係數未平衡）$$\n下列有關此實驗的敘述，哪些正確？",
+    "question": "室溫時，小明進行草酸鎂的溶度積（$K_{sp}$）測定實驗，將 1.12 g 草酸鎂固體（$\\text{MgC}_2\\text{O}_4$，式量 = 112）置於燒杯中，加入 100.0 mL 純水，並充分攪拌以達溶解平衡，過濾去除未溶解之草酸鎂固體後，得到飽和草酸鎂溶液。精確量取 25.0 mL 飽和草酸鎂溶液至錐形瓶中，並加入適量的 1.0 M $\\text{H}_2\\text{SO}_4(aq)$ 溶液後，以 0.010 M 過錳酸鉀溶液進行滴定，共用了 10.0 mL 始達滴定終點。此滴定的反應式為：\n$$\\text{MnO}_4^-(aq) + \\text{C}_2\\text{O}_4^{2-}(aq) + \\text{H}^+(aq) \\to \\text{Mn}^{2+}(aq) + \\text{CO}_2(g) + \\text{H}_2\\text{O}(l)\\ \\text{（係數未平衡）}$$\n下列有關此實驗的敘述，哪些正確？",
     "options": [
       "此滴定反應中，草酸根（$\\text{C}_2\\text{O}_4^{2-}$）為氧化劑",
       "此滴定反應不需外加指示劑，僅由溶液本身的顏色變化，即可判斷是否達到滴定終點",
@@ -6481,7 +6481,7 @@
       1,
       2
     ],
-    "explanation": "【放熱反應與平衡】\n• (A) 正確：產物 C 的能量低於 A＋B。\n• (B) 正確：放熱反應升溫，平衡左移，$K$ 下降。\n• (C) 正確：升溫使正、逆反應的速率常數都增加。\n• (D) 錯誤：平衡時正、逆反應速率相等。\n• (E) 錯誤：相等的是「速率」，不是速率常數（$K = k_正 / k_逆$）。\n\n故選 (A)(B)(C)"
+    "explanation": "【放熱反應與平衡】\n• (A) 正確：產物 C 的能量低於 A＋B。\n• (B) 正確：放熱反應升溫，平衡左移，$K$ 下降。\n• (C) 正確：升溫使正、逆反應的速率常數都增加。\n• (D) 錯誤：平衡時正、逆反應速率相等。\n• (E) 錯誤：相等的是「速率」，不是速率常數（$K = k_{\\text{正}} / k_{\\text{逆}}$）。\n\n故選 (A)(B)(C)"
   },
   {
     "id": "107-ast-chem-24",
@@ -6595,7 +6595,7 @@
     "year": 107,
     "subject": "化學",
     "type": "fill",
-    "question": "【非選擇題二】洪同學在實驗室測量下列反應的反應速率：$\\text{CO}(g) + \\text{NO}_2(g) \\to \\text{NO}(g) + \\text{CO}_2(g)$。反應物的初濃度及所得的初速率如下表所示。此反應的反應速率定律式可書寫為：速率 $= k[\\text{CO}]^m[\\text{NO}_2]^n$。\n\n3. 當 $[\\text{CO}]_初 = 0.40\\text{ M}$，$[\\text{NO}_2]_初 = 0.10\\text{ M}$ 時，此反應的初速率。（2 分）",
+    "question": "【非選擇題二】洪同學在實驗室測量下列反應的反應速率：$\\text{CO}(g) + \\text{NO}_2(g) \\to \\text{NO}(g) + \\text{CO}_2(g)$。反應物的初濃度及所得的初速率如下表所示。此反應的反應速率定律式可書寫為：速率 $= k[\\text{CO}]^m[\\text{NO}_2]^n$。\n\n3. 當 $[\\text{CO}]_{\\text{初}} = 0.40\\text{ M}$，$[\\text{NO}_2]_{\\text{初}} = 0.10\\text{ M}$ 時，此反應的初速率。（2 分）",
     "svg": "<svg viewBox=\"0 0 404 128\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:484.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">[CO]初 (M)</text><rect x=\"132\" y=\"4\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">[NO₂]初 (M)</text><rect x=\"262\" y=\"4\" width=\"140\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">初速率 (M/s)</text><rect x=\"2\" y=\"34\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.10</text><rect x=\"132\" y=\"34\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.10</text><rect x=\"262\" y=\"34\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.0020</text><rect x=\"2\" y=\"64\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.10</text><rect x=\"132\" y=\"64\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.20</text><rect x=\"262\" y=\"64\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.0080</text><rect x=\"2\" y=\"94\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.20</text><rect x=\"132\" y=\"94\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.20</text><rect x=\"262\" y=\"94\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.0080</text></svg>",
     "points": 2,
     "blanks": [
@@ -6769,5 +6769,650 @@
       ]
     ],
     "explanation": "$\\text{H}^+$ 主要來自上式，且 $[\\text{H}^+] = [\\text{HCO}_3^-] = x$，$[\\text{CO}_2]$ 維持 0.075 M：\n$$\\frac{x^2}{0.075} = 4.0\\times10^{-7} \\implies x = \\sqrt{3.0\\times10^{-8}} = 1.73\\times10^{-4} \\approx 1.7\\times10^{-4}\\text{ M}$$"
+  },
+  {
+    "id": "106-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "實驗室常備的下列儀器：1.試管　2.滴管　3.定量吸管　4.燒杯　5.錐形瓶　6.量筒　7.定量瓶　8.滴定管\n哪些可以用來精準測量液體的體積？",
+    "options": [
+      "1357",
+      "1238",
+      "3678",
+      "378",
+      "367"
+    ],
+    "answerIndex": 3,
+    "explanation": "【精確量器】\n定量吸管、定量瓶、滴定管都是精密量器；量筒只能粗略量取；試管、滴管、燒杯、錐形瓶不是量器。\n\n故選 (D)"
+  },
+  {
+    "id": "106-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "空氣中有許多污染物，例如懸浮微粒、二氧化碳、硫氧化物、氮氧化物等，影響健康甚大，也造成霧霾，並引起氣候變遷。其中，懸浮微粒的粒徑小於或等於 2.5 微米（μm）者稱為 PM2.5。下列有關敘述，哪一項正確？",
+    "options": [
+      "PM2.5 是一種新化合物",
+      "霧霾不是一種膠體溶液",
+      "天然氣不是溫室效應的氣體",
+      "空氣中的奈米顆粒不會造成污染",
+      "重金屬可能為 PM2.5 的成分之一"
+    ],
+    "answerIndex": 4,
+    "explanation": "【PM2.5】\n• (A) 錯誤：PM2.5 是以粒徑分類的混合物，不是單一化合物。\n• (B) 錯誤：霧霾是微粒分散在空氣中，屬於膠體（氣溶膠）。\n• (C) 錯誤：天然氣主成分甲烷是溫室氣體。\n• (D) 錯誤：奈米顆粒更容易深入肺部，會造成污染。\n• (E) 正確：燃燒或工業排放的重金屬可附著在微粒上。\n\n故選 (E)"
+  },
+  {
+    "id": "106-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "如果為了節能減碳，以每排放 1000 克的 $\\text{CO}_2$ 課稅 0.3 元。假設汽油的成分為辛烷，密度為 0.8 g/mL 而且完全燃燒，則一部小汽車加滿汽油 25 公升的碳稅（元），最接近下列哪一數值？",
+    "options": [
+      "10",
+      "18",
+      "25",
+      "32",
+      "40"
+    ],
+    "answerIndex": 1,
+    "explanation": "【燃燒計量】\n• 辛烷質量：$25000 \\times 0.8 = 2.0\\times10^4\\text{ g}$，$\\dfrac{20000}{114} \\approx 175\\text{ mol}$\n• $\\text{C}_8\\text{H}_{18}$ 每莫耳生成 8 mol $\\text{CO}_2$：$175 \\times 8 \\times 44 \\approx 6.2\\times10^4\\text{ g}$\n• 碳稅：$62 \\times 0.3 \\approx 18.5$ 元\n\n故選 (B)"
+  },
+  {
+    "id": "106-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "於 25°C 時，某溶液的 pH 值為 3.0，若以 0.10 M 的 NaOH 溶液滴定，發現只有在 pH 為 7.0 時，有一個滴定終點，則下列哪一項可能是此溶液的溶質？",
+    "options": [
+      "$\\text{C}_6\\text{H}_5\\text{COOH}$",
+      "$\\text{NH}_3$",
+      "HF",
+      "HCl",
+      "$\\text{CH}_3\\text{COOH}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【當量點 pH】\n強酸以強鹼滴定，當量點生成中性鹽，pH = 7。弱酸（苯甲酸、HF、醋酸）的當量點偏鹼；$\\text{NH}_3$ 是鹼，溶液 pH 不會是 3。\n\n故選 (D)"
+  },
+  {
+    "id": "106-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關丙二烯（$\\text{H}_2\\text{C}=\\text{C}=\\text{CH}_2$）分子鍵結與結構的敘述，哪一項正確？",
+    "options": [
+      "具有幾何異構物",
+      "碳－碳間以 p 軌域形成極性共價鍵",
+      "中間的碳原子具有 sp 混成軌域",
+      "末端的碳原子均具有 sp 混成軌域",
+      "分子中 C－C－C 的角度約為 120°"
+    ],
+    "answerIndex": 2,
+    "explanation": "【丙二烯】\n• 中間碳接兩個雙鍵，為 $sp$ 混成；兩端碳為 $sp^2$。(C) 正確、(D) 錯誤。\n• C＝C＝C 為直線，鍵角 $180^\\circ$，(E) 錯誤。\n• 兩端 $\\text{CH}_2$ 都接兩個 H，沒有幾何異構物，(A) 錯誤。\n• 同種原子之間是非極性鍵，(B) 錯誤。\n\n故選 (C)"
+  },
+  {
+    "id": "106-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "圖 1 表示兩種液體甲和乙的飽和蒸氣壓與溫度的關係。若兩液體混合後可視為理想溶液，根據拉午耳定律，可知：「蒸氣中甲所占的莫耳分率，等於其在蒸氣中的分壓除以總壓」，於 30°C 時，只由甲與乙兩種液體混合溶液的蒸氣中，甲的莫耳分率為 0.25，則（蒸氣中）乙的莫耳分率，最接近下列哪一數值？\n（註：原題未說明是蒸氣中或溶液中乙的莫耳分率，大考中心公告 (A) 或 (B) 皆給分；本題庫指蒸氣中。）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-chem-06.png\" alt=\"圖1 甲、乙的飽和蒸氣壓與溫度\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "0.75",
+      "0.60",
+      "0.50",
+      "0.40",
+      "0.25"
+    ],
+    "answerIndex": 0,
+    "explanation": "【蒸氣與溶液的組成】\n• 蒸氣中莫耳分率相加為 1：$y_{\\text{乙}} = 1 - 0.25 = 0.75$，即 (A)。\n• 若問的是溶液中：30°C 時 $P^\\circ_{\\text{甲}} \\approx 30$、$P^\\circ_{\\text{乙}} \\approx 60\\text{ mmHg}$。$\\dfrac{30x}{30x + 60(1 - x)} = 0.25 \\implies x_{\\text{甲}} = 0.40$，溶液中乙為 0.60，即 (B)。這是原題兩者皆給分的原因。\n\n故選 (A)"
+  },
+  {
+    "id": "106-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "氫氧化鈉是實驗常用的強鹼，其溶液的濃度，可用已知濃度的鹽酸進行標定。氫氧化鈉溶液若經長期使用，則因與空氣中的二氧化碳反應，其酸鹼值會改變，所以必須在實驗前重新標定。在下列選項的滴定曲線圖中，實線與虛線分別代表使用新配製的與已配製五週後的氫氧化鈉溶液滴定同體積、同濃度的鹽酸所得的滴定曲線。試問哪一個滴定圖較為合理？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-chem-07.png\" alt=\"選項 (A)～(E) 的滴定曲線\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 0,
+    "explanation": "【吸收 CO₂ 的 NaOH】\n$2\\text{NaOH} + \\text{CO}_2 \\to \\text{Na}_2\\text{CO}_3 + \\text{H}_2\\text{O}$，部分強鹼變成較弱的碳酸鈉：\n• 被滴定的鹽酸相同，起始 pH 應相同，(B)(D) 錯誤。\n• 舊溶液到 pH 7 附近時，碳酸根只中和到 $\\text{HCO}_3^-$ 或 $\\text{H}_2\\text{CO}_3$ 的程度不足，有效鹼濃度變小，需要較多體積，當量點向右移；(C)(E) 虛線反而提早。\n• 過量後，溶液中的鹼含較弱的碳酸鹽，pH 比新溶液低。\n(A) 的虛線較晚躍升且末段 pH 較低，最合理。\n\n故選 (A)"
+  },
+  {
+    "id": "106-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "若在 25°C，溶解 0.20 克的碘酸鋇至少需純水 $V_1$ 升，而溶解 0.10 克的碘酸鋇至少需純水 $V_2$ 升，則 $V_1 : V_2$ 的比例最接近下列哪一選項？",
+    "options": [
+      "1:1",
+      "2:1",
+      "4:1",
+      "6:1",
+      "8:1"
+    ],
+    "answerIndex": 1,
+    "explanation": "【溶解度固定】\n同溫下飽和溶液的濃度（溶解度）固定，溶解的量與水量成正比：$V_1 : V_2 = 0.20 : 0.10 = 2 : 1$。（$K_{sp}$ 只決定溶解度，不會讓比例變成平方或立方。）\n\n故選 (B)"
+  },
+  {
+    "id": "106-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "四個容器在 300 K 下分別盛裝氣體。甲容器體積 25.0 升，裝入氦氣後，測得壓力為 1.0 大氣壓。乙容器體積 12.5 升，裝入氮氣後，測得壓力為 1.75 大氣壓。丙容器體積 25.0 升，裝入 0.5 莫耳二氧化碳。丁容器體積 12.5 升，裝入氧氣後，測得密度為 1.75 克/升。以上數據彙整如表 1。假設所有氣體均可視為理想氣體，則有關此四個容器內原子數目多寡的排序，下列哪一項正確？（提示：0.082 × 300 = 24.6）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-chem-09.png\" alt=\"表1 四個容器的數據\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲 > 乙 > 丁 > 丙",
+      "丁 > 丙 > 乙 > 甲",
+      "乙 > 丁 > 甲 > 丙",
+      "乙 > 丙 > 丁 > 甲",
+      "丙 > 乙 > 丁 > 甲"
+    ],
+    "answerIndex": 3,
+    "explanation": "【原子的莫耳數】\n• 甲 He：$\\dfrac{1.0 \\times 25.0}{24.6} \\approx 1.01\\text{ mol}$ 原子\n• 乙 $\\text{N}_2$：$\\dfrac{1.75 \\times 12.5}{24.6} \\approx 0.89\\text{ mol}$ 分子，原子 1.78 mol\n• 丙 $\\text{CO}_2$：0.5 mol 分子，原子 1.5 mol\n• 丁 $\\text{O}_2$：$\\dfrac{1.75 \\times 12.5}{32} \\approx 0.68\\text{ mol}$ 分子，原子 1.37 mol\n\n乙 > 丙 > 丁 > 甲\n\n故選 (D)"
+  },
+  {
+    "id": "106-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "王同學完成阿司匹靈合成實驗並測定其純度。將合成所得的阿司匹靈粉末 2.83 克，加入 0.50 M 的氫氧化鈉 50 毫升後加熱水解，產生阿司匹靈的鈉鹽與醋酸鈉，其平衡反應式如下：\n$$\\text{C}_9\\text{H}_8\\text{O}_4(s) + 2\\text{NaOH}(aq) \\to \\text{C}_7\\text{H}_5\\text{O}_3\\text{Na}(aq) + \\text{C}_2\\text{H}_3\\text{O}_2\\text{Na}(aq) + \\text{H}_2\\text{O}(l)$$\n溶液冷卻後，用了 0.30 M 的鹽酸 32 毫升，才中和了溶液中過量的氫氧化鈉，則其所合成的阿司匹靈純度，最接近下列哪一數值（%）？",
+    "options": [
+      "25",
+      "49",
+      "60",
+      "75",
+      "98"
+    ],
+    "answerIndex": 1,
+    "explanation": "【反滴定】\n• NaOH 共 $0.50 \\times 50 = 25.0\\text{ mmol}$；過量的由 HCl 中和 $0.30 \\times 32 = 9.6\\text{ mmol}$\n• 與阿司匹靈反應的 NaOH：$15.4\\text{ mmol}$，阿司匹靈 $7.7\\text{ mmol}$\n• 質量 $7.7\\times10^{-3} \\times 180 \\approx 1.39\\text{ g}$，純度 $\\dfrac{1.39}{2.83} \\approx 49\\%$\n\n故選 (B)"
+  },
+  {
+    "id": "106-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "某氣體甲經光照會進行不可逆反應，產生氣體乙與氣體丙。若在一個密閉容器中實驗，所觀察到氣體甲的濃度與時間的關係如圖 2，則下列哪一數值是此反應的反應級數？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-chem-11.png\" alt=\"圖2 氣體甲濃度與時間\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 2,
+    "explanation": "【看半生期】\n由圖：0.200 → 0.100 M 約 5 s；0.100 → 0.050 M 約再 10 s（到 15 s 附近接近 0.05）。半生期隨濃度減半而加倍，是二級反應的特徵（$t_{1/2} = \\dfrac{1}{k[\\text{A}]_0}$）。\n驗證：$\\dfrac{1}{[\\text{A}]} = \\dfrac{1}{0.200} + kt$，由 5 s 時 0.100 M 得 $k = 1\\text{ M}^{-1}\\text{s}^{-1}$；15 s 時預測 0.050 M，與圖相近。一級反應的半生期則固定。\n\n故選 (C)"
+  },
+  {
+    "id": "106-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "已知在 37°C 時，某溶液的滲透壓約相當於 0.2M KI 水溶液的滲透壓，則此溶液的滲透壓（atm）最接近下列哪一數值？",
+    "options": [
+      "5.1",
+      "7.7",
+      "10.2",
+      "12.8",
+      "15.4"
+    ],
+    "answerIndex": 2,
+    "explanation": "【滲透壓 $\\pi = iCRT$】\nKI 解離成兩個離子，$i = 2$：$\\pi = 2 \\times 0.2 \\times 0.082 \\times 310 \\approx 10.2\\text{ atm}$\n\n故選 (C)"
+  },
+  {
+    "id": "106-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "只由碳、氫、氮、氧四種元素組成的化合物，可能會有數千種，其中分子量最小且結構符合八隅體學說的化合物，其分子量（g/mol）最接近下列哪一數值？",
+    "options": [
+      "43",
+      "45",
+      "46",
+      "47",
+      "49"
+    ],
+    "answerIndex": 0,
+    "explanation": "【最小的 C、H、N、O 化合物】\n四種元素至少各一個原子：CHNO，分子量 $12 + 1 + 14 + 16 = 43$。例如異氰酸 $\\text{H}-\\text{N}=\\text{C}=\\text{O}$ 或氰酸 $\\text{H}-\\text{O}-\\text{C}\\equiv\\text{N}$，都符合八隅體。\n\n故選 (A)"
+  },
+  {
+    "id": "106-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "若一基態的氫原子吸收波長為 94.91 nm 的光子躍遷至較高能階，先釋放出第一個波長為 1282 nm 的光子，到達某一個能階，然後再釋放出第二個光子回到基態。下列有關此第二光子波長數值範圍的敘述，何者正確？（λ 單位為 nm）",
+    "options": [
+      "$95 \\le \\lambda < 120$",
+      "$120 \\le \\lambda < 300$",
+      "$300 \\le \\lambda < 480$",
+      "$480 \\le \\lambda < 600$",
+      "$\\lambda > 600$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【能階躍遷】\n$E(\\text{eV}) \\approx \\dfrac{1240}{\\lambda(\\text{nm})}$\n• 吸收：$\\dfrac{1240}{94.91} \\approx 13.06\\text{ eV} = 13.6\\left(1 - \\dfrac{1}{n^2}\\right) \\implies n = 5$\n• 放出 1282 nm：$0.967\\text{ eV} = 13.6\\left(\\dfrac{1}{9} - \\dfrac{1}{25}\\right)$，由 $n = 5 \\to 3$\n• 第二個光子 $n = 3 \\to 1$：$12.09\\text{ eV}$，$\\lambda \\approx \\dfrac{1240}{12.09} \\approx 103\\text{ nm}$\n\n故選 (A)"
+  },
+  {
+    "id": "106-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "丙醇與丁醇皆可與過錳酸鉀的酸性溶液反應，下列有關其反應的敘述，何者正確？\n（甲）1-丙醇會產生丙酮\n（乙）2-丁醇會產生 2-丁酮\n（丙）2-甲基-2-丙醇會產生 2-甲基-2-丙酮",
+    "options": [
+      "只有甲",
+      "只有乙",
+      "只有丙",
+      "甲與乙",
+      "乙與丙"
+    ],
+    "answerIndex": 1,
+    "explanation": "【醇的氧化】\n• 一級醇氧化得醛再到羧酸：1-丙醇得丙醛、丙酸，不是丙酮。\n• 二級醇氧化得酮：2-丁醇得 2-丁酮，正確。\n• 三級醇（2-甲基-2-丙醇）一般不被氧化。\n\n故選 (B)"
+  },
+  {
+    "id": "106-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "若某氣體的化學反應：$a\\,\\text{A}(g) + b\\,\\text{B}(g) \\rightleftharpoons c\\,\\text{C}(g) + d\\,\\text{D}(g)$ 其平衡常數可用 $K_c$ 與 $K_p$ 表示，則下列關於此化學反應與其平衡常數的敘述，哪一項正確？",
+    "options": [
+      "當 $a + b = c + d$ 時，$K_c = K_p$",
+      "改變反應溫度，平衡常數不變",
+      "平衡常數大小可藉由添加催化劑來改變",
+      "平衡常數中的 $K_c$ 可由化學反應式來決定，但 $K_p$ 則不能",
+      "反應達到平衡時，正反應與逆反應的反應速率皆等於零"
+    ],
+    "answerIndex": 0,
+    "explanation": "【$K_p$ 與 $K_c$】\n$K_p = K_c(RT)^{\\Delta n}$，$\\Delta n = (c + d) - (a + b) = 0$ 時兩者相等，(A) 正確。\n平衡常數隨溫度改變、不受催化劑影響；$K_c$、$K_p$ 的表示式都可由反應式寫出；平衡時正逆反應速率相等但不為零。\n\n故選 (A)"
+  },
+  {
+    "id": "106-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列關於電鍍與無電電鍍（非電解電鍍）的敘述，哪些正確？\n（甲）鐵器鍍銀時，鐵器應置於陰極\n（乙）銀鏡反應中，醛反應產生酸的變化為還原反應\n（丙）醛類與多侖試劑進行的銀鏡反應，為一種無電電鍍\n（丁）鍍銀後的鐵器可以防止其表面生鏽，是因為銀的離子化趨勢比鐵大",
+    "options": [
+      "甲乙",
+      "甲丙",
+      "乙丙",
+      "乙丁",
+      "丙丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "【電鍍】\n• 甲 正確：被鍍物放在陰極，$\\text{Ag}^+$ 在其表面還原。\n• 乙 錯誤：醛變成酸是氧化反應。\n• 丙 正確：銀鏡反應不用外加電流，靠化學還原鍍上銀，是無電電鍍。\n• 丁 錯誤：銀的離子化趨勢比鐵小；鍍銀是隔絕空氣與水來防鏽。\n\n故選 (B)"
+  },
+  {
+    "id": "106-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "化學反應中，顏色常伴隨著反應的進行而改變。下列對於反應中顏色變化的敘述，哪些正確？\n（甲）以濃硝酸溶解銅片，會產生褐色的一氧化氮氣體\n（乙）加熱封閉容器中的 $\\text{NO}_2$ 與 $\\text{N}_2\\text{O}_4$ 的混合氣體，會使顏色變濃\n（丙）以稀鹽酸溶解鐵鏽，再加入 KSCN 溶液中，產生紅棕色氣體\n（丁）用銅網包住少量鈉金屬後，放入含有酚酞的無色水溶液中，溶液會變為粉紅色",
+    "options": [
+      "甲乙",
+      "甲丙",
+      "乙丙",
+      "乙丁",
+      "丙丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "【顏色變化】\n• 甲 錯誤：濃硝酸與銅產生紅棕色的 $\\text{NO}_2$；NO 是無色。\n• 乙 正確：$2\\text{NO}_2 \\rightleftharpoons \\text{N}_2\\text{O}_4$ 為放熱反應，加熱平衡左移，紅棕色 $\\text{NO}_2$ 增加。\n• 丙 錯誤：$\\text{Fe}^{3+}$ 與 $\\text{SCN}^-$ 形成血紅色錯離子溶液，不是氣體。\n• 丁 正確：鈉與水反應生成 NaOH，使酚酞變粉紅色。\n\n故選 (D)"
+  },
+  {
+    "id": "106-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列化合物中，哪些具有羥基的官能基？\n（甲）順丁烯二酸　（乙）果糖　（丙）澱粉　（丁）纖維素　（戊）三酸甘油酯",
+    "options": [
+      "甲乙丙",
+      "乙丙丁",
+      "丙丁戊",
+      "甲乙戊",
+      "甲丁戊"
+    ],
+    "answerIndex": 1,
+    "explanation": "【羥基】\n• 果糖、澱粉、纖維素都是醣類，含多個 －OH。\n• 順丁烯二酸的官能基是羧基（－COOH），不算羥基官能基。\n• 三酸甘油酯是甘油的三個 －OH 都被酯化，沒有羥基。\n\n故選 (B)"
+  },
+  {
+    "id": "106-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "points": 3,
+    "question": "王同學以排水集氣法做收集氧氣的實驗。當收集氧氣到達如圖 3 之 (a) 所示的程度時，隨即停止收集，並將收集瓶向下壓如圖 3 之 (b) 所示，使得 $h_3 + h_4$ 小於 $h_1 + h_2$。若根據上述實驗，則下列哪一敘述正確？（假設大氣壓力為一大氣壓，溫度為 25°C）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-chem-20.png\" alt=\"圖3 收集瓶下壓前後\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$h_1$ 等於 $h_3$",
+      "$h_2$ 小於 $h_4$",
+      "壓縮後，收集瓶內水的蒸氣壓變大",
+      "壓縮前後，收集瓶內的氣態水分子數目維持不變",
+      "（收集瓶內的氧氣壓力）加上（液柱高度壓力），再加上（水的蒸氣壓），其總和恰等於一大氣壓"
+    ],
+    "answerIndex": 4,
+    "explanation": "【排水集氣的壓力關係】\n瓶內水面比瓶外高出一段液柱時：$P_{\\text{O}_2} + P_{\\text{H}_2\\text{O}} + \\rho g h_{\\text{液柱}} = 1\\text{ atm}$，(E) 正確。\n• 往下壓使總高度變小：若液柱變高，瓶內氣壓變小、氣體體積變大，總高度反而變大，矛盾；所以液柱變矮（$h_3 < h_1$），瓶內氣壓變大、氣體被壓縮（$h_4 < h_2$）。(A)(B) 錯誤。\n• (C) 錯誤：溫度不變，飽和蒸氣壓不變。\n• (D) 錯誤：蒸氣分壓不變但體積變小，部分水蒸氣凝結，水分子數變少。\n\n故選 (E)"
+  },
+  {
+    "id": "106-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 21-22 題為題組】進行秒錶反應實驗時，先將碘酸鉀溶液與亞硫酸氫鈉溶液的濃度控制在一定範圍內，再將一定體積的上述兩種溶液與澱粉溶液混合，就可觀察其變為藍色，以推算反應速率與濃度的關係。其相關的反應式如下：\n式（一）：$\\text{IO}_3^- + 3\\text{HSO}_3^- \\to \\text{I}^- + 3\\text{SO}_4^{2-} + 3\\text{H}^+$\n式（二）：$\\text{IO}_3^- + 5\\text{I}^- + 6\\text{H}^+ \\to 3\\text{I}_2 + 3\\text{H}_2\\text{O}$\n式（三）：$\\text{I}_2 + \\text{HSO}_3^- + \\text{H}_2\\text{O} \\to 2\\text{I}^- + \\text{SO}_4^{2-} + 3\\text{H}^+$\n21. 下列有關此實驗的敘述，哪些正確？",
+    "options": [
+      "碘與亞硫酸氫根離子反應可生成碘離子",
+      "碘酸根離子與碘離子在鹼性溶液中可生成碘",
+      "碘酸根離子與亞硫酸氫根離子在鹼性溶液中反應，可生成碘",
+      "碘酸根與亞硫酸氫根的初濃度，其關係應為 $3[\\text{IO}_3^-] > [\\text{HSO}_3^-]$，才會出現藍色",
+      "反應生成的碘，可使含有澱粉的溶液顯現藍色"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "【碘鐘反應】\n• (A) 正確：式（三）。\n• (B)(C) 錯誤：式（二）需要 $\\text{H}^+$，在酸性中才生成碘。\n• (D) 正確：$\\text{HSO}_3^-$ 用完後還要剩下 $\\text{IO}_3^-$ 生成碘；由式（一），1 個 $\\text{IO}_3^-$ 消耗 3 個 $\\text{HSO}_3^-$，所以需 $3[\\text{IO}_3^-] > [\\text{HSO}_3^-]$。\n• (E) 正確：碘與澱粉呈藍色。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "106-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 21-22 題為題組】進行秒錶反應實驗時，先將碘酸鉀溶液與亞硫酸氫鈉溶液的濃度控制在一定範圍內，再將一定體積的上述兩種溶液與澱粉溶液混合，就可觀察其變為藍色，以推算反應速率與濃度的關係。其相關的反應式如下：\n式（一）：$\\text{IO}_3^- + 3\\text{HSO}_3^- \\to \\text{I}^- + 3\\text{SO}_4^{2-} + 3\\text{H}^+$\n式（二）：$\\text{IO}_3^- + 5\\text{I}^- + 6\\text{H}^+ \\to 3\\text{I}_2 + 3\\text{H}_2\\text{O}$\n式（三）：$\\text{I}_2 + \\text{HSO}_3^- + \\text{H}_2\\text{O} \\to 2\\text{I}^- + \\text{SO}_4^{2-} + 3\\text{H}^+$\n22. 林同學在秒錶反應實驗後，想探究如何可利用實驗的藍色廢液，設計一個延伸實驗以演示溶液的顏色變化。因此，量取 10mL 的廢液，慢慢倒入 3M 的 NaOH 溶液至廢液由藍色變成無色後，繼續多倒入 1mL 的 NaOH 溶液。林同學發現若在此無色廢液中，倒入濃度為 3M 的 X 溶液 2mL，則廢液又變藍色。試問下列哪些溶液，分別可以扮演 X 的角色，使無色廢液變成藍色？",
+    "options": [
+      "雙氧水",
+      "亞碘酸鈉",
+      "亞硫酸鈉",
+      "硫酸",
+      "鹽酸"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "【碘在鹼中的自身氧化還原】\n加入 NaOH 時 $3\\text{I}_2 + 6\\text{OH}^- \\to 5\\text{I}^- + \\text{IO}_3^- + 3\\text{H}_2\\text{O}$，碘消失而褪色。再加入酸，$\\text{IO}_3^- + 5\\text{I}^- + 6\\text{H}^+ \\to 3\\text{I}_2 + 3\\text{H}_2\\text{O}$，碘重新生成而變藍。所以 X 要提供 $\\text{H}^+$：硫酸、鹽酸。\n雙氧水、亞碘酸鈉、亞硫酸鈉在鹼性溶液中不能讓碘重新出現（亞硫酸鈉甚至是還原劑）。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "106-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "甲至戊 5 種化合物的結構如下：甲 苯甲酸；乙 乙酸乙酯；丙 N,N-二甲基苯甲醯胺；丁 2-丁酮；戊 順-3-己烯（結構見圖）。下列有關這些化合物的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-chem-23.png\" alt=\"甲～戊五種化合物的結構\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲為苯甲酸",
+      "乙可形成分子間氫鍵",
+      "丙具有醯胺官能基",
+      "丁可與多侖試劑反應產生銀鏡",
+      "戊可與弱鹼性的 $\\text{KMnO}_4$ 溶液反應生成二醇"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【官能基】\n• (A) 正確：苯環接 －COOH。\n• (B) 錯誤：乙酸乙酯沒有接在 O、N 上的 H，分子間不能形成氫鍵。\n• (C) 正確：$-\\text{CO}-\\text{N}<$ 為醯胺基。\n• (D) 錯誤：丁為酮，不與多侖試劑反應。\n• (E) 正確：烯在冷、稀、弱鹼性的過錳酸鉀中氧化成鄰二醇。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "106-ast-chem-24",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "分子馬達是依靠分子中化學鍵的旋轉，在可控制的條件下，使分子進行有方向的轉動，並輸出動力，例如一個烯基可在照光或加熱下進行異構化反應。三個有機分子甲、乙、丙的結構如圖 4。下列有關這三個分子的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-chem-24.png\" alt=\"圖4 分子甲、乙、丙的結構\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲分子是一個平面分子",
+      "常溫下，丙分子只有一個烯基",
+      "丙分子有順、反異構物",
+      "常溫下，乙分子有 3 個可自由旋轉的碳－碳鍵",
+      "甲分子具有順、反異構物"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "【結構與異構】\n• (A)(E) 錯誤：甲是兩個茀基以 C－C 單鍵相連，連接的碳為 $sp^3$，分子不是平面；單鍵可旋轉，沒有順反異構。\n• (B) 正確：丙中央連接兩環系的 C＝C 是唯一的烯基（苯環的芳香鍵不算烯基）。\n• (C) 正確：中央雙鍵兩端的碳各接兩個不同的基團，有順、反異構物。\n• (D) 正確：乙中央連接兩環系的 C－C 單鍵，以及兩個甲基與環相連的 C－C 鍵，共 3 個可自由旋轉；環內的鍵不能自由旋轉。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "106-ast-chem-25",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "羥基苯甲酸為含有羥基和羧基的芳香族化合物。下列相關敘述，哪些正確？",
+    "options": [
+      "若僅改變苯環上羥基和羧基的相對位置，則有三種異構物存在",
+      "異構物中，僅有鄰羥基苯甲酸可和乙酐進行酯化反應",
+      "異構物中，鄰羥基苯甲酸較易生成分子內氫鍵",
+      "鄰羥基苯甲酸具有 $sp^2$ 混成的碳原子有 6 個",
+      "加鹼可以提高羥基苯甲酸在水中的溶解度"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【羥基苯甲酸】\n• (A) 正確：鄰、間、對三種。\n• (B) 錯誤：三種異構物的酚羥基都能與乙酐酯化。\n• (C) 正確：鄰位的 －OH 與 －COOH 相鄰，易形成分子內氫鍵。\n• (D) 錯誤：苯環 6 個碳加上羧基碳，共 7 個 $sp^2$ 碳。\n• (E) 正確：與鹼反應成鹽，溶解度增加。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "106-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】王同學與三位同班同學在「探究與實作」課後，想以「氣體的反應物與生成物的定量關係」作為探究的主題。實驗過程如下：\n(1) 從管理室領取一塊含鈣的白色固體甲，先將其打碎後做一系列的實驗。\n(2) 固體甲不溶於水，但溶於稀鹽酸，並產生一種無色氣體乙。\n(3) 氣體乙會使澄清的石灰水混濁，產生沉澱丙，繼續通入氣體乙，則溶液的濁度逐漸增高，達最高點後逐漸降低。同學們推測固體甲與沉澱丙可能是同一化合物，並推測出甲、乙與丙是什麼化合物。老師借給同學們氣體計量器與濁度計各一部，同學們找出了溶液的濁度與沉澱的質量關係。\n(4) 為了研究氣體反應物乙與固體生成物丙的定量關係，在 20°C 以及 795 mmHg 的壓力下，經過氣體計量器，徐徐把氣體乙連續通入 5 升的澄清石灰水 Ca(OH)₂ 中，則見溶液逐漸變渾濁。\n(5) 在通入氣體乙的過程中，每通入 20 mL 氣體，就測量溶液的濁度 T。\n(6) 最後將溶液的濁度 T 換算成沉澱丙的質量 W，得表 2。\n已知在此實驗的溫度與壓力下，1 mol 的氣體約 23 升。\n\n1. 以自變數為 X 軸，描繪 V 與 W 的關係圖。（4 分）",
+    "svg": "<svg viewBox=\"0 0 516 122\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><text x=\"258\" y=\"20\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">表 2</text><rect x=\"2\" y=\"28\" width=\"160\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"82\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">測量序數</text><rect x=\"162\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"184\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"206\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"228\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"250\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"294\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"316\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"338\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"360\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"382\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"404\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"426\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"448\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"470\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"2\" y=\"58\" width=\"160\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"82\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">氣體乙的體積 V (mL)</text><rect x=\"162\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"184\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">20</text><rect x=\"206\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"228\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40</text><rect x=\"250\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">60</text><rect x=\"294\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"316\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">80</text><rect x=\"338\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"360\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"382\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"404\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">120</text><rect x=\"426\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"448\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">140</text><rect x=\"470\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">160</text><rect x=\"2\" y=\"88\" width=\"160\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"82\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">沉澱丙的質量 W (mg)</text><rect x=\"162\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"184\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">87</text><rect x=\"206\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"228\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">175</text><rect x=\"250\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">260</text><rect x=\"294\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"316\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">350</text><rect x=\"338\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"360\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">370</text><rect x=\"382\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"404\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">280</text><rect x=\"426\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"448\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">190</text><rect x=\"470\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">105</text></svg>",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "以 V（mL）為橫軸、W（mg）為縱軸描點：前 4 點（20～80 mL）約在通過原點的直線上；後 3 點（120～160 mL）在另一條斜率相反的直線上；兩直線延伸相交於約 V = 90 mL、W = 400 mg 的最高點。"
+    ],
+    "blankLabels": [
+      "作圖要點"
+    ],
+    "explanationSvg": "<svg viewBox=\"0 0 360 260\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><line x1=\"50\" y1=\"220\" x2=\"350\" y2=\"220\" stroke=\"#fff\" stroke-width=\"1.5\"/><line x1=\"50\" y1=\"220\" x2=\"50\" y2=\"20\" stroke=\"#fff\" stroke-width=\"1.5\"/><text x=\"114\" y=\"236\" fill=\"#fff\" font-size=\"11\">40</text><text x=\"186\" y=\"236\" fill=\"#fff\" font-size=\"11\">80</text><text x=\"258\" y=\"236\" fill=\"#fff\" font-size=\"11\">120</text><text x=\"330\" y=\"236\" fill=\"#fff\" font-size=\"11\">160</text><text x=\"20\" y=\"179\" fill=\"#fff\" font-size=\"11\">100</text><text x=\"20\" y=\"134\" fill=\"#fff\" font-size=\"11\">200</text><text x=\"20\" y=\"89\" fill=\"#fff\" font-size=\"11\">300</text><text x=\"20\" y=\"44\" fill=\"#fff\" font-size=\"11\">400</text><line x1=\"50\" y1=\"220\" x2=\"215.6\" y2=\"39.099999999999994\" stroke=\"#ffeb3b\" stroke-width=\"1.5\"/><line x1=\"215.6\" y1=\"39.099999999999994\" x2=\"359.6\" y2=\"196.6\" stroke=\"#ffeb3b\" stroke-width=\"1.5\"/><circle cx=\"86\" cy=\"180.85\" r=\"3.5\" fill=\"#80deea\"/><circle cx=\"122\" cy=\"141.25\" r=\"3.5\" fill=\"#80deea\"/><circle cx=\"158\" cy=\"103\" r=\"3.5\" fill=\"#80deea\"/><circle cx=\"194\" cy=\"62.5\" r=\"3.5\" fill=\"#80deea\"/><circle cx=\"230\" cy=\"53.5\" r=\"3.5\" fill=\"#80deea\"/><circle cx=\"266\" cy=\"94\" r=\"3.5\" fill=\"#80deea\"/><circle cx=\"302\" cy=\"134.5\" r=\"3.5\" fill=\"#80deea\"/><circle cx=\"338\" cy=\"172.75\" r=\"3.5\" fill=\"#80deea\"/><line x1=\"215.6\" y1=\"39.099999999999994\" x2=\"215.6\" y2=\"220\" stroke=\"#fff\" stroke-dasharray=\"3,3\"/><text x=\"219.6\" y=\"33.099999999999994\" fill=\"#ffeb3b\" font-size=\"11\">約 90 mL, 400 mg</text><text x=\"300\" y=\"252\" fill=\"#fff\" font-size=\"11\">V (mL)</text><text x=\"6\" y=\"16\" fill=\"#fff\" font-size=\"11\">W (mg)</text></svg>",
+    "explanation": "【作圖】\n• 上升段：$\\text{CO}_2 + \\text{Ca(OH)}_2 \\to \\text{CaCO}_3 + \\text{H}_2\\text{O}$，沉澱量與通入的 $\\text{CO}_2$ 成正比，畫成通過原點的直線（每 20 mL 約增加 87 mg）。\n• 下降段：$\\text{Ca(OH)}_2$ 用完後，多的 $\\text{CO}_2$ 把沉澱溶解 $\\text{CaCO}_3 + \\text{CO}_2 + \\text{H}_2\\text{O} \\to \\text{Ca(HCO}_3)_2$，畫成下降的直線。\n• 第 5 點（100 mL）落在轉折附近，不在任一直線上，峰值用兩直線外插求交點。\n\n答：見下方參考圖。"
+  },
+  {
+    "id": "106-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】王同學與三位同班同學在「探究與實作」課後，想以「氣體的反應物與生成物的定量關係」作為探究的主題。實驗過程如下：\n(1) 從管理室領取一塊含鈣的白色固體甲，先將其打碎後做一系列的實驗。\n(2) 固體甲不溶於水，但溶於稀鹽酸，並產生一種無色氣體乙。\n(3) 氣體乙會使澄清的石灰水混濁，產生沉澱丙，繼續通入氣體乙，則溶液的濁度逐漸增高，達最高點後逐漸降低。同學們推測固體甲與沉澱丙可能是同一化合物，並推測出甲、乙與丙是什麼化合物。老師借給同學們氣體計量器與濁度計各一部，同學們找出了溶液的濁度與沉澱的質量關係。\n(4) 為了研究氣體反應物乙與固體生成物丙的定量關係，在 20°C 以及 795 mmHg 的壓力下，經過氣體計量器，徐徐把氣體乙連續通入 5 升的澄清石灰水 Ca(OH)₂ 中，則見溶液逐漸變渾濁。\n(5) 在通入氣體乙的過程中，每通入 20 mL 氣體，就測量溶液的濁度 T。\n(6) 最後將溶液的濁度 T 換算成沉澱丙的質量 W，得表 2。\n已知在此實驗的溫度與壓力下，1 mol 的氣體約 23 升。\n\n2. 試從所繪圖上，找出濁度最高（亦沉澱量 W 最多）時，通入氣體的毫升數。（2 分）",
+    "svg": "<svg viewBox=\"0 0 516 122\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><text x=\"258\" y=\"20\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">表 2</text><rect x=\"2\" y=\"28\" width=\"160\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"82\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">測量序數</text><rect x=\"162\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"184\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"206\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"228\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"250\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"294\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"316\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"338\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"360\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"382\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"404\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"426\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"448\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"470\" y=\"28\" width=\"44\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"47.333333333333336\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"2\" y=\"58\" width=\"160\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"82\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">氣體乙的體積 V (mL)</text><rect x=\"162\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"184\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">20</text><rect x=\"206\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"228\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40</text><rect x=\"250\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">60</text><rect x=\"294\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"316\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">80</text><rect x=\"338\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"360\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"382\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"404\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">120</text><rect x=\"426\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"448\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">140</text><rect x=\"470\" y=\"58\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"77.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">160</text><rect x=\"2\" y=\"88\" width=\"160\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"82\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">沉澱丙的質量 W (mg)</text><rect x=\"162\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"184\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">87</text><rect x=\"206\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"228\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">175</text><rect x=\"250\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">260</text><rect x=\"294\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"316\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">350</text><rect x=\"338\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"360\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">370</text><rect x=\"382\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"404\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">280</text><rect x=\"426\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"448\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">190</text><rect x=\"470\" y=\"88\" width=\"44\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"107.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">105</text></svg>",
+    "points": 2,
+    "blanks": [
+      "90"
+    ],
+    "blankLabels": [
+      "氣體體積（mL）"
+    ],
+    "acceptedBlanks": [
+      [
+        "90mL",
+        "88",
+        "89",
+        "91",
+        "92",
+        "93",
+        "88mL",
+        "89mL",
+        "91mL",
+        "92mL",
+        "93mL"
+      ]
+    ],
+    "explanation": "【兩直線交點】\n• 上升線：$W \\approx 4.375V$\n• 下降線過 (120, 280)、(160, 105)：斜率 $-4.375$，$W = 280 - 4.375(V - 120)$\n• 交點：$4.375V = 805 - 4.375V \\implies V \\approx 92\\text{ mL}$，$W \\approx 400\\text{ mg}$\n（大考中心參考答案約為 90 mL、400 mg，作圖誤差可接受。）\n\n答：約 90 mL"
+  },
+  {
+    "id": "106-ast-chem-non-1-3",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】王同學與三位同班同學在「探究與實作」課後，想以「氣體的反應物與生成物的定量關係」作為探究的主題。實驗過程如下：\n(1) 從管理室領取一塊含鈣的白色固體甲，先將其打碎後做一系列的實驗。\n(2) 固體甲不溶於水，但溶於稀鹽酸，並產生一種無色氣體乙。\n(3) 氣體乙會使澄清的石灰水混濁，產生沉澱丙，繼續通入氣體乙，則溶液的濁度逐漸增高，達最高點後逐漸降低。同學們推測固體甲與沉澱丙可能是同一化合物，並推測出甲、乙與丙是什麼化合物。老師借給同學們氣體計量器與濁度計各一部，同學們找出了溶液的濁度與沉澱的質量關係。\n(4) 為了研究氣體反應物乙與固體生成物丙的定量關係，在 20°C 以及 795 mmHg 的壓力下，經過氣體計量器，徐徐把氣體乙連續通入 5 升的澄清石灰水 Ca(OH)₂ 中，則見溶液逐漸變渾濁。\n(5) 在通入氣體乙的過程中，每通入 20 mL 氣體，就測量溶液的濁度 T。\n(6) 最後將溶液的濁度 T 換算成沉澱丙的質量 W，得表 2。\n已知在此實驗的溫度與壓力下，1 mol 的氣體約 23 升。\n\n3. 寫出固體甲與稀鹽酸反應產生氣體乙的平衡化學反應式。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{CaCO}_3 + 2\\text{HCl} \\to \\text{CaCl}_2 + \\text{CO}_2 + \\text{H}_2\\text{O}$（或 $\\text{CaCO}_3 + 2\\text{H}^+ \\to \\text{Ca}^{2+} + \\text{CO}_2 + \\text{H}_2\\text{O}$）"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "甲為碳酸鈣，乙為二氧化碳，丙為碳酸鈣沉澱。\n$$\\text{CaCO}_3(s) + 2\\text{HCl}(aq) \\to \\text{CaCl}_2(aq) + \\text{CO}_2(g) + \\text{H}_2\\text{O}(l)$$"
+  },
+  {
+    "id": "106-ast-chem-non-1-4",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】王同學與三位同班同學在「探究與實作」課後，想以「氣體的反應物與生成物的定量關係」作為探究的主題。實驗過程如下：\n(1) 從管理室領取一塊含鈣的白色固體甲，先將其打碎後做一系列的實驗。\n(2) 固體甲不溶於水，但溶於稀鹽酸，並產生一種無色氣體乙。\n(3) 氣體乙會使澄清的石灰水混濁，產生沉澱丙，繼續通入氣體乙，則溶液的濁度逐漸增高，達最高點後逐漸降低。同學們推測固體甲與沉澱丙可能是同一化合物，並推測出甲、乙與丙是什麼化合物。老師借給同學們氣體計量器與濁度計各一部，同學們找出了溶液的濁度與沉澱的質量關係。\n(4) 為了研究氣體反應物乙與固體生成物丙的定量關係，在 20°C 以及 795 mmHg 的壓力下，經過氣體計量器，徐徐把氣體乙連續通入 5 升的澄清石灰水 Ca(OH)₂ 中，則見溶液逐漸變渾濁。\n(5) 在通入氣體乙的過程中，每通入 20 mL 氣體，就測量溶液的濁度 T。\n(6) 最後將溶液的濁度 T 換算成沉澱丙的質量 W，得表 2。\n已知在此實驗的溫度與壓力下，1 mol 的氣體約 23 升。\n\n4. 為什麼通入氣體乙於澄清的 $\\text{Ca(OH)}_2$ 溶液，則見溶液的濁度逐漸增高。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{CO}_2$ 與石灰水反應生成不溶於水的碳酸鈣沉澱（$\\text{CO}_2 + \\text{Ca(OH)}_2 \\to \\text{CaCO}_3 + \\text{H}_2\\text{O}$），通入越多沉澱越多，濁度增高。"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "$\\text{CO}_2 + \\text{Ca(OH)}_2 \\to \\text{CaCO}_3\\downarrow + \\text{H}_2\\text{O}$，生成的碳酸鈣懸浮在溶液中使其混濁。"
+  },
+  {
+    "id": "106-ast-chem-non-1-5",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】王同學與三位同班同學在「探究與實作」課後，想以「氣體的反應物與生成物的定量關係」作為探究的主題。實驗過程如下：\n(1) 從管理室領取一塊含鈣的白色固體甲，先將其打碎後做一系列的實驗。\n(2) 固體甲不溶於水，但溶於稀鹽酸，並產生一種無色氣體乙。\n(3) 氣體乙會使澄清的石灰水混濁，產生沉澱丙，繼續通入氣體乙，則溶液的濁度逐漸增高，達最高點後逐漸降低。同學們推測固體甲與沉澱丙可能是同一化合物，並推測出甲、乙與丙是什麼化合物。老師借給同學們氣體計量器與濁度計各一部，同學們找出了溶液的濁度與沉澱的質量關係。\n(4) 為了研究氣體反應物乙與固體生成物丙的定量關係，在 20°C 以及 795 mmHg 的壓力下，經過氣體計量器，徐徐把氣體乙連續通入 5 升的澄清石灰水 Ca(OH)₂ 中，則見溶液逐漸變渾濁。\n(5) 在通入氣體乙的過程中，每通入 20 mL 氣體，就測量溶液的濁度 T。\n(6) 最後將溶液的濁度 T 換算成沉澱丙的質量 W，得表 2。\n已知在此實驗的溫度與壓力下，1 mol 的氣體約 23 升。\n\n5. 在此實驗，為什麼不直接秤取沉澱丙的質量，而採用測量溶液的濁度，再換算成沉澱丙的質量？（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "沉澱量只有數百毫克，過濾、乾燥、秤重的誤差大、費時又麻煩；而且每通入 20 mL 就要量一次，濁度計可連續、即時測量。"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "直接秤重需要過濾、洗滌、乾燥，沉澱量又很少，誤差大、耗時、操作麻煩，也無法在通氣過程中連續測量。（說明其中一項即可。）"
+  },
+  {
+    "id": "106-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】去年（2016）諾貝爾化學獎，頒給分子機械的研究。化學家設計了一個化合物，其化學構造如圖 5 的化合物甲，具有環烷、鏈烷及阻塞團三部分，如圖 6。合成時將兩個甲分子互相穿插，得到二聚體乙，如圖 7。利用過渡金屬錯合物中，金屬離子對配位數目及配位結構具有強烈的選擇性，這些高度的專一性質可控制金屬錯合物的生成。例如綠色鎳(II)離子水溶液中逐滴加入乙二胺溶液，即漸漸轉變成藍、靛紫色。反之，銅(I)離子只與四個氮結合。若將莫耳比為 1：1 的二聚體乙與 Cu(I)離子，在無氧的適當條件下進行化學反應，可得到化合物丙。若將化合物丙與氧氣在適當條件下進行化學反應，可得到化合物丁，其中金屬離子錯合物的配位幾何形狀如圖 8。若用電化學控制進行反應，可使化合物丙和丁兩種結構選擇性轉換。\n\n1. 根據圖 6 的示意圖，畫出化合物甲中鏈烷的雙牙配位基及三牙配位基結構。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-chem-non-2.png\" alt=\"圖5 化合物甲、圖6 三部分示意、圖7 二聚體乙、圖8 金屬離子錯合物\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "雙牙配位基：環烷上的啡啉（1,10-phenanthroline）結構，兩個環上的 N 原子朝同一側配位；三牙配位基：鏈烷上的三聯吡啶（2,2′:6′,2″-terpyridine）結構，三個吡啶的 N 原子朝同一側配位。"
+    ],
+    "blankLabels": [
+      "作圖要點"
+    ],
+    "explanation": "【由示意圖辨認配位基】\n圖 6 環烷部分有兩個相鄰的 N（雙牙基，啡啉型），鏈烷部分有三個相鄰吡啶的 N（三牙基，三聯吡啶型）。畫圖時要畫出含 N 的芳香環，且 N 的孤對電子朝向同一方向，才能同時與金屬配位。"
+  },
+  {
+    "id": "106-ast-chem-non-2-2",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】去年（2016）諾貝爾化學獎，頒給分子機械的研究。化學家設計了一個化合物，其化學構造如圖 5 的化合物甲，具有環烷、鏈烷及阻塞團三部分，如圖 6。合成時將兩個甲分子互相穿插，得到二聚體乙，如圖 7。利用過渡金屬錯合物中，金屬離子對配位數目及配位結構具有強烈的選擇性，這些高度的專一性質可控制金屬錯合物的生成。例如綠色鎳(II)離子水溶液中逐滴加入乙二胺溶液，即漸漸轉變成藍、靛紫色。反之，銅(I)離子只與四個氮結合。若將莫耳比為 1：1 的二聚體乙與 Cu(I)離子，在無氧的適當條件下進行化學反應，可得到化合物丙。若將化合物丙與氧氣在適當條件下進行化學反應，可得到化合物丁，其中金屬離子錯合物的配位幾何形狀如圖 8。若用電化學控制進行反應，可使化合物丙和丁兩種結構選擇性轉換。\n\n2. 寫出化合物丙中，Cu(I) 離子的配位數目。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-chem-non-2.png\" alt=\"圖5 化合物甲、圖6 三部分示意、圖7 二聚體乙、圖8 金屬離子錯合物\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "4"
+    ],
+    "blankLabels": [
+      "配位數"
+    ],
+    "explanation": "題目說「銅(I)離子只與四個氮結合」：在丙中，兩個甲分子各用環上的雙牙基與 Cu(I) 配位，配位數為 4。\n\n答：4"
+  },
+  {
+    "id": "106-ast-chem-non-2-3",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】去年（2016）諾貝爾化學獎，頒給分子機械的研究。化學家設計了一個化合物，其化學構造如圖 5 的化合物甲，具有環烷、鏈烷及阻塞團三部分，如圖 6。合成時將兩個甲分子互相穿插，得到二聚體乙，如圖 7。利用過渡金屬錯合物中，金屬離子對配位數目及配位結構具有強烈的選擇性，這些高度的專一性質可控制金屬錯合物的生成。例如綠色鎳(II)離子水溶液中逐滴加入乙二胺溶液，即漸漸轉變成藍、靛紫色。反之，銅(I)離子只與四個氮結合。若將莫耳比為 1：1 的二聚體乙與 Cu(I)離子，在無氧的適當條件下進行化學反應，可得到化合物丙。若將化合物丙與氧氣在適當條件下進行化學反應，可得到化合物丁，其中金屬離子錯合物的配位幾何形狀如圖 8。若用電化學控制進行反應，可使化合物丙和丁兩種結構選擇性轉換。\n\n3. 寫出化合物丁中金屬離子的氧化態及其配位數目。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-chem-non-2.png\" alt=\"圖5 化合物甲、圖6 三部分示意、圖7 二聚體乙、圖8 金屬離子錯合物\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "+2",
+      "5"
+    ],
+    "blankLabels": [
+      "氧化態",
+      "配位數"
+    ],
+    "acceptedBlanks": [
+      [
+        "2",
+        "+Ⅱ",
+        "Ⅱ",
+        "II",
+        "+II"
+      ],
+      []
+    ],
+    "explanation": "丙與氧氣反應，Cu(I) 被氧化成 Cu(II)。由圖 8，銅被一個雙牙基（2 個 N）與一個三牙基（3 個 N）包圍，配位數 5。分子的環在鏈上滑動，換成另一組配位基，這就是分子肌肉伸縮的原理。\n\n答：+2，配位數 5"
+  },
+  {
+    "id": "106-ast-chem-non-2-4",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】去年（2016）諾貝爾化學獎，頒給分子機械的研究。化學家設計了一個化合物，其化學構造如圖 5 的化合物甲，具有環烷、鏈烷及阻塞團三部分，如圖 6。合成時將兩個甲分子互相穿插，得到二聚體乙，如圖 7。利用過渡金屬錯合物中，金屬離子對配位數目及配位結構具有強烈的選擇性，這些高度的專一性質可控制金屬錯合物的生成。例如綠色鎳(II)離子水溶液中逐滴加入乙二胺溶液，即漸漸轉變成藍、靛紫色。反之，銅(I)離子只與四個氮結合。若將莫耳比為 1：1 的二聚體乙與 Cu(I)離子，在無氧的適當條件下進行化學反應，可得到化合物丙。若將化合物丙與氧氣在適當條件下進行化學反應，可得到化合物丁，其中金屬離子錯合物的配位幾何形狀如圖 8。若用電化學控制進行反應，可使化合物丙和丁兩種結構選擇性轉換。\n\n4. 寫出 Cu(I) 離子的電子組態。（2 分）",
+    "points": 2,
+    "blanks": [
+      "[Ar]3d10"
+    ],
+    "blankLabels": [
+      "電子組態"
+    ],
+    "acceptedBlanks": [
+      [
+        "[Ar]3d^10",
+        "1s22s22p63s23p63d10",
+        "1s^22s^22p^63s^23p^63d^10"
+      ]
+    ],
+    "explanation": "Cu：$[\\text{Ar}]3d^{10}4s^1$，失去 1 個 4s 電子成為 $\\text{Cu}^+$：$[\\text{Ar}]3d^{10}$。"
   }
 ]
