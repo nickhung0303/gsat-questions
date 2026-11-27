@@ -11,6 +11,7 @@
   },
 {
     "id": "110-ast-phy-01",
+    "points": 3,
     "examType": "分科/指考",
     "year": 110,
     "subject": "物理",
@@ -27,6 +28,7 @@
   },
   {
     "id": "110-ast-phy-02",
+    "points": 3,
     "examType": "分科/指考",
     "year": 110,
     "subject": "物理",
@@ -43,6 +45,7 @@
   },
   {
     "id": "110-ast-phy-03",
+    "points": 3,
     "examType": "分科/指考",
     "year": 110,
     "subject": "物理",
@@ -60,6 +63,7 @@
   },
   {
     "id": "110-ast-phy-04",
+    "points": 3,
     "examType": "分科/指考",
     "year": 110,
     "subject": "物理",
@@ -74,6 +78,377 @@
     ],
     "answerIndex": 4,
     "explanation": "【斜向拋射運動軌跡分析】\n1. 初速單位換算與鉛直分量拆解：\n• 初速量值 $v_0 = 126\\text{ km/h} = 126 \\times \\frac{1000\\text{ m}}{3600\\text{ s}} = 35\\text{ m/s}$\n• 已知仰角 $\\cos\\theta = \\frac{3}{5}$，由直角三角形邊長比 $3:4:5$ 可得 $\\sin\\theta = \\frac{4}{5}$\n• 鉛直方向初速（向上為正）：$v_{0y} = v_0\\sin\\theta = 35 \\times \\frac{4}{5} = 28\\text{ m/s}$\n\n2. 計算 $t = 5.0\\text{ s}$ 內的鉛直位移 $\\Delta y$：\n$$\\Delta y = v_{0y}t - \\frac{1}{2}gt^2 = 28 \\times 5.0 - \\frac{1}{2} \\times 10 \\times (5.0)^2 = 140 - 125 = 15\\text{ m}$$\n\n3. 計算飛越全壘打牆瞬間的離地高度 $H$：\n擊球點原本已離地 $y_0 = 1.0\\text{ m}$，故總離地高度為：\n$$H = y_0 + \\Delta y = 1.0 + 15 = 16\\text{ m}$$\n\n故選 (E)"
+  },
+  {
+    "id": "110-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "甲、乙兩計時器原來置於地球表面計時，甲計時器以在鉛垂面作小角度左右擺動的單擺週期，作為計時基準；乙計時器利用彈簧讓重物在光滑水平面上振動，以其週期作為計時基準。現將兩計時器移至另一星球表面，該星球表面的重力加速度量值為地球表面的 $4$ 倍，則下列有關甲計時器擺動週期 $T_{甲}$ 和乙計時器振動週期 $T_{乙}$ 的敘述何者正確？（忽略空氣阻力）",
+    "options": [
+      "$T_{甲}$、$T_{乙}$ 均變為原來的 $4$ 倍",
+      "$T_{甲}$、$T_{乙}$ 均變為原來的 $\\dfrac{1}{2}$",
+      "$T_{甲}$ 變為原來的 $2$ 倍，$T_{乙}$ 不變",
+      "$T_{甲}$ 變為原來的 $\\dfrac{1}{2}$，$T_{乙}$ 不變",
+      "$T_{甲}$、$T_{乙}$ 均不變"
+    ],
+    "answerIndex": 3,
+    "explanation": "【簡諧運動週期】\n• 單擺（小角度）：$T_{甲} = 2\\pi\\sqrt{\\dfrac{L}{g}}$，$g$ 變為 $4$ 倍，週期變為 $\\dfrac{1}{\\sqrt{4}} = \\dfrac{1}{2}$ 倍。\n• 水平彈簧振子：$T_{乙} = 2\\pi\\sqrt{\\dfrac{m}{k}}$，與重力加速度無關，且在光滑水平面上重力不影響回復力，因此週期不變。\n\n故選 (D)"
+  },
+  {
+    "id": "110-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "圖 1 為起重機示意圖，起重機臂 $PO$ 和水平線的夾角為 $60^\\circ$，且可繞 $O$ 點自由轉動，其質量為 $200\\text{ kg}$ 且分布均勻，鋼索 $PS$ 段和水平線的夾角為 $30^\\circ$，$PSO$ 位於垂直面。起重機臂右端懸掛一質量為 $160\\text{ kg}$ 的重物，若此時處於平衡狀態，且整條鋼索質量可忽略不計，則鋼索上的張力是多少牛頓？（取重力加速度 $g = 10\\text{ m/s}^2$）",
+    "svg": "<svg viewBox=\"0 0 380 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><line x1=\"20\" y1=\"170\" x2=\"360\" y2=\"170\" stroke=\"#ffffff\" stroke-width=\"2\"/><g stroke=\"#ffffff\" stroke-width=\"1\"><line x1=\"25\" y1=\"170\" x2=\"15\" y2=\"182\"/><line x1=\"45\" y1=\"170\" x2=\"35\" y2=\"182\"/><line x1=\"65\" y1=\"170\" x2=\"55\" y2=\"182\"/><line x1=\"85\" y1=\"170\" x2=\"75\" y2=\"182\"/><line x1=\"105\" y1=\"170\" x2=\"95\" y2=\"182\"/><line x1=\"125\" y1=\"170\" x2=\"115\" y2=\"182\"/><line x1=\"145\" y1=\"170\" x2=\"135\" y2=\"182\"/><line x1=\"165\" y1=\"170\" x2=\"155\" y2=\"182\"/><line x1=\"185\" y1=\"170\" x2=\"175\" y2=\"182\"/><line x1=\"205\" y1=\"170\" x2=\"195\" y2=\"182\"/><line x1=\"225\" y1=\"170\" x2=\"215\" y2=\"182\"/><line x1=\"245\" y1=\"170\" x2=\"235\" y2=\"182\"/><line x1=\"265\" y1=\"170\" x2=\"255\" y2=\"182\"/><line x1=\"285\" y1=\"170\" x2=\"275\" y2=\"182\"/><line x1=\"305\" y1=\"170\" x2=\"295\" y2=\"182\"/><line x1=\"325\" y1=\"170\" x2=\"315\" y2=\"182\"/><line x1=\"345\" y1=\"170\" x2=\"335\" y2=\"182\"/></g><line x1=\"60\" y1=\"170\" x2=\"250\" y2=\"60\" stroke=\"#80deea\" stroke-width=\"2\" stroke-dasharray=\"6,4\"/><line x1=\"200\" y1=\"170\" x2=\"263\" y2=\"60\" stroke=\"#ffeb3b\" stroke-width=\"7\" stroke-linecap=\"round\"/><line x1=\"263\" y1=\"60\" x2=\"263\" y2=\"85\" stroke=\"#ffffff\" stroke-width=\"1.5\"/><rect x=\"243\" y=\"85\" width=\"40\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1.5\"/><text x=\"248\" y=\"104\" fill=\"#ffffff\" font-size=\"11\">160kg</text><circle cx=\"200\" cy=\"170\" r=\"4\" fill=\"#ffffff\"/><circle cx=\"60\" cy=\"170\" r=\"4\" fill=\"#ffffff\"/><text x=\"55\" y=\"196\" fill=\"#ffffff\" font-size=\"14\">S</text><text x=\"196\" y=\"196\" fill=\"#ffffff\" font-size=\"14\">O</text><text x=\"262\" y=\"52\" fill=\"#ffffff\" font-size=\"14\">P</text><path d=\"M 95 170 A 35 35 0 0 0 91 152\" fill=\"none\" stroke=\"#ffffff\"/><text x=\"100\" y=\"160\" fill=\"#ffffff\" font-size=\"12\">30°</text><path d=\"M 225 170 A 25 25 0 0 0 213 148\" fill=\"none\" stroke=\"#ffffff\"/><text x=\"228\" y=\"160\" fill=\"#ffffff\" font-size=\"12\">60°</text><text x=\"275\" y=\"140\" fill=\"#ffeb3b\" font-size=\"12\">起重機臂 200 kg</text><text x=\"70\" y=\"110\" fill=\"#80deea\" font-size=\"12\">鋼索</text></svg>",
+    "options": [
+      "1600",
+      "2600",
+      "3200",
+      "3600",
+      "5200"
+    ],
+    "answerIndex": 1,
+    "explanation": "【以 O 為支點的力矩平衡】\n設起重機臂長為 $\\ell$。\n• 臂重 $W = 2000\\text{ N}$ 作用在中點，水平力臂 $\\dfrac{\\ell}{2}\\cos 60^\\circ = \\dfrac{\\ell}{4}$。\n• 重物 $1600\\text{ N}$ 掛在 $P$ 點，水平力臂 $\\ell\\cos 60^\\circ = \\dfrac{\\ell}{2}$。\n• 鋼索張力 $T$ 沿 $PS$ 方向（與水平夾 $30^\\circ$），與臂 $OP$（與水平夾 $60^\\circ$）的夾角為 $180^\\circ - 30^\\circ = 150^\\circ$，力矩為 $T\\ell\\sin 150^\\circ = \\dfrac{T\\ell}{2}$。\n\n力矩平衡：\n$$\\frac{T\\ell}{2} = 2000 \\cdot \\frac{\\ell}{4} + 1600 \\cdot \\frac{\\ell}{2} = 1300\\ell \\implies T = 2600\\text{ N}$$\n故選 (B)"
+  },
+  {
+    "id": "110-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "有兩顆大小相同的小球，各以長度為 $L$、質量可忽略不計的擺繩掛在天花板同一點，左邊小球的質量為 $2m$，右邊小球的質量為 $3m$。某生拉起兩小球至高度分別為 $h_L$ 和 $h_R$，將小球由靜止釋放，讓小球擺向中間，使兩小球恰在最低點時發生正向彈性碰撞，如圖 2 所示。碰撞後，若左邊的小球擺回到最高點的高度仍然為 $h_L$，則 $h_L : h_R$ 為何？",
+    "svg": "<svg viewBox=\"0 0 300 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><line x1=\"40\" y1=\"20\" x2=\"260\" y2=\"20\" stroke=\"#ffffff\" stroke-width=\"2\"/><line x1=\"150\" y1=\"20\" x2=\"143\" y2=\"150\" stroke=\"#ffffff\" stroke-width=\"1.5\"/><line x1=\"150\" y1=\"20\" x2=\"157\" y2=\"150\" stroke=\"#ffffff\" stroke-width=\"1.5\"/><text x=\"125\" y=\"90\" fill=\"#ffffff\" font-size=\"14\" font-style=\"italic\">L</text><text x=\"163\" y=\"90\" fill=\"#ffffff\" font-size=\"14\" font-style=\"italic\">L</text><circle cx=\"143\" cy=\"155\" r=\"6\" fill=\"#ffeb3b\"/><circle cx=\"157\" cy=\"155\" r=\"6\" fill=\"#80deea\"/><path d=\"M 60 140 Q 150 175 240 140\" fill=\"none\" stroke=\"#ffffff\" stroke-dasharray=\"3,4\"/><text x=\"118\" y=\"182\" fill=\"#ffeb3b\" font-size=\"14\">2m</text><text x=\"160\" y=\"182\" fill=\"#80deea\" font-size=\"14\">3m</text></svg>",
+    "options": [
+      "9 : 4",
+      "3 : 2",
+      "1 : 1",
+      "2 : 3",
+      "4 : 9"
+    ],
+    "answerIndex": 0,
+    "explanation": "【彈性碰撞＋力學能守恆】\n設碰撞前左球（$2m$）速度 $+u$，右球（$3m$）速度 $-w$。左球擺回原高度 $h_L$，表示碰撞後左球速度大小仍為 $u$，方向相反，即 $v_1' = -u$。\n一維彈性碰撞：\n$$v_1' = \\frac{(m_1 - m_2)v_1 + 2m_2 v_2}{m_1 + m_2} = \\frac{(2m-3m)u + 2(3m)(-w)}{5m} = \\frac{-u - 6w}{5}$$\n令 $\\dfrac{-u-6w}{5} = -u \\implies w = \\dfrac{2}{3}u$。\n由 $mgh = \\dfrac{1}{2}mv^2$，高度與速率平方成正比：\n$$h_L : h_R = u^2 : w^2 = 1 : \\frac{4}{9} = 9 : 4$$\n故選 (A)"
+  },
+  {
+    "id": "110-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "在聲速為 $350\\text{ m/s}$ 的環境中，進行音叉與氣柱的共鳴實驗。從零開始，逐漸增加氣柱長度，並將測得共鳴時的氣柱長度，依時間的先後順序編號為 $1、2、3、4$，四次測得之共鳴氣柱長度對編號作圖，如圖 3 所示。實驗所用的音叉頻率，最接近多少 $\\text{Hz}$？",
+    "svg": "<svg viewBox=\"0 0 300 220\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><g stroke=\"#546e7a\" stroke-width=\"1\"><line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"180\"/><line x1=\"100\" y1=\"20\" x2=\"100\" y2=\"180\"/><line x1=\"140\" y1=\"20\" x2=\"140\" y2=\"180\"/><line x1=\"180\" y1=\"20\" x2=\"180\" y2=\"180\"/><line x1=\"220\" y1=\"20\" x2=\"220\" y2=\"180\"/><line x1=\"260\" y1=\"20\" x2=\"260\" y2=\"180\"/><line x1=\"60\" y1=\"180\" x2=\"260\" y2=\"180\"/><line x1=\"60\" y1=\"153.32999999999998\" x2=\"260\" y2=\"153.32999999999998\"/><line x1=\"60\" y1=\"126.66\" x2=\"260\" y2=\"126.66\"/><line x1=\"60\" y1=\"99.99\" x2=\"260\" y2=\"99.99\"/><line x1=\"60\" y1=\"73.32\" x2=\"260\" y2=\"73.32\"/><line x1=\"60\" y1=\"46.64999999999998\" x2=\"260\" y2=\"46.64999999999998\"/><line x1=\"60\" y1=\"19.97999999999999\" x2=\"260\" y2=\"19.97999999999999\"/></g><line x1=\"60\" y1=\"180\" x2=\"265\" y2=\"180\" stroke=\"#ffffff\" stroke-width=\"2\"/><line x1=\"60\" y1=\"180\" x2=\"60\" y2=\"15\" stroke=\"#ffffff\" stroke-width=\"2\"/><text x=\"56\" y=\"198\" fill=\"#ffffff\" font-size=\"12\">0</text><text x=\"96\" y=\"198\" fill=\"#ffffff\" font-size=\"12\">1</text><text x=\"136\" y=\"198\" fill=\"#ffffff\" font-size=\"12\">2</text><text x=\"176\" y=\"198\" fill=\"#ffffff\" font-size=\"12\">3</text><text x=\"216\" y=\"198\" fill=\"#ffffff\" font-size=\"12\">4</text><text x=\"256\" y=\"198\" fill=\"#ffffff\" font-size=\"12\">5</text><text x=\"44\" y=\"184\" fill=\"#ffffff\" font-size=\"12\">0</text><text x=\"36\" y=\"130.66\" fill=\"#ffffff\" font-size=\"12\">20</text><text x=\"36\" y=\"77.32000000000001\" fill=\"#ffffff\" font-size=\"12\">40</text><text x=\"36\" y=\"23.980000000000018\" fill=\"#ffffff\" font-size=\"12\">60</text><rect x=\"96\" y=\"154.664\" width=\"8\" height=\"8\" fill=\"#ffeb3b\"/><rect x=\"136\" y=\"110.6585\" width=\"8\" height=\"8\" fill=\"#ffeb3b\"/><rect x=\"176\" y=\"66.653\" width=\"8\" height=\"8\" fill=\"#ffeb3b\"/><rect x=\"216\" y=\"23.981000000000023\" width=\"8\" height=\"8\" fill=\"#ffeb3b\"/><text x=\"130\" y=\"216\" fill=\"#ffffff\" font-size=\"12\">共鳴編號</text><text x=\"6\" y=\"100\" fill=\"#ffffff\" font-size=\"11\" transform=\"rotate(-90 14 100)\">共鳴氣柱長度（公分）</text></svg>",
+    "options": [
+      "350",
+      "525",
+      "700",
+      "1050",
+      "2000"
+    ],
+    "answerIndex": 3,
+    "explanation": "【一端閉管共鳴】\n一端封閉的氣柱，相鄰兩次共鳴的氣柱長度差為半個波長：$\\Delta L = \\dfrac{\\lambda}{2}$。\n由圖讀出四次共鳴長度約為 $8、24.5、41、57\\text{ cm}$，相鄰差約 $16.4\\text{ cm}$，所以\n$$\\lambda \\approx 2 \\times 16.4 = 32.8\\text{ cm} = 0.328\\text{ m}$$\n$$f = \\frac{v}{\\lambda} = \\frac{350}{0.328} \\approx 1.07 \\times 10^3\\text{ Hz}$$\n最接近 $1050\\text{ Hz}$。（第一次共鳴 $8\\text{ cm}$ 略小於 $\\dfrac{\\lambda}{4}$，是管口修正的結果。）\n\n故選 (D)"
+  },
+  {
+    "id": "110-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "圖 4 為電流天平的構造示意圖。當 U 型電路上的電流值為 $I_1$、螺線管所載電流值為 $I_2$、天平左端所掛的小重物質量為 $m$ 時，天平恰成平衡。若將電流 $I_1$ 變成 $-4I_2$，同時 $I_2$ 變成 $-I_1/2$（負號表示電流方向與原來的方向相反），則此時可使天平平衡的小重物質量應為何？（忽略地磁造成的影響，$g$ 為重力加速度，$L$ 為 U 型電路寬度，$B$ 為螺線管所產生的磁場）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-phy-09.png\" alt=\"圖4 電流天平構造示意圖\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$m$",
+      "$2m$",
+      "$4m$",
+      "$8m$",
+      "天平無法達到平衡"
+    ],
+    "answerIndex": 1,
+    "explanation": "【電流天平原理】\n螺線管內磁場 $B \\propto I_2$。U 型電路在螺線管內長度為 $L$ 的那段導線受磁力 $F = I_1 L B \\propto I_1 I_2$，此力與左端重物的重量 $mg$ 形成力矩平衡，所以 $m \\propto I_1 I_2$。\n\n變更後兩電流的乘積：\n$$(-4I_2) \\times \\left(-\\frac{I_1}{2}\\right) = 2 I_1 I_2$$\n兩個電流同時反向，磁力方向不變（仍可用重物平衡），大小變為 $2$ 倍，所需重物質量為 $2m$。\n\n故選 (B)"
+  },
+  {
+    "id": "110-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "氣泡室是裝滿液態氫的特殊容器，其內部具有均勻磁場。當帶電粒子穿過氣泡室時，沿著粒子軌跡會產生小氣泡，是一種能用來追蹤粒子動向的工具。圖 5 是不同的帶電粒子由左至右垂直射入氣泡室所產生的軌跡（磁場垂直進入紙面），分別以 $1、2、3$ 編號標示，而帶電粒子因與氣泡室內的液態氫作用而損失能量，軌跡呈螺旋形，其中粒子 $1、2$ 進行逆時針旋轉、粒子 $3$ 則為順時針旋轉。下列敘述何者正確？（以 $|mv/q|_i$ 表示編號 $i$ 的粒子其動量除以電量的量值）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-phy-10.png\" alt=\"圖5 氣泡室中三個帶電粒子的軌跡\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "編號 $1、2、3$ 的粒子均帶正電，且 $|mv/q|_3 > |mv/q|_2 > |mv/q|_1$",
+      "編號 $1、2、3$ 的粒子均帶負電，且 $|mv/q|_1 > |mv/q|_2 > |mv/q|_3$",
+      "編號 $1、2$ 的粒子均帶正電，編號 $3$ 的粒子帶負電，且 $|mv/q|_1 > |mv/q|_2 > |mv/q|_3$",
+      "編號 $1、2$ 的粒子均帶正電，編號 $3$ 的粒子帶負電，且 $|mv/q|_3 > |mv/q|_2 > |mv/q|_1$",
+      "編號 $1、2$ 的粒子均帶負電，編號 $3$ 的粒子帶正電，且 $|mv/q|_3 > |mv/q|_2 > |mv/q|_1$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【帶電粒子在磁場中的圓周運動】\n• 電性：粒子向右運動（$+x$），磁場垂直進入紙面（$-z$）。正電荷受力 $\\vec F = q\\vec v \\times \\vec B$ 方向為 $+x \\times (-z) = +y$（向上），因此向上偏轉，軌跡為逆時針。所以逆時針的 $1、2$ 帶正電，順時針的 $3$ 帶負電。\n• 半徑：$qvB = \\dfrac{mv^2}{r} \\implies r = \\dfrac{mv}{qB}$，$|mv/q|$ 越大半徑越大。粒子 $3$ 幾乎直線（半徑最大），粒子 $2$ 的螺旋比粒子 $1$ 大，所以 $|mv/q|_3 > |mv/q|_2 > |mv/q|_1$。\n\n故選 (D)"
+  },
+  {
+    "id": "110-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "科學家常用 X 射線繞射來測知晶體結構，若將波長為 $\\lambda$ 的 X 射線改用電子束取代，並進行相同晶體的繞射實驗，以測得相同的繞射圖樣，則電子的能量為何？（$h$ 為普朗克常數，$m$ 為電子質量）",
+    "options": [
+      "$\\dfrac{h^2}{2m^2\\lambda^2}$",
+      "$\\dfrac{h}{2m\\lambda}$",
+      "$\\dfrac{h^2}{m\\lambda}$",
+      "$\\dfrac{h^2}{m\\lambda^2}$",
+      "$\\dfrac{h^2}{2m\\lambda^2}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【物質波】\n要得到相同的繞射圖樣，電子的物質波波長必須等於 $\\lambda$。\n德布羅意波長：$\\lambda = \\dfrac{h}{p} \\implies p = \\dfrac{h}{\\lambda}$\n電子動能：\n$$E = \\frac{p^2}{2m} = \\frac{h^2}{2m\\lambda^2}$$\n故選 (E)"
+  },
+  {
+    "id": "110-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "某一 LED 燈組，其光強度對波長的關係如圖 6 所示，黃－紅光範圍的光強度比藍光範圍的光強度大很多。某生以此光源照射某一金屬，進行光電效應實驗，發現皆可產生光電子，如圖 7 所示。設可變直流電源的電位為 $V$（集電極電位相對於發射極電位）、量測到的光電流為 $I$，則下列何者為該實驗所測得的 $I-V$ 關係圖？（選項 (A)～(E) 見圖下方）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-phy-12.png\" alt=\"圖6 LED 光譜、圖7 光電效應裝置與選項 I-V 圖\" style=\"width:100%;max-width:640px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 0,
+    "explanation": "【兩種頻率的光電效應】\n光源含兩群光子：\n• 藍光（波長短、光子能量大）：強度小，光電子最大動能大，截止電壓的絕對值大。\n• 黃－紅光（波長長、光子能量小）：強度大，光電流大，但截止電壓的絕對值小。\n\n$V$ 為正時，光電子全部被收集，電流飽和而趨於定值。$V$ 由 $0$ 往負值減少時，先是黃－紅光產生的（大量）光電子被擋下，電流大幅下降；再更負時，只剩藍光產生的少量光電子，直到超過其截止電壓才降為零。\n因此 $I-V$ 圖在負電壓區有「先大降、留一個小台階、再降為零」的兩段結構，正電壓區則趨於飽和，符合圖 (A)。\n\n故選 (A)"
+  },
+  {
+    "id": "110-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "兩個點光源 $S_1$、$S_2$ 間的距離為 $24\\text{ cm}$，使用焦距為 $9\\text{ cm}$ 的薄透鏡 L，垂直放置於兩點光源 $S_1$、$S_2$ 的連線上並調整位置，如圖 8 所示，使兩個點光源成像於同一位置，則兩點光源到透鏡的距離比為何？",
+    "svg": "<svg viewBox=\"0 0 320 130\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><line x1=\"20\" y1=\"80\" x2=\"300\" y2=\"80\" stroke=\"#ffffff\" stroke-width=\"1.5\" stroke-dasharray=\"10,4,2,4\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"120\" stroke=\"#80deea\" stroke-width=\"4\"/><text x=\"95\" y=\"22\" fill=\"#80deea\" font-size=\"14\">薄透鏡 L</text><circle cx=\"80\" cy=\"80\" r=\"5\" fill=\"#ffeb3b\"/><circle cx=\"240\" cy=\"80\" r=\"5\" fill=\"#ffeb3b\"/><text x=\"72\" y=\"70\" fill=\"#ffeb3b\" font-size=\"14\">S₁</text><text x=\"232\" y=\"70\" fill=\"#ffeb3b\" font-size=\"14\">S₂</text></svg>",
+    "options": [
+      "3 : 4",
+      "3 : 8",
+      "2 : 3",
+      "1 : 2",
+      "1 : 3"
+    ],
+    "answerIndex": 4,
+    "explanation": "【一個成虛像、一個成實像】\n兩光源在透鏡兩側，要成像在同一點，必須一個在焦點內成虛像（像與物同側），另一個在焦點外成實像（像在另一側），兩像才會落在同一側的同一位置。\n設 $S_1$ 到透鏡距離 $d_1 < 9$、$S_2$ 到透鏡距離 $d_2 = 24 - d_1$。\n• $S_1$ 的虛像距離：$\\dfrac{1}{d_1} - \\dfrac{1}{q} = \\dfrac{1}{9} \\implies q = \\dfrac{9d_1}{9 - d_1}$\n• $S_2$ 的實像距離：$\\dfrac{1}{d_2} + \\dfrac{1}{q} = \\dfrac{1}{9} \\implies q = \\dfrac{9d_2}{d_2 - 9}$\n\n令兩者相等：$d_1(d_2 - 9) = d_2(9 - d_1)$，代入 $d_2 = 24 - d_1$ 得\n$$d_1^2 - 24d_1 + 108 = 0 \\implies d_1 = 6 \\text{ 或 } 18$$\n取 $d_1 = 6\\text{ cm}$（在焦點內），則 $d_2 = 18\\text{ cm}$，像都在 $S_1$ 那一側距透鏡 $18\\text{ cm}$ 處。\n$$d_1 : d_2 = 6 : 18 = 1 : 3$$\n故選 (E)"
+  },
+  {
+    "id": "110-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 14-15 題為題組】地震預警是利用地震在地球內部傳播的 P 波與 S 波的速度差，透過偵測首先到達的 P 波來判斷地震規模，在振動強烈的 S 波到達前的時間內發出預警，以利後續應變。\n14. 2021 年 2 月 7 日發生芮氏規模 $6.1$ 的地震，許多民眾手機收到多次國家級警報。該地震震源在臺灣東部外海，深度約為 $112\\text{ km}$。宜蘭市地震監測站（距震源直線距離約為 $141\\text{ km}$）測得地動加速度對時間的關係，如圖 9 所示，圖中第 $0$ 秒為地震起始時間。若宜蘭市預警系統可在 P 波抵達後的 $7$ 秒內就完成判斷並發出預警至各縣市，則對於距震源直線距離約為 $215\\text{ km}$ 之苗栗市，可提供的應變時間約為幾秒？（假設 P 波與 S 波的波速固定，且都由震源直線傳播到地表上的各地點。）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-phy-14.png\" alt=\"圖9 宜蘭測站地動加速度與時間關係\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "7",
+      "14",
+      "26",
+      "33",
+      "37"
+    ],
+    "answerIndex": 2,
+    "explanation": "【由到時求波速】\n由圖 9 讀出 P 波約在第 $22\\text{ s}$、S 波約在第 $36\\text{ s}$ 抵達宜蘭（距震源 $141\\text{ km}$）：\n$$v_P \\approx \\frac{141}{22} \\approx 6.4\\text{ km/s},\\quad v_S \\approx \\frac{141}{36} \\approx 3.9\\text{ km/s}$$\n• 預警發出時間：$22 + 7 = 29\\text{ s}$\n• S 波抵達苗栗（$215\\text{ km}$）的時間：$\\dfrac{215}{3.9} \\approx 55\\text{ s}$\n\n應變時間 $\\approx 55 - 29 = 26\\text{ s}$。\n\n故選 (C)"
+  },
+  {
+    "id": "110-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 14-15 題為題組】\n15. 當地震表面波在稍後到達某地區時，假設固定於地面的物體僅作水平方向的簡諧運動，其振幅為 $0.20\\text{ cm}$，週期為 $0.40\\text{ s}$，最大加速度量值為 $a\\text{ m/s}^2$。若固定於地面的水平書架上的書本不會因地震而滑動，則書本與書架板間的靜摩擦係數不能小於 $\\mu$。以下各組 $(a, \\mu)$ 數值，何者正確？（取重力加速度 $g = 10\\text{ m/s}^2$）",
+    "options": [
+      "(0.25, 0.050)",
+      "(0.50, 0.050)",
+      "(0.50, 0.10)",
+      "(1.0, 0.10)",
+      "(1.5, 0.15)"
+    ],
+    "answerIndex": 1,
+    "explanation": "【簡諧運動最大加速度與靜摩擦】\n$$a = A\\omega^2 = A\\left(\\frac{2\\pi}{T}\\right)^2 = 0.0020 \\times \\left(\\frac{2\\pi}{0.40}\\right)^2 \\approx 0.0020 \\times 247 \\approx 0.49 \\approx 0.50\\text{ m/s}^2$$\n書本要跟著書架一起運動，所需的最大水平力由靜摩擦提供：\n$$\\mu m g \\ge m a \\implies \\mu \\ge \\frac{a}{g} = \\frac{0.50}{10} = 0.050$$\n故選 (B)"
+  },
+  {
+    "id": "110-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "由許多個處於基態的氫原子所組成的系統，吸收一束單一頻率的光後各自躍遷到主量子數為 $n$ 的激發態，當這些處於激發態的氫原子回到基態時，可以測量到六條不同波長的光譜線，試問 $n$ 為何？",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "answerIndex": 3,
+    "explanation": "【能階躍遷譜線數】\n從主量子數 $n$ 的能階往下躍遷，任兩個能階之間都可能產生一條譜線，譜線數為\n$$C^n_2 = \\frac{n(n-1)}{2} = 6 \\implies n = 4$$\n（$4\\to3、4\\to2、4\\to1、3\\to2、3\\to1、2\\to1$ 共六條）\n\n故選 (D)"
+  },
+  {
+    "id": "110-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "在水波槽實驗中，水波槽被分為左邊的深水區和右邊的淺水區，兩區以線段 $ab$ 為分界線，左端黑色長棒產生直線波向右傳遞，虛線表示其波前，箭頭表示波的行進方向，下列各圖何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-phy-17.png\" alt=\"第17題選項 (A)～(E) 水波折射圖\" style=\"width:100%;max-width:640px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 1,
+    "explanation": "【水波由深水區進入淺水區的折射】\n• 頻率由波源決定，進入淺水區後不變。\n• 淺水區波速較慢，由 $v = f\\lambda$ 知波長變短，所以淺水區的波前（虛線）應較密集。\n• 波由快介質進入慢介質，行進方向偏向法線（折射角小於入射角）；波前仍與行進方向垂直，並在分界線上與原波前相接。\n\n(A)(C)(D) 的偏折方向或波前方向錯誤；(E) 的行進方向沒有偏折（入射方向不垂直分界線，必須偏折）。只有 (B) 的波前變密、方向朝法線偏折。\n\n故選 (B)"
+  },
+  {
+    "id": "110-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "臺東的臺灣國際熱氣球嘉年華是很受歡迎的休旅活動。要讓熱氣球升空，必須加熱氣球裡的空氣，使氣球體積變大，以增加空氣浮力（物體所受的空氣浮力等於物體在空氣中所排開同體積空氣的重量）。\n有一熱氣球乘載四人後的總質量為 $6.0 \\times 10^2\\text{ kg}$（不含球內空氣）。當加熱其內空氣，使其體積膨脹至 $3.0 \\times 10^3\\text{ m}^3$，即可升空，此時空氣浮力等於熱氣球載人後的總重量（含球內的空氣），則熱氣球內的空氣溫度是多少 $^\\circ\\text{C}$？（設當時外界氣溫為 $22^\\circ\\text{C}$，空氣密度為 $1.2\\text{ kg/m}^3$，氣球內、外的空氣都視為理想氣體，且加熱時球外空氣的溫度、壓力不變。）",
+    "options": [
+      "81",
+      "72",
+      "57",
+      "42",
+      "22"
+    ],
+    "answerIndex": 0,
+    "explanation": "【浮力平衡＋理想氣體】\n浮力 = 總重：\n$$\\rho_{外} V g = (M + \\rho_{內} V)g \\implies \\rho_{內} = \\rho_{外} - \\frac{M}{V} = 1.2 - \\frac{600}{3000} = 1.0\\text{ kg/m}^3$$\n球內外壓力相同，理想氣體 $P = \\dfrac{\\rho R T}{M_{mol}}$，所以 $\\rho T$ 為定值：\n$$T_{內} = T_{外}\\frac{\\rho_{外}}{\\rho_{內}} = 295 \\times \\frac{1.2}{1.0} = 354\\text{ K} \\approx 81^\\circ\\text{C}$$\n故選 (A)"
+  },
+  {
+    "id": "110-ast-phy-19",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "在核電廠發生重大核安事故後，附近可檢測出放射性元素銫 $-137$，銫 $-137$ 自發衰變時，核子數減少至原來數目一半所需時間（半衰期）約為 $30$ 年。已知每 $1$ 公克銫 $-137$ 的放射性活度約為 $3.2 \\times 10^{12}\\text{ Bq}$（Bq 為放射性活度的單位，$1\\text{ Bq}$ = 每秒發生一次衰變；活度亦稱活性）；食品中放射性銫檢驗的容許量標準值為 $100\\text{ Bq/kg}$。\n假設一尾 $100\\text{ kg}$ 的大型海魚在 $15$ 年前體內的放射性物質只有 $2.0 \\times 10^{-8}$ 公克的放射性銫 $-137$，現今對其殘留的銫 $-137$ 進行檢驗，若銫 $-137$ 在這期間未被代謝出體外，則其每公斤的放射性活度為食品檢驗容許量之標準值的幾倍？",
+    "options": [
+      "0.045",
+      "0.32",
+      "4.5",
+      "32",
+      "450"
+    ],
+    "answerIndex": 2,
+    "explanation": "【半衰期與活度】\n• 15 年前的活度：$2.0 \\times 10^{-8}\\text{ g} \\times 3.2 \\times 10^{12}\\text{ Bq/g} = 6.4 \\times 10^4\\text{ Bq}$\n• 經過 $15$ 年（半個半衰期），剩下 $\\left(\\dfrac{1}{2}\\right)^{15/30} = \\dfrac{1}{\\sqrt 2} \\approx 0.707$：\n$$6.4 \\times 10^4 \\times 0.707 \\approx 4.5 \\times 10^4\\text{ Bq}$$\n• 每公斤活度：$\\dfrac{4.5 \\times 10^4}{100} = 450\\text{ Bq/kg}$\n• 與標準值比較：$\\dfrac{450}{100} = 4.5$ 倍\n\n故選 (C)"
+  },
+  {
+    "id": "110-ast-phy-20",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "points": 3,
+    "question": "悠遊卡系統利用電磁感應原理來辨識與傳遞資訊（即無線射頻辨識技術－RFID）。讀卡機產生變動磁場，讓悠遊卡內部迴路產生應電流，使內部晶片得以發送訊號，讀卡機就能讀取卡內的晶片資料（如圖 10）。悠遊卡迴路中的應電動勢 $\\varepsilon$ 和其每匝線圈中之磁通量時間變化率 $\\dfrac{\\Delta \\Phi}{\\Delta t}$ 的關係為 $\\varepsilon = -QN\\dfrac{\\Delta \\Phi}{\\Delta t}$，其中 $N$ 為匝數，$Q$ 為悠遊卡迴路的訊號加強係數。若悠遊卡迴路的矩形線圈尺寸為 $8.00\\text{ cm} \\times 5.00\\text{ cm}$、$N = 4$、$Q = 40.0$，讀卡機產生的磁場垂直穿過悠遊卡線圈平面，且線圈中磁場的時間變化率 $\\dfrac{\\Delta B}{\\Delta t} = B_0 \\times 2\\pi f\\sin(2\\pi f t)$，$B_0 = 5.00 \\times 10^{-8}\\text{ T}$，頻率 $f = 13.56\\text{ MHz}$，則悠遊卡迴路線圈應電動勢的最大值約為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-phy-20.png\" alt=\"圖10 悠遊卡與讀卡機示意圖\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "0.680 V",
+      "1.20 V",
+      "2.73 V",
+      "3.64 V",
+      "4.52 V"
+    ],
+    "answerIndex": 2,
+    "explanation": "【法拉第電磁感應】\n$\\Phi = BA$，所以 $\\dfrac{\\Delta\\Phi}{\\Delta t} = A\\dfrac{\\Delta B}{\\Delta t}$，最大值為 $A B_0 \\cdot 2\\pi f$。\n$$A = 0.0800 \\times 0.0500 = 4.00 \\times 10^{-3}\\text{ m}^2$$\n$$\\varepsilon_{\\max} = QNAB_0(2\\pi f) = 40.0 \\times 4 \\times 4.00\\times10^{-3} \\times 5.00\\times10^{-8} \\times 2\\pi \\times 1.356\\times10^{7}$$\n$$= 3.20\\times10^{-8} \\times 8.52\\times10^{7} \\approx 2.73\\text{ V}$$\n故選 (C)"
+  },
+  {
+    "id": "110-ast-phy-21",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "一個檢流計 G 的內部電阻為 $1.0\\text{ k}\\Omega$，需要 $10\\ \\mu\\text{A}$ 的電流，才能使其獲得最大讀數（即滿刻度偏轉）。一個安培計由該檢流計及一個並聯的電阻 $R_1$ 所構成，如圖 11 所示，當通過安培計的電流為 $10\\text{ A}$ 時，會使檢流計讀數滿刻度。另以相同的檢流計及一個串聯的電阻 $R_2$ 構成一個伏特計，如圖 12 所示，當伏特計兩端的電壓為 $10\\text{ V}$ 時，會使檢流計讀數滿刻度。下列敘述哪些正確？",
+    "svg": "<svg viewBox=\"0 0 400 150\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><g stroke=\"#ffffff\" stroke-width=\"2\" fill=\"none\"><polyline points=\"20,130 20,40 75,40\"/><polyline points=\"115,40 170,40 170,130\"/><circle cx=\"95\" cy=\"40\" r=\"18\"/><polyline points=\"20,90 70,90\"/><rect x=\"70\" y=\"80\" width=\"50\" height=\"20\"/><polyline points=\"120,90 170,90\"/><polyline points=\"230,130 230,100\"/><rect x=\"220\" y=\"55\" width=\"20\" height=\"45\"/><polyline points=\"230,55 230,40 285,40\"/><circle cx=\"305\" cy=\"40\" r=\"18\"/><polyline points=\"323,40 380,40 380,130\"/></g><text x=\"89\" y=\"46\" fill=\"#ffffff\" font-size=\"15\">G</text><text x=\"299\" y=\"46\" fill=\"#ffffff\" font-size=\"15\">G</text><text x=\"85\" y=\"95\" fill=\"#ffeb3b\" font-size=\"13\" font-style=\"italic\">R₁</text><text x=\"245\" y=\"82\" fill=\"#ffeb3b\" font-size=\"13\" font-style=\"italic\">R₂</text><circle cx=\"20\" cy=\"130\" r=\"4\" fill=\"#ffffff\"/><circle cx=\"170\" cy=\"130\" r=\"4\" fill=\"#ffffff\"/><circle cx=\"230\" cy=\"130\" r=\"4\" fill=\"#ffffff\"/><circle cx=\"380\" cy=\"130\" r=\"4\" fill=\"#ffffff\"/><text x=\"75\" y=\"148\" fill=\"#ffffff\" font-size=\"13\">圖 11</text><text x=\"285\" y=\"148\" fill=\"#ffffff\" font-size=\"13\">圖 12</text></svg>",
+    "options": [
+      "檢流計得到滿刻度偏轉時，跨接於檢流計的電位差值為 $1.0\\text{ mV}$",
+      "$R_1$ 約為 $1.0\\text{ m}\\Omega$",
+      "$R_1$ 約為 $10\\text{ m}\\Omega$",
+      "$R_2$ 約為 $1.0\\text{ M}\\Omega$",
+      "$R_2$ 約為 $1.0\\text{ k}\\Omega$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "【安培計與伏特計的改裝】\n• (A) 錯誤：$V_G = I_G R_G = 10\\times10^{-6} \\times 1.0\\times10^{3} = 1.0\\times10^{-2}\\text{ V} = 10\\text{ mV}$。\n• (B) 正確、(C) 錯誤：並聯電阻分走 $10\\text{ A} - 10\\ \\mu\\text{A} \\approx 10\\text{ A}$，兩端電壓同為 $10\\text{ mV}$：\n$$R_1 = \\frac{0.010}{10} = 1.0\\times10^{-3}\\ \\Omega = 1.0\\text{ m}\\Omega$$\n• (D) 正確、(E) 錯誤：串聯後總電阻 $\\dfrac{10\\text{ V}}{10\\ \\mu\\text{A}} = 1.0\\times10^{6}\\ \\Omega$，\n$$R_2 = 1.0\\times10^{6} - 1.0\\times10^{3} \\approx 1.0\\text{ M}\\Omega$$\n故選 (B)(D)"
+  },
+  {
+    "id": "110-ast-phy-22",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "質量為 $m$ 的汽車在與水平面夾角為 $\\theta$ 的斜面跑道作半徑為 $R$ 的圓周運動，其面對車頭直視時的示意圖如圖 13 所示。設重力加速度的量值為 $g$，下列敘述哪些正確？",
+    "svg": "<svg viewBox=\"0 0 300 180\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:420px;height:auto;display:block;\"><line x1=\"30\" y1=\"40\" x2=\"250\" y2=\"160\" stroke=\"#ffffff\" stroke-width=\"3\"/><line x1=\"150\" y1=\"160\" x2=\"280\" y2=\"160\" stroke=\"#ffffff\" stroke-width=\"1.5\"/><g transform=\"rotate(28.6 140 95)\"><rect x=\"100\" y=\"70\" width=\"80\" height=\"22\" rx=\"4\" fill=\"none\" stroke=\"#ffeb3b\" stroke-width=\"2\"/><rect x=\"118\" y=\"52\" width=\"44\" height=\"20\" rx=\"4\" fill=\"none\" stroke=\"#ffeb3b\" stroke-width=\"2\"/><rect x=\"104\" y=\"92\" width=\"14\" height=\"8\" fill=\"#ffeb3b\"/><rect x=\"162\" y=\"92\" width=\"14\" height=\"8\" fill=\"#ffeb3b\"/></g><path d=\"M 215 160 A 35 35 0 0 0 220 143\" fill=\"none\" stroke=\"#ffffff\"/><text x=\"200\" y=\"152\" fill=\"#ffffff\" font-size=\"14\" font-style=\"italic\">θ</text><text x=\"40\" y=\"170\" fill=\"#80deea\" font-size=\"12\">← 圓心方向</text></svg>",
+    "options": [
+      "若夾角 $\\theta = 0$，無摩擦力則無法作圓周運動",
+      "需摩擦力克服沿斜面的下滑力 $mg\\sin\\theta$ 才可作圓周運動",
+      "無摩擦力也可作圓周運動，此時斜面跑道對車的正向力為 $mg\\cos\\theta$",
+      "無摩擦力也可作圓周運動，此時速率 $v = \\sqrt{Rg\\tan\\theta}$",
+      "沿斜面向下的摩擦力可增加作圓周運動的向心力"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "【斜面彎道的向心力】\n• (A) 正確：水平路面上，正向力與重力都在鉛直方向，沒有水平分量，無摩擦力時沒有向心力。\n• (B) 錯誤：速率恰當時，正向力的水平分量就能提供向心力，不需要摩擦力。\n• (C) 錯誤、(D) 正確：無摩擦時，鉛直方向 $N\\cos\\theta = mg \\implies N = \\dfrac{mg}{\\cos\\theta}$（不是 $mg\\cos\\theta$）；水平方向 $N\\sin\\theta = \\dfrac{mv^2}{R}$，兩式相除得 $\\tan\\theta = \\dfrac{v^2}{Rg}$，即 $v = \\sqrt{Rg\\tan\\theta}$。\n• (E) 正確：沿斜面向下的摩擦力有指向圓心的水平分量，可增加向心力，讓車以更大的速率過彎。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "110-ast-phy-23",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "在「狹縫干涉和繞射」的實驗中，雙狹縫至屏幕的距離為 $2.00\\text{ m}$。先以一未知波長的雷射光垂直入射一個狹縫間距為 $100\\ \\mu\\text{m}$ 的雙狹縫做干涉實驗，測得屏幕上干涉圖樣之中央亮帶的中央線與第二暗紋的距離為 $1.95\\text{ cm}$，接著利用單狹縫的繞射現象以測量單狹縫的縫寬時，僅將雙狹縫片改為單狹縫片而其餘實驗參數不變，測得單狹縫繞射圖樣之中央亮帶的中央線與第二暗紋的距離為 $13.0\\text{ cm}$，則下列敘述哪些正確？",
+    "options": [
+      "雙狹縫干涉圖樣之中央亮帶的中央線到第三暗紋的距離為 $2.60\\text{ cm}$",
+      "雙狹縫干涉圖樣之中央亮帶寬度為 $1.30\\text{ cm}$",
+      "單狹縫繞射圖樣之中央亮帶寬度為 $13.0\\text{ cm}$",
+      "雷射光的波長為 $450\\text{ nm}$",
+      "單狹縫的縫寬為 $20.0\\ \\mu\\text{m}$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【雙狹縫干涉與單狹縫繞射】\n• 雙狹縫：第 $n$ 暗紋位置 $y = \\left(n - \\dfrac{1}{2}\\right)\\dfrac{\\lambda L}{d}$。第二暗紋 $1.5\\,\\Delta y = 1.95\\text{ cm} \\implies \\Delta y = 1.30\\text{ cm}$。\n  - (A) 錯誤：第三暗紋 $2.5 \\times 1.30 = 3.25\\text{ cm}$。\n  - (B) 正確：中央亮帶寬度（兩側第一暗紋之間）$= \\Delta y = 1.30\\text{ cm}$。\n  - (D) 錯誤：$\\lambda = \\dfrac{\\Delta y\\, d}{L} = \\dfrac{0.0130 \\times 100\\times10^{-6}}{2.00} = 6.50\\times10^{-7}\\text{ m} = 650\\text{ nm}$。\n• 單狹縫：第 $n$ 暗紋位置 $y = n\\dfrac{\\lambda L}{a}$。第二暗紋 $2\\dfrac{\\lambda L}{a} = 13.0\\text{ cm} \\implies \\dfrac{\\lambda L}{a} = 6.50\\text{ cm}$。\n  - (C) 正確：中央亮帶寬度 $= 2 \\times 6.50 = 13.0\\text{ cm}$。\n  - (E) 正確：$a = \\dfrac{\\lambda L}{0.0650} = \\dfrac{6.50\\times10^{-7} \\times 2.00}{0.0650} = 2.00\\times10^{-5}\\text{ m} = 20.0\\ \\mu\\text{m}$。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "110-ast-phy-24",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "在科學博覽會中，有一學生站在塑膠凳上，以手指接觸相對地面電壓為 $27$ 萬伏特、半徑為 $15\\text{ cm}$ 的金屬球時，導致頭髮直豎，引發觀眾驚呼。已知金屬球表面的電場大於 $3.0 \\times 10^6\\text{ V/m}$ 時，即會造成空氣游離而放電。下列敘述哪些正確？（庫侖常數 $k = 9.0 \\times 10^9\\text{ N}\\cdot\\text{m}^2/\\text{C}^2$）",
+    "options": [
+      "學生手指接觸高電壓金屬球後，頭髮因帶同性電荷而互斥所以直豎",
+      "將懸掛在質輕細繩下的不帶電金屬小球移近高電壓金屬球時，金屬小球會立即被排斥開",
+      "電壓固定為 $27$ 萬伏特時，金屬球的半徑必須不小於 $9.0\\text{ cm}$，才不至於發生放電現象",
+      "高電壓金屬球在該生接觸它之前的電量約為 $3.0 \\times 10^{-4}\\text{ C}$",
+      "高電壓金屬球上電荷透過接地之導體，在 $5.0\\text{ ms}$ 內全部轉移到地面期間之平均電流約為 $0.90\\text{ mA}$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【導體球的電位與電場】\n導體球：$V = \\dfrac{kQ}{R}$，表面電場 $E = \\dfrac{kQ}{R^2} = \\dfrac{V}{R}$。\n• (A) 正確：學生與球等電位而帶同種電荷，頭髮各自帶同性電荷互相排斥而豎起。\n• (B) 錯誤：不帶電的金屬小球靠近時會感應出異性電荷在近側，先被吸引；接觸帶電後才會被排斥。\n• (C) 正確：$E = \\dfrac{V}{R} \\le 3.0\\times10^6 \\implies R \\ge \\dfrac{2.7\\times10^5}{3.0\\times10^6} = 0.090\\text{ m} = 9.0\\text{ cm}$。\n• (D) 錯誤：$Q = \\dfrac{VR}{k} = \\dfrac{2.7\\times10^5 \\times 0.15}{9.0\\times10^9} = 4.5\\times10^{-6}\\text{ C}$。\n• (E) 正確：$\\bar I = \\dfrac{Q}{t} = \\dfrac{4.5\\times10^{-6}}{5.0\\times10^{-3}} = 9.0\\times10^{-4}\\text{ A} = 0.90\\text{ mA}$。\n\n故選 (A)(C)(E)"
   },
   {
     "id": "91-ast-phy-01",
