@@ -42468,5 +42468,646 @@
       "加入氯化鐵溶液的作用"
     ],
     "explanation": "【酚的檢驗】\n酚類（羥基直接接在苯環上）遇 $\\text{FeCl}_3$ 溶液會呈紫色，醇類則不會。奎寧加入後不變紫，表示苯環上沒有 $-\\text{OH}$，所以含 O 的 $\\text{R}^3$ 是甲氧基 $-\\text{OCH}_3$。\n\n答：檢驗芳香環上的羥基，也就是檢驗酚是否存在。"
+  },
+  {
+    "id": "112-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "points": 4,
+    "question": "下列哪一選項所列的物質<u>不互為</u>共軛酸鹼對？",
+    "options": [
+      "$\\text{H}_2\\text{O}$, $\\text{H}_3\\text{O}^+$",
+      "$\\text{HCO}_3^-$, $\\text{CO}_3^{2-}$",
+      "$\\text{NH}_3$, $\\text{NH}_4^+$",
+      "$\\text{H}_2\\text{PO}_4^-$, $\\text{HPO}_3^{2-}$",
+      "$\\text{NO}_3^-$, $\\text{HNO}_3$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【共軛酸鹼對只差一個 $\\text{H}^+$】\n• (A) $\\text{H}_3\\text{O}^+ \\rightleftharpoons \\text{H}_2\\text{O} + \\text{H}^+$，是共軛酸鹼對。\n• (B) $\\text{HCO}_3^- \\rightleftharpoons \\text{CO}_3^{2-} + \\text{H}^+$，是。\n• (C) $\\text{NH}_4^+ \\rightleftharpoons \\text{NH}_3 + \\text{H}^+$，是。\n• (D) $\\text{H}_2\\text{PO}_4^-$ 失去一個 $\\text{H}^+$ 應為 $\\text{HPO}_4^{2-}$，而不是 $\\text{HPO}_3^{2-}$（少了一個 O），不是共軛酸鹼對。\n• (E) $\\text{HNO}_3 \\rightleftharpoons \\text{NO}_3^- + \\text{H}^+$，是。\n\n故選 (D)"
+  },
+  {
+    "id": "112-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "points": 4,
+    "question": "若以階級高度變化表示游離能大小關係，則下列哪一項的階級高度圖示，由下而上最適合表示碳原子的第一至第五游離能的相對大小？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-02.png\" alt=\"第 2 題選項 (A)～(E) 五種階梯圖\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 1,
+    "explanation": "【碳 $1s^2 2s^2 2p^2$】\n• 前四個游離能移去的都是第二層（價殼層）電子，依序逐漸增大：約 11.3、24.4、47.9、64.5 eV，每一階的增幅都不算大，且越來越高。\n• 第五個游離能要移去內層 $1s$ 電子，約 392 eV，突然大幅躍升。\n• 所以圖形應是：前四階逐步上升，第四到第五階出現一個非常高的階梯，對應圖 (B)。\n\n故選 (B)"
+  },
+  {
+    "id": "112-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "points": 4,
+    "question": "原子的性質按照原子序排列會呈現週期性的變化。圖 1 為某種原子性質依原子序 1-40 作圖，則此原子性質最可能為下列哪一項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-03.png\" alt=\"圖1 某原子性質對原子序 1-40，在原子序約 3、11、19、37 出現尖峰\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "質量",
+      "電負度",
+      "原子半徑",
+      "價電子數",
+      "第一游離能"
+    ],
+    "answerIndex": 2,
+    "explanation": "【看尖峰出現的位置】\n• 圖中尖峰出現在原子序約 3、11、19、37，也就是 Li、Na、K、Rb 等鹼金屬；同一週期由左往右數值逐漸下降。\n• 原子半徑正是每週期以鹼金屬最大，往右遞減。\n• 第一游離能的尖峰應在鈍氣（2、10、18、36），電負度的最大值在鹵素，質量則隨原子序單調增加，價電子數不會呈現這種形狀。\n\n故選 (C)"
+  },
+  {
+    "id": "112-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "points": 4,
+    "question": "有一多醣是由 n 個葡萄糖（$\\text{C}_6\\text{H}_{12}\\text{O}_6$）單體經脫去 $(n-1)$ 個水分子聚合而成，其反應如式 1 所示：\n$$n\\,\\text{C}_6\\text{H}_{12}\\text{O}_6 \\to \\text{C}_{6n}\\text{H}_{10n+2}\\text{O}_{5n+1} + (n-1)\\,\\text{H}_2\\text{O}\\qquad\\text{（式 1）}$$\n將 10.0 克的此一多醣配成 1.0 升的溶液，在 $27^\\circ\\text{C}$ 時測得其滲透壓為 88.0 mmHg，則此多醣是由幾個葡萄糖單體聚合而成？（已知：$\\dfrac{246\\times760}{88.0} \\doteq 2124$）",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answerIndex": 2,
+    "explanation": "【由滲透壓求分子量】\n• $\\pi = C_MRT$：$\\dfrac{88.0}{760} = \\dfrac{10.0/M}{1.0} \\times 0.082 \\times 300$\n$$M = \\frac{10.0 \\times 24.6 \\times 760}{88.0} = \\frac{246\\times760}{88.0} \\doteq 2124\\text{ g/mol}$$\n• 多醣分子量 $= 180n - 18(n - 1) = 162n + 18$\n• $162n + 18 = 2124 \\implies n = 13$\n\n故選 (C)"
+  },
+  {
+    "id": "112-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "points": 4,
+    "question": "學生小明取得某一 5.20 克鐵的氧化物粉末樣品，在高溫下通入足量的一氧化碳與此樣品完全反應，可得元素鐵與一種氣體，所產生的氣體通入澄清石灰水中，可得到 8.00 克沉澱。下列有關此樣品中，鐵（Fe）與氧（O）莫耳數比，哪一項正確？（$\\text{CaCO}_3$ 的莫耳質量 100 g/mol）",
+    "options": [
+      "7:8",
+      "8:7",
+      "3:4",
+      "4:3",
+      "1:1"
+    ],
+    "answerIndex": 0,
+    "explanation": "【每個 CO 搶走一個 O，變成一個 $\\text{CO}_2$】\n• $\\text{CaCO}_3$ 沉澱 $\\dfrac{8.00}{100} = 0.0800\\text{ mol}$，所以 $\\text{CO}_2$ 為 0.0800 mol。\n• 氧化物中的 O 為 0.0800 mol，質量 $0.0800 \\times 16.0 = 1.28\\text{ g}$。\n• Fe 質量 $5.20 - 1.28 = 3.92\\text{ g}$，莫耳數 $\\dfrac{3.92}{56.0} = 0.0700\\text{ mol}$。\n• Fe : O $= 0.0700 : 0.0800 = 7 : 8$\n\n故選 (A)"
+  },
+  {
+    "id": "112-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 6-7 題為題組】在主客化學中，一個具有空腔的分子（主）可以包含另一個分子（客）於其空腔中，形成一個錯合物。這類主客錯合物的形成需要分子間的作用力，而作用力的大小可由溶液中形成錯合物的平衡常數大小作評估。例如：在 $25^\\circ\\text{C}$ 時，圖 2 中化合物甲（客）和化合物乙（主）於氯仿中形成錯合物丙的反應平衡常數 $K_c$ 為 $2.0\\times10^5$。\n6. 下列哪一項是形成錯合物丙的主要分子間作用力？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-06.png\" alt=\"圖2 客分子甲、主分子乙與錯合物丙的結構\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "氫鍵",
+      "共價鍵",
+      "分散力",
+      "偶極-偶極力",
+      "離子鍵"
+    ],
+    "answerIndex": 0,
+    "explanation": "【看主、客分子互相對準的基團】\n客分子甲（巴比妥酸衍生物）有兩個 N–H 與三個 C=O；主分子乙的空腔內側排列著醯胺的 N–H、C=O 及吡啶的 N。在錯合物丙中，兩者的 N–H 與 O、N 正好一一相對，形成多個分子間氫鍵，這是主客錯合物最主要的作用力；兩者之間沒有新的共價鍵或離子鍵。\n\n故選 (A)"
+  },
+  {
+    "id": "112-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 6-7 題為題組】在主客化學中，一個具有空腔的分子（主）可以包含另一個分子（客）於其空腔中，形成一個錯合物。這類主客錯合物的形成需要分子間的作用力，而作用力的大小可由溶液中形成錯合物的平衡常數大小作評估。例如：在 $25^\\circ\\text{C}$ 時，圖 2 中化合物甲（客）和化合物乙（主）於氯仿中形成錯合物丙的反應平衡常數 $K_c$ 為 $2.0\\times10^5$。\n7. 若在 $25^\\circ\\text{C}$ 時，1.0 升氯仿中分別加入 0.368 克化合物甲和 1.35 克化合物乙，達到平衡時，錯合物丙的體積莫耳濃度（M）最接近下列何者？（分子量：甲 184；乙 673）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-06.png\" alt=\"圖2 客分子甲、主分子乙與錯合物丙的結構\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$2.0\\times10^{-5}$",
+      "$1.0\\times10^{-4}$",
+      "$2.0\\times10^{-4}$",
+      "$1.0\\times10^{-3}$",
+      "$2.0\\times10^{-3}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【K 很大 → 幾乎完全形成錯合物】\n• $[\\text{甲}]_0 = \\dfrac{0.368}{184} = 2.0\\times10^{-3}\\text{ M}$，$[\\text{乙}]_0 = \\dfrac{1.35}{673} \\approx 2.0\\times10^{-3}\\text{ M}$\n• 設生成丙 $x$ M：$K_c = \\dfrac{x}{(2.0\\times10^{-3} - x)^2} = 2.0\\times10^5$\n• 因 $K_c$ 很大，$x \\approx 2.0\\times10^{-3}$：$(2.0\\times10^{-3} - x)^2 \\approx \\dfrac{2.0\\times10^{-3}}{2.0\\times10^5} = 1.0\\times10^{-8}$，剩下的甲、乙只有約 $1.0\\times10^{-4}$ M。\n• $x \\approx 2.0\\times10^{-3} - 1.0\\times10^{-4} = 1.9\\times10^{-3} \\approx 2.0\\times10^{-3}\\text{ M}$\n\n故選 (E)"
+  },
+  {
+    "id": "112-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "利用柳酸與乙酐進行酯化反應，以少量濃硫酸作為催化劑，則可得到乙醯柳酸，乙醯柳酸又稱為阿司匹靈。實驗步驟如下：\n（1）在乾燥的 10 mL 試管內裝入 2.0 mL 乙酐。\n（2）秤取約 1.00 克的柳酸，倒入試管中。\n（3）試管中滴入 3～5 滴的濃硫酸，使柳酸完全溶解，混合均勻。\n（4）將試管置於 $70^\\circ\\text{C}$ 的熱水浴中 15～20 分鐘。\n（5）將試管自熱水浴取出，靜置自然冷卻至室溫。\n（6）將溶液置於冰水浴，加入 10 mL 蒸餾水，以玻棒攪拌，使白色沉澱析出，再進行分離及純化。\n下列有關此反應的敘述，哪些正確？",
+    "options": [
+      "乙酐除了作為反應物外，亦可同時作為溶劑，溶解固態的柳酸",
+      "步驟（3）加入濃硫酸的目的是為了移除反應所生成的水",
+      "步驟（4）的熱水浴是為了加速反應進行",
+      "步驟（6）表示阿司匹靈在低溫有較大的溶解度",
+      "將氯化鐵溶液加入產物的酒精溶液，若產生紫色，表示產物中有柳酸殘留"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "• (A) 正確：乙酐過量且為液體，柳酸溶於其中反應。\n• (B) 錯誤：題目已說明濃硫酸是催化劑；而且柳酸與乙酐反應的副產物是乙酸，不是水。\n• (C) 正確：升溫使反應速率加快。\n• (D) 錯誤：冰水浴使阿司匹靈析出，表示它在低溫溶解度較小。\n• (E) 正確：柳酸有酚羥基，遇 $\\text{FeCl}_3$ 呈紫色；阿司匹靈的酚羥基已被乙醯化，不呈色。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "112-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "五種含硫的化合物，分別為：$\\text{H}_2\\text{S}$、$\\text{SO}_3$、$\\text{SF}_6$、$\\text{SF}_4$ 與 $\\text{SF}_2$。試問下列有關這些化合物的敘述，哪些正確？",
+    "options": [
+      "$\\text{H}_2\\text{S}$ 可作為還原劑",
+      "$\\text{SO}_3$ 的水溶液為酸性",
+      "$\\text{SF}_6$ 的氣體密度比空氣小",
+      "$\\text{SF}_4$ 的路易斯結構符合八隅體",
+      "$\\text{SF}_2$ 的分子形狀與 $\\text{H}_2\\text{S}$ 相似"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "• (A) 正確：$\\text{H}_2\\text{S}$ 中 S 為 $-2$（最低氧化數），只能被氧化，可作還原劑。\n• (B) 正確：$\\text{SO}_3 + \\text{H}_2\\text{O} \\to \\text{H}_2\\text{SO}_4$，水溶液為強酸性。\n• (C) 錯誤：$\\text{SF}_6$ 分子量 146，遠大於空氣平均分子量約 29，密度比空氣大。\n• (D) 錯誤：$\\text{SF}_4$ 中心 S 有 4 個鍵結電子對與 1 對孤對電子，共 10 個電子，為擴張八隅體。\n• (E) 正確：$\\text{SF}_2$ 與 $\\text{H}_2\\text{S}$ 的中心 S 都有 2 個鍵結對與 2 對孤對電子，都是角形（彎曲形）。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "112-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "$25^\\circ\\text{C}$、1.0 大氣壓的某種混合氣體，其成分含有甲烷 8.0 莫耳、乙烷 1.0 莫耳及丙烷 1.0 莫耳。試問下列有關此混合氣體的敘述，哪些正確？（假設甲烷、乙烷、丙烷皆為理想氣體）",
+    "options": [
+      "甲烷的莫耳分率為 0.80",
+      "乙烷的分壓為 1.0 atm",
+      "丙烷的分壓為 0.10 atm",
+      "平均莫耳質量約為 30 g/mol",
+      "混合氣體的體積為 24.5 L"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "總莫耳數 $8.0 + 1.0 + 1.0 = 10.0\\text{ mol}$。\n• (A) 正確：$X_{\\text{CH}_4} = \\dfrac{8.0}{10.0} = 0.80$。\n• (B) 錯誤：$P_{\\text{C}_2\\text{H}_6} = 0.10 \\times 1.0 = 0.10\\text{ atm}$。\n• (C) 正確：$P_{\\text{C}_3\\text{H}_8} = 0.10\\text{ atm}$。\n• (D) 錯誤：$\\bar{M} = 0.80\\times16 + 0.10\\times30 + 0.10\\times44 = 20.2\\text{ g/mol}$。\n• (E) 錯誤：$25^\\circ\\text{C}$、1 atm 下每莫耳 24.5 L，10.0 mol 為 245 L。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "112-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "某生以 0.010 M 的 HCl 溶液與 20.0 毫升 0.010 M 的 NaOH 溶液進行反應，反應時每次加入 HCl 溶液 1.0 毫升，總計加入 25 次。若將燒杯內 $[\\text{OH}^-]$、$[\\text{H}^+]$ 與 pH 值和加入的 HCl 體積作圖，試問下列五個圖中，哪些正確？（注意各圖的縱座標）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-11.png\" alt=\"第 11 題五個圖：(A)(B)(C) 為 [OH⁻]、(D) 為 [H⁺]、(E) 為 pH 對加入 HCl 體積\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【要考慮稀釋】加入 $V$ mL HCl 時（$V < 20$）：\n$$[\\text{OH}^-] = \\frac{0.010\\times(20 - V)}{20 + V}\\text{ M}$$\n• 例如 $V = 10$：$[\\text{OH}^-] = \\dfrac{0.10}{30} \\approx 0.0033$ M，比直線（0.005）低，曲線向下凹，在 20 mL 時降到 0。\n• (A) 錯誤：濃度不可能為負值。\n• (B) 錯誤：畫成直線且約 19 mL 就到 0，沒有考慮稀釋。\n• (C) 正確：曲線逐漸變緩，20 mL 時降到 0 並維持。\n• (D) 錯誤：超過 20 mL 後 $[\\text{H}^+] = \\dfrac{0.010(V - 20)}{20 + V}$，25 mL 時只有 $\\dfrac{0.050}{45} \\approx 0.0011$ M，圖中約 0.0025 M 太大。\n• (E) 正確：起始 pH = 12，20 mL 當量點 pH = 7 附近陡降，25 mL 時 $\\text{pH} \\approx 2.95$。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "112-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "鉀與氯氣反應形成氯化鉀，其化學反應式和反應熱如式 2 所示：\n$$\\text{K(s)} + \\tfrac12\\text{Cl}_2\\text{(g)} \\to \\text{KCl(s)}\\qquad \\Delta H^0 = -437\\text{ kJ/mol}\\qquad\\text{（式 2）}$$\n表 1 是相關過程的能量變化（$\\Delta H^0$）。根據以上資料，試問下列敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-12.png\" alt=\"表1 K(s)→K(g) 甲；K(g)→K⁺(g)+e⁻ 乙；Cl₂(g)→2Cl(g) 丙；Cl(g)+e⁻→Cl⁻(g) 丁；K⁺(g)+Cl⁻(g)→KCl(s) 戊\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲＋乙＋丙＋丁＋戊 = −437 kJ/mol",
+      "甲＞0",
+      "乙＞0",
+      "丙＞0",
+      "以相同質量的鉀與氯氣完全反應產生氯化鉀，則氯為限量試劑"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "【玻恩-哈柏循環】\n• (A) 錯誤：式 2 只需 $\\tfrac12$ 莫耳 $\\text{Cl}_2$，應為 甲 + 乙 + $\\tfrac12$丙 + 丁 + 戊 $= -437$ kJ/mol。\n• (B) 正確：固體昇華為氣體需吸熱。\n• (C) 正確：游離能為吸熱。\n• (D) 正確：拆開共價鍵需吸熱。\n• (E) 錯誤：各取 $w$ 克，K 為 $\\dfrac{w}{39.1}$ mol，需 $\\text{Cl}_2$ $\\dfrac{w}{78.2}$ mol；而 $\\text{Cl}_2$ 有 $\\dfrac{w}{71.0}$ mol，較多，所以鉀才是限量試劑。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "112-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 13-14 題為題組】未知的四類有機化合物 A、B、C、D 各為飽和直鏈的醇、烷、醛與羧酸的其中一種。圖 3 為其含不同碳數的此四類化合物沸點分布，其中，A1 表示 A 系列含 1 個碳的化合物，A2 表示 A 系列含 2 個碳的化合物，依此類推。由圖 3 可知各類化合物沸點高低順序。\n13. 下列關於此四類有機化合物的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-13.png\" alt=\"圖3 A、B、C、D 四類化合物沸點對碳原子數（碳數 1 時約為 A −160、C −20、B 65、D 100 °C）\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "A1 與 B1 為同系物",
+      "A1、B1、C1、D1 四種化合物在氣態時，以 A1 較接近理想氣體",
+      "四種化合物中，只有 D 類化合物具有分子間的氫鍵",
+      "常溫時，B1 與 D1 可與金屬鈉反應產生氫氣",
+      "C1 可與多侖試劑作用產生銀鏡"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "由碳數 1 的沸點辨認：A 約 −160 °C 為甲烷（烷）、C 約 −20 °C 為甲醛（醛）、B 約 65 °C 為甲醇（醇）、D 約 100 °C 為甲酸（羧酸）。\n• (A) 錯誤：A1 為甲烷、B1 為甲醇，屬不同類，不是同系物。\n• (B) 正確：甲烷分子小且非極性，分子間作用力最弱，最接近理想氣體。\n• (C) 錯誤：醇類（B）與羧酸（D）都有分子間氫鍵。\n• (D) 正確：甲醇與甲酸都有 O–H，可與鈉反應放出 $\\text{H}_2$。\n• (E) 正確：甲醛為醛類，可還原多侖試劑產生銀鏡。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "112-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 13-14 題為題組】未知的四類有機化合物 A、B、C、D 各為飽和直鏈的醇、烷、醛與羧酸的其中一種。圖 3 為其含不同碳數的此四類化合物沸點分布，其中，A1 表示 A 系列含 1 個碳的化合物，A2 表示 A 系列含 2 個碳的化合物，依此類推。由圖 3 可知各類化合物沸點高低順序。\n14. C3 化合物的各種同分異構物中，下列哪些官能基可能存在？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-13.png\" alt=\"圖3 A、B、C、D 四類化合物沸點對碳原子數（碳數 1 時約為 A −160、C −20、B 65、D 100 °C）\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "羥基",
+      "羰基",
+      "羧基",
+      "炔",
+      "醚"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "由碳數 1 的沸點辨認：A 約 −160 °C 為甲烷（烷）、C 約 −20 °C 為甲醛（醛）、B 約 65 °C 為甲醇（醇）、D 約 100 °C 為甲酸（羧酸）。\nC3 為丙醛 $\\text{C}_3\\text{H}_6\\text{O}$，不飽和度 1，只含 1 個 O。其同分異構物有：丙酮（羰基）、丙烯醇 $\\text{CH}_2=\\text{CHCH}_2\\text{OH}$（羥基）、甲基乙烯基醚 $\\text{CH}_3\\text{OCH}=\\text{CH}_2$（醚）等。\n• (A) 羥基：可能。\n• (B) 羰基：可能（丙醛本身與丙酮都有 C=O）。\n• (C) 羧基：需要 2 個 O，不可能。\n• (D) 炔：參鍵需不飽和度 2，不可能。\n• (E) 醚：可能。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "112-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "碳酸鈣固體溶於水為一放熱反應。下列甲、乙、丙三種圖形分別代表碳酸鈣固體在水中溶解量與施加變因的關係圖。下列相關變因的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-15.png\" alt=\"圖甲：溶解量不隨變因改變；圖乙：溶解量隨變因減少；圖丙：溶解量隨變因增加\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "通入二氧化碳氣體，應為關係圖乙",
+      "添加硝酸，應為關係圖丙",
+      "添加硝酸鈉，應為關係圖乙",
+      "添加碳酸鈉，應為關係圖乙",
+      "升高溫度，應為關係圖甲"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "【$\\text{CaCO}_3\\text{(s)} \\rightleftharpoons \\text{Ca}^{2+} + \\text{CO}_3^{2-}$，放熱】\n• (A) 錯誤：$\\text{CO}_2 + \\text{H}_2\\text{O} + \\text{CaCO}_3 \\to \\text{Ca(HCO}_3)_2$，溶解量增加，應為圖丙。\n• (B) 正確：$\\text{H}^+$ 與 $\\text{CO}_3^{2-}$ 反應，平衡右移，溶解量增加（圖丙）。\n• (C) 錯誤：$\\text{Na}^+$、$\\text{NO}_3^-$ 與平衡無關，溶解量大致不變（圖甲）。\n• (D) 正確：共同離子 $\\text{CO}_3^{2-}$ 使平衡左移，溶解量減少（圖乙）。\n• (E) 錯誤：溶解放熱，升溫使平衡左移，溶解量減少（圖乙）。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "112-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 16-17 題為題組】表 2 比較乙烷、乙烯、乙炔三者的莫耳燃燒熱和碳-碳鍵、碳-氫鍵的鍵能和鍵長。\n16. 根據表 2，下列關於乙烷、乙烯、乙炔三者的敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-16.png\" alt=\"表2 乙烷、乙烯、乙炔的鍵能、鍵長與莫耳燃燒熱\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "將三種氣體完全燃燒後，若以生成每莫耳產物平均釋出的熱量來計算，最大者為乙炔",
+      "將三種氣體各一莫耳完全燃燒後，總共放熱為 1027 卡",
+      "碳-氫鍵的鍵長與鍵能間具有線性關係",
+      "碳-碳鍵長越短，要打斷碳-碳鍵所需的能量越高",
+      "打斷碳-碳參鍵所需能量是打斷碳-碳單鍵所需能量的三倍"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "• (A) 正確：\n  乙烷 $\\text{C}_2\\text{H}_6 + \\tfrac72\\text{O}_2 \\to 2\\text{CO}_2 + 3\\text{H}_2\\text{O}$，產物 5 mol，$373/5 \\approx 74.6$；\n  乙烯 $\\text{C}_2\\text{H}_4 + 3\\text{O}_2 \\to 2\\text{CO}_2 + 2\\text{H}_2\\text{O}$，產物 4 mol，$337/4 \\approx 84.3$；\n  乙炔 $\\text{C}_2\\text{H}_2 + \\tfrac52\\text{O}_2 \\to 2\\text{CO}_2 + \\text{H}_2\\text{O}$，產物 3 mol，$317/3 \\approx 105.7$（kcal），乙炔最大。\n• (B) 錯誤：$373 + 337 + 317 = 1027$ kcal，不是 1027 卡。\n• (C) 錯誤：乙烷與乙烯的 C–H 鍵長都是 109 pm，鍵能卻不同（100、111），不是線性關係。\n• (D) 正確：鍵長 154 → 134 → 120 pm，鍵能 90 → 174 → 231 kcal/mol，鍵越短越強。\n• (E) 錯誤：$231 \\ne 3 \\times 90 = 270$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "112-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 16-17 題為題組】表 2 比較乙烷、乙烯、乙炔三者的莫耳燃燒熱和碳-碳鍵、碳-氫鍵的鍵能和鍵長。\n17. 一反應瓶含有乙烷、乙烯和乙炔，在室溫未照光條件下進行溴化反應後，下列哪些化合物是可能得到的產物？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-17.png\" alt=\"第 17 題選項 (A) 四溴乙烯 (B) 反-1,2-二溴乙烯 (C) 二溴乙炔 (D) 六溴乙烷 (E) 1,1,2,2-四溴乙烷\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【室溫未照光 → 只有不飽和烴的加成反應】\n• 乙烷需照光才能進行取代反應，此條件下不反應，(D) 六溴乙烷不會生成。\n• 乙烯加成一分子 $\\text{Br}_2$ 得 $\\text{CH}_2\\text{BrCH}_2\\text{Br}$（不在選項中）。\n• 乙炔加成一分子 $\\text{Br}_2$ 得 1,2-二溴乙烯 $\\text{CHBr}=\\text{CHBr}$，即 (B)；再加成一分子得 1,1,2,2-四溴乙烷 $\\text{CHBr}_2\\text{CHBr}_2$，即 (E)。\n• (A) 四溴乙烯、(C) 二溴乙炔都需要 H 被 Br 取代，加成反應不會產生。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "112-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "學生小軒將 500 毫升 0.100 M 的氯化鉀以及 500 毫升 0.100 M 的碘化鈉兩種溶液，依序加入 0.100 M 的硝酸銀溶液 1000 毫升中，看見溶液出現白色沉澱與黃色沉澱。假設實驗前後，溶液的 pH 值均維持為 7.0，且碘化銀與氯化銀的溶度積分別為 $K_{sp(\\text{AgI})}$ 與 $K_{sp(\\text{AgCl})}$，其中 $K_{sp(\\text{AgI})} < K_{sp(\\text{AgCl})}$。若達溶解度平衡時，下列關係式，哪些正確？",
+    "options": [
+      "$[\\text{Na}^+] = [\\text{I}^-]$",
+      "$[\\text{I}^-] = [\\text{Cl}^-]$",
+      "$[\\text{NO}_3^-] = [\\text{Na}^+] + [\\text{K}^+]$",
+      "$[\\text{Ag}^+] = (K_{sp(\\text{AgI})} + K_{sp(\\text{AgCl})})^{1/2}$",
+      "$[\\text{Ag}^+] = (K_{sp(\\text{AgI})} \\times K_{sp(\\text{AgCl})})^{1/2}$"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【$\\text{Ag}^+$ 0.100 mol 恰好等於 $\\text{Cl}^-$ 0.050 mol + $\\text{I}^-$ 0.050 mol】\n兩種沉澱幾乎完全生成，溶液中只剩微量的 $\\text{Ag}^+$、$\\text{Cl}^-$、$\\text{I}^-$。\n• (A) 錯誤：$[\\text{Na}^+] = 0.025$ M，$[\\text{I}^-]$ 極小。\n• (B) 錯誤：$[\\text{I}^-] = \\dfrac{K_{sp(\\text{AgI})}}{[\\text{Ag}^+]} < [\\text{Cl}^-] = \\dfrac{K_{sp(\\text{AgCl})}}{[\\text{Ag}^+]}$。\n• (C) 正確：$[\\text{NO}_3^-] = 0.050$ M $= [\\text{Na}^+] + [\\text{K}^+] = 0.025 + 0.025$。\n• (D) 正確：電荷平衡（pH 7，$\\text{H}^+$ 與 $\\text{OH}^-$ 相等可消去）得 $[\\text{Ag}^+] = [\\text{Cl}^-] + [\\text{I}^-] = \\dfrac{K_{sp(\\text{AgCl})} + K_{sp(\\text{AgI})}}{[\\text{Ag}^+]}$，所以 $[\\text{Ag}^+]^2 = K_{sp(\\text{AgI})} + K_{sp(\\text{AgCl})}$。\n• (E) 錯誤：與 (D) 推導的結果不符。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "112-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "二次電池與我們的日常生活息息相關，鋰離子電池便是一例。近年來科學家開始發展一種同時具備金屬離子電池與燃料電池優點的二次電池，以鋅-空氣電池（圖 4）為例，放電時電極反應如式 3 和式 4 所示：\n$$\\text{Zn} + 2\\text{OH}^- \\to \\text{ZnO} + \\text{H}_2\\text{O} + 2e^-\\qquad\\text{（式 3）}$$\n$$\\text{O}_2 + 4\\text{H}^+ + 4e^- \\to 2\\text{H}_2\\text{O}\\qquad\\text{（式 4）}$$\n下列關於鋅-空氣電池的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-19.png\" alt=\"圖4 鋅-空氣電池：鋅電極、電解液、多孔電極（通入 O₂）\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "在放電過程中，金屬鋅為陰極",
+      "在放電過程中，陰極的產物為水",
+      "此電池的全反應為 $2\\text{Zn} + \\text{O}_2 \\to 2\\text{ZnO}$",
+      "若將此電池的金屬鋅換成鎂，則無法進行放電反應",
+      "若需對此電池進行充電，在充電過程中，水會氧化產生氧氣"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "• (A) 錯誤：鋅失去電子（式 3）發生氧化，是陽極（負極）。\n• (B) 正確：陰極（多孔電極）依式 4 還原氧氣，產物為水。\n• (C) 正確：式 3 × 2 + 式 4：$2\\text{Zn} + 4\\text{OH}^- + \\text{O}_2 + 4\\text{H}^+ \\to 2\\text{ZnO} + 4\\text{H}_2\\text{O}$，而 $4\\text{OH}^- + 4\\text{H}^+ = 4\\text{H}_2\\text{O}$ 兩邊消去，得 $2\\text{Zn} + \\text{O}_2 \\to 2\\text{ZnO}$。\n• (D) 錯誤：鎂比鋅更活潑、更易氧化，同樣可作為負極放電。\n• (E) 正確：充電是放電的逆反應，空氣電極端由水（或 $\\text{OH}^-$）氧化產生氧氣。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "112-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 2,
+    "question": "【第 20-22 題為題組】水電解反應所產生的氫氣（$\\text{H}_2$）與氧氣（$\\text{O}_2$），可分別作為燃料與醫療用途。為了瞭解電解質與電極材料對於水電解反應的影響，小安利用 NaOH、$\\text{Na}_2\\text{SO}_4$、$\\text{KNO}_3$ 與 $\\text{NaNO}_3$ 作為電解質，搭配白金、不鏽鋼與石墨作為電極，設計了一系列水電解實驗，並將結果整理成表 3 與圖 5；表 3 為水電解實驗氣體生成體積，圖 5 為水電解實驗的電流效率。電流效率表示所流通的電流中，有多少比例實際進行水電解反應。\n20. 下列關於實驗結果的敘述，哪些正確？（多選）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-20-t3.png\" alt=\"表3 各電極與電解質（1.0 M）的 H₂ 與 O₂ 生成體積（mL）\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-20-f5.png\" alt=\"圖5 白金、不鏽鋼、石墨電極在四種電解質下產氫與產氧的電流效率\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "當使用白金電極時，氫氣或是氧氣的產量，並不隨電解質的不同而有明顯變化",
+      "當使用不鏽鋼電極時，無論電解質種類為何，氫氣都是主要產物",
+      "當使用石墨電極時，無論電解質種類為何，氫氣的產量都相同",
+      "若使用 NaOH 或 $\\text{Na}_2\\text{SO}_4$ 當作電解質，無論電極材料為何，產氫的電流效率都接近 100 %",
+      "若使用 $\\text{KNO}_3$ 或 $\\text{NaNO}_3$ 當作電解質，不鏽鋼電極產氫和產氧的效率都比石墨電極佳"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "• (A) 正確：白金電極四種電解質的 $\\text{H}_2$ 都約 16 mL、$\\text{O}_2$ 都約 8 mL。\n• (B) 錯誤：不鏽鋼搭配 $\\text{KNO}_3$、$\\text{NaNO}_3$ 時，$\\text{H}_2$ 只有 0.5、0.2 mL，氧氣（7.5、7.3 mL）才是主要產物。\n• (C) 錯誤：石墨電極的 $\\text{H}_2$ 在 NaOH、$\\text{Na}_2\\text{SO}_4$ 約 16 mL，在硝酸鹽只有 1.3、1.7 mL。\n• (D) 正確：圖 5 中三種電極在 NaOH、$\\text{Na}_2\\text{SO}_4$ 的產氫效率都接近 100 %。\n• (E) 錯誤：硝酸鹽中不鏽鋼產氫（0.5、0.2 mL）反而比石墨（1.3、1.7 mL）差。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "112-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "points": 2,
+    "question": "【第 20-22 題為題組】水電解反應所產生的氫氣（$\\text{H}_2$）與氧氣（$\\text{O}_2$），可分別作為燃料與醫療用途。為了瞭解電解質與電極材料對於水電解反應的影響，小安利用 NaOH、$\\text{Na}_2\\text{SO}_4$、$\\text{KNO}_3$ 與 $\\text{NaNO}_3$ 作為電解質，搭配白金、不鏽鋼與石墨作為電極，設計了一系列水電解實驗，並將結果整理成表 3 與圖 5；表 3 為水電解實驗氣體生成體積，圖 5 為水電解實驗的電流效率。電流效率表示所流通的電流中，有多少比例實際進行水電解反應。\n21. 在某個實驗條件下，小安獲得了如圖 6 的實驗結果，試問下列哪一項最可能為此實驗的電極材料與電解質組合？（單選）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-20-t3.png\" alt=\"表3 各電極與電解質（1.0 M）的 H₂ 與 O₂ 生成體積（mL）\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-21.png\" alt=\"圖6 四組電解槽串聯：甲、丙左管（接負極，產 H₂）幾乎無氣體、右管約有半管氣體；乙、丁左管氣體很多，右管氣體約為左管一半（丁的右管又比乙少）\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "電極材料：白金；電解質：甲-NaOH、乙-$\\text{Na}_2\\text{SO}_4$、丙-$\\text{KNO}_3$、丁-$\\text{NaNO}_3$",
+      "電極材料：不鏽鋼；電解質：甲-$\\text{Na}_2\\text{SO}_4$、乙-$\\text{NaNO}_3$、丙-$\\text{KNO}_3$、丁-NaOH",
+      "電極材料：不鏽鋼；電解質：甲-$\\text{KNO}_3$、乙-NaOH、丙-$\\text{NaNO}_3$、丁-$\\text{Na}_2\\text{SO}_4$",
+      "電極材料：石墨；電解質：甲-$\\text{NaNO}_3$、乙-$\\text{Na}_2\\text{SO}_4$、丙-NaOH、丁-$\\text{KNO}_3$",
+      "電極材料：石墨；電解質：甲-NaOH、乙-$\\text{Na}_2\\text{SO}_4$、丙-$\\text{KNO}_3$、丁-$\\text{NaNO}_3$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【串聯 → 通過各槽的電量相同，對照表 3】\n• 圖 6 中甲、丙的氫氣管幾乎沒有氣體，但氧氣管有不少氣體：只有「不鏽鋼 + 硝酸鹽」（$\\text{H}_2$ 0.5、0.2 mL；$\\text{O}_2$ 7.5、7.3 mL）符合。白金在任何電解質都會產生大量 $\\text{H}_2$；石墨配硝酸鹽則兩種氣體都很少。\n• 乙、丁的氫氣與氧氣都多，約 2 : 1，為不鏽鋼配 NaOH（16 : 8）或 $\\text{Na}_2\\text{SO}_4$（16 : 6.3）；丁的氧氣明顯較少，對應 $\\text{Na}_2\\text{SO}_4$，乙為 NaOH。\n• 所以是不鏽鋼電極，甲、丙為硝酸鹽，乙為 NaOH，丁為 $\\text{Na}_2\\text{SO}_4$。\n\n故選 (C)"
+  },
+  {
+    "id": "112-ast-chem-non-22",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 20-22 題為題組】水電解反應所產生的氫氣（$\\text{H}_2$）與氧氣（$\\text{O}_2$），可分別作為燃料與醫療用途。為了瞭解電解質與電極材料對於水電解反應的影響，小安利用 NaOH、$\\text{Na}_2\\text{SO}_4$、$\\text{KNO}_3$ 與 $\\text{NaNO}_3$ 作為電解質，搭配白金、不鏽鋼與石墨作為電極，設計了一系列水電解實驗，並將結果整理成表 3 與圖 5；表 3 為水電解實驗氣體生成體積，圖 5 為水電解實驗的電流效率。電流效率表示所流通的電流中，有多少比例實際進行水電解反應。\n22. 表 3 顯示使用不鏽鋼當作電極，並搭配 $\\text{KNO}_3$ 或是 $\\text{NaNO}_3$ 作為電解質時，產氫的電流效率均低於 10%，小安推測這可能是 $\\text{NO}_3^-$ 陰離子被還原成 $\\text{NH}_2\\text{OH}$。寫出在鹼性水溶液下，此還原反應的半反應式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-20-t3.png\" alt=\"表3 各電極與電解質（1.0 M）的 H₂ 與 O₂ 生成體積（mL）\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{NO}_3^- + 6e^- + 5\\text{H}_2\\text{O} \\to \\text{NH}_2\\text{OH} + 7\\text{OH}^-$"
+    ],
+    "blankLabels": [
+      "半反應式"
+    ],
+    "explanation": "【鹼性溶液中配平半反應】\n1. N 的氧化數：$\\text{NO}_3^-$ 中 +5 → $\\text{NH}_2\\text{OH}$ 中 −1，得到 6 個電子：$\\text{NO}_3^- + 6e^- \\to \\text{NH}_2\\text{OH}$\n2. 左邊電荷 −7，右邊 0，鹼性溶液用 $\\text{OH}^-$ 平衡：右邊加 $7\\text{OH}^-$。\n3. 數 H 與 O：右邊 H 有 $3 + 7 = 10$ 個，左邊補 $5\\text{H}_2\\text{O}$；檢查 O：左 $3 + 5 = 8$，右 $1 + 7 = 8$ ✓\n$$\\text{NO}_3^- + 6e^- + 5\\text{H}_2\\text{O} \\to \\text{NH}_2\\text{OH} + 7\\text{OH}^-$$"
+  },
+  {
+    "id": "112-ast-chem-non-23",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 23-25 題為題組】利用分子模型可以幫助了解化合物的結構與形狀。下方圖 7 的填充模型和球-棍模型中，甲和乙為碳氫化合物，丙至戊為含有氧或氮之有機化合物，回答下列問題：\n23. 化合物甲至戊共有幾個化合物具有不飽和鍵？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-23.png\" alt=\"圖7 甲（丙烷填充模型）、乙（乙炔填充模型）、丙（柳酸）、丁（甘胺酸）、戊（含醛基的五碳糖）的分子模型\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "4"
+    ],
+    "acceptedBlanks": [
+      [
+        "4個",
+        "四",
+        "四個"
+      ]
+    ],
+    "blankLabels": [
+      "個數"
+    ],
+    "explanation": "【辨認各模型】\n• 甲：丙烷 $\\text{CH}_3\\text{CH}_2\\text{CH}_3$，全是單鍵。\n• 乙：乙炔 $\\text{HC}\\equiv\\text{CH}$，有參鍵。\n• 丙：柳酸，有苯環與 C=O。\n• 丁：甘胺酸 $\\text{H}_2\\text{NCH}_2\\text{COOH}$，有 C=O。\n• 戊：含醛基的多羥基醛（五碳醛糖），有 C=O。\n具有不飽和鍵的為乙、丙、丁、戊。\n\n答：4 個（乙、丙、丁、戊）"
+  },
+  {
+    "id": "112-ast-chem-non-24",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 23-25 題為題組】利用分子模型可以幫助了解化合物的結構與形狀。下方圖 7 的填充模型和球-棍模型中，甲和乙為碳氫化合物，丙至戊為含有氧或氮之有機化合物，回答下列問題：\n24. 寫出化合物甲的結構式（含所有原子）。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-23.png\" alt=\"圖7 甲（丙烷填充模型）、乙（乙炔填充模型）、丙（柳酸）、丁（甘胺酸）、戊（含醛基的五碳糖）的分子模型\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "丙烷：$\\text{CH}_3-\\text{CH}_2-\\text{CH}_3$（畫出 3 個 C 相連，各 C 補滿 H，共 8 個 H）"
+    ],
+    "blankLabels": [
+      "甲的結構式"
+    ],
+    "explanation": "【填充模型中 3 個大球（C）與 8 個小球（H）】\n甲為丙烷 $\\text{C}_3\\text{H}_8$：中間的 C 接 2 個 H，兩端的 C 各接 3 個 H。\n$$\\text{H}_3\\text{C}-\\text{CH}_2-\\text{CH}_3$$\n寫成 $\\text{CH}_3\\text{CH}_2\\text{CH}_3$ 也可以；只寫分子式 $\\text{C}_3\\text{H}_8$ 不給分。"
+  },
+  {
+    "id": "112-ast-chem-non-25",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 23-25 題為題組】利用分子模型可以幫助了解化合物的結構與形狀。下方圖 7 的填充模型和球-棍模型中，甲和乙為碳氫化合物，丙至戊為含有氧或氮之有機化合物，回答下列問題：\n25. 若化合物丙與乙酐在酸的催化下反應，可以生成化合物己與乙酸，寫出化合物己分子的結構式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-23.png\" alt=\"圖7 甲（丙烷填充模型）、乙（乙炔填充模型）、丙（柳酸）、丁（甘胺酸）、戊（含醛基的五碳糖）的分子模型\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "乙醯柳酸（阿司匹靈）：苯環上相鄰兩個位置分別接 $-\\text{COOH}$ 與 $-\\text{O}-\\text{CO}-\\text{CH}_3$"
+    ],
+    "blankLabels": [
+      "己的結構式"
+    ],
+    "explanation": "【酚羥基的乙醯化】\n丙為柳酸（鄰羥基苯甲酸）。乙酐 $(\\text{CH}_3\\text{CO})_2\\text{O}$ 把柳酸的酚羥基 $-\\text{OH}$ 變成 $-\\text{OCOCH}_3$，同時放出乙酸：\n$$\\text{HOC}_6\\text{H}_4\\text{COOH} + (\\text{CH}_3\\text{CO})_2\\text{O} \\to \\text{CH}_3\\text{COOC}_6\\text{H}_4\\text{COOH} + \\text{CH}_3\\text{COOH}$$\n己為乙醯柳酸（阿司匹靈），苯環上鄰位分別是羧基 $-\\text{COOH}$ 與酯基 $-\\text{O}-\\text{C}(=\\text{O})-\\text{CH}_3$。"
+  },
+  {
+    "id": "112-ast-chem-non-26",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 26-28 題為題組】過氧化二（三級丁基）（$(\\text{CH}_3)_3\\text{COOC}(\\text{CH}_3)_3$，簡稱 dTBP），在加熱後會分解產生丙酮與乙烷，其反應如式 5 所示：\n$$(\\text{CH}_3)_3\\text{COOC}(\\text{CH}_3)_3\\text{(g)} \\to 2(\\text{CH}_3)_2\\text{CO(g)} + \\text{C}_2\\text{H}_6\\text{(g)}\\qquad\\text{（式 5）}$$\n為了研究此一反應，小明在 420 K 下將一定量的 dTBP 氣體注入如圖 8 的反應容器中，並觀察水銀（汞）柱高度（h）隨時間的變化，紀錄如表 4。小明也在表 4 中填寫了部分實驗數據分析的結果，但內容並不完整。假設容器中一開始只有 dTBP 且整個反應過程容器中只有式 5 所列之三種氣體存在，依據表 4 回答下列問題：（註：1. 水銀壓力計內的體積變化可忽略不計、2. 要寫出計算過程，否則不予計分）\n26. 計算時間為 1 分鐘時，容器中 dTBP 的體積莫耳濃度為何？（已知：$\\dfrac{25.94}{76\\times0.082\\times420} \\doteq 0.0099$）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-26.png\" alt=\"圖8 反應容器接閉口水銀壓力計；表4 各時間的汞柱高 h 與部分 dTBP 濃度、反應速率\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "9.9"
+    ],
+    "acceptedBlanks": [
+      [
+        "9.9MM",
+        "0.0099",
+        "0.0099M"
+      ]
+    ],
+    "blankLabels": [
+      "dTBP 濃度（mM）"
+    ],
+    "explanation": "【1 mol dTBP 分解成 3 mol 氣體，總壓增加 $2\\Delta P$】\n• $t = 0$：26.17、0、0，總壓 26.17 cmHg\n• $t$：$26.17 - \\Delta P$、$2\\Delta P$、$\\Delta P$，總壓 $26.17 + 2\\Delta P$\n1 分鐘時總壓 26.63 cmHg：$2\\Delta P = 0.46$，$\\Delta P = 0.23$ cmHg，dTBP 分壓 $= 26.17 - 0.23 = 25.94$ cmHg。\n$$C_M = \\frac{n}{V} = \\frac{P}{RT} = \\frac{25.94/76}{0.082\\times420} \\doteq 0.0099\\text{ M} = 9.9\\text{ mM}$$\n\n答：9.9 mM（0.0099 M）"
+  },
+  {
+    "id": "112-ast-chem-non-27",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 26-28 題為題組】過氧化二（三級丁基）（$(\\text{CH}_3)_3\\text{COOC}(\\text{CH}_3)_3$，簡稱 dTBP），在加熱後會分解產生丙酮與乙烷，其反應如式 5 所示：\n$$(\\text{CH}_3)_3\\text{COOC}(\\text{CH}_3)_3\\text{(g)} \\to 2(\\text{CH}_3)_2\\text{CO(g)} + \\text{C}_2\\text{H}_6\\text{(g)}\\qquad\\text{（式 5）}$$\n為了研究此一反應，小明在 420 K 下將一定量的 dTBP 氣體注入如圖 8 的反應容器中，並觀察水銀（汞）柱高度（h）隨時間的變化，紀錄如表 4。小明也在表 4 中填寫了部分實驗數據分析的結果，但內容並不完整。假設容器中一開始只有 dTBP 且整個反應過程容器中只有式 5 所列之三種氣體存在，依據表 4 回答下列問題：（註：1. 水銀壓力計內的體積變化可忽略不計、2. 要寫出計算過程，否則不予計分）\n27. 此反應的反應速率常數的數值與單位為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-26.png\" alt=\"圖8 反應容器接閉口水銀壓力計；表4 各時間的汞柱高 h 與部分 dTBP 濃度、反應速率\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$k = 0.0086\\text{ min}^{-1}$（一級反應）"
+    ],
+    "blankLabels": [
+      "速率常數（數值與單位）"
+    ],
+    "explanation": "【由兩組濃度與速率求級數】\n設 $r = k[\\text{dTBP}]^n$：\n• 80 min：$0.043 = k(5.001)^n$\n• 160 min：$0.0215 = k(2.501)^n$\n濃度減半、速率也減半 → $n = 1$，為一級反應。\n$$k = \\frac{0.043}{5.001} \\approx 0.0086\\text{ min}^{-1}$$\n\n答：$k = 0.0086\\text{ min}^{-1}$"
+  },
+  {
+    "id": "112-ast-chem-non-28",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 26-28 題為題組】過氧化二（三級丁基）（$(\\text{CH}_3)_3\\text{COOC}(\\text{CH}_3)_3$，簡稱 dTBP），在加熱後會分解產生丙酮與乙烷，其反應如式 5 所示：\n$$(\\text{CH}_3)_3\\text{COOC}(\\text{CH}_3)_3\\text{(g)} \\to 2(\\text{CH}_3)_2\\text{CO(g)} + \\text{C}_2\\text{H}_6\\text{(g)}\\qquad\\text{（式 5）}$$\n為了研究此一反應，小明在 420 K 下將一定量的 dTBP 氣體注入如圖 8 的反應容器中，並觀察水銀（汞）柱高度（h）隨時間的變化，紀錄如表 4。小明也在表 4 中填寫了部分實驗數據分析的結果，但內容並不完整。假設容器中一開始只有 dTBP 且整個反應過程容器中只有式 5 所列之三種氣體存在，依據表 4 回答下列問題：（註：1. 水銀壓力計內的體積變化可忽略不計、2. 要寫出計算過程，否則不予計分）\n28. 在時間為 40 分鐘時，此反應的反應速率為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-26.png\" alt=\"圖8 反應容器接閉口水銀壓力計；表4 各時間的汞柱高 h 與部分 dTBP 濃度、反應速率\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "0.061"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.0608",
+        "0.061MM/MIN",
+        "0.06"
+      ]
+    ],
+    "blankLabels": [
+      "反應速率（mM/min）"
+    ],
+    "explanation": "【$r = k[\\text{dTBP}]$】\n40 分鐘時 $[\\text{dTBP}] = 7.072$ mM：\n$$r = 8.6\\times10^{-3} \\times 7.072 \\approx 0.061\\text{ mM/min}$$\n\n答：0.061 mM/min"
+  },
+  {
+    "id": "112-ast-chem-non-29",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 29-31 題為題組】蒸氣蒸餾是一種提取植物精油常用的方法。此法乃將水與不溶於水的有機物質混合後，於蒸餾裝置中直接加熱至沸騰而將有機物質與水一起餾出，待觀察冷凝管中冷凝的液體不再有油滴存在時，表示蒸餾結束。已知溴苯（$\\text{C}_6\\text{H}_5\\text{Br}$，分子量 = 157）不溶於水，其沸點於常壓（760 mmHg）為 156 °C，且水與溴苯在不同溫度時的蒸氣壓如圖 9 所示。理論上，兩種不互溶的液體，其蒸氣壓的表現，直接對應於該溫度之個別蒸氣壓。今將 50 克水與 20 克溴苯混合並加熱，回答下列問題：（註：要寫出計算過程，否則不予計分）\n29. 在 $90^\\circ\\text{C}$ 時，此混合物的蒸氣壓（mmHg）約為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-29.png\" alt=\"圖9 水與溴苯在 30～100 °C 的蒸氣壓曲線\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "約 620～660 mmHg（溴苯約 100～110 mmHg ＋ 水約 520～550 mmHg）"
+    ],
+    "blankLabels": [
+      "混合物蒸氣壓（mmHg）"
+    ],
+    "explanation": "【互不相溶 → 各自貢獻自己的飽和蒸氣壓】\n由圖 9 讀 $90^\\circ\\text{C}$：溴苯約 100～110 mmHg，水約 520～550 mmHg。\n$$P_\\text{總} = P_\\text{溴苯} + P_\\text{水} \\approx 620\\text{～}660\\text{ mmHg}$$\n\n答：約 620～660 mmHg（例如 $105 + 535 = 640$ mmHg）"
+  },
+  {
+    "id": "112-ast-chem-non-30",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 29-31 題為題組】蒸氣蒸餾是一種提取植物精油常用的方法。此法乃將水與不溶於水的有機物質混合後，於蒸餾裝置中直接加熱至沸騰而將有機物質與水一起餾出，待觀察冷凝管中冷凝的液體不再有油滴存在時，表示蒸餾結束。已知溴苯（$\\text{C}_6\\text{H}_5\\text{Br}$，分子量 = 157）不溶於水，其沸點於常壓（760 mmHg）為 156 °C，且水與溴苯在不同溫度時的蒸氣壓如圖 9 所示。理論上，兩種不互溶的液體，其蒸氣壓的表現，直接對應於該溫度之個別蒸氣壓。今將 50 克水與 20 克溴苯混合並加熱，回答下列問題：（註：要寫出計算過程，否則不予計分）\n30. 在某大氣壓力下，此混合物沸騰時的溴苯蒸氣的分壓為 50 mmHg，而水蒸氣的分壓為 250 mmHg，則餾出物中二者質量比值（溴苯/水）為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-29.png\" alt=\"圖9 水與溴苯在 30～100 °C 的蒸氣壓曲線\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "1.74"
+    ],
+    "acceptedBlanks": [
+      [
+        "1.7",
+        "157/90",
+        "1.74:1"
+      ]
+    ],
+    "blankLabels": [
+      "質量比（溴苯/水）"
+    ],
+    "explanation": "【蒸氣中的莫耳數比 = 分壓比】\n• 莫耳數比 溴苯 : 水 $= 50 : 250 = 1 : 5$\n• 質量比 $= \\dfrac{1\\times157}{5\\times18} = \\dfrac{157}{90} \\approx 1.74$\n\n答：1.74"
+  },
+  {
+    "id": "112-ast-chem-non-31",
+    "examType": "分科/指考",
+    "year": 112,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 29-31 題為題組】蒸氣蒸餾是一種提取植物精油常用的方法。此法乃將水與不溶於水的有機物質混合後，於蒸餾裝置中直接加熱至沸騰而將有機物質與水一起餾出，待觀察冷凝管中冷凝的液體不再有油滴存在時，表示蒸餾結束。已知溴苯（$\\text{C}_6\\text{H}_5\\text{Br}$，分子量 = 157）不溶於水，其沸點於常壓（760 mmHg）為 156 °C，且水與溴苯在不同溫度時的蒸氣壓如圖 9 所示。理論上，兩種不互溶的液體，其蒸氣壓的表現，直接對應於該溫度之個別蒸氣壓。今將 50 克水與 20 克溴苯混合並加熱，回答下列問題：（註：要寫出計算過程，否則不予計分）\n31. 於 1 大氣壓下，此混合物約在溫度幾度（$^\\circ\\text{C}$）時會沸騰？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/112-ast-chem-29.png\" alt=\"圖9 水與溴苯在 30～100 °C 的蒸氣壓曲線\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "95"
+    ],
+    "acceptedBlanks": [
+      [
+        "約95",
+        "95°C",
+        "約95°C",
+        "94",
+        "96"
+      ]
+    ],
+    "blankLabels": [
+      "沸騰溫度（°C）"
+    ],
+    "explanation": "【兩者蒸氣壓之和等於 760 mmHg 時沸騰】\n由圖 9 讀 $95^\\circ\\text{C}$：溴苯約 120 mmHg，水約 640 mmHg，合計約 760 mmHg。\n所以混合物約在 $95^\\circ\\text{C}$ 沸騰，低於水的沸點 $100^\\circ\\text{C}$，也遠低於溴苯的沸點 $156^\\circ\\text{C}$，這正是蒸氣蒸餾能在較低溫度提取高沸點物質的原因。\n\n答：約 $95^\\circ\\text{C}$"
   }
 ]
