@@ -25295,5 +25295,559 @@
       "M 的振幅"
     ],
     "explanation": "質心不動，$M$ 到質心的距離永遠是兩木塊距離的 $\\dfrac{m}{M+m}$。拉開後兩者距離 $L + \\Delta L$，$M$ 距質心 $\\dfrac{m}{M+m}(L+\\Delta L)$；平衡時為 $\\dfrac{m}{M+m}L$。兩者之差即振幅 $\\dfrac{m}{M+m}\\Delta L$。\n（另解：把彈簧從質心切成兩段，$M$ 那段的長度占 $\\dfrac{m}{M+m}$，伸長量也按此比例分配。）"
+  },
+  {
+    "id": "100-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "一條長度為 5.0 m、兩端固定的繩上所形成的駐波，其示意圖如圖 1。此駐波是由波形相同，但行進方向相反的二波重疊而成，此二波的波長為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-01.png\" alt=\"圖1 長 5.0 m 兩端固定的繩上形成 5 個駐波波段\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1.0 m",
+      "1.5 m",
+      "2.0 m",
+      "2.5 m",
+      "3.0 m"
+    ],
+    "answerIndex": 2,
+    "explanation": "【弦上駐波】\n相鄰兩節點相距半個波長。圖中繩上有 5 個波段（迴圈），所以 $5\\times\\dfrac{\\lambda}{2} = 5.0\\text{ m}$，$\\lambda = 2.0\\text{ m}$。形成駐波的兩個行進波，波長與駐波的波長相同。\n\n故選 (C)"
+  },
+  {
+    "id": "100-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "下列有關熱的敘述何者正確？",
+    "options": [
+      "當兩物體接觸時，熱量一定由溫度高的物體流向溫度低的物體",
+      "互相接觸的兩物體在達到熱平衡後，一定含有相同的熱量",
+      "溫度高的物體比溫度低的物體一定含有更多的熱量",
+      "物體吸收熱量之後，其溫度一定會升高",
+      "熱容量的因次與能量的因次相同"
+    ],
+    "answerIndex": 0,
+    "explanation": "【熱與溫度】\n• (A) 正確：熱自發地由高溫流向低溫。\n• (B)(C) 「熱量」是傳遞中的能量，物體不「含有」熱量；熱平衡只表示溫度相同。\n• (D) 相變（如冰熔化）時吸熱但溫度不變。\n• (E) 熱容量 $= \\dfrac{Q}{\\Delta T}$，單位 J/K，與能量（J）的因次不同。\n\n故選 (A)"
+  },
+  {
+    "id": "100-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "一個物體掛在彈簧下，如圖 2 所示。當物體沿鉛直方向振動時，其質心位置的最高點為甲，最低點為戊，且物體的質心在甲點時，彈簧的長度大於其自然長度。在振動過程中，彈簧作用在此物體上的力在哪一點最小？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-03.png\" alt=\"圖2 彈簧下的物體在甲（最高點）到戊（最低點）間振動\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "【彈力與伸長量】\n彈力 $F = kx$，$x$ 為伸長量。物體在最高點甲時彈簧仍被拉長，但此時伸長量最小，所以彈力最小；在最低點戊伸長量最大，彈力最大。\n\n故選 (A)"
+  },
+  {
+    "id": "100-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "假設繫住高空彈跳者的繩索可近似為質量可忽略的理想彈簧，而空氣阻力亦可忽略。一彈跳者甲自高處鉛直落下，最後以頻率 $f$ 作上下的小振幅簡諧振盪。若換成一個體重為甲的 2 倍之彈跳者乙，以同一繩索重覆相同的過程，則乙最後作簡諧振盪的頻率為下列何者？",
+    "options": [
+      "$2f$",
+      "$\\sqrt2 f$",
+      "$f$",
+      "$\\dfrac{f}{\\sqrt2}$",
+      "$\\dfrac{f}{2}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【彈簧振子的頻率】\n$f = \\dfrac{1}{2\\pi}\\sqrt{\\dfrac{k}{m}}$，與振幅、平衡位置無關。$k$ 不變、質量變為 2 倍，頻率變為 $\\dfrac{f}{\\sqrt2}$。\n\n故選 (D)"
+  },
+  {
+    "id": "100-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "質量為 2000 kg 的轎車，原本在水平地面上以等速度前進，接著駕駛急踩煞車，使車輪迅速停止轉動，在車輪不轉的情況下，轎車隨即減速滑行至靜止。若地面與輪胎間的動摩擦係數為 0.4，且取重力加速度 $g = 10\\text{ m/s}^2$，則減速滑行時的加速度量值為多少？",
+    "options": [
+      "$0\\text{ m/s}^2$",
+      "$0.4\\text{ m/s}^2$",
+      "$4\\text{ m/s}^2$",
+      "$80\\text{ m/s}^2$",
+      "$800\\text{ m/s}^2$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【動摩擦力】\n車輪鎖死後只受動摩擦力 $f = \\mu mg$，$a = \\dfrac{\\mu mg}{m} = \\mu g = 0.4\\times10 = 4\\text{ m/s}^2$，與質量無關。\n\n故選 (C)"
+  },
+  {
+    "id": "100-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "原來靜止於高處的質點，在時間 $t = 0$ 時沿水平方向被拋射出去，假設在其後的運動過程中僅受重力作用，且重力加速度為定值。在質點落地前，其動量的量值 $p$ 隨時間 $t$ 的變化，可用圖 3 中的哪一條圖線來描述？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-06.png\" alt=\"圖3 動量量值 p 對時間 t 的五條圖線甲～戊\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 4,
+    "explanation": "【水平拋射的動量】\n水平速度 $v_0$ 不變，鉛直速度 $gt$，所以 $p = m\\sqrt{v_0^2 + g^2t^2}$。\n• $t = 0$ 時 $p = mv_0 \\ne 0$，圖線不從原點出發。\n• 一開始 $p$ 增加得很慢（斜率為零），之後斜率逐漸增大，$t$ 很大時趨近斜率 $mg$ 的直線。\n符合「起點不為零、向上彎曲而漸成直線」的是戊。\n\n故選 (E)"
+  },
+  {
+    "id": "100-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "已知某行星自轉週期為 $T$，半徑為 $R$。環繞它的某一衛星之圓軌道半徑為 $32R$，繞行週期為 $8T$。則環繞該行星運行的同步衛星，其圓軌道半徑應是多少？",
+    "options": [
+      "$16R$",
+      "$8R$",
+      "$4R$",
+      "$\\sqrt8 R$",
+      "$\\sqrt2 R$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【克卜勒第三定律】\n同步衛星的週期等於行星自轉週期 $T$。$\\dfrac{r^3}{T^2}$ 為定值：\n$\\left(\\dfrac{r}{32R}\\right)^3 = \\left(\\dfrac{T}{8T}\\right)^2 = \\dfrac{1}{64} \\Rightarrow \\dfrac{r}{32R} = \\dfrac14,\\ r = 8R$\n\n故選 (B)"
+  },
+  {
+    "id": "100-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "一個半徑為 $R$、沒有大氣的星球，在其表面處的重力加速度為 $g$。若由該星球表面以 $v = \\sqrt{gR}$ 的初速，垂直向上發射一個沒有推進力的物體，則此物體上升的最高點與星球表面的距離，為下列何者？",
+    "options": [
+      "$\\dfrac{R}{4}$",
+      "$\\dfrac{R}{2}$",
+      "$R$",
+      "$\\dfrac{3R}{2}$",
+      "$2R$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【重力位能 $-\\dfrac{GMm}{r}$】\n$GM = gR^2$。力學能守恆：\n$\\dfrac12 m(gR) - \\dfrac{GMm}{R} = -\\dfrac{GMm}{R+h}$\n$\\dfrac12 gR = gR^2\\left(\\dfrac1R - \\dfrac{1}{R+h}\\right) \\Rightarrow \\dfrac12 = 1 - \\dfrac{R}{R+h} \\Rightarrow h = R$\n（高度與 $R$ 同級，不能用 $mgh$ 近似。）\n\n故選 (C)"
+  },
+  {
+    "id": "100-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 4 所示，水平光滑桌面上的甲球向右等速滑行，過程中無滾動，接著與靜置於桌邊的乙球作正向（面）彈性碰撞。碰撞後兩球各自落於水平地面上，落地過程中兩球僅受重力。已知甲、乙兩球半徑相同，質量分別為 $2m$ 及 $m$，落地點與鉛直桌邊底部的水平距離分別為 $P$ 和 $Q$，則 $\\dfrac{P}{Q}$ 之值為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-09.png\" alt=\"圖4 甲球在水平桌面上向右滑向靜置於桌邊的乙球\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "2",
+      "1",
+      "$\\dfrac12$",
+      "$\\dfrac14$",
+      "$\\dfrac18$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【一維彈性碰撞＋水平拋射】\n設甲碰前速度 $v$，乙靜止：\n$v_\\text{甲}' = \\dfrac{2m - m}{2m + m}v = \\dfrac{v}{3}$，$v_\\text{乙}' = \\dfrac{2(2m)}{3m}v = \\dfrac{4v}{3}$\n兩球從同一高度水平飛出，落地時間相同，水平距離與速度成正比：$\\dfrac{P}{Q} = \\dfrac{v/3}{4v/3} = \\dfrac14$。\n\n故選 (D)"
+  },
+  {
+    "id": "100-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "X、Y、Z 三根上方開口的垂直管子，管內半徑之比為 1：2：1，底部由一水平導管連接成連通管，注入水後以質量可忽略的活塞封蓋著，並將質量為 $M_X$、$M_Y$ 和 $M_Z$ 的物體依序置於 X、Y、Z 三管的活塞上，此時三者的液面等高。當施一外力 $F$ 於 $M_X$ 上時，X、Y、Z 三根管子的液面高度分別為 $h$、$2h$ 和 $2h$，如圖 5 所示。若水的密度為 $d$，重力加速度為 $g$，則下列選項何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-10.png\" alt=\"圖5 三管連通管，X 管受外力 F 後液面高 h，Y、Z 管液面高 2h\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "外力 $F$ 對 X 管液面產生的壓力為 $\\dfrac12 dgh$",
+      "外力 $F$ 對 X 管液面產生的壓力為 $dgh$",
+      "外力 $F$ 對 X 管液面產生的壓力為 $2dgh$",
+      "$M_X : M_Y : M_Z = 1 : 2 : 1$",
+      "$M_X : M_Y : M_Z = 1 : 8 : 1$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【帕斯卡原理與連通管】\n• 未加 $F$ 時三液面等高，各活塞對液面的壓力相等：$\\dfrac{M_Xg}{A_X} = \\dfrac{M_Yg}{A_Y} = \\dfrac{M_Zg}{A_Z}$。截面積比 $1:4:1$，所以 $M_X:M_Y:M_Z = 1:4:1$，(D)(E) 錯。\n• 加 $F$ 後，Y、Z 液面仍等高（$2h$），X 液面低了 $h$。取 X 液面高度比較壓力：\n$\\dfrac{M_Xg + F}{A_X} = \\dfrac{M_Yg}{A_Y} + dgh$\n因 $\\dfrac{M_Xg}{A_X} = \\dfrac{M_Yg}{A_Y}$，得 $\\dfrac{F}{A_X} = dgh$。\n\n故選 (B)"
+  },
+  {
+    "id": "100-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 11-12 題為題組】如圖 6 所示，一光束由甲介質進入乙介質，再進入丙介質，$\\theta_1$、$\\theta_2$ 與 $\\theta_3$ 為該光束與各界面的夾角。已知丙介質為空氣，其折射率為 1。\n\n11. 當 $\\theta_1 = 45^\\circ$，$\\theta_2 = 60^\\circ$，$\\theta_3 = 30^\\circ$ 時，甲、乙兩介質的折射率 $n_\\text{甲}$、$n_\\text{乙}$ 分別為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-11.png\" alt=\"圖6 光束依序穿過甲、乙、丙三介質，θ 為光束與界面的夾角\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$n_\\text{甲} = \\dfrac{1}{\\sqrt2},\\ n_\\text{乙} = \\dfrac{1}{\\sqrt3}$",
+      "$n_\\text{甲} = \\sqrt2,\\ n_\\text{乙} = \\sqrt3$",
+      "$n_\\text{甲} = \\dfrac12,\\ n_\\text{乙} = \\dfrac13$",
+      "$n_\\text{甲} = 2,\\ n_\\text{乙} = 3$",
+      "$n_\\text{甲} = \\sqrt{\\dfrac32},\\ n_\\text{乙} = \\sqrt3$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【司乃耳定律】\n題目的角是光線與「界面」的夾角，與法線的夾角為 $90^\\circ - \\theta$，所以 $n\\sin(90^\\circ - \\theta) = n\\cos\\theta$ 為定值：\n$n_\\text{甲}\\cos45^\\circ = n_\\text{乙}\\cos60^\\circ = 1\\times\\cos30^\\circ = \\dfrac{\\sqrt3}{2}$\n$n_\\text{乙} = \\dfrac{\\sqrt3/2}{1/2} = \\sqrt3$，$n_\\text{甲} = \\dfrac{\\sqrt3/2}{\\sqrt2/2} = \\sqrt{\\dfrac32}$\n\n故選 (E)"
+  },
+  {
+    "id": "100-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 11-12 題為題組】如圖 6 所示，一光束由甲介質進入乙介質，再進入丙介質，$\\theta_1$、$\\theta_2$ 與 $\\theta_3$ 為該光束與各界面的夾角。已知丙介質為空氣，其折射率為 1。\n\n12. 若光束在乙、丙間的界面發生全反射，則 $\\sin\\theta_1$ 的範圍為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-11.png\" alt=\"圖6 光束依序穿過甲、乙、丙三介質，θ 為光束與界面的夾角\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\sin\\theta_1 \\le \\dfrac{1}{\\sqrt2}$",
+      "$\\sin\\theta_1 \\le \\dfrac{1}{\\sqrt3}$",
+      "$\\sin\\theta_1 \\le \\sqrt{\\dfrac23}$",
+      "$\\sin\\theta_1 \\ge \\dfrac{1}{\\sqrt3}$",
+      "$\\sin\\theta_1 \\ge \\dfrac{1}{\\sqrt2}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【全反射條件】\n沿用第 11 題的折射率 $n_\\text{甲} = \\sqrt{\\dfrac32}$。在乙丙界面全反射：入射角 $\\ge$ 臨界角，即 $n_\\text{乙}\\cos\\theta_2 \\ge 1$。\n又 $n_\\text{乙}\\cos\\theta_2 = n_\\text{甲}\\cos\\theta_1$，所以 $\\sqrt{\\dfrac32}\\cos\\theta_1 \\ge 1 \\Rightarrow \\cos\\theta_1 \\ge \\sqrt{\\dfrac23}$\n$\\sin\\theta_1 = \\sqrt{1 - \\cos^2\\theta_1} \\le \\sqrt{1 - \\dfrac23} = \\dfrac{1}{\\sqrt3}$\n\n故選 (B)"
+  },
+  {
+    "id": "100-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "以波長為 $\\lambda$ 的平行光，垂直入射單狹縫作繞射實驗。單狹縫的上端為甲，下端為乙，如圖 7 的示意圖所示。若圖中屏幕距狹縫極遠，且屏幕上 P 點為第二暗紋，則甲、乙二點到 P 點的光程差為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-13.png\" alt=\"圖7 單狹縫上下端甲、乙到屏幕上 P 點\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{\\lambda}{2}$",
+      "$\\lambda$",
+      "$\\dfrac{3\\lambda}{2}$",
+      "$2\\lambda$",
+      "$\\dfrac{5\\lambda}{2}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【單狹縫暗紋】\n單狹縫第 $n$ 暗紋的條件：狹縫兩端到該點的光程差 $b\\sin\\theta = n\\lambda$。第二暗紋 $n = 2$，光程差 $2\\lambda$。\n（注意與雙狹縫不同：雙狹縫第二暗紋是 $\\dfrac{3\\lambda}{2}$。）\n\n故選 (D)"
+  },
+  {
+    "id": "100-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "有兩個形狀與大小完全相同的實心圓柱體，分別由純矽與甲材質做成，下表為兩圓柱體的溫度、電阻及施加於其兩端的電壓關係。已知在 20℃ 時純矽的電阻率約為純鍺的 5000 倍，則甲材質在常溫下最可能是下列何者？\n\n• 純矽：20℃，兩端電壓 10 V，電阻 1000 kΩ\n• 甲材質：20℃，兩端電壓 10 V，電阻 5 Ω\n• 甲材質：100℃，兩端電壓 10 V，電阻 3 Ω",
+    "options": [
+      "超導體",
+      "絕緣體",
+      "金屬導體",
+      "純鍺半導體",
+      "P 型或 N 型半導體"
+    ],
+    "answerIndex": 4,
+    "explanation": "【半導體的電阻】\n• 溫度升高電阻變小（5 Ω → 3 Ω），是半導體的特性；金屬導體溫度升高電阻變大，(C) 錯。超導體電阻為零、絕緣體電阻極大，(A)(B) 錯。\n• 同形狀的純鍺電阻約為 $\\dfrac{1000\\text{ k}\\Omega}{5000} = 200\\ \\Omega$，甲材質只有 5 Ω，比純鍺小得多，表示經過摻雜，是 P 型或 N 型半導體。\n\n故選 (E)"
+  },
+  {
+    "id": "100-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "五位同學談到他們最敬佩的科學家在近代物理上的貢獻：\n甲同學說：「普朗克首提量子論，完整解釋黑體輻射能量分布的實驗結果，開啟近代物理研究之門」\n乙同學說：「拉塞福由 α 粒子的散射實驗，發現了原子核內的中子與質子，使人類對原子核結構的了解更為深入」\n丙同學說：「侖琴發現 X 射線，對近代科學的發展及醫學上的應用，貢獻極大」\n丁同學說：「波耳依據德布羅依的物質波假說，提出氫原子角動量與能量的量子化，使人類對原子結構的了解跨進一大步」\n戊同學說：「愛因斯坦不但以光量子說完美解釋光電效應的實驗結果，又提出相對論，開啟近代物理的新頁」\n以上五位同學的談話內容，正確的為哪幾位？",
+    "options": [
+      "僅有戊",
+      "僅有甲、丙",
+      "僅有甲、丙、戊",
+      "僅有甲、乙、丙、戊",
+      "甲、乙、丙、丁、戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "【近代物理史】\n• 甲 正確：1900 年普朗克以能量量子化解釋黑體輻射。\n• 乙 錯誤：α 粒子散射實驗發現的是「原子核」（原子的有核模型）；中子是查兌克於 1932 年發現。\n• 丙 正確：1895 年侖琴發現 X 射線。\n• 丁 錯誤：波耳模型（1913 年）早於德布羅依的物質波假說（1924 年），不是「依據」物質波提出的。\n• 戊 正確：愛因斯坦以光量子說解釋光電效應，並提出相對論。\n\n故選 (C)"
+  },
+  {
+    "id": "100-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "日本福島核電廠因大地震及海嘯而產生核災變，凸顯核能發電與其安全使用在現代生活上的重要性。$^{235}_{92}\\text{U}$ 原子核吸收熱中子後產生核分裂，分裂後減損的質量轉換成能量而可用來發電。下列有關核能基本知識的相關敘述，何者正確？",
+    "options": [
+      "核衰變產生的 $\\gamma$ 射線、$\\alpha$ 與 $\\beta$ 粒子，穿透物質能力的順序為 $\\gamma > \\beta > \\alpha$",
+      "$^{235}_{92}\\text{U}$ 原子核吸收熱中子後，每次核分裂後僅可釋出 1 個中子",
+      "$^{235}_{92}\\text{U}$ 原子核分裂後的碎片不再具有放射性",
+      "太陽輻射的能量主要來自核分裂反應",
+      "$^{235}_{92}\\text{U}$ 約佔天然鈾元素中的 99%"
+    ],
+    "answerIndex": 0,
+    "explanation": "【核能常識】\n• (A) 正確：α 粒子帶電多、質量大，一張紙就擋住；β 次之；γ 為高能電磁波，穿透力最強。\n• (B) 每次分裂平均釋出 2～3 個中子，才能形成連鎖反應。\n• (C) 分裂碎片多為不穩定核，具有很強的放射性（核廢料）。\n• (D) 太陽能量來自氫的核融合。\n• (E) 天然鈾中約 99.3% 是 $^{238}\\text{U}$，$^{235}\\text{U}$ 只約 0.7%。\n\n故選 (A)"
+  },
+  {
+    "id": "100-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 17-18 題為題組】有一個半徑為 10.0 cm 的金屬球體，遠離其他導體，而可將其表面的正電荷近似為均勻分布，經測得其表面與地面間的電位差為 $1.0\\times10^{3}\\text{ V}$。已知庫侖常數 $k = 9\\times10^{9}\\ \\text{N}\\cdot\\text{m}^2/\\text{C}^2$。\n\n17. 此帶電金屬球在距其球心 1.0 cm 處的電場量值為多少 V/m？",
+    "options": [
+      "0",
+      "$1.0\\times10^{2}$",
+      "$1.0\\times10^{3}$",
+      "$1.0\\times10^{4}$",
+      "$1.0\\times10^{5}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【導體內部電場】\n靜電平衡時電荷都分布在導體表面，導體內部電場為零。距球心 1.0 cm 在金屬球內部，電場為 0。\n\n故選 (A)"
+  },
+  {
+    "id": "100-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 17-18 題為題組】有一個半徑為 10.0 cm 的金屬球體，遠離其他導體，而可將其表面的正電荷近似為均勻分布，經測得其表面與地面間的電位差為 $1.0\\times10^{3}\\text{ V}$。已知庫侖常數 $k = 9\\times10^{9}\\ \\text{N}\\cdot\\text{m}^2/\\text{C}^2$。\n\n18. 此金屬球上所帶的電量大小約為多少庫侖？",
+    "options": [
+      "$1\\times10^{-4}$",
+      "$1\\times10^{-5}$",
+      "$1\\times10^{-6}$",
+      "$1\\times10^{-7}$",
+      "$1\\times10^{-8}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【球體電位】\n表面電位 $V = \\dfrac{kQ}{R}$，$Q = \\dfrac{VR}{k} = \\dfrac{1.0\\times10^3\\times0.10}{9\\times10^9} \\approx 1.1\\times10^{-8}\\text{ C}$。\n\n故選 (E)"
+  },
+  {
+    "id": "100-ast-phy-19",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 8 所示，一條細長的直導線與水平桌面垂直，桌面上平放的小磁針沿桌面到導線的距離 $R = 10\\text{ cm}$。設導線未通電流時，小磁針保持水平且其 N 極指向北方；而當導線上的直流電流為 $I$ 時，小磁針 N 極與北方的夾角為 $\\theta$。當 $R$ 改為 20 cm 時，若欲使小磁針 N 極與北方的夾角仍為 $\\theta$，則導線的電流大小必須調整成下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-19.png\" alt=\"圖8 鉛直載流導線與桌面上距離 R 的小磁針\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{I}{4}$",
+      "$\\dfrac{I}{2}$",
+      "$I$",
+      "$2I$",
+      "$4I$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【長直導線的磁場】\n小磁針指向地磁場與導線磁場的合成方向，夾角相同表示導線在該處的磁場大小相同。$B = \\dfrac{\\mu_0 I}{2\\pi R}$，$R$ 加倍時電流也要加倍，才能維持 $B$ 不變，即 $2I$。\n\n故選 (D)"
+  },
+  {
+    "id": "100-ast-phy-20",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 9 所示，$xy$ 平面上有一半徑為 $a$ 的圓形細線圈，其上的電荷線密度 $\\lambda$（即每單位長度的電量）均相同。當線圈以 $\\omega$ 的等角速度繞通過圓心且垂直 $xy$ 平面的轉軸轉動時，則線圈上所產生的電流 $I$ 為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-20.png\" alt=\"圖9 以角速度 ω 轉動的帶電圓形線圈\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{a\\lambda}{\\omega}$",
+      "$a\\lambda\\omega$",
+      "$\\dfrac{2\\pi a\\lambda}{\\omega}$",
+      "$\\dfrac{\\lambda\\omega}{a}$",
+      "$\\dfrac{a\\lambda\\omega}{2\\pi}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【轉動電荷形成的電流】\n總電量 $Q = 2\\pi a\\lambda$，週期 $T = \\dfrac{2\\pi}{\\omega}$，每週期通過某一截面的電量為 $Q$：\n$I = \\dfrac{Q}{T} = \\dfrac{2\\pi a\\lambda}{2\\pi/\\omega} = a\\lambda\\omega$\n（也可想成：電荷以速率 $a\\omega$ 通過，$I = \\lambda v = \\lambda a\\omega$。）\n\n故選 (B)"
+  },
+  {
+    "id": "100-ast-phy-21",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "某人於無風的狀態下在水平路面上沿一直線騎腳踏車。若輪胎與路面間的靜摩擦係數大於動摩擦係數，則下列有關其騎車過程的敘述，哪些是正確的？",
+    "options": [
+      "以不同的等速行進時，車速越快越費力，主要是需要克服來自空氣的阻力",
+      "如果考慮的系統包括人和腳踏車，則腳踏車行進時，系統的動量是守恆的",
+      "腳踏車行進時，地面與輪胎間的正向力，對人和腳踏車構成的系統並不作功",
+      "腳踏車行進時，地面與輪胎間如有滑動，則動摩擦力對人和腳踏車構成的系統並不作功",
+      "如果考慮的系統包括人、腳踏車和地球，則腳踏車在加速、減速時，整個系統的力學能是守恆的"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "【騎腳踏車的力學】\n• (A) 正確：空氣阻力隨速率增加而變大，等速時要用更大的力去平衡。\n• (B) 錯誤：系統受地面摩擦力、空氣阻力等外力，合力不一定為零，動量不守恆（加速、減速時即改變）。\n• (C) 正確：正向力垂直於運動方向，不作功。\n• (D) 錯誤：有滑動時，接觸點與地面有相對位移，動摩擦力會作功（把動能轉成熱）。\n• (E) 錯誤：加速時人體的化學能轉為動能，減速時煞車摩擦生熱，力學能不守恆。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "100-ast-phy-22",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "圖 10 為某生做「波以耳定律」實驗，以密閉容器內氣體壓力 $P$ 為縱坐標，體積 $V$ 的倒數為橫坐標所作的數據圖，在 1、2、3 三種不同的狀況下，得到斜率不同的圖形。若以 $n_1$、$n_2$、$n_3$ 與 $T_1$、$T_2$、$T_3$ 分別代表三種情況下的氣體分子莫耳數與氣體溫度，則下列有關容器內氣體狀態的敘述，哪些是正確的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-22.png\" alt=\"圖10 P 對 1/V 的三條直線，斜率 1 > 2 > 3\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "若溫度 $T_1 = T_2 = T_3$，則氣體分子莫耳數的關係為 $n_1 < n_2 < n_3$",
+      "若溫度 $T_1 = T_2 = T_3$，則氣體分子莫耳數的關係為 $n_1 > n_2 > n_3$",
+      "若莫耳數 $n_1 = n_2 = n_3$，則氣體溫度的關係為 $T_1 > T_2 > T_3$",
+      "若莫耳數 $n_1 = n_2 = n_3$，則氣體溫度的關係為 $T_1 < T_2 < T_3$",
+      "若溫度一定，且莫耳數一定，則氣體的壓力 $P$ 與體積 $V$ 成反比"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【理想氣體方程式】\n$P = nRT\\cdot\\dfrac1V$，$P$ 對 $\\dfrac1V$ 圖的斜率為 $nRT$。由圖，斜率 1 > 2 > 3。\n• 溫度相同時，$n_1 > n_2 > n_3$，(B) 正確、(A) 錯。\n• 莫耳數相同時，$T_1 > T_2 > T_3$，(C) 正確、(D) 錯。\n• (E) 正確：$nT$ 固定時 $PV$ 為定值，即波以耳定律。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "100-ast-phy-23",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "一螺線管置於一固定金屬板的正上方一小段距離處，螺線管通有電流 $I$，電流方向如圖 11 所示。下列哪些情況，可使金屬板產生逆時針方向（如圖）的感應渦電流？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-23.png\" alt=\"圖11 通電螺線管在金屬板正上方，板上標示逆時針渦電流\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "電流 $I$ 及螺線管的位置均不變動",
+      "螺線管不動，但其電流 $I$ 逐漸增大",
+      "螺線管不動，但其電流 $I$ 逐漸減小",
+      "電流 $I$ 不變，但使螺線管垂直向下移動",
+      "電流 $I$ 不變，但使螺線管垂直向上移動"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "【冷次定律】\n依圖中電流的繞向（右手定則），螺線管下端射出的磁場向下穿過金屬板。俯視逆時針的渦電流會產生向上的磁場，表示它在「反抗向下磁通量的增加」。\n• (A) 磁通量不變，沒有感應電流。\n• (B) 電流增大 → 向下磁通量增加 → 逆時針，正確。\n• (C) 電流減小 → 磁通量減少 → 順時針。\n• (D) 螺線管靠近金屬板 → 板上磁場變強，磁通量增加 → 逆時針，正確。\n• (E) 遠離 → 磁通量減少 → 順時針。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "100-ast-phy-24",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "有一光電效應實驗，以不同頻率 $f$ 的光入射同一金屬表面，並測量與各頻率對應的截止電壓 $V_S$，所得結果如圖 12 所示，若 $h$ 代表普朗克常數，$-e$ 代表電子電荷，下列敘述哪些是正確的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-24.png\" alt=\"圖12 截止電壓 Vs 對頻率 f（10^14 Hz）的直線，與橫軸交於 f0\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "截止電壓 $V_S$ 對光頻率 $f$ 的關係為一直線，其斜率為 $\\dfrac{h}{e}$",
+      "截止電壓 $V_S$ 對光頻率 $f$ 的關係為一直線，其斜率為 $eh$",
+      "若入射光的頻率為 $3\\times10^{14}\\text{ Hz}$，則需較長時間照射方能產生光電子",
+      "若入射光的頻率為 $5\\times10^{14}\\text{ Hz}$，則即使光強度很弱，光電子仍能立即產生",
+      "截止電壓 $V_S$ 對光頻率 $f$ 的關係為一直線，且此直線與橫軸的交點為 $f_0$，則該金屬的功函數為 $hf_0$"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "【光電方程式 $eV_S = hf - W$】\n$V_S = \\dfrac{h}{e}f - \\dfrac{W}{e}$：\n• (A) 正確、(B) 錯誤：斜率 $\\dfrac{h}{e}$。\n• (C) 錯誤：由圖，截止頻率 $f_0$ 約 $3.6\\times10^{14}\\text{ Hz}$。$3\\times10^{14}\\text{ Hz}$ 低於截止頻率，照射再久也不會產生光電子。\n• (D) 正確：頻率高於 $f_0$，光電子立即產生，與光強度無關（強度只影響光電子數目）。\n• (E) 正確：$V_S = 0$ 時 $hf_0 = W$。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "100-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】某生在物理實驗室做「氣柱的共鳴」實驗，儀器裝置如圖 13 所示，包括鉛直豎立的細玻璃圓筒、儲水器、連通管、支架、音叉、擊槌、橡皮筋等。細玻璃圓筒的管長約 75 cm，其上並附有刻度尺，且玻璃圓筒的管口位置刻度為零。將頻率為 620 Hz 的振動音叉置於管口上方，再上下移動儲水器以調整玻璃圓筒中的水面高低，實驗上測得產生共鳴的水面刻度有三，分別為 13.0、41.0 與 69.0 cm。\n\n1. 依據題目所給定的產生共鳴時水面刻度的實驗數據，畫出玻璃圓筒中空氣分子的位移出現波腹與波節的位置，並標示其刻度。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-non-1.png\" alt=\"圖13 氣柱共鳴實驗裝置\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "以水面在 69.0 cm 為例：波節在 13.0 cm、41.0 cm、69.0 cm（水面）；波腹在 27.0 cm、55.0 cm，以及管口外約 1.0 cm 處（刻度 $-1.0$ cm）。"
+    ],
+    "blankLabels": [
+      "波腹與波節位置"
+    ],
+    "explanation": "相鄰共鳴水面相距半波長：$\\dfrac{\\lambda}{2} = 41.0 - 13.0 = 28.0\\text{ cm}$。水面永遠是波節，管口附近是波腹；相鄰波節與波腹相距 $\\dfrac{\\lambda}{4} = 14.0\\text{ cm}$。\n所以波節在 13.0、41.0、69.0 cm，波腹在 $13.0 - 14.0 = -1.0$ cm（管口略上方，即管口校正）、27.0 cm、55.0 cm。\n注意：刻度以管口為零，不可把底部當零。"
+  },
+  {
+    "id": "100-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】某生在物理實驗室做「氣柱的共鳴」實驗，儀器裝置如圖 13 所示，包括鉛直豎立的細玻璃圓筒、儲水器、連通管、支架、音叉、擊槌、橡皮筋等。細玻璃圓筒的管長約 75 cm，其上並附有刻度尺，且玻璃圓筒的管口位置刻度為零。將頻率為 620 Hz 的振動音叉置於管口上方，再上下移動儲水器以調整玻璃圓筒中的水面高低，實驗上測得產生共鳴的水面刻度有三，分別為 13.0、41.0 與 69.0 cm。\n\n2. 依據題目所給定的產生共鳴時水面刻度的實驗數據，計算當時的聲速。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-non-1.png\" alt=\"圖13 氣柱共鳴實驗裝置\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "blanks": [
+      "347"
+    ],
+    "blankLabels": [
+      "聲速（m/s）"
+    ],
+    "acceptedBlanks": [
+      [
+        "347m/s",
+        "347.2",
+        "347.2m/s",
+        "3.47×10^2"
+      ]
+    ],
+    "explanation": "$\\dfrac{\\lambda}{2} = 41.0 - 13.0 = 28.0\\text{ cm}$，$\\lambda = 0.560\\text{ m}$。\n$v = f\\lambda = 620\\times0.560 \\approx 347\\text{ m/s}$\n（常見錯誤：把管口當波腹，用 $\\dfrac{\\lambda}{4} = 13.0$ cm 得 $\\lambda = 0.520$ m，就算錯了。）"
+  },
+  {
+    "id": "100-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】某生在物理實驗室做「氣柱的共鳴」實驗，儀器裝置如圖 13 所示，包括鉛直豎立的細玻璃圓筒、儲水器、連通管、支架、音叉、擊槌、橡皮筋等。細玻璃圓筒的管長約 75 cm，其上並附有刻度尺，且玻璃圓筒的管口位置刻度為零。將頻率為 620 Hz 的振動音叉置於管口上方，再上下移動儲水器以調整玻璃圓筒中的水面高低，實驗上測得產生共鳴的水面刻度有三，分別為 13.0、41.0 與 69.0 cm。\n\n3. 若使用某一音叉卻始終無法找到任何共鳴的位置，應該是什麼原因造成的？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-non-1.png\" alt=\"圖13 氣柱共鳴實驗裝置\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "音叉頻率太低，使第一個共鳴位置的水面刻度（約 $\\dfrac{\\lambda}{4}$）超過玻璃管長 75 cm，即 $f \\lesssim \\dfrac{347}{3.0} \\approx 116\\text{ Hz}$ 時就不會出現共鳴。"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "第一個共鳴的空氣柱長約 $\\dfrac{\\lambda}{4}$；若 $\\dfrac{\\lambda}{4} > 75\\text{ cm}$，水面無論如何調整都達不到共鳴位置。這相當於 $\\lambda > 3.0\\text{ m}$，$f < \\dfrac{347}{3.0} \\approx 116\\text{ Hz}$。（另一種情形是頻率太高，聲波波長與管徑相近，駐波條件不成立，也很難聽出共鳴。）"
+  },
+  {
+    "id": "100-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】有一個斜角為 $\\theta$、長度為 $L$ 的固定斜面，其底端設有一與斜面垂直的牆面，如圖 14 所示。一個質量為 $m$ 的小木塊從斜面上端滑下，其初速度為零。小木塊滑至斜面底端與牆面發生彈性碰撞，設小木塊與斜面間的動摩擦係數為 $\\mu$，重力加速度為 $g$。\n\n1. 求小木塊從斜面上端滑到斜面底端時，碰撞前瞬間的動能。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-non-2.png\" alt=\"圖14 斜面底端有垂直於斜面的牆\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$E_k = mgL(\\sin\\theta - \\mu\\cos\\theta)$"
+    ],
+    "blankLabels": [
+      "碰撞前動能"
+    ],
+    "explanation": "摩擦力 $f = \\mu mg\\cos\\theta$。功能定理：重力位能減少 $mgL\\sin\\theta$，扣掉摩擦力作功 $\\mu mg\\cos\\theta\\cdot L$：\n$E_k = mgL\\sin\\theta - \\mu mgL\\cos\\theta = mgL(\\sin\\theta - \\mu\\cos\\theta)$"
+  },
+  {
+    "id": "100-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】有一個斜角為 $\\theta$、長度為 $L$ 的固定斜面，其底端設有一與斜面垂直的牆面，如圖 14 所示。一個質量為 $m$ 的小木塊從斜面上端滑下，其初速度為零。小木塊滑至斜面底端與牆面發生彈性碰撞，設小木塊與斜面間的動摩擦係數為 $\\mu$，重力加速度為 $g$。\n\n2. 計算第一次碰撞牆面後，小木塊沿斜面向上滑行的加速度。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-non-2.png\" alt=\"圖14 斜面底端有垂直於斜面的牆\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$a = g(\\sin\\theta + \\mu\\cos\\theta)$，方向沿斜面向下（與運動方向相反）"
+    ],
+    "blankLabels": [
+      "加速度"
+    ],
+    "explanation": "向上滑時，重力分量 $mg\\sin\\theta$ 與動摩擦力 $\\mu mg\\cos\\theta$ 都沿斜面向下：\n$a = \\dfrac{mg\\sin\\theta + \\mu mg\\cos\\theta}{m} = g(\\sin\\theta + \\mu\\cos\\theta)$，向下（減速）。"
+  },
+  {
+    "id": "100-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】有一個斜角為 $\\theta$、長度為 $L$ 的固定斜面，其底端設有一與斜面垂直的牆面，如圖 14 所示。一個質量為 $m$ 的小木塊從斜面上端滑下，其初速度為零。小木塊滑至斜面底端與牆面發生彈性碰撞，設小木塊與斜面間的動摩擦係數為 $\\mu$，重力加速度為 $g$。\n\n3. 計算第一次碰撞牆面後，小木塊沿斜面向上滑行的最大距離。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-phy-non-2.png\" alt=\"圖14 斜面底端有垂直於斜面的牆\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$L' = L\\,\\dfrac{\\sin\\theta - \\mu\\cos\\theta}{\\sin\\theta + \\mu\\cos\\theta}$"
+    ],
+    "blankLabels": [
+      "最大距離"
+    ],
+    "explanation": "彈性碰撞後速率不變，動能仍為 $mgL(\\sin\\theta - \\mu\\cos\\theta)$。向上滑行 $L'$ 時，動能全部用來增加位能與克服摩擦：\n$mgL(\\sin\\theta - \\mu\\cos\\theta) = mgL'(\\sin\\theta + \\mu\\cos\\theta)$\n$L' = L\\,\\dfrac{\\sin\\theta - \\mu\\cos\\theta}{\\sin\\theta + \\mu\\cos\\theta}$"
   }
 ]
