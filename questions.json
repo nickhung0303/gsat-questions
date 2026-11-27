@@ -108387,5 +108387,821 @@
     ],
     "answerIndex": 3,
     "explanation": "海蛇唯一的淡水來源是雨水，科學家認為海上脫水可能是某些地區海蛇族群減少的原因，可推知其分布與降雨密切相關。\n\n故選 (D)"
+  },
+  {
+    "id": "104-gsat-eng-01",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. Nowadays many companies adopt a ______ work schedule which allows their employees to decide when to arrive at work—from as early as 6 a.m. to as late as 11 a.m.",
+    "options": [
+      "relative",
+      "severe",
+      "primitive",
+      "flexible"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：現在許多公司採用彈性工時，讓員工自己決定幾點上班。\nflexible work schedule「彈性工時」。\n\n故選 (D)"
+  },
+  {
+    "id": "104-gsat-eng-02",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. To teach children right from wrong, some parents will ______ their children when they behave well and punish them when they misbehave.",
+    "options": [
+      "settle",
+      "declare",
+      "reward",
+      "neglect"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：為了教孩子明辨是非，有些父母在孩子表現好時獎勵，表現不好時處罰。\n• (C) reward 獎勵，與 punish 相對。\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-03",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. To stick to a tight budget, Robert bought a more ______ LED TV instead of a fancy, expensive 3D TV.",
+    "options": [
+      "technical",
+      "significant",
+      "affordable",
+      "expressive"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：為了守住緊縮的預算，Robert 買了較負擔得起的 LED 電視，而非昂貴的 3D 電視。\n• (C) affordable 負擔得起的\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-04",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. David's new book made it to the best-seller list because of its beautiful ______ and amusing stories.",
+    "options": [
+      "operations",
+      "illustrations",
+      "engagements",
+      "accomplishments"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：David 的新書因為漂亮的插圖和有趣的故事登上暢銷書榜。\n• (B) illustration 插圖\n\n故選 (B)"
+  },
+  {
+    "id": "104-gsat-eng-05",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. The airport was closed because of the snowstorm, and our ______ for Paris had to be delayed until the following day.",
+    "options": [
+      "movement",
+      "registration",
+      "tendency",
+      "departure"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：機場因暴風雪關閉，我們飛往巴黎的出發時間延到隔天。\ndeparture for…「前往…的出發」。\n\n故選 (D)"
+  },
+  {
+    "id": "104-gsat-eng-06",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. The moment the students felt the earthquake, they ran ______ out of the classroom to an open area outside.",
+    "options": [
+      "swiftly",
+      "nearly",
+      "loosely",
+      "formally"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：學生一感覺到地震，就迅速跑出教室到戶外空地。\n• (A) swiftly 迅速地\n\n故選 (A)"
+  },
+  {
+    "id": "104-gsat-eng-07",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. The ______ capacity of this elevator is 400 kilograms. For safety reasons, it shouldn't be overloaded.",
+    "options": [
+      "delicate",
+      "automatic",
+      "essential",
+      "maximum"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：這部電梯最大載重是 400 公斤，為了安全不應超載。\nmaximum capacity「最大容量」。\n\n故選 (D)"
+  },
+  {
+    "id": "104-gsat-eng-08",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. An open display of ______ behavior between men and women, such as hugging and kissing, is not allowed in some conservative societies.",
+    "options": [
+      "intimate",
+      "ashamed",
+      "earnest",
+      "urgent"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：在某些保守的社會，男女公開表現擁抱、親吻等親密行為是不被允許的。\n• (A) intimate 親密的\n\n故選 (A)"
+  },
+  {
+    "id": "104-gsat-eng-09",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. When taking medicine, we should read the instructions on the ______ carefully because they provide important information such as how and when to take it.",
+    "options": [
+      "medals",
+      "quotes",
+      "labels",
+      "recipes"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：服藥時應仔細閱讀標籤上的說明，上面有如何及何時服用等重要資訊。\n• (C) label 標籤\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-10",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. The angry passengers argued ______ with the airline staff because their flight was cancelled without any reason.",
+    "options": [
+      "evidently",
+      "furiously",
+      "obediently",
+      "suspiciously"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：生氣的乘客因班機無故取消而與航空公司人員激烈爭吵。\n• (B) furiously 憤怒地、激烈地\n\n故選 (B)"
+  },
+  {
+    "id": "104-gsat-eng-11",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "11. To ______ the new product, the company offered some free samples before they officially launched it.",
+    "options": [
+      "contribute",
+      "impress",
+      "promote",
+      "estimate"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：為了推廣新產品，公司在正式上市前提供免費試用品。\n• (C) promote 推廣、促銷\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-12",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "12. I was worried about my first overseas trip, but my father ______ me that he would help plan the trip so that nothing would go wrong.",
+    "options": [
+      "rescued",
+      "assured",
+      "inspired",
+      "conveyed"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：我擔心第一次出國，但父親向我保證會幫忙規劃，一切都不會出錯。\nassure sb. that…「向某人保證…」。\n\n故選 (B)"
+  },
+  {
+    "id": "104-gsat-eng-13",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "13. The recent cooking oil scandals have led to calls for tougher ______ of sales of food products.",
+    "options": [
+      "tolerance",
+      "guarantee",
+      "regulation",
+      "distribution"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：最近的食用油事件引發要求更嚴格管理食品銷售的呼聲。\n• (C) regulation 管理、規範\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-14",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "14. John should ______ more often with his friends and family after work, instead of staying in his room to play computer games.",
+    "options": [
+      "explore",
+      "interact",
+      "negotiate",
+      "participate"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：John 下班後應多和親友互動，而不是待在房間打電動。\ninteract with…「與…互動」。\n\n故選 (B)"
+  },
+  {
+    "id": "104-gsat-eng-15",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "15. To prevent the spread of the Ebola virus from West Africa to the rest of the world, many airports have begun Ebola ______ for passengers from the infected areas.",
+    "options": [
+      "screenings",
+      "listings",
+      "clippings",
+      "blockings"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：為防止伊波拉病毒擴散，許多機場開始對來自疫區的旅客進行篩檢。\n• (A) screening 篩檢\n\n故選 (A)"
+  },
+  {
+    "id": "104-gsat-eng-16",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nTai Chi Chuan is a type of ancient Chinese martial art. People 【 16 】 Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States.\n\nThe most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names 【 17 】 \"dragons stirring up the wind\" and \"wave hands like clouds.\" These movements, forming an exercise system, 【 18 】 one to effortlessly experience the vital life force, or the Qi energy, in one's body.\n\nTai Chi Chuan is not only a physical but also a 【 19 】 exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It 【 20 】 stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.\n16.",
+    "options": [
+      "practice",
+      "consult",
+      "display",
+      "manage"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：人們「練習」太極主要是為了健康。practice Tai Chi「練太極」。\n\n故選 (A)"
+  },
+  {
+    "id": "104-gsat-eng-17",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nTai Chi Chuan is a type of ancient Chinese martial art. People 【 16 】 Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States.\n\nThe most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names 【 17 】 \"dragons stirring up the wind\" and \"wave hands like clouds.\" These movements, forming an exercise system, 【 18 】 one to effortlessly experience the vital life force, or the Qi energy, in one's body.\n\nTai Chi Chuan is not only a physical but also a 【 19 】 exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It 【 20 】 stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.\n17.",
+    "options": [
+      "from",
+      "like",
+      "between",
+      "regarding"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：一連串有詩意名稱的緩慢動作，「例如」「攪風龍」和「雲手」。like「像是、例如」。\n\n故選 (B)"
+  },
+  {
+    "id": "104-gsat-eng-18",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nTai Chi Chuan is a type of ancient Chinese martial art. People 【 16 】 Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States.\n\nThe most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names 【 17 】 \"dragons stirring up the wind\" and \"wave hands like clouds.\" These movements, forming an exercise system, 【 18 】 one to effortlessly experience the vital life force, or the Qi energy, in one's body.\n\nTai Chi Chuan is not only a physical but also a 【 19 】 exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It 【 20 】 stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.\n18.",
+    "options": [
+      "allow",
+      "allows",
+      "allowed",
+      "allowing"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：這些動作組成一套運動系統，「讓」人輕鬆體驗體內的氣。主詞 These movements 為複數，動詞用 allow。\n\n故選 (A)"
+  },
+  {
+    "id": "104-gsat-eng-19",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nTai Chi Chuan is a type of ancient Chinese martial art. People 【 16 】 Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States.\n\nThe most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names 【 17 】 \"dragons stirring up the wind\" and \"wave hands like clouds.\" These movements, forming an exercise system, 【 18 】 one to effortlessly experience the vital life force, or the Qi energy, in one's body.\n\nTai Chi Chuan is not only a physical but also a 【 19 】 exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It 【 20 】 stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.\n19.",
+    "options": [
+      "formal",
+      "mental",
+      "social",
+      "global"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：太極不只是身體的，也是「心理的」運動；後文談心理層面的好處。\n\n故選 (B)"
+  },
+  {
+    "id": "104-gsat-eng-20",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nTai Chi Chuan is a type of ancient Chinese martial art. People 【 16 】 Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States.\n\nThe most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names 【 17 】 \"dragons stirring up the wind\" and \"wave hands like clouds.\" These movements, forming an exercise system, 【 18 】 one to effortlessly experience the vital life force, or the Qi energy, in one's body.\n\nTai Chi Chuan is not only a physical but also a 【 19 】 exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It 【 20 】 stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.\n20.",
+    "options": [
+      "imposes",
+      "offends",
+      "reduces",
+      "disturbs"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：太極能「減輕」壓力，帶來平靜與自信。\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-21",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nMuch like the dove and robin, the bluebird is considered a very lucky sign in most cultures, particularly when seen in the spring. 【 21 】, a woodpecker, when seen near the home, is regarded as a good sign. In contrast, the peacock is not 【 22 】 seen as lucky. In places like India, the peacock is considered lucky because the great many \"eyes\" on its feathers are said to alert it to 【 23 】 evil. Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to 【 24 】 their status and wealth. However, the peacock receives only scorn from the rest of the world. The feathers of peacocks are considered the most 【 25 】 part of the bird because the eye-shaped markings on them are associated with \"evil eyes.\" To bring the evil eye into the home is thus believed to invite trouble and sorrow.\n21.",
+    "options": [
+      "Therefore",
+      "Nevertheless",
+      "Roughly",
+      "Similarly"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：藍鳥被視為好兆頭；「同樣地」，啄木鳥出現在家附近也被視為吉兆。\n\n故選 (D)"
+  },
+  {
+    "id": "104-gsat-eng-22",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nMuch like the dove and robin, the bluebird is considered a very lucky sign in most cultures, particularly when seen in the spring. 【 21 】, a woodpecker, when seen near the home, is regarded as a good sign. In contrast, the peacock is not 【 22 】 seen as lucky. In places like India, the peacock is considered lucky because the great many \"eyes\" on its feathers are said to alert it to 【 23 】 evil. Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to 【 24 】 their status and wealth. However, the peacock receives only scorn from the rest of the world. The feathers of peacocks are considered the most 【 25 】 part of the bird because the eye-shaped markings on them are associated with \"evil eyes.\" To bring the evil eye into the home is thus believed to invite trouble and sorrow.\n22.",
+    "options": [
+      "officially",
+      "mutually",
+      "universally",
+      "eventually"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：相反地，孔雀並不是「普遍」被視為吉祥的；後文說有些地方視為吉祥，其他地方則鄙視。\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-23",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nMuch like the dove and robin, the bluebird is considered a very lucky sign in most cultures, particularly when seen in the spring. 【 21 】, a woodpecker, when seen near the home, is regarded as a good sign. In contrast, the peacock is not 【 22 】 seen as lucky. In places like India, the peacock is considered lucky because the great many \"eyes\" on its feathers are said to alert it to 【 23 】 evil. Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to 【 24 】 their status and wealth. However, the peacock receives only scorn from the rest of the world. The feathers of peacocks are considered the most 【 25 】 part of the bird because the eye-shaped markings on them are associated with \"evil eyes.\" To bring the evil eye into the home is thus believed to invite trouble and sorrow.\n23.",
+    "options": [
+      "approach",
+      "approaching",
+      "approached",
+      "be approaching"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：羽毛上的「眼睛」讓牠警覺「逼近的」邪惡。approaching 為現在分詞作形容詞修飾 evil。\n\n故選 (B)"
+  },
+  {
+    "id": "104-gsat-eng-24",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nMuch like the dove and robin, the bluebird is considered a very lucky sign in most cultures, particularly when seen in the spring. 【 21 】, a woodpecker, when seen near the home, is regarded as a good sign. In contrast, the peacock is not 【 22 】 seen as lucky. In places like India, the peacock is considered lucky because the great many \"eyes\" on its feathers are said to alert it to 【 23 】 evil. Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to 【 24 】 their status and wealth. However, the peacock receives only scorn from the rest of the world. The feathers of peacocks are considered the most 【 25 】 part of the bird because the eye-shaped markings on them are associated with \"evil eyes.\" To bring the evil eye into the home is thus believed to invite trouble and sorrow.\n24.",
+    "options": [
+      "replace",
+      "disguise",
+      "distinguish",
+      "represent"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：統治家族把孔雀當作象徵，「代表」其地位與財富。\n\n故選 (D)"
+  },
+  {
+    "id": "104-gsat-eng-25",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nMuch like the dove and robin, the bluebird is considered a very lucky sign in most cultures, particularly when seen in the spring. 【 21 】, a woodpecker, when seen near the home, is regarded as a good sign. In contrast, the peacock is not 【 22 】 seen as lucky. In places like India, the peacock is considered lucky because the great many \"eyes\" on its feathers are said to alert it to 【 23 】 evil. Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to 【 24 】 their status and wealth. However, the peacock receives only scorn from the rest of the world. The feathers of peacocks are considered the most 【 25 】 part of the bird because the eye-shaped markings on them are associated with \"evil eyes.\" To bring the evil eye into the home is thus believed to invite trouble and sorrow.\n25.",
+    "options": [
+      "unlucky",
+      "illogical",
+      "impossible",
+      "unnecessary"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：孔雀羽毛被認為是最「不吉利」的部分，因為眼狀斑紋與「邪惡之眼」有關。\n\n故選 (A)"
+  },
+  {
+    "id": "104-gsat-eng-26",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nNutritional products that can be collected from trees include fruits, nuts, seeds, leaves, and bark. Tree products have been an important part of diets for thousands of years, from early humans 【 26 】 fruits and nuts to the first cultivation of important trees, such as mango and apple.\n\nThe apple is one of the world's most cultivated fruit trees, 【 27 】 over 7,000 different kinds in existence. Despite their great 【 28 】, however, most domesticated apples can be traced back to a common ancestor, the wild apple of Central Asia, Malus sieversii. Apples have been grown for thousands of years in Asia and Europe, and 【 29 】 to North America by European colonists in the 17th century. Today, apples are 【 30 】 eaten the world over and form the basis for multi-million dollar industries. In 2005, at least 55 million tons of apples were grown worldwide, which generated a value of about ＄10 billion.\n26.",
+    "options": [
+      "to gather",
+      "gather",
+      "gathered",
+      "gathering"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：從早期人類「採集」果實堅果，到首次栽培重要樹種。介系詞 from 後接動名詞，early humans 為動名詞的意義主詞。\n\n故選 (D)"
+  },
+  {
+    "id": "104-gsat-eng-27",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nNutritional products that can be collected from trees include fruits, nuts, seeds, leaves, and bark. Tree products have been an important part of diets for thousands of years, from early humans 【 26 】 fruits and nuts to the first cultivation of important trees, such as mango and apple.\n\nThe apple is one of the world's most cultivated fruit trees, 【 27 】 over 7,000 different kinds in existence. Despite their great 【 28 】, however, most domesticated apples can be traced back to a common ancestor, the wild apple of Central Asia, Malus sieversii. Apples have been grown for thousands of years in Asia and Europe, and 【 29 】 to North America by European colonists in the 17th century. Today, apples are 【 30 】 eaten the world over and form the basis for multi-million dollar industries. In 2005, at least 55 million tons of apples were grown worldwide, which generated a value of about ＄10 billion.\n27.",
+    "options": [
+      "all",
+      "with",
+      "around",
+      "still"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：蘋果是世界上栽培最多的果樹之一，「有」七千多個品種。with「具有」。\n\n故選 (B)"
+  },
+  {
+    "id": "104-gsat-eng-28",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nNutritional products that can be collected from trees include fruits, nuts, seeds, leaves, and bark. Tree products have been an important part of diets for thousands of years, from early humans 【 26 】 fruits and nuts to the first cultivation of important trees, such as mango and apple.\n\nThe apple is one of the world's most cultivated fruit trees, 【 27 】 over 7,000 different kinds in existence. Despite their great 【 28 】, however, most domesticated apples can be traced back to a common ancestor, the wild apple of Central Asia, Malus sieversii. Apples have been grown for thousands of years in Asia and Europe, and 【 29 】 to North America by European colonists in the 17th century. Today, apples are 【 30 】 eaten the world over and form the basis for multi-million dollar industries. In 2005, at least 55 million tons of apples were grown worldwide, which generated a value of about ＄10 billion.\n28.",
+    "options": [
+      "variety",
+      "harvest",
+      "condition",
+      "discovery"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：儘管蘋果的「種類」繁多，大多可追溯到同一祖先。great variety「多樣性」。\n\n故選 (A)"
+  },
+  {
+    "id": "104-gsat-eng-29",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nNutritional products that can be collected from trees include fruits, nuts, seeds, leaves, and bark. Tree products have been an important part of diets for thousands of years, from early humans 【 26 】 fruits and nuts to the first cultivation of important trees, such as mango and apple.\n\nThe apple is one of the world's most cultivated fruit trees, 【 27 】 over 7,000 different kinds in existence. Despite their great 【 28 】, however, most domesticated apples can be traced back to a common ancestor, the wild apple of Central Asia, Malus sieversii. Apples have been grown for thousands of years in Asia and Europe, and 【 29 】 to North America by European colonists in the 17th century. Today, apples are 【 30 】 eaten the world over and form the basis for multi-million dollar industries. In 2005, at least 55 million tons of apples were grown worldwide, which generated a value of about ＄10 billion.\n29.",
+    "options": [
+      "bring",
+      "have brought",
+      "were brought",
+      "have been brought"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：蘋果在 17 世紀「被」歐洲殖民者「帶到」北美。過去時間且為被動，用 were brought。\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-30",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nNutritional products that can be collected from trees include fruits, nuts, seeds, leaves, and bark. Tree products have been an important part of diets for thousands of years, from early humans 【 26 】 fruits and nuts to the first cultivation of important trees, such as mango and apple.\n\nThe apple is one of the world's most cultivated fruit trees, 【 27 】 over 7,000 different kinds in existence. Despite their great 【 28 】, however, most domesticated apples can be traced back to a common ancestor, the wild apple of Central Asia, Malus sieversii. Apples have been grown for thousands of years in Asia and Europe, and 【 29 】 to North America by European colonists in the 17th century. Today, apples are 【 30 】 eaten the world over and form the basis for multi-million dollar industries. In 2005, at least 55 million tons of apples were grown worldwide, which generated a value of about ＄10 billion.\n30.",
+    "options": [
+      "regularly",
+      "particularly",
+      "permanently",
+      "barely"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：今天全世界的人「經常」吃蘋果，蘋果也撐起數百萬美元的產業。\n\n故選 (A)"
+  },
+  {
+    "id": "104-gsat-eng-31-40",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 31-40 題組】\nA paperclip, made of steel wire bent into a hooped shape, is an instrument used to hold sheets of paper together. This common ___(31)___ is a wonder of simplicity and function. But where did this simple, cheap, and indispensable invention come from?\nIn the late 19th century, the most common way to hold papers together was by using a pin. Although the pin was an inexpensive tool and was easily ___(32)___, it would leave holes in the paper. Later, as steel wire became more common, inventors began to notice its elastic feature. With this feature, it could be stretched and ___(33)___ various clip-like objects. In the years just prior to 1900, quite a few paperclip designs emerged. The name most frequently ___(34)___ the paperclip invention is Johan Vaaler, a Norwegian inventor. However, Vaaler's clips were not the same as the paperclips currently in use. Specifically, they did not have the interior loop we see today. The ___(35)___ looped design was invented by Gem Manufacturing Ltd. in England. This clip is therefore sometimes ___(36)___ the Gem clip.\nBecause of Vaaler, the paperclip played an important ___(37)___ role in Norway. During World War II, Norway was occupied by the Nazis. Norwegians were prohibited from wearing any ___(38)___ of their national unity, such as buttons with the initials of their king. Thus, in ___(39)___, they started wearing paperclips to show their solidarity. The reason for doing this was simple: Paperclips were a Norwegian invention whose original function was to bind together. After the war, a giant paperclip statue was erected in Oslo to ___(40)___ Vaaler—even though his design was never actually manufactured.\n(A) familiar　(B) honor　(C) device　(D) removable　(E) known as　(F) protest　(G) symbol　(H) twisted into　(I) associated with　(J) historical\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "C",
+      "D",
+      "H",
+      "I",
+      "A",
+      "E",
+      "J",
+      "G",
+      "F",
+      "B"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "explanation": "• 31 (C) device：這個常見的「器具」是簡單與功能的奇蹟。\n• 32 (D) removable：大頭針便宜又容易「拔除」，但會在紙上留下洞。\n• 33 (H) twisted into：鋼絲有彈性，可以拉伸並「扭成」各種夾子狀的物品。\n• 34 (I) associated with：最常與迴紋針發明「連在一起」的名字是 Vaaler。\n• 35 (A) familiar：我們「熟悉的」雙圈設計是英國 Gem 公司發明的。\n• 36 (E) known as：這種迴紋針因此有時「被稱為」Gem clip。\n• 37 (J) historical：因為 Vaaler，迴紋針在挪威扮演重要的「歷史」角色。\n• 38 (G) symbol：挪威人被禁止佩戴任何國家團結的「象徵」。\n• 39 (F) protest：他們開始戴迴紋針以示「抗議」，in protest「以示抗議」。\n• 40 (B) honor：戰後在奧斯陸豎立巨型迴紋針雕像以「紀念」Vaaler。"
+  },
+  {
+    "id": "104-gsat-eng-41",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nIn 2009, the Taiwu Elementary School Folk Singers were invited to perform in Belgium, France, Germany, and Luxemburg. In 2011, they were voted as one of the world's top five performance groups by audiences of Japan Broadcasting Corporation's Amazing Voice program.\n\nRecalling the group's first tour in Europe, Camake Valaule, a physical education teacher and the founder of the Taiwu Elementary School Folk Singers, admitted that he felt very nervous. He was worried that the audience would fall asleep since most of the 75-minute performance was a cappella, that is, singing without instrumental sound. Surprisingly, the audience listened with full focus and high spirits. Camake said, \"They told me afterward that through our performance, they had a vision of our country, our village, without having to visit it. This experience greatly boosted our confidence.\"\n\nAccording to Camake Valaule, singing traditional ballads has helped students and their parents to re-understand their culture. \"It used to be that the only ones who could sing these songs were tribal elders aged between 50 and 60. Now with the children performing the pieces, parents are beginning to ask, 'Why do we not know how to sing these ballads?' Many times nowadays, it is the children who teach the songs to their parents, putting back the pieces of a blurred memory.\"\n\nWinning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006. The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture. Referring to the relocation of Taiwu Elementary School and Taiwu Village following Typhoon Morakot in August 2009, Camake said, \"We could not take the forest or our houses in the mountains with us; but we were able to bring our culture along. As long as the children are willing to sing, I will always be there for them, singing with them and leading them to experience the meaning of the ballads.\"\n41. Which of the following is true about Taiwu Elementary School Folk Singers?",
+    "options": [
+      "The group was first established in 2009.",
+      "The group was founded by a PE teacher.",
+      "The singers usually sing popular folk songs.",
+      "The singers learn to sing from their parents."
+    ],
+    "answerIndex": 1,
+    "explanation": "創辦人 Camake Valaule 是體育老師（physical education teacher）。\n(A) 2006 年成立；(C) 唱的是傳統歌謠；(D) 現在常是孩子教父母唱。\n\n故選 (B)"
+  },
+  {
+    "id": "104-gsat-eng-42",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nIn 2009, the Taiwu Elementary School Folk Singers were invited to perform in Belgium, France, Germany, and Luxemburg. In 2011, they were voted as one of the world's top five performance groups by audiences of Japan Broadcasting Corporation's Amazing Voice program.\n\nRecalling the group's first tour in Europe, Camake Valaule, a physical education teacher and the founder of the Taiwu Elementary School Folk Singers, admitted that he felt very nervous. He was worried that the audience would fall asleep since most of the 75-minute performance was a cappella, that is, singing without instrumental sound. Surprisingly, the audience listened with full focus and high spirits. Camake said, \"They told me afterward that through our performance, they had a vision of our country, our village, without having to visit it. This experience greatly boosted our confidence.\"\n\nAccording to Camake Valaule, singing traditional ballads has helped students and their parents to re-understand their culture. \"It used to be that the only ones who could sing these songs were tribal elders aged between 50 and 60. Now with the children performing the pieces, parents are beginning to ask, 'Why do we not know how to sing these ballads?' Many times nowadays, it is the children who teach the songs to their parents, putting back the pieces of a blurred memory.\"\n\nWinning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006. The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture. Referring to the relocation of Taiwu Elementary School and Taiwu Village following Typhoon Morakot in August 2009, Camake said, \"We could not take the forest or our houses in the mountains with us; but we were able to bring our culture along. As long as the children are willing to sing, I will always be there for them, singing with them and leading them to experience the meaning of the ballads.\"\n42. On his first trip to Europe, why did Camake think the audience might fall asleep?",
+    "options": [
+      "The average age of the audience was between fifty and sixty.",
+      "Most of the performance was not accompanied by any instrument.",
+      "Nobody could understand the language and the meaning of the songs.",
+      "The audience could not visualize the theme sung by the school children."
+    ],
+    "answerIndex": 1,
+    "explanation": "75 分鐘的演出大多是無伴奏清唱（a cappella），他擔心觀眾會睡著。\n\n故選 (B)"
+  },
+  {
+    "id": "104-gsat-eng-43",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nIn 2009, the Taiwu Elementary School Folk Singers were invited to perform in Belgium, France, Germany, and Luxemburg. In 2011, they were voted as one of the world's top five performance groups by audiences of Japan Broadcasting Corporation's Amazing Voice program.\n\nRecalling the group's first tour in Europe, Camake Valaule, a physical education teacher and the founder of the Taiwu Elementary School Folk Singers, admitted that he felt very nervous. He was worried that the audience would fall asleep since most of the 75-minute performance was a cappella, that is, singing without instrumental sound. Surprisingly, the audience listened with full focus and high spirits. Camake said, \"They told me afterward that through our performance, they had a vision of our country, our village, without having to visit it. This experience greatly boosted our confidence.\"\n\nAccording to Camake Valaule, singing traditional ballads has helped students and their parents to re-understand their culture. \"It used to be that the only ones who could sing these songs were tribal elders aged between 50 and 60. Now with the children performing the pieces, parents are beginning to ask, 'Why do we not know how to sing these ballads?' Many times nowadays, it is the children who teach the songs to their parents, putting back the pieces of a blurred memory.\"\n\nWinning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006. The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture. Referring to the relocation of Taiwu Elementary School and Taiwu Village following Typhoon Morakot in August 2009, Camake said, \"We could not take the forest or our houses in the mountains with us; but we were able to bring our culture along. As long as the children are willing to sing, I will always be there for them, singing with them and leading them to experience the meaning of the ballads.\"\n43. What does \"the pieces of a blurred memory\" in the third paragraph most likely refer to?",
+    "options": [
+      "The children's ignorance of their own culture.",
+      "The fading memories about old tribal people.",
+      "The broken pieces of knowledge taught at school.",
+      "The parents' vague understanding of their own tradition."
+    ],
+    "answerIndex": 3,
+    "explanation": "父母已不會唱這些傳統歌謠，對自己的傳統只剩模糊的記憶；孩子教父母唱歌，把這些片段拼回來。\n\n故選 (D)"
+  },
+  {
+    "id": "104-gsat-eng-44",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nIn 2009, the Taiwu Elementary School Folk Singers were invited to perform in Belgium, France, Germany, and Luxemburg. In 2011, they were voted as one of the world's top five performance groups by audiences of Japan Broadcasting Corporation's Amazing Voice program.\n\nRecalling the group's first tour in Europe, Camake Valaule, a physical education teacher and the founder of the Taiwu Elementary School Folk Singers, admitted that he felt very nervous. He was worried that the audience would fall asleep since most of the 75-minute performance was a cappella, that is, singing without instrumental sound. Surprisingly, the audience listened with full focus and high spirits. Camake said, \"They told me afterward that through our performance, they had a vision of our country, our village, without having to visit it. This experience greatly boosted our confidence.\"\n\nAccording to Camake Valaule, singing traditional ballads has helped students and their parents to re-understand their culture. \"It used to be that the only ones who could sing these songs were tribal elders aged between 50 and 60. Now with the children performing the pieces, parents are beginning to ask, 'Why do we not know how to sing these ballads?' Many times nowadays, it is the children who teach the songs to their parents, putting back the pieces of a blurred memory.\"\n\nWinning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006. The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture. Referring to the relocation of Taiwu Elementary School and Taiwu Village following Typhoon Morakot in August 2009, Camake said, \"We could not take the forest or our houses in the mountains with us; but we were able to bring our culture along. As long as the children are willing to sing, I will always be there for them, singing with them and leading them to experience the meaning of the ballads.\"\n44. What did Camake realize after the incident of Typhoon Morakot?",
+    "options": [
+      "The significance of the relocation of Taiwu Elementary School.",
+      "The need to respect nature to avoid being destroyed by it.",
+      "The importance of passing on the traditional culture.",
+      "The consequence of building houses in the forest."
+    ],
+    "answerIndex": 2,
+    "explanation": "他說遷村時帶不走森林與房子，但能帶走文化，只要孩子願意唱，他就會陪著唱，強調傳承文化的重要。\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-45",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nWhen it comes to medical care, many patients and doctors believe \"more is better.\" But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm. Sometimes a test leads you down a path to more and more testing, some of which may be invasive, or to treatment for things that should be left alone.\n\nTerrence Power, for example, complained that after his wife learned she had Wegener's disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician. The doctor insisted on office visits every three weeks, even when she was feeling well. He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints. Even when tests came back negative, more were ordered, and she was hospitalized as a precaution when she developed a cold. She had as many as 25 doctor visits during one six-month period. The couple was spending about ＄30,000 a year for her care.\n\nAfter several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups. \"It's a really hard thing to determine when they've crossed the line,\" Mr. Power said. \"You think she's getting the best care in the world, but after a while you start to wonder: What is the objective?\" Mr. Power then spoke with his own primary care doctor, who advised him to find a new specialist to oversee Mrs. Power's care. Under the new doctor's care, the regular testing stopped and Mrs. Power's condition stabilized. Now she sees the doctor only four or five times a year.\n45. What is the main idea of this passage?",
+    "options": [
+      "Treatments do not always cause harmful side effects.",
+      "Patients tend to believe more testing is better treatment.",
+      "Too much medical care may not be beneficial to patients.",
+      "Doctors generally recommend office visits that are necessary."
+    ],
+    "answerIndex": 2,
+    "explanation": "文章以 Power 太太為例，說明過度醫療（太多檢查與程序）可能有害，主旨是過多醫療不一定對病人有益。\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-46",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nWhen it comes to medical care, many patients and doctors believe \"more is better.\" But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm. Sometimes a test leads you down a path to more and more testing, some of which may be invasive, or to treatment for things that should be left alone.\n\nTerrence Power, for example, complained that after his wife learned she had Wegener's disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician. The doctor insisted on office visits every three weeks, even when she was feeling well. He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints. Even when tests came back negative, more were ordered, and she was hospitalized as a precaution when she developed a cold. She had as many as 25 doctor visits during one six-month period. The couple was spending about ＄30,000 a year for her care.\n\nAfter several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups. \"It's a really hard thing to determine when they've crossed the line,\" Mr. Power said. \"You think she's getting the best care in the world, but after a while you start to wonder: What is the objective?\" Mr. Power then spoke with his own primary care doctor, who advised him to find a new specialist to oversee Mrs. Power's care. Under the new doctor's care, the regular testing stopped and Mrs. Power's condition stabilized. Now she sees the doctor only four or five times a year.\n46. Which of the following was a problem for Mrs. Power during her medical treatment?",
+    "options": [
+      "She had to be hospitalized for three weeks whenever she had a cold.",
+      "She didn't have any insurance, so she went broke because of her illness.",
+      "When test results showed she was fine, her doctor still ordered more tests.",
+      "Her doctor asked her to consult other specialists due to her constant complaints."
+    ],
+    "answerIndex": 2,
+    "explanation": "即使檢查結果為陰性，醫生仍安排更多檢查。\n(A) 每三週回診，感冒時住院預防；(B) 文中沒提保險；(D) 是小毛病也一再轉介。\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-47",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nWhen it comes to medical care, many patients and doctors believe \"more is better.\" But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm. Sometimes a test leads you down a path to more and more testing, some of which may be invasive, or to treatment for things that should be left alone.\n\nTerrence Power, for example, complained that after his wife learned she had Wegener's disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician. The doctor insisted on office visits every three weeks, even when she was feeling well. He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints. Even when tests came back negative, more were ordered, and she was hospitalized as a precaution when she developed a cold. She had as many as 25 doctor visits during one six-month period. The couple was spending about ＄30,000 a year for her care.\n\nAfter several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups. \"It's a really hard thing to determine when they've crossed the line,\" Mr. Power said. \"You think she's getting the best care in the world, but after a while you start to wonder: What is the objective?\" Mr. Power then spoke with his own primary care doctor, who advised him to find a new specialist to oversee Mrs. Power's care. Under the new doctor's care, the regular testing stopped and Mrs. Power's condition stabilized. Now she sees the doctor only four or five times a year.\n47. Who does \"they\" in the third paragraph most likely refer to?",
+    "options": [
+      "Physicians.",
+      "Other patients.",
+      "Mr. and Mrs. Power.",
+      "The online support groups."
+    ],
+    "answerIndex": 0,
+    "explanation": "「很難判斷他們何時越界了」，指的是安排過多檢查的醫生。\n\n故選 (A)"
+  },
+  {
+    "id": "104-gsat-eng-48",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nWhen it comes to medical care, many patients and doctors believe \"more is better.\" But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm. Sometimes a test leads you down a path to more and more testing, some of which may be invasive, or to treatment for things that should be left alone.\n\nTerrence Power, for example, complained that after his wife learned she had Wegener's disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician. The doctor insisted on office visits every three weeks, even when she was feeling well. He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints. Even when tests came back negative, more were ordered, and she was hospitalized as a precaution when she developed a cold. She had as many as 25 doctor visits during one six-month period. The couple was spending about ＄30,000 a year for her care.\n\nAfter several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups. \"It's a really hard thing to determine when they've crossed the line,\" Mr. Power said. \"You think she's getting the best care in the world, but after a while you start to wonder: What is the objective?\" Mr. Power then spoke with his own primary care doctor, who advised him to find a new specialist to oversee Mrs. Power's care. Under the new doctor's care, the regular testing stopped and Mrs. Power's condition stabilized. Now she sees the doctor only four or five times a year.\n48. Which of the following best describes the author's attitude toward medical tests?",
+    "options": [
+      "More tests than necessary are too much.",
+      "Medical tests are essential for disease prevention.",
+      "Many tests are needed for confirmation of diagnosis.",
+      "Doctors' interpretations of test results are seldom wrong."
+    ],
+    "answerIndex": 0,
+    "explanation": "作者認為過度檢查可能有害，換醫生停止例行檢查後病情反而穩定，可見作者認為超過必要的檢查就是太多。\n\n故選 (A)"
+  },
+  {
+    "id": "104-gsat-eng-49",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nHenri Cartier-Bresson (1908–2004) is one of the most original and influential figures in the history of photography. His humane, spontaneous photographs helped establish photojournalism as an art form.\n\nCartier-Bresson's family was wealthy—his father made a fortune as a textile manufacturer—but Cartier-Bresson later joked that due to his parents' frugal ways, it often seemed as though his family was poor.\n\nEducated in Paris, Cartier-Bresson developed an early love for literature and the arts. As a teenager, Cartier-Bresson rebelled against his parents' formal ways of education. In his early adulthood, he even drifted toward communism. But it was art that remained at the center of his life.\n\nCartier-Bresson traveled to Africa in 1931 to hunt antelope and boar. And Africa fueled another interest in him: photography. He then wandered around the world with his camera, using a handheld camera to catch images from fleeting moments of everyday life.\n\nNot long after World War II, Cartier-Bresson traveled east, spending considerable time in India, where he met and photographed Gandhi shortly before his assassination in 1948. Cartier-Bresson's subsequent work to document Gandhi's death and its immediate impact on the country became one of Life Magazine's most prized photo essays.\n\nCartier-Bresson's approach to photography remained much the same throughout his life. He made clear his dislike of images that had been improved by artificial light, darkroom effects, and even cropping. The naturalist in Cartier-Bresson believed that all editing should be done when the photo is taken. In 1952, his first book, The Decisive Moment, a rich collection of his work spanning two decades, was published. \"There is nothing in this world that does not have a decisive moment,\" he said.\n\nIn 1968, he began to turn away from photography and returned to his passion for drawing and painting.\n49. Which of the following best describes Cartier-Bresson's family background?",
+    "options": [
+      "His family was rich but was very economical.",
+      "His father went to Paris to open a textile factory.",
+      "His wealthy family went bankrupt and became poor.",
+      "His parents were very liberal in their ways of education."
+    ],
+    "answerIndex": 0,
+    "explanation": "他家很有錢，但父母很節儉（frugal），讓家裡看起來像窮人。\n(D) 他反抗父母拘謹正式的教育方式。\n\n故選 (A)"
+  },
+  {
+    "id": "104-gsat-eng-50",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nHenri Cartier-Bresson (1908–2004) is one of the most original and influential figures in the history of photography. His humane, spontaneous photographs helped establish photojournalism as an art form.\n\nCartier-Bresson's family was wealthy—his father made a fortune as a textile manufacturer—but Cartier-Bresson later joked that due to his parents' frugal ways, it often seemed as though his family was poor.\n\nEducated in Paris, Cartier-Bresson developed an early love for literature and the arts. As a teenager, Cartier-Bresson rebelled against his parents' formal ways of education. In his early adulthood, he even drifted toward communism. But it was art that remained at the center of his life.\n\nCartier-Bresson traveled to Africa in 1931 to hunt antelope and boar. And Africa fueled another interest in him: photography. He then wandered around the world with his camera, using a handheld camera to catch images from fleeting moments of everyday life.\n\nNot long after World War II, Cartier-Bresson traveled east, spending considerable time in India, where he met and photographed Gandhi shortly before his assassination in 1948. Cartier-Bresson's subsequent work to document Gandhi's death and its immediate impact on the country became one of Life Magazine's most prized photo essays.\n\nCartier-Bresson's approach to photography remained much the same throughout his life. He made clear his dislike of images that had been improved by artificial light, darkroom effects, and even cropping. The naturalist in Cartier-Bresson believed that all editing should be done when the photo is taken. In 1952, his first book, The Decisive Moment, a rich collection of his work spanning two decades, was published. \"There is nothing in this world that does not have a decisive moment,\" he said.\n\nIn 1968, he began to turn away from photography and returned to his passion for drawing and painting.\n50. Which of the following is true about Cartier-Bresson's career in photography?",
+    "options": [
+      "He devoted himself to photography all his life.",
+      "He developed a passion for photography when he traveled to Africa.",
+      "He quit photography right after the publication of The Decisive Moment.",
+      "During World War II, he documented the everyday life of the Indian people."
+    ],
+    "answerIndex": 1,
+    "explanation": "1931 年到非洲打獵時，激發他對攝影的興趣。\n(A)(C) 1968 年才轉回繪畫，書在 1952 年出版；(D) 是二戰後去印度。\n\n故選 (B)"
+  },
+  {
+    "id": "104-gsat-eng-51",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nHenri Cartier-Bresson (1908–2004) is one of the most original and influential figures in the history of photography. His humane, spontaneous photographs helped establish photojournalism as an art form.\n\nCartier-Bresson's family was wealthy—his father made a fortune as a textile manufacturer—but Cartier-Bresson later joked that due to his parents' frugal ways, it often seemed as though his family was poor.\n\nEducated in Paris, Cartier-Bresson developed an early love for literature and the arts. As a teenager, Cartier-Bresson rebelled against his parents' formal ways of education. In his early adulthood, he even drifted toward communism. But it was art that remained at the center of his life.\n\nCartier-Bresson traveled to Africa in 1931 to hunt antelope and boar. And Africa fueled another interest in him: photography. He then wandered around the world with his camera, using a handheld camera to catch images from fleeting moments of everyday life.\n\nNot long after World War II, Cartier-Bresson traveled east, spending considerable time in India, where he met and photographed Gandhi shortly before his assassination in 1948. Cartier-Bresson's subsequent work to document Gandhi's death and its immediate impact on the country became one of Life Magazine's most prized photo essays.\n\nCartier-Bresson's approach to photography remained much the same throughout his life. He made clear his dislike of images that had been improved by artificial light, darkroom effects, and even cropping. The naturalist in Cartier-Bresson believed that all editing should be done when the photo is taken. In 1952, his first book, The Decisive Moment, a rich collection of his work spanning two decades, was published. \"There is nothing in this world that does not have a decisive moment,\" he said.\n\nIn 1968, he began to turn away from photography and returned to his passion for drawing and painting.\n51. What significance did Cartier-Bresson have to Gandhi of India?",
+    "options": [
+      "He witnessed Gandhi's assassination in 1948.",
+      "He was the first photographer to take Gandhi's photo.",
+      "He used photos to document the effect of Gandhi's death on India.",
+      "His photos told the world who was guilty of assassinating Gandhi."
+    ],
+    "answerIndex": 2,
+    "explanation": "他記錄甘地之死及其對印度的立即影響，成為《生活》雜誌最珍貴的攝影報導之一。\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-52",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nHenri Cartier-Bresson (1908–2004) is one of the most original and influential figures in the history of photography. His humane, spontaneous photographs helped establish photojournalism as an art form.\n\nCartier-Bresson's family was wealthy—his father made a fortune as a textile manufacturer—but Cartier-Bresson later joked that due to his parents' frugal ways, it often seemed as though his family was poor.\n\nEducated in Paris, Cartier-Bresson developed an early love for literature and the arts. As a teenager, Cartier-Bresson rebelled against his parents' formal ways of education. In his early adulthood, he even drifted toward communism. But it was art that remained at the center of his life.\n\nCartier-Bresson traveled to Africa in 1931 to hunt antelope and boar. And Africa fueled another interest in him: photography. He then wandered around the world with his camera, using a handheld camera to catch images from fleeting moments of everyday life.\n\nNot long after World War II, Cartier-Bresson traveled east, spending considerable time in India, where he met and photographed Gandhi shortly before his assassination in 1948. Cartier-Bresson's subsequent work to document Gandhi's death and its immediate impact on the country became one of Life Magazine's most prized photo essays.\n\nCartier-Bresson's approach to photography remained much the same throughout his life. He made clear his dislike of images that had been improved by artificial light, darkroom effects, and even cropping. The naturalist in Cartier-Bresson believed that all editing should be done when the photo is taken. In 1952, his first book, The Decisive Moment, a rich collection of his work spanning two decades, was published. \"There is nothing in this world that does not have a decisive moment,\" he said.\n\nIn 1968, he began to turn away from photography and returned to his passion for drawing and painting.\n52. Which of the following is true about Cartier-Bresson's approach to photography?",
+    "options": [
+      "He never waited for a decisive moment to shoot photos.",
+      "He preferred to edit his images carefully in his darkroom.",
+      "Most of his photos described things that happen every day.",
+      "He experimented with different ways and settled on being a naturalist."
+    ],
+    "answerIndex": 2,
+    "explanation": "他用手持相機捕捉日常生活中稍縱即逝的片刻。\n(B) 他不喜歡暗房效果；(D) 他的攝影方式一生大致不變。\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-53",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nYou've most likely heard the news by now: A car-commuting, desk-bound, TV-watching lifestyle can be harmful to our health. All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the \"sitting disease.\"\n\nSitting for too long slows down the body's metabolism and the way enzymes break down our fat reserves, raising both blood sugar levels and blood pressure. Small amounts of regular activity, even just standing and moving around, throughout the day is enough to bring the increased levels back down. And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise. But without that activity, blood sugar levels and blood pressure keep creeping up, steadily damaging the inside of the arteries and increasing the risk of diabetes, heart disease, stroke, and other serious diseases. In essence, fundamental changes in biology occur if you sit for too long.\n\nBut wait, you're a runner. You needn't worry about the harm of a sedentary lifestyle because you exercise regularly, right? Well, not so fast. Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO). Regular exercisers, furthermore, are found to be about 30 percent less active on days when they exercise. Overall, most people simply aren't exercising or moving around enough to counteract all the harm that can result from sitting nine hours or more a day.\n\nScared straight out of your chair? Good. The remedy is as simple as standing up and taking activity breaks.\n53. What is the purpose of this passage?",
+    "options": [
+      "To point out the challenges of the modern lifestyle.",
+      "To discuss how a modern epidemic may spread quickly.",
+      "To explore the effects of regular exercise to our body.",
+      "To explain the threat to our health from long hours of sitting."
+    ],
+    "answerIndex": 3,
+    "explanation": "文章說明久坐如何使血糖、血壓上升，增加多種疾病風險，即「久坐病」的威脅。\n\n故選 (D)"
+  },
+  {
+    "id": "104-gsat-eng-54",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nYou've most likely heard the news by now: A car-commuting, desk-bound, TV-watching lifestyle can be harmful to our health. All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the \"sitting disease.\"\n\nSitting for too long slows down the body's metabolism and the way enzymes break down our fat reserves, raising both blood sugar levels and blood pressure. Small amounts of regular activity, even just standing and moving around, throughout the day is enough to bring the increased levels back down. And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise. But without that activity, blood sugar levels and blood pressure keep creeping up, steadily damaging the inside of the arteries and increasing the risk of diabetes, heart disease, stroke, and other serious diseases. In essence, fundamental changes in biology occur if you sit for too long.\n\nBut wait, you're a runner. You needn't worry about the harm of a sedentary lifestyle because you exercise regularly, right? Well, not so fast. Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO). Regular exercisers, furthermore, are found to be about 30 percent less active on days when they exercise. Overall, most people simply aren't exercising or moving around enough to counteract all the harm that can result from sitting nine hours or more a day.\n\nScared straight out of your chair? Good. The remedy is as simple as standing up and taking activity breaks.\n54. What does the word \"sedentary\" in the third paragraph most likely mean?",
+    "options": [
+      "Modern.",
+      "Risky.",
+      "Inactive.",
+      "Epidemic."
+    ],
+    "answerIndex": 2,
+    "explanation": "sedentary lifestyle 指整天坐著、很少活動的生活方式，即「不活動的」。\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-55",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nYou've most likely heard the news by now: A car-commuting, desk-bound, TV-watching lifestyle can be harmful to our health. All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the \"sitting disease.\"\n\nSitting for too long slows down the body's metabolism and the way enzymes break down our fat reserves, raising both blood sugar levels and blood pressure. Small amounts of regular activity, even just standing and moving around, throughout the day is enough to bring the increased levels back down. And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise. But without that activity, blood sugar levels and blood pressure keep creeping up, steadily damaging the inside of the arteries and increasing the risk of diabetes, heart disease, stroke, and other serious diseases. In essence, fundamental changes in biology occur if you sit for too long.\n\nBut wait, you're a runner. You needn't worry about the harm of a sedentary lifestyle because you exercise regularly, right? Well, not so fast. Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO). Regular exercisers, furthermore, are found to be about 30 percent less active on days when they exercise. Overall, most people simply aren't exercising or moving around enough to counteract all the harm that can result from sitting nine hours or more a day.\n\nScared straight out of your chair? Good. The remedy is as simple as standing up and taking activity breaks.\n55. What is the best way to bring down high blood sugar level and blood pressure?",
+    "options": [
+      "Exercising for 150 minutes or more every week.",
+      "Getting rid of the habit of car commuting and TV watching.",
+      "Interrupting sitting time with light activity as often as possible.",
+      "Standing or moving around for at least two or three minutes every day."
+    ],
+    "answerIndex": 2,
+    "explanation": "整天中少量規律的活動，即使只是站起來走動，就足以讓升高的數值降下來；每次兩三分鐘的活動累積起來也有效。\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-eng-56",
+    "examType": "學測",
+    "year": 104,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nYou've most likely heard the news by now: A car-commuting, desk-bound, TV-watching lifestyle can be harmful to our health. All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the \"sitting disease.\"\n\nSitting for too long slows down the body's metabolism and the way enzymes break down our fat reserves, raising both blood sugar levels and blood pressure. Small amounts of regular activity, even just standing and moving around, throughout the day is enough to bring the increased levels back down. And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise. But without that activity, blood sugar levels and blood pressure keep creeping up, steadily damaging the inside of the arteries and increasing the risk of diabetes, heart disease, stroke, and other serious diseases. In essence, fundamental changes in biology occur if you sit for too long.\n\nBut wait, you're a runner. You needn't worry about the harm of a sedentary lifestyle because you exercise regularly, right? Well, not so fast. Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO). Regular exercisers, furthermore, are found to be about 30 percent less active on days when they exercise. Overall, most people simply aren't exercising or moving around enough to counteract all the harm that can result from sitting nine hours or more a day.\n\nScared straight out of your chair? Good. The remedy is as simple as standing up and taking activity breaks.\n56. Which of the following may be inferred about those who do serious exercise?",
+    "options": [
+      "They often live longer than those who don't exercise.",
+      "They tend to stand or move around less on days they work out.",
+      "They generally spend less time sitting than those who are inactive.",
+      "They usually do not meet the standard of exercise recommended by WHO."
+    ],
+    "answerIndex": 1,
+    "explanation": "規律運動者在運動的那天，整體活動量約少 30%，也就是較少站立或走動。\n\n故選 (B)"
   }
 ]
