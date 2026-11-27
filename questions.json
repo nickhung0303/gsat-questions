@@ -43109,5 +43109,600 @@
       "沸騰溫度（°C）"
     ],
     "explanation": "【兩者蒸氣壓之和等於 760 mmHg 時沸騰】\n由圖 9 讀 $95^\\circ\\text{C}$：溴苯約 120 mmHg，水約 640 mmHg，合計約 760 mmHg。\n所以混合物約在 $95^\\circ\\text{C}$ 沸騰，低於水的沸點 $100^\\circ\\text{C}$，也遠低於溴苯的沸點 $156^\\circ\\text{C}$，這正是蒸氣蒸餾能在較低溫度提取高沸點物質的原因。\n\n答：約 $95^\\circ\\text{C}$"
+  },
+  {
+    "id": "113-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "points": 4,
+    "question": "元素（$^9_4\\text{X}$）的第一游離能為 $E_1$，第二游離能為 $E_2$，第三游離能為 $E_3$。將 $E_1$、$E_2$ 及 $E_3$ 的數值大小以柱狀圖表示並繪製如下，則下列何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-01.png\" alt=\"第 1 題選項 (A)～(E) 柱狀圖（單位 10³ 千焦/莫耳）\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 0,
+    "explanation": "【X 為 Be（原子序 4），電子組態 $1s^2 2s^2$】\n• $E_1$、$E_2$ 移去的是 $2s$ 價電子，數值不大（約 0.9 與 1.76 × $10^3$ kJ/mol），且 $E_2 > E_1$。\n• $E_3$ 要移去內層 $1s$ 電子，大幅躍升到約 $14.8\\times10^3$ kJ/mol。\n• 圖 (A)：$E_1 \\approx 0.9$、$E_2 \\approx 1.8$、$E_3 \\approx 14.8$，符合；(D)(E) 雖遞增，但 $E_3$ 沒有突然大幅躍升；(B)(C) 沒有逐級遞增。\n\n故選 (A)"
+  },
+  {
+    "id": "113-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "points": 4,
+    "question": "下列有關 $\\text{N}_2$、$\\text{N}_2\\text{H}_2$ 及 $\\text{N}_2\\text{H}_4$ 三種分子組成與結構的敘述，何者正確？",
+    "options": [
+      "孤對電子數：$\\text{N}_2 > \\text{N}_2\\text{H}_2 > \\text{N}_2\\text{H}_4$",
+      "鍵結電子對的總數：$\\text{N}_2 > \\text{N}_2\\text{H}_2 > \\text{N}_2\\text{H}_4$",
+      "N–N 鍵長的大小：$\\text{N}_2 > \\text{N}_2\\text{H}_2 > \\text{N}_2\\text{H}_4$",
+      "$\\text{N}_2\\text{H}_4$ 中 N–N–H 的鍵角為 $120^\\circ$",
+      "$\\text{N}_2\\text{H}_2$ 為一平面分子"
+    ],
+    "answerIndex": 4,
+    "explanation": "【畫出路易斯結構】$\\text{N}\\equiv\\text{N}$、$\\text{H}-\\text{N}=\\text{N}-\\text{H}$、$\\text{H}_2\\text{N}-\\text{NH}_2$，每個 N 都有 1 對孤對電子。\n• (A) 錯誤：三者孤對電子數都是 2。\n• (B) 錯誤：鍵結電子對分別為 3、4（N=N 2 對 + 2 個 N–H）、5（N–N 1 對 + 4 個 N–H），順序相反。\n• (C) 錯誤：參鍵最短、單鍵最長：$\\text{N}_2 < \\text{N}_2\\text{H}_2 < \\text{N}_2\\text{H}_4$。\n• (D) 錯誤：$\\text{N}_2\\text{H}_4$ 的 N 有 3 個鍵與 1 對孤對電子，為角錐形，鍵角約 $107^\\circ$。\n• (E) 正確：$\\text{N}_2\\text{H}_2$ 的 N 為 $sp^2$，雙鍵不能旋轉，四個原子共平面。\n\n故選 (E)"
+  },
+  {
+    "id": "113-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "points": 4,
+    "question": "下列有關酸鹼滴定的敘述，何者正確？\n（甲）讀取滴定管內溶液的體積時，視線應與液面的最低處對齊\n（乙）將滴定溶液填入乾淨滴定管前，先以滴定溶液潤洗滴定管\n（丙）以 NaOH 溶液滴定未知酸溶液時，可直接使用剛配製好的 NaOH 溶液進行滴定，直接得知此未知酸的濃度\n（丁）滴定進行時，須不斷搖動錐形瓶使酸鹼溶液充分混合，一旦指示劑開始變色，即可停止滴定，並讀出數值",
+    "options": [
+      "（甲）（乙）",
+      "（乙）（丙）",
+      "（甲）（丙）",
+      "（甲）（丁）",
+      "（丙）（丁）"
+    ],
+    "answerIndex": 0,
+    "explanation": "• （甲）正確：水溶液的液面呈凹形，應平視凹液面最低處讀數。\n• （乙）正確：先用滴定溶液潤洗，避免管內殘留的水稀釋滴定液。\n• （丙）錯誤：NaOH 易吸收空氣中的水分與 $\\text{CO}_2$，配製濃度不準，須先用標準酸（如 KHP）標定。\n• （丁）錯誤：指示劑剛開始變色可能只是局部過量，須等顏色持續約 30 秒不褪才是終點。\n\n故選 (A)"
+  },
+  {
+    "id": "113-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 4-5 題為題組】陳同學依據下述三步驟，對某湖水樣進行溶氧量分析：\nI. 量取 97.0 mL 水樣，置於一 100 mL 容量瓶中，加入 1.0 mL 硫酸亞錳（$\\text{MnSO}_4\\cdot2\\text{H}_2\\text{O}$）以及 1.0 mL 鹼性碘化鈉後，激烈搖晃，使瓶內溶液混合均勻，此時溶液中產生 $\\text{MnO}_2$ 沉澱。\nII. 待沉澱不再增加後，隨即加入 1.0 mL 濃硫酸，並以蒸餾水稀釋至刻度。\nIII. 從容量瓶中取出 10.0 mL 溶液，隨即以 0.015 M 硫代硫酸鈉溶液（$\\text{Na}_2\\text{S}_2\\text{O}_3$）滴定。當滴定到達終點時，共耗去 0.52 mL 硫代硫酸鈉溶液。\n4. 根據下列反應，一莫耳的氧氣可消耗多少莫耳硫代硫酸鈉？\n$$\\text{Mn}^{2+} + 2\\text{OH}^- \\to \\text{Mn(OH)}_2$$\n$$2\\text{Mn(OH)}_2 + \\text{O}_2 \\to 2\\text{MnO}_2 + 2\\text{H}_2\\text{O}$$\n$$\\text{MnO}_2 + 2\\text{I}^- + 4\\text{H}^+ \\to \\text{Mn}^{2+} + \\text{I}_2 + 2\\text{H}_2\\text{O}$$\n$$\\text{I}_2 + 2\\text{S}_2\\text{O}_3^{2-} \\to 2\\text{I}^- + \\text{S}_4\\text{O}_6^{2-}$$",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "answerIndex": 2,
+    "explanation": "【沿反應式追蹤莫耳比】\n$$1\\ \\text{O}_2 \\to 2\\ \\text{MnO}_2 \\to 2\\ \\text{I}_2 \\to 4\\ \\text{S}_2\\text{O}_3^{2-}$$\n1 莫耳 $\\text{O}_2$ 生成 2 莫耳 $\\text{MnO}_2$，各氧化出 1 莫耳 $\\text{I}_2$，每莫耳 $\\text{I}_2$ 消耗 2 莫耳 $\\text{S}_2\\text{O}_3^{2-}$，共 4 莫耳。\n\n故選 (C)"
+  },
+  {
+    "id": "113-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 4-5 題為題組】陳同學依據下述三步驟，對某湖水樣進行溶氧量分析：\nI. 量取 97.0 mL 水樣，置於一 100 mL 容量瓶中，加入 1.0 mL 硫酸亞錳（$\\text{MnSO}_4\\cdot2\\text{H}_2\\text{O}$）以及 1.0 mL 鹼性碘化鈉後，激烈搖晃，使瓶內溶液混合均勻，此時溶液中產生 $\\text{MnO}_2$ 沉澱。\nII. 待沉澱不再增加後，隨即加入 1.0 mL 濃硫酸，並以蒸餾水稀釋至刻度。\nIII. 從容量瓶中取出 10.0 mL 溶液，隨即以 0.015 M 硫代硫酸鈉溶液（$\\text{Na}_2\\text{S}_2\\text{O}_3$）滴定。當滴定到達終點時，共耗去 0.52 mL 硫代硫酸鈉溶液。\n5. 下列哪一數值最接近水樣中的溶氧量（單位：M）？（$0.015 \\times 0.52 = 7.8\\times10^{-3}$）",
+    "options": [
+      "$1.0\\times10^{-4}$",
+      "$2.0\\times10^{-4}$",
+      "$4.0\\times10^{-4}$",
+      "$6.0\\times10^{-4}$",
+      "$8.0\\times10^{-4}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "• 滴定 10.0 mL 用去 $\\text{S}_2\\text{O}_3^{2-}$：$0.015 \\times 0.52\\times10^{-3} = 7.8\\times10^{-6}\\text{ mol}$\n• 對應 $\\text{O}_2$：$\\dfrac{7.8\\times10^{-6}}{4} = 1.95\\times10^{-6}\\text{ mol}$（10.0 mL 中）\n• 100 mL 容量瓶中共有 $1.95\\times10^{-5}\\text{ mol}$，全部來自 97.0 mL 水樣：\n$$[\\text{O}_2] = \\frac{1.95\\times10^{-5}}{0.0970} \\approx 2.0\\times10^{-4}\\text{ M}$$\n\n故選 (B)"
+  },
+  {
+    "id": "113-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "points": 4,
+    "question": "$25^\\circ\\text{C}$ 時，甲、乙、丙三種物質溶於水的性質如表 1 所示：甲：可溶，溶液 pH 小於 7.0；乙：難溶，溶液 pH 大於 7.0；丙：可溶，溶液 pH 大約為 7.0。根據表中的敘述，甲、乙、丙分別可能是下列哪些物質？",
+    "options": [
+      "甲 $\\text{C}_6\\text{H}_5\\text{COOH}$、乙 $\\text{Ca(OH)}_2$、丙 $\\text{Na}_2\\text{CO}_3$",
+      "甲 $\\text{CH}_3\\text{COOH}$、乙 $\\text{NaHCO}_3$、丙 $\\text{Na}_2\\text{SO}_4$",
+      "甲 AgCl、乙 KCl、丙 $\\text{CaCl}_2$",
+      "甲 $\\text{MgCl}_2$、乙 $\\text{MgSO}_4$、丙 NaOH",
+      "甲 $\\text{CH}_3\\text{COOH}$、乙 $\\text{Mg(OH)}_2$、丙 NaCl"
+    ],
+    "answerIndex": 4,
+    "explanation": "• (A) 丙 $\\text{Na}_2\\text{CO}_3$ 水溶液為鹼性，不符。\n• (B) 乙 $\\text{NaHCO}_3$ 可溶於水，不符。\n• (C) 甲 AgCl 難溶且不呈酸性，不符。\n• (D) 乙 $\\text{MgSO}_4$ 可溶；丙 NaOH 為強鹼，不符。\n• (E) 醋酸可溶、呈酸性；$\\text{Mg(OH)}_2$ 難溶、溶解的部分呈鹼性；NaCl 可溶、中性。全部符合。\n\n故選 (E)"
+  },
+  {
+    "id": "113-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "points": 4,
+    "question": "某蛋白質中鐵元素的重量百分比為 0.33%，將此蛋白質 0.20 克溶於水中配成 10.0 毫升的溶液，此溶液在 $25^\\circ\\text{C}$ 下的滲透壓為 5.5 torr。每莫耳的此蛋白質含有多少莫耳的鐵原子？（已知 1 atm = 760 torr、$\\dfrac{20\\times82\\times298\\times760}{5.5} = 6.75\\times10^7$、Fe 的原子量 = 56.0）",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answerIndex": 1,
+    "explanation": "【先由滲透壓求蛋白質分子量】\n$$\\pi = \\frac{n}{V}RT \\implies \\frac{5.5}{760} = \\frac{0.20/M}{0.0100}\\times0.082\\times298$$\n$$M = \\frac{0.20\\times0.082\\times298\\times760}{0.0100\\times5.5} = \\frac{20\\times82\\times298\\times760}{5.5}\\times10^{-3} = 6.75\\times10^4\\text{ g/mol}$$\n• 每莫耳蛋白質含 Fe：$6.75\\times10^4 \\times 0.33\\% \\approx 223\\text{ g}$\n• $\\dfrac{223}{56.0} \\approx 4$ 莫耳\n\n故選 (B)"
+  },
+  {
+    "id": "113-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在 $20^\\circ\\text{C}$ 時，氯化鈣、氯化鉀及草酸鉀在 100.0 克水中的溶解度分別為 74.5、34.2 及 30.0 克。草酸鈣的莫耳溶解度為 $4.8\\times10^{-5}$ M。根據上述的數據，下列敘述哪些正確？（草酸鈣的莫耳質量為 128 g/mol）",
+    "options": [
+      "草酸鈣的溶解度約為 $6.1\\times10^{-4}$ 克/100.0 克水",
+      "草酸鈣的 $K_{sp}$ 為 $2.3\\times10^{-9}$",
+      "100.0 克的水不能同時完全溶解 34.2 克氯化鉀和 74.5 克氯化鈣",
+      "將 3 克氯化鈣粉末置入 130.0 克草酸鉀飽和水溶液中，充分攪拌後，無沉澱產生",
+      "於 134.2 克的氯化鉀飽和水溶液中加入 1.0 克草酸鉀。經充分攪拌後，溶液內仍有固體存在。這些固體是未能溶解的草酸鉀"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "• (A) 正確：$4.8\\times10^{-5}\\text{ mol/L} \\times 128 \\approx 6.1\\times10^{-3}\\text{ g/L}$，稀溶液 100 g 水約 0.1 L，約 $6.1\\times10^{-4}$ g。\n• (B) 正確：$K_{sp} = s^2 = (4.8\\times10^{-5})^2 \\approx 2.3\\times10^{-9}$。\n• (C) 正確：兩者都會解離出 $\\text{Cl}^-$，共同離子效應使溶解度降低，各自的飽和量無法同時溶完。\n• (D) 錯誤：$\\text{Ca}^{2+}$ 遇大量草酸根，立刻生成草酸鈣沉澱（$K_{sp}$ 極小）。\n• (E) 錯誤：134.2 g 飽和 KCl 溶液含 100 g 水，1.0 g 草酸鉀遠低於其溶解度 30 g，可以溶解；但加入的 $\\text{K}^+$ 是共同離子，會使 KCl 析出，所以固體是氯化鉀而非草酸鉀。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "113-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "已知下列三個反應式與其反應熱如下：\n$$2\\text{N}_2\\text{(g)} + 6\\text{H}_2\\text{(g)} \\to 4\\text{NH}_3\\text{(g)}\\qquad \\Delta H_1$$\n$$2\\text{N}_2\\text{(g)} + 6\\text{H}_2\\text{(g)} + 7\\text{O}_2\\text{(g)} \\to 4\\text{NO}_2\\text{(g)} + 6\\text{H}_2\\text{O(g)}\\qquad \\Delta H_2$$\n$$4\\text{NH}_3\\text{(g)} + 7\\text{O}_2\\text{(g)} \\to 4\\text{NO}_2\\text{(g)} + 6\\text{H}_2\\text{O(g)}\\qquad \\Delta H_3$$\n則下列關係式中，哪些正確？",
+    "options": [
+      "$\\Delta H_2 = \\Delta H_1 + \\Delta H_3$",
+      "$\\Delta H_2 = \\Delta H_1 - \\Delta H_3$",
+      "$\\Delta H_1 = [\\text{NH}_3\\text{(g)}$ 的莫耳生成熱$] \\times 4$",
+      "$\\Delta H_2 = [\\text{NO}_2\\text{(g)}$ 的莫耳生成熱$] \\times 4$",
+      "$\\Delta H_3 = [\\text{NO}_2\\text{(g)}$ 的莫耳生成熱$] \\times 4 + [\\text{H}_2\\text{O(g)}$ 的莫耳生成熱$] \\times 6 - [\\text{NH}_3\\text{(g)}$ 的莫耳生成熱$] \\times 4$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "【赫斯定律】\n• (A) 正確、(B) 錯誤：第一式 + 第三式，$4\\text{NH}_3$ 消去，恰為第二式，所以 $\\Delta H_2 = \\Delta H_1 + \\Delta H_3$。\n• (C) 正確：第一式是由成分元素生成 4 莫耳 $\\text{NH}_3$。\n• (D) 錯誤：第二式同時生成 $4\\text{NO}_2$ 與 $6\\text{H}_2\\text{O}$，$\\Delta H_2 = 4\\Delta H_f(\\text{NO}_2) + 6\\Delta H_f(\\text{H}_2\\text{O})$。\n• (E) 正確：$\\Delta H = \\sum\\Delta H_f(\\text{產物}) - \\sum\\Delta H_f(\\text{反應物})$，$\\text{O}_2$ 的生成熱為 0。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "113-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "某未知結構的有機化合物甲，其分子式為 $\\text{C}_4\\text{H}_8\\text{O}_2$。下列有關甲的敘述，哪些正確？",
+    "options": [
+      "若甲為羧酸，則甲可能為 2-甲基丙酸",
+      "若甲為二醇類，則可能有順反異構物",
+      "若甲為酯類，則甲可能為乙酸丙酯",
+      "若甲含有環結構，則甲可能有四員環結構",
+      "若甲含有羥基，則甲不可能同時含有羰基（C=O）"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "$\\text{C}_4\\text{H}_8\\text{O}_2$ 的不飽和度 $= \\dfrac{2\\times4 + 2 - 8}{2} = 1$（一個雙鍵或一個環）。\n• (A) 正確：2-甲基丙酸 $(\\text{CH}_3)_2\\text{CHCOOH}$ 即為 $\\text{C}_4\\text{H}_8\\text{O}_2$。\n• (B) 正確：例如 2-丁烯-1,4-二醇 $\\text{HOCH}_2\\text{CH}=\\text{CHCH}_2\\text{OH}$，有順反異構物。\n• (C) 錯誤：乙酸丙酯 $\\text{CH}_3\\text{COOC}_3\\text{H}_7$ 為 $\\text{C}_5\\text{H}_{10}\\text{O}_2$。\n• (D) 正確：例如 1,2-環丁二醇，含四員環。\n• (E) 錯誤：例如 3-羥基-2-丁酮 $\\text{CH}_3\\text{COCH(OH)CH}_3$ 同時含羥基與羰基。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "113-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "圖 1 為一種細菌的氫化酶活性中心的結構，除含有一般配位基外，另以 4 個半胱胺酸的硫與金屬離子配位。圖 2 為半胱胺酸的結構。下列關於圖 1 與圖 2 內容的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-11.png\" alt=\"圖1 氫化酶活性中心：Fe 接兩個 C≡N、一個 C≡O 與兩個橋接 S，Ni 接四個 S；圖2 半胱胺酸結構\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "鎳離子的配位數為 4",
+      "鐵離子的配位數為 6",
+      "在鐵離子上有兩個配位基為 $\\text{CN}^-$",
+      "半胱胺酸具有醯胺鍵，為一種蛋白質",
+      "半胱胺酸的硫原子有多對孤對電子，可以同時配位在兩金屬上"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "• (A) 正確：Ni 與 4 個 S 相接，配位數 4。\n• (B) 錯誤：Fe 接 2 個 $\\text{CN}^-$、1 個 CO 及 2 個 S，配位數為 5。\n• (C) 正確：圖中 Fe 上有兩個 $\\text{N}\\equiv\\text{C}-$ 配位基。\n• (D) 錯誤：半胱胺酸是胺基酸（$\\text{H}_2\\text{NCH(CH}_2\\text{SH)COOH}$），本身沒有醯胺鍵，也不是蛋白質。\n• (E) 正確：硫有 2 對孤對電子，圖中兩個 S 同時橋接 Fe 與 Ni。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "113-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在 $25^\\circ\\text{C}$ 下，將 1.0 M 的醋酸稀釋至 0.1 M，則下列哪些數值會增加？（$\\text{CH}_3\\text{COOH}$ 的解離常數為 $K_a$）",
+    "options": [
+      "pH",
+      "$[\\text{OH}^-]$",
+      "$[\\text{CH}_3\\text{COO}^-]$",
+      "$K_a$",
+      "$\\dfrac{[\\text{CH}_3\\text{COO}^-]}{[\\text{CH}_3\\text{COOH}]}$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "$[\\text{H}^+] \\approx \\sqrt{K_aC}$：濃度變為 $\\tfrac1{10}$，$[\\text{H}^+]$ 約變為 $\\tfrac{1}{\\sqrt{10}}$。\n• (A) 增加：$[\\text{H}^+]$ 變小，pH 上升。\n• (B) 增加：$[\\text{OH}^-] = \\dfrac{K_w}{[\\text{H}^+]}$ 變大。\n• (C) 減少：$[\\text{CH}_3\\text{COO}^-] \\approx [\\text{H}^+]$，變小。\n• (D) 不變：溫度不變，$K_a$ 不變。\n• (E) 增加：$\\dfrac{[\\text{CH}_3\\text{COO}^-]}{[\\text{CH}_3\\text{COOH}]} = \\dfrac{K_a}{[\\text{H}^+]}$，$[\\text{H}^+]$ 變小則比值變大（稀釋使解離度增加）。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "113-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "若將 $\\text{N}_2$、$\\text{F}_2$ 及 $\\text{NF}_3$ 裝入一 0.656 升的密閉容器中，再藉由加熱使其進行下列反應：\n$$\\text{N}_2\\text{(g)} + \\text{F}_2\\text{(g)} \\rightleftharpoons \\text{NF}_3\\text{(g)}\\quad\\text{（反應式未平衡）}$$\n已知在 $527^\\circ\\text{C}$ 反應達平衡時，容器內各氣體的分壓分別為 $P_{\\text{N}_2} = 0.040\\text{ atm}$，$P_{\\text{F}_2} = 0.060\\text{ atm}$，$P_{\\text{NF}_3} = 0.700\\text{ atm}$。若三者皆符合理想氣體性質，則下列相關敘述，哪些正確？（$\\dfrac{7^2}{4\\times6^3} = 5.67\\times10^{-2}$）",
+    "options": [
+      "平衡反應式之最簡整係數總和為 6",
+      "密閉容器內的氣體總壓力為 0.80 atm",
+      "密閉容器內 $\\text{N}_2$ 的莫耳數為 $6.1\\times10^{-4}$ 莫耳",
+      "此反應 $K_p$ 的數值為 $5.67\\times10^2$",
+      "此反應 $K_c$ 的數值大於 $K_p$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "• (A) 正確：$\\text{N}_2 + 3\\text{F}_2 \\rightleftharpoons 2\\text{NF}_3$，係數和 $1 + 3 + 2 = 6$。\n• (B) 正確：$0.040 + 0.060 + 0.700 = 0.800\\text{ atm}$。\n• (C) 錯誤：$n = \\dfrac{PV}{RT} = \\dfrac{0.040\\times0.656}{0.082\\times800} = 4.0\\times10^{-4}\\text{ mol}$。\n• (D) 錯誤：$K_p = \\dfrac{0.700^2}{0.040\\times0.060^3} = \\dfrac{7^2}{4\\times6^3}\\times10^6 = 5.67\\times10^4$。\n• (E) 正確：$K_p = K_c(RT)^{\\Delta n}$，$\\Delta n = 2 - 4 = -2$，$K_c = K_p(RT)^2$，$RT = 65.6 > 1$，所以 $K_c > K_p$。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "113-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "實驗室中有甲、乙、丙、丁、戊五瓶試藥，已知可能是葡萄糖、乙醇、乙醛、丙酮、正己烷。李同學想利用高中化學所學，來區分此五種試藥，並在黃老師的指導下，設計下列實驗流程（圖 3）。根據此流程，則下列哪些敘述正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-14.png\" alt=\"圖3 流程：加水不溶為甲；可溶者加多侖試劑，產生銀鏡的乙、丙滴在玻璃片上靜置，體積減少為乙、不變為丙；無銀鏡的丁、戊加 KMnO₄/H⁺，褪色為丁、不褪色為戊\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲為正己烷",
+      "乙為乙醛",
+      "丙為丙酮",
+      "丁為乙醇",
+      "戊為葡萄糖"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "• 不溶於水：正己烷 → 甲。\n• 可與多侖試劑產生銀鏡：乙醛與葡萄糖（醛糖）。其中乙醛沸點約 $20^\\circ\\text{C}$，滴在玻璃片上會揮發使體積減少 → 乙為乙醛；葡萄糖不揮發 → 丙為葡萄糖。\n• 無銀鏡的乙醇與丙酮：乙醇（一級醇）可被酸性 $\\text{KMnO}_4$ 氧化使其褪色 → 丁為乙醇；丙酮不被氧化 → 戊為丙酮。\n因此 (A)(B)(D) 正確，(C)(E) 錯誤。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "113-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "紫杉醇為一種用來治療多種癌症的藥物，結構如圖 4 所示。下列有關紫杉醇的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-15.png\" alt=\"圖4 紫杉醇結構\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此分子含有分子內氫鍵",
+      "分子內含有 1 個醚的基團",
+      "分子內含有 5 個 C=O 雙鍵",
+      "此分子為一平面分子",
+      "會與二鉻酸鉀溶液發生氧化還原反應"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "• (A) 正確：分子中有多個 –OH、N–H 與 C=O 彼此靠近，可形成分子內氫鍵。\n• (B) 正確：右下方的四員氧環（環氧丁烷）是唯一的醚基；其餘含 O 的連接都是酯基。\n• (C) 錯誤：C=O 有醯胺 1 個、側鏈酯 1 個、兩個乙醯氧基各 1 個、苯甲醯氧基 1 個、環上酮 1 個，共 6 個。\n• (D) 錯誤：含大量 $sp^3$ 碳的多環結構，不可能是平面分子。\n• (E) 正確：分子含二級醇羥基，可被酸性二鉻酸鉀氧化。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "113-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "華生為探究銅的性質，在老師的指導下進行以下實驗：\n實驗一：取適量銅粉置入裝有 0.1 M 棕黃色 $\\text{FeCl}_3$ 溶液的試管中，充分反應後，溶液變成藍色，表示有 $\\text{Cu}^{2+}$ 的產生。2 天後溶液顏色變成淺藍，同時有白色沉澱生成，檢驗後得知白色沉澱是 CuCl。\n實驗二：取實驗一的澄清淺藍色溶液置入於一試管中，取 0.10 M 的 KSCN 溶液滴入該試管中，溶液瞬間變成紅色，同時出現白色沉澱。搖盪試管，紅色逐漸褪去，白色沉澱增加。檢驗後得知白色沉澱是 CuSCN。\n實驗三：滴 0.10 M 的 KSCN 溶液於裝有 2 mL 的 0.1 M $\\text{CuSO}_4$ 溶液的試管中，無白色沉澱產生。\n已知 CuCl 和 CuSCN 均為難溶於水的白色固體。下列關於以上三個實驗結果的推論，哪些正確？",
+    "options": [
+      "實驗一產生藍色溶液的反應：$\\text{Cu} + 2\\text{Fe}^{3+} \\to \\text{Cu}^{2+} + 2\\text{Fe}^{2+}$",
+      "實驗一溶液由藍色變淺藍與 CuCl 沉澱，溶液中進行的反應：$\\text{Cu} + \\text{Cu}^{2+} + 2\\text{Cl}^- \\to 2\\text{CuCl}$",
+      "實驗二的紅色溶液是因 $\\text{Fe}^{2+}$ 與 $\\text{SCN}^-$ 反應，產生 $[\\text{Fe(SCN)}]^+$ 所致",
+      "實驗二紅色逐漸褪去的原因是 $\\text{Fe}^{3+}$ 被完全消耗了",
+      "由實驗三的結果可推論，實驗二的白色沉澱不是由 $\\text{Cu}^{2+}$ 與 $\\text{SCN}^-$ 反應所產生"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "• (A) 正確：$\\text{Fe}^{3+}$ 氧化銅成 $\\text{Cu}^{2+}$（藍色），本身還原為 $\\text{Fe}^{2+}$。\n• (B) 正確：剩餘的銅粉與 $\\text{Cu}^{2+}$ 在 $\\text{Cl}^-$ 存在下反應生成難溶的 CuCl，$\\text{Cu}^{2+}$ 減少使藍色變淡。\n• (C) 錯誤：血紅色是 $\\text{Fe}^{3+}$ 與 $\\text{SCN}^-$ 生成的 $[\\text{Fe(SCN)}]^{2+}$；$\\text{Fe}^{2+}$ 不會呈紅色。\n• (D) 錯誤：溶液中 $\\text{Fe}^{2+}$ 把 $\\text{Cu}^{2+}$ 還原成 $\\text{Cu}^+$ 並與 $\\text{SCN}^-$ 生成 CuSCN 沉澱，同時產生 $\\text{Fe}^{3+}$，$\\text{Fe}^{3+}$ 並未被消耗；紅色褪去是因為 $\\text{SCN}^-$ 不斷被沉澱用掉，使 $[\\text{Fe(SCN)}]^{2+}$ 解離。\n• (E) 正確：實驗三中只有 $\\text{Cu}^{2+}$ 與 $\\text{SCN}^-$，卻沒有沉澱，可見 CuSCN 需要先有還原劑把 $\\text{Cu}^{2+}$ 還原為 $\\text{Cu}^+$。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "113-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "乙醇在高溫（＞500 K）下，於氧化鋁的表面上會進行以下的反應：\n$$\\text{C}_2\\text{H}_5\\text{OH(g)} \\to \\text{C}_2\\text{H}_4\\text{(g)} + \\text{H}_2\\text{O(g)}$$\n若於一密閉容器中進行此反應，在不同的時間所量得容器內的氣體總壓力如圖 5 所示。下列哪些敘述正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-17.png\" alt=\"圖5 氣體總壓力（mmHg）對時間：0 秒 480、20 秒 510、40 秒 540、60 秒 570、80 秒 600、100 秒 630\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此為一級反應",
+      "乙醇的量減少至原來的一半時，需時 160 秒",
+      "此反應的速率常數為 15 mmHg/秒",
+      "第 40 秒時，$\\text{C}_2\\text{H}_4$ 的生成速率為 1.5 mmHg/秒",
+      "反應時間為 50 秒時，乙醇的分壓為 405 mmHg"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "【1 莫耳氣體變 2 莫耳：總壓增加量 = 乙醇消耗的分壓】\n總壓每 20 秒增加 30 mmHg，為直線，表示速率固定：$1.5\\text{ mmHg/s}$，乙醇分壓 $P = 480 - 1.5t$。\n• (A) 錯誤：速率不隨濃度改變，為零級反應。\n• (B) 正確：乙醇減少 240 mmHg 需 $\\dfrac{240}{1.5} = 160$ 秒。\n• (C) 錯誤：零級反應速率常數 $k = 1.5\\text{ mmHg/s}$。\n• (D) 正確：$\\text{C}_2\\text{H}_4$ 生成速率等於乙醇消耗速率 1.5 mmHg/s。\n• (E) 正確：$480 - 1.5\\times50 = 405\\text{ mmHg}$。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "113-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "造成臭氧層破壞的可能化學反應，主要來自下列兩個步驟：\n步驟一：$\\text{O}_3 + \\text{Cl} \\to \\text{O}_2 + \\text{ClO}$（慢）\n步驟二：$\\text{ClO} + \\text{O} \\to \\text{Cl} + \\text{O}_2$（快）\n若此反應的速率定律可表示為 $r = k[\\text{O}_3][\\text{Cl}]$，則下列有關臭氧分解的相關敘述，哪些正確？",
+    "options": [
+      "Cl 是反應的催化劑",
+      "ClO 是反應的中間產物",
+      "$\\text{O}_2$ 是反應的中間產物",
+      "反應的速率決定於步驟一",
+      "反應的速率決定於步驟二"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "兩步驟相加得總反應 $\\text{O}_3 + \\text{O} \\to 2\\text{O}_2$。\n• (A) 正確：Cl 先被消耗、後再生成，總反應中不出現，是催化劑。\n• (B) 正確：ClO 先生成、後被消耗，是中間產物。\n• (C) 錯誤：$\\text{O}_2$ 是最終產物。\n• (D) 正確、(E) 錯誤：慢步驟為速率決定步驟，速率定律 $r = k[\\text{O}_3][\\text{Cl}]$ 也正好對應步驟一。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "113-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列有關化合物甲、乙、丙及丁的敘述，哪些正確？\n甲：$\\text{CH}_3\\text{CH}_2\\text{OH}$（分子量 46.07）；乙：HCOOH（分子量 46.07）；丙：$\\text{CH}_3\\text{CH}_2\\text{CH}_3$（分子量 44.10）；丁：$\\text{CH}_3\\text{CH}_2\\text{NH}_2$（分子量 45.09）",
+    "options": [
+      "四種化合物中，甲與水可形成最多的分子間氫鍵",
+      "乙的沸點最高",
+      "常溫、常壓下丙的蒸氣壓最高",
+      "僅乙溶於水呈酸性，其餘三個化合物溶於水呈中性",
+      "甲與乙兩化合物於少量濃硫酸的條件下反應，會生成具有香味的產物"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "• (A) 錯誤：甲酸有 C=O 與 O–H 兩個含氧基團，可與水形成的氫鍵比乙醇多。\n• (B) 正確：甲酸分子間氫鍵最強（可形成雙分子締合），沸點約 $101^\\circ\\text{C}$，最高。\n• (C) 正確：丙烷為非極性，只有分散力，最易揮發，蒸氣壓最高。\n• (D) 錯誤：乙胺溶於水呈鹼性。\n• (E) 正確：乙醇與甲酸酯化生成甲酸乙酯，有香味。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "113-ast-chem-non-20",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 20-21 題為題組】「鈣迴路」捕獲二氧化碳（$\\text{CO}_2$）是一種燃燒後處理技術。其原理是利用石灰（CaO）在高溫（＞$600^\\circ\\text{C}$）下吸收二氧化碳並形成灰石（$\\text{CaCO}_3$），灰石在高溫煅燒爐中可再生成石灰及高純度的二氧化碳。捕獲二氧化碳的石灰常經由煅燒灰石製備，石灰也可經由煅燒草酸鈣石（$\\text{CaC}_2\\text{O}_4\\cdot\\text{H}_2\\text{O}$）而得；經由後者方法製備而得的石灰更加疏鬆多孔，表面積大，捕獲二氧化碳效率更高。\n某生以熱重量分析儀研究 3.65 毫克草酸鈣石受熱過程中固體質量隨溫度變化的情況，如圖 6 所示。橫坐標為溫度變化，其縱座標為殘留固體在當時溫度下的質量與起始固體質量的比值。\n20. 在 360–$480^\\circ\\text{C}$ 範圍內進行的化學反應為何？以最簡整係數的反應式表示。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-20.png\" alt=\"圖6 草酸鈣石熱重分析：殘留固體質量比由 146/146 依序降到 128/146（約 150 °C）、100/146（約 420 °C）、56/146（約 600 °C）\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{CaC}_2\\text{O}_4\\text{(s)} \\to \\text{CaCO}_3\\text{(s)} + \\text{CO(g)}$"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "【解讀圖 6】$\\text{CaC}_2\\text{O}_4\\cdot\\text{H}_2\\text{O}$ 式量 146：\n• 146 → 128（約 $150^\\circ\\text{C}$）：失去 18，為結晶水 → $\\text{CaC}_2\\text{O}_4$（128）\n• 128 → 100（約 $420^\\circ\\text{C}$）：失去 28，為 CO → $\\text{CaCO}_3$（100）\n• 100 → 56（約 $600^\\circ\\text{C}$）：失去 44，為 $\\text{CO}_2$ → CaO（56）\n\n360–$480^\\circ\\text{C}$ 是 128 → 100 這一段，質量減少 28，放出 CO：\n$$\\text{CaC}_2\\text{O}_4\\text{(s)} \\to \\text{CaCO}_3\\text{(s)} + \\text{CO(g)}$$"
+  },
+  {
+    "id": "113-ast-chem-non-21",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 20-21 題為題組】「鈣迴路」捕獲二氧化碳（$\\text{CO}_2$）是一種燃燒後處理技術。其原理是利用石灰（CaO）在高溫（＞$600^\\circ\\text{C}$）下吸收二氧化碳並形成灰石（$\\text{CaCO}_3$），灰石在高溫煅燒爐中可再生成石灰及高純度的二氧化碳。捕獲二氧化碳的石灰常經由煅燒灰石製備，石灰也可經由煅燒草酸鈣石（$\\text{CaC}_2\\text{O}_4\\cdot\\text{H}_2\\text{O}$）而得；經由後者方法製備而得的石灰更加疏鬆多孔，表面積大，捕獲二氧化碳效率更高。\n某生以熱重量分析儀研究 3.65 毫克草酸鈣石受熱過程中固體質量隨溫度變化的情況，如圖 6 所示。橫坐標為溫度變化，其縱座標為殘留固體在當時溫度下的質量與起始固體質量的比值。\n21. 煅燒草酸鈣石產生的石灰較煅燒灰石產生的石灰疏鬆多孔，李同學推論其原因為：煅燒等莫耳數的草酸鈣石與灰石，草酸鈣石所產生較多氣體所致，以相關化學反應式說明李同學的推論。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-20.png\" alt=\"圖6 草酸鈣石熱重分析：殘留固體質量比由 146/146 依序降到 128/146（約 150 °C）、100/146（約 420 °C）、56/146（約 600 °C）\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "灰石：$\\text{CaCO}_3\\text{(s)} \\to \\text{CaO(s)} + \\text{CO}_2\\text{(g)}$（1 莫耳氣體）；草酸鈣石：$\\text{CaC}_2\\text{O}_4\\cdot\\text{H}_2\\text{O(s)} \\to \\text{CaO(s)} + \\text{H}_2\\text{O(g)} + \\text{CO(g)} + \\text{CO}_2\\text{(g)}$（3 莫耳氣體），後者放出較多氣體"
+    ],
+    "blankLabels": [
+      "反應式與說明"
+    ],
+    "explanation": "【解讀圖 6】$\\text{CaC}_2\\text{O}_4\\cdot\\text{H}_2\\text{O}$ 式量 146：\n• 146 → 128（約 $150^\\circ\\text{C}$）：失去 18，為結晶水 → $\\text{CaC}_2\\text{O}_4$（128）\n• 128 → 100（約 $420^\\circ\\text{C}$）：失去 28，為 CO → $\\text{CaCO}_3$（100）\n• 100 → 56（約 $600^\\circ\\text{C}$）：失去 44，為 $\\text{CO}_2$ → CaO（56）\n\n• 煅燒灰石：$\\text{CaCO}_3\\text{(s)} \\to \\text{CO}_2\\text{(g)} + \\text{CaO(s)}$，每莫耳放出 1 莫耳氣體。\n• 煅燒草酸鈣石：$\\text{CaC}_2\\text{O}_4\\cdot\\text{H}_2\\text{O(s)} \\to \\text{H}_2\\text{O(g)} + \\text{CO(g)} + \\text{CO}_2\\text{(g)} + \\text{CaO(s)}$，每莫耳放出 3 莫耳氣體。\n生成同樣 1 莫耳 CaO，草酸鈣石放出的氣體較多，氣體逸出時在固體中留下較多孔洞，所以石灰較疏鬆多孔。"
+  },
+  {
+    "id": "113-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 22-24 題為題組】生質柴油是具有發展性可替代石油的永續能源之一，可直接或混合石化柴油作為燃料。生質柴油是脂肪酸單烷基酯，可利用廢食用油脂，經由酯交換反應得到，如式 (1) 所示。酯交換反應可經由鹼或酵素催化進行，其中鹼催化反應的反應速率快，且催化劑用量較少，成本低廉，常用於製備生質柴油。\n小華依據化學反應式 (2)，在實驗室中製備生質柴油；取 0.12 克氫氧化鉀溶於 3 毫升甲醇（約為 0.074 莫耳）後放入試管中，再加入 12 毫升的廢食用油（約為 0.012 莫耳），充分混合並加熱使反應完全。\n22. 石化柴油的主要成分為含 15 到 20 個碳原子的鏈狀烷類、環狀烷類或芳香烴類。下列關於上述生質柴油的敘述，哪些正確？（多選）（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-22-1.png\" alt=\"式(1) 酯交換反應\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-22-2.png\" alt=\"式(2) 廢食用油（三酸甘油酯）與 3 CH₃OH 在 KOH 催化下生成三分子脂肪酸甲酯（生質柴油）與甘油\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "生質柴油屬於鏈狀烷類",
+      "式（2）中，甲醇為催化劑",
+      "生質柴油是具有酸性的有機化合物",
+      "每莫耳生質柴油的氧原子含量高於石化柴油",
+      "具有不飽和碳-碳雙鍵的生質柴油，可進行氫化反應"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "• (A) 錯誤：生質柴油是脂肪酸甲酯（含 –COO– 酯基），不是烷類。\n• (B) 錯誤：甲醇是反應物（消耗 3 莫耳），KOH 才是催化劑。\n• (C) 錯誤：酯類沒有可解離的酸性氫，不具酸性。\n• (D) 正確：每個脂肪酸甲酯分子含 2 個 O；石化柴油是烴類，不含氧。\n• (E) 正確：C=C 可與 $\\text{H}_2$ 加成（氫化）。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "113-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 22-24 題為題組】生質柴油是具有發展性可替代石油的永續能源之一，可直接或混合石化柴油作為燃料。生質柴油是脂肪酸單烷基酯，可利用廢食用油脂，經由酯交換反應得到，如式 (1) 所示。酯交換反應可經由鹼或酵素催化進行，其中鹼催化反應的反應速率快，且催化劑用量較少，成本低廉，常用於製備生質柴油。\n小華依據化學反應式 (2)，在實驗室中製備生質柴油；取 0.12 克氫氧化鉀溶於 3 毫升甲醇（約為 0.074 莫耳）後放入試管中，再加入 12 毫升的廢食用油（約為 0.012 莫耳），充分混合並加熱使反應完全。\n23. 小華發現上述反應前後的試管中有不互溶的液體（圖 7），已知相關反應物與產物的密度與分子量列於表 2。下列敘述哪些正確？（多選）（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-23.png\" alt=\"表2 甲醇 0.79、廢食用油 0.92、甘油 1.26、生質柴油 0.88 g/cm³ 及分子量；圖7 反應前後試管中的分層\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "反應前上層為廢食用油",
+      "反應前上層溶液可使紅色石蕊試紙變色",
+      "反應後最下層溶液可使藍色石蕊試紙變色",
+      "反應後無甲醇剩餘",
+      "反應後產生的甘油約 1.10 克"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "• (A) 錯誤：反應前為甲醇（0.79）與廢食用油（0.92），密度較小的甲醇在上層。\n• (B) 正確：KOH 溶於上層甲醇，溶液呈鹼性，可使紅色石蕊試紙變藍。\n• (C) 錯誤：反應後最下層是甘油（1.26），甘油為中性醇類，不會使藍色石蕊試紙變紅。\n• (D) 錯誤：油 0.012 mol 需甲醇 $3\\times0.012 = 0.036$ mol，甲醇有 0.074 mol，剩約 0.038 mol。\n• (E) 正確：生成甘油 0.012 mol，$0.012\\times92 \\approx 1.10$ g。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "113-ast-chem-non-24-1",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 22-24 題為題組】生質柴油是具有發展性可替代石油的永續能源之一，可直接或混合石化柴油作為燃料。生質柴油是脂肪酸單烷基酯，可利用廢食用油脂，經由酯交換反應得到，如式 (1) 所示。酯交換反應可經由鹼或酵素催化進行，其中鹼催化反應的反應速率快，且催化劑用量較少，成本低廉，常用於製備生質柴油。\n小華依據化學反應式 (2)，在實驗室中製備生質柴油；取 0.12 克氫氧化鉀溶於 3 毫升甲醇（約為 0.074 莫耳）後放入試管中，再加入 12 毫升的廢食用油（約為 0.012 莫耳），充分混合並加熱使反應完全。\n24. 反應後試管內的液體，可用下列甲、乙兩實驗器材來分離，回答下列問題：\n（1）寫出甲、乙兩器材的名稱。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-24.png\" alt=\"器材甲（短頸、圓錐形）與器材乙（梨形、下端有活栓）\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "漏斗",
+      "分液漏斗"
+    ],
+    "blankLabels": [
+      "甲",
+      "乙"
+    ],
+    "explanation": "• 甲：一般漏斗，用於過濾或轉移液體。\n• 乙：分液漏斗，下端有活栓，可將不互溶的液層由下而上依序分開。\n\n答：甲為漏斗，乙為分液漏斗。"
+  },
+  {
+    "id": "113-ast-chem-non-24-2",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 22-24 題為題組】生質柴油是具有發展性可替代石油的永續能源之一，可直接或混合石化柴油作為燃料。生質柴油是脂肪酸單烷基酯，可利用廢食用油脂，經由酯交換反應得到，如式 (1) 所示。酯交換反應可經由鹼或酵素催化進行，其中鹼催化反應的反應速率快，且催化劑用量較少，成本低廉，常用於製備生質柴油。\n小華依據化學反應式 (2)，在實驗室中製備生質柴油；取 0.12 克氫氧化鉀溶於 3 毫升甲醇（約為 0.074 莫耳）後放入試管中，再加入 12 毫升的廢食用油（約為 0.012 莫耳），充分混合並加熱使反應完全。\n24. 反應後試管內的液體，可用甲（漏斗）、乙（分液漏斗）兩實驗器材來分離，回答下列問題：\n（2）若將反應後的溶液，置於器材（乙）中，則器材（乙）中的最上層與最下層的物質分別為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-23.png\" alt=\"表2 甲醇 0.79、廢食用油 0.92、甘油 1.26、生質柴油 0.88 g/cm³ 及分子量；圖7 反應前後試管中的分層\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "甲醇",
+      "甘油"
+    ],
+    "acceptedBlanks": [
+      [
+        "CH3OH",
+        "過量的甲醇"
+      ],
+      [
+        "丙三醇",
+        "甘油(丙三醇)"
+      ]
+    ],
+    "blankLabels": [
+      "最上層",
+      "最下層"
+    ],
+    "explanation": "【依密度排序】反應後有剩餘的甲醇（0.79）、生質柴油（0.88）與甘油（1.26）三層：\n• 最上層：密度最小的甲醇（過量剩下約 0.038 mol）\n• 中間：生質柴油\n• 最下層：密度最大的甘油\n\n答：最上層甲醇，最下層甘油。"
+  },
+  {
+    "id": "113-ast-chem-non-25",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "fill",
+    "question": "固體甲（莫耳質量 252 g/mol）為含金屬 X 的橙色離子化合物，1 莫耳甲完全溶解於水時，溶液呈現橙色，且產生 2 莫耳陽離子及 1 莫耳陰離子。將過量氫氧化鈉溶液，加入上述的水溶液中，溶液變為黃色，同時產生刺鼻氣味。\n1 莫耳固體甲，受熱完全分解後，產生 1 莫耳產物乙（莫耳質量 152 g/mol）、1 莫耳氣體產物丙（莫耳質量 28 g/mol）及氣體產物丁（莫耳質量 18 g/mol）。剛反應完成瞬間，產物丁的體積為產物丙的 4 倍。其中，產物乙為化學式 $\\text{X}_2\\text{O}_3$ 的綠色固體；產物丙為無色雙原子氣體，為空氣中含量最多的氣體，且可與鎂帶進行反應；產物丁生成時為氣態，但在常溫常壓下為無色液體、可使白色硫酸銅固體變為藍色。\n根據上述，寫出固體甲、產物乙、產物丙及產物丁的化學式。（4 分）",
+    "points": 4,
+    "blanks": [
+      "(NH4)2Cr2O7",
+      "Cr2O3",
+      "N2",
+      "H2O"
+    ],
+    "acceptedBlanks": [
+      [
+        "(NH₄)₂Cr₂O₇"
+      ],
+      [
+        "Cr₂O₃"
+      ],
+      [
+        "N₂"
+      ],
+      [
+        "H₂O"
+      ]
+    ],
+    "blankLabels": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "explanation": "【逐一推理】\n• 丙：空氣中最多、可與鎂反應（生成 $\\text{Mg}_3\\text{N}_2$）的雙原子氣體，莫耳質量 28 → $\\text{N}_2$。\n• 丁：常溫為液體、使無水硫酸銅變藍，莫耳質量 18 → $\\text{H}_2\\text{O}$（4 莫耳）。\n• 乙：綠色 $\\text{X}_2\\text{O}_3$，莫耳質量 152：$2X + 48 = 152$，$X = 52$ → Cr，乙為 $\\text{Cr}_2\\text{O}_3$。\n• 甲：橙色、溶解得 2 個陽離子與 1 個陰離子（$\\text{Cr}_2\\text{O}_7^{2-}$ 為橙色），加鹼放出刺鼻的 $\\text{NH}_3$ 且溶液變黃（$\\text{Cr}_2\\text{O}_7^{2-} \\to \\text{CrO}_4^{2-}$）→ $(\\text{NH}_4)_2\\text{Cr}_2\\text{O}_7$，式量 $2\\times18 + 2\\times52 + 7\\times16 = 252$ ✓\n$$(\\text{NH}_4)_2\\text{Cr}_2\\text{O}_7 \\to \\text{Cr}_2\\text{O}_3 + \\text{N}_2 + 4\\text{H}_2\\text{O}$$\n\n答：甲 $(\\text{NH}_4)_2\\text{Cr}_2\\text{O}_7$、乙 $\\text{Cr}_2\\text{O}_3$、丙 $\\text{N}_2$、丁 $\\text{H}_2\\text{O}$"
+  },
+  {
+    "id": "113-ast-chem-non-26",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 26-27 題為題組】他氟前列素（$\\text{C}_{25}\\text{H}_{34}\\text{F}_2\\text{O}_5$）為一種可以用來控制青光眼緩解高眼壓的藥物。式 (3) 為合成他氟前列腺素的一個重要步驟，在強鹼 NaH 作用下，化合物甲與化合物乙反應可生成化合物丙。將多侖試劑加入含有化合物乙的試管中，可於試管壁形成金屬光澤的薄膜。\n26. 畫出化合物乙中取代基 R 的結構。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-26.png\" alt=\"式(3) 化合物甲（膦酸酯）與化合物乙（含取代基 R）在 NaH 作用下生成化合物丙（含 C=C–C=O）\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "醛基 $-\\text{CHO}$（$-\\text{C}(=\\text{O})-\\text{H}$）"
+    ],
+    "blankLabels": [
+      "R 的結構"
+    ],
+    "explanation": "【兩個線索】\n• 化合物乙能使多侖試劑產生銀鏡，表示含有醛基。\n• 比較乙與丙：原本的 R 位置變成 $-\\text{CH}=\\text{CH}-\\text{C}(=\\text{O})-\\text{CH}_2\\text{OPh}$。甲的 $\\text{P}-\\text{CH}_2-\\text{C}(=\\text{O})$ 中的 $\\text{CH}_2$ 在強鹼作用下與 R 的 $\\text{C}=\\text{O}$ 結合成 $\\text{C}=\\text{C}$，所以 R 為 $-\\text{CHO}$。\n\n答：$\\text{R} = -\\text{CHO}$（醛基）"
+  },
+  {
+    "id": "113-ast-chem-non-27",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 26-27 題為題組】他氟前列素（$\\text{C}_{25}\\text{H}_{34}\\text{F}_2\\text{O}_5$）為一種可以用來控制青光眼緩解高眼壓的藥物。式 (3) 為合成他氟前列腺素的一個重要步驟，在強鹼 NaH 作用下，化合物甲與化合物乙反應可生成化合物丙。將多侖試劑加入含有化合物乙的試管中，可於試管壁形成金屬光澤的薄膜。\n27. 化合物乙在酸性條件下，完全水解後，可得到產物丁與戊。其中，產物丁具有共振結構，且產物丁的鈉鹽可作為防腐劑。畫出產物丁的化學結構。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-chem-26.png\" alt=\"式(3) 化合物甲（膦酸酯）與化合物乙（含取代基 R）在 NaH 作用下生成化合物丙（含 C=C–C=O）\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "苯甲酸"
+    ],
+    "acceptedBlanks": [
+      [
+        "C6H5COOH",
+        "PhCOOH",
+        "C₆H₅COOH",
+        "安息香酸"
+      ]
+    ],
+    "blankLabels": [
+      "產物丁"
+    ],
+    "explanation": "【酯的酸性水解】\n化合物乙有兩個酯基：五員內酯環與苯甲酸酯（$-\\text{O}-\\text{C}(=\\text{O})-\\text{C}_6\\text{H}_5$）。完全水解後，苯甲酸酯斷開得到苯甲酸 $\\text{C}_6\\text{H}_5\\text{COOH}$；苯環具有共振結構，苯甲酸鈉是常見的食品防腐劑。\n（另一產物戊為內酯開環後的多羥基羧酸。）\n\n答：丁為苯甲酸 $\\text{C}_6\\text{H}_5\\text{COOH}$（苯環接一個 $-\\text{COOH}$）。"
   }
 ]
