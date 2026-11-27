@@ -5416,5 +5416,657 @@
       "試劑"
     ],
     "explanation": "【芳香族硝化】\n以濃硝酸與濃硫酸的混合酸為試劑；濃硫酸使硝酸產生硝醯離子 $\\text{NO}_2^+$，再與芳香環進行親電子取代。\n\n答：濃 $\\text{HNO}_3$ 與濃 $\\text{H}_2\\text{SO}_4$"
+  },
+  {
+    "id": "108-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "鈉是人體中重要的電解質之一，其攝取量對健康影響很大。專家建議成年人每日鈉的攝取量，應以 2400 毫克為限。味精是一種麩胺酸的鈉鹽（$\\text{C}_5\\text{H}_8\\text{NO}_4\\text{Na}$，莫耳質量為 169 g/mol），是麩胺酸的一個鈉鹽。食用 1.0 克味精，鈉含量相當於攝取食鹽約多少克？（NaCl 式量 58.5）",
+    "options": [
+      "0.35",
+      "0.45",
+      "0.55",
+      "0.65",
+      "0.75"
+    ],
+    "answerIndex": 0,
+    "explanation": "【莫耳數換算】\n1.0 g 味精含 Na：$\\dfrac{1.0}{169} \\approx 5.9\\times10^{-3}\\text{ mol}$\n相同莫耳數的 NaCl：$5.9\\times10^{-3} \\times 58.5 \\approx 0.35\\text{ g}$\n\n故選 (A)"
+  },
+  {
+    "id": "108-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "空氣中的顆粒狀飄浮物 PM2.5，顆粒很小不易沉澱，有害人體健康。此外，PM2.5 在空氣中扮演另一個角色，與 $\\text{SO}_2$ 接觸並且將其轉化為 $\\text{SO}_3$，這是造成酸雨的原因之一。在氧氣存在下，$\\text{SO}_2$ 氧化為 $\\text{SO}_3$ 的過程，顆粒狀飄浮物扮演什麼角色？",
+    "options": [
+      "催化劑",
+      "還原劑",
+      "吸附劑",
+      "氧化劑",
+      "沉澱劑"
+    ],
+    "answerIndex": 0,
+    "explanation": "【催化劑】\n$2\\text{SO}_2 + \\text{O}_2 \\to 2\\text{SO}_3$ 的氧化劑是氧氣；PM2.5 提供表面加快反應，本身不被消耗，扮演催化劑。\n\n故選 (A)"
+  },
+  {
+    "id": "108-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "正電子放射斷層攝影是先進的癌症診斷技術之一。目前使用的放射性藥劑是含有 $^{18}\\text{F}$ 的氟代去氧葡萄糖，半衰期約為 2 小時。若從加速器製得的藥劑，運送至醫院所需時間為 10 小時，當醫院需要含有 1.0 毫克 $^{18}\\text{F}$ 的氟代去氧葡萄糖的藥劑，則從製造端運送出的藥劑至少需含有 $^{18}\\text{F}$ 的氟代去氧葡萄糖若干毫克？",
+    "options": [
+      "64",
+      "32",
+      "20",
+      "10",
+      "5"
+    ],
+    "answerIndex": 1,
+    "explanation": "【半衰期】\n10 小時是 5 個半衰期，剩下 $\\left(\\dfrac{1}{2}\\right)^5 = \\dfrac{1}{32}$。要剩 1.0 mg，出發時需 $32\\text{ mg}$。\n\n故選 (B)"
+  },
+  {
+    "id": "108-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "於 25°C，分別有 1 克的氫氣、甲烷及二氧化硫三種氣體。下列關於此三種氣體的敘述，哪一項正確？",
+    "options": [
+      "氫氣所含的分子數目最少",
+      "若三種氣體同置於一容器中，則三者的分壓相同",
+      "若三種氣體同置於一容器中，則氫氣的莫耳分率最大",
+      "若三種氣體均為 1 大氣壓，則二氧化硫的氣體體積最大",
+      "若三種氣體分別置於體積相同的三個容器中，則氫氣的密度最小"
+    ],
+    "answerIndex": 2,
+    "explanation": "【等質量氣體的莫耳數】\n$\\text{H}_2$：$\\dfrac{1}{2} = 0.5\\text{ mol}$；$\\text{CH}_4$：$\\dfrac{1}{16} \\approx 0.063\\text{ mol}$；$\\text{SO}_2$：$\\dfrac{1}{64} \\approx 0.016\\text{ mol}$。\n• (A) 錯誤：氫氣分子數最多。\n• (B) 錯誤：分壓與莫耳數成正比，不相同。\n• (C) 正確：氫氣莫耳數最多，莫耳分率最大。\n• (D) 錯誤：同溫同壓下體積與莫耳數成正比，$\\text{SO}_2$ 體積最小。\n• (E) 錯誤：質量相同、體積相同，密度相同。\n\n故選 (C)"
+  },
+  {
+    "id": "108-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "取含有 $\\text{Fe}_2\\text{O}_3$ 雜質的金塊樣品 3.2 克，以適量鹽酸使雜質恰完全作用，釋出的 $\\text{Fe}^{3+}$ 再以鐵還原成 $\\text{Fe}^{2+}$，該溶液中無 $\\text{Fe}^{3+}$ 殘留，其反應如式（1）及式（2）。用去離子水將該溶液稀釋至 100 毫升，取該稀釋液 10 毫升，在標準狀況下通入氯氣 13.44 毫升（視為理想氣體），可將 $\\text{Fe}^{2+}$ 完全氧化，如式（3）所示，該溶液中無 $\\text{Fe}^{2+}$ 殘留。試問金塊樣品中所含 $\\text{Fe}_2\\text{O}_3$ 的重量百分比為多少（%）？（$\\text{Fe}_2\\text{O}_3$ 莫耳質量為 160 g/mol）\n$$\\text{Fe}_2\\text{O}_3(s) + 6\\text{H}^+(aq) \\to 2\\text{Fe}^{3+}(aq) + 3\\text{H}_2\\text{O}(l)\\qquad 式(1)$$\n$$\\text{Fe}(s) + 2\\text{Fe}^{3+}(aq) \\to 3\\text{Fe}^{2+}(aq)\\qquad 式(2)$$\n$$2\\text{Fe}^{2+}(aq) + \\text{Cl}_2(g) \\to 2\\text{Fe}^{3+}(aq) + 2\\text{Cl}^-(aq)\\qquad 式(3)$$",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "answerIndex": 0,
+    "explanation": "【連續反應的計量】\n• $\\text{Cl}_2$：$\\dfrac{13.44}{22400} = 6.0\\times10^{-4}\\text{ mol}$，10 mL 中 $\\text{Fe}^{2+} = 1.2\\times10^{-3}\\text{ mol}$，100 mL 共 $1.2\\times10^{-2}\\text{ mol}$。\n• 設 $\\text{Fe}_2\\text{O}_3$ 為 $x$ mol，生成 $2x$ mol $\\text{Fe}^{3+}$；由式（2），$2x$ mol $\\text{Fe}^{3+}$ 生成 $3x$ mol $\\text{Fe}^{2+}$（含加入的鐵）。\n• $3x = 1.2\\times10^{-2} \\implies x = 4.0\\times10^{-3}\\text{ mol}$，質量 $0.64\\text{ g}$。\n\n$\\dfrac{0.64}{3.2} \\times 100\\% = 20\\%$\n\n故選 (A)"
+  },
+  {
+    "id": "108-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 6-7 題為題組】做完秒錶反應後，為了要同學探究實驗過程中的試劑與其化學反應，張老師又用一個燒杯，演示了一組實驗。簡要過程如下：取一個盛有去離子水 100 毫升的大燒杯，放置於攪拌器上，使燒杯內的水穩定攪拌，然後滴入碘酒，使溶液呈現黃褐色。\n①加入 X 試劑，黃褐色褪去，溶液呈現無色。②加入雙氧水，黃褐色復現。③加入 Y 試劑，黃褐色褪去，溶液呈現無色。④加入鹽酸溶液，黃褐色復現。\n其流程如圖，①②③④為反應過程序號。\n6. 在①的步驟中，加入的試劑 X 是什麼？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-06.png\" alt=\"碘溶液經 +X、+H2O2、+Y、+HCl 的顏色變化流程\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{HCl}$",
+      "$\\text{H}_2\\text{SO}_3$",
+      "$\\text{NaOH}$",
+      "$\\text{H}_2\\text{O}_2$",
+      "$\\text{I}_2$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【碘被還原】\n黃褐色的 $\\text{I}_2$ 要變無色，可被還原成 $\\text{I}^-$。亞硫酸是還原劑：\n$$\\text{I}_2 + \\text{H}_2\\text{SO}_3 + \\text{H}_2\\text{O} \\to 2\\text{I}^- + \\text{SO}_4^{2-} + 4\\text{H}^+$$\n接著加雙氧水，在酸性中把 $\\text{I}^-$ 氧化回 $\\text{I}_2$，黃褐色復現。\n\n故選 (B)"
+  },
+  {
+    "id": "108-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 6-7 題為題組】做完秒錶反應後，為了要同學探究實驗過程中的試劑與其化學反應，張老師又用一個燒杯，演示了一組實驗。簡要過程如下：取一個盛有去離子水 100 毫升的大燒杯，放置於攪拌器上，使燒杯內的水穩定攪拌，然後滴入碘酒，使溶液呈現黃褐色。\n①加入 X 試劑，黃褐色褪去，溶液呈現無色。②加入雙氧水，黃褐色復現。③加入 Y 試劑，黃褐色褪去，溶液呈現無色。④加入鹽酸溶液，黃褐色復現。\n其流程如圖，①②③④為反應過程序號。\n7. 在③的步驟中，加入的試劑 Y 是什麼？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-06.png\" alt=\"碘溶液經 +X、+H2O2、+Y、+HCl 的顏色變化流程\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{HCl}$",
+      "$\\text{H}_2\\text{SO}_3$",
+      "$\\text{NaOH}$",
+      "$\\text{H}_2\\text{O}_2$",
+      "$\\text{I}_2$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【碘在鹼中自身氧化還原】\n加入 NaOH，碘發生自身氧化還原而褪色：\n$$\\text{I}_2 + 2\\text{OH}^- \\to \\text{I}^- + \\text{IO}^- + \\text{H}_2\\text{O}$$\n再加鹽酸，酸性下 $\\text{I}^-$ 與 $\\text{IO}^-$ 反應回到 $\\text{I}_2$（$\\text{I}^- + \\text{IO}^- + 2\\text{H}^+ \\to \\text{I}_2 + \\text{H}_2\\text{O}$），黃褐色復現。\n\n故選 (C)"
+  },
+  {
+    "id": "108-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "林同學以儀器量測某穩定元素，其組成為雙原子分子，測得其分子量僅有 158、160 及 162 三個數值，且對應的分子含量比約為 1 : 2 : 1。下列敘述，哪一項正確？",
+    "options": [
+      "此元素有三種同位素，其對應原子量為 79、80 和 81",
+      "三個分子中，對應分子量為 162 的分子所含質子數最多",
+      "三個分子中，對應分子量為 158 的分子所含電子數最少",
+      "對應原子量 79 的同位素的天然含量約占該元素的一半",
+      "對應原子量 80 的同位素的天然含量約占該元素的四分之一"
+    ],
+    "answerIndex": 3,
+    "explanation": "【同位素組合】\n兩種同位素 79 與 81 組成雙原子分子：79+79 = 158、79+81 = 160、81+81 = 162。若兩者各占一半，機率為 $\\dfrac{1}{4} : \\dfrac{1}{2} : \\dfrac{1}{4} = 1 : 2 : 1$，與數據相符（此元素為溴）。\n• (A)(E) 錯誤：沒有原子量 80 的同位素。\n• (B)(C) 錯誤：同一元素，質子數、電子數都相同，只差中子數。\n• (D) 正確。\n\n故選 (D)"
+  },
+  {
+    "id": "108-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "李同學在實驗室發現兩瓶相同體積的酸性溶液，為了獲知兩瓶溶液的濃度及酸的強度，於是用 0.2 M 的氫氧化鈉溶液分別對兩瓶酸進行滴定。以所加入氫氧化鈉溶液的體積（毫升）為 X 軸，溶液的 pH 值為 Y 軸，得到的滴定曲線如圖 1 所示。下列敘述，哪一項錯誤？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-09.png\" alt=\"圖1 兩瓶酸的滴定曲線\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "兩瓶酸的濃度相近",
+      "圖中甲點附近平緩曲線區是緩衝溶液",
+      "圖中的甲點 pH 值即為此酸的 $\\text{p}K_a$ 值",
+      "實線的滴定曲線是強酸，虛線的滴定曲線是弱酸",
+      "圖中的乙、丙兩點分別代表這兩瓶酸溶液的滴定當量點"
+    ],
+    "answerIndex": 3,
+    "explanation": "【弱酸與強酸的滴定曲線】\n• 實線起始 pH 約 3.5，且在約 25 mL 附近有平緩的緩衝區，當量點 pH 偏鹼，是弱酸；虛線起始 pH 約 1，沒有緩衝區，是強酸。(D) 把兩者說反了，錯誤。\n• (A) 正確：兩者當量點都在約 50 mL，濃度相近。\n• (B)(C) 正確：甲點約在半當量點，$[\\text{HA}] = [\\text{A}^-]$，是緩衝溶液且 $\\text{pH} = \\text{p}K_a$。\n• (E) 正確：乙、丙是曲線陡升的中點，為當量點。\n\n故選 (D)"
+  },
+  {
+    "id": "108-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "有關測定草酸鎂溶度積常數的實驗，下列敘述，哪一項錯誤？",
+    "options": [
+      "飽和草酸鎂溶液中的離子濃度與溶度積關係為 $K_{sp} = [\\text{Mg}^{2+}][\\text{C}_2\\text{O}_4^{2-}]$",
+      "可測定飽和溶液中鎂離子濃度來獲得溶度積常數",
+      "加入過量的草酸鎂固體於水中，可測量溶解前和溶解後的草酸鎂質量來獲得溶度積常數",
+      "飽和草酸鎂溶液中有許多懸浮微粒，可利用離心機使其沉澱，再取上層澄清液進行實驗",
+      "將飽和草酸鎂溶液加熱至 95°C，再用已知濃度的過錳酸鉀溶液趁熱滴定，可獲得溶度積常數"
+    ],
+    "answerIndex": 4,
+    "explanation": "【溶度積的測定】\n• (A) 正確：$\\text{MgC}_2\\text{O}_4 \\rightleftharpoons \\text{Mg}^{2+} + \\text{C}_2\\text{O}_4^{2-}$。\n• (B) 正確：$[\\text{Mg}^{2+}] = [\\text{C}_2\\text{O}_4^{2-}] = s$，$K_{sp} = s^2$。\n• (C) 正確：由溶解掉的質量求溶解度 $s$（原理可行）。\n• (D) 正確：離心去除懸浮粒子，取澄清液分析。\n• (E) 錯誤：過錳酸鉀滴定草酸根一般在約 $60\\sim70^\\circ\\text{C}$ 進行；加熱到 $95^\\circ\\text{C}$ 草酸會分解、過錳酸鉀也易分解，造成誤差。而且溶度積隨溫度改變，題目要的是室溫下的數值。\n\n故選 (E)"
+  },
+  {
+    "id": "108-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 11-12 題為題組】半導體材料（例如 $\\text{TiO}_2$）及催化材料受到太陽光激發後，電子會由基態躍遷至高能量的狀態，促使進行氧化還原反應。所以，藉由太陽光提供能量，在半導體材料及催化材料存在下，可以將水轉變為氫氣與氧氣，稱為光催化水分解，其組成如圖 2 所示。太陽光照射電極乙，激發其電子，然後經外電路傳導至電極甲，進而還原電解液中的氫離子，產生氫氣；同時，電極乙則可將水分子氧化產生氧氣。另外，研究發現，降低半導體材料的粒徑和添加其他催化材料，可有效增加光催化水分解效率。\n11. 下列有關光催化水分解的敘述，哪一項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-11.png\" alt=\"圖2 光催化水分解示意圖\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "X 為 $\\text{H}^+$；P 為 $\\text{H}_2$",
+      "Y 為 $\\text{OH}^-$；Q 為 $\\text{O}_2$",
+      "電子流動方向，由甲電極至乙電極",
+      "光催化水分解效率和催化材料大小及形狀無關",
+      "光催化水分解效率和太陽光的波長及強度無關"
+    ],
+    "answerIndex": 0,
+    "explanation": "【光電化學電池】\n• 電極甲得到電子，把 $\\text{H}^+$ 還原成 $\\text{H}_2$：X 為 $\\text{H}^+$、P 為 $\\text{H}_2$，(A) 正確。\n• 電極乙把水分子氧化成氧氣：Y 為 $\\text{H}_2\\text{O}$（不是 $\\text{OH}^-$），(B) 錯誤。\n• (C) 錯誤：電子由乙經外電路流到甲。\n• (D) 錯誤：文中說降低粒徑可增加效率。\n• (E) 錯誤：光的波長要能激發電子，強度也影響效率。\n\n故選 (A)"
+  },
+  {
+    "id": "108-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 11-12 題為題組】半導體材料（例如 $\\text{TiO}_2$）及催化材料受到太陽光激發後，電子會由基態躍遷至高能量的狀態，促使進行氧化還原反應。所以，藉由太陽光提供能量，在半導體材料及催化材料存在下，可以將水轉變為氫氣與氧氣，稱為光催化水分解，其組成如圖 2 所示。太陽光照射電極乙，激發其電子，然後經外電路傳導至電極甲，進而還原電解液中的氫離子，產生氫氣；同時，電極乙則可將水分子氧化產生氧氣。另外，研究發現，降低半導體材料的粒徑和添加其他催化材料，可有效增加光催化水分解效率。\n12. 光催化水分解所產生的氫氣，可用於燃料電池，產生電能。已知水的氧化電位和還原電位分別為 −0.82 伏特和 −0.41 伏特，下列有關氫燃料電池的敘述，哪一項正確？",
+    "options": [
+      "氫燃料電池的產物為水和二氧化碳",
+      "氫燃料電池可用充電方式，恢復其電力",
+      "電極中添加鉑和鈀可提升電能的產生效率",
+      "氫氣和另一個燃料直接混合，即可產生電能",
+      "單一的氫燃料電池可以提供約 2 伏特的電壓"
+    ],
+    "answerIndex": 2,
+    "explanation": "【氫燃料電池】\n• (A) 錯誤：產物只有水。\n• (B) 錯誤：燃料電池靠持續補充燃料，不是充電。\n• (C) 正確：鉑、鈀為電極催化劑，加快電極反應。\n• (D) 錯誤：兩者直接混合只會燃燒，必須在兩極分開反應才能產生電流。\n• (E) 錯誤：氧氣還原（水氧化的逆反應）$+0.82\\text{ V}$，氫氣氧化（水還原的逆反應）$+0.41\\text{ V}$，電池電壓約 $1.23\\text{ V}$。\n\n故選 (C)"
+  },
+  {
+    "id": "108-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "已知五種電中性的原子，其基態的電子組態如甲～戊所示：\n甲、$1s^2 2s^2 2p^4$　乙、$1s^2 2s^1$　丙、$1s^2 2s^2 2p^2$\n丁、$1s^2 2s^2 2p^6 3s^2 3p^4$　戊、$1s^2 2s^2 2p^6 3s^2 3p^6 3d^{10} 4s^2 4p^3$\n下列有關此五種原子的敘述，哪一項正確？",
+    "options": [
+      "戊原子為過渡金屬",
+      "甲原子的第一游離能小於丁原子的第一游離能",
+      "乙原子的電子組態由 $1s^2 2s^1$ 改變成為 $1s^1 2s^2$ 時，會放出能量",
+      "丙原子 2p 的兩個電子皆是填入 $2p_x$ 軌域中",
+      "某原子的第一及第二游離能差異極大，則此原子最可能為乙"
+    ],
+    "answerIndex": 4,
+    "explanation": "【電子組態】\n甲 O、乙 Li、丙 C、丁 S、戊 As。\n• (A) 錯誤：As 是 15 族主族元素（類金屬）。\n• (B) 錯誤：同族由上而下游離能變小，O > S。\n• (C) 錯誤：1s 電子升到 2s 是激發，要吸收能量。\n• (D) 錯誤：依洪德定則，兩個電子分別填入不同的 2p 軌域。\n• (E) 正確：Li 失去 1 個電子後變成類似 He 的穩定組態，第二游離能極大。\n\n故選 (E)"
+  },
+  {
+    "id": "108-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "銅葉綠素-鈉鹽是一個食用色素，常用於牙膏或口香糖，其化學結構如圖 3 所示。下列敘述，哪一項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-14.png\" alt=\"圖3 銅葉綠素-鈉鹽結構\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "可溶於水，且溶液呈弱酸性",
+      "銅葉綠素-鈉鹽中銅的配位數為 6",
+      "溶於水後，銅離子會和四個水分子形成穩定化合物",
+      "銅葉綠素-鈉鹽溶於水後，生成的錯離子為正二價離子",
+      "每莫耳的銅葉綠素-鈉鹽溶於水後，可產生 3 莫耳的鈉離子"
+    ],
+    "answerIndex": 4,
+    "explanation": "【錯合物鹽類】\n• (A) 錯誤：是弱酸（羧酸）的鈉鹽，水溶液呈弱鹼性。\n• (B) 錯誤：銅與環上 4 個 N 配位，配位數 4。\n• (C) 錯誤：銅被四牙的環狀配位基牢牢錯合，溶於水不會變成水合銅離子。\n• (D) 錯誤：$\\text{Cu}^{2+}$ 與帶 2 個負電荷的環配位基及 3 個 $\\text{COO}^-$，錯離子帶 $-3$ 價。\n• (E) 正確：有 3 個 $-\\text{COONa}$，解離出 3 mol $\\text{Na}^+$。\n\n故選 (E)"
+  },
+  {
+    "id": "108-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "蔡同學為了從混合物中分離出有機化合物己，設計了一個萃取流程圖，如圖 4 所示。下列哪一選項，最有可能是化合物己？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-15.png\" alt=\"圖4 萃取流程與選項 (A)～(E) 的結構\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "(A) 二苯基乙醇（含 －OH）",
+      "(B) 二苯基甲胺（含 －NH₂）",
+      "(C) 二苯醚",
+      "(D) 二苯基乙酸（含 －COOH）",
+      "(E) 二苯基乙醯胺（含 －CONH₂）"
+    ],
+    "answerIndex": 1,
+    "explanation": "【酸鹼萃取】\n• 乙醚層乙含有機物；以稀鹽酸萃取時，鹼性的胺會變成銨鹽溶入水層丙。\n• 水層丙加 NaOH，銨鹽變回中性的胺，再以乙醚萃取進入乙醚層己。\n所以己是能與酸成鹽的胺類，即 (B)。醇、醚、醯胺鹼性不足，羧酸不與鹽酸成鹽，都會留在乙醚層丁。\n\n故選 (B)"
+  },
+  {
+    "id": "108-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "points": 3,
+    "question": "分子的鍵結及構造有極大的差異，也有一些原則可以推測。下列相關的推論及敘述，哪一項正確？",
+    "options": [
+      "臭氧的分子式為 $\\text{O}_3$，為直線形分子，具共振結構",
+      "$\\text{H}_2\\text{O}_2$ 與 $\\text{C}_2\\text{H}_2$，具有相同數目的孤電子對",
+      "下列分子均符合八隅體：$\\text{SO}_2$、$\\text{PH}_3$、$\\text{NO}_2$",
+      "下列分子的鍵角大小依序為：$\\text{CH}_4 > \\text{NH}_3 > \\text{H}_2\\text{O}$",
+      "下列分子均為平面形構造：$\\text{Pt(NH}_3)_2\\text{Cl}_2$、$\\text{Ni(CO)}_4$、$\\text{H}_2\\text{CO}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【分子形狀】\n• (A) 錯誤：$\\text{O}_3$ 為角形（彎曲）。\n• (B) 錯誤：$\\text{H}_2\\text{O}_2$ 有 4 對孤電子對，$\\text{C}_2\\text{H}_2$ 沒有。\n• (C) 錯誤：$\\text{NO}_2$ 共 17 個價電子，N 不能滿足八隅體。\n• (D) 正確：孤電子對越多，對鍵結電子排斥越大：$109.5^\\circ > 107^\\circ > 104.5^\\circ$。\n• (E) 錯誤：$\\text{Ni(CO)}_4$ 為正四面體。\n\n故選 (D)"
+  },
+  {
+    "id": "108-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "某化學反應式為：$\\text{X} + \\text{Y} \\to \\text{P} + \\text{Q}$，化學反應路徑描述如圖 5 所示。已知其反應速率定律式為：$r = \\Delta[\\text{P}]/\\Delta t = k[\\text{X}][\\text{Y}]$。下列有關此反應的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-17.png\" alt=\"圖5 反應位能圖\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此反應為一級反應",
+      "逆向反應的活化能為 a",
+      "此化學反應為吸熱反應，反應熱 $\\Delta H = +b$",
+      "由化學反應式即可推知反應速率定律式為 $k[\\text{X}][\\text{Y}]$",
+      "將反應物 X 與 Y 的初始濃度增為原來的兩倍，則反應速率為原來的四倍"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【位能圖與速率定律】\n• (A) 錯誤：對 X、Y 各為一級，總反應為二級。\n• (B) 錯誤：a 是正反應的活化能；逆反應活化能為 $a - b$。\n• (C) 正確：產物能量比反應物高 b，吸熱，$\\Delta H = +b$。\n• (D) 錯誤：速率定律必須由實驗決定，不能由反應式直接推知。\n• (E) 正確：$r \\propto [\\text{X}][\\text{Y}]$，兩者都加倍，速率變 4 倍。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "108-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "過錳酸鉀是實驗室中常見的試劑，常用於滴定及有機化學反應。下列有關過錳酸鉀的敘述，哪些正確？",
+    "options": [
+      "過錳酸鉀可將烷類化合物氧化成羧酸",
+      "過錳酸鉀水溶液的濃度可直接用硫酸亞鐵來標定",
+      "過錳酸鉀遇光會分解，故應儲存於棕色玻璃瓶中",
+      "未用完的過錳酸鉀溶液，可用硫代硫酸鈉在酸性條件下處理，再倒入廢液桶中",
+      "乙烯是果實天然產生的催熟劑，若在熟成室內置放過錳酸鉀，則可延緩其熟成"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "【過錳酸鉀】\n• (A) 錯誤：烷類很穩定，不被過錳酸鉀氧化。\n• (B) 錯誤：硫酸亞鐵容易被空氣氧化，不適合當一級標準品；一般用草酸鈉標定。\n• (C) 正確：見光分解，要放棕色瓶。\n• (D) 正確：先以還原劑（如硫代硫酸鈉）在酸性下把 $\\text{MnO}_4^-$ 還原，再回收廢液。\n• (E) 正確：過錳酸鉀能氧化乙烯，減少催熟。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "108-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在奈米硫顆粒的合成實驗中，需要配製 A、B 兩溶液，其組成如下：A：1.0 M 硫代硫酸鈉 2 毫升 + 稀釋後的清潔劑 5 滴 + 水 20 毫升；B：2.0 M 鹽酸溶液 2 毫升 + 水 23 毫升。首先，使用雷射筆照射，分別觀察 A、B 溶液是否出現光束；其次，將 A、B 溶液混合後，再觀察是否出現光束。下列有關此實驗的敘述，哪些正確？",
+    "options": [
+      "不論是 A、B 或混合溶液，都可以見到光束線",
+      "奈米硫顆粒的合成原理可以用廷得耳效應來解釋",
+      "合成反應中添加清潔劑，可使奈米硫顆粒分散於水中",
+      "此合成實驗時，會出現刺鼻的氣味，是二氧化硫的味道",
+      "此合成實驗中所得到的兩種含硫產物，兩者的硫具有相同的氧化態"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【硫代硫酸鈉與酸】\n$$\\text{S}_2\\text{O}_3^{2-} + 2\\text{H}^+ \\to \\text{S} + \\text{SO}_2 + \\text{H}_2\\text{O}$$\n• (A) 錯誤：A、B 是真溶液，看不到光束；混合後生成硫的膠體粒子才出現光束。\n• (B) 錯誤：廷得耳效應是用來「觀察」膠體，不是合成的原理。\n• (C) 正確：清潔劑包覆硫顆粒，使其分散不聚集。\n• (D) 正確：生成 $\\text{SO}_2$，有刺鼻味。\n• (E) 錯誤：S 為 0 價，$\\text{SO}_2$ 中 S 為 +4 價。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "108-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "某無色氣體 X 可能是氫氣、甲烷、一氧化碳中的一種或數種的混合物。點燃收集在量筒內的 X 時，聽到爆鳴聲。另外，點燃經由噴嘴放出的氣體 X，並將所產生的氣體 Y 收集後，進行下列兩個實驗：①將 Y 通過白色硫酸銅粉末，會使其變藍；②將 Y 通入澄清的石灰水溶液，結果產生白色沉澱。根據以上敘述，下列對於氣體 X 可能組成的推論，哪些正確？",
+    "options": [
+      "只有氫氣",
+      "只有甲烷",
+      "只有一氧化碳",
+      "只有氫氣與一氧化碳",
+      "含有氫氣、一氧化碳和甲烷"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "【氣體的檢驗】\n• 爆鳴聲：表示含有氫氣。\n• 燃燒產物使無水硫酸銅變藍：有水生成，X 含氫元素（$\\text{H}_2$ 或 $\\text{CH}_4$）。\n• 使石灰水混濁：有 $\\text{CO}_2$ 生成，X 含碳元素（CO 或 $\\text{CH}_4$）。\nX 一定有 $\\text{H}_2$，且要有含碳的氣體。\n• (A) 沒有碳。(B)(C) 沒有氫氣。(D)(E) 都符合。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "108-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "碳化鈣加水後得到氣體甲；將甲與水在適當條件下進行加成反應，可得到乙；乙經還原反應可得到丙；若乙被氧化則可得到丁；丙與丁在酸催化下，會脫水而得到戊。各步驟的反應流程：$\\text{CaC}_2 \\xrightarrow{\\text{H}_2\\text{O}}$ 甲 $\\xrightarrow{\\text{H}_2\\text{O},\\ \\text{H}^+,\\ \\text{Hg}^{2+}}$ 乙；乙 $\\xrightarrow{還原}$ 丙；乙 $\\xrightarrow{氧化}$ 丁；丙 + 丁 $\\xrightarrow{\\text{H}^+}$ 戊。下列對各產物的敘述，哪些正確？",
+    "options": [
+      "甲為乙炔",
+      "乙為乙烯",
+      "丙為乙醛",
+      "丁為乙酸",
+      "戊為乙酸乙酯"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "【乙炔的反應】\n• 甲：$\\text{CaC}_2 + 2\\text{H}_2\\text{O} \\to \\text{C}_2\\text{H}_2 + \\text{Ca(OH)}_2$，乙炔。\n• 乙：乙炔水合（$\\text{Hg}^{2+}$ 催化）得烯醇，再轉成乙醛 $\\text{CH}_3\\text{CHO}$。\n• 丙：乙醛還原得乙醇。丁：乙醛氧化得乙酸。\n• 戊：乙醇與乙酸酯化得乙酸乙酯。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "108-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "戴奧辛是多氯二聯苯戴奧辛化合物的總稱，因戴奧辛脂溶性很高，易累積在脂肪中很難代謝出人體外。其中，2, 3, 7, 8-四氯雙苯戴奧辛（TCDD）的毒性最強，結構如圖 7 所示，是已知的致癌物。下列敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-22.png\" alt=\"圖7 TCDD 結構\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "TCDD 具有幾何異構物",
+      "TCDD 中所有的碳原子皆具有相同的混成軌域",
+      "TCDD 中所有的氧原子皆具有兩對孤對電子",
+      "多氯戴奧辛最多含有十個氯原子",
+      "二氯取代戴奧辛與六氯取代戴奧辛具有相同的異構物數目"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【戴奧辛的結構】\n• (A) 錯誤：分子為平面的稠環結構，沒有可產生順反異構的 C＝C。\n• (B) 正確：所有碳都在苯環上，皆為 $sp^2$。\n• (C) 正確：兩個 O 都是醚氧，各有兩對孤對電子。\n• (D) 錯誤：二苯并戴奧辛（$\\text{C}_{12}\\text{H}_8\\text{O}_2$）只有 8 個 H 可被取代，最多 8 個氯。\n• (E) 正確：8 個位置中選 2 個放 Cl，與選 2 個留 H（其餘 6 個為 Cl）一一對應，異構物數相同。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "108-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "已知在 1 大氣壓，$\\text{CO}_2$ 無沸點，$\\text{CS}_2$ 及 COS 的沸點分別為 $46^\\circ\\text{C}$ 及 $-50^\\circ\\text{C}$。下列相關的敘述，哪些正確？",
+    "options": [
+      "三個分子均為非極性分子",
+      "三個分子均可與水分子形成氫鍵",
+      "三個分子內所有的鍵結均具有偶極矩",
+      "$\\text{CS}_2$ 分子間主要的作用力為偶極－偶極力",
+      "COS 分子間主要的作用力為偶極－偶極力"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【分子極性】\n三者都是直線形。\n• (A) 錯誤：$\\text{CO}_2$、$\\text{CS}_2$ 對稱為非極性；COS 兩端不同（O 與 S），為極性分子。\n• (B) 錯誤：分子中沒有 H－O、H－N、H－F。\n• (C) 正確：C＝O、C＝S 皆為兩種不同原子間的極性共價鍵（大考中心公告答案）。\n• (D) 錯誤：$\\text{CS}_2$ 為非極性，分子間是分散力（沸點較高是因為分子量大、分散力大）。\n• (E) 正確：COS 為極性分子，有偶極－偶極力。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "108-ast-chem-24",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "托里切利水銀氣壓計可以量測大氣壓力，也可以用來量測揮發性液體的蒸氣壓。其方式如圖 8 所示：在固定溫度的情況下，用針筒將液體慢慢地從汞柱下方注入，每次僅注入少量的液體，並且要在注射完後，等待液體蒸發達到平衡。不斷重複此步驟，直到在汞柱表面看到一層薄薄的液體後，即可藉由汞柱下降高度測得此液體在此溫度下的飽和蒸氣壓。已知 25°C 時，水的飽和蒸氣壓為 24 torr，乙醚的飽和蒸氣壓為 545 torr。下列相關的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-24.png\" alt=\"圖8 以汞柱量測蒸氣壓\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "若汞柱表面有液體出現，則注入液體為水時，汞柱下降程度比注入乙醚時大",
+      "若分別注入等莫耳數的水與乙醚，但汞柱表面尚未有液體出現，則後者的汞柱下降程度比較大",
+      "若汞柱表面有液體出現，則注入飽和食鹽水時，汞柱下降程度比注入純水時小",
+      "在 25°C 且有乙醚液體出現時，其汞柱的高度為 545 毫米",
+      "有乙醚液體出現的汞柱，當實驗溫度改為 0°C 時，其汞柱比 25°C 時高"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【飽和蒸氣壓】\n有液體出現時，汞柱下降量等於該液體的飽和蒸氣壓。\n• (A) 錯誤：水 24 torr < 乙醚 545 torr，水下降較少。\n• (B) 錯誤：尚未飽和時全部為氣體，等莫耳數、同溫、體積相近，壓力相同。\n• (C) 正確：食鹽水的蒸氣壓比純水低。\n• (D) 錯誤：汞柱高度為 $760 - 545 = 215\\text{ mm}$。\n• (E) 正確：低溫時乙醚蒸氣壓較小，汞柱較高。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "108-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】乙醇加入固體催化劑，在高溫進行反應，可經由脫水產生乙烯，反應設置如圖 9 所示。\n\n1. 欲收集產生的氣體，最佳的收集方法為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-non-1.png\" alt=\"圖9 乙醇脫水產生乙烯的裝置\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "排水集氣法"
+    ],
+    "blankLabels": [
+      "收集方法"
+    ],
+    "acceptedBlanks": [
+      [
+        "排水法",
+        "排水集氣",
+        "排水取氣法"
+      ]
+    ],
+    "explanation": "【氣體收集】\n乙烯難溶於水，且密度與空氣接近，用排水集氣法收集最純。\n\n答：排水集氣法"
+  },
+  {
+    "id": "108-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】乙醇加入固體催化劑，在高溫進行反應，可經由脫水產生乙烯，反應設置如圖 9 所示。\n\n2. 寫出乙醇脫水產生乙烯的均衡化學反應式。（不需寫出物質狀態）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-non-1.png\" alt=\"圖9 乙醇脫水產生乙烯的裝置\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{C}_2\\text{H}_5\\text{OH} \\to \\text{C}_2\\text{H}_4 + \\text{H}_2\\text{O}$"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "【分子內脫水】\n$$\\text{C}_2\\text{H}_5\\text{OH} \\to \\text{C}_2\\text{H}_4 + \\text{H}_2\\text{O}$$"
+  },
+  {
+    "id": "108-ast-chem-non-1-3",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】乙醇加入固體催化劑，在高溫進行反應，可經由脫水產生乙烯，反應設置如圖 9 所示。\n\n3. 此反應在一大氣壓，25°C 下可收集 0.6 升的氣體，若此氣體與溴完全反應，可使多少克的溴褪色？（$R = 0.082$，Br 原子量 79.9）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-non-1.png\" alt=\"圖9 乙醇脫水產生乙烯的裝置\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "3.93"
+    ],
+    "blankLabels": [
+      "溴的質量（g）"
+    ],
+    "acceptedBlanks": [
+      [
+        "3.9",
+        "3.93g",
+        "3.9g",
+        "3.92"
+      ]
+    ],
+    "explanation": "【理想氣體＋加成反應】\n$$n = \\frac{PV}{RT} = \\frac{1 \\times 0.6}{0.082 \\times 298} \\approx 0.0246\\text{ mol}$$\n$\\text{C}_2\\text{H}_4 + \\text{Br}_2 \\to \\text{C}_2\\text{H}_4\\text{Br}_2$，消耗 $\\text{Br}_2$ 0.0246 mol：\n$$0.0246 \\times 160 \\approx 3.93\\text{ g}$$\n\n答：約 3.93 g"
+  },
+  {
+    "id": "108-ast-chem-non-1-4",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】乙醇加入固體催化劑，在高溫進行反應，可經由脫水產生乙烯，反應設置如圖 9 所示。\n\n4. 寫出乙烯與溴反應的生成物的中文系統命名名稱。（2 分）",
+    "points": 2,
+    "blanks": [
+      "1,2-二溴乙烷"
+    ],
+    "blankLabels": [
+      "名稱"
+    ],
+    "acceptedBlanks": [
+      [
+        "1，2-二溴乙烷",
+        "1、2-二溴乙烷"
+      ]
+    ],
+    "explanation": "【加成產物】\n$\\text{CH}_2=\\text{CH}_2 + \\text{Br}_2 \\to \\text{CH}_2\\text{Br}-\\text{CH}_2\\text{Br}$，命名為 1,2-二溴乙烷。"
+  },
+  {
+    "id": "108-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】石灰是生石灰的俗稱，可以由加熱分解貝殼得到。石灰和水混合的產物是熟石灰，因其會吸收空氣中的二氧化碳，而逐漸硬化，是人類最早使用於建築的材料。五種無機化合物，代號分別為甲、乙、丙、丁、戊，其互相轉化的關係如圖 10 所示。其中甲是不溶於水的固體，高溫分解產生固體乙與氣體丙；乙與液體 X 化合，產生丁；丙與 Y（含鈉化合物）反應，產生戊；甲又是丁與戊反應的產物之一。用化學符號寫出完整且均衡的化學反應式（不需要標示物質的狀態）。\n\n1. 寫出「乙 + X → 丁」的均衡化學反應式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-non-2.png\" alt=\"圖10 甲～戊的轉化關係\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{CaO} + \\text{H}_2\\text{O} \\to \\text{Ca(OH)}_2$"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "【推論物質】\n甲為碳酸鈣（貝殼主成分），$\\text{CaCO}_3 \\to \\text{CaO} + \\text{CO}_2$：乙為生石灰 CaO、丙為 $\\text{CO}_2$。X 為水，丁為熟石灰。\n$$\\text{CaO} + \\text{H}_2\\text{O} \\to \\text{Ca(OH)}_2$$"
+  },
+  {
+    "id": "108-ast-chem-non-2-2",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】石灰是生石灰的俗稱，可以由加熱分解貝殼得到。石灰和水混合的產物是熟石灰，因其會吸收空氣中的二氧化碳，而逐漸硬化，是人類最早使用於建築的材料。五種無機化合物，代號分別為甲、乙、丙、丁、戊，其互相轉化的關係如圖 10 所示。其中甲是不溶於水的固體，高溫分解產生固體乙與氣體丙；乙與液體 X 化合，產生丁；丙與 Y（含鈉化合物）反應，產生戊；甲又是丁與戊反應的產物之一。用化學符號寫出完整且均衡的化學反應式（不需要標示物質的狀態）。\n\n2. 寫出「丙 + Y → 戊」的均衡化學反應式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-chem-non-2.png\" alt=\"圖10 甲～戊的轉化關係\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{CO}_2 + 2\\text{NaOH} \\to \\text{Na}_2\\text{CO}_3 + \\text{H}_2\\text{O}$（或 $\\text{CO}_2 + \\text{NaOH} \\to \\text{NaHCO}_3$）"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "【二氧化碳與鹼】\nY 為氫氧化鈉，戊為碳酸鈉（與丁反應可再生成碳酸鈣）：\n$$\\text{CO}_2 + 2\\text{NaOH} \\to \\text{Na}_2\\text{CO}_3 + \\text{H}_2\\text{O}$$"
+  },
+  {
+    "id": "108-ast-chem-non-2-3",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】石灰是生石灰的俗稱，可以由加熱分解貝殼得到。石灰和水混合的產物是熟石灰，因其會吸收空氣中的二氧化碳，而逐漸硬化，是人類最早使用於建築的材料。五種無機化合物，代號分別為甲、乙、丙、丁、戊，其互相轉化的關係如圖 10 所示。其中甲是不溶於水的固體，高溫分解產生固體乙與氣體丙；乙與液體 X 化合，產生丁；丙與 Y（含鈉化合物）反應，產生戊；甲又是丁與戊反應的產物之一。用化學符號寫出完整且均衡的化學反應式（不需要標示物質的狀態）。\n\n3. 寫出均衡化學反應式，並解釋熟石灰能成為昔時重要建築材料的原因。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{Ca(OH)}_2 + \\text{CO}_2 \\to \\text{CaCO}_3 + \\text{H}_2\\text{O}$；熟石灰吸收空氣中的 $\\text{CO}_2$ 生成堅硬、不溶於水的碳酸鈣，使材料逐漸硬化而堅固。"
+    ],
+    "blankLabels": [
+      "反應式與原因"
+    ],
+    "explanation": "【石灰的硬化】\n$$\\text{Ca(OH)}_2 + \\text{CO}_2 \\to \\text{CaCO}_3 + \\text{H}_2\\text{O}$$\n生成的碳酸鈣堅硬且不溶於水，可黏合砂石，所以熟石灰能作為建築材料。"
+  },
+  {
+    "id": "108-ast-chem-non-3-1",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】榮獲 2018 年諾貝爾化學獎的創新研究，是運用定向演化的方式，製造出新穎的酵素。化學家將一個天然的「枯草桿菌蛋白酶」酵素，改變為能在有機溶劑中進行化學反應：在酵素的基因密碼中製造隨機的突變，產出數千種變體，再挑出在有機溶劑二甲基甲醯胺（DMF）中運作效率最高的那些酵素。重複進行，在第三代中找到一個變體，在 DMF 中的運作效率比原始的酵素高 256 倍。\n\n1. 在枯草桿菌蛋白酶參與進行的化學反應中，此蛋白酶的作用是什麼？（2 分）",
+    "points": 2,
+    "blanks": [
+      "催化"
+    ],
+    "blankLabels": [
+      "作用"
+    ],
+    "acceptedBlanks": [
+      [
+        "催化作用",
+        "催化劑",
+        "作為催化劑",
+        "催化反應"
+      ]
+    ],
+    "explanation": "酵素是生物催化劑，可降低反應的活化能、加快反應速率，本身不被消耗。\n\n答：催化作用"
+  },
+  {
+    "id": "108-ast-chem-non-3-2",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】榮獲 2018 年諾貝爾化學獎的創新研究，是運用定向演化的方式，製造出新穎的酵素。化學家將一個天然的「枯草桿菌蛋白酶」酵素，改變為能在有機溶劑中進行化學反應：在酵素的基因密碼中製造隨機的突變，產出數千種變體，再挑出在有機溶劑二甲基甲醯胺（DMF）中運作效率最高的那些酵素。重複進行，在第三代中找到一個變體，在 DMF 中的運作效率比原始的酵素高 256 倍。\n\n2. 枯草桿菌蛋白酶是由某些單體聚合而成，這些單體的化學名稱為何？以通用取代基（－R）的形式，畫出單體的化學結構。（各 1 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "胺基酸；$\\text{H}_2\\text{N}-\\text{CHR}-\\text{COOH}$（或兩性離子 $\\text{H}_3\\text{N}^+-\\text{CHR}-\\text{COO}^-$）"
+    ],
+    "blankLabels": [
+      "名稱與結構"
+    ],
+    "explanation": "蛋白質由胺基酸聚合而成。α-胺基酸的通式：同一個碳上接 $-\\text{NH}_2$、$-\\text{COOH}$、H 與側鏈 R：$\\text{H}_2\\text{N}-\\text{CHR}-\\text{COOH}$。"
+  },
+  {
+    "id": "108-ast-chem-non-3-3",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】榮獲 2018 年諾貝爾化學獎的創新研究，是運用定向演化的方式，製造出新穎的酵素。化學家將一個天然的「枯草桿菌蛋白酶」酵素，改變為能在有機溶劑中進行化學反應：在酵素的基因密碼中製造隨機的突變，產出數千種變體，再挑出在有機溶劑二甲基甲醯胺（DMF）中運作效率最高的那些酵素。重複進行，在第三代中找到一個變體，在 DMF 中的運作效率比原始的酵素高 256 倍。\n\n3. 枯草桿菌蛋白酶由這些單體聚合而成時，新生成的化學鍵名稱為何？畫出此化學鍵的化學結構。（各 1 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "胜肽鍵（肽鍵、醯胺鍵）；$-\\text{C(=O)}-\\text{NH}-$"
+    ],
+    "blankLabels": [
+      "名稱與結構"
+    ],
+    "explanation": "一個胺基酸的 $-\\text{COOH}$ 與另一個的 $-\\text{NH}_2$ 脫水縮合，形成胜肽鍵（醯胺鍵）$-\\text{CO}-\\text{NH}-$。"
   }
 ]
