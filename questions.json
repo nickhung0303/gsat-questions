@@ -109203,5 +109203,821 @@
     ],
     "answerIndex": 1,
     "explanation": "規律運動者在運動的那天，整體活動量約少 30%，也就是較少站立或走動。\n\n故選 (B)"
+  },
+  {
+    "id": "103-gsat-eng-01",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. Lost and scared, the little dog ______ along the streets, looking for its master.",
+    "options": [
+      "dismissed",
+      "glided",
+      "wandered",
+      "marched"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：小狗迷路又害怕，沿著街道四處遊蕩找主人。\n• (C) wander 漫無目的地走、遊蕩\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-02",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. On a sunny afternoon last month, we all took off our shoes and walked on the grass with ______ feet.",
+    "options": [
+      "bare",
+      "raw",
+      "tough",
+      "slippery"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：我們脫掉鞋子，光著腳在草地上走。\nbare feet「赤腳」。\n\n故選 (A)"
+  },
+  {
+    "id": "103-gsat-eng-03",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. It is both legally and ______ wrong to spread rumors about other people on the Internet.",
+    "options": [
+      "morally",
+      "physically",
+      "literarily",
+      "commercially"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：在網路上散播他人的謠言，在法律上和道德上都是錯的。\n• (A) morally 道德上\n\n故選 (A)"
+  },
+  {
+    "id": "103-gsat-eng-04",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. These warm-up exercises are designed to help people ______ their muscles and prevent injuries.",
+    "options": [
+      "produce",
+      "connect",
+      "broaden",
+      "loosen"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：這些暖身運動是為了幫助人們放鬆肌肉、預防受傷。\n• (D) loosen 使放鬆\n\n故選 (D)"
+  },
+  {
+    "id": "103-gsat-eng-05",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. Mei-ling has a very close relationship with her parents. She always ______ them before she makes important decisions.",
+    "options": [
+      "impresses",
+      "advises",
+      "consults",
+      "motivates"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：美玲和父母很親近，做重要決定前總是先徵詢他們的意見。\n• (C) consult 請教、諮詢\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-06",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. The restaurant has a ______ charge of NT＄250 per person. So the four of us need to pay at least NT＄1,000 to eat there.",
+    "options": [
+      "definite",
+      "minimum",
+      "flexible",
+      "numerous"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：這家餐廳每人最低消費 250 元，所以我們四個人至少要付 1,000 元。\nminimum charge「最低消費」。\n\n故選 (B)"
+  },
+  {
+    "id": "103-gsat-eng-07",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. At the Book Fair, exhibitors from 21 countries will ______ textbooks, novels, and comic books.",
+    "options": [
+      "predict",
+      "require",
+      "display",
+      "target"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：書展上來自 21 個國家的參展商將展示教科書、小說和漫畫。\n• (C) display 展示\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-08",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. Before John got on the stage to give the speech, he took a deep ______ to calm himself down.",
+    "options": [
+      "order",
+      "rest",
+      "effort",
+      "breath"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：上台演講前，John 深吸一口氣讓自己冷靜。\ntake a deep breath「深呼吸」。\n\n故選 (D)"
+  },
+  {
+    "id": "103-gsat-eng-09",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. Most young people in Taiwan are not satisfied with a high school ______ and continue to pursue further education in college.",
+    "options": [
+      "maturity",
+      "diploma",
+      "foundation",
+      "guarantee"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：台灣大多數年輕人不滿足於高中文憑，繼續上大學深造。\n• (B) diploma 文憑\n\n故選 (B)"
+  },
+  {
+    "id": "103-gsat-eng-10",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. Residents are told not to dump all household waste ______ into the trash can; reusable materials should first be sorted out and recycled.",
+    "options": [
+      "shortly",
+      "straight",
+      "forward",
+      "namely"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：居民被告知不要把家庭垃圾直接丟進垃圾桶，可再利用的東西要先分類回收。\nstraight「直接地」。\n\n故選 (B)"
+  },
+  {
+    "id": "103-gsat-eng-11",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "11. Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his ______ and fell to the ground.",
+    "options": [
+      "volume",
+      "weight",
+      "balance",
+      "direction"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：Kevin 站在梯子上想拿最上層的書時失去平衡摔到地上。\nlose one's balance「失去平衡」。\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-12",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "12. If student enrollment continues to drop, some programs at the university may be ______ to reduce the operation costs.",
+    "options": [
+      "relieved",
+      "eliminated",
+      "projected",
+      "accounted"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：如果入學人數持續下降，大學的某些學程可能會被裁撤以降低營運成本。\n• (B) eliminate 刪除、裁撤\n\n故選 (B)"
+  },
+  {
+    "id": "103-gsat-eng-13",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "13. People in that remote village feed themselves by hunting and engaging in ______ forms of agriculture. No modern agricultural methods are used.",
+    "options": [
+      "universal",
+      "splendid",
+      "primitive",
+      "courteous"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：偏遠村落的人靠打獵和原始的農耕方式維生，沒有使用現代農業方法。\n• (C) primitive 原始的\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-14",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "14. The government issued a travel ______ for Taiwanese in response to the outbreak of civil war in Syria.",
+    "options": [
+      "alert",
+      "monument",
+      "exit",
+      "circulation"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：因應敘利亞爆發內戰，政府對台灣人發布旅遊警示。\ntravel alert「旅遊警示」。\n\n故選 (A)"
+  },
+  {
+    "id": "103-gsat-eng-15",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "15. The baby panda Yuan Zai at the Taipei Zoo was separated from her mother because of a minor injury that occurred during her birth. She was ______ by zookeepers for a while.",
+    "options": [
+      "departed",
+      "jailed",
+      "tended",
+      "captured"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：圓仔出生時受了輕傷，與媽媽分開，由保育員照顧了一陣子。\ntend「照料」。\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-16",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nAesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, \"Tell me where you come from and what sort of people live there, and I'll tell you what sort of people you'll find in Athens.\" 【 16 】, the man answered, \"I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.\"\n\n【 17 】 this, Aesop answered, \"I'm happy to tell you, my dear friend, that you'll find the people of Athens much the same.\"\n\nA few hours later, 【 18 】 traveler came down the road. He too stopped and asked Aesop the same question. 【 19 】, Aesop made the same request. But frowning, the man answered, \"I'm from Argos and there the people are unfriendly, 【 20 】, and vicious. They're thieves and murderers, all of them.\" \"Well, I'm afraid you'll find the people of Athens much the same,\" replied Aesop.\n16.",
+    "options": [
+      "Amazing",
+      "Smiling",
+      "Deciding",
+      "Praying"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：那人「微笑著」回答，說家鄉的人都友善熱情。分詞構句表伴隨狀態。\n\n故選 (B)"
+  },
+  {
+    "id": "103-gsat-eng-17",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nAesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, \"Tell me where you come from and what sort of people live there, and I'll tell you what sort of people you'll find in Athens.\" 【 16 】, the man answered, \"I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.\"\n\n【 17 】 this, Aesop answered, \"I'm happy to tell you, my dear friend, that you'll find the people of Athens much the same.\"\n\nA few hours later, 【 18 】 traveler came down the road. He too stopped and asked Aesop the same question. 【 19 】, Aesop made the same request. But frowning, the man answered, \"I'm from Argos and there the people are unfriendly, 【 20 】, and vicious. They're thieves and murderers, all of them.\" \"Well, I'm afraid you'll find the people of Athens much the same,\" replied Aesop.\n17.",
+    "options": [
+      "At",
+      "By",
+      "For",
+      "Into"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：「聽到這番話」，伊索回答…。at this「聽到（看到）這個時」。\n\n故選 (A)"
+  },
+  {
+    "id": "103-gsat-eng-18",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nAesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, \"Tell me where you come from and what sort of people live there, and I'll tell you what sort of people you'll find in Athens.\" 【 16 】, the man answered, \"I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.\"\n\n【 17 】 this, Aesop answered, \"I'm happy to tell you, my dear friend, that you'll find the people of Athens much the same.\"\n\nA few hours later, 【 18 】 traveler came down the road. He too stopped and asked Aesop the same question. 【 19 】, Aesop made the same request. But frowning, the man answered, \"I'm from Argos and there the people are unfriendly, 【 20 】, and vicious. They're thieves and murderers, all of them.\" \"Well, I'm afraid you'll find the people of Athens much the same,\" replied Aesop.\n18.",
+    "options": [
+      "a",
+      "the",
+      "other",
+      "another"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：幾個小時後，「另一個」旅人沿路走來。another + 單數名詞「另一個」。\n\n故選 (D)"
+  },
+  {
+    "id": "103-gsat-eng-19",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nAesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, \"Tell me where you come from and what sort of people live there, and I'll tell you what sort of people you'll find in Athens.\" 【 16 】, the man answered, \"I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.\"\n\n【 17 】 this, Aesop answered, \"I'm happy to tell you, my dear friend, that you'll find the people of Athens much the same.\"\n\nA few hours later, 【 18 】 traveler came down the road. He too stopped and asked Aesop the same question. 【 19 】, Aesop made the same request. But frowning, the man answered, \"I'm from Argos and there the people are unfriendly, 【 20 】, and vicious. They're thieves and murderers, all of them.\" \"Well, I'm afraid you'll find the people of Athens much the same,\" replied Aesop.\n19.",
+    "options": [
+      "Again",
+      "Indeed",
+      "Together",
+      "Moreover"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：伊索「再次」提出同樣的要求。\n\n故選 (A)"
+  },
+  {
+    "id": "103-gsat-eng-20",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nAesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, \"Tell me where you come from and what sort of people live there, and I'll tell you what sort of people you'll find in Athens.\" 【 16 】, the man answered, \"I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.\"\n\n【 17 】 this, Aesop answered, \"I'm happy to tell you, my dear friend, that you'll find the people of Athens much the same.\"\n\nA few hours later, 【 18 】 traveler came down the road. He too stopped and asked Aesop the same question. 【 19 】, Aesop made the same request. But frowning, the man answered, \"I'm from Argos and there the people are unfriendly, 【 20 】, and vicious. They're thieves and murderers, all of them.\" \"Well, I'm afraid you'll find the people of Athens much the same,\" replied Aesop.\n20.",
+    "options": [
+      "brave",
+      "lonely",
+      "mean",
+      "skinny"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：那裡的人不友善、「刻薄」又惡毒，與前一位旅人說的友善、慷慨相反。mean「刻薄的、小氣的」。\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-21",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nEvery year tens of thousands of tourists visit Mount Kilimanjaro, the highest mountain in Tanzania, Africa, to witness the scenes depicted in Earnest Hemingway's The Snows of Kilimanjaro. They are attracted by the American writer's 【 21 】 of the millennia-old glaciers. However, this tourist attraction will soon 【 22 】. According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro's snows and glaciers are melting and are 【 23 】 to disappear by 2020. Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base. 【 24 】 the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below. Rising temperatures, an effect of global warming, 【 25 】 threaten the ecosystem of this mountain area. The loss of snows on the 5,892m peak, which have been there for about 11,700 years, could have disastrous effects on Tanzania.\n21.",
+    "options": [
+      "situations",
+      "descriptions",
+      "translations",
+      "calculations"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：遊客被海明威對千年冰河的「描述」所吸引。\n\n故選 (B)"
+  },
+  {
+    "id": "103-gsat-eng-22",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nEvery year tens of thousands of tourists visit Mount Kilimanjaro, the highest mountain in Tanzania, Africa, to witness the scenes depicted in Earnest Hemingway's The Snows of Kilimanjaro. They are attracted by the American writer's 【 21 】 of the millennia-old glaciers. However, this tourist attraction will soon 【 22 】. According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro's snows and glaciers are melting and are 【 23 】 to disappear by 2020. Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base. 【 24 】 the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below. Rising temperatures, an effect of global warming, 【 25 】 threaten the ecosystem of this mountain area. The loss of snows on the 5,892m peak, which have been there for about 11,700 years, could have disastrous effects on Tanzania.\n22.",
+    "options": [
+      "operate",
+      "expand",
+      "recover",
+      "vanish"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：然而這個觀光景點很快就會「消失」，後文說冰雪正在融化。\n\n故選 (D)"
+  },
+  {
+    "id": "103-gsat-eng-23",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nEvery year tens of thousands of tourists visit Mount Kilimanjaro, the highest mountain in Tanzania, Africa, to witness the scenes depicted in Earnest Hemingway's The Snows of Kilimanjaro. They are attracted by the American writer's 【 21 】 of the millennia-old glaciers. However, this tourist attraction will soon 【 22 】. According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro's snows and glaciers are melting and are 【 23 】 to disappear by 2020. Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base. 【 24 】 the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below. Rising temperatures, an effect of global warming, 【 25 】 threaten the ecosystem of this mountain area. The loss of snows on the 5,892m peak, which have been there for about 11,700 years, could have disastrous effects on Tanzania.\n23.",
+    "options": [
+      "capable",
+      "ready",
+      "likely",
+      "horrible"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：吉力馬札羅的冰雪正在融化，「可能」在 2020 年消失。be likely to V「可能」。\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-24",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nEvery year tens of thousands of tourists visit Mount Kilimanjaro, the highest mountain in Tanzania, Africa, to witness the scenes depicted in Earnest Hemingway's The Snows of Kilimanjaro. They are attracted by the American writer's 【 21 】 of the millennia-old glaciers. However, this tourist attraction will soon 【 22 】. According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro's snows and glaciers are melting and are 【 23 】 to disappear by 2020. Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base. 【 24 】 the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below. Rising temperatures, an effect of global warming, 【 25 】 threaten the ecosystem of this mountain area. The loss of snows on the 5,892m peak, which have been there for about 11,700 years, could have disastrous effects on Tanzania.\n24.",
+    "options": [
+      "Among",
+      "Besides",
+      "Inside",
+      "Without"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：「沒有」山頂的積雪，就沒有足夠的水氣滋養下方的動植物。\n\n故選 (D)"
+  },
+  {
+    "id": "103-gsat-eng-25",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nEvery year tens of thousands of tourists visit Mount Kilimanjaro, the highest mountain in Tanzania, Africa, to witness the scenes depicted in Earnest Hemingway's The Snows of Kilimanjaro. They are attracted by the American writer's 【 21 】 of the millennia-old glaciers. However, this tourist attraction will soon 【 22 】. According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro's snows and glaciers are melting and are 【 23 】 to disappear by 2020. Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base. 【 24 】 the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below. Rising temperatures, an effect of global warming, 【 25 】 threaten the ecosystem of this mountain area. The loss of snows on the 5,892m peak, which have been there for about 11,700 years, could have disastrous effects on Tanzania.\n25.",
+    "options": [
+      "thus",
+      "just",
+      "instead",
+      "otherwise"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：全球暖化使氣溫上升，「因此」威脅這座山的生態系。\n\n故選 (A)"
+  },
+  {
+    "id": "103-gsat-eng-26",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nMost human beings actually decide before they think. When people encounter a complex issue and form an opinion, how thoroughly have they 【 26 】 all the important factors involved before they make their decisions? The answer is: not very thoroughly, 【 27 】 they are executives, specialized experts, or ordinary people in the street. Very few people, no matter how intelligent or experienced, can 【 28 】 all the possibilities or outcomes of a policy or a course of action within just a short period of time. Those who take pride in being decisive often try their best to consider all the factors beforehand. 【 29 】, it is not unusual for them to come up with a decision before they have the time to do so. And 【 30 】 an opinion is formed, most of their thinking then is simply trying to find support for it.\n26.",
+    "options": [
+      "conveyed",
+      "examined",
+      "solved",
+      "implied"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：人們做決定前，有多徹底地「檢視」過所有重要因素？\n\n故選 (B)"
+  },
+  {
+    "id": "103-gsat-eng-27",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nMost human beings actually decide before they think. When people encounter a complex issue and form an opinion, how thoroughly have they 【 26 】 all the important factors involved before they make their decisions? The answer is: not very thoroughly, 【 27 】 they are executives, specialized experts, or ordinary people in the street. Very few people, no matter how intelligent or experienced, can 【 28 】 all the possibilities or outcomes of a policy or a course of action within just a short period of time. Those who take pride in being decisive often try their best to consider all the factors beforehand. 【 29 】, it is not unusual for them to come up with a decision before they have the time to do so. And 【 30 】 an opinion is formed, most of their thinking then is simply trying to find support for it.\n27.",
+    "options": [
+      "whoever",
+      "because",
+      "whether",
+      "rather"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：答案是不太徹底，「不論」他們是主管、專家或一般人。whether A, B, or C「不論是…」。\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-28",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nMost human beings actually decide before they think. When people encounter a complex issue and form an opinion, how thoroughly have they 【 26 】 all the important factors involved before they make their decisions? The answer is: not very thoroughly, 【 27 】 they are executives, specialized experts, or ordinary people in the street. Very few people, no matter how intelligent or experienced, can 【 28 】 all the possibilities or outcomes of a policy or a course of action within just a short period of time. Those who take pride in being decisive often try their best to consider all the factors beforehand. 【 29 】, it is not unusual for them to come up with a decision before they have the time to do so. And 【 30 】 an opinion is formed, most of their thinking then is simply trying to find support for it.\n28.",
+    "options": [
+      "set out",
+      "turn out",
+      "put into practice",
+      "take into account"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：很少人能在短時間內「考慮到」一項政策的所有可能性與結果。take…into account「考慮…」。\n\n故選 (D)"
+  },
+  {
+    "id": "103-gsat-eng-29",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nMost human beings actually decide before they think. When people encounter a complex issue and form an opinion, how thoroughly have they 【 26 】 all the important factors involved before they make their decisions? The answer is: not very thoroughly, 【 27 】 they are executives, specialized experts, or ordinary people in the street. Very few people, no matter how intelligent or experienced, can 【 28 】 all the possibilities or outcomes of a policy or a course of action within just a short period of time. Those who take pride in being decisive often try their best to consider all the factors beforehand. 【 29 】, it is not unusual for them to come up with a decision before they have the time to do so. And 【 30 】 an opinion is formed, most of their thinking then is simply trying to find support for it.\n29.",
+    "options": [
+      "However",
+      "Furthermore",
+      "Conditionally",
+      "Similarly"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：果決的人常想事先考慮所有因素；「然而」他們常在還沒時間考慮前就做出決定。語意轉折。\n\n故選 (A)"
+  },
+  {
+    "id": "103-gsat-eng-30",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nMost human beings actually decide before they think. When people encounter a complex issue and form an opinion, how thoroughly have they 【 26 】 all the important factors involved before they make their decisions? The answer is: not very thoroughly, 【 27 】 they are executives, specialized experts, or ordinary people in the street. Very few people, no matter how intelligent or experienced, can 【 28 】 all the possibilities or outcomes of a policy or a course of action within just a short period of time. Those who take pride in being decisive often try their best to consider all the factors beforehand. 【 29 】, it is not unusual for them to come up with a decision before they have the time to do so. And 【 30 】 an opinion is formed, most of their thinking then is simply trying to find support for it.\n30.",
+    "options": [
+      "though",
+      "unless",
+      "once",
+      "even"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：「一旦」形成意見，之後的思考大多只是在替它找支持。once「一旦」。\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-31-40",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 31-40 題組】\nIn English-speaking cultures, the choice of first names for children can be prompted by many factors: tradition, religion, nature, culture, and fashion, to name just a few.\nCertain people like to give a name that has been handed down in the family to show ___(31)___ for or to remember a relative whom they love or admire. Some families have a tradition of ___(32)___ the father's first name to the first born son. In other families, a surname is included in the selection of a child's given name to ___(33)___ a family surname going. It may be the mother's maiden name, for instance.\nFor a long time, ___(34)___ has also played an important role in naming children. Boys' names such as John, Peter, and Thomas are chosen from the Bible. Girls' names such as Faith, Patience, and Sophie (wisdom) are chosen because they symbolize Christian qualities. However, for people who are not necessarily religious but are fond of nature, names ___(35)___ things of beauty are often favored. Flower and plant names like Heather, Rosemary, and Iris ___(36)___ this category.\nAnother factor that has had a great ___(37)___ on the choice of names is the spread of culture through the media. People may choose a name because they are strongly ___(38)___ a character in a book or a television series; they may also adopt names of famous people or their favorite actors and actresses. Sometimes, people pick foreign names for their children because those names are unusual and will thus make their children more ___(39)___ and distinctive.\nFinally, some people just pick a name the sound of which they like, ___(40)___ of its meaning, its origins, or its popularity. However, even these people may look at the calendar to pick a lucky day when they make their choice.\n(A) drawn to　(B) fall into　(C) impact　(D) involving　(E) keep　(F) passing down　(G) regardless　(H) religion　(I) respect　(J) unique\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "I",
+      "F",
+      "E",
+      "H",
+      "D",
+      "B",
+      "C",
+      "A",
+      "J",
+      "G"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "explanation": "• 31 (I) respect：用家族流傳的名字表示對親人的「尊敬」，show respect for…。\n• 32 (F) passing down：有些家族有把父親名字「傳給」長子的傳統，介系詞 of 後接動名詞。\n• 33 (E) keep：用姓氏當名字以「讓」家族姓氏延續下去，keep…going。\n• 34 (H) religion：「宗教」在命名上一直扮演重要角色，後文舉聖經人名為例。\n• 35 (D) involving：喜愛大自然的人偏好「涉及」美好事物的名字。\n• 36 (B) fall into：花草名字「屬於」這一類，fall into a category。\n• 37 (C) impact：另一個對命名有重大「影響」的因素，have an impact on…。\n• 38 (A) drawn to：因為強烈地「被吸引」到書或電視劇中的角色。\n• 39 (J) unique：外國名字不尋常，讓孩子更「獨特」。\n• 40 (G) regardless：有些人只選喜歡發音的名字，「不管」其意義、來源或流行程度，regardless of…。"
+  },
+  {
+    "id": "103-gsat-eng-41",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nAmerican writer Toni Morrison was born in 1931 in Ohio. She was raised in an African American family filled with songs and stories of Southern myths, which later shaped her prose. Her happy family life led to her excellent performance in school, despite the atmosphere of racial discrimination in the society.\n\nAfter graduating from college, Morrison started to work as a teacher and got married in 1958. Several years later, her marriage began to fail. For a temporary escape, she joined a small writers' group, in which each member was required to bring a story or poem for discussion. She wrote a story based on the life of a girl she knew in childhood who had prayed to God for blue eyes. The story was well received by the group, but then she put it away, thinking she was done with it.\n\nIn 1964, Morrison got divorced and devoted herself to writing. One day, she dusted off the story she had written for the writers' group and decided to make it into a novel. She drew on her memories from childhood and expanded upon them using her imagination so that the characters developed a life of their own. The Bluest Eye was eventually published in 1970. From 1970 to 1992, Morrison published five more novels.\n\nIn her novels, Morrison brings in different elements of the African American past, their struggles, problems and cultural memory. In Song of Solomon, for example, Morrison tells the story of an African American man and his search for identity in his culture. The novels and other works won her several prizes. In 1993, Morrison received the Nobel Prize in Literature. She is the eighth woman and the first African American woman to win the honor.\n41. What is the passage mainly about?",
+    "options": [
+      "The life of black people in the U.S.",
+      "The life of an African American writer.",
+      "The history of African American culture.",
+      "The history of the Nobel Prize in Literature."
+    ],
+    "answerIndex": 1,
+    "explanation": "文章介紹非裔美國作家童妮．摩里森的成長、婚姻、寫作與獲得諾貝爾文學獎的經歷。\n\n故選 (B)"
+  },
+  {
+    "id": "103-gsat-eng-42",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nAmerican writer Toni Morrison was born in 1931 in Ohio. She was raised in an African American family filled with songs and stories of Southern myths, which later shaped her prose. Her happy family life led to her excellent performance in school, despite the atmosphere of racial discrimination in the society.\n\nAfter graduating from college, Morrison started to work as a teacher and got married in 1958. Several years later, her marriage began to fail. For a temporary escape, she joined a small writers' group, in which each member was required to bring a story or poem for discussion. She wrote a story based on the life of a girl she knew in childhood who had prayed to God for blue eyes. The story was well received by the group, but then she put it away, thinking she was done with it.\n\nIn 1964, Morrison got divorced and devoted herself to writing. One day, she dusted off the story she had written for the writers' group and decided to make it into a novel. She drew on her memories from childhood and expanded upon them using her imagination so that the characters developed a life of their own. The Bluest Eye was eventually published in 1970. From 1970 to 1992, Morrison published five more novels.\n\nIn her novels, Morrison brings in different elements of the African American past, their struggles, problems and cultural memory. In Song of Solomon, for example, Morrison tells the story of an African American man and his search for identity in his culture. The novels and other works won her several prizes. In 1993, Morrison received the Nobel Prize in Literature. She is the eighth woman and the first African American woman to win the honor.\n42. Why did Morrison join the writers' group?",
+    "options": [
+      "She wanted to publish The Bluest Eye.",
+      "She wanted to fight racial discrimination.",
+      "She wanted to be a professional writer.",
+      "She wanted to get away from her unhappy marriage."
+    ],
+    "answerIndex": 3,
+    "explanation": "她的婚姻開始破裂，為了暫時逃避（for a temporary escape）而加入寫作小組。\n\n故選 (D)"
+  },
+  {
+    "id": "103-gsat-eng-43",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nAmerican writer Toni Morrison was born in 1931 in Ohio. She was raised in an African American family filled with songs and stories of Southern myths, which later shaped her prose. Her happy family life led to her excellent performance in school, despite the atmosphere of racial discrimination in the society.\n\nAfter graduating from college, Morrison started to work as a teacher and got married in 1958. Several years later, her marriage began to fail. For a temporary escape, she joined a small writers' group, in which each member was required to bring a story or poem for discussion. She wrote a story based on the life of a girl she knew in childhood who had prayed to God for blue eyes. The story was well received by the group, but then she put it away, thinking she was done with it.\n\nIn 1964, Morrison got divorced and devoted herself to writing. One day, she dusted off the story she had written for the writers' group and decided to make it into a novel. She drew on her memories from childhood and expanded upon them using her imagination so that the characters developed a life of their own. The Bluest Eye was eventually published in 1970. From 1970 to 1992, Morrison published five more novels.\n\nIn her novels, Morrison brings in different elements of the African American past, their struggles, problems and cultural memory. In Song of Solomon, for example, Morrison tells the story of an African American man and his search for identity in his culture. The novels and other works won her several prizes. In 1993, Morrison received the Nobel Prize in Literature. She is the eighth woman and the first African American woman to win the honor.\n43. According to the passage, what is one of the themes in Morrison's works?",
+    "options": [
+      "A search for African American values.",
+      "Divorced black women in American society.",
+      "Songs and stories of African Americans in Ohio.",
+      "History of African Americans from the 1970s through the 1990s."
+    ],
+    "answerIndex": 0,
+    "explanation": "她的小說融入非裔美國人的過去、奮鬥與文化記憶，例如《所羅門之歌》描寫一位非裔男子在其文化中追尋自我認同。\n\n故選 (A)"
+  },
+  {
+    "id": "103-gsat-eng-44",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-44 題組】\nAmerican writer Toni Morrison was born in 1931 in Ohio. She was raised in an African American family filled with songs and stories of Southern myths, which later shaped her prose. Her happy family life led to her excellent performance in school, despite the atmosphere of racial discrimination in the society.\n\nAfter graduating from college, Morrison started to work as a teacher and got married in 1958. Several years later, her marriage began to fail. For a temporary escape, she joined a small writers' group, in which each member was required to bring a story or poem for discussion. She wrote a story based on the life of a girl she knew in childhood who had prayed to God for blue eyes. The story was well received by the group, but then she put it away, thinking she was done with it.\n\nIn 1964, Morrison got divorced and devoted herself to writing. One day, she dusted off the story she had written for the writers' group and decided to make it into a novel. She drew on her memories from childhood and expanded upon them using her imagination so that the characters developed a life of their own. The Bluest Eye was eventually published in 1970. From 1970 to 1992, Morrison published five more novels.\n\nIn her novels, Morrison brings in different elements of the African American past, their struggles, problems and cultural memory. In Song of Solomon, for example, Morrison tells the story of an African American man and his search for identity in his culture. The novels and other works won her several prizes. In 1993, Morrison received the Nobel Prize in Literature. She is the eighth woman and the first African American woman to win the honor.\n44. Which of the following statements is true about Toni Morrison?",
+    "options": [
+      "She has been writing a lot since her adolescent years.",
+      "She suffered from severe racial discrimination in her family.",
+      "What she wrote in her novels are true stories of African Americans.",
+      "No African American woman ever received a Nobel Prize in Literature before her."
+    ],
+    "answerIndex": 3,
+    "explanation": "她是第一位獲得諾貝爾文學獎的非裔美國女性。\n(A) 婚後加入寫作小組才開始寫；(B) 家庭生活很快樂；(C) 小說以童年記憶加上想像擴充。\n\n故選 (D)"
+  },
+  {
+    "id": "103-gsat-eng-45",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nBelow is an excerpt from an interview with Zeke Emanuel, a health-policy expert, on his famous brothers.\nInterviewer: You're the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent. And you're a bioethicist and one of the architects of Obamacare. Isn't writing a book about how great your family is a bit odd?\nZeke: I don't write a book about how great my family is. There are lots of idiocies and foolishness—a lot to make fun of in the book. I wrote Brothers Emanuel because I had begun jotting stories for my kids. And then we began getting a lot of questions: What did Mom put in the cereal? Three successful brothers, all different areas.\nI: To what do you attribute the Emanuel brothers' success?\nZ: I would put success in quotes. We strive. First, I think we got this striving from our mother to make the world a better place. A second important thing is you never rest on the last victory. There's always more to do. And maybe the third important thing is my father's admonition that offense is the best defense. We don't give up.\nI: Do you still not have a TV?\nZ: I don't own a TV. I don't own a car. I don't Facebook. I don't tweet.\nI: But you have four cell phones.\nZ: I'm down to two, thankfully.\nI: Your brothers are a national source of fascination. Where do you think they'll be in five years?\nZ: Ari will be a superagent running the same company. Rahm would still be mayor of Chicago. I will probably continue to be my academic self. The one thing I can guarantee is none of us will have taken a cruise, none of us will be sitting on a beach with a pina colada.\n45. What does Zeke Emanuel have in mind when saying \"What did Mom put in the cereal?\"",
+    "options": [
+      "The secret to bringing up successful kids.",
+      "The recipe for a breakfast food.",
+      "The difference among the brothers.",
+      "The questions from his kids."
+    ],
+    "answerIndex": 0,
+    "explanation": "三兄弟在不同領域都很成功，大家好奇媽媽在麥片裡加了什麼，意思是想知道培養成功孩子的秘訣。\n\n故選 (A)"
+  },
+  {
+    "id": "103-gsat-eng-46",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nBelow is an excerpt from an interview with Zeke Emanuel, a health-policy expert, on his famous brothers.\nInterviewer: You're the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent. And you're a bioethicist and one of the architects of Obamacare. Isn't writing a book about how great your family is a bit odd?\nZeke: I don't write a book about how great my family is. There are lots of idiocies and foolishness—a lot to make fun of in the book. I wrote Brothers Emanuel because I had begun jotting stories for my kids. And then we began getting a lot of questions: What did Mom put in the cereal? Three successful brothers, all different areas.\nI: To what do you attribute the Emanuel brothers' success?\nZ: I would put success in quotes. We strive. First, I think we got this striving from our mother to make the world a better place. A second important thing is you never rest on the last victory. There's always more to do. And maybe the third important thing is my father's admonition that offense is the best defense. We don't give up.\nI: Do you still not have a TV?\nZ: I don't own a TV. I don't own a car. I don't Facebook. I don't tweet.\nI: But you have four cell phones.\nZ: I'm down to two, thankfully.\nI: Your brothers are a national source of fascination. Where do you think they'll be in five years?\nZ: Ari will be a superagent running the same company. Rahm would still be mayor of Chicago. I will probably continue to be my academic self. The one thing I can guarantee is none of us will have taken a cruise, none of us will be sitting on a beach with a pina colada.\n46. What does Zeke Emanuel think of the modern conveniences mentioned in the interview?",
+    "options": [
+      "Better late than never.",
+      "Practice makes perfect.",
+      "One can live without many of them.",
+      "They are great inventions."
+    ],
+    "answerIndex": 2,
+    "explanation": "他沒有電視、汽車，不用臉書和推特，手機也減少到兩支，表示很多現代便利沒有也能過活。\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-47",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nBelow is an excerpt from an interview with Zeke Emanuel, a health-policy expert, on his famous brothers.\nInterviewer: You're the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent. And you're a bioethicist and one of the architects of Obamacare. Isn't writing a book about how great your family is a bit odd?\nZeke: I don't write a book about how great my family is. There are lots of idiocies and foolishness—a lot to make fun of in the book. I wrote Brothers Emanuel because I had begun jotting stories for my kids. And then we began getting a lot of questions: What did Mom put in the cereal? Three successful brothers, all different areas.\nI: To what do you attribute the Emanuel brothers' success?\nZ: I would put success in quotes. We strive. First, I think we got this striving from our mother to make the world a better place. A second important thing is you never rest on the last victory. There's always more to do. And maybe the third important thing is my father's admonition that offense is the best defense. We don't give up.\nI: Do you still not have a TV?\nZ: I don't own a TV. I don't own a car. I don't Facebook. I don't tweet.\nI: But you have four cell phones.\nZ: I'm down to two, thankfully.\nI: Your brothers are a national source of fascination. Where do you think they'll be in five years?\nZ: Ari will be a superagent running the same company. Rahm would still be mayor of Chicago. I will probably continue to be my academic self. The one thing I can guarantee is none of us will have taken a cruise, none of us will be sitting on a beach with a pina colada.\n47. According to Zeke Emanuel, which of the following is a reason for the brothers' success?",
+    "options": [
+      "They defend themselves by attacking others.",
+      "They learn a lot from great people's quotes.",
+      "They are committed to glorifying their parents.",
+      "They keep moving forward even after a big success."
+    ],
+    "answerIndex": 3,
+    "explanation": "他說第二個重要因素是「永遠不要停留在上一次的勝利」，總有更多事要做。\n(A)「攻擊是最好的防守」是指積極進取，不是攻擊別人。\n\n故選 (D)"
+  },
+  {
+    "id": "103-gsat-eng-48",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 45-48 題組】\nBelow is an excerpt from an interview with Zeke Emanuel, a health-policy expert, on his famous brothers.\nInterviewer: You're the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent. And you're a bioethicist and one of the architects of Obamacare. Isn't writing a book about how great your family is a bit odd?\nZeke: I don't write a book about how great my family is. There are lots of idiocies and foolishness—a lot to make fun of in the book. I wrote Brothers Emanuel because I had begun jotting stories for my kids. And then we began getting a lot of questions: What did Mom put in the cereal? Three successful brothers, all different areas.\nI: To what do you attribute the Emanuel brothers' success?\nZ: I would put success in quotes. We strive. First, I think we got this striving from our mother to make the world a better place. A second important thing is you never rest on the last victory. There's always more to do. And maybe the third important thing is my father's admonition that offense is the best defense. We don't give up.\nI: Do you still not have a TV?\nZ: I don't own a TV. I don't own a car. I don't Facebook. I don't tweet.\nI: But you have four cell phones.\nZ: I'm down to two, thankfully.\nI: Your brothers are a national source of fascination. Where do you think they'll be in five years?\nZ: Ari will be a superagent running the same company. Rahm would still be mayor of Chicago. I will probably continue to be my academic self. The one thing I can guarantee is none of us will have taken a cruise, none of us will be sitting on a beach with a pina colada.\n48. Which of the following best summarizes Zeke Emanuel's response to the last question?",
+    "options": [
+      "The brothers look forward to a family trip on a cruise.",
+      "Nothing much will change in the near future for them.",
+      "Higher positions and more power will be their goals.",
+      "None of the brothers will go to the beach."
+    ],
+    "answerIndex": 1,
+    "explanation": "他預測五年後 Ari 仍經營同一家公司、Rahm 仍是市長、自己仍做學術，也不會去搭郵輪度假，即近期內不會有太大改變。\n\n故選 (B)"
+  },
+  {
+    "id": "103-gsat-eng-49",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nMOOC, a massive open online course, aims at providing large-scale interactive participation and open access via the web. In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.\n\nMOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up. This new breed of online classes is shaking up the higher education world in many ways. Since the courses can be taken by hundreds of thousands of students at the same time, the number of universities might decrease dramatically. Professor Thrun has even envisioned a future in which there will only need to be 10 universities in the world. Perhaps the most striking thing about MOOCs, many of which are being taught by professors at prestigious universities, is that they're free. This is certainly good news for cash-strapped students.\n\nThere is a lot of excitement and fear surrounding MOOCs. While some say free online courses are a great way to increase the enrollment of minority students, others have said they will leave many students behind. Some critics have said that MOOCs promote an unrealistic one-size-fits-all model of higher education and that there is no replacement for true dialogues between professors and their students. After all, a brain is not a computer. We are not blank hard drives waiting to be filled with data. People learn from people they love and remember the things that arouse emotion. Some critics worry that online students will miss out on the social aspects of college.\n49. What does the word \"cash-strapped\" in the second paragraph mean?",
+    "options": [
+      "Making a lot of money.",
+      "Being short of money.",
+      "Being careful with money.",
+      "Spending little money."
+    ],
+    "answerIndex": 1,
+    "explanation": "MOOCs 是免費的，對 cash-strapped 的學生是好消息，可知意為「缺錢的」。\n\n故選 (B)"
+  },
+  {
+    "id": "103-gsat-eng-50",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nMOOC, a massive open online course, aims at providing large-scale interactive participation and open access via the web. In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.\n\nMOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up. This new breed of online classes is shaking up the higher education world in many ways. Since the courses can be taken by hundreds of thousands of students at the same time, the number of universities might decrease dramatically. Professor Thrun has even envisioned a future in which there will only need to be 10 universities in the world. Perhaps the most striking thing about MOOCs, many of which are being taught by professors at prestigious universities, is that they're free. This is certainly good news for cash-strapped students.\n\nThere is a lot of excitement and fear surrounding MOOCs. While some say free online courses are a great way to increase the enrollment of minority students, others have said they will leave many students behind. Some critics have said that MOOCs promote an unrealistic one-size-fits-all model of higher education and that there is no replacement for true dialogues between professors and their students. After all, a brain is not a computer. We are not blank hard drives waiting to be filled with data. People learn from people they love and remember the things that arouse emotion. Some critics worry that online students will miss out on the social aspects of college.\n50. Which of the following is NOT one of the features of MOOCs?",
+    "options": [
+      "It is free to take the courses.",
+      "Many courses are offered by famous universities.",
+      "Most courses address artificial intelligence.",
+      "Many students can take the course at the same time."
+    ],
+    "answerIndex": 2,
+    "explanation": "人工智慧只是 Thrun 教授開的那一門課，並非大多數課程的主題。其他三項文中都有提到。\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-51",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nMOOC, a massive open online course, aims at providing large-scale interactive participation and open access via the web. In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.\n\nMOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up. This new breed of online classes is shaking up the higher education world in many ways. Since the courses can be taken by hundreds of thousands of students at the same time, the number of universities might decrease dramatically. Professor Thrun has even envisioned a future in which there will only need to be 10 universities in the world. Perhaps the most striking thing about MOOCs, many of which are being taught by professors at prestigious universities, is that they're free. This is certainly good news for cash-strapped students.\n\nThere is a lot of excitement and fear surrounding MOOCs. While some say free online courses are a great way to increase the enrollment of minority students, others have said they will leave many students behind. Some critics have said that MOOCs promote an unrealistic one-size-fits-all model of higher education and that there is no replacement for true dialogues between professors and their students. After all, a brain is not a computer. We are not blank hard drives waiting to be filled with data. People learn from people they love and remember the things that arouse emotion. Some critics worry that online students will miss out on the social aspects of college.\n51. What is the second paragraph mainly about?",
+    "options": [
+      "The impact of MOOCs.",
+      "The goal of MOOCs.",
+      "The size of MOOC classes.",
+      "The cost of MOOC courses."
+    ],
+    "answerIndex": 0,
+    "explanation": "第二段說明 MOOCs 正在多方面撼動高等教育：大學數量可能大減、課程免費等，主旨是其影響。\n\n故選 (A)"
+  },
+  {
+    "id": "103-gsat-eng-52",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 49-52 題組】\nMOOC, a massive open online course, aims at providing large-scale interactive participation and open access via the web. In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.\n\nMOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up. This new breed of online classes is shaking up the higher education world in many ways. Since the courses can be taken by hundreds of thousands of students at the same time, the number of universities might decrease dramatically. Professor Thrun has even envisioned a future in which there will only need to be 10 universities in the world. Perhaps the most striking thing about MOOCs, many of which are being taught by professors at prestigious universities, is that they're free. This is certainly good news for cash-strapped students.\n\nThere is a lot of excitement and fear surrounding MOOCs. While some say free online courses are a great way to increase the enrollment of minority students, others have said they will leave many students behind. Some critics have said that MOOCs promote an unrealistic one-size-fits-all model of higher education and that there is no replacement for true dialogues between professors and their students. After all, a brain is not a computer. We are not blank hard drives waiting to be filled with data. People learn from people they love and remember the things that arouse emotion. Some critics worry that online students will miss out on the social aspects of college.\n52. Which of the following is a problem of MOOCs mentioned in the passage?",
+    "options": [
+      "The disappearance of traditional course materials.",
+      "The limited number of courses offered around the world.",
+      "The overreliance on professors from prestigious universities.",
+      "The lack of social interaction among students and professors."
+    ],
+    "answerIndex": 3,
+    "explanation": "批評者認為師生間真正的對話無法取代，線上學生會錯過大學的社交層面。\n\n故選 (D)"
+  },
+  {
+    "id": "103-gsat-eng-53",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nToday the car seems to make periodic leaps in progress. A variety of driver assistance technologies are appearing on new cars. A developing technology called Vehicle-to-Vehicle communication, or V2V, is being tested by automotive manufacturers as a way to help reduce the number of accidents. V2V works by using wireless signals to send information back and forth between cars about their location, speed and direction, so that they keep safe distances from each other. Another new technology being tested is Vehicle-to-Infrastructure communication, or V2I. V2I would allow vehicles to communicate with road signs or traffic signals and provide information to the vehicle about safety issues. V2I could also request traffic information from a traffic management system and access the best possible routes. Both V2V and V2I have the potential to reduce around 80 percent of vehicle crashes on the road.\n\nMore and more new cars can reverse-park, read traffic signs, maintain a safe distance in steady traffic and brake automatically to avoid crashes. Moreover, a number of firms are creating cars that drive themselves to a chosen destination without a human at the controls. It is predicted that driverless cars will be ready for sale within five years. If and when cars go completely driverless, the benefits will be enormous. Google, which already uses prototypes of such cars to ferry its staff along Californian freeways, once put a blind man in a prototype and filmed him being driven off to buy takeaway hamburgers. If this works, huge numbers of elderly and disabled people can regain their personal mobility. The young will not have to pay crippling motor insurance, because their reckless hands and feet will no longer touch the wheel or the accelerator. People who commute by car will gain hours each day to work, rest, or read a newspaper.\n53. Which of the following statements is true about V2V?",
+    "options": [
+      "V2V communication has been very well developed.",
+      "Through V2V, drivers can chat with each other on the road.",
+      "V2V is designed to decrease crashes by keeping safe distances.",
+      "Through V2V, a car can warn cyclists nearby of its approach."
+    ],
+    "answerIndex": 2,
+    "explanation": "V2V 讓車輛之間傳送位置、速度、方向資訊，以保持安全距離、減少事故。(A) 仍在開發測試中。\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-54",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nToday the car seems to make periodic leaps in progress. A variety of driver assistance technologies are appearing on new cars. A developing technology called Vehicle-to-Vehicle communication, or V2V, is being tested by automotive manufacturers as a way to help reduce the number of accidents. V2V works by using wireless signals to send information back and forth between cars about their location, speed and direction, so that they keep safe distances from each other. Another new technology being tested is Vehicle-to-Infrastructure communication, or V2I. V2I would allow vehicles to communicate with road signs or traffic signals and provide information to the vehicle about safety issues. V2I could also request traffic information from a traffic management system and access the best possible routes. Both V2V and V2I have the potential to reduce around 80 percent of vehicle crashes on the road.\n\nMore and more new cars can reverse-park, read traffic signs, maintain a safe distance in steady traffic and brake automatically to avoid crashes. Moreover, a number of firms are creating cars that drive themselves to a chosen destination without a human at the controls. It is predicted that driverless cars will be ready for sale within five years. If and when cars go completely driverless, the benefits will be enormous. Google, which already uses prototypes of such cars to ferry its staff along Californian freeways, once put a blind man in a prototype and filmed him being driven off to buy takeaway hamburgers. If this works, huge numbers of elderly and disabled people can regain their personal mobility. The young will not have to pay crippling motor insurance, because their reckless hands and feet will no longer touch the wheel or the accelerator. People who commute by car will gain hours each day to work, rest, or read a newspaper.\n54. What does \"infrastructure\" in Vehicle-to-Infrastructure refer to?",
+    "options": [
+      "Traffic facilities and information systems.",
+      "The basic structure of roads and bridges.",
+      "Knowledge and regulations about safe driving.",
+      "The traffic department of the government."
+    ],
+    "answerIndex": 0,
+    "explanation": "V2I 讓車輛與路標、號誌及交通管理系統溝通，infrastructure 在此指交通設施與資訊系統。\n\n故選 (A)"
+  },
+  {
+    "id": "103-gsat-eng-55",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nToday the car seems to make periodic leaps in progress. A variety of driver assistance technologies are appearing on new cars. A developing technology called Vehicle-to-Vehicle communication, or V2V, is being tested by automotive manufacturers as a way to help reduce the number of accidents. V2V works by using wireless signals to send information back and forth between cars about their location, speed and direction, so that they keep safe distances from each other. Another new technology being tested is Vehicle-to-Infrastructure communication, or V2I. V2I would allow vehicles to communicate with road signs or traffic signals and provide information to the vehicle about safety issues. V2I could also request traffic information from a traffic management system and access the best possible routes. Both V2V and V2I have the potential to reduce around 80 percent of vehicle crashes on the road.\n\nMore and more new cars can reverse-park, read traffic signs, maintain a safe distance in steady traffic and brake automatically to avoid crashes. Moreover, a number of firms are creating cars that drive themselves to a chosen destination without a human at the controls. It is predicted that driverless cars will be ready for sale within five years. If and when cars go completely driverless, the benefits will be enormous. Google, which already uses prototypes of such cars to ferry its staff along Californian freeways, once put a blind man in a prototype and filmed him being driven off to buy takeaway hamburgers. If this works, huge numbers of elderly and disabled people can regain their personal mobility. The young will not have to pay crippling motor insurance, because their reckless hands and feet will no longer touch the wheel or the accelerator. People who commute by car will gain hours each day to work, rest, or read a newspaper.\n55. Which of the following is NOT a potential benefit of driverless cars?",
+    "options": [
+      "The elderly will become more mobile.",
+      "\"Drivers\" can sleep in cars all the way to work.",
+      "People can race cars to their heart's content.",
+      "A blind man can get into a car and travel safely."
+    ],
+    "answerIndex": 2,
+    "explanation": "無人駕駛車的好處是老人、身障者能自由移動，通勤者可以工作、休息；盡情飆車不是好處，也與無人駕駛相反。\n\n故選 (C)"
+  },
+  {
+    "id": "103-gsat-eng-56",
+    "examType": "學測",
+    "year": 103,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 53-56 題組】\nToday the car seems to make periodic leaps in progress. A variety of driver assistance technologies are appearing on new cars. A developing technology called Vehicle-to-Vehicle communication, or V2V, is being tested by automotive manufacturers as a way to help reduce the number of accidents. V2V works by using wireless signals to send information back and forth between cars about their location, speed and direction, so that they keep safe distances from each other. Another new technology being tested is Vehicle-to-Infrastructure communication, or V2I. V2I would allow vehicles to communicate with road signs or traffic signals and provide information to the vehicle about safety issues. V2I could also request traffic information from a traffic management system and access the best possible routes. Both V2V and V2I have the potential to reduce around 80 percent of vehicle crashes on the road.\n\nMore and more new cars can reverse-park, read traffic signs, maintain a safe distance in steady traffic and brake automatically to avoid crashes. Moreover, a number of firms are creating cars that drive themselves to a chosen destination without a human at the controls. It is predicted that driverless cars will be ready for sale within five years. If and when cars go completely driverless, the benefits will be enormous. Google, which already uses prototypes of such cars to ferry its staff along Californian freeways, once put a blind man in a prototype and filmed him being driven off to buy takeaway hamburgers. If this works, huge numbers of elderly and disabled people can regain their personal mobility. The young will not have to pay crippling motor insurance, because their reckless hands and feet will no longer touch the wheel or the accelerator. People who commute by car will gain hours each day to work, rest, or read a newspaper.\n56. What can be inferred from the passage?",
+    "options": [
+      "Cars will refuse to start if the driver is drunk.",
+      "The future may be a vehicle-accident-free era.",
+      "Everyone, including children, can afford a car.",
+      "The production of driverless cars is still far away."
+    ],
+    "answerIndex": 1,
+    "explanation": "V2V 與 V2I 有可能減少約八成的車禍，車輛也能自動煞車避免碰撞，未來可能接近沒有車禍的時代。\n(D) 文中預測五年內就會上市。\n\n故選 (B)"
   }
 ]
