@@ -23615,5 +23615,567 @@
       ]
     ],
     "explanation": "$F$ 沿斜面的分量 $F\\cos37^\\circ = 8\\text{ N}$，方向與下滑位移相反：\n$$W = -F\\cos37^\\circ \\times 2.0 = -8 \\times 2.0 = -16\\text{ J}$$"
+  },
+  {
+    "id": "103-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "在吉他空腔的圓孔前以管笛吹奏某特定頻率的聲音，即使不彈奏吉他，吉他也可能會發出聲音並看到弦在振動，這主要是下列何種物理現象造成的？",
+    "options": [
+      "回聲",
+      "繞射",
+      "反射",
+      "折射",
+      "共鳴"
+    ],
+    "answerIndex": 4,
+    "explanation": "【共鳴】\n當外來聲音的頻率等於吉他弦（或空腔）的自然頻率時，弦會吸收能量而大幅振動，這是共鳴（共振）。\n\n故選 (E)"
+  },
+  {
+    "id": "103-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "欲使核電廠之核子反應爐內的連鎖反應停止，可以注入大量的硼酸，這是因為硼酸很容易吸收下列何者？",
+    "options": [
+      "熱",
+      "質子",
+      "中子",
+      "輻射線",
+      "鈾原子"
+    ],
+    "answerIndex": 2,
+    "explanation": "【控制連鎖反應】\n鈾-235 的分裂由中子引發，又會放出中子維持連鎖反應。硼（硼-10）吸收中子的能力很強，大量吸收中子後，連鎖反應就無法持續。\n\n故選 (C)"
+  },
+  {
+    "id": "103-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "已知在某一溫度下，同種氣體分子的運動速率有大有小。今將同為 5 莫耳及 100°C 的氦氣及氮氣注入同一密閉隔熱的真空鋼瓶內，鋼瓶上裝設有一速度選擇閥，當此閥門開啟時可以使到達該閥門而速率高於 400 m/s 的鋼瓶內任何種類氣體分子單向通過此閥門，而脫離鋼瓶。待氦氣與氮氣達到熱平衡後開啟此速度選擇閥一段時間，然後關閉。當存留於鋼瓶內的氦氣與氮氣再次達到熱平衡後，則下列關於鋼瓶中氦氣與氮氣的敘述，何者正確？（氦氣分子量為 4，氮氣分子量為 28）",
+    "options": [
+      "氦氣的溫度較氮氣高",
+      "氮氣的溫度較氦氣高",
+      "氮氣的分壓較氦氣高",
+      "氦氣的分壓較氮氣高",
+      "兩種氣體的分子數目相等"
+    ],
+    "answerIndex": 2,
+    "explanation": "【分子速率分布】\n• 同溫下分子量小的氦氣方均根速率大得多，速率超過 400 m/s 的分子比例遠高於氮氣，所以逃出的氦分子較多，剩下的氦分子數少於氮分子數，(E) 錯誤。\n• 再次熱平衡後兩種氣體在同一容器中，溫度相同，(A)(B) 錯誤。\n• 同溫同體積下分壓與分子數成正比，氮氣的分壓較高。\n\n故選 (C)"
+  },
+  {
+    "id": "103-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "空間中某區域的電力線分布如圖 1，其電場方向如箭頭所示，下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-04.png\" alt=\"圖1 電力線分布與甲、乙兩點\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲點的電場較乙點強",
+      "甲點之電位低於乙點之電位",
+      "若甲點沒有電荷存在，則可以有兩條電力線通過甲點",
+      "帶電粒子在甲點所受之靜電力之方向即為甲點電場之方向",
+      "在甲點附近以平行電力線的方向移動帶電粒子時，電場所施之靜電力不會對該粒子作功"
+    ],
+    "answerIndex": 0,
+    "explanation": "【電力線的性質】\n• (A) 正確：甲點附近的電力線比乙點密，電場較強。\n• (B) 錯誤：沿電力線方向電位降低；甲、乙在不同電力線上，但依圖中走向甲在上游，電位不比乙低（本題主要考電場強弱）。\n• (C) 錯誤：沒有電荷的地方，電力線不會相交。\n• (D) 錯誤：負電荷受力方向與電場相反。\n• (E) 錯誤：沿電場方向移動，電力與位移平行，會作功。\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "有一質量可忽略的理想彈簧一端固定，另一端繫有一質點，在光滑水平面上作一維簡諧運動，則在一個週期內，彈性位能 $U$ 隨時間 $t$ 的變化圖最可能為下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-05.png\" alt=\"選項 (A)～(E) 的 U-t 圖\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 3,
+    "explanation": "【彈性位能 $U = \\dfrac{1}{2}kx^2 \\ge 0$】\n$x = A\\cos\\omega t$，$U = \\dfrac{1}{2}kA^2\\cos^2\\omega t = \\dfrac{1}{4}kA^2(1 + \\cos2\\omega t)$：恆為非負，且一個週期內出現兩次極大（兩端點）與兩次零（平衡點）。只有 (D) 符合。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "某生以水波槽觀察水波的傳播，將厚玻璃板平置於水波槽底，形成淺水區與深水區，並以直線起波器產生直線波。以下各圖中，$v$ 與 $v'$ 分別為深水區與淺水區的波速，箭頭所示為波傳播的方向。下列關於連續波前與波傳播方向的關係示意圖，何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-06.png\" alt=\"選項 (A)～(E) 的水波折射示意圖\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 3,
+    "explanation": "【水波由深水區進入淺水區】\n• 淺水區波速較慢，頻率不變，波長變短：淺水區的波前應比深水區密。\n• 波傳播方向與波前垂直，並在界面處偏向法線。\n• 波前在界面上要連續相接。\n(A) 淺水區波前反而較疏；(B)(C) 傳播方向與波前不垂直或偏折方向錯；(E) 方向未偏折。只有 (D) 波前變密、方向朝法線偏折且與波前垂直。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "如圖 2 所示，空氣中一球形水滴，紅、藍兩道平行的單色光分別從 P、Q 兩點入射，其入射角分別為 $\\theta_P$、$\\theta_Q$，則下列相關敘述，何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-07.png\" alt=\"圖2 紅、藍光射向球形水滴\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\theta_P < \\theta_Q$，且兩色光均將在界面處同時發生反射與折射",
+      "$\\theta_P > \\theta_Q$，且兩色光均將在界面處同時發生反射與折射",
+      "$\\theta_P < \\theta_Q$，且僅紅光將在界面處同時發生反射與折射",
+      "$\\theta_P < \\theta_Q$，且僅藍光將在界面處同時發生反射與折射",
+      "$\\theta_P > \\theta_Q$，且僅紅光將在界面處同時發生反射與折射"
+    ],
+    "answerIndex": 0,
+    "explanation": "【入射角與界面現象】\n• 入射角是光線與該點法線（半徑方向）的夾角。P 比 Q 更靠近水平直徑，法線與光線的夾角較小，$\\theta_P < \\theta_Q$。\n• 光由空氣射入水中（低折射率進入高折射率），不會發生全反射，一定同時有部分反射與部分折射，紅、藍光皆然。\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "在波耳的氫原子模型中，假設 $E$ 為電子繞原子核的力學能，$K$ 為電子的動能，$L$ 為電子的角動量，$n$ 為主量子數，$h$ 為普朗克常數，則下列的關係式何者正確？",
+    "options": [
+      "$E = K$",
+      "$E = 2K$",
+      "$E = -\\dfrac{1}{2}K$",
+      "$L = (n + 1)\\dfrac{h}{2\\pi}$",
+      "$L = n\\dfrac{h}{2\\pi}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【波耳模型】\n• 庫侖力提供向心力：$K = \\dfrac{ke^2}{2r}$，位能 $U = -\\dfrac{ke^2}{r} = -2K$，力學能 $E = K + U = -K$，(A)(B)(C) 都不對。\n• 角動量量子化：$L = mvr = n\\dfrac{h}{2\\pi}$，$n = 1, 2, 3, \\dots$\n\n故選 (E)"
+  },
+  {
+    "id": "103-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "一細長磁鐵棒繫於棉線下端形成單擺，並於此擺的正下方放置一環形導線，如圖 3 所示，箭頭所示方向表示導線上電流的正方向。當時間 $t = 0$ 時，單擺由圖 3 的位置自靜止釋放而來回擺動，若此單擺的擺動可視為週期運動，其週期為 $T$，下列何者最可能表示該導線上的電流 $i$ 與時間 $t$ 在單擺擺動一週期內的關係圖？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-09a.png\" alt=\"圖3 磁鐵單擺與環形導線\" style=\"width:100%;max-width:110px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-09b.png\" alt=\"選項 (A)～(E) 的 i-t 圖\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 4,
+    "explanation": "【磁鐵經過線圈的感應電流】\n• 一個週期內磁鐵兩次經過線圈正上方（向右擺過一次、擺回一次）。\n• 每次經過時，磁鐵 N 極端先靠近再離開，通過線圈的磁通量先增加後減少，感應電流先朝一個方向、再反向，形成「一正一負」的一對脈衝。\n• 擺回時運動方向相反，這對脈衝的順序也相反（先負後正）。\n所以一個週期內共有兩對方向相反的雙峰脈衝，對應圖 (E)。\n\n故選 (E)"
+  },
+  {
+    "id": "103-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "核能電廠遇突發事故時可以關閉反應爐，停止連鎖反應，反應後的產物仍具有放射性，也會持續產生餘熱，因此仍需用水來冷卻反應爐。假設某反應爐正常運轉的發電功率為 $2.1\\times10^9\\text{ W}$，停機以後某時段內餘熱的發熱功率為正常運轉時發電功率的 4.0%。已知水的比熱為 $4.2\\times10^3\\text{ J/kg}\\cdot\\text{K}$，如果用 20°C 的水來吸收此餘熱，且不能讓水沸騰而蒸發，則每秒至少需要多少質量的水？",
+    "options": [
+      "$8.4\\times10^1\\text{ kg}$",
+      "$2.5\\times10^2\\text{ kg}$",
+      "$7.5\\times10^2\\text{ kg}$",
+      "$1.0\\times10^3\\text{ kg}$",
+      "$6.3\\times10^4\\text{ kg}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【熱量計算】\n每秒餘熱 $0.040 \\times 2.1\\times10^9 = 8.4\\times10^7\\text{ J}$。水最多升溫 $100 - 20 = 80\\text{ K}$：\n$$m = \\frac{8.4\\times10^7}{4.2\\times10^3 \\times 80} = 250\\text{ kg}$$\n故選 (B)"
+  },
+  {
+    "id": "103-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "重量為 8000 牛頓的車子，在水平的道路上以 $12\\text{ m/s}$ 的速率直線前進，如果車子忽然緊急煞車後，滑行了 4.0 秒鐘才停住，取重力加速度為 $10\\text{ m/s}^2$，則在煞車過程中所產生的總熱能最多約為多少？",
+    "options": [
+      "$4.8\\times10^3\\text{ J}$",
+      "$5.8\\times10^4\\text{ J}$",
+      "$1.2\\times10^5\\text{ J}$",
+      "$5.8\\times10^5\\text{ J}$",
+      "$4.8\\times10^6\\text{ J}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【動能全部轉為熱能】\n$m = \\dfrac{8000}{10} = 800\\text{ kg}$，動能 $\\dfrac{1}{2}(800)(12)^2 = 57600\\text{ J} \\approx 5.8\\times10^4\\text{ J}$。產生的熱能最多就是全部動能（滑行時間只是多餘資訊）。\n\n故選 (B)"
+  },
+  {
+    "id": "103-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 12-13 題為題組】質量為 $2\\text{ kg}$ 的物體原先靜止於一光滑水平面，$t = 0$ 秒時因受外力而開始沿一直線運動，測得該物體之加速度 $a$ 與時間 $t$ 的關係如圖 4。\n12. 時間由 0 至 4 秒之間，該物體所受之衝量為多少？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-12.png\" alt=\"圖4 加速度與時間關係\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "2 N·s",
+      "4 N·s",
+      "6 N·s",
+      "8 N·s",
+      "10 N·s"
+    ],
+    "answerIndex": 1,
+    "explanation": "【$a$-$t$ 圖面積為速度變化】\n• 0～1 s：$2 \\times 1 = 2\\text{ m/s}$\n• 1～4 s：加速度由 2 線性降到 $-2$，在 2.5 s 時為零，正負面積各 $\\dfrac{1}{2}\\times1.5\\times2 = 1.5$，互相抵消。\n$\\Delta v = 2\\text{ m/s}$，衝量 $J = m\\Delta v = 2 \\times 2 = 4\\text{ N}\\cdot\\text{s}$。\n\n故選 (B)"
+  },
+  {
+    "id": "103-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "【第 12-13 題為題組】質量為 $2\\text{ kg}$ 的物體原先靜止於一光滑水平面，$t = 0$ 秒時因受外力而開始沿一直線運動，測得該物體之加速度 $a$ 與時間 $t$ 的關係如圖 4。\n13. 時間由 0 至 4 秒之間，外力對物體共作多少功？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-12.png\" alt=\"圖4 加速度與時間關係\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "0",
+      "2 J",
+      "4 J",
+      "6 J",
+      "8 J"
+    ],
+    "answerIndex": 2,
+    "explanation": "【功能定理】\n由第 12 題，4 s 時速度為 $2\\text{ m/s}$（由靜止出發）：$W = \\Delta K = \\dfrac{1}{2}(2)(2)^2 = 4\\text{ J}$。\n\n故選 (C)"
+  },
+  {
+    "id": "103-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "一容積為 $V$ 的氧氣筒內裝有壓力為 $P$ 的高壓氧，筒內氣體的絕對溫度 $T$ 與室溫相同。設病患在大氣壓力 $P_0$ 下利用壓力差使用此氧氣筒。假設筒內的氧氣為理想氣體，氣體常數為 $R$，且每單位時間流出的氧分子莫耳數固定為 $r$，過程中氧氣筒內外溫度皆保持為 $T$，則此筒氧氣可使用的時間為何？",
+    "options": [
+      "$\\dfrac{VP}{rRT}$",
+      "$\\dfrac{rP_0}{PV}$",
+      "$\\dfrac{VR(P - P_0)}{rT}$",
+      "$\\dfrac{T(P - P_0)}{rRV}$",
+      "$\\dfrac{V(P - P_0)}{rRT}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【可用的莫耳數】\n靠壓力差流出，筒內壓力降到 $P_0$ 時就流不出來。可用莫耳數：\n$$\\Delta n = \\frac{PV}{RT} - \\frac{P_0V}{RT} = \\frac{(P - P_0)V}{RT}$$\n使用時間 $t = \\dfrac{\\Delta n}{r} = \\dfrac{V(P - P_0)}{rRT}$。\n\n故選 (E)"
+  },
+  {
+    "id": "103-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "有一行星繞行某一恆星以正圓軌道運行，軌道半徑為恆星半徑的 1000 倍。若該恆星的半徑因演化而增加為原來的 2 倍，而此時行星的正圓軌道半徑也因故變為原來的 $\\dfrac{1}{2}$，但兩者的質量皆保持不變，則下列敘述何者正確？",
+    "options": [
+      "行星的繞行週期變為原來的 $\\dfrac{1}{4}$",
+      "行星的繞行週期變為原來的 $2\\sqrt2$ 倍",
+      "恆星的表面重力加速度變為原來的 $\\dfrac{1}{4}$",
+      "行星所受恆星的重力變為原來的 $\\dfrac{1}{4}$",
+      "恆星所受行星的重力變為原來的 $\\dfrac{1}{2}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "【萬有引力】\n• 週期 $T \\propto r^{3/2}$（恆星質量不變），軌道半徑減半，週期變為 $\\left(\\dfrac{1}{2}\\right)^{3/2} = \\dfrac{1}{2\\sqrt2}$ 倍，(A)(B) 錯誤。\n• 表面重力加速度 $g = \\dfrac{GM}{R^2}$，恆星半徑變 2 倍，$g$ 變為 $\\dfrac{1}{4}$，(C) 正確。\n• 兩者間的引力 $\\propto \\dfrac{1}{r^2}$，軌道半徑減半，引力變 4 倍（互為作用力與反作用力，大小相同），(D)(E) 錯誤。\n\n故選 (C)"
+  },
+  {
+    "id": "103-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "一汽車開在曲率半徑為 16 m 的彎曲水平路面上，車胎與路面的靜摩擦係數為 0.40，動摩擦係數為 0.20，取重力加速度為 10 m/s²，則汽車在此道路上能等速安全轉彎而不打滑的最大速率約為下列何者？",
+    "options": [
+      "64 m/s",
+      "32 m/s",
+      "16 m/s",
+      "8.0 m/s",
+      "5.7 m/s"
+    ],
+    "answerIndex": 3,
+    "explanation": "【靜摩擦力提供向心力】\n不打滑時是靜摩擦力：$\\dfrac{mv^2}{r} \\le \\mu_s mg \\implies v \\le \\sqrt{\\mu_s g r} = \\sqrt{0.40 \\times 10 \\times 16} = 8.0\\text{ m/s}$\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "由彈性物質的性質可知若將一彈性繩對折，相當於將此彈性繩裁剪成相同長度的二段繩，每段繩在相同的外力作用下，其伸長量為原來的一半。今有原長 20 公分的彈性繩，其外力與伸長量的關係如圖 5 所示，將此彈性繩對折，其兩端點固定於天花板同一位置，並於對折點鉛垂懸吊一物體，然後再緩慢放手，平衡後發現物體下降 2.0 公分，則該物體重約為多少牛頓？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-17.png\" alt=\"圖5 外力與伸長量關係\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "0.8",
+      "1.6",
+      "3.2",
+      "6.4",
+      "9.6"
+    ],
+    "answerIndex": 2,
+    "explanation": "【彈簧的分段與並聯】\n• 由圖 5（線性部分），原繩力常數 $k = \\dfrac{4\\text{ N}}{10\\text{ cm}} = 0.4\\text{ N/cm}$。\n• 半長的繩力常數加倍 $2k$；對折後兩段並聯，總力常數 $4k = 1.6\\text{ N/cm}$。\n• 下降 2.0 cm：$W = 1.6 \\times 2.0 = 3.2\\text{ N}$\n\n故選 (C)"
+  },
+  {
+    "id": "103-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "某生欲以間距為 1.6 mm 的雙狹縫，來測知另一單狹縫的縫寬。當雷射光垂直入射雙狹縫後，在屏幕上測得相鄰兩暗紋的間距為 0.60 cm，在所有器材與實驗設置不變的情況下，僅將雙狹縫更換為單狹縫後，在屏幕上中央亮帶的同一側，測得相鄰兩暗紋的間距為 6.0 cm，則單狹縫的縫寬為何？",
+    "options": [
+      "0.16 mm",
+      "0.32 mm",
+      "1.6 mm",
+      "3.2 mm",
+      "3.2 cm"
+    ],
+    "answerIndex": 0,
+    "explanation": "【暗紋間距】\n• 雙狹縫：$\\Delta y = \\dfrac{L\\lambda}{d} = 0.60\\text{ cm}$\n• 單狹縫（中央亮帶同側）：$\\Delta y' = \\dfrac{L\\lambda}{a} = 6.0\\text{ cm}$\n$$\\frac{d}{a} = 10 \\implies a = \\frac{1.6}{10} = 0.16\\text{ mm}$$\n故選 (A)"
+  },
+  {
+    "id": "103-ast-phy-19",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "在常溫常壓下，一長度為 1.50 m、兩端固定的弦，所能產生的最低音頻為 264 Hz。下列有關此弦振動時的敘述，何者正確？",
+    "options": [
+      "弦振動的基頻為 132 Hz",
+      "基頻振動的波長為 1.50 m",
+      "音頻愈高，則弦波波長也愈長",
+      "弦可以產生頻率為 528 Hz 的聲波",
+      "弦以基頻振動所產生的聲波，在空氣中傳播的波速為 792 m/s"
+    ],
+    "answerIndex": 3,
+    "explanation": "【兩端固定弦的諧音】\n• 最低音頻就是基頻 264 Hz，(A) 錯誤。\n• 基頻波長 $2L = 3.00\\text{ m}$，(B) 錯誤；弦上波速 $264 \\times 3 = 792\\text{ m/s}$ 是「弦波」波速，不是空氣中的聲速，(E) 錯誤。\n• 波速固定時頻率越高波長越短，(C) 錯誤。\n• 諧音為基頻的整數倍，$528 = 2 \\times 264$ Hz 可以產生，(D) 正確。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-phy-20",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "points": 3,
+    "question": "有一個邊長為 $L$、電阻為 $R$ 的方形封閉迴路自靜止自由落下，如圖 6，經過 $L$ 的鉛垂位移後開始進入一水平方向的均勻磁場 $B$ 中，磁場方向與迴路面垂直，圖 6 中虛線以下為磁場區域。假設 $g$ 為重力加速度，而且方形迴路在開始進入該磁場後而未完全進入磁場區的過程中，作等速鉛直運動，則此過程中方形迴路上的電流 $I$ 及其質量 $m$ 分別為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-20.png\" alt=\"圖6 方形迴路落入磁場\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$I = \\dfrac{BL\\sqrt{2gL}}{R}$，$m = \\dfrac{\\sqrt{2L}}{\\sqrt g R}B^2L^2$",
+      "$I = \\dfrac{BL\\sqrt{2gL}}{R}$，$m = \\dfrac{\\sqrt{Lg}}{R}B^2$",
+      "$I = \\dfrac{\\sqrt{BgL}}{R}$，$m = \\dfrac{\\sqrt L}{\\sqrt g R}BL$",
+      "$I = \\dfrac{\\sqrt{BgL}}{R}$，$m = \\dfrac{\\sqrt L}{\\sqrt{2g}R}BL$",
+      "$I = \\dfrac{\\sqrt{BgL}}{R}$，$m = \\dfrac{\\sqrt L}{\\sqrt g R}BL^2$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【等速進入磁場：磁力等於重力】\n• 自由落下 $L$：$v = \\sqrt{2gL}$\n• 下邊切割磁場：$\\varepsilon = BLv$，$I = \\dfrac{BL\\sqrt{2gL}}{R}$\n• 等速：$mg = BIL = \\dfrac{B^2L^2\\sqrt{2gL}}{R} \\implies m = \\dfrac{B^2L^2\\sqrt{2gL}}{gR} = \\dfrac{\\sqrt{2L}}{\\sqrt g R}B^2L^2$\n\n故選 (A)"
+  },
+  {
+    "id": "103-ast-phy-21",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "某生用電子做雙狹縫干涉實驗，在狹縫後的螢幕上有電子偵測器，每次電子在垂直入射雙狹縫後，會撞擊偵測器顯示出一亮點。用許多電子逐一重覆上述步驟後，統計螢幕上各處偵測器所顯示的亮點數目，可以得到類似光波的干涉條紋。在螢幕上有甲、乙、丙三點，甲點與乙點分別位於兩個狹縫的正後方，丙點為甲乙之中點。下列敘述哪些正確？",
+    "options": [
+      "使用不同速率的電子重覆實驗，丙點一定是亮點",
+      "使用速率較大的電子重覆實驗，所形成的干涉條紋較密",
+      "使用不同速率的電子重覆實驗，甲、乙兩點一定是亮點",
+      "將電子換成中子，且將電子偵測器換成中子偵測器，丙點不會是亮點",
+      "電子射出的時間間隔增長為原來的兩倍，重覆實驗，則干涉條紋的間隔將增為兩倍"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "【物質波的雙狹縫干涉】\n• (A) 正確：丙點到兩狹縫等距，程差為零，永遠是中央亮紋。\n• (B) 正確：速率大、動量大，$\\lambda = \\dfrac{h}{p}$ 變短，條紋間距 $\\dfrac{L\\lambda}{d}$ 變小，條紋較密。\n• (C) 錯誤：甲、乙的程差與波長有關，不一定是亮紋。\n• (D) 錯誤：中子也有物質波，丙點仍為中央亮紋。\n• (E) 錯誤：條紋間距只與波長、$L$、$d$ 有關，與電子發射的時間間隔無關（電子一個一個來也會形成干涉）。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "103-ast-phy-22",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "一個電子經過電位差 $V$ 加速之後，撞擊金屬靶而將動能完全轉換為電磁波的光子能量。若此過程能夠輻射光子的最短波長為 $\\lambda_S$，普朗克常數為 $h$，光速為 $c$，基本電荷為 $e$，則下列有關此最短波長光子及入射電子的敘述，哪些正確？",
+    "options": [
+      "$\\lambda_S = \\dfrac{hc}{V}$",
+      "光子的動量量值為 $\\dfrac{eV}{c}$",
+      "光子的能量為 $eV$",
+      "光子的頻率為 $\\dfrac{hc}{\\lambda_S}$",
+      "電子的動能為 $\\dfrac{1}{2}eV^2$"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "【X 射線的最短波長】\n電子動能 $eV$ 全部變成一個光子時波長最短：\n• (C) 正確：光子能量 $eV$；(E) 錯誤，電子動能是 $eV$。\n• (A) 錯誤：$\\lambda_S = \\dfrac{hc}{eV}$，少了 $e$。\n• (B) 正確：$p = \\dfrac{E}{c} = \\dfrac{eV}{c}$。\n• (D) 錯誤：頻率 $f = \\dfrac{c}{\\lambda_S}$；$\\dfrac{hc}{\\lambda_S}$ 是能量。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "103-ast-phy-23",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "在一個光滑的水平面上，有兩個質量相同、半徑均為 $r$ 的光滑彈珠 P 和 Q 發生彈性碰撞。碰撞前彈珠 P 的球心沿直線 L 以等速度 $\\vec v_0$ 向右移動，Q 則是靜止的，Q 的球心到直線 L 的垂直距離是 $1.6r$，如圖 7 所示。若令碰撞後彈珠 P 與彈珠 Q 的運動方向與 $\\vec v_0$ 的夾角分別為 $\\alpha$ 與 $\\beta$，則下列關係式哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-23.png\" alt=\"圖7 彈珠 P、Q 的斜向碰撞\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\sin\\alpha = \\dfrac{3}{5}$",
+      "$\\sin\\alpha = \\dfrac{4}{5}$",
+      "$\\sin\\beta = \\dfrac{3}{5}$",
+      "$\\sin\\beta = \\dfrac{4}{5}$",
+      "$\\alpha + \\beta = 60^\\circ$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "【二維彈性碰撞】\n• 碰撞瞬間兩球心相距 $2r$，連心線與 L 的垂直距離 $1.6r$，所以連心線與 $\\vec v_0$ 的夾角 $\\beta$ 滿足 $\\sin\\beta = \\dfrac{1.6r}{2r} = \\dfrac{4}{5}$。光滑球之間的力沿連心線，Q 沿此方向射出，(D) 正確。\n• 質量相同的彈性斜碰（一球靜止），碰後兩球速度互相垂直：$\\alpha + \\beta = 90^\\circ$，所以 $\\sin\\alpha = \\cos\\beta = \\dfrac{3}{5}$，(A) 正確，(E) 錯誤。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "103-ast-phy-24",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 8，電動勢為 $0.10\\text{ V}$ 的電池，連接一安培計 A，兩者的內電阻均可忽略。電池的一端連接一長度為 $1.0\\text{ m}$ 導線的右端，安培計的另一端接上導線的某一點，$x$ 為接點與導線左端的距離，導線由一段鎢線（電阻率為 $5.6\\times10^{-8}\\ \\Omega\\cdot\\text{m}$）和一段銅線（電阻率為 $2.8\\times10^{-8}\\ \\Omega\\cdot\\text{m}$）串接而成，其截面積相同。由安培計測得的電流 $I$，所推得的電路總電阻 $R$ 和 $x$ 的關係如圖 9。下列選項哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-24a.png\" alt=\"圖8 電路連接\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-24b.png\" alt=\"圖9 總電阻與接點位置\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "鎢線在左，長度為 0.3 m",
+      "銅線在左，長度為 0.3 m",
+      "導線的截面積約為 $1.0\\times10^{-8}\\text{ m}^2$",
+      "當 $x = 0.3\\text{ m}$ 時，電路的總電阻約為 $38\\ \\Omega$",
+      "當 $x = 0.5\\text{ m}$ 時，電池消耗的功率約為 $0.36\\text{ W}$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【由 R-x 圖的斜率判斷材料】\n電路中的導線是接點到右端那一段，長度 $1.0 - x$；$x$ 增加 $\\Delta x$，電阻減少 $\\dfrac{\\rho}{A}\\Delta x$，所以圖 9 的斜率大小就是該處導線的 $\\dfrac{\\rho}{A}$。\n• $0\\sim0.3\\text{ m}$：斜率約 $\\dfrac{(47.5 - 39)\\times10^{-3}}{0.3} \\approx 0.028\\ \\Omega/\\text{m}$；$0.3\\text{ m}$ 以後約 $\\dfrac{(39 - 22.5)\\times10^{-3}}{0.3} = 0.055\\ \\Omega/\\text{m}$，約為前者 2 倍。電阻率較小的銅線在左、長 0.3 m，(B) 正確、(A) 錯誤。\n• (C) 錯誤：$A = \\dfrac{\\rho}{0.055} = \\dfrac{5.6\\times10^{-8}}{0.055} \\approx 1.0\\times10^{-6}\\text{ m}^2$。\n• (D) 錯誤：圖的縱軸單位是 $10^{-3}\\ \\Omega$，約 $39\\text{ m}\\Omega$，不是 $38\\ \\Omega$。\n• (E) 正確：$x = 0.5$ 時 $R \\approx 28\\times10^{-3}\\ \\Omega$，$P = \\dfrac{V^2}{R} = \\dfrac{0.01}{0.028} \\approx 0.36\\text{ W}$。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "103-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】某生為了測得一個凸透鏡的未知焦距，進行以下實驗：將光源 A、光源屏 B、薄透鏡 C、像屏 D 等依序水平排列，如圖 10 所示。若該生由 B、C 之間面對光源屏 B，會看到光源屏如圖 11 所示，其中黑色的箭頭圖案即為光源屏的可透光區。每當改變 BC 的距離，則經調整 CD 的距離後，便可在像屏 D 上清楚看到帶有箭頭的影像。某生針對五個不同的 BC 距離，分別測量對應的 CD 距離，記錄於表 1。\n\n1. 在表 1 中「次序 1」的實驗過程中，若由 C、D 之間面對像屏 D，畫出像屏上所看到的透鏡成像圖案（標出像屏的上及右）。比較該影像與光源屏 B 之圖案的尺寸大小，並說明理由。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-non-1a.png\" alt=\"圖10 光源、光源屏、透鏡與像屏\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-non-1b.png\" alt=\"圖11 光源屏上的箭頭圖案\" style=\"width:100%;max-width:140px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><svg viewBox=\"0 0 354 212\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:424.8px;height:auto;display:block;\"><text x=\"177\" y=\"20\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 1</text><rect x=\"2\" y=\"28\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">次序</text><rect x=\"72\" y=\"28\" width=\"140\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">BC 距離 (cm)</text><rect x=\"212\" y=\"28\" width=\"140\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">CD 距離 (cm)</text><rect x=\"2\" y=\"58\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1</text><rect x=\"72\" y=\"58\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20.0</text><rect x=\"212\" y=\"58\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20.0</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2</text><rect x=\"72\" y=\"88\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">25.0</text><rect x=\"212\" y=\"88\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">17.0</text><rect x=\"2\" y=\"118\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3</text><rect x=\"72\" y=\"118\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">30.0</text><rect x=\"212\" y=\"118\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">15.0</text><rect x=\"2\" y=\"148\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4</text><rect x=\"72\" y=\"148\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">40.0</text><rect x=\"212\" y=\"148\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">13.0</text><rect x=\"2\" y=\"178\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"197.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">5</text><rect x=\"72\" y=\"178\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"197.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">50.0</text><rect x=\"212\" y=\"178\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"197.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">12.5</text></svg>",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "影像為倒立實像：上下顛倒、左右也顛倒（由 C、D 之間面對像屏看，箭頭朝下、橫向箭頭朝左側…依實際方位上下左右都反轉）；大小與光源屏圖案相同，因為次序 1 的像距 CD = 物距 BC = 20.0 cm，放大率 = 像距/物距 = 1。"
+    ],
+    "blankLabels": [
+      "圖案與大小比較"
+    ],
+    "explanation": "【凸透鏡成實像】\n• 實像相對於物是倒立的：上下、左右都反轉。觀察方向不同時，左右的感覺會再反一次，作圖時要依題目指定的觀察方向（由 C、D 之間面對像屏）。\n• 放大率 $= \\dfrac{\\text{像距}}{\\text{物距}} = \\dfrac{20.0}{20.0} = 1$，所以影像與光源屏上的圖案一樣大（此時物距 = 像距 = $2f$）。"
+  },
+  {
+    "id": "103-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】某生為了測得一個凸透鏡的未知焦距，進行以下實驗：將光源 A、光源屏 B、薄透鏡 C、像屏 D 等依序水平排列，如圖 10 所示。若該生由 B、C 之間面對光源屏 B，會看到光源屏如圖 11 所示，其中黑色的箭頭圖案即為光源屏的可透光區。每當改變 BC 的距離，則經調整 CD 的距離後，便可在像屏 D 上清楚看到帶有箭頭的影像。某生針對五個不同的 BC 距離，分別測量對應的 CD 距離，記錄於表 1。\n\n2. 利用薄透鏡成像公式，將表 1 的數據做適當的運算或組合後，畫出合適的關係圖，以明確驗證薄透鏡成像公式，並說明可以明確驗證的理由。（4 分）",
+    "svg": "<svg viewBox=\"0 0 354 212\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:424.8px;height:auto;display:block;\"><text x=\"177\" y=\"20\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">表 1</text><rect x=\"2\" y=\"28\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">次序</text><rect x=\"72\" y=\"28\" width=\"140\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">BC 距離 (cm)</text><rect x=\"212\" y=\"28\" width=\"140\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"47.666666666666664\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">CD 距離 (cm)</text><rect x=\"2\" y=\"58\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1</text><rect x=\"72\" y=\"58\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20.0</text><rect x=\"212\" y=\"58\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"77.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20.0</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2</text><rect x=\"72\" y=\"88\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">25.0</text><rect x=\"212\" y=\"88\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"107.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">17.0</text><rect x=\"2\" y=\"118\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3</text><rect x=\"72\" y=\"118\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">30.0</text><rect x=\"212\" y=\"118\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"137.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">15.0</text><rect x=\"2\" y=\"148\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4</text><rect x=\"72\" y=\"148\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">40.0</text><rect x=\"212\" y=\"148\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"167.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">13.0</text><rect x=\"2\" y=\"178\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"197.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">5</text><rect x=\"72\" y=\"178\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"197.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">50.0</text><rect x=\"212\" y=\"178\" width=\"140\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"197.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">12.5</text></svg>",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "算出 $\\dfrac{1}{BC}$ 與 $\\dfrac{1}{CD}$（例如 0.050/0.050、0.040/0.059、0.033/0.067、0.025/0.077、0.020/0.080 cm⁻¹），以 $\\dfrac{1}{BC}$ 為橫軸、$\\dfrac{1}{CD}$ 為縱軸作圖，得斜率約 $-1$ 的直線；或以 $\\dfrac{1}{BC}$ 為橫軸、$\\dfrac{1}{BC} + \\dfrac{1}{CD}$ 為縱軸，得約 0.100 cm⁻¹ 的水平線，表示 $\\dfrac{1}{BC} + \\dfrac{1}{CD} = \\dfrac{1}{f}$ 為常數，$f \\approx 10.0\\text{ cm}$。"
+    ],
+    "blankLabels": [
+      "作圖與理由"
+    ],
+    "explanation": "【把成像公式化成直線】\n成像公式 $\\dfrac{1}{p} + \\dfrac{1}{q} = \\dfrac{1}{f}$。直接畫 $q$ 對 $p$ 是曲線，難以判斷；改畫 $\\dfrac{1}{q}$ 對 $\\dfrac{1}{p}$：若為斜率 $-1$、截距 $\\dfrac{1}{f}$ 的直線，或 $\\dfrac{1}{p} + \\dfrac{1}{q}$ 為定值的水平線，就明確驗證了公式。（也可畫 $p\\cdot q$ 對 $p + q$，應為通過原點、斜率 $f$ 的直線。）"
+  },
+  {
+    "id": "103-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題一】某生為了測得一個凸透鏡的未知焦距，進行以下實驗：將光源 A、光源屏 B、薄透鏡 C、像屏 D 等依序水平排列，如圖 10 所示。若該生由 B、C 之間面對光源屏 B，會看到光源屏如圖 11 所示，其中黑色的箭頭圖案即為光源屏的可透光區。每當改變 BC 的距離，則經調整 CD 的距離後，便可在像屏 D 上清楚看到帶有箭頭的影像。某生針對五個不同的 BC 距離，分別測量對應的 CD 距離，記錄於表 1。\n\n3. 若要見到光源屏 B 上箭頭圖案的虛像，則 BC 的距離大小有何限制？要如何以實驗方式測量出該虛像的像距？請簡要說明實驗操作步驟。（3 分）",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "BC 必須小於焦距 10.0 cm。用視差法：在光源屏 B 同一側豎立一支筆（參考物），從像屏那一側透過透鏡看箭頭的虛像，左右移動眼睛並調整筆的位置，直到筆與虛像沒有相對移動（重合），此時筆到透鏡 C 的距離就是虛像的像距。"
+    ],
+    "blankLabels": [
+      "限制與方法"
+    ],
+    "explanation": "【虛像與視差法】\n• 物體在凸透鏡焦點以內才會成正立放大的虛像；由第 2 小題 $f \\approx 10.0\\text{ cm}$，所以 $BC < 10.0\\text{ cm}$。\n• 虛像無法投影在屏幕上，要用視差法找位置：參考物與虛像在同一位置時，眼睛左右移動兩者不會相對錯開。"
+  },
+  {
+    "id": "103-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】以一對分別帶有等量正負電荷的平行板作為電子的轉向裝置，其中帶正電的下板挖有相距 $1.0\\text{ cm}$ 的兩個小縫，側視圖如圖 12 所示。設有一電子以 $4.55\\times10^{-19}\\text{ J}$ 的動能及 $45^\\circ$ 的入射角，從一縫進入，由另一縫射出，而且電子的射入與射出方向的夾角為 $90^\\circ$。已知電子的質量為 $9.1\\times10^{-31}\\text{ kg}$，電量為 $-1.6\\times10^{-19}\\text{ C}$，若重力可以忽略不計。\n\n1. 電子的入射速率為何？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-non-2.png\" alt=\"圖12 電子轉向裝置側視圖\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "blanks": [
+      "1.0×10^6"
+    ],
+    "blankLabels": [
+      "入射速率（m/s）"
+    ],
+    "acceptedBlanks": [
+      [
+        "1.0x10^6",
+        "1×10^6",
+        "1x10^6",
+        "1.0E6",
+        "1E6",
+        "1000000",
+        "10^6"
+      ]
+    ],
+    "explanation": "$$\\frac{1}{2}mv_0^2 = 4.55\\times10^{-19} \\implies v_0^2 = \\frac{2 \\times 4.55\\times10^{-19}}{9.1\\times10^{-31}} = 1.0\\times10^{12} \\implies v_0 = 1.0\\times10^6\\text{ m/s}$$"
+  },
+  {
+    "id": "103-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】以一對分別帶有等量正負電荷的平行板作為電子的轉向裝置，其中帶正電的下板挖有相距 $1.0\\text{ cm}$ 的兩個小縫，側視圖如圖 12 所示。設有一電子以 $4.55\\times10^{-19}\\text{ J}$ 的動能及 $45^\\circ$ 的入射角，從一縫進入，由另一縫射出，而且電子的射入與射出方向的夾角為 $90^\\circ$。已知電子的質量為 $9.1\\times10^{-31}\\text{ kg}$，電量為 $-1.6\\times10^{-19}\\text{ C}$，若重力可以忽略不計。\n\n2. 電子在平行板電場中的運動軌跡為何種曲線？為什麼？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-non-2.png\" alt=\"圖12 電子轉向裝置側視圖\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "拋物線。板間為均勻電場，電子受固定的靜電力（加速度固定、垂直於板面），平行板方向不受力作等速度運動，就像重力場中的斜拋運動。"
+    ],
+    "blankLabels": [
+      "曲線與理由"
+    ],
+    "explanation": "電子在均勻電場中受定力 $qE$，加速度 $a = \\dfrac{qE}{m}$ 固定，方向垂直於板面；平行板面方向等速。運動和斜拋完全相同（把 $g$ 換成 $a$），軌跡為拋物線。"
+  },
+  {
+    "id": "103-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【非選擇題二】以一對分別帶有等量正負電荷的平行板作為電子的轉向裝置，其中帶正電的下板挖有相距 $1.0\\text{ cm}$ 的兩個小縫，側視圖如圖 12 所示。設有一電子以 $4.55\\times10^{-19}\\text{ J}$ 的動能及 $45^\\circ$ 的入射角，從一縫進入，由另一縫射出，而且電子的射入與射出方向的夾角為 $90^\\circ$。已知電子的質量為 $9.1\\times10^{-31}\\text{ kg}$，電量為 $-1.6\\times10^{-19}\\text{ C}$，若重力可以忽略不計。\n\n3. 平行板間的電場量值約為多少？（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-phy-non-2.png\" alt=\"圖12 電子轉向裝置側視圖\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "blanks": [
+      "5.7×10^2"
+    ],
+    "blankLabels": [
+      "電場（V/m）"
+    ],
+    "acceptedBlanks": [
+      [
+        "5.7x10^2",
+        "570",
+        "569",
+        "5.69×10^2",
+        "5.7E2",
+        "569V/m",
+        "570V/m"
+      ]
+    ],
+    "explanation": "【類斜拋的水平射程】\n以 $45^\\circ$ 射入、射出時速度轉了 $90^\\circ$，水平射程 $L = \\dfrac{v_0^2\\sin(2\\times45^\\circ)}{a} = \\dfrac{v_0^2}{a} = 0.010\\text{ m}$。\n$a = \\dfrac{qE}{m}$：\n$$E = \\frac{mv_0^2}{qL} = \\frac{2K}{qL} = \\frac{2 \\times 4.55\\times10^{-19}}{1.6\\times10^{-19} \\times 0.010} \\approx 5.7\\times10^2\\text{ V/m}$$"
   }
 ]
