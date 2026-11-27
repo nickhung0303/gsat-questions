@@ -29365,5 +29365,481 @@
       "加速度"
     ],
     "explanation": "磁力 $F = IB_0\\ell = \\dfrac{\\alpha B_0^2\\ell^2d}{R}$，$a = \\dfrac{F}{m} = \\dfrac{\\alpha B_0^2\\ell^2d}{mR}$。\n方向：桿中電流向下（B→A），磁場入紙面，$\\vec F = I\\vec\\ell\\times\\vec B$ 指向右方。也可用冷次定律判斷：磁通量減少，感應效應使迴路面積增大，細桿被推向右（遠離 CD）。"
+  },
+  {
+    "id": "93m-ast-phy-01",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "圖 1 所示的直流電路中，AB 為一條長 100 cm 的滑線電阻線。$V_1$ 及 $V_2$ 伏特計的內電阻均遠大於滑線電阻及電池的內電阻。當 AC 長等於 60 cm 時，$V_1$ 的讀數為 2.5 V，則 $V_2$ 的讀數為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-01.png\" alt=\"圖1 滑線電阻 AB 接電池，V1 跨接電池，V2 跨接滑動點 C 與 B\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "0 V",
+      "0.5 V",
+      "1.0 V",
+      "1.5 V",
+      "2.0 V"
+    ],
+    "answerIndex": 2,
+    "explanation": "【滑線電阻分壓】\n電池內電阻可忽略，$V_1$ 讀到的 2.5 V 就是 AB 全長兩端的電壓。均勻電阻線上電壓與長度成正比，$V_2$ 跨在 CB 段（長 40 cm）：\n$V_2 = 2.5\\times\\dfrac{40}{100} = 1.0\\text{ V}$\n\n故選 (C)"
+  },
+  {
+    "id": "93m-ast-phy-02",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "已知 1 g 的酒精在 20°C 及 21°C 所佔的體積分別為 $1.26670\\text{ cm}^3$ 及 $1.26807\\text{ cm}^3$。試問酒精在 20°C 的體膨脹係數約為何值？",
+    "options": [
+      "$1.25\\times10^{-6}/^\\circ\\text{C}$",
+      "$1.42\\times10^{-5}/^\\circ\\text{C}$",
+      "$1.37\\times10^{-4}/^\\circ\\text{C}$",
+      "$1.08\\times10^{-3}/^\\circ\\text{C}$",
+      "$1.28\\times10^{-2}/^\\circ\\text{C}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "【體膨脹係數】\n$\\beta = \\dfrac{\\Delta V}{V\\Delta T} = \\dfrac{1.26807 - 1.26670}{1.26670\\times1} = \\dfrac{0.00137}{1.2667} \\approx 1.08\\times10^{-3}/^\\circ\\text{C}$\n\n故選 (D)"
+  },
+  {
+    "id": "93m-ast-phy-03",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "下列電器用品中，何者的工作原理和渦電流有直接的關係？",
+    "options": [
+      "電鍋",
+      "燜燒鍋",
+      "微波爐",
+      "電磁爐",
+      "電烤箱"
+    ],
+    "answerIndex": 3,
+    "explanation": "【渦電流】\n電磁爐的線圈通高頻交流電，變化的磁場在鐵質鍋底感應出渦電流，渦電流產生焦耳熱加熱食物。\n電鍋、電烤箱靠電熱線發熱；燜燒鍋靠保溫；微波爐以微波使水分子振動。\n\n故選 (D)"
+  },
+  {
+    "id": "93m-ast-phy-04",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "下列哪一個實驗建立了電子繞原子核運行的原子結構模型？",
+    "options": [
+      "湯木生荷質比實驗",
+      "夫然克-赫茲實驗",
+      "康卜吞效應實驗",
+      "陰極射線管實驗",
+      "拉塞福實驗"
+    ],
+    "answerIndex": 4,
+    "explanation": "【原子模型】\n拉塞福的 α 粒子散射實驗發現原子的正電荷與大部分質量集中在極小的原子核，建立了「電子繞原子核運行」的有核原子模型。\n\n故選 (E)"
+  },
+  {
+    "id": "93m-ast-phy-05",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "某輛救護車的警報器發出頻率為 1600 Hz 的聲音。當此車以 20 m/s 的速率正對著站立在路旁的某人接近時，此人所聽到聲音的頻率為何？（假設聲速為 340 m/s）",
+    "options": [
+      "1750 Hz",
+      "1700 Hz",
+      "1650 Hz",
+      "1600 Hz",
+      "1550 Hz"
+    ],
+    "answerIndex": 1,
+    "explanation": "【都卜勒效應（聲源接近）】\n$f' = f\\dfrac{v}{v - v_s} = 1600\\times\\dfrac{340}{340 - 20} = 1600\\times\\dfrac{340}{320} = 1700\\text{ Hz}$\n\n故選 (B)"
+  },
+  {
+    "id": "93m-ast-phy-06",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "將一枚硬幣置於空杯的底部，以照相機由其正上方向下拍照時，鏡頭與硬幣的距離須為 30 cm，才能使硬幣聚焦。若於杯中加入折射率為 1.5 的透明液體後，液面較杯底硬幣高出 6 cm，則此照相機需如何移動，才能使硬幣再次聚焦？",
+    "options": [
+      "向上移 2 cm",
+      "向下移 2 cm",
+      "向上移 4 cm",
+      "向下移 4 cm",
+      "向上移 6 cm"
+    ],
+    "answerIndex": 0,
+    "explanation": "【視深】\n由正上方看，視深 $= \\dfrac{6}{1.5} = 4\\text{ cm}$，硬幣的像比實際位置升高 2 cm。\n照相機要與「像」保持 30 cm，所以需向上移 2 cm。\n\n故選 (A)"
+  },
+  {
+    "id": "93m-ast-phy-07",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "某物質其光電效應之截止頻率為 $f_c$，若以強度 $I$、頻率 $f$ 的光照射其上，則截止電壓為 $V$。若 $e$ 為電子電荷，則下列何者其數值等於卜朗克常數 $h$？",
+    "options": [
+      "$\\dfrac{|eV|}{f - f_c}$",
+      "$\\dfrac{I}{f_c}$",
+      "$\\dfrac{|eV|}{f + f_c}$",
+      "$\\dfrac{|eV|}{I(f + f_c)}$",
+      "$\\dfrac{|eV|}{I(f^2 - f_c^2)}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【光電方程式】\n最大動能 $|eV| = hf - W$，功函數 $W = hf_c$：$|eV| = h(f - f_c) \\Rightarrow h = \\dfrac{|eV|}{f - f_c}$。截止電壓與光強度 $I$ 無關。\n\n故選 (A)"
+  },
+  {
+    "id": "93m-ast-phy-08",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "一質量 $m$ 之物體以兩根頂點相距 $\\ell$ 的相同彈簧懸掛起來，兩彈簧間的夾角為 $2\\theta$（$30^\\circ > \\theta > 20^\\circ$），如圖 2 所示。若彈簧的自然長度亦為 $\\ell$，則彈簧的力常數為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-08.png\" alt=\"圖2 頂點相距 ℓ 的兩彈簧，各與鉛直線夾 θ，共同吊起物體 m\" style=\"width:100%;max-width:150px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{mg}{\\ell(\\cot\\theta - 2\\cos\\theta)}$",
+      "$\\dfrac{mg}{\\ell(\\cot\\theta - 2\\sin\\theta)}$",
+      "$\\dfrac{mg}{\\ell(\\tan\\theta - 2\\cos\\theta)}$",
+      "$\\dfrac{mg}{\\ell(\\tan\\theta - 2\\sin\\theta)}$",
+      "$\\dfrac{mg}{2\\ell\\sin\\theta}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "【彈力與幾何】\n每根彈簧長 $L$，水平半距 $\\dfrac{\\ell}{2} = L\\sin\\theta \\Rightarrow L = \\dfrac{\\ell}{2\\sin\\theta}$，伸長量 $x = L - \\ell$。\n鉛直平衡：$2kx\\cos\\theta = mg$\n$k = \\dfrac{mg}{2\\cos\\theta\\left(\\dfrac{\\ell}{2\\sin\\theta} - \\ell\\right)} = \\dfrac{mg}{\\ell\\left(\\dfrac{\\cos\\theta}{\\sin\\theta} - 2\\cos\\theta\\right)} = \\dfrac{mg}{\\ell(\\cot\\theta - 2\\cos\\theta)}$\n\n故選 (A)"
+  },
+  {
+    "id": "93m-ast-phy-09",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "半徑為 $a$ 的圓形導線和一條長直導線位在同一平面上，圓形導線的圓心與長直導線相距 $b$（$b > a$），如圖 3 所示。兩條導線上分別載有 $I_1$ 及 $I_2$ 的電流，圓形導線上各部分電流受到長直導線電流的磁作用力。試問下列何者所受的磁作用力最大？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-09.png\" alt=\"圖3 向上電流 I2 的長直導線右側，有逆時針電流 I1 的圓形導線\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "上半圓",
+      "下半圓",
+      "左半圓",
+      "右半圓",
+      "全圓"
+    ],
+    "answerIndex": 2,
+    "explanation": "【平行電流間的作用力】\n長直導線的磁場隨距離增大而減弱。圓形導線的左側（靠近直導線）電流向下，與 $I_2$ 反向而相斥；右側電流向上，與 $I_2$ 同向而相吸，但距離較遠、力較小。\n• 左半圓：各段都在較近處、受力都偏向右（斥力），合力最大。\n• 全圓：左半的斥力被右半的吸力部分抵消，合力較小。\n• 上、下半圓：各含一半的左、右部分，水平力互相抵消一部分，也較小；右半圓距離最遠，最小。\n\n故選 (C)"
+  },
+  {
+    "id": "93m-ast-phy-10",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "points": 4,
+    "question": "$xy$ 平面上有一半徑為 $a$ 的圓形線圈，共有均勻分佈的靜止電荷 $q$。如果圓形線圈以 $\\omega$ 的角速度繞 $z$ 軸逆時針快速旋轉，如圖 4 所示。則對靜止觀察者而言，線圈上有一個電流在流動，試問平均電流的大小為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-10.png\" alt=\"圖4 xy 平面上以角速度 ω 轉動的帶電圓形線圈\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{q\\omega}{4\\pi}$",
+      "$\\dfrac{q\\omega}{2\\pi}$",
+      "$\\dfrac{q\\omega}{\\pi}$",
+      "$\\dfrac{2q\\omega}{\\pi}$",
+      "$\\dfrac{4q\\omega}{\\pi}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【轉動電荷的電流】\n每轉一圈（週期 $T = \\dfrac{2\\pi}{\\omega}$），總電量 $q$ 通過任一截面一次：$I = \\dfrac{q}{T} = \\dfrac{q\\omega}{2\\pi}$。\n\n故選 (B)"
+  },
+  {
+    "id": "93m-ast-phy-11",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "一粒質量為 $m$ 的小石頭從地面上的 O 點以初速 $v_0$，仰角 $\\theta$ 被射出，如圖 5 所示。B 點為小石頭運動軌跡的最高點，B 點與地面距離為 $H$。A 點則是越過最高點後的某一位置，A 點與 O 點間的水平距離為 $d$（$\\dfrac{2R}{3} > d > \\dfrac{R}{2}$，$R$ 為水平射程），A 點與地面間的距離為 $h$。若將小石頭在地面的重力位能取為零，重力加速度為 $g$，且不計空氣阻力，則下列有關小石頭的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-11.png\" alt=\"圖5 斜拋軌跡：最高點 B 高 H，越過最高點後的 A 點高 h、水平距 d\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "在 A 點的總力學能為 $mgh$",
+      "從 O 點運動至 A 點共需時 $\\dfrac{d}{v_0}$",
+      "從 O 點運動至 A 點共需時 $\\dfrac{v_0\\sin\\theta}{g} + \\sqrt{\\dfrac{2(H - h)}{g}}$",
+      "在最高點 B 時，速度與加速度互相垂直",
+      "從 O 點運動至 A 點的過程中，重力總共作功 $mgh$"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【斜拋運動】\n• (A) 錯誤：A 點還有動能，總力學能 $= \\dfrac12mv_0^2 > mgh$。\n• (B) 錯誤：水平速度為 $v_0\\cos\\theta$，時間 $= \\dfrac{d}{v_0\\cos\\theta}$。\n• (C) 正確：上升到最高點需 $\\dfrac{v_0\\sin\\theta}{g}$，再從高度 $H$ 自由落下到 $h$ 需 $\\sqrt{\\dfrac{2(H - h)}{g}}$。\n• (D) 正確：最高點速度水平、加速度鉛直向下。\n• (E) 錯誤：石頭升高了 $h$，重力作功 $-mgh$。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "93m-ast-phy-12",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "在「楊氏雙狹縫干涉實驗」中，波長為 $\\lambda$ 的平行光垂直於狹縫入射，如圖 6 所示。設狹縫所在平面至光屏 S 的間距為 $D$，兩個狹縫的間距為 $d$，且 $D \\gg d \\gg \\lambda$。令光屏上相鄰兩亮紋中央的間距以符號 $(\\Delta y)_\\ell$ 表示，相鄰兩暗紋中央的間距以符號 $(\\Delta y)_d$ 表示，則下列敘述中哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-12.png\" alt=\"圖6 雙狹縫間距 d、到光屏 S 的距離 D\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "當 $D$ 與 $d$ 維持不變，$\\lambda$ 變大時，則 $(\\Delta y)_\\ell$ 變大",
+      "當 $D$ 與 $d$ 維持不變，$\\lambda$ 變大時，則 $(\\Delta y)_d$ 變小",
+      "當 $\\lambda$ 與 $D$ 維持不變，$d$ 變大時，則 $(\\Delta y)_d$ 變大",
+      "當 $\\lambda$ 與 $D$ 維持不變，$d$ 變大時，則 $(\\Delta y)_\\ell$ 變小",
+      "當 $\\lambda$ 與 $d$ 維持不變，$D$ 變大時，則 $(\\Delta y)_\\ell$ 及 $(\\Delta y)_d$ 均變小"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "【條紋間距】\n亮紋與暗紋的間距相同：$\\Delta y = \\dfrac{\\lambda D}{d}$。\n• $\\lambda$ 變大 → 間距變大：(A) 正確、(B) 錯。\n• $d$ 變大 → 間距變小：(D) 正確、(C) 錯。\n• $D$ 變大 → 間距變大：(E) 錯。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "93m-ast-phy-13",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "有一均勻帶電棒長為 $L$、總帶電量為 $q$（$q > 0$），如圖 7 所示。點 A 在 $(2L, 0)$、B 在 $(L, L)$、C 在 $(0, L)$、D 在 $(-L, 0)$、E 在 $(-L, -0.5L)$ 處，若無窮遠處的電位取為零，則下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-13.png\" alt=\"圖7 x 軸上 0 到 L 的帶電棒與 A、B、C、D、E 五點\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "A 電位大於 B 電位",
+      "B 電位大於 C 電位",
+      "B 電位大於 D 電位",
+      "B 電位大於 E 電位",
+      "E 電位大於 D 電位"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【帶電棒的電位】\n電位是純量，離電荷愈近電位愈高。\n• B $(L, L)$ 與 C $(0, L)$ 對棒的中點 $\\left(\\dfrac{L}{2}, 0\\right)$ 左右對稱，電位相等，(B) 錯。\n• A 在棒右端外 $L$ 處、D 在棒左端外 $L$ 處，也對稱，$V_A = V_D$。\n• 比較 A 與 B：A 到棒上各點的距離從 $L$ 到 $2L$；B 到棒上各點的距離從 $L$（右端）到 $\\sqrt2L$（左端），整體較近，所以 $V_B > V_A = V_D$。(A) 錯、(C) 正確。（積分可得 $V_A = k\\lambda\\ln2 \\approx 0.69k\\lambda$，$V_B = k\\lambda\\sinh^{-1}1 \\approx 0.88k\\lambda$。）\n• E 比 D 離棒更遠，$V_E < V_D < V_B$，(D) 正確、(E) 錯。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "93m-ast-phy-14",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "如圖 8 所示，水平面上兩相同的玻璃杯 A、B 內裝有兩種不同的液體，上方懸吊一ㄇ形試管垂直液面。兩玻璃杯的液面等高，試管內左右兩邊內與外液面落差分別為 $l_A$ 與 $l_B$。已知 $l_B = 5.0\\text{ cm}$，A 液體的密度為 $\\rho_A = 6.8\\text{ g/cm}^3$，B 液體是密度為 $\\rho_B = 13.6\\text{ g/cm}^3$ 的水銀，試管內氣體壓力 $P_o$ 小於試管外的大氣壓力（76 cm 水銀柱高）。下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-14.png\" alt=\"圖8 ㄇ形試管兩端插入 A、B 杯，管內液面分別高出杯內液面 lA、lB\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "試管內氣體壓力 $P_o$ 為 71 cm 水銀柱高",
+      "左邊試管內與外液面落差 $l_A$ 等於 10 cm",
+      "A 玻璃杯底部壓力大於 B 玻璃杯底部壓力",
+      "A 玻璃杯液面壓力大於 B 玻璃杯液面壓力",
+      "左邊試管內液面壓力大於右邊試管內液面壓力"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "【液柱與氣壓】\n試管內是同一團氣體，兩邊管內液面上的壓力都是 $P_o$。\n• (A) 正確：B 管內水銀比外面高 5.0 cm：$P_o = 76 - 5.0 = 71\\text{ cmHg}$。\n• (B) 正確：A 管內外壓力差同為 5.0 cmHg：$\\rho_A l_A = \\rho_B l_B \\Rightarrow l_A = \\dfrac{13.6\\times5.0}{6.8} = 10\\text{ cm}$。\n• (C) 錯誤：兩杯液面等高、液深相同，B 的密度大，杯底壓力較大。\n• (D) 錯誤：兩杯液面都是大氣壓力。\n• (E) 錯誤：兩管內液面壓力都是 $P_o$。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "93m-ast-phy-15",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "一質量為 $m$ 的物體甲靜置於光滑水平面上，物體甲連接在一質量可忽略、長度為 $\\ell$ 的細桿上，細桿上有一圓環，套住固定在水平面上的釘子，圓環與釘子之間的摩擦可以忽略，如圖 9 所示。另一相同質量的物體乙，在水平面上以 $v$ 的速度，沿垂直細桿的方向作直線運動。甲、乙物體作正向碰撞後黏在一起，則下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-15.png\" alt=\"圖9 甲以長 ℓ 的細桿連到釘子，乙以 v 垂直細桿撞向甲\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "碰撞後，甲、乙兩物體作等速度圓周運動",
+      "碰撞後，甲、乙兩物體作等速率圓周運動",
+      "碰撞後，兩物體的加速度為 $\\dfrac{4v^2}{\\ell}$",
+      "碰撞後，兩物體的加速度為 $\\dfrac{v^2}{2\\ell}$",
+      "碰撞後，兩物體的加速度為 $\\dfrac{v^2}{4\\ell}$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "【碰撞後的圓周運動】\n碰撞時間極短，細桿沿半徑、不影響切線方向，切線動量守恆：$mv = 2mv' \\Rightarrow v' = \\dfrac{v}{2}$。\n之後細桿拉著兩物體繞釘子轉，張力垂直於速度，速率不變：等速率圓周運動（速度方向一直改變，不是「等速度」），(B) 正確、(A) 錯。\n向心加速度 $a = \\dfrac{v'^2}{\\ell} = \\dfrac{v^2}{4\\ell}$，(E) 正確。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "93m-ast-phy-16",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "在二極體內，p 型與 n 型半導體的接合面附近存在一個所謂的空乏區，如圖 10 所示。下列有關半導體及二極體的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-16.png\" alt=\"圖10 p-n 接面與中間的空乏區，外接電池\" style=\"width:100%;max-width:150px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "在空乏區內，靠近 p 型半導體處帶有正電",
+      "純矽晶中若摻入磷的雜質便形成 n 型半導體",
+      "n 型矽晶半導體中，自由電子及電洞均會傳導電流",
+      "偏壓相等時，二極體在順向偏壓時的電流小於逆向偏壓時的電流",
+      "在空乏區內，存在有一方向從 p 型半導體邊指向 n 型半導體邊的內建電場"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "【p-n 接面】\n接面處 n 區的電子擴散到 p 區與電洞結合，留下：p 側帶負電的受體離子、n 側帶正電的施體離子。\n• (A) 錯誤：靠近 p 側帶負電。\n• (E) 錯誤：內建電場由正（n 側）指向負（p 側）。\n• (B) 正確：五價的磷提供多餘電子，成為 n 型。\n• (C) 正確：n 型以電子為多數載子，電洞為少數載子，兩者都能導電。\n• (D) 錯誤：順向偏壓時電流大，逆向時幾乎沒有電流。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "93m-ast-phy-17",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "電鈴計時器可以間隔相等的時間間距在紙帶上打點，小華將紙帶固定在滑車上，利用紙帶紀錄滑車的位置，並將五次實驗的紙帶依實驗 1-5 編號整理如圖 11 所示。下列有關這五個實驗的敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-17.png\" alt=\"圖11 五條紙帶的打點位置（0～10 cm）\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "實驗 1 滑車速度為實驗 2 的兩倍",
+      "實驗 4 滑車加速度為實驗 3 的兩倍",
+      "實驗 3 與 5 滑車加速度大小相等，方向相反",
+      "若紙帶上記錄的黑點愈大，則實驗結果愈精確",
+      "若實驗 2 滑車速度為 0.1 m/s，則實驗 3 滑車加速度為 $0.2\\text{ m/s}^2$"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【由紙帶判斷運動】\n• (A) 錯誤：實驗 1 點距 0.5 cm、實驗 2 點距 1 cm，打點間隔相同，實驗 1 的速度是實驗 2 的一半。\n• 實驗 3 的點距由左而右依序增大，點的位置為 $0, 0.1, 0.4, 0.9, 1.6, \\ldots, 10$ cm（$x = 0.1n^2$ cm），是由靜止出發的等加速度運動；實驗 5 是同樣的點距由大到小，加速度大小相同、方向相反（減速），(C) 正確。\n• (B) 錯誤：實驗 4 前段點很密、點距增加得比實驗 3 慢，加速度較小，不是兩倍。\n• (D) 錯誤：黑點愈大，位置愈難讀準。\n• (E) 正確：實驗 2 每間隔 1 cm、速度 0.1 m/s，可知打點間隔 $T = 0.1$ s。實驗 3：$\\dfrac12aT^2 = 0.1\\text{ cm} \\Rightarrow a = \\dfrac{2\\times0.001}{0.01} = 0.2\\text{ m/s}^2$。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "93m-ast-phy-18",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "multiple",
+    "points": 5,
+    "question": "在「水波槽實驗」中，位在圖 12 中 O 點的波源產生圓形水波。已知波長為 $\\lambda$，且波源到水波槽 AB 端的距離 $D = 6\\lambda$。O′ 點為 AB 邊上的一點，且 OO′ 連線平行於波的行進方向。水波槽的 CD 端裝有消波器，所產生的反射波可以忽略。下列敘述中哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-18.png\" alt=\"圖12 水波槽中的點波源 O 距 AB 邊 D，CD 邊有消波器\" style=\"width:100%;max-width:150px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "波長 $\\lambda$ 和水槽的水深無關",
+      "經 AB 端反射後的波形為直線",
+      "起波器所發出的水波和反射波的合成波是駐波",
+      "實驗時，水波槽正下方白紙上所見的亮紋代表水波的波谷位置",
+      "反射波可視為由位在 OO′ 連線的延長線上、距離 O′ 點為 D 的一個假想波源所產生。"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【水波的反射】\n• (A) 錯誤：水波速率隨水深改變，頻率固定時波長也隨水深改變。\n• (B) 錯誤：圓形波經直線邊界反射後仍是圓形波。\n• (E) 正確：反射波像是從邊界另一側的「鏡像波源」發出，鏡像點在 OO′ 延長線上、距 O′ 為 $D$。\n• (C) 依大考中心答案為正確：在 O 與 AB 之間（特別是沿 OO′ 方向），入射波與反射波反向傳播、頻率相同，疊加形成駐波（節點固定不動）。\n• (D) 錯誤：波峰像凸透鏡使光會聚，白紙上的亮紋對應波峰。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "93m-ast-phy-non-1-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題一】圖 13 中有一顆質量為 $m$ 的人造衛星環繞地球做半徑為 $2R$ 的圓軌道運動，$R$ 為地球半徑。地球的質量以 $M$ 表示，萬有引力常數以 $G$ 表示。試以 $G$、$R$、$M$ 及 $m$ 表示該人造衛星的下列各量。\n\n1. 圓周運動的速率。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-non-1.png\" alt=\"圖13 人造衛星在半徑 2R 的圓軌道上繞地球\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$v = \\sqrt{\\dfrac{GM}{2R}}$"
+    ],
+    "blankLabels": [
+      "速率"
+    ],
+    "explanation": "$\\dfrac{GMm}{(2R)^2} = \\dfrac{mv^2}{2R} \\Rightarrow v = \\sqrt{\\dfrac{GM}{2R}}$"
+  },
+  {
+    "id": "93m-ast-phy-non-1-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題一】圖 13 中有一顆質量為 $m$ 的人造衛星環繞地球做半徑為 $2R$ 的圓軌道運動，$R$ 為地球半徑。地球的質量以 $M$ 表示，萬有引力常數以 $G$ 表示。試以 $G$、$R$、$M$ 及 $m$ 表示該人造衛星的下列各量。\n\n2. 圓周運動的角速率。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-non-1.png\" alt=\"圖13 人造衛星在半徑 2R 的圓軌道上繞地球\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\omega = \\sqrt{\\dfrac{GM}{8R^3}}$"
+    ],
+    "blankLabels": [
+      "角速率"
+    ],
+    "explanation": "$\\omega = \\dfrac{v}{2R} = \\dfrac{1}{2R}\\sqrt{\\dfrac{GM}{2R}} = \\sqrt{\\dfrac{GM}{8R^3}}$"
+  },
+  {
+    "id": "93m-ast-phy-non-1-3",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題一】圖 13 中有一顆質量為 $m$ 的人造衛星環繞地球做半徑為 $2R$ 的圓軌道運動，$R$ 為地球半徑。地球的質量以 $M$ 表示，萬有引力常數以 $G$ 表示。試以 $G$、$R$、$M$ 及 $m$ 表示該人造衛星的下列各量。\n\n3. 圓周運動的週期。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-non-1.png\" alt=\"圖13 人造衛星在半徑 2R 的圓軌道上繞地球\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$T = 2\\pi\\sqrt{\\dfrac{8R^3}{GM}} = 4\\pi\\sqrt{\\dfrac{2R^3}{GM}}$"
+    ],
+    "blankLabels": [
+      "週期"
+    ],
+    "explanation": "$T = \\dfrac{2\\pi}{\\omega} = 2\\pi\\sqrt{\\dfrac{8R^3}{GM}}$"
+  },
+  {
+    "id": "93m-ast-phy-non-1-4",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題一】圖 13 中有一顆質量為 $m$ 的人造衛星環繞地球做半徑為 $2R$ 的圓軌道運動，$R$ 為地球半徑。地球的質量以 $M$ 表示，萬有引力常數以 $G$ 表示。試以 $G$、$R$、$M$ 及 $m$ 表示該人造衛星的下列各量。\n\n4. 總力學能。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-non-1.png\" alt=\"圖13 人造衛星在半徑 2R 的圓軌道上繞地球\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$E = -\\dfrac{GMm}{4R}$"
+    ],
+    "blankLabels": [
+      "總力學能"
+    ],
+    "explanation": "動能 $\\dfrac12mv^2 = \\dfrac{GMm}{4R}$，重力位能 $-\\dfrac{GMm}{2R}$（以無窮遠為零）：\n$E = \\dfrac{GMm}{4R} - \\dfrac{GMm}{2R} = -\\dfrac{GMm}{4R}$"
+  },
+  {
+    "id": "93m-ast-phy-non-2-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題二】在一長方形區域內，有一均勻磁場 $B$ 垂直進入紙面。另有一平置於紙面，總電阻為 $R$，邊長為 $a$ 的正方形線圈 EFGH，受力以定速度 $v$ 向右進入磁場區域，如圖 14 所示。在正方形線圈的 EH 邊尚未進入磁場區域之前，試回答下列問題。\n\n1. 線圈上產生的感應電流方向為何（順時針或逆時針）？為什麼？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-non-2.png\" alt=\"圖14 正方形線圈 EFGH 的右邊 FG 已進入入紙面磁場，以 v 向右移動\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "逆時針。線圈進入磁場時，穿過線圈的入紙面磁通量增加，依冷次定律，感應電流要產生出紙面的磁場來反抗，所以為逆時針方向。"
+    ],
+    "blankLabels": [
+      "方向與理由"
+    ],
+    "explanation": "也可由 FG 邊切割磁力線判斷：FG 向右運動、磁場入紙面，正電荷受力 $q\\vec v\\times\\vec B$ 向上，FG 中電流由 G 流向 F，整個線圈為逆時針。"
+  },
+  {
+    "id": "93m-ast-phy-non-2-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題二】在一長方形區域內，有一均勻磁場 $B$ 垂直進入紙面。另有一平置於紙面，總電阻為 $R$，邊長為 $a$ 的正方形線圈 EFGH，受力以定速度 $v$ 向右進入磁場區域，如圖 14 所示。在正方形線圈的 EH 邊尚未進入磁場區域之前，試回答下列問題。\n\n2. 線圈上的感應電流大小為何？（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-non-2.png\" alt=\"圖14 正方形線圈 EFGH 的右邊 FG 已進入入紙面磁場，以 v 向右移動\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "selfGrade": true,
+    "blanks": [
+      "$I = \\dfrac{Bav}{R}$"
+    ],
+    "blankLabels": [
+      "感應電流"
+    ],
+    "explanation": "只有 FG 邊在磁場中切割磁力線，$\\varepsilon = Bav$，$I = \\dfrac{Bav}{R}$。"
+  },
+  {
+    "id": "93m-ast-phy-non-2-3",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "物理",
+    "type": "fill",
+    "question": "【計算題二】在一長方形區域內，有一均勻磁場 $B$ 垂直進入紙面。另有一平置於紙面，總電阻為 $R$，邊長為 $a$ 的正方形線圈 EFGH，受力以定速度 $v$ 向右進入磁場區域，如圖 14 所示。在正方形線圈的 EH 邊尚未進入磁場區域之前，試回答下列問題。\n\n3. 欲使線圈維持向右的等速度運動，對線圈需施加一外力。此外力的大小及方向為何？（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-phy-non-2.png\" alt=\"圖14 正方形線圈 EFGH 的右邊 FG 已進入入紙面磁場，以 v 向右移動\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "$F = \\dfrac{B^2a^2v}{R}$，方向向右"
+    ],
+    "blankLabels": [
+      "外力"
+    ],
+    "explanation": "FG 邊受磁力 $IaB = \\dfrac{B^2a^2v}{R}$，方向向左（阻礙運動）；EF、GH 兩邊在磁場內的部分電流反向，受力上下抵消。要等速前進，外力需與磁力等大反向：$\\dfrac{B^2a^2v}{R}$，向右。"
   }
 ]
