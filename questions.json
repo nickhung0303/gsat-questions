@@ -120376,5 +120376,743 @@
     ],
     "answerIndex": 1,
     "explanation": "文中提到便服讓員工更快樂、更有生產力、提升士氣、省錢；「吸引新員工」是指公司較容易招募人才，不是讓員工更有魅力。\n\n故選 (B)"
+  },
+  {
+    "id": "91m-gsat-eng-01",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. The teacher loved to teach young students, ______ those who were smart.",
+    "options": [
+      "officially",
+      "especially",
+      "popularly",
+      "similarly"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：那位老師喜愛教年輕學生，尤其是聰明的學生。\n• (B) especially 尤其\n\n故選 (B)"
+  },
+  {
+    "id": "91m-gsat-eng-02",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. Eating dessert before meals may kill your ______.",
+    "options": [
+      "energy",
+      "character",
+      "quality",
+      "appetite"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：飯前吃甜點可能會讓你沒胃口。\nkill one's appetite「破壞食慾」。\n\n故選 (D)"
+  },
+  {
+    "id": "91m-gsat-eng-03",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. In Taiwan, some cable TV companies have up to 70 or 80 ______.",
+    "options": [
+      "channels",
+      "events",
+      "items",
+      "patterns"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：在台灣，有些有線電視公司有多達七、八十個頻道。\n• (A) channel 頻道\n\n故選 (A)"
+  },
+  {
+    "id": "91m-gsat-eng-04",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. It was fortunate that John ______ escaped being killed in a traffic accident.",
+    "options": [
+      "privately",
+      "locally",
+      "narrowly",
+      "distantly"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：幸好 John 在車禍中僥倖逃過一死。\nnarrowly escape「勉強逃過」。\n\n故選 (C)"
+  },
+  {
+    "id": "91m-gsat-eng-05",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. Since the typhoon, the basement has been filled with water. We have to ______ the water as soon as possible.",
+    "options": [
+      "reserve",
+      "repair",
+      "retire",
+      "remove"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：颱風過後地下室積滿水，必須盡快把水排掉。\n• (D) remove 移除\n\n故選 (D)"
+  },
+  {
+    "id": "91m-gsat-eng-06",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. Some waste from nuclear power plants is buried in ______ containers.",
+    "options": [
+      "crashed",
+      "paved",
+      "risked",
+      "sealed"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：核電廠的部分廢料埋在密封的容器中。\n• (D) sealed 密封的\n\n故選 (D)"
+  },
+  {
+    "id": "91m-gsat-eng-07",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. A human body usually has a ______ temperature of about 37 degrees C.",
+    "options": [
+      "steady",
+      "various",
+      "gradual",
+      "precious"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：人體通常維持約攝氏 37 度的穩定體溫。\n• (A) steady 穩定的\n\n故選 (A)"
+  },
+  {
+    "id": "91m-gsat-eng-08",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. If you expect to have quick ______ of the goods, it is better to have them airmailed.",
+    "options": [
+      "discovery",
+      "directory",
+      "delivery",
+      "dormitory"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：如果希望貨物快速送達，最好用航空郵寄。\n• (C) delivery 投遞、送達\n\n故選 (C)"
+  },
+  {
+    "id": "91m-gsat-eng-09",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. This project is mainly for scientific research. It doesn't have any ______ value at all.",
+    "options": [
+      "commercial",
+      "reluctant",
+      "opposite",
+      "inferior"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：這個計畫主要為了科學研究，完全沒有商業價值。\n• (A) commercial 商業的\n\n故選 (A)"
+  },
+  {
+    "id": "91m-gsat-eng-10",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. These two countries are trying to ______ trade and cultural exchanges between them.",
+    "options": [
+      "notify",
+      "intensify",
+      "personify",
+      "signify"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：這兩國正努力加強彼此的貿易與文化交流。\n• (B) intensify 加強\n\n故選 (B)"
+  },
+  {
+    "id": "91m-gsat-eng-11",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "11. The manager must try to find out who is really ______ for this serious sales problem.",
+    "options": [
+      "on line",
+      "in service",
+      "at fault",
+      "by law"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：經理必須查出誰才是造成這個嚴重銷售問題的過失者。\nbe at fault「有過錯」。\n\n故選 (C)"
+  },
+  {
+    "id": "91m-gsat-eng-12",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "12. This talk show, ______, is quite popular with the audience.",
+    "options": [
+      "on the whole",
+      "by no means",
+      "out of the question",
+      "in no sense"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：整體而言，這個脫口秀相當受觀眾歡迎。\n• (A) on the whole 整體而言\n\n故選 (A)"
+  },
+  {
+    "id": "91m-gsat-eng-13",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "13. Mr. Brown suggested that Mary stay with the company, ______, because the company needed her.",
+    "options": [
+      "back and forth",
+      "for better or worse",
+      "off and on",
+      "up and down"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：Brown 先生建議 Mary 無論好壞都留在公司，因為公司需要她。\n• (B) for better or worse 不論好壞\n\n故選 (B)"
+  },
+  {
+    "id": "91m-gsat-eng-14",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "14. How did you talk your sister ______ the chores for you? She normally avoids them.",
+    "options": [
+      "for going",
+      "against getting",
+      "without taking",
+      "into doing"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：你是怎麼說服妹妹幫你做家事的？她通常都會逃避。\ntalk sb. into + V-ing「說服某人做…」。\n\n故選 (D)"
+  },
+  {
+    "id": "91m-gsat-eng-15",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "15. In modern times, many traditional concepts have ______ new ideas.",
+    "options": [
+      "found a way of",
+      "changed the way of",
+      "given way to",
+      "had a way of"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：在現代，許多傳統觀念已讓位給新思想。\ngive way to「讓位給、被…取代」。\n\n故選 (C)"
+  },
+  {
+    "id": "91m-gsat-eng-16-20",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "fill",
+    "points": 5,
+    "question": "【句子配合 16-20 題組】\n請從右欄 (A)～(J) 中選出最適當的後半句，與左欄各題組成語意完整、語法正確的句子。\n16. Losing weight requires ___\n17. Pets are wonderful, ___\n18. When you reach the voice mailbox, ___\n19. Delicious dishes can be prepared only ___\n20. When you begin a new job in an office, ___\n(A) ...broken into pieces before being eaten.\n(B) ...with the freshest ingredients.\n(C) ...for the popularity of her novels.\n(D) ...to throw away their toy guns and knives.\n(E) ...make your message brief.\n(F) ...you should learn how to do it well.\n(G) ...but their owners should be responsible.\n(H) ...discipline and a good plan.\n(I) ...keep in mind the direction of the street.\n(J) ...better than studying alone at home.\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "H",
+      "G",
+      "E",
+      "B",
+      "F"
+    ],
+    "blankLabels": [
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "explanation": "• 16 (H)：requires 需要名詞受詞：減重需要自律與好計畫。\n• 17 (G)：寵物很棒，但飼主應該負責，but 連接兩個對比的子句。\n• 18 (E)：當你進入語音信箱時，留言要簡短，主要子句為祈使句。\n• 19 (B)：只有用最新鮮的食材才能做出美味的菜。\n• 20 (F)：開始一份新的辦公室工作時，應學會把它做好，it 指 the new job。"
+  },
+  {
+    "id": "91m-gsat-eng-21",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-30 題組】\nNow that you are planning to go to college, how can you select an ideal college for yourself? 【 21 】 its reputation or the test scores it requires for admission? In fact, it is not 【 22 】 simple as that. College education is far more complicated than 【 23 】 the reputation of a college or the test scores it requires. In addition to these two factors, you should also have 【 24 】 important information. Finding out which college suits you involves time and energy, but 【 25 】 more than those you might spend on buying a motorcycle or a computer.\n\nHere are some tips 【 26 】 choosing an ideal one from a number of colleges.\n1. Visit the websites of these colleges and find out which college has departments 【 27 】 courses that interest you or will help you prepare for your future career.\n2. Are the professors in the departments you plan to 【 28 】 into experts in their own fields?\n3. Do the colleges allow you to participate in activities 【 29 】 will help you develop yourself intellectually and emotionally?\n\nI hope the 【 30 】 advice is helpful to you in selecting the right college.\n21.",
+    "options": [
+      "In",
+      "By",
+      "With",
+      "At"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：「依據」大學的名聲或入學所需的分數來選嗎？by「憑藉、依據」。\n\n故選 (B)"
+  },
+  {
+    "id": "91m-gsat-eng-22",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-30 題組】\nNow that you are planning to go to college, how can you select an ideal college for yourself? 【 21 】 its reputation or the test scores it requires for admission? In fact, it is not 【 22 】 simple as that. College education is far more complicated than 【 23 】 the reputation of a college or the test scores it requires. In addition to these two factors, you should also have 【 24 】 important information. Finding out which college suits you involves time and energy, but 【 25 】 more than those you might spend on buying a motorcycle or a computer.\n\nHere are some tips 【 26 】 choosing an ideal one from a number of colleges.\n1. Visit the websites of these colleges and find out which college has departments 【 27 】 courses that interest you or will help you prepare for your future career.\n2. Are the professors in the departments you plan to 【 28 】 into experts in their own fields?\n3. Do the colleges allow you to participate in activities 【 29 】 will help you develop yourself intellectually and emotionally?\n\nI hope the 【 30 】 advice is helpful to you in selecting the right college.\n22.",
+    "options": [
+      "as",
+      "too",
+      "still",
+      "quite"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：事實上並沒有那麼簡單。not as + adj. + as…「不像…那樣」。\n\n故選 (A)"
+  },
+  {
+    "id": "91m-gsat-eng-23",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-30 題組】\nNow that you are planning to go to college, how can you select an ideal college for yourself? 【 21 】 its reputation or the test scores it requires for admission? In fact, it is not 【 22 】 simple as that. College education is far more complicated than 【 23 】 the reputation of a college or the test scores it requires. In addition to these two factors, you should also have 【 24 】 important information. Finding out which college suits you involves time and energy, but 【 25 】 more than those you might spend on buying a motorcycle or a computer.\n\nHere are some tips 【 26 】 choosing an ideal one from a number of colleges.\n1. Visit the websites of these colleges and find out which college has departments 【 27 】 courses that interest you or will help you prepare for your future career.\n2. Are the professors in the departments you plan to 【 28 】 into experts in their own fields?\n3. Do the colleges allow you to participate in activities 【 29 】 will help you develop yourself intellectually and emotionally?\n\nI hope the 【 30 】 advice is helpful to you in selecting the right college.\n23.",
+    "options": [
+      "thus",
+      "just",
+      "so",
+      "yet"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：大學教育遠比「只是」學校名聲或入學分數複雜得多。just「僅僅」。\n\n故選 (B)"
+  },
+  {
+    "id": "91m-gsat-eng-24",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-30 題組】\nNow that you are planning to go to college, how can you select an ideal college for yourself? 【 21 】 its reputation or the test scores it requires for admission? In fact, it is not 【 22 】 simple as that. College education is far more complicated than 【 23 】 the reputation of a college or the test scores it requires. In addition to these two factors, you should also have 【 24 】 important information. Finding out which college suits you involves time and energy, but 【 25 】 more than those you might spend on buying a motorcycle or a computer.\n\nHere are some tips 【 26 】 choosing an ideal one from a number of colleges.\n1. Visit the websites of these colleges and find out which college has departments 【 27 】 courses that interest you or will help you prepare for your future career.\n2. Are the professors in the departments you plan to 【 28 】 into experts in their own fields?\n3. Do the colleges allow you to participate in activities 【 29 】 will help you develop yourself intellectually and emotionally?\n\nI hope the 【 30 】 advice is helpful to you in selecting the right college.\n24.",
+    "options": [
+      "many",
+      "even",
+      "other",
+      "few"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：除了這兩個因素，還應該掌握「其他」重要資訊。information 不可數，不能用 many、few。\n\n故選 (C)"
+  },
+  {
+    "id": "91m-gsat-eng-25",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-30 題組】\nNow that you are planning to go to college, how can you select an ideal college for yourself? 【 21 】 its reputation or the test scores it requires for admission? In fact, it is not 【 22 】 simple as that. College education is far more complicated than 【 23 】 the reputation of a college or the test scores it requires. In addition to these two factors, you should also have 【 24 】 important information. Finding out which college suits you involves time and energy, but 【 25 】 more than those you might spend on buying a motorcycle or a computer.\n\nHere are some tips 【 26 】 choosing an ideal one from a number of colleges.\n1. Visit the websites of these colleges and find out which college has departments 【 27 】 courses that interest you or will help you prepare for your future career.\n2. Are the professors in the departments you plan to 【 28 】 into experts in their own fields?\n3. Do the colleges allow you to participate in activities 【 29 】 will help you develop yourself intellectually and emotionally?\n\nI hope the 【 30 】 advice is helpful to you in selecting the right college.\n25.",
+    "options": [
+      "no",
+      "all",
+      "some",
+      "any"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：找到適合的大學需要時間和精力，但「不會比」買機車或電腦花的「更多」。no more than「不超過」。\n\n故選 (A)"
+  },
+  {
+    "id": "91m-gsat-eng-26",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-30 題組】\nNow that you are planning to go to college, how can you select an ideal college for yourself? 【 21 】 its reputation or the test scores it requires for admission? In fact, it is not 【 22 】 simple as that. College education is far more complicated than 【 23 】 the reputation of a college or the test scores it requires. In addition to these two factors, you should also have 【 24 】 important information. Finding out which college suits you involves time and energy, but 【 25 】 more than those you might spend on buying a motorcycle or a computer.\n\nHere are some tips 【 26 】 choosing an ideal one from a number of colleges.\n1. Visit the websites of these colleges and find out which college has departments 【 27 】 courses that interest you or will help you prepare for your future career.\n2. Are the professors in the departments you plan to 【 28 】 into experts in their own fields?\n3. Do the colleges allow you to participate in activities 【 29 】 will help you develop yourself intellectually and emotionally?\n\nI hope the 【 30 】 advice is helpful to you in selecting the right college.\n26.",
+    "options": [
+      "of",
+      "on",
+      "to",
+      "from"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：以下是「關於」如何選擇理想大學的建議。tips on…「關於…的訣竅」。\n\n故選 (B)"
+  },
+  {
+    "id": "91m-gsat-eng-27",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-30 題組】\nNow that you are planning to go to college, how can you select an ideal college for yourself? 【 21 】 its reputation or the test scores it requires for admission? In fact, it is not 【 22 】 simple as that. College education is far more complicated than 【 23 】 the reputation of a college or the test scores it requires. In addition to these two factors, you should also have 【 24 】 important information. Finding out which college suits you involves time and energy, but 【 25 】 more than those you might spend on buying a motorcycle or a computer.\n\nHere are some tips 【 26 】 choosing an ideal one from a number of colleges.\n1. Visit the websites of these colleges and find out which college has departments 【 27 】 courses that interest you or will help you prepare for your future career.\n2. Are the professors in the departments you plan to 【 28 】 into experts in their own fields?\n3. Do the colleges allow you to participate in activities 【 29 】 will help you develop yourself intellectually and emotionally?\n\nI hope the 【 30 】 advice is helpful to you in selecting the right college.\n27.",
+    "options": [
+      "offer",
+      "offers",
+      "offered",
+      "offering"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：找出哪所大學有「開設」你感興趣課程的科系。現在分詞 offering 修飾 departments（主動）。\n\n故選 (D)"
+  },
+  {
+    "id": "91m-gsat-eng-28",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-30 題組】\nNow that you are planning to go to college, how can you select an ideal college for yourself? 【 21 】 its reputation or the test scores it requires for admission? In fact, it is not 【 22 】 simple as that. College education is far more complicated than 【 23 】 the reputation of a college or the test scores it requires. In addition to these two factors, you should also have 【 24 】 important information. Finding out which college suits you involves time and energy, but 【 25 】 more than those you might spend on buying a motorcycle or a computer.\n\nHere are some tips 【 26 】 choosing an ideal one from a number of colleges.\n1. Visit the websites of these colleges and find out which college has departments 【 27 】 courses that interest you or will help you prepare for your future career.\n2. Are the professors in the departments you plan to 【 28 】 into experts in their own fields?\n3. Do the colleges allow you to participate in activities 【 29 】 will help you develop yourself intellectually and emotionally?\n\nI hope the 【 30 】 advice is helpful to you in selecting the right college.\n28.",
+    "options": [
+      "get",
+      "join",
+      "learn",
+      "try"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：你打算「進入」的科系的教授是專家嗎？get into「進入」；join 為及物動詞，不接 into。\n\n故選 (A)"
+  },
+  {
+    "id": "91m-gsat-eng-29",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-30 題組】\nNow that you are planning to go to college, how can you select an ideal college for yourself? 【 21 】 its reputation or the test scores it requires for admission? In fact, it is not 【 22 】 simple as that. College education is far more complicated than 【 23 】 the reputation of a college or the test scores it requires. In addition to these two factors, you should also have 【 24 】 important information. Finding out which college suits you involves time and energy, but 【 25 】 more than those you might spend on buying a motorcycle or a computer.\n\nHere are some tips 【 26 】 choosing an ideal one from a number of colleges.\n1. Visit the websites of these colleges and find out which college has departments 【 27 】 courses that interest you or will help you prepare for your future career.\n2. Are the professors in the departments you plan to 【 28 】 into experts in their own fields?\n3. Do the colleges allow you to participate in activities 【 29 】 will help you develop yourself intellectually and emotionally?\n\nI hope the 【 30 】 advice is helpful to you in selecting the right college.\n29.",
+    "options": [
+      "what",
+      "they",
+      "that",
+      "those"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：參加「能」幫助你在智識與情感上成長的活動。that 為關係代名詞，修飾 activities。\n\n故選 (C)"
+  },
+  {
+    "id": "91m-gsat-eng-30",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-30 題組】\nNow that you are planning to go to college, how can you select an ideal college for yourself? 【 21 】 its reputation or the test scores it requires for admission? In fact, it is not 【 22 】 simple as that. College education is far more complicated than 【 23 】 the reputation of a college or the test scores it requires. In addition to these two factors, you should also have 【 24 】 important information. Finding out which college suits you involves time and energy, but 【 25 】 more than those you might spend on buying a motorcycle or a computer.\n\nHere are some tips 【 26 】 choosing an ideal one from a number of colleges.\n1. Visit the websites of these colleges and find out which college has departments 【 27 】 courses that interest you or will help you prepare for your future career.\n2. Are the professors in the departments you plan to 【 28 】 into experts in their own fields?\n3. Do the colleges allow you to participate in activities 【 29 】 will help you develop yourself intellectually and emotionally?\n\nI hope the 【 30 】 advice is helpful to you in selecting the right college.\n30.",
+    "options": [
+      "upper",
+      "over",
+      "upward",
+      "above"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：希望「上述」建議對你有幫助。the above advice「上述的建議」。\n\n故選 (D)"
+  },
+  {
+    "id": "91m-gsat-eng-31-40",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 31-40 題組】\nCan young people really improve the world by influencing their elders to change a policy? Read this story and decide for ___(31)___. Dolphins, like most of us, love to eat tuna. So in many parts of the world dolphins and fishermen are in ___(32)___ for tuna. In the past, there wasn't much conflict ___(33)___ dolphins and fishermen, because the numbers of tuna in the ocean were enormous. Now, however, men have developed huge fishing nets that form underwater \"walls\" that ___(34)___ for miles. They can catch thousands of tuna at one time. Unfortunately, they ___(35)___ catch many dolphins at the same time. Dolphins, like us, have to breathe air. When they are ___(36)___ in the nets too long, they cannot breathe. By the time they are brought ___(37)___ the ship, they will be dead. Many children were upset to hear about the ___(38)___ death of these wonderful sea creatures and decided to help ___(39)___ them. They wrote letters to the tuna companies and supermarkets asking them to find a way to spare dolphins. Eventually their hard work paid ___(40)___. Now you can buy tuna with the label \"dolphin-free tuna.\" So you see, everyone can make a difference.\n(A) also　(B) trapped　(C) between　(D) stretch　(E) save　(F) senseless　(G) competition　(H) aboard　(I) yourself　(J) off\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "I",
+      "G",
+      "C",
+      "D",
+      "A",
+      "B",
+      "H",
+      "F",
+      "E",
+      "J"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "explanation": "• 31 (I) yourself：decide for yourself「自己判斷」。\n• 32 (G) competition：海豚和漁夫「競爭」鮪魚，in competition for…。\n• 33 (C) between：conflict between A and B。\n• 34 (D) stretch：水下的網牆「延伸」好幾英里，關係子句動詞，先行詞 walls 為複數。\n• 35 (A) also：漁網「也」同時捕到許多海豚。\n• 36 (B) trapped：海豚「被困」在網中太久就無法呼吸。\n• 37 (H) aboard：被拉「上」船時已經死了。\n• 38 (F) senseless：這些海豚「無謂的」死亡讓孩子們難過。\n• 39 (E) save：help + 原形動詞，幫忙「拯救」牠們。\n• 40 (J) off：pay off「得到回報、成功」。"
+  },
+  {
+    "id": "91m-gsat-eng-41",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-43 題組】\nFolk tales are stories passed down by word of mouth generation after generation. They often concern very strong or clever people who come from humble backgrounds. These people usually triumph over their enemies because of their wit and their great energy. Folk tales are both down-to-earth and highly imaginative.\n\nMany folk tales originally had some basis in fact and grew out of the lives of real people. They changed, however, as they were told and retold. A man might once have fought a bear, for example, and the tales told about him might make him into the greatest bear fighter who ever lived. Through the power of imagination, folk tales can turn humble people into heroes. Many folk tales are also tall tales--stories of unbelievable events told with perfect seriousness. A tall tale, in other words, is a story in which the truth has been exaggerated.\n\nA culture's folk tales, fables, songs, and proverbs are an important part of its literature. By reading and listening to folk tales, we may gain a better understanding of the true values, beliefs, and goals of a people.\n41. Folk tales are usually the stories of ______.",
+    "options": [
+      "wise scholars",
+      "brave princes",
+      "greedy folk",
+      "ordinary people"
+    ],
+    "answerIndex": 3,
+    "explanation": "民間故事常講出身卑微、非常強壯或聰明的人，可以把平凡人變成英雄。\n\n故選 (D)"
+  },
+  {
+    "id": "91m-gsat-eng-42",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-43 題組】\nFolk tales are stories passed down by word of mouth generation after generation. They often concern very strong or clever people who come from humble backgrounds. These people usually triumph over their enemies because of their wit and their great energy. Folk tales are both down-to-earth and highly imaginative.\n\nMany folk tales originally had some basis in fact and grew out of the lives of real people. They changed, however, as they were told and retold. A man might once have fought a bear, for example, and the tales told about him might make him into the greatest bear fighter who ever lived. Through the power of imagination, folk tales can turn humble people into heroes. Many folk tales are also tall tales--stories of unbelievable events told with perfect seriousness. A tall tale, in other words, is a story in which the truth has been exaggerated.\n\nA culture's folk tales, fables, songs, and proverbs are an important part of its literature. By reading and listening to folk tales, we may gain a better understanding of the true values, beliefs, and goals of a people.\n42. Which of the following statements about tall tales is NOT TRUE?",
+    "options": [
+      "Tall tales are factual stories.",
+      "It takes imagination to create tall tales.",
+      "Tall tales overstate the power of humans.",
+      "People are serious when telling tall tales."
+    ],
+    "answerIndex": 0,
+    "explanation": "誇張故事是以十足認真的態度講述難以置信的事，真相被誇大了，並非如實記載的故事。\n\n故選 (A)"
+  },
+  {
+    "id": "91m-gsat-eng-43",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 41-43 題組】\nFolk tales are stories passed down by word of mouth generation after generation. They often concern very strong or clever people who come from humble backgrounds. These people usually triumph over their enemies because of their wit and their great energy. Folk tales are both down-to-earth and highly imaginative.\n\nMany folk tales originally had some basis in fact and grew out of the lives of real people. They changed, however, as they were told and retold. A man might once have fought a bear, for example, and the tales told about him might make him into the greatest bear fighter who ever lived. Through the power of imagination, folk tales can turn humble people into heroes. Many folk tales are also tall tales--stories of unbelievable events told with perfect seriousness. A tall tale, in other words, is a story in which the truth has been exaggerated.\n\nA culture's folk tales, fables, songs, and proverbs are an important part of its literature. By reading and listening to folk tales, we may gain a better understanding of the true values, beliefs, and goals of a people.\n43. According to this passage, folk tales ______.",
+    "options": [
+      "are written by native writers",
+      "explain the origin of world literature",
+      "reveal people's ideas about life",
+      "teach people how to survive"
+    ],
+    "answerIndex": 2,
+    "explanation": "閱讀與聆聽民間故事，能更了解一個民族的價值觀、信仰與目標。\n(A) 民間故事是口耳相傳的。\n\n故選 (C)"
+  },
+  {
+    "id": "91m-gsat-eng-44",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-46 題組】\nIt used to be that athletes and VIPs gave away their signatures for free, and a signed baseball or photograph would just sit on a shelf and collect dust. But nowadays, autographs (signatures) are big business.\n\nMany athletes and VIPs demand payment for their signatures, and many people are willing to pay. Autograph dealers can be found in almost any sizable city, and collectors may get hundreds, even thousands, of dollars for things signed by anyone from Mozart to Madonna, Thomas Jefferson to JFK.\n\nA 54-page manuscript written by Albert Einstein recently was sold for ＄398,500 at Christie's in New York. And in 1994, Microsoft CEO (chief executive officer) Bill Gates paid ＄30.8 million for a handwritten notebook penned by Leonardo da Vinci. Meanwhile, fans across the U.S. are flocking to sports shows to have their heroes sign anything from a bat to a box of cereal.\n\nWhat is the real reason many collectors want autographs? To connect with someone famous, or maybe even to imagine themselves as the hero they admire.\n44. In the past, the signatures of athletes and VIPs ______.",
+    "options": [
+      "were highly priced",
+      "cost nothing at all",
+      "attracted great attention",
+      "were for sale to the public"
+    ],
+    "answerIndex": 1,
+    "explanation": "以前運動員和名人免費簽名，簽名球或照片只是擺在架上積灰塵。\n\n故選 (B)"
+  },
+  {
+    "id": "91m-gsat-eng-45",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-46 題組】\nIt used to be that athletes and VIPs gave away their signatures for free, and a signed baseball or photograph would just sit on a shelf and collect dust. But nowadays, autographs (signatures) are big business.\n\nMany athletes and VIPs demand payment for their signatures, and many people are willing to pay. Autograph dealers can be found in almost any sizable city, and collectors may get hundreds, even thousands, of dollars for things signed by anyone from Mozart to Madonna, Thomas Jefferson to JFK.\n\nA 54-page manuscript written by Albert Einstein recently was sold for ＄398,500 at Christie's in New York. And in 1994, Microsoft CEO (chief executive officer) Bill Gates paid ＄30.8 million for a handwritten notebook penned by Leonardo da Vinci. Meanwhile, fans across the U.S. are flocking to sports shows to have their heroes sign anything from a bat to a box of cereal.\n\nWhat is the real reason many collectors want autographs? To connect with someone famous, or maybe even to imagine themselves as the hero they admire.\n45. According to this passage, many people now collect athletes' and VIPs' signatures ______.",
+    "options": [
+      "for their artistic value",
+      "to show them off to their friends",
+      "as historical documents",
+      "to be associated with famous people"
+    ],
+    "answerIndex": 3,
+    "explanation": "收藏者想要簽名的真正原因是與名人產生連結，甚至想像自己就是崇拜的英雄。\n\n故選 (D)"
+  },
+  {
+    "id": "91m-gsat-eng-46",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 44-46 題組】\nIt used to be that athletes and VIPs gave away their signatures for free, and a signed baseball or photograph would just sit on a shelf and collect dust. But nowadays, autographs (signatures) are big business.\n\nMany athletes and VIPs demand payment for their signatures, and many people are willing to pay. Autograph dealers can be found in almost any sizable city, and collectors may get hundreds, even thousands, of dollars for things signed by anyone from Mozart to Madonna, Thomas Jefferson to JFK.\n\nA 54-page manuscript written by Albert Einstein recently was sold for ＄398,500 at Christie's in New York. And in 1994, Microsoft CEO (chief executive officer) Bill Gates paid ＄30.8 million for a handwritten notebook penned by Leonardo da Vinci. Meanwhile, fans across the U.S. are flocking to sports shows to have their heroes sign anything from a bat to a box of cereal.\n\nWhat is the real reason many collectors want autographs? To connect with someone famous, or maybe even to imagine themselves as the hero they admire.\n46. The overall tone (attitude) of this passage is ______.",
+    "options": [
+      "factual",
+      "ironic",
+      "negative",
+      "enthusiastic"
+    ],
+    "answerIndex": 0,
+    "explanation": "文章以實例與數字客觀陳述簽名收藏的現況，語氣是就事論事。\n\n故選 (A)"
+  },
+  {
+    "id": "91m-gsat-eng-47",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 47-50 題組】\nIn Taiwan much time and energy are spent on getting a proper education and finding a good job. As a result, health concerns have been neglected. A new study by the Department of Health in Taiwan shows that more than half of the adult population in Taiwan lacks an understanding of important health problems. More than 2,000 adults took part in the survey to find out about their knowledge of diet, healthcare, disease control, and medication. Surprisingly, only 51 percent of the people surveyed understand that the common cold has no cure. Colds are caused by viruses, not bacteria, so taking medicine is absolutely no use at all. The problem is made worse by doctors who give their patients large doses of useless drugs. More than two-thirds believe that it is only the nicotine in cigarettes rather than the other chemicals that cause cancer. These people believe that if they smoke \"light\" cigarettes with less nicotine, they will not get cancer. Since 26 percent of Taiwanese adults smoke, such a misunderstanding will lead to more illness, suffering, and early death. But the outlook for health education in Taiwan is not all negative. The survey concludes that younger Taiwanese have a better understanding of health concerns than their parents, while senior citizens have the least understanding among the three age groups.\n47. Recently a health survey was carried out in Taiwan to determine ______.",
+    "options": [
+      "why people ignore their health",
+      "when to teach health education",
+      "what people know about health",
+      "who is more likely to become ill"
+    ],
+    "answerIndex": 2,
+    "explanation": "調查了解成年人對飲食、保健、疾病控制與用藥的知識。\n\n故選 (C)"
+  },
+  {
+    "id": "91m-gsat-eng-48",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 47-50 題組】\nIn Taiwan much time and energy are spent on getting a proper education and finding a good job. As a result, health concerns have been neglected. A new study by the Department of Health in Taiwan shows that more than half of the adult population in Taiwan lacks an understanding of important health problems. More than 2,000 adults took part in the survey to find out about their knowledge of diet, healthcare, disease control, and medication. Surprisingly, only 51 percent of the people surveyed understand that the common cold has no cure. Colds are caused by viruses, not bacteria, so taking medicine is absolutely no use at all. The problem is made worse by doctors who give their patients large doses of useless drugs. More than two-thirds believe that it is only the nicotine in cigarettes rather than the other chemicals that cause cancer. These people believe that if they smoke \"light\" cigarettes with less nicotine, they will not get cancer. Since 26 percent of Taiwanese adults smoke, such a misunderstanding will lead to more illness, suffering, and early death. But the outlook for health education in Taiwan is not all negative. The survey concludes that younger Taiwanese have a better understanding of health concerns than their parents, while senior citizens have the least understanding among the three age groups.\n48. According to the article, which of the following is TRUE about medicines for colds?",
+    "options": [
+      "They can cure the common cold.",
+      "Many Taiwanese take too many of them.",
+      "Doctors often refuse to sell them.",
+      "About 51 percent of patients use them."
+    ],
+    "answerIndex": 1,
+    "explanation": "感冒無藥可醫，醫生卻開大量無用的藥給病人，可見許多人吃了過多感冒藥。\n(D) 51% 是了解感冒無藥可醫的人數比例。\n\n故選 (B)"
+  },
+  {
+    "id": "91m-gsat-eng-49",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 47-50 題組】\nIn Taiwan much time and energy are spent on getting a proper education and finding a good job. As a result, health concerns have been neglected. A new study by the Department of Health in Taiwan shows that more than half of the adult population in Taiwan lacks an understanding of important health problems. More than 2,000 adults took part in the survey to find out about their knowledge of diet, healthcare, disease control, and medication. Surprisingly, only 51 percent of the people surveyed understand that the common cold has no cure. Colds are caused by viruses, not bacteria, so taking medicine is absolutely no use at all. The problem is made worse by doctors who give their patients large doses of useless drugs. More than two-thirds believe that it is only the nicotine in cigarettes rather than the other chemicals that cause cancer. These people believe that if they smoke \"light\" cigarettes with less nicotine, they will not get cancer. Since 26 percent of Taiwanese adults smoke, such a misunderstanding will lead to more illness, suffering, and early death. But the outlook for health education in Taiwan is not all negative. The survey concludes that younger Taiwanese have a better understanding of health concerns than their parents, while senior citizens have the least understanding among the three age groups.\n49. According to the survey, most Taiwanese believe that ______.",
+    "options": [
+      "nicotine alone makes people fall victim to cancer",
+      "only a small percentage of smokers will develop cancer",
+      "smoking fewer cigarettes decreases the risk of cancer",
+      "other chemicals besides nicotine cause lung diseases"
+    ],
+    "answerIndex": 0,
+    "explanation": "超過三分之二的人認為只有香菸中的尼古丁會致癌，而不是其他化學物質。\n\n故選 (A)"
+  },
+  {
+    "id": "91m-gsat-eng-50",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 47-50 題組】\nIn Taiwan much time and energy are spent on getting a proper education and finding a good job. As a result, health concerns have been neglected. A new study by the Department of Health in Taiwan shows that more than half of the adult population in Taiwan lacks an understanding of important health problems. More than 2,000 adults took part in the survey to find out about their knowledge of diet, healthcare, disease control, and medication. Surprisingly, only 51 percent of the people surveyed understand that the common cold has no cure. Colds are caused by viruses, not bacteria, so taking medicine is absolutely no use at all. The problem is made worse by doctors who give their patients large doses of useless drugs. More than two-thirds believe that it is only the nicotine in cigarettes rather than the other chemicals that cause cancer. These people believe that if they smoke \"light\" cigarettes with less nicotine, they will not get cancer. Since 26 percent of Taiwanese adults smoke, such a misunderstanding will lead to more illness, suffering, and early death. But the outlook for health education in Taiwan is not all negative. The survey concludes that younger Taiwanese have a better understanding of health concerns than their parents, while senior citizens have the least understanding among the three age groups.\n50. The results of the survey show that ______.",
+    "options": [
+      "the health statistics in Taiwan are neglected",
+      "there is hope for improvement in the younger generation",
+      "the older generation depends on the healthcare system",
+      "many people value a career over their health"
+    ],
+    "answerIndex": 1,
+    "explanation": "調查結論：年輕一代比父母更了解健康問題，台灣健康教育的前景並非全然悲觀。\n\n故選 (B)"
+  },
+  {
+    "id": "91m-gsat-eng-51",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 51-55 題組】\n\"I have a regular film camera but I just don't use it much,\" said Ms. Lowery, 23, a computer programmer. \"When I got married last year, I had all these pictures that didn't come out right. With digital cameras, you aren't spending money on film for wasted pictures,\" she said.\n\nAnd there are plenty of models from which to choose: from simple ＄200 point-and-shoot snappers to ＄1,000 wonders with all the features that any advanced amateur could want. The wide selection is a sure sign that in many consumers' minds, digital cameras have risen from mere gadgets to must-have items.\n\nDigital cameras offer more than just the instant previewing of pictures on small color screens. They can store dozens, sometimes hundreds, of images that can be printed easily at home or sent by e-mail. Although there are extra costs involved in going digital--the cost of memory cards for storage and the special paper for printing--many buyers have been willing to make the switch.\n\nAlthough about 90 percent of American households still use film cameras, digital cameras are capturing a growing share of the consumer market. And the number of digital-camera households, now at about 10 percent, is certain to grow, as manufacturers introduce more and more cameras whose quality is as good as film cameras. Soon, even professionals will use them.\n\nSalesmen expect digital cameras to be popular gifts this holiday season. \"They are very hot this year,\" said Yossi Fogel at B & H Photo in New York. \"The prices have come down and the quality has gone up. Who wants to travel with 30 rolls of film? With a large memory card to store pictures, you can shoot and shoot and never have to worry about changing a roll. How many times have you missed a picture because you failed to reload the film?\"\n51. Which of the following is NOT an advantage of the digital camera over the film camera?",
+    "options": [
+      "The user has to spend additional money for it.",
+      "It comes in many models for the customer.",
+      "It saves money from unwanted pictures.",
+      "Its pictures can be sent by e-mail."
+    ],
+    "answerIndex": 0,
+    "explanation": "數位相機需要額外花錢買記憶卡和相紙，這是缺點而非優點。\n\n故選 (A)"
+  },
+  {
+    "id": "91m-gsat-eng-52",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 51-55 題組】\n\"I have a regular film camera but I just don't use it much,\" said Ms. Lowery, 23, a computer programmer. \"When I got married last year, I had all these pictures that didn't come out right. With digital cameras, you aren't spending money on film for wasted pictures,\" she said.\n\nAnd there are plenty of models from which to choose: from simple ＄200 point-and-shoot snappers to ＄1,000 wonders with all the features that any advanced amateur could want. The wide selection is a sure sign that in many consumers' minds, digital cameras have risen from mere gadgets to must-have items.\n\nDigital cameras offer more than just the instant previewing of pictures on small color screens. They can store dozens, sometimes hundreds, of images that can be printed easily at home or sent by e-mail. Although there are extra costs involved in going digital--the cost of memory cards for storage and the special paper for printing--many buyers have been willing to make the switch.\n\nAlthough about 90 percent of American households still use film cameras, digital cameras are capturing a growing share of the consumer market. And the number of digital-camera households, now at about 10 percent, is certain to grow, as manufacturers introduce more and more cameras whose quality is as good as film cameras. Soon, even professionals will use them.\n\nSalesmen expect digital cameras to be popular gifts this holiday season. \"They are very hot this year,\" said Yossi Fogel at B & H Photo in New York. \"The prices have come down and the quality has gone up. Who wants to travel with 30 rolls of film? With a large memory card to store pictures, you can shoot and shoot and never have to worry about changing a roll. How many times have you missed a picture because you failed to reload the film?\"\n52. According to this passage, the American households using digital cameras will increase if ______.",
+    "options": [
+      "their producers invest more money",
+      "their operation becomes simpler",
+      "their salesmen are more friendly",
+      "their quality keeps improving"
+    ],
+    "answerIndex": 3,
+    "explanation": "隨著廠商推出越來越多與傳統相機品質相當的機種，數位相機家庭數一定會成長。\n\n故選 (D)"
+  },
+  {
+    "id": "91m-gsat-eng-53",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 51-55 題組】\n\"I have a regular film camera but I just don't use it much,\" said Ms. Lowery, 23, a computer programmer. \"When I got married last year, I had all these pictures that didn't come out right. With digital cameras, you aren't spending money on film for wasted pictures,\" she said.\n\nAnd there are plenty of models from which to choose: from simple ＄200 point-and-shoot snappers to ＄1,000 wonders with all the features that any advanced amateur could want. The wide selection is a sure sign that in many consumers' minds, digital cameras have risen from mere gadgets to must-have items.\n\nDigital cameras offer more than just the instant previewing of pictures on small color screens. They can store dozens, sometimes hundreds, of images that can be printed easily at home or sent by e-mail. Although there are extra costs involved in going digital--the cost of memory cards for storage and the special paper for printing--many buyers have been willing to make the switch.\n\nAlthough about 90 percent of American households still use film cameras, digital cameras are capturing a growing share of the consumer market. And the number of digital-camera households, now at about 10 percent, is certain to grow, as manufacturers introduce more and more cameras whose quality is as good as film cameras. Soon, even professionals will use them.\n\nSalesmen expect digital cameras to be popular gifts this holiday season. \"They are very hot this year,\" said Yossi Fogel at B & H Photo in New York. \"The prices have come down and the quality has gone up. Who wants to travel with 30 rolls of film? With a large memory card to store pictures, you can shoot and shoot and never have to worry about changing a roll. How many times have you missed a picture because you failed to reload the film?\"\n53. Which of the following is NOT TRUE about film cameras?",
+    "options": [
+      "Their pictures can be printed at a photo shop.",
+      "Their pictures can be enlarged as desired.",
+      "Their pictures can be seen before they are printed.",
+      "Their pictures can be stored for a long time."
+    ],
+    "answerIndex": 2,
+    "explanation": "能即時預覽照片的是數位相機；傳統相機要沖洗後才看得到，所以 Lowery 婚禮照片拍壞了也不知道。\n\n故選 (C)"
+  },
+  {
+    "id": "91m-gsat-eng-54",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 51-55 題組】\n\"I have a regular film camera but I just don't use it much,\" said Ms. Lowery, 23, a computer programmer. \"When I got married last year, I had all these pictures that didn't come out right. With digital cameras, you aren't spending money on film for wasted pictures,\" she said.\n\nAnd there are plenty of models from which to choose: from simple ＄200 point-and-shoot snappers to ＄1,000 wonders with all the features that any advanced amateur could want. The wide selection is a sure sign that in many consumers' minds, digital cameras have risen from mere gadgets to must-have items.\n\nDigital cameras offer more than just the instant previewing of pictures on small color screens. They can store dozens, sometimes hundreds, of images that can be printed easily at home or sent by e-mail. Although there are extra costs involved in going digital--the cost of memory cards for storage and the special paper for printing--many buyers have been willing to make the switch.\n\nAlthough about 90 percent of American households still use film cameras, digital cameras are capturing a growing share of the consumer market. And the number of digital-camera households, now at about 10 percent, is certain to grow, as manufacturers introduce more and more cameras whose quality is as good as film cameras. Soon, even professionals will use them.\n\nSalesmen expect digital cameras to be popular gifts this holiday season. \"They are very hot this year,\" said Yossi Fogel at B & H Photo in New York. \"The prices have come down and the quality has gone up. Who wants to travel with 30 rolls of film? With a large memory card to store pictures, you can shoot and shoot and never have to worry about changing a roll. How many times have you missed a picture because you failed to reload the film?\"\n54. According to this article, digital cameras nowadays are used mainly by ______.",
+    "options": [
+      "professionals",
+      "amateurs",
+      "housewives",
+      "students"
+    ],
+    "answerIndex": 1,
+    "explanation": "機種從簡易傻瓜相機到滿足進階業餘者需求的高階機，並說「很快連專業人士也會使用」，可見目前主要使用者是業餘者。\n\n故選 (B)"
+  },
+  {
+    "id": "91m-gsat-eng-55",
+    "examType": "學測",
+    "year": 91,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 51-55 題組】\n\"I have a regular film camera but I just don't use it much,\" said Ms. Lowery, 23, a computer programmer. \"When I got married last year, I had all these pictures that didn't come out right. With digital cameras, you aren't spending money on film for wasted pictures,\" she said.\n\nAnd there are plenty of models from which to choose: from simple ＄200 point-and-shoot snappers to ＄1,000 wonders with all the features that any advanced amateur could want. The wide selection is a sure sign that in many consumers' minds, digital cameras have risen from mere gadgets to must-have items.\n\nDigital cameras offer more than just the instant previewing of pictures on small color screens. They can store dozens, sometimes hundreds, of images that can be printed easily at home or sent by e-mail. Although there are extra costs involved in going digital--the cost of memory cards for storage and the special paper for printing--many buyers have been willing to make the switch.\n\nAlthough about 90 percent of American households still use film cameras, digital cameras are capturing a growing share of the consumer market. And the number of digital-camera households, now at about 10 percent, is certain to grow, as manufacturers introduce more and more cameras whose quality is as good as film cameras. Soon, even professionals will use them.\n\nSalesmen expect digital cameras to be popular gifts this holiday season. \"They are very hot this year,\" said Yossi Fogel at B & H Photo in New York. \"The prices have come down and the quality has gone up. Who wants to travel with 30 rolls of film? With a large memory card to store pictures, you can shoot and shoot and never have to worry about changing a roll. How many times have you missed a picture because you failed to reload the film?\"\n55. With a digital camera, it is necessary to ______.",
+    "options": [
+      "carry a lot of film",
+      "print pictures at a photo shop",
+      "have a memory card",
+      "spend more time in using it"
+    ],
+    "answerIndex": 2,
+    "explanation": "數位相機需要記憶卡儲存照片，這是轉用數位的額外成本之一。\n\n故選 (C)"
   }
 ]
