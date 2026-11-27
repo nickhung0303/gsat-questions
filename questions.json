@@ -36619,5 +36619,727 @@
       ]
     ],
     "explanation": "$\\text{KMnO}_4$ 用量 $48.25 - 28.25 = 20.00$ mL，$0.05\\times0.02000 = 1.00\\times10^{-3}$ mol，$\\text{Fe}^{2+}$ $5.00\\times10^{-3}$ mol（50 mL 中）。\n100 mL 中 $\\text{Fe}^{2+}$ $1.00\\times10^{-2}$ mol，$\\times55.85 = 0.5585$ g，$\\dfrac{0.5585}{4.00} \\approx 14.0\\%$。\n（只測得仍為 Fe(Ⅱ) 的鐵；已被氧化成 Fe(Ⅲ) 的部分不會被過錳酸鉀滴定。）"
+  },
+  {
+    "id": "96-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "為達到環境保護及永續經營的目的，化學反應中，反應物的原子，應儘可能全部轉化為產物中的原子。若要使下列反應：$x\\,\\text{H}_2\\text{C}{=}\\text{CH}_2 + y\\,\\text{O}_2 \\to z$（環氧乙烷，三員環 $\\text{C}_2\\text{H}_4\\text{O}$）（式中的係數 $x$、$y$、$z$ 均為整數）符合環境保護及永續經營的要求，則 $(x + y + z)$ 的最小數值為何？",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answerIndex": 1,
+    "explanation": "【原子經濟】\n$2\\text{C}_2\\text{H}_4 + \\text{O}_2 \\to 2\\text{C}_2\\text{H}_4\\text{O}$，反應物原子全部進入產物。$x + y + z = 2 + 1 + 2 = 5$。\n\n故選 (B)"
+  },
+  {
+    "id": "96-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 2-3 題為題組】化合物 $\\text{A}_2(g)$ 與 $\\text{B}_2(g)$ 反應生成 $\\text{AB}(g)$，其反應式如下：$\\text{A}_2(g) + \\text{B}_2(g) \\rightleftharpoons 2\\text{AB}(g)$\n將 0.30 莫耳的化合物 $\\text{A}_2(g)$ 與 0.15 莫耳的化合物 $\\text{B}_2(g)$ 混合在一溫度為 60℃，體積為 V 升的容器內，當反應達到平衡時，得 0.20 莫耳的化合物 $\\text{AB}(g)$。\n\n2. 試問 60℃ 時，此反應的平衡常數為何？",
+    "options": [
+      "0.20",
+      "1.0",
+      "2.0",
+      "4.0",
+      "8.8"
+    ],
+    "answerIndex": 3,
+    "explanation": "【平衡常數】\n生成 AB 0.20 mol，消耗 $\\text{A}_2$、$\\text{B}_2$ 各 0.10 mol：平衡時 $\\text{A}_2$ 0.20、$\\text{B}_2$ 0.05、AB 0.20 mol。\n氣體係數兩邊相等，體積 V 會消去：$K = \\dfrac{0.20^2}{0.20\\times0.05} = 4.0$\n\n故選 (D)"
+  },
+  {
+    "id": "96-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 2-3 題為題組】化合物 $\\text{A}_2(g)$ 與 $\\text{B}_2(g)$ 反應生成 $\\text{AB}(g)$，其反應式如下：$\\text{A}_2(g) + \\text{B}_2(g) \\rightleftharpoons 2\\text{AB}(g)$\n將 0.30 莫耳的化合物 $\\text{A}_2(g)$ 與 0.15 莫耳的化合物 $\\text{B}_2(g)$ 混合在一溫度為 60℃，體積為 V 升的容器內，當反應達到平衡時，得 0.20 莫耳的化合物 $\\text{AB}(g)$。\n\n3. 已知有關化合物 $\\text{A}_2(g)$、$\\text{B}_2(g)$ 與 $\\text{AB}(g)$ 的熱化學反應式如下：\n$2\\text{A}(g) \\rightleftharpoons \\text{A}_2(g) + 36$ kJ\n$2\\text{B}(g) \\rightleftharpoons \\text{B}_2(g) + 86$ kJ\n$\\text{AB}(g) + 70\\text{ kJ} \\rightleftharpoons \\text{A}(g) + \\text{B}(g)$\n試問下列反應式中的 Q 值為何？$\\text{A}_2(g) + \\text{B}_2(g) \\rightleftharpoons 2\\text{AB}(g) + Q$ kJ",
+    "options": [
+      "18",
+      "35",
+      "43",
+      "−35",
+      "−18"
+    ],
+    "answerIndex": 0,
+    "explanation": "【赫斯定律】\n$\\text{A}_2 \\to 2\\text{A}$：吸熱 36；$\\text{B}_2 \\to 2\\text{B}$：吸熱 86；$2\\text{A} + 2\\text{B} \\to 2\\text{AB}$：放熱 $2\\times70 = 140$。\n淨放熱 $140 - 36 - 86 = 18$ kJ，$Q = 18$。\n\n故選 (A)"
+  },
+  {
+    "id": "96-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "圖 1 為三個分別裝有相同理想氣體的定容器，開始時各活栓關閉，各容器內的氣體體積及壓力如圖 1 所示（3.00 atm、3.00 L；4.00 atm、4.00 L；5.00 atm、5.00 L）。定溫下，將各活栓打開，當容器內氣體達到平衡後，若忽略各活栓的體積，則容器內的壓力應變為多少大氣壓（atm）？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-04.png\" alt=\"圖1 以活栓相連的三個容器\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "3.60",
+      "3.98",
+      "4.17",
+      "4.80",
+      "5.20"
+    ],
+    "answerIndex": 2,
+    "explanation": "【定溫混合】\n$P = \\dfrac{\\sum P_iV_i}{\\sum V_i} = \\dfrac{9 + 16 + 25}{3 + 4 + 5} = \\dfrac{50}{12} \\approx 4.17$ atm\n\n故選 (C)"
+  },
+  {
+    "id": "96-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "三瓶沒有貼標籤的強酸，已知分別裝有濃鹽酸、濃硫酸及濃硝酸。試問下列哪一種物質，可以單獨鑑別這三瓶強酸？",
+    "options": [
+      "方糖",
+      "牛奶",
+      "金片",
+      "鉑片",
+      "銅片"
+    ],
+    "answerIndex": 4,
+    "acceptedAnswerIndices": [
+      [
+        1
+      ]
+    ],
+    "explanation": "【強酸的性質】\n• 銅片：濃鹽酸不反應；濃硝酸立刻產生紅棕色 $\\text{NO}_2$ 並使溶液變綠藍；濃硫酸需加熱才產生 $\\text{SO}_2$。三者現象不同，可鑑別。\n• 牛奶（蛋白質）：濃硝酸使蛋白質變黃（黃蛋白反應）、濃硫酸使其脫水碳化變黑、濃鹽酸使其凝固成白色，也能區別，因此大考中心公告 E 或 B 皆給分。\n• 方糖只能辨出濃硫酸（脫水變黑）；金、鉑不與單一強酸反應。\n\n故選 (E)"
+  },
+  {
+    "id": "96-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "室溫下，將一大氣壓的 $\\text{NO}(g)$ 充滿於一體積固定的容器內，當加入 $\\text{O}_2(g)$ 時，容器內立即產生赤褐色的氣體 $\\text{NO}_2(g)$。若在加入 $\\text{O}_2(g)$ 的過程中，維持容器的體積與溫度不變，且加入 $\\text{O}_2(g)$ 的速率比 NO(g) 與 $\\text{O}_2(g)$ 的反應速率慢，則下列圖中，哪一個最適合表示容器內混合氣體的總壓力（P）與所加入 $\\text{O}_2(g)$ 體積（V）的關係？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-06.png\" alt=\"五張總壓力對加入氧氣體積的圖 (A)～(E)\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 3,
+    "acceptedAnswerIndices": [
+      [
+        0
+      ],
+      [
+        2
+      ]
+    ],
+    "explanation": "【氣體莫耳數變化】\n$2\\text{NO} + \\text{O}_2 \\to 2\\text{NO}_2$：每加入 1 份 $\\text{O}_2$，它立刻與 2 份 NO 反應生成 2 份 $\\text{NO}_2$，氣體總量不變，壓力維持水平。NO 用完後，再加入的 $\\text{O}_2$ 不再反應，壓力開始上升。即「先水平、再上升」的 (D)。\n（若考慮 $2\\text{NO}_2 \\rightleftharpoons \\text{N}_2\\text{O}_4$，前段壓力會略降，因此大考中心公告 D 或 A 或 C 皆給分。）\n\n故選 (D)"
+  },
+  {
+    "id": "96-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "化合物 $\\text{A}(g)$ 與 $\\text{B}(g)$ 反應生成 $\\text{C}(g)$，其反應式如下：$2\\text{A}(g) + 2\\text{B}(g) \\to 3\\text{C}(g)$（已知此反應的反應速率式可表示為 $r = k[\\text{A}]^2[\\text{B}]$）。王同學做了兩次實驗。第一次將化合物 A(g) 及 B(g) 各 0.1 莫耳置於一個 500 毫升的容器中反應。在相同的溫度下，做第二次實驗，將 0.2 莫耳的化合物 A(g) 及 0.1 莫耳的化合物 B(g) 置於一個 1000 毫升的容器中反應。試問第二次實驗的反應初速率為第一次的幾倍？",
+    "options": [
+      "1/8",
+      "1/4",
+      "1/2",
+      "不變",
+      "2"
+    ],
+    "answerIndex": 2,
+    "explanation": "【速率定律】\n第一次：[A] = [B] = 0.2 M，$r_1 = k(0.2)^2(0.2)$。\n第二次：[A] = 0.2 M、[B] = 0.1 M，$r_2 = k(0.2)^2(0.1)$。\n$\\dfrac{r_2}{r_1} = \\dfrac12$\n\n故選 (C)"
+  },
+  {
+    "id": "96-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "表 1 為元素週期表的一部分，甲至戊表元素符號，其中甲的原子序為 13。表中第一列為甲、乙（乙在甲右邊），第二列為丙、丁、戊（丁在甲正下方，丙在丁左邊，戊在丁右邊）。試問表 1 中，哪一個元素的原子半徑最小？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-08.png\" alt=\"表1 週期表的一部分：甲、乙在上列，丙、丁、戊在下列\" style=\"width:100%;max-width:110px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 1,
+    "explanation": "【原子半徑的趨勢】\n甲 Al、乙 Si（第三週期）；丁 Ga、戊 Ge、丙 Zn（第四週期）。\n原子半徑往右變小、往下變大，所以第三週期較右的乙（Si）最小。\n\n故選 (B)"
+  },
+  {
+    "id": "96-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "單層奈米碳管是一個由單層石墨所形成的中空圓柱型分子。圖 2 為無限奈米碳管的一部分，若按圖 2 所示的方式將單層石墨捲曲成一直徑為 1.4 奈米（或 1400 皮米）的奈米碳管，則沿圓柱型的圓周繞一圈，需要多少個六圓環？[已知石墨中的碳−碳鍵長約為 1.42 埃（或 142 皮米）]",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-09.png\" alt=\"圖2 奈米碳管的一部分\" style=\"width:100%;max-width:140px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "14",
+      "18",
+      "22",
+      "26",
+      "30"
+    ],
+    "answerIndex": 1,
+    "explanation": "【幾何計算】\n圓周長 $\\pi\\times1400 \\approx 4400$ pm。依圖示方向，每個六圓環沿圓周方向佔的寬度為兩平行邊的距離 $\\sqrt3\\times142 \\approx 246$ pm。\n$\\dfrac{4400}{246} \\approx 18$ 個。\n\n故選 (B)"
+  },
+  {
+    "id": "96-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關乙烷，乙烯，乙炔分子中碳−碳鍵長的比較，哪一個是正確的？",
+    "options": [
+      "乙烷 < 乙烯 < 乙炔",
+      "乙炔 < 乙烷 < 乙烯",
+      "乙炔 < 乙烯 < 乙烷",
+      "乙烯 < 乙烷 < 乙炔",
+      "乙烯 < 乙炔 < 乙烷"
+    ],
+    "answerIndex": 2,
+    "explanation": "【鍵級與鍵長】\n參鍵（120 pm）< 雙鍵（134 pm）< 單鍵（154 pm）。\n\n故選 (C)"
+  },
+  {
+    "id": "96-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "圖 3 為一個容器內的液體與其蒸氣所形成平衡系統的示意圖。在定溫下，將活塞緩慢往上拉，整個過程中，一直使系統處於平衡狀態，當系統的體積達到 $V_1$ 時，液體全部消失。試問下列哪一個最能表示此系統的壓力隨體積變化的關係圖？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-11.png\" alt=\"圖3 活塞下的液體與蒸氣，以及五張壓力對體積的圖 (A)～(E)\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 0,
+    "explanation": "【飽和蒸氣壓】\n液體還在時，壓力為該溫度的飽和蒸氣壓，與體積無關（水平線）；$V_1$ 之後只剩氣體，遵守波以耳定律 $P \\propto \\dfrac1V$，呈雙曲線下降。即 (A)。\n\n故選 (A)"
+  },
+  {
+    "id": "96-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "有甲、乙、丙、丁、戊、己、庚等七杯各含 100 毫升濃度不等的鹽酸溶液，各溶液的 pH 值分別為 7.0、6.0、5.0、4.0、3.0、2.0、1.0。今將濃鹽酸逐滴滴入各溶液中，使各溶液的 pH 值，分別降為 6.0、5.0、4.0、3.0、2.0、1.0、0.0。若用各溶液所需加入濃鹽酸的滴數對各溶液的編號作圖，則所形成的曲線，應接近下列哪一個？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-12.png\" alt=\"五張濃鹽酸滴數對編號甲～庚的曲線 (A)～(E)\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 0,
+    "explanation": "【pH 是對數】\npH 降 1，$[\\text{H}^+]$ 要變 10 倍，需加入的 $\\text{H}^+$ 約為原有 $[\\text{H}^+]$ 的 9 倍。原溶液酸性愈強，需要的量愈多，而且每杯之間相差 10 倍：甲、乙……幾乎不需要，到己、庚急遽增加。呈指數上升的曲線 (A)。\n\n故選 (A)"
+  },
+  {
+    "id": "96-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "圖 4 為氫原子結合成氫分子的位能變化圖。當二個氫原子逐漸接近時，電子與原子核相互吸引，導致其位能逐漸降低，直至位能最低時（−432 kJ/mol），形成最穩定的氫分子。（氫分子的鍵能即為 432 kJ/mol，而此時氫原子核間的距離（0.74 埃），即為氫分子的鍵長）。當二個氫原子更接近時，因原子核間的斥力大增，其位能亦急速增高。下列有關 $\\text{Cl}_2$、$\\text{Br}_2$、$\\text{I}_2$ 等分子形成過程中，位能變化的相對關係圖，何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-13.png\" alt=\"圖4 氫分子的位能曲線，以及五張 Cl2、Br2、I2 位能曲線的比較圖 (A)～(E)\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 4,
+    "explanation": "【鍵能與鍵長】\n鹵素分子：鍵長 $\\text{Cl}_2$（199 pm）< $\\text{Br}_2$（228 pm）< $\\text{I}_2$（267 pm）；鍵能 $\\text{Cl}_2$（242）> $\\text{Br}_2$（193）> $\\text{I}_2$（151 kJ/mol），且都遠小於 $\\text{H}_2$ 的 432。\n所以位能谷由左到右依序為 $\\text{Cl}_2$、$\\text{Br}_2$、$\\text{I}_2$，谷底一個比一個淺，對應 (E)。\n\n故選 (E)"
+  },
+  {
+    "id": "96-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "將 $\\text{PbI}_2(s)$（$K_{sp} = 7.1\\times10^{-9}$）溶於 0.1 公升水中，直至溶液飽和時，其 $\\text{Pb}^{2+}(aq)$ 與 $\\text{I}^-(aq)$ 離子濃度隨時間變化的關係如圖 5。若在 T 時間時，將上述飽和溶液加入一 0.1 公升，1.0 M 的 $\\text{NaI}(aq)$ 溶液中。試問：下列哪一個最適合表示 T 時間後，$[\\text{Pb}^{2+}]$ 與 $[\\text{I}^-]$ 隨時間改變的關係圖？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-14.png\" alt=\"圖5 PbI2 溶解時的濃度變化，以及五張 T 時間後的濃度圖 (A)～(E)\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 2,
+    "explanation": "【同離子效應】\n混合後 $[\\text{I}^-]$ 瞬間躍升到約 0.5 M（遠大於原來），$\\text{PbI}_2$ 隨即沉澱，$[\\text{I}^-]$ 略降後趨於定值；$[\\text{Pb}^{2+}]$ 則因稀釋與沉澱大幅下降到接近零（$[\\text{Pb}^{2+}] = \\dfrac{K_{sp}}{0.5^2} \\approx 3\\times10^{-8}$ M）。符合的是 (C)。\n\n故選 (C)"
+  },
+  {
+    "id": "96-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 15-16 題為題組】王同學取 2.00 克的柳酸（分子量 = 138）與 4.00 毫升的乙酐（分子量 = 102，比重 = 1.08），在濃硫酸的催化下反應，所得產物經純化、再結晶及烘乾後，得到 1.80 克的阿司匹靈。柳酸與乙酐反應生成阿司匹靈的反應式如下（產物另有乙酸）。\n\n15. 下列哪一個化合物也可與柳酸反應生成阿司匹靈？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-15.png\" alt=\"柳酸 + 乙酐 →（濃硫酸）阿司匹靈 + 乙酸\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "氯乙烯",
+      "乙醇",
+      "乙胺",
+      "溴乙烷",
+      "乙醯氯"
+    ],
+    "answerIndex": 4,
+    "explanation": "【乙醯化】\n阿司匹靈是柳酸的酚基被乙醯化（$-\\text{OCOCH}_3$）。乙醯氯 $\\text{CH}_3\\text{COCl}$ 與乙酐一樣是乙醯化試劑，與酚基反應生成酯並放出 HCl。\n\n故選 (E)"
+  },
+  {
+    "id": "96-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 15-16 題為題組】王同學取 2.00 克的柳酸（分子量 = 138）與 4.00 毫升的乙酐（分子量 = 102，比重 = 1.08），在濃硫酸的催化下反應，所得產物經純化、再結晶及烘乾後，得到 1.80 克的阿司匹靈。柳酸與乙酐反應生成阿司匹靈的反應式如下（產物另有乙酸）。\n\n16. 試問王同學在本實驗所得的產率為何（%）？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-15.png\" alt=\"柳酸 + 乙酐 →（濃硫酸）阿司匹靈 + 乙酸\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "35",
+      "47",
+      "52",
+      "69",
+      "78"
+    ],
+    "answerIndex": 3,
+    "explanation": "【產率】\n柳酸 $\\dfrac{2.00}{138} \\approx 0.0145$ mol；乙酐 $\\dfrac{4.00\\times1.08}{102} \\approx 0.0424$ mol（過量），柳酸為限量試劑。\n理論產量 $0.0145\\times180 \\approx 2.61$ g，產率 $\\dfrac{1.80}{2.61} \\approx 69\\%$。\n\n故選 (D)"
+  },
+  {
+    "id": "96-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 5,
+    "question": "常溫下，已知硫酸鈣與硫酸鋇的溶度積常數（$K_{sp}$）分別為 $2.5\\times10^{-5}$ 和 $1.7\\times10^{-10}$。則下列有關溶液的敘述，哪些是正確的？",
+    "options": [
+      "硫酸鈣在純水中的溶解度為 $5.0\\times10^{-3}$ M",
+      "硫酸鈣在 0.10 M 氯化鈣溶液的溶解度為 $2.5\\times10^{-4}$ M",
+      "硫酸鋇在 0.01 M 氯化鋇溶液的溶解度為硫酸鋇在純水中溶解度的一半",
+      "將 50 毫升 0.01 M 氯化鋇溶液，加入 50 毫升 0.01 M 硫酸鉀溶液，會有沉澱產生",
+      "若將 0.05 M 硫酸鉀溶液，逐滴加入一 100 mL 含 0.01 M 氯化鋇及 0.01 M 氯化鈣的混合水溶液中，則會先產生硫酸鋇沉澱"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explanation": "【溶度積】\n• (A) 正確：$s = \\sqrt{2.5\\times10^{-5}} = 5.0\\times10^{-3}$ M。\n• (B) 正確：$s = \\dfrac{2.5\\times10^{-5}}{0.10} = 2.5\\times10^{-4}$ M。\n• (C) 錯：純水中 $s \\approx 1.3\\times10^{-5}$ M；在 0.01 M $\\text{Ba}^{2+}$ 中 $s = 1.7\\times10^{-8}$ M，遠小於一半。\n• (D) 正確：$Q = 0.005\\times0.005 = 2.5\\times10^{-5} > K_{sp}$。\n• (E) 正確：$\\text{BaSO}_4$ 所需的 $[\\text{SO}_4^{2-}]$（$1.7\\times10^{-8}$ M）遠小於 $\\text{CaSO}_4$（$2.5\\times10^{-3}$ M），先沉澱。\n\n故選 (A)(B)(D)(E)"
+  },
+  {
+    "id": "96-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 5,
+    "question": "某些只含 C、H、O 三種元素的有機化合物，當一莫耳的該化合物完全燃燒時，所需氧的莫耳數及所產生水的莫耳數，均與一莫耳的甲烷完全燃燒時相同。試問下列化合物中，哪些能滿足上述條件？",
+    "options": [
+      "HCOOH",
+      "$\\text{HCOOCH}_3$",
+      "$\\text{CH}_3\\text{COOH}$",
+      "$\\text{C}_2\\text{H}_5\\text{COOH}$",
+      "$\\text{H}_2\\text{C(COOH)}_2$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【燃燒計量】\n甲烷：需 2 mol $\\text{O}_2$，產生 2 mol $\\text{H}_2\\text{O}$ → 化合物要有 4 個 H，且需氧量 $= C + \\dfrac{H}{4} - \\dfrac{O}{2} = 2$。\n• HCOOH（$\\text{CH}_2\\text{O}_2$）：H = 2，不合。\n• $\\text{HCOOCH}_3$、$\\text{CH}_3\\text{COOH}$（$\\text{C}_2\\text{H}_4\\text{O}_2$）：$2 + 1 - 1 = 2$ ✓。\n• $\\text{C}_2\\text{H}_5\\text{COOH}$（$\\text{C}_3\\text{H}_6\\text{O}_2$）：H = 6，不合。\n• 丙二酸（$\\text{C}_3\\text{H}_4\\text{O}_4$）：$3 + 1 - 2 = 2$，H = 4 ✓。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "96-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 5,
+    "question": "已知三個相同材質的汽球，分別裝有等莫耳數的 $\\text{H}_2$、He、$\\text{CH}_4$ 等三種氣體。假設這些氣體均為理想氣體，則在標準狀態下，對汽球內三種氣體的敘述，哪些是正確的？",
+    "options": [
+      "$\\text{H}_2$ 的壓力為 He 的 4 倍",
+      "$\\text{H}_2$ 汽球內的原子數為 He 汽球內原子數的 2 倍",
+      "當 $\\text{H}_2$ 汽球內的 $\\text{H}_2$ 逸散出 50% 時，則在同一時間，約有 35% 的 He 從 He 汽球內逸散出來",
+      "He 的逸散速率為 $\\text{CH}_4$ 的 2 倍",
+      "$\\text{CH}_4$ 的密度（克/升）為 He 的 4 倍"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "【理想氣體與格銳目定律】\n• (A) 錯：標準狀態下壓力都是 1 atm。\n• (B) 正確：$\\text{H}_2$ 是雙原子分子。\n• (C) 正確：逸散速率與 $\\sqrt{M}$ 成反比，He 為 $\\text{H}_2$ 的 $\\sqrt{\\dfrac24} \\approx 0.71$ 倍，$50\\%\\times0.71 \\approx 35\\%$。\n• (D) 正確：$\\sqrt{\\dfrac{16}{4}} = 2$。\n• (E) 正確：同溫同壓下密度與分子量成正比，$\\dfrac{16}{4} = 4$。\n\n故選 (B)(C)(D)(E)"
+  },
+  {
+    "id": "96-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 5,
+    "question": "化石燃料是現今地球上最主要的能源，一般火力發電廠利用燃燒反應，將化學能轉變為熱能，用來推動發電機以產生電能。但是使用這種方式，最有效率的發電廠也僅能轉換約 40% 的化學能為電能。若能利用電化學方法，直接將化學能轉變為電能，將更有效率，燃料電池即以此種方式產生電能。氫−氧燃料電池與甲烷燃料電池所需半反應的標準還原電位如下：\n$\\text{O}_2 + 4\\text{H}^+ + 4e^- \\to 2\\text{H}_2\\text{O}$　$E^\\circ = 1.23$ V\n$\\text{CO}_2 + 8\\text{H}^+ + 8e^- \\to \\text{CH}_4 + 2\\text{H}_2\\text{O}$　$E^\\circ = 0.17$ V\n$2\\text{H}^+ + 2e^- \\to \\text{H}_2$　$E^\\circ = 0.0$ V\n燃料電池對外所能做的最大電功為 $W = -nFE^\\circ$（W 為電功，單位焦耳；F 為法拉第常數 96500 庫侖/莫耳；$E^\\circ$ 為電動勢；n 為燃燒一莫耳氫或甲烷所轉移的電子莫耳數）。\n下列有關氫−氧與甲烷燃料電池的敘述，哪些是正確的？",
+    "options": [
+      "每產生 1.0 莫耳的水，兩種電池都需要轉移 2.0 莫耳的電子",
+      "甲烷燃料電池的電動勢為 1.40 V",
+      "氫−氧燃料電池的電動勢為 1.23 V",
+      "甲烷燃料電池每消耗 1.0 莫耳的甲烷，可以產生 $W = -409$ kJ 的電功",
+      "氫−氧燃料電池每消耗 1.0 莫耳的氫氣，可以產生 $W = -237$ kJ 的電功"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【燃料電池】\n• (A) 錯：$\\text{CH}_4 + 2\\text{O}_2 \\to \\text{CO}_2 + 2\\text{H}_2\\text{O}$ 轉移 8 個電子、生成 2 mol 水，每 mol 水轉移 4 mol 電子。\n• (B) 錯：$1.23 - 0.17 = 1.06$ V。\n• (C) 正確：$1.23 - 0 = 1.23$ V。\n• (D) 錯：$W = -8\\times96500\\times1.06 \\approx -818$ kJ。\n• (E) 正確：$W = -2\\times96500\\times1.23 \\approx -237$ kJ。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "96-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 5,
+    "question": "燃料電池能量轉換的最大可能效率為 $\\dfrac{W}{\\Delta H^\\circ}$，其中 $\\Delta H^\\circ$ 是燃料的莫耳燃燒熱。已知氫氣與甲烷的莫耳燃燒熱分別是 −286 kJ/mol 與 −890 kJ/mol，則下列有關氫−氧與甲烷燃料電池的能量轉換與其效率的敘述，哪些是正確的？（數據承第 20 題）",
+    "options": [
+      "燃料電池的能量轉換效率比傳統發電機高",
+      "氫−氧燃料電池的最大可能效率為 83%",
+      "甲烷燃料電池的最大可能效率為 92%",
+      "兩種燃料電池的最大可能效率均超過 90%",
+      "每單位質量的氫−氧燃料電池的最大可能效率比甲烷燃料電池高"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "acceptedAnswerIndices": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "explanation": "【效率計算】\n• (A) 正確：都遠高於火力發電的約 40%。\n• (B) 正確：$\\dfrac{237}{286} \\approx 83\\%$。\n• (C) 正確：$\\dfrac{818}{890} \\approx 92\\%$。\n• (D) 錯：氫氧燃料電池只有 83%。\n• (E) 依大考中心答案正確：若以「每單位質量燃料可產生的電功」比較，氫氣 $\\dfrac{237}{2} \\approx 119$ kJ/g，甲烷 $\\dfrac{818}{16} \\approx 51$ kJ/g，氫氣較高。但「效率」本身與質量無關，題意有爭議，因此公告 ABCE 或 ABC 皆給分。\n\n故選 (A)(B)(C)(E)"
+  },
+  {
+    "id": "96-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 5,
+    "question": "鐵生鏽是常見的氧化還原反應。反應中，鐵氧化為 $\\text{Fe}^{2+}(aq)$，而氧還原與水反應生成 $\\text{OH}^-(aq)$。$\\text{Fe}^{2+}(aq)$ 的檢驗可由 $\\text{Fe}^{2+}(aq)$ 與 $\\text{K}_3[\\text{Fe(CN)}_6](aq)$ 反應呈藍色而得知；而 $\\text{OH}^-(aq)$ 的檢驗，可由 $\\text{OH}^-(aq)$ 遇無色的酚酞呈紅色而得知。實驗初始時，王同學將左鐵棒的上、下兩端各聯上一鋅片，而在右鐵棒中段聯上一銅片（如實驗初始圖），王同學將此二者靜置於含有 $\\text{K}_3[\\text{Fe(CN)}_6](aq)$ 及酚酞的混合膠質溶液中，經一段時間後，發現圖中的甲、乙、丙、丁、戊、己等六區均有變化，則下列各區的變化，哪些是正確的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-22.png\" alt=\"左鐵棒上下端接鋅片（甲、丙為鋅片處，乙為中段鐵棒）；右鐵棒中段接銅片（戊為銅片處，丁、己為上下段鐵棒）\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲區呈現藍色",
+      "乙區呈現紅色",
+      "丙區呈現藍色",
+      "丁區產生鐵(Ⅱ)離子",
+      "戊區產生銅(Ⅱ)離子"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "【犧牲陽極與電化學腐蝕】\n• 左棒：鋅比鐵活潑，鋅被氧化（甲、丙生成 $\\text{Zn}^{2+}$，不會與鐵氰化鉀呈藍色），鐵棒中段為陰極，氧還原產生 $\\text{OH}^-$，乙區酚酞變紅。(B) 正確，(A)(C) 錯。\n• 右棒：鐵比銅活潑，鐵棒（丁、己）被氧化生成 $\\text{Fe}^{2+}$（呈藍色），銅片（戊）為陰極，產生 $\\text{OH}^-$（變紅），銅不會溶出。(D) 正確，(E) 錯。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "96-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】本題共 8 小題，其答案需從下列 15 種氣體選取，而且必須以內的 A、B、C……代號回答：(A) NH₃、(B) N₂、(C) N₂O₃、(D) N₂O₅、(E) NO₂、(F) O₂、(G) CO₂、(H) C₂H₂、(I) HF、(J) F₂、(K) HCl、(L) HBr、(M) HI、(N) H₂S、(O) SO₂。\n\n1. 哪一個氣體溶於水後，呈鹼性？",
+    "points": 1,
+    "blanks": [
+      "A"
+    ],
+    "blankLabels": [
+      "代號"
+    ],
+    "explanation": "$\\text{NH}_3 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{NH}_4^+ + \\text{OH}^-$，氨水呈鹼性。"
+  },
+  {
+    "id": "96-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】本題共 8 小題，其答案需從下列 15 種氣體選取，而且必須以內的 A、B、C……代號回答：(A) NH₃、(B) N₂、(C) N₂O₃、(D) N₂O₅、(E) NO₂、(F) O₂、(G) CO₂、(H) C₂H₂、(I) HF、(J) F₂、(K) HCl、(L) HBr、(M) HI、(N) H₂S、(O) SO₂。\n\n2. 哪一個氣體通入含有鉛離子的溶液即產生黑色沉澱？",
+    "points": 1,
+    "blanks": [
+      "N"
+    ],
+    "blankLabels": [
+      "代號"
+    ],
+    "explanation": "$\\text{H}_2\\text{S}$ 與 $\\text{Pb}^{2+}$ 生成黑色 PbS 沉澱。"
+  },
+  {
+    "id": "96-ast-chem-non-1-3",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】本題共 8 小題，其答案需從下列 15 種氣體選取，而且必須以內的 A、B、C……代號回答：(A) NH₃、(B) N₂、(C) N₂O₃、(D) N₂O₅、(E) NO₂、(F) O₂、(G) CO₂、(H) C₂H₂、(I) HF、(J) F₂、(K) HCl、(L) HBr、(M) HI、(N) H₂S、(O) SO₂。\n\n3. 哪一個氣體通入澄清的氫氧化鈣溶液即產生白色沉澱？",
+    "points": 1,
+    "blanks": [
+      "G"
+    ],
+    "blankLabels": [
+      "代號"
+    ],
+    "explanation": "$\\text{CO}_2 + \\text{Ca(OH)}_2 \\to \\text{CaCO}_3 + \\text{H}_2\\text{O}$。"
+  },
+  {
+    "id": "96-ast-chem-non-1-4",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】本題共 8 小題，其答案需從下列 15 種氣體選取，而且必須以內的 A、B、C……代號回答：(A) NH₃、(B) N₂、(C) N₂O₃、(D) N₂O₅、(E) NO₂、(F) O₂、(G) CO₂、(H) C₂H₂、(I) HF、(J) F₂、(K) HCl、(L) HBr、(M) HI、(N) H₂S、(O) SO₂。\n\n4. 哪一個氣體溶於水後，其成分之一的元素，會呈現兩種不同的氧化數？",
+    "points": 1,
+    "blanks": [
+      "E"
+    ],
+    "blankLabels": [
+      "代號"
+    ],
+    "explanation": "$\\text{NO}_2$ 溶於水發生自身氧化還原：$3\\text{NO}_2 + \\text{H}_2\\text{O} \\to 2\\text{HNO}_3 + \\text{NO}$（N 由 +4 變為 +5 與 +2；也可寫成生成 $\\text{HNO}_3$ 與 $\\text{HNO}_2$）。"
+  },
+  {
+    "id": "96-ast-chem-non-1-5",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】本題共 8 小題，其答案需從下列 15 種氣體選取，而且必須以內的 A、B、C……代號回答：(A) NH₃、(B) N₂、(C) N₂O₃、(D) N₂O₅、(E) NO₂、(F) O₂、(G) CO₂、(H) C₂H₂、(I) HF、(J) F₂、(K) HCl、(L) HBr、(M) HI、(N) H₂S、(O) SO₂。\n\n5. 哪一個無機物的氣體，沒有腐敗的蛋臭味，溶於水呈酸性，能使過錳酸鉀的硫酸溶液褪色？",
+    "points": 1,
+    "blanks": [
+      "O"
+    ],
+    "blankLabels": [
+      "代號"
+    ],
+    "explanation": "$\\text{SO}_2$ 有刺激性臭味（非蛋臭味），溶於水成亞硫酸，具還原性，使過錳酸鉀褪色。$\\text{H}_2\\text{S}$ 雖也能使其褪色，但有腐敗蛋臭味。"
+  },
+  {
+    "id": "96-ast-chem-non-1-6",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】本題共 8 小題，其答案需從下列 15 種氣體選取，而且必須以內的 A、B、C……代號回答：(A) NH₃、(B) N₂、(C) N₂O₃、(D) N₂O₅、(E) NO₂、(F) O₂、(G) CO₂、(H) C₂H₂、(I) HF、(J) F₂、(K) HCl、(L) HBr、(M) HI、(N) H₂S、(O) SO₂。\n\n6. 哪一個氣體分子，其孤對電子數最少？",
+    "points": 1,
+    "blanks": [
+      "H"
+    ],
+    "blankLabels": [
+      "代號"
+    ],
+    "explanation": "乙炔 $\\text{H}-\\text{C}{\\equiv}\\text{C}-\\text{H}$ 沒有任何孤對電子；其他氣體分子都至少有一對（如 $\\text{NH}_3$ 有一對）。"
+  },
+  {
+    "id": "96-ast-chem-non-1-7",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】本題共 8 小題，其答案需從下列 15 種氣體選取，而且必須以內的 A、B、C……代號回答：(A) NH₃、(B) N₂、(C) N₂O₃、(D) N₂O₅、(E) NO₂、(F) O₂、(G) CO₂、(H) C₂H₂、(I) HF、(J) F₂、(K) HCl、(L) HBr、(M) HI、(N) H₂S、(O) SO₂。\n\n7. 哪一個氣體可作為燃料，與氧燃燒可得高溫的火焰？",
+    "points": 1,
+    "blanks": [
+      "H"
+    ],
+    "blankLabels": [
+      "代號"
+    ],
+    "explanation": "氧乙炔焰溫度可達約 3000°C，用於焊接與切割金屬。"
+  },
+  {
+    "id": "96-ast-chem-non-1-8",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】本題共 8 小題，其答案需從下列 15 種氣體選取，而且必須以內的 A、B、C……代號回答：(A) NH₃、(B) N₂、(C) N₂O₃、(D) N₂O₅、(E) NO₂、(F) O₂、(G) CO₂、(H) C₂H₂、(I) HF、(J) F₂、(K) HCl、(L) HBr、(M) HI、(N) H₂S、(O) SO₂。\n\n8. 氫鹵酸之外，哪些氣體溶於水後，呈強酸性（只寫出一種）？",
+    "points": 1,
+    "blanks": [
+      "D"
+    ],
+    "blankLabels": [
+      "代號"
+    ],
+    "acceptedBlanks": [
+      [
+        "E"
+      ]
+    ],
+    "explanation": "$\\text{N}_2\\text{O}_5 + \\text{H}_2\\text{O} \\to 2\\text{HNO}_3$（強酸）；$\\text{NO}_2$ 溶於水也生成硝酸，寫 E 亦可。$\\text{CO}_2$、$\\text{SO}_2$、$\\text{H}_2\\text{S}$、$\\text{N}_2\\text{O}_3$ 溶於水都只呈弱酸性。"
+  },
+  {
+    "id": "96-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】本題共 4 小題，其答案需從下列 15 種有機化合物選取（見圖），且必須寫出代號並寫出其正確的中文名稱。\n\n1. 哪一個化合物可與二鉻酸鉀溶液反應生成酮類？（寫出代號與其正確的中文名稱）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-non-2.png\" alt=\"(A)～(O) 十五種有機化合物：苯胺、甲基環己二烯、萘、環戊烷、己醛、乙酸乙酯、苯甲酸、1-辛炔、溴環己烷、1-己醇、N,N-二甲基丙胺、環戊醇、1-己烯、丙酮、順-2-庚烯\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "L",
+      "環戊醇"
+    ],
+    "blankLabels": [
+      "代號",
+      "名稱"
+    ],
+    "explanation": "二級醇被二鉻酸鉀氧化成酮：環戊醇 → 環戊酮。（1-己醇是一級醇，氧化得醛或羧酸。）"
+  },
+  {
+    "id": "96-ast-chem-non-2-2",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】本題共 4 小題，其答案需從下列 15 種有機化合物選取（見圖），且必須寫出代號並寫出其正確的中文名稱。\n\n2. 哪一個化合物可與多侖試液反應得銀鏡？（寫出代號與其正確的中文名稱）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-non-2.png\" alt=\"(A)～(O) 十五種有機化合物：苯胺、甲基環己二烯、萘、環戊烷、己醛、乙酸乙酯、苯甲酸、1-辛炔、溴環己烷、1-己醇、N,N-二甲基丙胺、環戊醇、1-己烯、丙酮、順-2-庚烯\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "E",
+      "己醛"
+    ],
+    "blankLabels": [
+      "代號",
+      "名稱"
+    ],
+    "acceptedBlanks": [
+      [],
+      [
+        "正己醛",
+        "1-己醛"
+      ]
+    ],
+    "explanation": "醛基可還原多侖試液：$\\text{CH}_3(\\text{CH}_2)_4\\text{CHO}$ 為己醛。"
+  },
+  {
+    "id": "96-ast-chem-non-2-3",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】本題共 4 小題，其答案需從下列 15 種有機化合物選取（見圖），且必須寫出代號並寫出其正確的中文名稱。\n\n3. 哪一個化合物具有最高的熔點？（寫出代號與其正確的中文名稱）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-non-2.png\" alt=\"(A)～(O) 十五種有機化合物：苯胺、甲基環己二烯、萘、環戊烷、己醛、乙酸乙酯、苯甲酸、1-辛炔、溴環己烷、1-己醇、N,N-二甲基丙胺、環戊醇、1-己烯、丙酮、順-2-庚烯\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "G",
+      "苯甲酸"
+    ],
+    "blankLabels": [
+      "代號",
+      "名稱"
+    ],
+    "explanation": "苯甲酸分子間有氫鍵（形成二聚體），且分子平面易堆積，熔點約 122°C，高於萘（80°C）等其他化合物。"
+  },
+  {
+    "id": "96-ast-chem-non-2-4",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】本題共 4 小題，其答案需從下列 15 種有機化合物選取（見圖），且必須寫出代號並寫出其正確的中文名稱。\n\n4. 哪一個化合物可以有反式異構物？（寫出代號與其正確的中文名稱）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/96-ast-chem-non-2.png\" alt=\"(A)～(O) 十五種有機化合物：苯胺、甲基環己二烯、萘、環戊烷、己醛、乙酸乙酯、苯甲酸、1-辛炔、溴環己烷、1-己醇、N,N-二甲基丙胺、環戊醇、1-己烯、丙酮、順-2-庚烯\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "O",
+      "順-2-庚烯"
+    ],
+    "blankLabels": [
+      "代號",
+      "名稱"
+    ],
+    "acceptedBlanks": [
+      [],
+      [
+        "順2庚烯",
+        "2-庚烯",
+        "順式-2-庚烯"
+      ]
+    ],
+    "explanation": "(O) 雙鍵兩端的碳各接兩個不同的基團（$\\text{CH}_3$/H 與丁基/H），圖中兩個烷基在同側為順-2-庚烯，存在反式異構物。1-己烯（M）的末端碳接兩個 H，沒有順反異構。"
+  },
+  {
+    "id": "96-ast-chem-non-3-1",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】$\\text{CaCO}_3(s)$ 分解為 $\\text{CaO}(s)$ 與 $\\text{CO}_2(g)$ 的平衡反應式如右：$\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$。已知 850℃ 時，此反應的平衡常數 $K_p = 1.21$（以 atm 表示）。\n\n1. 取 1.0 莫耳的 CaCO₃(s) 置入一體積為 10.0 公升的容器後，將容器抽至真空，並將容器加熱到 850℃。在此溫度下，當反應達平衡時，容器內氣體的壓力應為幾大氣壓（atm）？",
+    "points": 2,
+    "blanks": [
+      "1.21"
+    ],
+    "blankLabels": [
+      "壓力（atm）"
+    ],
+    "acceptedBlanks": [
+      [
+        "1.21atm",
+        "1.2"
+      ]
+    ],
+    "explanation": "$K_p = P_{\\text{CO}_2} = 1.21$ atm（固體不列入）。檢查碳酸鈣是否足夠：需 $n = \\dfrac{1.21\\times10.0}{0.082\\times1123} \\approx 0.13$ mol < 1.0 mol，足夠，所以壓力為 1.21 atm。"
+  },
+  {
+    "id": "96-ast-chem-non-3-2",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】$\\text{CaCO}_3(s)$ 分解為 $\\text{CaO}(s)$ 與 $\\text{CO}_2(g)$ 的平衡反應式如右：$\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$。已知 850℃ 時，此反應的平衡常數 $K_p = 1.21$（以 atm 表示）。\n\n2. 承上題，定溫下（850℃），將容器體積減為 5.0 公升，並加入 1.35 atm 的氮氣，當反應再度平衡時，容器內氣體的壓力應為幾大氣壓（atm）？",
+    "points": 2,
+    "blanks": [
+      "2.56"
+    ],
+    "blankLabels": [
+      "壓力（atm）"
+    ],
+    "acceptedBlanks": [
+      [
+        "2.56atm",
+        "2.6"
+      ]
+    ],
+    "explanation": "$\\text{CO}_2$ 的分壓仍由 $K_p$ 決定，維持 1.21 atm（多餘的 $\\text{CO}_2$ 與 CaO 結合回碳酸鈣）；氮氣不參與反應，分壓 1.35 atm。總壓 $1.21 + 1.35 = 2.56$ atm。"
+  },
+  {
+    "id": "96-ast-chem-non-3-3",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】$\\text{CaCO}_3(s)$ 分解為 $\\text{CaO}(s)$ 與 $\\text{CO}_2(g)$ 的平衡反應式如右：$\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$。已知 850℃ 時，此反應的平衡常數 $K_p = 1.21$（以 atm 表示）。\n\n3. 承第 1 小題，定溫下（850℃），再加入 0.1 莫耳的 CaO(s) 於容器中，當反應再度平衡時，容器中的 CaCO₃(s) 與 CO₂(g) 莫耳數應如何變化？（以增加、減少、不變的方式表示）",
+    "points": 2,
+    "blanks": [
+      "不變",
+      "不變"
+    ],
+    "blankLabels": [
+      "CaCO₃",
+      "CO₂"
+    ],
+    "explanation": "固體的量不影響平衡（不出現在 $K_p$ 中），$P_{\\text{CO}_2}$ 仍為 1.21 atm，體積、溫度不變，$\\text{CO}_2$ 莫耳數不變，$\\text{CaCO}_3$ 也不變。"
   }
 ]
