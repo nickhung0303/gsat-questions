@@ -43704,5 +43704,632 @@
       "產物丁"
     ],
     "explanation": "【酯的酸性水解】\n化合物乙有兩個酯基：五員內酯環與苯甲酸酯（$-\\text{O}-\\text{C}(=\\text{O})-\\text{C}_6\\text{H}_5$）。完全水解後，苯甲酸酯斷開得到苯甲酸 $\\text{C}_6\\text{H}_5\\text{COOH}$；苯環具有共振結構，苯甲酸鈉是常見的食品防腐劑。\n（另一產物戊為內酯開環後的多羥基羧酸。）\n\n答：丁為苯甲酸 $\\text{C}_6\\text{H}_5\\text{COOH}$（苯環接一個 $-\\text{COOH}$）。"
+  },
+  {
+    "id": "114-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "points": 4,
+    "question": "穩定分子的分子式 $\\text{CH}_3\\text{SH}_x$、$\\text{CH}_3(\\text{CH}_y)_3\\text{Cl}$、$\\text{CH}_3\\text{NH}_z$ 中，則 x、y、z 值應分別為下列哪一項？",
+    "options": [
+      "1、2、2",
+      "1、2、3",
+      "2、3、1",
+      "2、3、2",
+      "3、2、1"
+    ],
+    "answerIndex": 0,
+    "explanation": "【依各原子的鍵數補 H】\n• S 形成 2 個鍵：$\\text{CH}_3-\\text{S}-\\text{H}$，$x = 1$。\n• 直鏈中間的 C 各接 2 個 H：$\\text{CH}_3\\text{CH}_2\\text{CH}_2\\text{CH}_2\\text{Cl}$，$y = 2$。\n• N 形成 3 個鍵：$\\text{CH}_3-\\text{NH}_2$，$z = 2$。\n\n故選 (A)"
+  },
+  {
+    "id": "114-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "points": 4,
+    "question": "定溫定容下，某氣體（$\\text{X}_2\\text{Y}$）可進行分解反應，其化學反應式如式 1：\n$$\\text{X}_2\\text{Y(g)} \\to \\text{X}_2\\text{(g)} + \\text{Y(g)}\\qquad\\text{（式 1）}$$\n已知 $\\text{X}_2\\text{Y}$、$\\text{X}_2$ 及 Y 彼此之間互不反應，且三者皆可視為理想氣體。若初始的容器內僅有 $\\text{X}_2\\text{Y}$，其壓力為 $P_0$；反應過程中，$\\text{X}_2\\text{Y}$ 分壓與時間的關係如圖 1 所示，則容器內總壓隨時間的變化可能為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-02-f1.png\" alt=\"圖1 X₂Y 分壓由 P₀ 隨時間遞減到 0（起初下降最快）\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-02.png\" alt=\"選項 (A)～(E) 總壓對時間圖\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 4,
+    "explanation": "【1 莫耳氣體變 2 莫耳】\n設 $\\text{X}_2\\text{Y}$ 分壓為 $P$，則已分解 $P_0 - P$，生成的 $\\text{X}_2$ 與 Y 各 $P_0 - P$：\n$$P_\\text{總} = P + 2(P_0 - P) = 2P_0 - P$$\n• 起點 $P = P_0$，總壓為 $P_0$；終點 $P = 0$，總壓為 $2P_0$。\n• 圖 1 中 $P$ 一開始下降最快，所以總壓一開始上升最快、逐漸趨緩，對應圖 (E)。圖 (B) 雖也由 $P_0$ 到 $2P_0$，但起初平緩，不符。\n\n故選 (E)"
+  },
+  {
+    "id": "114-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "points": 4,
+    "question": "圖 2 為電解 NaCl(l) 的電流與時間的關係圖，試問經過 3 小時後，大約可以生成多少克鈉金屬？（鈉的原子量 23.0）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-03.png\" alt=\"圖2 電流約 10 安培，持續 3 小時後降為 0\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "25",
+      "13",
+      "1.1",
+      "0.02",
+      "0"
+    ],
+    "answerIndex": 0,
+    "explanation": "【法拉第定律】\n• 電量 $Q = It \\approx 10 \\times 3 \\times 3600 = 1.08\\times10^5\\text{ C}$\n• 電子莫耳數 $= \\dfrac{1.08\\times10^5}{96500} \\approx 1.12\\text{ mol}$\n• $\\text{Na}^+ + e^- \\to \\text{Na}$，生成 Na 約 1.12 mol，$1.12 \\times 23.0 \\approx 25.7\\text{ g}$，最接近 25 g。\n\n故選 (A)"
+  },
+  {
+    "id": "114-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "points": 4,
+    "question": "將 pH = 2.0 的 HCl 水溶液 50 mL，與一未知濃度的 KOH 水溶液 50 mL 均勻混合後，若溫度沒有改變，體積為 100 mL，此溶液的 pH 值為 4.0。則原來 KOH 水溶液的濃度（M）為下列何者？",
+    "options": [
+      "0.098",
+      "0.0098",
+      "0.0049",
+      "0.0018",
+      "0.00098"
+    ],
+    "answerIndex": 1,
+    "explanation": "【混合後仍為酸性 → 酸過量】\n• HCl：$1.0\\times10^{-2} \\times 0.050 = 5.0\\times10^{-4}\\text{ mol}$\n• 剩餘 $\\text{H}^+$：$1.0\\times10^{-4} \\times 0.100 = 1.0\\times10^{-5}\\text{ mol}$\n• 被中和的 $\\text{OH}^-$：$5.0\\times10^{-4} - 1.0\\times10^{-5} = 4.9\\times10^{-4}\\text{ mol}$\n• $[\\text{KOH}] = \\dfrac{4.9\\times10^{-4}}{0.050} = 0.0098\\text{ M}$\n\n故選 (B)"
+  },
+  {
+    "id": "114-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "points": 4,
+    "question": "氣體 A 與氣體 B 反應生成氣體 C。在定溫下，某固定體積的密閉容器中，A、B 與 C 的起始濃度分別為 1.000 M、1.500 M 與 1.000 M；當反應達到平衡後，A 的濃度為 0.921 M，B 的濃度為 1.342 M，C 的濃度為 1.158 M。試問此反應的化學反應式為何？",
+    "options": [
+      "$\\text{A} + \\text{B} \\rightleftharpoons 2\\text{C}$",
+      "$\\text{A} + 2\\text{B} \\rightleftharpoons 2\\text{C}$",
+      "$2\\text{A} + \\text{B} \\rightleftharpoons \\text{C}$",
+      "$\\text{A} + 3\\text{B} \\rightleftharpoons 2\\text{C}$",
+      "$2\\text{A} + 3\\text{B} \\rightleftharpoons 3\\text{C}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "【濃度變化量比 = 係數比】\n• A：$1.000 - 0.921 = 0.079$（減少）\n• B：$1.500 - 1.342 = 0.158$（減少）\n• C：$1.158 - 1.000 = 0.158$（增加）\n$0.079 : 0.158 : 0.158 = 1 : 2 : 2$，即 $\\text{A} + 2\\text{B} \\rightleftharpoons 2\\text{C}$。\n\n故選 (B)"
+  },
+  {
+    "id": "114-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 6-7 題為題組】聚二甲基矽氧烷（甲）與化合物（乙）試劑反應後，其線形結構轉變成三維網狀結構，物理性質也從液體的矽油轉變成具有彈性的固體矽膠，圖 3 為其分子結構及化學反應示意圖，此反應稱為交聯反應（a、b、c 分別代表括弧中單元重複的數目）。\n6. 交聯反應中，（甲）末端的碳碳雙鍵與試劑（乙）中的哪個基團形成新的化學鍵結？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-06.png\" alt=\"圖3 末端含乙烯基的聚二甲基矽氧烷（甲）與含 Si–H 單元的試劑（乙）在催化劑作用下交聯成矽膠\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-06-opt.png\" alt=\"第 6 題選項 (A)～(E) 五種含矽基團\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 2,
+    "explanation": "【比較矽膠結構中新出現的鍵】\n圖 3 的產物中，甲末端的 $-\\text{CH}=\\text{CH}_2$ 變成 $-\\text{CH}_2-\\text{CH}_2-$，並接到原本乙上帶 H 的 Si 原子：Si–H 鍵加成到碳碳雙鍵上（矽氫化反應），H 接到一個 C，Si 接到另一個 C。\n所以參與反應的是乙中的 $-\\text{Si(H)(CH}_3)-\\text{O}-$ 單元，對應圖 (C)。\n\n故選 (C)"
+  },
+  {
+    "id": "114-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 6-7 題為題組】聚二甲基矽氧烷（甲）與化合物（乙）試劑反應後，其線形結構轉變成三維網狀結構，物理性質也從液體的矽油轉變成具有彈性的固體矽膠，圖 3 為其分子結構及化學反應示意圖，此反應稱為交聯反應（a、b、c 分別代表括弧中單元重複的數目）。\n7. 在相同反應條件下，將適當比例的不同重量（甲）和（乙）進行交聯反應，反應完全後所得到的矽膠會有不同彈性，主要原因為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-06.png\" alt=\"圖3 末端含乙烯基的聚二甲基矽氧烷（甲）與含 Si–H 單元的試劑（乙）在催化劑作用下交聯成矽膠\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "反應的基團不同",
+      "反應的活性不同",
+      "反應速率不同",
+      "交聯反應程度不同",
+      "溶解度不同"
+    ],
+    "answerIndex": 3,
+    "explanation": "甲、乙的比例不同時，反應的基團（C=C 與 Si–H）與反應類型都相同，但能形成的交聯點數目不同。交聯越多，網狀結構越緊密、越硬；交聯越少，鏈越能伸展、越有彈性。所以彈性差異主要來自交聯反應程度不同。\n\n故選 (D)"
+  },
+  {
+    "id": "114-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列有關石墨與金剛石的敘述，哪些正確？",
+    "options": [
+      "石墨與金剛石為同素異形體",
+      "石墨的導電性與結構中的 $\\pi$ 鍵有關",
+      "石墨的碳碳鍵長大於金剛石的碳碳鍵長",
+      "金剛石為三維共價網狀固體，常溫常壓時可導電",
+      "石墨內的碳以 $sp^2$ 混成軌域鍵結，層與層間有凡得瓦作用力"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "• (A) 正確：都由碳元素組成，結構不同。\n• (B) 正確：每個碳剩下的 p 軌域形成層內離域的 $\\pi$ 電子，可自由移動而導電。\n• (C) 錯誤：石墨層內 C–C 有部分雙鍵性質，約 142 pm，比金剛石的單鍵 154 pm 短。\n• (D) 錯誤：金剛石所有價電子都用於 $sp^3$ 單鍵，沒有可自由移動的電子，不導電。\n• (E) 正確：層內 $sp^2$ 共價鍵，層間以凡得瓦力結合，所以容易滑動。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "114-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "氦（He）是惰性氣體中最輕的元素，氦的一個價電子游離後，生成了氦離子（$\\text{He}^+$）。下列關於 $\\text{He}^+$ 的敘述，哪些正確？",
+    "options": [
+      "沒有 3d 軌域",
+      "$\\text{He}^+$ 的半徑比 He 的半徑大",
+      "基態 $\\text{He}^+$ 的電子組態與氫原子相同",
+      "可用波耳的原子模型理論解釋 $\\text{He}^+$ 光譜",
+      "由 $\\text{He}^+$ 到 $\\text{He}^{2+}$ 的游離能比由 He 到 $\\text{He}^+$ 的游離能大"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "• (A) 錯誤：軌域是能階的存在與否，與有沒有電子無關；$\\text{He}^+$ 的 n = 3 能階同樣有 3d 軌域（電子激發時可以進入）。\n• (B) 錯誤：$\\text{He}^+$ 少了一個電子，電子間排斥減少，核電荷相同，半徑較小。\n• (C) 正確：都只有一個電子，基態皆為 $1s^1$。\n• (D) 正確：波耳模型適用於單電子的原子或離子（類氫離子）。\n• (E) 正確：第二游離能大於第一游離能（從帶正電的離子再移去電子更困難）。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "114-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "甲、乙、丙、丁、戊五種元素的原子序均小於 20。甲是週期表中質量最小的元素，乙是週期表中電負度最大的元素，丙原子最外殼層電子數是次外殼層電子數的三倍，丁原子序大於丙，而且丁與丙為同一族，另外，戊和乙的原子序總和等於丙和丁原子序總和。下列敘述哪些正確？",
+    "options": [
+      "甲與乙形成的化合物不溶於水",
+      "在自然界中的丙有兩種同位素",
+      "甲與丙反應後所得的化合物，可形成分子間氫鍵",
+      "丁在常溫下為黃色固體",
+      "戊的氧化物溶於水呈酸性"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "【辨認元素】甲 H；乙 F（9）；丙的電子排列 2、6，為 O（8）；丁與 O 同族且原子序較大：S（16）；戊：$9 + Z = 8 + 16$，$Z = 15$，為 P。\n• (A) 錯誤：HF 易溶於水。\n• (B) 錯誤：自然界的氧有 $^{16}\\text{O}$、$^{17}\\text{O}$、$^{18}\\text{O}$ 三種同位素。\n• (C) 正確：$\\text{H}_2\\text{O}$ 可形成分子間氫鍵。\n• (D) 正確：硫常溫下為黃色固體。\n• (E) 正確：$\\text{P}_4\\text{O}_{10}$ 溶於水生成磷酸，呈酸性。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "114-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "某生配製濃度均為 1.0 M 的 $\\text{Pb(NO}_3)_2$、$\\text{H}_2\\text{SO}_4$、$\\text{BaCl}_2$ 與 $\\text{AgNO}_3$ 四種水溶液後，忘記標示，致使無法辨識各溶液。為能得知各溶液成分，他先將溶液標示為：甲、乙、丙、丁，再從中分別多次取出 1.0 mL，兩兩混合，所得實驗結果記錄如下：\nI. 甲與乙混合後會產生白色沉澱。甲與丙或丁混合，則無變化。\nII. 乙與丙、丁混合時，皆會產生白色沉澱。若對乙與丁反應所得的產物加熱，則所得沉澱物會溶解。\nIII. 丙與丁混合時會產生白色沉澱，加熱後不會消失。\n根據上述實驗結果，下列敘述哪些正確？",
+    "options": [
+      "甲為 $\\text{AgNO}_3$",
+      "乙為 $\\text{H}_2\\text{SO}_4$",
+      "丙為 $\\text{BaCl}_2$",
+      "丁為 $\\text{Pb(NO}_3)_2$",
+      "若於丁溶液中加入 KI 水溶液，則會產生沉澱"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "【關鍵：加熱會溶解的白色沉澱是 $\\text{PbCl}_2$】\n• II：乙 + 丁 → $\\text{PbCl}_2$，所以乙、丁為 $\\text{BaCl}_2$ 與 $\\text{Pb(NO}_3)_2$。\n• 乙與其他三者都產生沉澱：$\\text{BaCl}_2$ 與 $\\text{Pb(NO}_3)_2$（$\\text{PbCl}_2$）、$\\text{H}_2\\text{SO}_4$（$\\text{BaSO}_4$）、$\\text{AgNO}_3$（AgCl）都會沉澱，所以乙 = $\\text{BaCl}_2$，丁 = $\\text{Pb(NO}_3)_2$。\n• III：丙 + 丁產生加熱不溶的沉澱 → $\\text{PbSO}_4$，丙 = $\\text{H}_2\\text{SO}_4$。\n• 甲 = $\\text{AgNO}_3$：與 $\\text{Pb(NO}_3)_2$ 不反應；只與乙（$\\text{BaCl}_2$）生成 AgCl。\n• (E) 正確：$\\text{Pb}^{2+} + 2\\text{I}^- \\to \\text{PbI}_2$（黃色沉澱）。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "114-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "某反應是一種振盪反應，反應溶液初始為紅色，經過一段時間後轉變為藍色，然後再轉變成紅色，溶液顏色就在紅與藍之間振盪，推測的反應步驟如下：\n步驟甲：$\\text{BrO}_3^- + 2\\text{Br}^- + 3\\text{CH}_2(\\text{COOH})_2 + 3\\text{H}^+ \\to 3\\text{BrCH(COOH)}_2 + 3\\text{H}_2\\text{O}$\n步驟乙：$\\text{BrO}_3^- + 4\\text{Fe}(o\\text{-phen})_3^{2+}\\text{（紅色）} + 5\\text{H}^+ \\rightleftharpoons \\text{HOBr} + 4\\text{Fe}(o\\text{-phen})_3^{3+}\\text{（藍色）} + 2\\text{H}_2\\text{O}$\n步驟丙：$\\text{HOBr} + 2\\text{CH}_2(\\text{COOH})_2 + 2\\text{Fe}(o\\text{-phen})_3^{3+} + \\text{BrCH(COOH)}_2 + 2\\text{H}_2\\text{O} \\rightleftharpoons 2\\text{Fe}(o\\text{-phen})_3^{2+} + 3\\text{HOCH(COOH)}_2 + 2\\text{Br}^- + 4\\text{H}^+$\n步驟甲中的溴離子濃度降低後，反應則切換至步驟乙，溶液顏色從紅色轉變為藍色。然後步驟丙中錯合物 $\\text{Fe}(o\\text{-phen})_3^{3+}$ 與次溴酸及溴化丙二酸反應後，再生成溴離子，溶液顏色從藍色轉變成紅色。化學式中 o-phen 的結構如圖 4 所示，為一雙牙基的配位子。下列關於此振盪反應的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-12.png\" alt=\"圖4 o-phen（1,10-啡啉）結構，兩個 N 可同時配位\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "步驟甲中，溴酸根是還原劑",
+      "$\\text{Fe}(o\\text{-phen})_3^{3+}$ 氧化後呈現紅色",
+      "步驟乙中，溴酸根產生次溴酸是還原反應",
+      "$\\text{Fe}(o\\text{-phen})_3^{2+}$ 中鐵離子的配位數是 6",
+      "步驟丙中溶液顏色變化是因為溴離子所造成"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "• (A) 錯誤：$\\text{BrO}_3^-$（Br 為 +5）把 $\\text{Br}^-$（−1）氧化，本身被還原，是氧化劑。\n• (B) 錯誤：$\\text{Fe}(o\\text{-phen})_3^{3+}$ 是藍色；它被還原成 $\\text{Fe}(o\\text{-phen})_3^{2+}$ 才是紅色。\n• (C) 正確：Br 由 +5（$\\text{BrO}_3^-$）降到 +1（HOBr），是還原反應。\n• (D) 正確：3 個雙牙配位子，每個提供 2 個 N，配位數 $3\\times2 = 6$。\n• (E) 錯誤：$\\text{Br}^-$ 無色，顏色變化來自鐵錯離子由藍色（$\\text{Fe}^{3+}$）變回紅色（$\\text{Fe}^{2+}$）。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "114-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "膽固醇可由肝細胞合成或由食物中攝取，是人體中重要的成分。膽固醇的結構如圖 5 所示，下列相關敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-13.png\" alt=\"圖5 膽固醇結構：四環骨架，一個 –OH 與一個環內 C=C\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "含有羥基及烯烴",
+      "可使紅棕色的溴水褪色",
+      "可形成分子間氫鍵，易溶於水",
+      "可與斐林試劑作用會產生紅色沉澱",
+      "可與 $\\text{K}_2\\text{Cr}_2\\text{O}_7$ 的硫酸溶液反應生成酮類化合物"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "• (A) 正確：左下有 –OH，B 環內有一個 C=C。\n• (B) 正確：C=C 可與 $\\text{Br}_2$ 加成使溴水褪色。\n• (C) 錯誤：雖有 –OH 可形成氫鍵，但碳骨架龐大且非極性，難溶於水。\n• (D) 錯誤：斐林試劑用來檢驗醛基，膽固醇沒有醛基。\n• (E) 正確：–OH 接在連有兩個碳的碳上，為二級醇，氧化生成酮。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "114-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 14-15 題為題組】某生在恆溫下進行 $\\text{Na}_2\\text{S}_2\\text{O}_3$ 水溶液的分解反應速率實驗，反應式如式 2：\n$$\\text{S}_2\\text{O}_3^{2-} + 2\\text{H}^+ \\to \\text{SO}_2 + \\text{S} + \\text{H}_2\\text{O}\\qquad\\text{（式 2）}$$\n其實驗步驟如下：\n（1）在一個錐形瓶中置入 50 mL 的 0.20 M $\\text{Na}_2\\text{S}_2\\text{O}_3$ 溶液\n（2）在瓶子底部下方放置一張畫有黑色「X」標誌的白紙\n（3）將 10 mL 的 0.10 M HCl 溶液加入上述錐形瓶中，並立刻按下秒錶且以玻棒攪拌\n（4）由錐形瓶開口向下觀察，當無法看見白紙上「X」標誌時，停止計時並記錄時間（t）\n（5）改變步驟（1）的 $\\text{Na}_2\\text{S}_2\\text{O}_3$ 溶液體積，並另加入適量蒸餾水。再重複上述步驟進行實驗，結果如表 1 所示。\n表 1：$\\text{Na}_2\\text{S}_2\\text{O}_3$ 50.0 mL、水 0 mL，t = 33.8 秒（1/t = 0.0296）；30.0 mL、20.0 mL，t = 49.2 秒（0.0203）；10.0 mL、40.0 mL，t = 150 秒（0.0067）。\n14. 關於式 2 的反應與實驗設計，下列敘述哪些正確？",
+    "options": [
+      "$\\text{H}^+$ 是催化劑",
+      "是一個氧化還原反應",
+      "三個實驗中，加入 $\\text{H}^+$ 的濃度與體積為一定值",
+      "可以用 $\\text{Na}_2\\text{S}_2\\text{O}_3$ 濃度對 t 作圖，得知其為線性關係",
+      "若使用 20.0 mL $\\text{Na}_2\\text{S}_2\\text{O}_3$ 溶液再進行一次實驗，需使用 30.0 mL 蒸餾水"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "• (A) 錯誤：$\\text{H}^+$ 在反應式中被消耗，是反應物。\n• (B) 正確：$\\text{S}_2\\text{O}_3^{2-}$ 中 S 平均 +2，變成 $\\text{SO}_2$（+4）與 S（0），為自身氧化還原。\n• (C) 正確：每次都加入 10 mL 0.10 M HCl。\n• (D) 錯誤：濃度與 $\\tfrac1t$（速率）成正比，與 t 成反比，對 t 作圖不是直線。\n• (E) 正確：為了讓總體積維持 50 mL（硫代硫酸鈉 + 水），20.0 mL 需配 30.0 mL 水。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "114-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 14-15 題為題組】某生在恆溫下進行 $\\text{Na}_2\\text{S}_2\\text{O}_3$ 水溶液的分解反應速率實驗，反應式如式 2：\n$$\\text{S}_2\\text{O}_3^{2-} + 2\\text{H}^+ \\to \\text{SO}_2 + \\text{S} + \\text{H}_2\\text{O}\\qquad\\text{（式 2）}$$\n其實驗步驟如下：\n（1）在一個錐形瓶中置入 50 mL 的 0.20 M $\\text{Na}_2\\text{S}_2\\text{O}_3$ 溶液\n（2）在瓶子底部下方放置一張畫有黑色「X」標誌的白紙\n（3）將 10 mL 的 0.10 M HCl 溶液加入上述錐形瓶中，並立刻按下秒錶且以玻棒攪拌\n（4）由錐形瓶開口向下觀察，當無法看見白紙上「X」標誌時，停止計時並記錄時間（t）\n（5）改變步驟（1）的 $\\text{Na}_2\\text{S}_2\\text{O}_3$ 溶液體積，並另加入適量蒸餾水。再重複上述步驟進行實驗，結果如表 1 所示。\n表 1：$\\text{Na}_2\\text{S}_2\\text{O}_3$ 50.0 mL、水 0 mL，t = 33.8 秒（1/t = 0.0296）；30.0 mL、20.0 mL，t = 49.2 秒（0.0203）；10.0 mL、40.0 mL，t = 150 秒（0.0067）。\n15. 關於實驗結果與推論，下列敘述哪些正確？",
+    "options": [
+      "此反應對 $\\text{S}_2\\text{O}_3^{2-}$ 而言為一級反應",
+      "看不清「X」標誌時，代表產生了 0.5 mmol 的硫",
+      "看不清「X」標誌是由於產生的二氧化硫氣泡干擾",
+      "若將 HCl 溶液濃度改為 0.15 M 時，不會改變標誌消失的時間（t）",
+      "若固定反應總體積，並增加 $\\text{Na}_2\\text{S}_2\\text{O}_3$ 溶液體積與減少蒸餾水體積，則標誌消失時間（t）將變小"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "【用 1/t 代表初速率】$\\text{Na}_2\\text{S}_2\\text{O}_3$ 體積 50 : 30 : 10 = 5 : 3 : 1，1/t 為 0.0296 : 0.0203 : 0.0067 ≈ 4.4 : 3 : 1，大致與濃度成正比。\n• (A) 正確：速率與 $[\\text{S}_2\\text{O}_3^{2-}]$ 約成正比，為一級。\n• (B) 錯誤：看不見 X 只代表析出的硫達到某一固定量，無法由此得知為 0.5 mmol。\n• (C) 錯誤：是析出的硫使溶液混濁；$\\text{SO}_2$ 易溶於水。\n• (D) 錯誤：$[\\text{H}^+]$ 改變可能改變反應速率，t 會改變。\n• (E) 正確：$[\\text{S}_2\\text{O}_3^{2-}]$ 增加，速率變快，t 變小。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "114-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 16-17 題為題組】甲烷（$\\text{CH}_4$）是天然氣的主要成分，燃燒時可以產生 1200-1800 K 的高溫。圖 6 是 $\\text{CH}_4$ 與 $\\text{O}_2$ 的混合氣體燃燒時產生的火焰示意圖，其中 Z 軸標示了火焰的高度位置。以 X = 0、Z = 0 為起始點，完全燃燒時的火焰最高點為 Z = 1.0（cm），火焰高度按比例的相對值為 Z = 0.2、0.4……等，如圖 6 所示。\n科學家透過儀器分析，分別得到在 X = 0、Z = 0 至 1.0 位置的化學成分莫耳分率，結果如圖 7 所示。圖 7 中 $\\text{O}_2$ 的莫耳分率數值範圍為 0.72-0.92，而其他氣體的比例較少，莫耳分率數值範圍在 0.0-0.20 之間。\n穩定的火焰中，圖 7 表示甲烷燃燒過程中的各氣體莫耳分率變化，可以呈現其燃燒的結果。\n16. 關於此混合氣體燃燒實驗，下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-16-6.png\" alt=\"圖6 火焰與高度 Z 的示意圖\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-16-7.png\" alt=\"圖7 各氣體莫耳分率對高度 Z：O₂（左軸 0.72–0.92）由 0.915 降到約 0.77；CH₄ 由 0.075 降到 0（約 Z=0.3）；H₂O 升到約 0.155；CO 在 Z≈0.25 有極大值約 0.03 後下降；CO₂ 逐漸升到約 0.078\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "燃燒前混合氣體中 $\\text{CH}_4$ 與 $\\text{O}_2$ 的莫耳數比大於 0.2",
+      "燃燒前混合氣體中有 $\\text{H}_2\\text{O}$ 及 $\\text{CO}_2$ 雜質",
+      "燃燒過程共消耗掉約 0.15 莫耳的 $\\text{O}_2$",
+      "完全燃燒後 $\\text{CH}_4$ 轉變生成 $\\text{CO}_2$ 與 $\\text{H}_2\\text{O}$",
+      "完全燃燒後產生之 $\\text{H}_2\\text{O}$ 重量約為 $\\text{CO}_2$ 重量之 2 倍"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "【讀圖 7】Z = 0 時 $\\text{CH}_4 \\approx 0.075$、$\\text{O}_2 \\approx 0.915$，$\\text{H}_2\\text{O}$ 與 $\\text{CO}_2$ 已有少量；$\\text{CH}_4$ 約在 Z = 0.3 耗盡，$\\text{H}_2\\text{O}$ 隨之升到約 0.155 後持平；CO 先升後降（Z ≈ 0.25 最高），$\\text{CO}_2$ 持續上升，最後約 0.078。\n• (A) 錯誤：$\\dfrac{0.075}{0.915} \\approx 0.08 < 0.2$。\n• (B) 正確：Z = 0（尚未燃燒）時已測得少量 $\\text{H}_2\\text{O}$ 與 $\\text{CO}_2$。\n• (C) 錯誤：圖中是莫耳分率，沒有總莫耳數，無法算出消耗多少莫耳。\n• (D) 正確：最後 $\\text{CH}_4$ 與 CO 都趨近 0，只剩 $\\text{CO}_2$ 與 $\\text{H}_2\\text{O}$。\n• (E) 錯誤：莫耳數比 $\\text{H}_2\\text{O} : \\text{CO}_2 \\approx 2 : 1$，重量比 $\\dfrac{2\\times18}{44} \\approx 0.8$，不是 2 倍。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "114-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 16-17 題為題組】甲烷（$\\text{CH}_4$）是天然氣的主要成分，燃燒時可以產生 1200-1800 K 的高溫。圖 6 是 $\\text{CH}_4$ 與 $\\text{O}_2$ 的混合氣體燃燒時產生的火焰示意圖，其中 Z 軸標示了火焰的高度位置。以 X = 0、Z = 0 為起始點，完全燃燒時的火焰最高點為 Z = 1.0（cm），火焰高度按比例的相對值為 Z = 0.2、0.4……等，如圖 6 所示。\n科學家透過儀器分析，分別得到在 X = 0、Z = 0 至 1.0 位置的化學成分莫耳分率，結果如圖 7 所示。圖 7 中 $\\text{O}_2$ 的莫耳分率數值範圍為 0.72-0.92，而其他氣體的比例較少，莫耳分率數值範圍在 0.0-0.20 之間。\n穩定的火焰中，圖 7 表示甲烷燃燒過程中的各氣體莫耳分率變化，可以呈現其燃燒的結果。\n17. 下列敘述，哪些符合圖 7 的觀測結果？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-16-6.png\" alt=\"圖6 火焰與高度 Z 的示意圖\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-16-7.png\" alt=\"圖7 各氣體莫耳分率對高度 Z：O₂（左軸 0.72–0.92）由 0.915 降到約 0.77；CH₄ 由 0.075 降到 0（約 Z=0.3）；H₂O 升到約 0.155；CO 在 Z≈0.25 有極大值約 0.03 後下降；CO₂ 逐漸升到約 0.078\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{H}_2\\text{O}$ 的生成，在 Z = 0.1 cm 時的速率最快",
+      "在 Z = 0.1 cm 時，每生成 1.0 莫耳 $\\text{H}_2\\text{O}$ 伴隨 0.5 莫耳 $\\text{CO}_2$ 的生成",
+      "在 Z = 0.2 cm 時，$\\text{CH}_4$ 生成 CO 的速率比 CO 轉變為 $\\text{CO}_2$ 的速率快",
+      "在 Z = 0.2 cm 時，$\\text{CH}_4$ 生成 CO 的速率比生成 $\\text{H}_2\\text{O}$ 的速率快",
+      "在 Z ＞ 0.3 cm 時，主要反應為 CO 的燃燒"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【讀圖 7】Z = 0 時 $\\text{CH}_4 \\approx 0.075$、$\\text{O}_2 \\approx 0.915$，$\\text{H}_2\\text{O}$ 與 $\\text{CO}_2$ 已有少量；$\\text{CH}_4$ 約在 Z = 0.3 耗盡，$\\text{H}_2\\text{O}$ 隨之升到約 0.155 後持平；CO 先升後降（Z ≈ 0.25 最高），$\\text{CO}_2$ 持續上升，最後約 0.078。\n• (A) 錯誤：$\\text{H}_2\\text{O}$ 曲線最陡處約在 Z = 0.15～0.2，不是 0.1。\n• (B) 錯誤：Z = 0.1 時 $\\text{H}_2\\text{O}$ 已明顯增加，$\\text{CO}_2$ 幾乎沒增加，比例遠大於 2 : 1。\n• (C) 正確：Z = 0.2 時 CO 仍在上升，表示生成 CO 比 CO 再轉成 $\\text{CO}_2$ 快。\n• (D) 錯誤：Z = 0.2 時 $\\text{H}_2\\text{O}$ 曲線的斜率遠大於 CO 曲線的斜率。\n• (E) 正確：Z ＞ 0.3 時 $\\text{CH}_4$ 已耗盡，CO 下降、$\\text{CO}_2$ 上升，主要是 $2\\text{CO} + \\text{O}_2 \\to 2\\text{CO}_2$。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "114-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "酵素可以催化反應，其第一步是和反應物產生作用，並結合形成複合體。圖 8 結構中甲代表反應物，乙代表某酵素中和甲結合部位的示意圖，丙是兩者結合後的複合體。若催化反應是甲的水解反應，下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-18.png\" alt=\"圖8 甲（乙醯膽鹼）、乙（酵素結合部位，含 –NH₃⁺ 與兩個 –OH）、丙（兩者結合的複合體）\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲含有 5 對未鍵結電子對",
+      "乙是由胺基酸結合而成",
+      "丙中的分子間作用力包含氫鍵",
+      "醋酸是反應產物之一",
+      "反應後乙將脫去一分子水"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "甲為乙醯膽鹼 $\\text{CH}_3\\text{COOCH}_2\\text{CH}_2\\text{N}^+(\\text{CH}_3)_3$。\n• (A) 錯誤：只有兩個 O 各有 2 對孤對電子，共 4 對；$\\text{N}^+$ 形成 4 個鍵，沒有孤對電子。\n• (B) 正確：酵素是蛋白質，由胺基酸組成。\n• (C) 正確：丙中酵素的 N–H、O–H 與甲的 C=O、O 之間形成氫鍵。\n• (D) 正確：酯水解生成乙酸與膽鹼。\n• (E) 錯誤：水解反應消耗水，酵素在反應前後不變。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "114-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "圖 9 為由硼砂（$\\text{Na}_2\\text{B}_4\\text{O}_7\\cdot10\\text{H}_2\\text{O}$）製備硼元素（熔點：$2076^\\circ\\text{C}$）的方法：① 加 $\\text{H}_2\\text{SO}_4$ 得 $\\text{B(OH)}_3$；② 加熱得 $\\text{B}_2\\text{O}_3$；③ 以 Mg 還原得 B；④ 與 C、$\\text{Cl}_2$ 反應得 $\\text{BCl}_3$；⑤ 以 $\\text{H}_2$ 在 $1000^\\circ\\text{C}$ 還原得 B。下列關於圖 9 的敘述，哪些正確？",
+    "options": [
+      "步驟①的產物 $\\text{B(OH)}_3$，亦可寫成 $\\text{H}_3\\text{BO}_3$，此為鹼性物質，溶於水時會產生 $\\text{OH}^-$",
+      "步驟②的反應式為：$2\\text{B(OH)}_3 \\to \\text{B}_2\\text{O}_3 + 3\\text{H}_2\\text{O}$",
+      "步驟③的反應式為：$\\text{B}_2\\text{O}_3 + 3\\text{Mg} \\to 2\\text{B} + 3\\text{MgO}$",
+      "步驟④不屬於氧化還原反應",
+      "步驟⑤較易得到高純度的硼，是因為在高溫下進行，產物中只有硼是固體"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "• (A) 錯誤：硼酸是弱酸（路易斯酸），在水中接受 $\\text{OH}^-$ 而釋出 $\\text{H}^+$，溶液呈弱酸性。\n• (B) 正確：硼酸受熱脫水得 $\\text{B}_2\\text{O}_3$。\n• (C) 正確：Mg 還原 $\\text{B}_2\\text{O}_3$，原子數與電荷均平衡。\n• (D) 錯誤：$\\text{B}_2\\text{O}_3 + 3\\text{C} + 3\\text{Cl}_2 \\to 2\\text{BCl}_3 + 3\\text{CO}$，C 被氧化、$\\text{Cl}_2$ 被還原，是氧化還原反應。\n• (E) 正確：$2\\text{BCl}_3 + 3\\text{H}_2 \\to 2\\text{B} + 6\\text{HCl}$，HCl 為氣體，只有硼是固體，容易分離；步驟③的 MgO 則會與 B 混在一起。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "114-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 2,
+    "question": "【第 20-22 題為題組】某生量測三個鹼土族金屬的氫氧化合物之溶解度，方法如下：\n（1）取適量氫氧化合物置於錐形瓶中，加入蒸餾水後攪拌一天，然後靜置一天\n（2）由（1）的錐形瓶中取適當量的溶液，置於另一個錐形瓶中，以 0.0020 M HCl 的標準溶液滴定。實驗結果如表 2 所示：\n表 2：$\\text{Mg(OH)}_2$（式量 58.3）取 50.0 mL，用酸 8.12 mL；$\\text{Ca(OH)}_2$（74.1）取 1.00 mL，用酸 24.41 mL；$\\text{Sr(OH)}_2$（121.6）取 0.500 mL，用酸 34.87 mL。\n20. 關於此實驗的步驟，下列敘述哪些正確？（多選）（2 分）",
+    "options": [
+      "步驟（1）應將瓶口用軟木塞蓋緊",
+      "步驟（1）靜置的目的是讓懸浮的固體顆粒沉積",
+      "此實驗操作溶液溫度需要記錄",
+      "步驟（2）應使用適當大小的量筒，取用準確體積的溶液",
+      "步驟（2）若改用 0.020 M HCl 的標準溶液滴定，則可得到更精確的數據"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "• (A) 正確：避免空氣中的 $\\text{CO}_2$ 與鹼反應，也避免水分蒸發。\n• (B) 正確：讓未溶的固體沉下，取上層澄清的飽和溶液，避免固體也被滴定。\n• (C) 正確：溶解度隨溫度改變，必須記錄溫度。\n• (D) 錯誤：量筒不夠精確，取用準確體積應使用移液吸管。\n• (E) 錯誤：酸濃度提高 10 倍，滴定體積變成約 1/10（如 0.8 mL），讀數的相對誤差變大，反而較不精確。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "114-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 2,
+    "question": "【第 20-22 題為題組】某生量測三個鹼土族金屬的氫氧化合物之溶解度，方法如下：\n（1）取適量氫氧化合物置於錐形瓶中，加入蒸餾水後攪拌一天，然後靜置一天\n（2）由（1）的錐形瓶中取適當量的溶液，置於另一個錐形瓶中，以 0.0020 M HCl 的標準溶液滴定。實驗結果如表 2 所示：\n表 2：$\\text{Mg(OH)}_2$（式量 58.3）取 50.0 mL，用酸 8.12 mL；$\\text{Ca(OH)}_2$（74.1）取 1.00 mL，用酸 24.41 mL；$\\text{Sr(OH)}_2$（121.6）取 0.500 mL，用酸 34.87 mL。\n21. 關於表 2 的結果，下列敘述哪些正確？（多選）（2 分）",
+    "options": [
+      "氫氧化鎂的溶解度最小",
+      "溶解度較大者，其溶解速率較快",
+      "當飽和溶液生成後，固體粒子的溶解與沉澱達平衡狀態",
+      "根據此實驗的步驟與方法，亦可用來量測鹼金族金屬氫氧化物的溶解度",
+      "若欲測定 $\\text{Ba(OH)}_2$ 的溶解度，則應取用 50.0 mL 飽和溶液"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "【溶解度 $s = \\dfrac{0.0020 \\times V_\\text{酸}}{2 \\times V_\\text{取}}$】\n• $\\text{Mg(OH)}_2$：$\\dfrac{0.0020\\times8.12}{2\\times50.0} \\approx 1.6\\times10^{-4}$ M\n• $\\text{Ca(OH)}_2$：$\\dfrac{0.0020\\times24.41}{2\\times1.00} \\approx 2.4\\times10^{-2}$ M\n• $\\text{Sr(OH)}_2$：$\\dfrac{0.0020\\times34.87}{2\\times0.500} \\approx 7.0\\times10^{-2}$ M\n• (A) 正確：$\\text{Mg(OH)}_2$ 最小。\n• (B) 錯誤：溶解度是平衡性質，溶解速率是動力學性質，兩者沒有必然關係。\n• (C) 正確：飽和溶液為溶解平衡（動態平衡）。\n• (D) 正確：同樣是氫氧化物，可用相同的酸鹼滴定方法測定（取較少的體積或稀釋即可）。\n• (E) 錯誤：溶解度由 Mg 到 Sr 遞增，$\\text{Ba(OH)}_2$ 更易溶，應取更少量的飽和溶液，而非 50.0 mL。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "114-ast-chem-non-22",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 20-22 題為題組】某生量測三個鹼土族金屬的氫氧化合物之溶解度，方法如下：\n（1）取適量氫氧化合物置於錐形瓶中，加入蒸餾水後攪拌一天，然後靜置一天\n（2）由（1）的錐形瓶中取適當量的溶液，置於另一個錐形瓶中，以 0.0020 M HCl 的標準溶液滴定。實驗結果如表 2 所示：\n表 2：$\\text{Mg(OH)}_2$（式量 58.3）取 50.0 mL，用酸 8.12 mL；$\\text{Ca(OH)}_2$（74.1）取 1.00 mL，用酸 24.41 mL；$\\text{Sr(OH)}_2$（121.6）取 0.500 mL，用酸 34.87 mL。\n22. 根據此實驗結果，計算氫氧化鈣的溶解度（M）。（2 分）",
+    "points": 2,
+    "blanks": [
+      "0.0244"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.024",
+        "2.44×10^-2",
+        "0.02441",
+        "0.0244M"
+      ]
+    ],
+    "blankLabels": [
+      "溶解度（M）"
+    ],
+    "explanation": "【1 莫耳 $\\text{Ca(OH)}_2$ 產生 2 莫耳 $\\text{OH}^-$】\n$$\\text{Ca(OH)}_2\\text{(s)} \\rightleftharpoons \\text{Ca}^{2+} + 2\\text{OH}^-$$\n設溶解度為 $x$ M，中和時 $\\text{OH}^-$ 莫耳數 = $\\text{H}^+$ 莫耳數：\n$$x \\times 2 \\times 1.00\\text{ mL} = 0.0020 \\times 24.41\\text{ mL}$$\n$$x = 0.0244\\text{ M}$$\n\n答：0.0244 M"
+  },
+  {
+    "id": "114-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 2,
+    "question": "【第 23-25 題為題組】在混合溶液中，不同種類分子的分子間作用力差距，會影響溶液偏離理想性質的幅度。圖 10 是在 1 大氣壓下，環己烷-乙醇混合溶液所測得的沸點對乙醇莫耳分率數值（X）的曲線。\n23. 關於環己烷-乙醇混合溶液的敘述，哪些正確？（多選）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-23.png\" alt=\"圖10 環己烷-乙醇溶液沸點對乙醇莫耳分率：X=0 約 79.5 °C、X=1 約 78 °C，中間有最低沸點約 63.5 °C（X≈0.4–0.6）\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "X = 0.5 的環己烷-乙醇混合溶液沸點約為 $64^\\circ\\text{C}$",
+      "將 0.5 L 環己烷與 0.5 L 乙醇混合後，溶液總體積大於 1.0 L",
+      "環己烷與乙醇混合為放熱反應",
+      "環己烷分子間作用力大於乙醇分子間作用力",
+      "環己烷分子與乙醇分子之間主要以偶極-偶極力互相吸引"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "【沸點低於兩純物質 → 正偏差（分子間作用力變弱）】\n• (A) 正確：由圖 10 讀 X = 0.5 約 $64^\\circ\\text{C}$。\n• (B) 正確：混合後分子間吸引力比純液體弱，分子間距變大，體積膨脹。\n• (C) 錯誤：混合需破壞乙醇間氫鍵而吸熱。\n• (D) 正確：純環己烷（X = 0）的沸點約 $79.5^\\circ\\text{C}$，高於純乙醇（X = 1）約 $78^\\circ\\text{C}$，表示環己烷分子間的總吸引力（大分子的分散力）較大。\n• (E) 錯誤：環己烷為非極性，與乙醇間主要是分散力（偶極-誘導偶極力），不是偶極-偶極力。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "114-ast-chem-non-24",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 23-25 題為題組】在混合溶液中，不同種類分子的分子間作用力差距，會影響溶液偏離理想性質的幅度。圖 10 是在 1 大氣壓下，環己烷-乙醇混合溶液所測得的沸點對乙醇莫耳分率數值（X）的曲線。\n24. 下列三種液體甲、乙與丙在 $60^\\circ\\text{C}$ 時，蒸氣壓大小順序為何？用「＜」的符號寫出從小到大的順序。（2 分）\n甲：純乙醇\n乙：純環己烷\n丙：0.5 mol 環己烷 + 0.5 mol 乙醇",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-23.png\" alt=\"圖10 環己烷-乙醇溶液沸點對乙醇莫耳分率：X=0 約 79.5 °C、X=1 約 78 °C，中間有最低沸點約 63.5 °C（X≈0.4–0.6）\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "乙<甲<丙"
+    ],
+    "acceptedBlanks": [
+      [
+        "乙＜甲＜丙",
+        "乙 < 甲 < 丙"
+      ]
+    ],
+    "blankLabels": [
+      "從小到大"
+    ],
+    "explanation": "【同溫下，沸點越低，蒸氣壓越高】\n由圖 10：純環己烷沸點約 $79.5^\\circ\\text{C}$、純乙醇約 $78^\\circ\\text{C}$、X = 0.5 的混合液約 $64^\\circ\\text{C}$。\n沸點：乙 ＞ 甲 ＞ 丙，所以 $60^\\circ\\text{C}$ 時蒸氣壓：乙 ＜ 甲 ＜ 丙。\n\n答：乙 ＜ 甲 ＜ 丙"
+  },
+  {
+    "id": "114-ast-chem-non-25",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 23-25 題為題組】在混合溶液中，不同種類分子的分子間作用力差距，會影響溶液偏離理想性質的幅度。圖 10 是在 1 大氣壓下，環己烷-乙醇混合溶液所測得的沸點對乙醇莫耳分率數值（X）的曲線。\n25. X = 0.9 的環己烷-乙醇混合溶液，其沸點比純乙醇的沸點明顯降低，寫出其主要原因。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-23.png\" alt=\"圖10 環己烷-乙醇溶液沸點對乙醇莫耳分率：X=0 約 79.5 °C、X=1 約 78 °C，中間有最低沸點約 63.5 °C（X≈0.4–0.6）\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "環己烷分子介入乙醇分子之間，破壞（降低）乙醇分子間的氫鍵，使分子間作用力大幅降低，較易汽化，沸點下降。"
+    ],
+    "blankLabels": [
+      "主要原因"
+    ],
+    "explanation": "純乙醇分子之間以氫鍵相連。加入少量非極性的環己烷後，環己烷分子夾在乙醇分子之間，打斷了部分氫鍵，而環己烷與乙醇之間只有較弱的分散力，整體分子間作用力大幅降低，分子較易逸出，沸點明顯下降。\n\n答：環己烷破壞乙醇分子間的氫鍵，使分子間作用力大幅降低。"
+  },
+  {
+    "id": "114-ast-chem-non-26",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 26-28 題為題組】化合物甲為雌激素，化合物乙、丙、丁亦具有類似的作用，會干擾內分泌系統的正常運作，稱為環境荷爾蒙，結構如圖 11 所示。\n26. 比較化合物甲～丁的分子結構，推測其關鍵的結構是何種官能基團，寫出此官能基的中文名稱及畫出其結構。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-26.png\" alt=\"圖11 化合物甲（雌二醇）、乙、丙（雙酚 A）、丁的結構，皆有羥基接在苯環上\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "（苯）酚：羥基直接接在苯環上（$\\text{C}_6\\text{H}_5-\\text{OH}$）"
+    ],
+    "blankLabels": [
+      "官能基名稱與結構"
+    ],
+    "explanation": "四個化合物的共同點是都有羥基 $-\\text{OH}$ 直接接在苯環上，即酚基（苯酚結構）。雌激素甲（雌二醇）左側的 A 環正是酚環，乙、丙（雙酚 A）、丁也都含有對位的酚羥基，因此能模擬雌激素與受體結合。\n\n答：（苯）酚，結構為苯環上接一個 $-\\text{OH}$。"
+  },
+  {
+    "id": "114-ast-chem-non-27",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 26-28 題為題組】化合物甲為雌激素，化合物乙、丙、丁亦具有類似的作用，會干擾內分泌系統的正常運作，稱為環境荷爾蒙，結構如圖 11 所示。\n27. 式 3 為工業上合成化合物丙的方法，a-d 為反應式的平衡係數。寫出 a:b:c:d 的最小整數比。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-27.png\" alt=\"式3 a C₆H₅OH + b C₃H₆O → c（雙酚 A）+ d H₂O\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "2:1:1:1"
+    ],
+    "blankLabels": [
+      "a:b:c:d"
+    ],
+    "explanation": "【雙酚 A：$\\text{C}_{15}\\text{H}_{16}\\text{O}_2$】\n兩分子苯酚的對位 H 與一分子丙酮的 C=O 的 O 結合脫去一分子水，丙酮的中心碳接上兩個酚環：\n$$2\\text{C}_6\\text{H}_5\\text{OH} + \\text{C}_3\\text{H}_6\\text{O} \\to \\text{C}_{15}\\text{H}_{16}\\text{O}_2 + \\text{H}_2\\text{O}$$\n檢查：C $12 + 3 = 15$；H $12 + 6 = 16 + 2$；O $2 + 1 = 2 + 1$ ✓\n\n答：a : b : c : d = 2 : 1 : 1 : 1"
+  },
+  {
+    "id": "114-ast-chem-non-28",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 26-28 題為題組】化合物甲為雌激素，化合物乙、丙、丁亦具有類似的作用，會干擾內分泌系統的正常運作，稱為環境荷爾蒙，結構如圖 11 所示。\n28. 畫出式 3 反應中 $\\text{C}_3\\text{H}_6\\text{O}$ 的結構式（包含所有原子）。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-27.png\" alt=\"式3 a C₆H₅OH + b C₃H₆O → c（雙酚 A）+ d H₂O\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "丙酮：$\\text{H}_3\\text{C}-\\text{C}(=\\text{O})-\\text{CH}_3$（中間的 C 以雙鍵接 O，兩側各接一個 $\\text{CH}_3$）"
+    ],
+    "blankLabels": [
+      "C₃H₆O 的結構式"
+    ],
+    "explanation": "比較產物雙酚 A 的中心碳：接兩個苯環與兩個 $\\text{CH}_3$，原本的位置是 C=O，所以 $\\text{C}_3\\text{H}_6\\text{O}$ 是丙酮 $\\text{CH}_3\\text{COCH}_3$（不是丙醛，丙醛反應後中心碳會只有一個乙基與一個 H）。\n結構式：中間 C 以雙鍵接 O，左右各接一個 C，每個端碳各接 3 個 H。"
+  },
+  {
+    "id": "114-ast-chem-non-29",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 29-31 題為題組】果膠為一種水溶性的高分子聚合物，結構中含有大量的羥（$-\\text{OH}$）、羧（$-\\text{COOH}$）與酯（$-\\text{COOCH}_3$）官能基，如圖 12 所示。果膠亦為一種高分子電解質，其結構單元上含有能解離的官能基團。\n小芬取 0.2 克果膠，置入 15 mL 的濃度 0.1 M HCl 水溶液，混合均勻後維持緩慢攪拌溶液，同時將 0.1 M 的 NaOH 水溶液慢慢滴入，量測和記錄該溶液的導電度及 pH 值。實驗結果如圖 13 所示。X 軸代表所加入的 NaOH 體積，Y 軸左側為導電度（方形□數據），Y 軸右側為 pH 值（空心圓○數據）的變化。\n29. 寫出圖 13 中，區域 I 所發生的主要化學反應式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-29-12.png\" alt=\"圖12 果膠結構（X = OH 或 OCH₃）\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-29-13.png\" alt=\"圖13 導電度與 pH 對 NaOH 體積：區域 I（0–約 14 mL）導電度直線下降、pH 約 2–3；區域 II（約 14–18 mL）導電度低平、pH 由約 4 緩升到約 5–6；區域 III（18 mL 後）導電度上升、pH 躍升到約 11–12\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{HCl} + \\text{NaOH} \\to \\text{NaCl} + \\text{H}_2\\text{O}$（或 $\\text{H}^+ + \\text{OH}^- \\to \\text{H}_2\\text{O}$）"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "區域 I 中 pH 很低（約 2～3），導電度直線下降：加入的 $\\text{OH}^-$ 先中和溶液中的強酸 HCl，把導電度很高的 $\\text{H}^+$ 換成導電度較低的 $\\text{Na}^+$，所以導電度下降。\n$$\\text{H}^+ + \\text{OH}^- \\to \\text{H}_2\\text{O}$$"
+  },
+  {
+    "id": "114-ast-chem-non-30",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 29-31 題為題組】果膠為一種水溶性的高分子聚合物，結構中含有大量的羥（$-\\text{OH}$）、羧（$-\\text{COOH}$）與酯（$-\\text{COOCH}_3$）官能基，如圖 12 所示。果膠亦為一種高分子電解質，其結構單元上含有能解離的官能基團。\n小芬取 0.2 克果膠，置入 15 mL 的濃度 0.1 M HCl 水溶液，混合均勻後維持緩慢攪拌溶液，同時將 0.1 M 的 NaOH 水溶液慢慢滴入，量測和記錄該溶液的導電度及 pH 值。實驗結果如圖 13 所示。X 軸代表所加入的 NaOH 體積，Y 軸左側為導電度（方形□數據），Y 軸右側為 pH 值（空心圓○數據）的變化。\n30. 根據圖 13 中 pH 值變化，判斷寫出果膠的 $\\text{p}K_a$ 應約為多少？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-29-12.png\" alt=\"圖12 果膠結構（X = OH 或 OCH₃）\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-29-13.png\" alt=\"圖13 導電度與 pH 對 NaOH 體積：區域 I（0–約 14 mL）導電度直線下降、pH 約 2–3；區域 II（約 14–18 mL）導電度低平、pH 由約 4 緩升到約 5–6；區域 III（18 mL 後）導電度上升、pH 躍升到約 11–12\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "4～5 之間（約 4.5）"
+    ],
+    "blankLabels": [
+      "pKa"
+    ],
+    "explanation": "區域 II（約 14～18 mL）是 NaOH 中和果膠上的羧基 $-\\text{COOH}$，此區 pH 變化平緩，為緩衝區。區域 II 中點（約 16 mL，半中和點）$[\\text{COOH}] = [\\text{COO}^-]$，此時 $\\text{pH} = \\text{p}K_a$，由圖讀得約 4～5。\n\n答：約 4～5（如 4.5）"
+  },
+  {
+    "id": "114-ast-chem-non-31",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 29-31 題為題組】果膠為一種水溶性的高分子聚合物，結構中含有大量的羥（$-\\text{OH}$）、羧（$-\\text{COOH}$）與酯（$-\\text{COOCH}_3$）官能基，如圖 12 所示。果膠亦為一種高分子電解質，其結構單元上含有能解離的官能基團。\n小芬取 0.2 克果膠，置入 15 mL 的濃度 0.1 M HCl 水溶液，混合均勻後維持緩慢攪拌溶液，同時將 0.1 M 的 NaOH 水溶液慢慢滴入，量測和記錄該溶液的導電度及 pH 值。實驗結果如圖 13 所示。X 軸代表所加入的 NaOH 體積，Y 軸左側為導電度（方形□數據），Y 軸右側為 pH 值（空心圓○數據）的變化。\n31. 在區域 II 的範圍內，所消耗的 NaOH 體積約為 3.9 mL。若更換另一種果膠樣品，實驗操作不變的情況下，區域 II 所消耗的 NaOH 體積變為 4.1 mL，試用官能基與其數量說明新樣品與原樣品在結構上有何差異？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-29-12.png\" alt=\"圖12 果膠結構（X = OH 或 OCH₃）\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-chem-29-13.png\" alt=\"圖13 導電度與 pH 對 NaOH 體積：區域 I（0–約 14 mL）導電度直線下降、pH 約 2–3；區域 II（約 14–18 mL）導電度低平、pH 由約 4 緩升到約 5–6；區域 III（18 mL 後）導電度上升、pH 躍升到約 11–12\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "新樣品的羧基（$-\\text{COOH}$）數量較多（酯基 $-\\text{COOCH}_3$ 較少）"
+    ],
+    "blankLabels": [
+      "結構差異"
+    ],
+    "explanation": "區域 II 消耗的 NaOH 用來中和果膠上的羧基 $-\\text{COOH}$（酯基 $-\\text{COOCH}_3$ 不會被中和）。同樣 0.2 克樣品，消耗的 NaOH 由 3.9 mL 增加為 4.1 mL，表示新樣品中可解離的羧基數量較多（相對地 X = $\\text{OCH}_3$ 的酯基較少）。\n\n答：新樣品的羧基（$-\\text{COOH}$）數量變多。"
   }
 ]
