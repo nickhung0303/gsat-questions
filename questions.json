@@ -44331,5 +44331,612 @@
       "結構差異"
     ],
     "explanation": "區域 II 消耗的 NaOH 用來中和果膠上的羧基 $-\\text{COOH}$（酯基 $-\\text{COOCH}_3$ 不會被中和）。同樣 0.2 克樣品，消耗的 NaOH 由 3.9 mL 增加為 4.1 mL，表示新樣品中可解離的羧基數量較多（相對地 X = $\\text{OCH}_3$ 的酯基較少）。\n\n答：新樣品的羧基（$-\\text{COOH}$）數量變多。"
+  },
+  {
+    "id": "115-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "points": 4,
+    "question": "格雷姆擴散定律指出，在定溫定壓下，氣體的擴散速率與其分子量平方根（$\\sqrt{M}$）成反比。已知在定溫定壓時，氫氣的擴散速率是某氣體的 4 倍。試問某氣體為何？",
+    "options": [
+      "氦氣",
+      "氮氣",
+      "氧氣",
+      "氖氣",
+      "氯氣"
+    ],
+    "answerIndex": 2,
+    "explanation": "$$\\frac{r_{\\text{H}_2}}{r_x} = \\sqrt{\\frac{M_x}{M_{\\text{H}_2}}} = 4 \\implies M_x = 16 \\times 2 = 32$$\n分子量 32 的是氧氣 $\\text{O}_2$（氦 4、氮 28、氖 20、氯 71）。\n\n故選 (C)"
+  },
+  {
+    "id": "115-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "points": 4,
+    "question": "有甲、乙、丙三種 AgCl 的飽和溶液，甲為含有 1.434 克 AgCl 的 50 毫升水，乙為含有 1.434 克 AgCl 及 5.850 克 NaCl 的 100 毫升水，丙為含有 0.717 克 AgCl 的 100 毫升水。試問在 $25^\\circ\\text{C}$ 時，下列有關此三種溶液 $[\\text{Ag}^+]$ 的大小比較，哪一項正確？（AgCl 的 $K_{sp}$（$25^\\circ\\text{C}$）$= 1\\times10^{-10}$；Ag 原子量為 107.9）",
+    "options": [
+      "甲＞乙＞丙",
+      "甲＞丙＞乙",
+      "甲＝乙＝丙",
+      "甲＝丙＜乙",
+      "甲＝丙＞乙"
+    ],
+    "answerIndex": 4,
+    "explanation": "【飽和溶液的濃度與固體多寡無關】\n• AgCl 溶解度只有 $\\sqrt{1\\times10^{-10}} = 1\\times10^{-5}$ M，甲、丙中的 AgCl 大部分未溶，都是飽和溶液：$[\\text{Ag}^+] = 1\\times10^{-5}$ M。\n• 乙另含 NaCl $\\dfrac{5.850}{58.5} = 0.100$ mol，在 100 mL 中 $[\\text{Cl}^-] = 1.0$ M，共同離子效應使 $[\\text{Ag}^+] = \\dfrac{1\\times10^{-10}}{1.0} = 1\\times10^{-10}$ M。\n所以 甲 = 丙 ＞ 乙。\n\n故選 (E)"
+  },
+  {
+    "id": "115-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "points": 4,
+    "question": "溶液甲含有 0.1 莫耳的食鹽與 180 克的水，溶液乙含有 0.1 莫耳的葡萄糖與 180 克的水。在一大氣壓下，與純水的凝固點相較，溶液甲的凝固點下降 $\\Delta T$（甲），溶液乙的凝固點下降 $\\Delta T$（乙）。$\\Delta T$（甲）/$\\Delta T$（乙）＝ a。在室溫下，溶液甲的蒸氣壓為 P（甲），溶液乙的蒸氣壓為 P（乙）。P（甲）/P（乙）＝ b。假設溶液甲與溶液乙皆為理想溶液，下列有關 a 與 b 的敘述，何者正確？",
+    "options": [
+      "a ＞ b",
+      "a ＝ b",
+      "a ＜ b",
+      "a ＋ b ＞ 4",
+      "a ＝ 1 或 b ＝ 1"
+    ],
+    "answerIndex": 0,
+    "explanation": "• 凝固點下降 $\\Delta T = iK_fC_m$：NaCl 的 $i = 2$，葡萄糖 $i = 1$，重量莫耳濃度相同，所以 $a = 2$。\n• 蒸氣壓 $P = X_\\text{水}P^\\circ$，水 $\\dfrac{180}{18} = 10$ mol：\n  甲：$X_\\text{水} = \\dfrac{10}{10 + 0.2}$；乙：$X_\\text{水} = \\dfrac{10}{10 + 0.1}$\n  $b = \\dfrac{10.1}{10.2} \\approx 0.99$\n• 所以 $a \\text{＞} b$；$a + b \\approx 2.99 < 4$，且 $a$、$b$ 都不等於 1。\n\n故選 (A)"
+  },
+  {
+    "id": "115-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "points": 4,
+    "question": "有一未知濃度的醋酸溶液 20.0 毫升，今以 0.10 M 的 NaOH 標準溶液滴定，當加入 20.0 毫升的 NaOH 溶液時，可達滴定終點。下列有關其滴定過程與滴定終點的敘述，何者正確？（醋酸的 $K_a = 1.8\\times10^{-5}$，$\\sqrt{\\dfrac{500}{18}} = 5.27$，$\\dfrac{10}{5.27} \\approx 1.90$）\n（甲）在加入 5.0 毫升的 NaOH 溶液後，醋酸溶液的氫離子濃度約為 $5.4\\times10^{-5}$ M\n（乙）達滴定終點時，溶液的 pH 值應介於 8 和 9 之間\n（丙）已知溴瑞香草酚藍變色範圍約在 pH 6.0～8.0 之間，適用於判斷此滴定終點",
+    "options": [
+      "只有甲",
+      "只有乙",
+      "只有丙",
+      "甲與乙",
+      "甲與丙"
+    ],
+    "answerIndex": 3,
+    "explanation": "醋酸濃度 $= \\dfrac{0.10\\times20.0}{20.0} = 0.10$ M，共 2.0 mmol。\n• （甲）正確：加 0.5 mmol NaOH 後，剩 HA 1.5 mmol、生成 $\\text{A}^-$ 0.5 mmol，緩衝溶液 $[\\text{H}^+] = K_a\\dfrac{[\\text{HA}]}{[\\text{A}^-]} = 1.8\\times10^{-5}\\times3 = 5.4\\times10^{-5}$ M。\n• （乙）正確：終點時 $[\\text{CH}_3\\text{COO}^-] = \\dfrac{2.0}{40.0} = 0.050$ M，$K_b = \\dfrac{10^{-14}}{1.8\\times10^{-5}}$，\n  $[\\text{OH}^-] = \\sqrt{0.050\\times\\dfrac{10^{-14}}{1.8\\times10^{-5}}} = \\sqrt{\\dfrac{500}{18}}\\times10^{-6} \\approx 5.27\\times10^{-6}$ M，pOH ≈ 5.28，pH ≈ 8.72。\n• （丙）錯誤：終點 pH 約 8.7，超出溴瑞香草酚藍的變色範圍，應改用酚酞。\n\n故選 (D)"
+  },
+  {
+    "id": "115-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "points": 4,
+    "question": "下列甲～戊的電子點式中，有哪些是 $\\text{CH}_2\\text{NO}_2^-$ 陰離子的正確共振結構式？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-05.png\" alt=\"甲：C 有孤對電子，N 接一個 =O 與一個 –O；乙：同甲但雙鍵在另一個 O；丙：C=N，N 接兩個 –O；丁：C 有孤對電子，N 接兩個 =O；戊：C=N 且 N 再接一個 =O\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲、乙、丁",
+      "甲、乙、丙",
+      "乙、丙、戊",
+      "乙、丙、丁",
+      "丙、丁、戊"
+    ],
+    "answerIndex": 1,
+    "explanation": "【第二週期的 N 最多只能有 4 對電子（8 個電子）】\n價電子總數 $= 4 + 2\\times1 + 5 + 2\\times6 + 1 = 24$，即 12 對。\n• 甲、乙：C 帶一對孤對電子（形式電荷 −1），N 接一個雙鍵 O 與一個單鍵 O（N 為 +1、單鍵 O 為 −1），淨電荷 −1；兩者只差雙鍵在哪個 O 上，都是正確的共振式。\n• 丙：C=N 雙鍵，N 接兩個帶 3 對孤對電子的單鍵 O（N +1、兩個 O 各 −1），淨電荷 −1，符合八隅體，正確。\n• 丁：N 與兩個 O 都是雙鍵，再加上 C–N 單鍵，N 周圍有 5 對電子，超過八隅體，錯誤。\n• 戊：C=N 加上 N=O 及 N–O，N 周圍同樣有 5 對電子，錯誤。\n\n故選 (B)"
+  },
+  {
+    "id": "115-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 6-7 題為題組】2016 年諾貝爾化學獎頒給三位在分子機械研究有巨大貢獻的科學家。其中，荷蘭化學家費倫加曾發表一個分子層級的四輪車，其結構如圖 1 所示。\n6. 下列有關此分子結構的敘述，哪一項<u>錯誤</u>？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-06.png\" alt=\"圖1 分子四輪車：中央為兩個苯環夾著兩個參鍵，兩端各接一個咔唑骨架，骨架上以 C=C 雙鍵連接四個茀基「車輪」\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "含有兩個炔基",
+      "含有三級胺基",
+      "含有 10 個五員環",
+      "有 36 個碳原子具有 $sp^3$ 混成軌域",
+      "含有奇數個氫原子"
+    ],
+    "answerIndex": 4,
+    "explanation": "• (A) 正確：中央有兩個 $\\text{C}\\equiv\\text{C}$。\n• (B) 正確：兩個 N 各接三個碳（咔唑的 N 再接苯環），為三級胺。\n• (C) 正確：每一半有 2 個茀的五員環、2 個接甲基的五員碳環、1 個含 N 的五員環，共 5 個，兩半共 10 個。\n• (D) 正確：每一半的 $sp^3$ 碳有 2 個 $\\text{CH}_3$、2 個環上 CH、2 個環上 $\\text{CH}_2$、2 個 $\\text{C}_6\\text{H}_{13}$（12 個），共 18 個，兩半共 36 個。\n• (E) 錯誤：由 C、H、N 組成的穩定中性分子，氫原子數必為偶數（不飽和度須為整數）；且分子左右對稱，H 數為兩半之和，也是偶數。\n\n故選 (E)"
+  },
+  {
+    "id": "115-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "points": 4,
+    "question": "【第 6-7 題為題組】2016 年諾貝爾化學獎頒給三位在分子機械研究有巨大貢獻的科學家。其中，荷蘭化學家費倫加曾發表一個分子層級的四輪車，其結構如圖 1 所示。\n7. 此分子四輪車的運轉原理，涉及一連串的碳碳雙鍵順、反異構化反應。則下列哪個基團代表車輪？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-06.png\" alt=\"圖1 分子四輪車：中央為兩個苯環夾著兩個參鍵，兩端各接一個咔唑骨架，骨架上以 C=C 雙鍵連接四個茀基「車輪」\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-07.png\" alt=\"第 7 題選項 (A)～(E) 五種基團\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 1,
+    "explanation": "四輪車的四個「車輪」是兩端各兩個以 C=C 雙鍵接在骨架上的茀基（亞茀基，fluorenylidene）。照光使這個雙鍵進行順、反異構化，帶動茀基像輪子一樣單向旋轉。選項 (B) 正是以外接雙鍵相連的茀基。\n\n故選 (B)"
+  },
+  {
+    "id": "115-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "十氧化四磷（$\\text{P}_4\\text{O}_{10}$）可將硝酸轉變成硝酸酐，反應式如式 1（未平衡）所示：\n$$\\text{P}_4\\text{O}_{10} + \\text{HNO}_3 \\to \\text{H}_3\\text{PO}_4 + \\text{N}_2\\text{O}_5\\qquad\\text{（式 1）}$$\n下列相關敘述，哪些正確？",
+    "options": [
+      "該反應屬於氧化還原反應",
+      "硝酸根離子具有角錐形幾何結構",
+      "$\\text{N}_2\\text{O}_5$ 溶於水中，會降低水的 pH 值",
+      "1 莫耳 $\\text{P}_4\\text{O}_{10}$ 要完全反應，需要 4 莫耳 $\\text{HNO}_3$",
+      "$\\text{N}_2\\text{O}_5$ 與 $\\text{HNO}_3$ 中的氮，都具有相同的混成軌域"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "平衡：$\\text{P}_4\\text{O}_{10} + 12\\text{HNO}_3 \\to 4\\text{H}_3\\text{PO}_4 + 6\\text{N}_2\\text{O}_5$\n• (A) 錯誤：P 維持 +5、N 維持 +5，只是脫水反應，沒有氧化數變化。\n• (B) 錯誤：$\\text{NO}_3^-$ 為平面三角形。\n• (C) 正確：$\\text{N}_2\\text{O}_5 + \\text{H}_2\\text{O} \\to 2\\text{HNO}_3$，酸性增強。\n• (D) 錯誤：需要 12 莫耳 $\\text{HNO}_3$。\n• (E) 正確：兩者的 N 都接 3 個原子、無孤對電子，皆為 $sp^2$。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "115-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列關於氫原子光譜的相關敘述，哪些正確？",
+    "options": [
+      "電子由 n = 5 躍遷至 n = 1 時，是吸收能量",
+      "電子由 n = 5 躍遷至 n = 3 的能量比 n = 4 躍遷至 n = 2 的能量大",
+      "電子由 n = 5 躍遷至 n = 4 的譜線波長比 n = 3 躍遷至 n = 2 的譜線波長長",
+      "電子分別由 n = 5, 4, 3, 2 躍遷至 n = 1 時，依序產生四條譜線的能量比為 25:16:9:4",
+      "若氣態氫原子的電子由 n = 1 躍遷至 n = ∞ 時，此能量為氫原子的游離能"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "能量差 $\\Delta E \\propto \\dfrac{1}{n_\\text{低}^2} - \\dfrac{1}{n_\\text{高}^2}$。\n• (A) 錯誤：由高能階到低能階是放出能量。\n• (B) 錯誤：$5\\to3$：$\\tfrac19 - \\tfrac1{25} \\approx 0.071$；$4\\to2$：$\\tfrac14 - \\tfrac1{16} = 0.1875$，後者較大。\n• (C) 正確：$5\\to4$：$\\tfrac1{16} - \\tfrac1{25} = 0.0225$，小於 $3\\to2$ 的 $\\tfrac14 - \\tfrac19 \\approx 0.139$，能量小則波長長。\n• (D) 錯誤：能量比為 $(1 - \\tfrac1{25}) : (1 - \\tfrac1{16}) : (1 - \\tfrac19) : (1 - \\tfrac14) = \\tfrac{24}{25} : \\tfrac{15}{16} : \\tfrac89 : \\tfrac34$。\n• (E) 正確：把基態電子移到無窮遠所需的能量就是游離能。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "115-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列關於實驗室中常用的氣體收集法的敘述，哪些正確？",
+    "options": [
+      "雙氧水分解所產生的氣體，適合用向下排氣法收集",
+      "碳酸鈣與鹽酸反應所得的氣體，適合用向上排氣法收集",
+      "氯化銨與氫氧化鈣加熱反應所得的氣體，適合用排水集氣法收集",
+      "使用排水集氣法收集氣體時，可藉以估計所收集氣體的莫耳數",
+      "使用排水集氣法收集氣體時，當集氣瓶內、外水位等高時，收集所得的氣體其壓力恰為當時的大氣壓力"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "• (A) 錯誤：$\\text{O}_2$ 難溶於水，用排水集氣法；向下排氣法適用於比空氣輕的氣體。\n• (B) 正確：$\\text{CO}_2$ 比空氣重且可溶於水，用向上排氣法。\n• (C) 錯誤：$\\text{NH}_3$ 極易溶於水，應用向下排氣法。\n• (D) 正確：由收集的體積、溫度與壓力，可用 $PV = nRT$ 估計莫耳數。\n• (E) 錯誤：瓶內是氣體與水蒸氣的混合，總壓才等於大氣壓，所收集氣體的分壓 = 大氣壓 − 飽和水蒸氣壓。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "115-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在錐形瓶中放置 10.0 mL 的未知濃度 $\\text{Fe}^{2+}$ 與 2 M 硫酸的水溶液，若使用標定後，濃度為 0.016 M 的 $\\text{MnO}_4^-$ 水溶液來滴定，當加入 10.5 mL 滴定液時，達到滴定終點。其相關的化學反應如式 2（未平衡）：\n$$\\text{MnO}_4^-\\text{(aq)} + \\text{Fe}^{2+}\\text{(aq)} + \\text{H}^+\\text{(aq)} \\to \\text{Mn}^{2+}\\text{(aq)} + \\text{Fe}^{3+}\\text{(aq)} + \\text{H}_2\\text{O(l)}\\qquad\\text{（式 2）}$$\n下列有關這個實驗的敘述，哪些正確？",
+    "options": [
+      "式 2 的平衡反應中，$\\text{MnO}_4^-$ 與 $\\text{Fe}^{2+}$ 的係數比為 1 : 5",
+      "此 $\\text{Fe}^{2+}$ 的水溶液濃度為 0.084 M",
+      "到達滴定終點時，溶液會呈 $\\text{MnO}_4^-$ 的紫色而不褪色",
+      "若將硫酸濃度改為 1 M，則會影響此滴定實驗的結果",
+      "若使用濃度高一倍的 $\\text{MnO}_4^-$ 水溶液，可增加滴定的精確度"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "• (A) 正確：$\\text{MnO}_4^- + 5\\text{Fe}^{2+} + 8\\text{H}^+ \\to \\text{Mn}^{2+} + 5\\text{Fe}^{3+} + 4\\text{H}_2\\text{O}$。\n• (B) 正確：$[\\text{Fe}^{2+}] = \\dfrac{5\\times0.016\\times10.5}{10.0} = 0.084$ M。\n• (C) 正確：$\\text{MnO}_4^-$ 本身是指示劑，終點時稍微過量，溶液呈淡紫色不褪。\n• (D) 錯誤：1 M 硫酸中的 $\\text{H}^+$ 仍遠多於反應所需，不影響結果。\n• (E) 錯誤：濃度加倍，滴定體積減半，讀數相對誤差變大，精確度反而下降。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "115-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在 $25^\\circ\\text{C}$ 時，小華依據圖 2 裝置進行化學平衡移動的實驗。將 5.0 mL 的濃硝酸溶液倒入試管中，再放入銅片；待 2～3 秒後，再以注射筒收集紅棕色氣體，至注射筒刻度的一半，封口備用。有關上述的實驗，下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-12.png\" alt=\"圖2 試管中濃硝酸與銅片反應，以注射筒收集氣體\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "反應產生的紅棕色氣體為 $\\text{NO}_2$",
+      "反應進行後，溶液會呈現藍色",
+      "待 2～3 秒後，才開始收集氣體，是因為反應不易進行",
+      "若將注射筒的活塞向內推，使其體積變為原來的一半，則 $2\\text{NO}_2\\text{(g)} \\to \\text{N}_2\\text{O}_4\\text{(g)}$ 反應之平衡，會向四氧化二氮的方向移動",
+      "固定體積下，將收集紅棕色氣體升溫至 $50^\\circ\\text{C}$，可見到氣體顏色變深，故 $2\\text{NO}_2\\text{(g)} \\to \\text{N}_2\\text{O}_4\\text{(g)}$ 為吸熱反應"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "$\\text{Cu} + 4\\text{HNO}_3\\text{(濃)} \\to \\text{Cu(NO}_3)_2 + 2\\text{NO}_2 + 2\\text{H}_2\\text{O}$\n• (A) 正確：濃硝酸與銅反應產生紅棕色 $\\text{NO}_2$。\n• (B) 正確：生成 $\\text{Cu}^{2+}$，溶液呈藍（綠）色。\n• (C) 錯誤：此反應很快；等 2～3 秒是為了讓產生的氣體把試管內的空氣排出，收集較純的氣體。\n• (D) 正確：加壓使平衡往氣體分子數少的 $\\text{N}_2\\text{O}_4$ 方向移動。\n• (E) 錯誤：升溫顏色變深表示平衡往 $\\text{NO}_2$ 移動，所以 $2\\text{NO}_2 \\to \\text{N}_2\\text{O}_4$ 為放熱反應。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "115-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "聚乙烯是保鮮膜與塑膠袋的主要材質，其結構如圖 3 所示。下列關於聚乙烯的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-13.png\" alt=\"圖3 聚乙烯重複單元 –(CH₂–CH₂)ₙ–\" style=\"width:100%;max-width:120px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "聚乙烯的單體為 $\\text{CH}_3\\text{CH}_3$",
+      "聚乙烯是多元共聚物",
+      "聚乙烯是一種加成聚合物",
+      "聚乙烯加熱後會熔融，遇冷則固化，是一種熱塑性塑膠",
+      "高密度聚乙烯的平均分子量較大，低密度聚乙烯的平均分子量較小"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "• (A) 錯誤：單體是乙烯 $\\text{CH}_2=\\text{CH}_2$，不是乙烷。\n• (B) 錯誤：只由一種單體聚合，是均聚物。\n• (C) 正確：乙烯的雙鍵打開彼此相連，為加成聚合。\n• (D) 正確：鏈狀分子，受熱軟化、冷卻固化，可重複塑形。\n• (E) 錯誤：高、低密度聚乙烯的差別在支鏈多寡：支鏈少的分子排列緊密、密度較高；並不是由平均分子量決定。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "115-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "陳老師講解離子化合物時，在黑板上寫了下列的熱化學反應式 3：\n$$\\text{MO(s)} + \\text{CO}_2\\text{(g)} \\to \\text{MCO}_3\\text{(s)}\\qquad \\Delta H(298\\text{ K}) = -305\\text{ kJ}\\qquad\\text{（式 3）}$$\n並要同學們參考表 1 所列的莫耳生成熱，計算並推論金屬 M 的化學性質。\n表 1（kJ/mol）：MgO −601、$\\text{MgCO}_3$ −1112、CaO −635、$\\text{CaCO}_3$ −1207、SrO −592、$\\text{SrCO}_3$ −1218、BaO −548、$\\text{BaCO}_3$ −1219、PbO −219、$\\text{PbCO}_3$ −918、$\\text{CO}_2$(g) −394。\n下列關於 M 的敘述，哪些正確？",
+    "options": [
+      "元素 M 屬於鹼土族",
+      "M 的最高氧化態為 +2 價",
+      "M 的氯化物可溶於熱水中",
+      "在標準狀態下，M(s) 的莫耳生成熱為 0",
+      "每莫耳 M 與充分氧氣反應的反應熱為 −635 kJ"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "【$\\Delta H = \\Delta H_f(\\text{MCO}_3) - \\Delta H_f(\\text{MO}) - \\Delta H_f(\\text{CO}_2)$】\n• Mg：$-1112 + 601 + 394 = -117$\n• Ca：$-1207 + 635 + 394 = -178$\n• Sr：$-1218 + 592 + 394 = -232$\n• Ba：$-1219 + 548 + 394 = -277$\n• Pb：$-918 + 219 + 394 = -305$ ✓ → M 為鉛。\n• (A) 錯誤：Pb 屬 14 族（碳族）。\n• (B) 錯誤：Pb 有 +2 與 +4 價（如 $\\text{PbO}_2$）。\n• (C) 正確：$\\text{PbCl}_2$ 難溶於冷水，但可溶於熱水。\n• (D) 正確：元素在標準狀態下的生成熱定義為 0。\n• (E) 錯誤：Pb 燃燒生成 PbO 的反應熱為 −219 kJ/mol（−635 是 CaO）。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "115-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "金屬有機骨架（簡稱 MOF）化合物，內部孔洞的表面積與質量比極高；因此具有吸附大量各類分子的潛力，獲得 2025 年諾貝爾化學獎的肯定。在適當的條件下，鋅離子與對苯二甲酸在含水的有機溶劑中可以合成出孔洞材料如圖 4（B）的示意圖。四個鋅離子包覆著一個 $\\text{O}^{2-}$ 離子，形成核心 $[\\text{Zn}_4\\text{O}]$，外圍有六個羧酸根，分別與鋅離子配位鍵結形成連結點，如圖 4（A）所示（注意：因視角關係，圖 4（A）中有部分羧酸根沒有完全呈現）；而對苯二甲酸根的苯環則是作為有機骨架如圖 4（C），這樣的組合就形成立體網狀 MOF 化合物。鋅離子也可以與其他芳香族的二甲酸（圖 5 的甲～丁）合成出類似結構的四種 MOF。測試這些 MOF 對水分子的吸附力，發現以丁合成的 MOF 效果最好。下列相關敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-15.png\" alt=\"圖4 MOF 連結點、立方孔洞與苯環骨架；圖5 甲（萘二甲酸）、乙（聯三苯二甲酸）、丙（四氫芘二甲酸）、丁（兩個丙氧基的對苯二甲酸）\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 4（A）中，每一連結點中含有 8 個鋅離子",
+      "圖 4 中鋅離子鍵結所使用的是 $sp^2$ 混成軌域",
+      "合成圖 4 中的 MOF 材料的反應條件中，酸性條件比鹼性條件佳",
+      "圖 5 所示的四個有機分子所合成的 MOF 材料，其內部孔洞大小，依序為乙＞丙＞甲＞丁",
+      "由丁所合成的 MOF，對水的吸附力最好，是因其有機骨架上的基團會與水產生較多的氫鍵作用"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "• (A) 錯誤：每個連結點核心為 $[\\text{Zn}_4\\text{O}]$，含 4 個鋅離子。\n• (B) 錯誤：每個 Zn 與 4 個 O 配位成四面體，為 $sp^3$。\n• (C) 錯誤：羧酸須先失去 $\\text{H}^+$ 成為羧酸根才能與 $\\text{Zn}^{2+}$ 配位，鹼性條件較有利。\n• (D) 正確：孔洞大小取決於兩個羧基之間的骨架長度：乙（三個苯環相連）最長，丙（稠環較長）次之，甲（萘）再次，丁（單一苯環）最短。\n• (E) 正確：丁的骨架上有醚氧（丙氧基），可與水形成氫鍵，提高對水的吸附力。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "115-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列有關化合物沸點大小的比較與解釋，哪些正確？",
+    "options": [
+      "水高於硫化氫，是因為氫鍵作用力的差異",
+      "碘高於溴，因為碘的分子量大，其分散力較大",
+      "丙酮高於正丁烷，因為丙酮分子間具有氫鍵，正丁烷則無",
+      "正丁醇高於二乙基醚，因為正丁醇的分子量大，其分散力較大",
+      "四氯化碳高於甲烷，因為四氯化碳分子間具有偶極-偶極作用力，甲烷則無"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "• (A) 正確：水分子間有氫鍵，$\\text{H}_2\\text{S}$ 沒有。\n• (B) 正確：$\\text{I}_2$、$\\text{Br}_2$ 皆非極性，分子量大者分散力大。\n• (C) 錯誤：丙酮沒有 O–H，分子間沒有氫鍵；沸點較高是因為它是極性分子，有偶極-偶極力。\n• (D) 錯誤：兩者分子式都是 $\\text{C}_4\\text{H}_{10}\\text{O}$，分子量相同；正丁醇沸點高是因為有氫鍵。\n• (E) 錯誤：$\\text{CCl}_4$ 為正四面體，非極性；沸點高是因為分子量大、分散力大。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "115-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 17-18 題為題組】在空氣中，pH 值介於 7 到 8 的二價鐵離子水溶液，會逐漸氧化為三價鐵化合物，其反應如式 4：\n$$\\text{Fe}^{2+} + \\text{O}_2 + \\text{反應物甲} + \\text{反應物乙} \\to \\text{產物}\\qquad\\text{（式 4）}$$\n式 4 生成單一固體產物。此物質不溶於水，不利於生物體吸收，導致鐵失去生物可利用性。小明欲了解 pH 值對 $\\text{Fe}^{2+}$ 氧化反應的影響，使用不同 pH 值的緩衝溶液，製備 40 μM（即 $4\\times10^{-5}$ M）的 $\\text{Fe}^{2+}$ 水溶液，置於空氣中，再利用分光光度計測量 $\\text{Fe}^{2+}$ 濃度隨時間的變化，結果如圖 6 所示。\n17. 關於小明的實驗，以下敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-17.png\" alt=\"圖6 log([Fe²⁺]/μM) 對時間：四種 pH（7.23、7.45、7.55、7.76）都大致呈直線下降，pH 越高下降越快\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此反應在 pH 值為 7.45 時反應速率不隨時間而改變",
+      "鹼性環境有助於鐵離子氧化反應的進行",
+      "反應物甲可能是 $\\text{H}^+$",
+      "過濾收集此反應的產物，然後加熱，會生成三氧化二鐵",
+      "式 4 的最簡整數係數平衡完整反應式中，產物的係數為 4"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "• (A) 錯誤：$\\log[\\text{Fe}^{2+}]$ 對時間為直線，表示對 $\\text{Fe}^{2+}$ 為一級反應，速率隨 $[\\text{Fe}^{2+}]$ 減少而變慢。\n• (B) 正確：pH 越高，直線越陡，氧化越快。\n• (C) 錯誤：生成的固體是 $\\text{Fe(OH)}_3$，反應消耗 $\\text{OH}^-$（或水），$\\text{H}^+$ 若出現也是產物而非反應物。\n• (D) 正確：$2\\text{Fe(OH)}_3 \\xrightarrow{\\Delta} \\text{Fe}_2\\text{O}_3 + 3\\text{H}_2\\text{O}$。\n• (E) 正確：$4\\text{Fe}^{2+} + \\text{O}_2 + 8\\text{OH}^- + 2\\text{H}_2\\text{O} \\to 4\\text{Fe(OH)}_3$，單一產物係數為 4。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "115-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 17-18 題為題組】（續）18. 人體若缺乏鐵質，可服用鐵劑。市售的鐵劑中常添加維生素 C，以利人體吸收，維生素 C 的結構如圖 7 所示。下列有關維生素 C 結構與性質的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-18.png\" alt=\"圖7 維生素 C：五員內酯環，環上 C=C 接兩個 –OH，側鏈 –CH(OH)–CH₂OH\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "維生素 C 的分子式為 $\\text{C}_6\\text{H}_4\\text{O}_6$",
+      "維生素 C 具有一級醇與二級醇的結構",
+      "維生素 C 具有 –OH 基，溶於水呈鹼性",
+      "維生素 C 含有多個羥基，是一種水溶性維生素",
+      "維生素 C 可將三價鐵轉化為二價鐵，增加鐵的溶解度"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "• (A) 錯誤：分子式為 $\\text{C}_6\\text{H}_8\\text{O}_6$。\n• (B) 正確：側鏈末端 $-\\text{CH}_2\\text{OH}$ 為一級醇，$-\\text{CH(OH)}-$ 為二級醇。\n• (C) 錯誤：環上烯醇式 –OH 可解離出 $\\text{H}^+$，維生素 C（抗壞血酸）水溶液呈酸性。\n• (D) 正確：4 個羥基可與水形成氫鍵，為水溶性維生素。\n• (E) 正確：維生素 C 是還原劑，可把 $\\text{Fe}^{3+}$ 還原成較易溶解吸收的 $\\text{Fe}^{2+}$。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "115-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "華妍探究秒錶反應（又稱碘鐘反應），配製甲和乙兩種溶液。\n甲溶液：以 0.428 克碘酸鉀（式量為 214）加蒸餾水配成 100 毫升。\n乙溶液：0.004 M 亞硫酸氫鈉（$\\text{NaHSO}_3$）的酸性溶液（含澱粉指示劑與稀硫酸）10 毫升。\n在 $20^\\circ\\text{C}$ 下，華妍根據表 2 的成份混合，並記錄溶液由無色轉變為深藍色所需的時間：實驗一：甲 4.0、乙 10.0、水 6.0 mL，50 秒；實驗二：甲 8.0、乙 10.0、水 2.0 mL，12.5 秒；實驗三：甲 10.0、乙 10.0、水 0.0 mL，8 秒。\n已知混合溶液變成深藍色前，至少有下列三個反應進行，且式 5 的反應速率最慢。\n$$\\text{IO}_3^- + 3\\text{HSO}_3^- \\to \\text{I}^- + 3\\text{SO}_4^{2-} + 3\\text{H}^+\\qquad\\text{（式 5）}$$\n$$5\\text{I}^- + \\text{IO}_3^- + 6\\text{H}^+ \\to 3\\text{I}_2 + 3\\text{H}_2\\text{O}\\qquad\\text{（式 6）}$$\n$$\\text{I}_2 + \\text{HSO}_3^- + \\text{H}_2\\text{O} \\to 2\\text{I}^- + \\text{SO}_4^{2-} + 3\\text{H}^+\\qquad\\text{（式 7）}$$\n下列關於上述實驗的敘述，哪些正確？",
+    "options": [
+      "此反應對 $\\text{IO}_3^-$(aq) 是屬於二級反應",
+      "此實驗中的還原劑是 $\\text{HSO}_3^-$(aq)，限量試劑是 $\\text{IO}_3^-$(aq)",
+      "式 7 的反應快於式 6 的反應",
+      "改變實驗中溶液的 pH，不會影響其反應速率",
+      "混合甲溶液 1 mL 和乙溶液 15 mL 後，再加蒸餾水 4 mL，則此溶液會在 800 秒後變成深藍色"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "• (A) 正確：總體積都是 20 mL，甲由 4 mL 加倍為 8 mL（$[\\text{IO}_3^-]$ 加倍），時間由 50 秒變 12.5 秒，速率變 4 倍 → 二級；實驗三 $[\\text{IO}_3^-]$ 為 2.5 倍，速率 6.25 倍，時間 $50/6.25 = 8$ 秒，也吻合。\n• (B) 錯誤：$\\text{HSO}_3^-$ 是還原劑，但它才是被用完的限量試劑；用完之後生成的 $\\text{I}_2$ 不再被還原，才遇澱粉變藍。$\\text{IO}_3^-$（0.02 M 甲溶液）過量。\n• (C) 正確：只要還有 $\\text{HSO}_3^-$，式 6 生成的 $\\text{I}_2$ 立刻被式 7 消耗，溶液不變藍，表示式 7 比式 6 快。\n• (D) 錯誤：式 5、6 都涉及 $\\text{H}^+$，改變 pH 會影響反應速率。\n• (E) 錯誤：甲只有實驗一的 $\\tfrac14$，速率變為 $\\tfrac1{16}$；但乙改為 15 mL，要消耗的 $\\text{HSO}_3^-$ 也變成 1.5 倍，所需時間會比 800 秒更長，不會恰好 800 秒。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "115-ast-chem-non-20",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 20-23 題為題組】乳糖酶可將乳糖水解為半乳糖與葡萄糖，反應如圖 8 所示，其可以作用的 pH 範圍在 2.0～7.0 之間。一般常以化合物 ONPG 取代乳糖，作為乳糖酶活性的測定，如圖 9 所示。將 ONPG 加入乳糖酶以進行水解，水解產物甲呈現黃色，吸收約 420 nm 波長的光。\n林同學想對市售的乳糖酶錠，進行活性的測定。取溶於 pH 7.0 緩衝溶液中的乳糖酶 0.4 mL，加入 0.1 mL 的 5 mM ONPG 後，開始計時，一分鐘後加入 0.5 mL 的 1.0 M 碳酸鈉水溶液，並利用分光光度計測定水解產物甲的吸收度。在不同溫度下，重複兩次的實驗，所得結果平均值如表 3 所示（4 °C：0.40；25 °C：1.0；37 °C：1.7）。\n20. 畫出產物甲的結構式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-20.png\" alt=\"圖8 乳糖酶水解乳糖為半乳糖與葡萄糖；圖9 ONPG 水解為半乳糖與產物甲；表3 溫度與吸收度\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "鄰硝基苯酚：苯環上相鄰兩個位置分別接 $-\\text{OH}$ 與 $-\\text{NO}_2$"
+    ],
+    "blankLabels": [
+      "產物甲的結構"
+    ],
+    "explanation": "【糖苷鍵水解】\nONPG 是半乳糖以糖苷鍵（C–O–Ar）接在鄰硝基苯基上。乳糖酶將此鍵水解，糖的一端得到半乳糖，苯環一端得到鄰硝基苯酚（o-nitrophenol）：\n$$\\text{ONPG} + \\text{H}_2\\text{O} \\to \\text{半乳糖} + \\text{HO}-\\text{C}_6\\text{H}_4-\\text{NO}_2\\ (\\text{鄰位})$$\n答：苯環上鄰位接 –OH 與 –NO₂ 的鄰硝基苯酚。"
+  },
+  {
+    "id": "115-ast-chem-non-21",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 20-23 題為題組】乳糖酶可將乳糖水解為半乳糖與葡萄糖，反應如圖 8 所示，其可以作用的 pH 範圍在 2.0～7.0 之間。一般常以化合物 ONPG 取代乳糖，作為乳糖酶活性的測定，如圖 9 所示。將 ONPG 加入乳糖酶以進行水解，水解產物甲呈現黃色，吸收約 420 nm 波長的光。\n林同學想對市售的乳糖酶錠，進行活性的測定。取溶於 pH 7.0 緩衝溶液中的乳糖酶 0.4 mL，加入 0.1 mL 的 5 mM ONPG 後，開始計時，一分鐘後加入 0.5 mL 的 1.0 M 碳酸鈉水溶液，並利用分光光度計測定水解產物甲的吸收度。在不同溫度下，重複兩次的實驗，所得結果平均值如表 3 所示（4 °C：0.40；25 °C：1.0；37 °C：1.7）。\n21. 本實驗中，加入碳酸鈉水溶液後，可以使溶液的酸鹼性變化為何？其加入的目的為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-20.png\" alt=\"圖8 乳糖酶水解乳糖為半乳糖與葡萄糖；圖9 ONPG 水解為半乳糖與產物甲；表3 溫度與吸收度\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "使溶液呈鹼性；目的是使乳糖酶的反應停止（鹼性超出其作用 pH 2.0～7.0），或增加產物甲的溶解度（使其解離呈黃色）。"
+    ],
+    "blankLabels": [
+      "酸鹼性變化與目的"
+    ],
+    "explanation": "• 碳酸鈉水解產生 $\\text{OH}^-$，加入 1.0 M $\\text{Na}_2\\text{CO}_3$ 後溶液變成鹼性。\n• 乳糖酶只在 pH 2.0～7.0 有活性，變成鹼性後酵素失去作用，反應在「一分鐘」時被停止，才能比較各溫度下相同時間的生成量。\n• 鹼性下鄰硝基苯酚解離成酚氧離子，溶解度增加且呈黃色，便於以 420 nm 測吸收度。\n\n答：使溶液呈鹼性；讓乳糖酶反應停止（或增加產物甲的溶解度）。"
+  },
+  {
+    "id": "115-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 2,
+    "question": "【第 20-23 題為題組】乳糖酶可將乳糖水解為半乳糖與葡萄糖，反應如圖 8 所示，其可以作用的 pH 範圍在 2.0～7.0 之間。一般常以化合物 ONPG 取代乳糖，作為乳糖酶活性的測定，如圖 9 所示。將 ONPG 加入乳糖酶以進行水解，水解產物甲呈現黃色，吸收約 420 nm 波長的光。\n林同學想對市售的乳糖酶錠，進行活性的測定。取溶於 pH 7.0 緩衝溶液中的乳糖酶 0.4 mL，加入 0.1 mL 的 5 mM ONPG 後，開始計時，一分鐘後加入 0.5 mL 的 1.0 M 碳酸鈉水溶液，並利用分光光度計測定水解產物甲的吸收度。在不同溫度下，重複兩次的實驗，所得結果平均值如表 3 所示（4 °C：0.40；25 °C：1.0；37 °C：1.7）。\n22. 下列乳糖水解與乳糖酶的敘述，哪些正確？（多選）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-20.png\" alt=\"圖8 乳糖酶水解乳糖為半乳糖與葡萄糖；圖9 ONPG 水解為半乳糖與產物甲；表3 溫度與吸收度\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "由表 3 的數據可得知，乳糖水解為吸熱反應",
+      "加入乳糖酶可降低活化能，使反應容易進行",
+      "其他條件不變下，若加入乳糖酶的濃度加倍，則可增加半乳糖的產率",
+      "根據表 3 的數據，可以推估在溫度 $90^\\circ\\text{C}$ 測得的相對吸收度為 17.0",
+      "本實驗中，在所測定的範圍內，乳糖酶的活性與溫度呈正相關"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "• (A) 錯誤：表 3 是一分鐘內的生成量，反映反應「速率」，無法判斷反應熱。\n• (B) 正確：酵素是催化劑，降低活化能。\n• (C) 錯誤：催化劑只加快反應，不改變平衡產率。\n• (D) 錯誤：高溫會使酵素變性失去活性，不能用外插推估。\n• (E) 正確：在 4～37 °C 範圍內，溫度越高吸收度越大，活性越高。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "115-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "points": 2,
+    "question": "【第 20-23 題為題組】乳糖酶可將乳糖水解為半乳糖與葡萄糖，反應如圖 8 所示，其可以作用的 pH 範圍在 2.0～7.0 之間。一般常以化合物 ONPG 取代乳糖，作為乳糖酶活性的測定，如圖 9 所示。將 ONPG 加入乳糖酶以進行水解，水解產物甲呈現黃色，吸收約 420 nm 波長的光。\n林同學想對市售的乳糖酶錠，進行活性的測定。取溶於 pH 7.0 緩衝溶液中的乳糖酶 0.4 mL，加入 0.1 mL 的 5 mM ONPG 後，開始計時，一分鐘後加入 0.5 mL 的 1.0 M 碳酸鈉水溶液，並利用分光光度計測定水解產物甲的吸收度。在不同溫度下，重複兩次的實驗，所得結果平均值如表 3 所示（4 °C：0.40；25 °C：1.0；37 °C：1.7）。\n23. 林同學欲利用初始速率法，測定在 $37^\\circ\\text{C}$ 時，產物甲的生成速率常數。根據表 4 的六種（甲-己）實驗條件中，選出 2 個組別進行實驗。下列哪種組合的實驗結果比較，可以達成林同學的探究目的？（單選）（2 分）\n表 4（ONPG 5 mM 溶液、乳糖酶溶液、緩衝溶液體積 mL；加入碳酸鈉並測定的時間）：甲 0.1、0.1、0.3，1 分；乙 0.1、0.1、0.3，10 分；丙 0.2、0.1、0.3，1 分；丁 0.2、0.1、0.3，10 分；戊 0.2、0.1、0.2，1 分；己 0.2、0.1、0.2，10 分。",
+    "options": [
+      "甲丙",
+      "乙丁",
+      "甲戊",
+      "乙己",
+      "丙戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "【初始速率法的要求】\n• 只改變一個變因（ONPG 濃度），其他條件（總體積 → 酵素濃度）相同。\n• 測定時間要短（1 分鐘），才能代表「初始」速率。\n• 甲（ONPG 0.1 + 酶 0.1 + 緩衝 0.3 = 0.5 mL）與戊（0.2 + 0.1 + 0.2 = 0.5 mL）：總體積相同，酵素濃度相同，只有 ONPG 濃度加倍，且都在 1 分鐘測定。\n• 丙的總體積為 0.6 mL，與甲比較時酵素濃度也不同；乙、丁、己測定時間為 10 分鐘，不是初始速率。\n\n故選 (C)"
+  },
+  {
+    "id": "115-ast-chem-non-24",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 24-25 題為題組】直鏈炔烴可以與有機疊氮化合物，進行疊氮–炔烴環化加成反應，形成含氮五員環的有機化合物，反應如式 8 所示；此反應需要在高溫下進行，且產率低。2022 年諾貝爾化學獎的研究發現：若改以環辛炔與有機疊氮化合物反應，在室溫下獲得高產率的生成物，如式 9 所示。進一步研究發現，造成式 8 與式 9 差異的主要原因，是兩者反應活化能的不同。\n24. 畫出 4-辛炔的結構式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-24.png\" alt=\"式8 4-辛炔 + CH₃N₃ → 化合物甲，活化能 23.6 kcal/mol；式9 環辛炔 + CH₃N₃ → 化合物乙，活化能 11.5 kcal/mol\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{CH}_3\\text{CH}_2\\text{CH}_2-\\text{C}\\equiv\\text{C}-\\text{CH}_2\\text{CH}_2\\text{CH}_3$"
+    ],
+    "blankLabels": [
+      "4-辛炔"
+    ],
+    "explanation": "辛 = 8 個碳的直鏈，4-炔表示參鍵在第 4、5 號碳之間，兩側各接一個丙基：\n$$\\text{CH}_3\\text{CH}_2\\text{CH}_2-\\text{C}\\equiv\\text{C}-\\text{CH}_2\\text{CH}_2\\text{CH}_3$$\n這也與化合物甲中五員環兩側各有一個 $\\text{CH}_3\\text{CH}_2\\text{CH}_2-$ 相符。"
+  },
+  {
+    "id": "115-ast-chem-non-25",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 24-25 題為題組】直鏈炔烴可以與有機疊氮化合物，進行疊氮–炔烴環化加成反應，形成含氮五員環的有機化合物，反應如式 8 所示；此反應需要在高溫下進行，且產率低。2022 年諾貝爾化學獎的研究發現：若改以環辛炔與有機疊氮化合物反應，在室溫下獲得高產率的生成物，如式 9 所示。進一步研究發現，造成式 8 與式 9 差異的主要原因，是兩者反應活化能的不同。\n25. 假設式 8 反應的能量變化圖如圖 10 左方所示，試於圖 10 右方繪出式 9 反應的能量變化圖。（兩個圖形上能量間隔大小是相等的。）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-25.png\" alt=\"圖10 左：式 8 的能量變化圖（反應物到峰頂約 5 格）；右：只標出環辛炔+CH₃N₃（較高）與化合物乙（較低）的能量\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "由「環辛炔＋CH₃N₃」畫出一個波峰，再下降到「化合物乙」；波峰高出反應物約 2～3 格（活化能 11.5，約為式 8 的 23.6 的一半）。"
+    ],
+    "blankLabels": [
+      "能量變化圖"
+    ],
+    "explanation": "【活化能約為式 8 的一半】\n• 能量圖必須有一個過渡狀態的波峰，從反應物（環辛炔 + $\\text{CH}_3\\text{N}_3$）上升，再下降到產物（化合物乙）。\n• 式 8 的活化能 23.6 kcal/mol 在左圖約佔 5 格，式 9 的活化能 11.5 kcal/mol 約為一半，所以右圖的波峰應比反應物高約 2～3 格。\n• 環辛炔的環張力很大，起始能量較高，活化能較低，所以室溫就能快速反應。"
+  },
+  {
+    "id": "115-ast-chem-non-26",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 26-28 題為題組】圖 11 為某純物質的相圖。圖 12 則為一個用來研究此物質的相變所使用的裝置示意圖，其中具有可上下移動的活塞，另有固定的卡榫可限制阻擋活塞再向上移動。活塞上方承受的外界壓力為 $P_\\text{ext}$。\n26. 若圖 12 裝置的物質為圖 11 中的 x 點狀態，其氣體的壓力為 $P_x$，則 $P_x$ 與外壓 $P_\\text{ext}$ 的大小關係為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-26.png\" alt=\"圖11 相圖：x、y 在液-氣平衡線上（y 溫度較高），z→t 為低壓下由固體區水平加熱到氣體區；圖12 氣液共存、活塞頂在卡榫下；圖13 活塞下為固體、外壓 P\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "Px>Pext"
+    ],
+    "acceptedBlanks": [
+      [
+        "Px≥Pext",
+        "P_x>P_ext",
+        "Px＞Pext"
+      ]
+    ],
+    "blankLabels": [
+      "大小關係"
+    ],
+    "explanation": "圖 12 中活塞被氣體推到頂住卡榫，表示內部氣體的壓力足以把活塞往上推，卡榫提供了額外向下的力：\n$$P_x > P_\\text{ext}\\ (\\text{或 } P_x \\ge P_\\text{ext})$$\nx 點在液-氣平衡線上，氣體壓力即為該溫度的飽和蒸氣壓。"
+  },
+  {
+    "id": "115-ast-chem-non-27",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 26-28 題為題組】圖 11 為某純物質的相圖。圖 12 則為一個用來研究此物質的相變所使用的裝置示意圖，其中具有可上下移動的活塞，另有固定的卡榫可限制阻擋活塞再向上移動。活塞上方承受的外界壓力為 $P_\\text{ext}$。\n27. 承上題。若某物質在液-氣共存的兩點 x 與 y，在 x 點時的氣體莫耳數為 $n_x$，溫度升高至 y 點時，其氣體莫耳數為 $n_y$，則 $n_x$ 與 $n_y$ 的大小關係為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-26.png\" alt=\"圖11 相圖：x、y 在液-氣平衡線上（y 溫度較高），z→t 為低壓下由固體區水平加熱到氣體區；圖12 氣液共存、活塞頂在卡榫下；圖13 活塞下為固體、外壓 P\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "nx<ny"
+    ],
+    "acceptedBlanks": [
+      [
+        "n_x<n_y",
+        "nx＜ny",
+        "ny>nx"
+      ]
+    ],
+    "blankLabels": [
+      "大小關係"
+    ],
+    "explanation": "活塞被卡榫擋住，氣體體積固定。由 x 升溫到 y，飽和蒸氣壓明顯增加（部分液體蒸發）。\n$n = \\dfrac{PV}{RT}$：沿著液-氣平衡線，壓力隨溫度的增加遠比溫度（K）的增加比例大，所以 $n_y > n_x$。\n\n答：$n_x < n_y$"
+  },
+  {
+    "id": "115-ast-chem-28",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "points": 2,
+    "question": "【第 26-28 題為題組】圖 11 為某純物質的相圖。圖 12 則為一個用來研究此物質的相變所使用的裝置示意圖，其中具有可上下移動的活塞，另有固定的卡榫可限制阻擋活塞再向上移動。活塞上方承受的外界壓力為 $P_\\text{ext}$。\n28. 若使用圖 13 中移除卡榫的裝置，保持外壓固定，自圖 11 的 z 點升溫至 t 點。假設此物質在氣相遵守理想氣體行為，則此活塞內物質的總體積與溫度變化曲線圖，為下列何者？（單選）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-26.png\" alt=\"圖11 相圖：x、y 在液-氣平衡線上（y 溫度較高），z→t 為低壓下由固體區水平加熱到氣體區；圖12 氣液共存、活塞頂在卡榫下；圖13 活塞下為固體、外壓 P\" style=\"width:100%;max-width:600px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-28.png\" alt=\"第 28 題選項 (A)～(E) 體積對溫度曲線\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 4,
+    "explanation": "【z → t 為定壓下固體直接昇華成氣體】\n• 固體階段：體積很小且幾乎不隨溫度改變（水平）。\n• 到達固-氣平衡溫度時，在固定溫度下昇華，體積瞬間（垂直）大幅增加。\n• 全部變成氣體後，定壓下理想氣體 $V \\propto T$，體積隨溫度「直線」增加。\n圖 (E) 符合：水平 → 垂直 → 直線上升。(A)(B) 相變時溫度不固定，(C)(D) 氣體段為曲線。\n\n故選 (E)"
+  },
+  {
+    "id": "115-ast-chem-non-29",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 29-30 題為題組】稀土元素釔（Y）在高科技產品中是非常重要的成分，但是取得不易，科學家希望能從廢棄的螢光粉中回收釔元素。表 5 是測得某一批螢光粉中含量最多的兩種元素之重量百分比（釔 15.0%、鈣 13.9%、其他物質 71.1%）。科學家分別取 4.4 g 螢光粉，使用不同濃度的 HCl 水溶液，進行螢光粉的固液萃取實驗。在三種實驗條件下，萃取出鈣和釔的產率隨時間的變化如圖 14。\n29. 在實驗一、反應 1 小時的條件下，萃取出的釔元素的總重量為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-29.png\" alt=\"圖14 三組實驗鈣與釔的萃取產率對時間：實驗一釔由約 25%（0.5 小時）、60%（1 小時）升到約 92%、99%，鈣約 78–86%；實驗二兩者都約 75–93%；實驗三鈣約 76–93%，釔僅約 5%（0.5 小時）、7%（1 小時）、22%、30%\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "0.396"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.396g",
+        "0.40",
+        "0.4",
+        "0.396克"
+      ]
+    ],
+    "blankLabels": [
+      "釔的重量（g）"
+    ],
+    "explanation": "由圖 14 實驗一，1 小時的釔萃取產率約 60%：\n$$W_\\text{Y} = 4.4 \\times 15.0\\% \\times 60\\% = 0.396\\text{ g}$$\n\n答：0.396 g"
+  },
+  {
+    "id": "115-ast-chem-non-30",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【第 29-30 題為題組】稀土元素釔（Y）在高科技產品中是非常重要的成分，但是取得不易，科學家希望能從廢棄的螢光粉中回收釔元素。表 5 是測得某一批螢光粉中含量最多的兩種元素之重量百分比（釔 15.0%、鈣 13.9%、其他物質 71.1%）。科學家分別取 4.4 g 螢光粉，使用不同濃度的 HCl 水溶液，進行螢光粉的固液萃取實驗。在三種實驗條件下，萃取出鈣和釔的產率隨時間的變化如圖 14。\n30. 若要分離出鈣與釔，可以採取兩步驟萃取的方式：在第一個步驟選擇性的萃取出鈣，讓大部分釔留在固相，接著在第二步驟萃取出留在固相中的釔。依據圖 14 的資訊，第一步驟應選取哪一組實驗的萃取條件？最佳反應時間以及選取的原因為何？（選取實驗：實驗一／實驗二／實驗三；最佳反應時間：1.0／3.0／6.0 小時）（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-chem-29.png\" alt=\"圖14 三組實驗鈣與釔的萃取產率對時間：實驗一釔由約 25%（0.5 小時）、60%（1 小時）升到約 92%、99%，鈣約 78–86%；實驗二兩者都約 75–93%；實驗三鈣約 76–93%，釔僅約 5%（0.5 小時）、7%（1 小時）、22%、30%\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "selfGrade": true,
+    "blanks": [
+      "實驗三",
+      "1.0 小時",
+      "此時約 85% 的鈣已溶出，而釔只有約 5～7%，兩者差異最大，選擇性最好"
+    ],
+    "blankLabels": [
+      "選取實驗",
+      "最佳反應時間",
+      "選取的原因"
+    ],
+    "explanation": "【第一步要「多萃鈣、少萃釔」】\n• 實驗一、二：釔的產率很快就很高，無法把釔留在固相。\n• 實驗三：鈣約 76～93%，釔只有約 5～30%，最有選擇性。\n• 實驗三中，1 小時時鈣約 85%、釔約 7%，差距最大；3 小時雖然鈣略高（約 93%），但釔已升到約 22%；6 小時鈣下降、釔升到約 30%。\n答：選實驗三，反應 1.0 小時；此時約 85% 的鈣溶出，而釔只有約 5%，選擇性（差異）最大。"
   }
 ]
