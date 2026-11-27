@@ -40837,5 +40837,696 @@
       ]
     ],
     "explanation": "斜率：$\\dfrac{4.4 - 3.4}{0.15 - 0.10} = 20$，$K_f = 20$℃/m（以第三組驗算：$\\dfrac{6.4 - 4.9}{0.075} = 20$）。"
+  },
+  {
+    "id": "109m-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "水的離子積為 $K_w$，其 $\\text{p}K_w$ 與溫度（°C）的關係如圖 1 所示。下列相關敘述，哪一項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-01.png\" alt=\"圖1 pKw 對溫度：0°C 約 14.9，隨溫度升高而下降，60°C 約 13.0\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "溫度 35°C 時，水的 $\\text{p}K_w$ 會小於 14",
+      "水的解離是放熱反應",
+      "在定溫時，水的離子積（$K_w$）不是定值",
+      "提高溫度則水的離子積變小",
+      "提高溫度可增加水解離反應的活化能"
+    ],
+    "answerIndex": 0,
+    "explanation": "【水的自解離】\n由圖，$\\text{p}K_w$ 隨溫度升高而下降，35°C 約 13.7 < 14，(A) 正確。\n$\\text{p}K_w$ 變小即 $K_w$ 變大：升溫使解離增加，表示解離是吸熱反應，(B)(D) 錯。$K_w$ 是平衡常數，定溫下為定值，(C) 錯；活化能不隨溫度改變，(E) 錯。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 2-4 題為題組】元素週期表可以反映出元素的原子結構，及其物理與化學性質的變化規律。圖 2 為原子的第一游離能與原子序的關係。\n\n2. 元素甲最有可能屬於下列哪一選項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-02.png\" alt=\"圖2 第一游離能對原子序的長條圖，元素甲標在原子序約 36 的高峰\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "鹼金屬",
+      "鹼土金屬",
+      "硼族",
+      "鹵素",
+      "鈍氣"
+    ],
+    "answerIndex": 4,
+    "explanation": "【游離能的週期性】\n每一週期末尾的第一游離能最高（鈍氣），下一個元素（鹼金屬）驟降。元素甲位於原子序 36 的高峰，是氪（Kr），屬於鈍氣。\n\n故選 (E)"
+  },
+  {
+    "id": "109m-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 2-4 題為題組】元素週期表可以反映出元素的原子結構，及其物理與化學性質的變化規律。圖 2 為原子的第一游離能與原子序的關係。\n\n3. 西元 2005 年，科學家利用鈣-48 的原子核撞擊含有鉲-249 原子核的樣品後，偵測到原子序 118 的元素，其質量數為 294。此元素最有可能與下列哪一元素屬於同一族？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-02.png\" alt=\"圖2 第一游離能對原子序的長條圖，元素甲標在原子序約 36 的高峰\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "鋰",
+      "鎂",
+      "鍺",
+      "硫",
+      "氙"
+    ],
+    "answerIndex": 4,
+    "explanation": "【週期表位置】\n第七週期結束於 118 號（2 + 8 + 8 + 18 + 18 + 32 + 32 = 118），屬第 18 族，與氙同族。\n\n故選 (E)"
+  },
+  {
+    "id": "109m-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 2-4 題為題組】元素週期表可以反映出元素的原子結構，及其物理與化學性質的變化規律。圖 2 為原子的第一游離能與原子序的關係。\n\n4. 目前尚無法測得原子序 118 元素的游離能，試根據圖 2 的規律，推測此原子的第一游離能最有可能為下列何者（單位：kJ / mol）？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-02.png\" alt=\"圖2 第一游離能對原子序的長條圖，元素甲標在原子序約 36 的高峰\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "100",
+      "300",
+      "900",
+      "1500",
+      "2000"
+    ],
+    "answerIndex": 2,
+    "explanation": "【同族趨勢】\n鈍氣的第一游離能由上往下遞減：He 2372、Ne 2081、Ar 1521、Kr 1351、Xe 1170、Rn 1037 kJ/mol。118 號應略低於 Rn，約 900 kJ/mol；但仍遠高於同週期的金屬。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "羥氯奎寧曾被考慮應用於治療嚴重特殊傳染性肺炎（COVID-19）患者的藥物，結構如圖 3 所示。試問此結構中具有下列哪一種類化合物的官能基團？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-05.png\" alt=\"圖3 羥氯奎寧：含氯的喹啉環、二級胺 N−H、三級胺及末端 −CH2CH2OH\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "醇",
+      "酯",
+      "醚",
+      "醯胺",
+      "羧酸"
+    ],
+    "answerIndex": 0,
+    "explanation": "【官能基】\n側鏈末端的 $-\\text{CH}_2\\text{CH}_2\\text{OH}$ 是醇基。結構中還有胺基與含氮芳香環，但沒有 C=O，所以沒有酯、醯胺、羧酸，也沒有 C−O−C 醚鍵。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "1,3-丁二烯（$\\text{C}_4\\text{H}_6$）為合成橡膠的重要原料，此化合物亦可進行雙聚反應，其反應式為：$2\\text{C}_4\\text{H}_6 \\to \\text{C}_8\\text{H}_{12}$。某生測量其反應速率，得知此反應為二級反應。下列哪一項可能為此實驗的作圖？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-06.png\" alt=\"五張直線圖 (A)～(E)：橫軸與縱軸分別為 [C4H6]、[C4H6]²、Δ[C4H6]/Δt 等組合\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 1,
+    "explanation": "【二級反應的速率定律】\n$\\dfrac{\\Delta[\\text{C}_4\\text{H}_6]}{\\Delta t} = -k[\\text{C}_4\\text{H}_6]^2$：以 $\\dfrac{\\Delta[\\text{C}_4\\text{H}_6]}{\\Delta t}$ 對 $[\\text{C}_4\\text{H}_6]^2$ 作圖為通過原點、斜率為負的直線，即 (B)。濃度對時間不是直線（二級反應中 $\\dfrac{1}{[\\text{A}]}$ 對 t 才是直線）。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "三個芳香族化合物的反應結果如圖 4 所示，其中 $\\text{R}^1$、$\\text{R}^2$ 及 $\\text{R}^3$ 為原子或原子團。下列有關 $\\text{R}^1$、$\\text{R}^2$ 及 $\\text{R}^3$ 的組合，哪一選項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-07.png\" alt=\"圖4 R¹-苯與 Br2 室溫不反應；R²-苯與 3 Br2 室溫生成 2,4,6-三溴產物；R³-苯經 KMnO4 加熱後酸化得苯甲酸；以及選項表\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\text{R}^1$ = OH、$\\text{R}^2$ = $\\text{CH}_3$、$\\text{R}^3$ = H",
+      "$\\text{R}^1$ = $\\text{CH}_3$、$\\text{R}^2$ = H、$\\text{R}^3$ = OH",
+      "$\\text{R}^1$ = OH、$\\text{R}^2$ = H、$\\text{R}^3$ = $\\text{CH}_3$",
+      "$\\text{R}^1$ = H、$\\text{R}^2$ = OH、$\\text{R}^3$ = $\\text{CH}_3$",
+      "$\\text{R}^1$ = $\\text{CH}_3$、$\\text{R}^2$ = OH、$\\text{R}^3$ = H"
+    ],
+    "answerIndex": 3,
+    "explanation": "【取代基的效應】\n• $\\text{R}^2$：室溫下直接與溴水反應生成 2,4,6-三溴產物，是活性很高的酚，$\\text{R}^2$ = OH。\n• $\\text{R}^3$：被過錳酸鉀氧化成苯甲酸，表示苯環上有烷基側鏈，$\\text{R}^3$ = $\\text{CH}_3$。\n• $\\text{R}^1$：室溫與溴不反應（需催化劑），為苯，$\\text{R}^1$ = H。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "在雙氧水與過錳酸鉀溶液反應的實驗中，先將雙氧水與稀硫酸於試管中混合，再將過錳酸鉀溶液逐滴加入，並不斷搖晃試管，觀察其顏色變化。下列敘述哪一選項正確？",
+    "options": [
+      "雙氧水中所含的過氧化氫（$\\text{H}_2\\text{O}_2$），其 O 的氧化數為 −2",
+      "在上述實驗中，雙氧水會氧化產生氫氣",
+      "在酸性環境下，過錳酸鉀與雙氧水作用，會產生二氧化錳",
+      "此反應需加入指示劑，才能由指示劑的顏色變化，確認達到滴定終點",
+      "當過錳酸鉀溶液剛滴入試管時，溶液呈現紫紅色，但經過搖晃後，紫紅色會褪去"
+    ],
+    "answerIndex": 4,
+    "explanation": "【過錳酸鉀與雙氧水】\n$2\\text{MnO}_4^- + 5\\text{H}_2\\text{O}_2 + 6\\text{H}^+ \\to 2\\text{Mn}^{2+} + 5\\text{O}_2 + 8\\text{H}_2\\text{O}$\n• (A) O 為 −1。(B) 雙氧水被氧化產生氧氣。(C) 酸性下產生 $\\text{Mn}^{2+}$。(D) 過錳酸鉀本身就是指示劑。\n• (E) 正確：紫色的 $\\text{MnO}_4^-$ 被還原成近乎無色的 $\\text{Mn}^{2+}$。\n\n故選 (E)"
+  },
+  {
+    "id": "109m-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "某有機化合物甲經元素分析實驗，得知其碳、氫、氧的質量百分組成，依次為碳：70.57%、氫：5.92%、氧：23.51%。已知甲與含溴之二氯甲烷溶液或與多侖試液皆無反應。下列哪一選項最可能是化合物甲？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-09.png\" alt=\"五個結構 (A) 對甲氧基苯甲醛 (B) 苯甲酸甲酯 (C) 含共軛雙鍵的內酯 (D) 2-苯基丙酸 (E) 雙環醚\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndex": 1,
+    "explanation": "【實驗式與官能基】\nC : H : O = $\\dfrac{70.57}{12} : \\dfrac{5.92}{1} : \\dfrac{23.51}{16}$ = 5.88 : 5.92 : 1.47 = 4 : 4 : 1，實驗式 $\\text{C}_4\\text{H}_4\\text{O}$（如 $\\text{C}_8\\text{H}_8\\text{O}_2$）。\n• (A) 對甲氧基苯甲醛 $\\text{C}_8\\text{H}_8\\text{O}_2$，但有醛基，會起銀鏡反應。\n• (B) 苯甲酸甲酯 $\\text{C}_8\\text{H}_8\\text{O}_2$，無醛基、無 C=C，與兩者都不反應 ✓。\n• (C) 有非芳香 C=C，會與溴加成。\n• (D) $\\text{C}_9\\text{H}_{10}\\text{O}_2$、(E) $\\text{C}_6\\text{H}_{10}\\text{O}_2$，組成不符。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 10-11 題為題組】圖 5 所示為物質 X 的相圖，表示物質的物理狀態與其所處的溫度、壓力關係。\n\n10. 若將 X 置於 2.0 大氣壓、250 K 的條件下，試問 X 主要會以下列哪一種狀態存在？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-10.png\" alt=\"圖5 物質 X 的相圖：壓力（大氣壓）對溫度（°C），三相點約在 25°C、0.65 大氣壓\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "固態",
+      "液態",
+      "氣態",
+      "固態和液態",
+      "液態和氣態"
+    ],
+    "answerIndex": 0,
+    "explanation": "【讀相圖】\n250 K ≈ −23°C。在 2.0 大氣壓、−23°C 處，位於陡峭的固液平衡線左方、液氣線上方，屬固相區。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 10-11 題為題組】圖 5 所示為物質 X 的相圖，表示物質的物理狀態與其所處的溫度、壓力關係。\n\n11. 若在一大氣壓下，將 5 克的 X 由 −60 ℃ 升高至 100 ℃，則至少須提供多少的能量（焦耳）？（已知 X 在一大氣壓下的熔化熱為 200 J / g、固態 X 的比熱為 0.4 J / g • ℃，液態 X 的比熱為 0.8 J / g • ℃。假設 X 不因加熱而逸散。）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-10.png\" alt=\"圖5 物質 X 的相圖：壓力（大氣壓）對溫度（°C），三相點約在 25°C、0.65 大氣壓\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1160",
+      "1420",
+      "1520",
+      "1540",
+      "5800"
+    ],
+    "answerIndex": 1,
+    "explanation": "【加熱過程】\n由相圖，一大氣壓的水平線與固液平衡線交於約 50°C（熔點）；液氣平衡線在 100°C 時壓力仍不到 1 大氣壓，所以 100°C 時 X 為液態。\n• 固體 −60 → 50°C：$5\\times0.4\\times110 = 220$ J\n• 熔化：$5\\times200 = 1000$ J\n• 液體 50 → 100°C：$5\\times0.8\\times50 = 200$ J\n合計 1420 J。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "數學上，x 值和 y 值（皆為任意單位）之關係可如圖 6 所示（y 與 x 成反比的雙曲線）。若給予 x 與 y 不同的化學單位，則這種圖形在化學領域很常見。下列所敘述的圖形，哪一選項與圖 6 的變化趨勢<u>不符合</u>？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-12.png\" alt=\"圖6 y 隨 x 增加而遞減的雙曲線\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "定溫時，定量理想氣體之壓力與體積的關係圖形",
+      "定溫時，所進行之酸鹼滴定，其 $[\\text{H}^+]$ 與 $[\\text{OH}^-]$ 的關係圖形",
+      "定溫時，非揮發性、非電解質所形成的稀薄溶液，加入溶劑的莫耳分率與溶液蒸氣壓的關係圖形",
+      "定溫時，將硝酸銀溶液持續加入氯化鈉溶液之沉澱過程中，其 $[\\text{Ag}^+]$ 與 $[\\text{Cl}^-]$ 的關係圖形",
+      "定溫時，在含有氯化氫氣體的定體積密閉容器內，不斷通入氨氣以持續生成氯化銨固體的過程中，其氨氣分壓與氯化氫分壓的關係圖形"
+    ],
+    "answerIndex": 2,
+    "explanation": "【反比關係】\n(A) $PV$ = 定值；(B) $[\\text{H}^+][\\text{OH}^-] = K_w$；(D) $[\\text{Ag}^+][\\text{Cl}^-] = K_{sp}$；(E) $P_{\\text{NH}_3}P_{\\text{HCl}} = K_p$：都是兩者乘積為定值，呈雙曲線。\n(C) 拉午耳定律 $P = X_{\\text{溶劑}}P^\\circ$，蒸氣壓與溶劑莫耳分率成正比（直線），不符合。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 13-14 題為題組】某反應可以 $\\text{A} + 3\\text{B} \\to \\text{C} + 2\\text{D}$ 表示，以下四圖分別為 A 分子（實心球）與 B 分子（空心球）在同溫下混合於等體積容器之初始濃度，若每一圓球代表一莫耳分子，圖下方為該反應條件下的初始反應速率（r）：甲 r = 4.5 M/s、乙 r = 2.0 M/s、丙 r = 1.0 M/s、丁（未知）。\n\n13. 若此反應的反應速率定律為 $r = k[\\text{A}]^m[\\text{B}]^n$，則 $m + n$ 等於多少？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-13.png\" alt=\"甲：A 6、B 6；乙：A 4、B 6；丙：A 4、B 3；丁：A 8、B 6（實心 A、空心 B）\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answerIndex": 2,
+    "explanation": "【由初速率求級數】\n數球：甲 A 6、B 6；乙 A 4、B 6；丙 A 4、B 3。\n• 乙 → 丙：A 不變，B 減半，速率 2.0 → 1.0 減半，$n = 1$。\n• 乙 → 甲：B 不變，A 由 4 變 6（1.5 倍），速率 $\\dfrac{4.5}{2.0} = 2.25 = 1.5^2$，$m = 2$。\n$m + n = 3$。\n\n故選 (C)"
+  },
+  {
+    "id": "109m-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "【第 13-14 題為題組】某反應可以 $\\text{A} + 3\\text{B} \\to \\text{C} + 2\\text{D}$ 表示，以下四圖分別為 A 分子（實心球）與 B 分子（空心球）在同溫下混合於等體積容器之初始濃度，若每一圓球代表一莫耳分子，圖下方為該反應條件下的初始反應速率（r）：甲 r = 4.5 M/s、乙 r = 2.0 M/s、丙 r = 1.0 M/s、丁（未知）。\n\n14. 若 A 和 B 的初始濃度如圖丁，則在該條件下，反應的初始速率（M / s）為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-13.png\" alt=\"甲：A 6、B 6；乙：A 4、B 6；丙：A 4、B 3；丁：A 8、B 6（實心 A、空心 B）\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "4.0",
+      "8.0",
+      "9.0",
+      "12.0",
+      "16.0"
+    ],
+    "answerIndex": 1,
+    "explanation": "【代入速率定律】\n丁：A 8、B 6。與乙（A 4、B 6）比較：$r = 2.0\\times\\left(\\dfrac84\\right)^2 = 8.0$ M/s。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "小明閱讀一篇文章中記載某一原子的第一、第二、第三……等游離能如表 1 所示（IE₁ 578、IE₂ 1817、IE₃ 2745、IE₄ 11578、IE₅ 15030 kJ/mol），但該文章中僅推測此元素為 Be、B、Mg、Al 或 Zn 中的一種；由其他實驗得知，該元素的氫氧化物可溶於強酸和強鹼溶液中，且為製造航空器的重要材料。根據以上敘述，此元素應為下列哪一選項？",
+    "options": [
+      "Be",
+      "B",
+      "Mg",
+      "Al",
+      "Zn"
+    ],
+    "answerIndex": 3,
+    "explanation": "【游離能的突增】\n$\\text{IE}_4$ 驟增（2745 → 11578），表示有 3 個價電子：B 或 Al。氫氧化物為兩性、且是航空器的重要材料（鋁合金），為鋁。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "points": 3,
+    "question": "將 1.7 克亞硝酸鈉（$\\text{NaNO}_2$）及 1.5 克氯化銨（$\\text{NH}_4\\text{Cl}$）均勻混合後，置於試管中充分加熱，完全反應後收集產生的氣體，其未平衡反應式如下：$\\text{NaNO}_2 + \\text{NH}_4\\text{Cl} \\to \\text{N}_2 + \\text{H}_2\\text{O} + \\text{NaCl}$。下列敘述，哪一選項正確？",
+    "options": [
+      "氯化銨是一種易揮發的分子固體",
+      "產生的氣體有強烈氣味且易溶於水",
+      "反應完全後，試管中殘留亞硝酸鈉固體",
+      "產生的氣體在 25℃、1 大氣壓下，體積小於 0.8 公升",
+      "實驗過程中須保持試管密閉，避免氣體產物逸失於空氣中"
+    ],
+    "answerIndex": 3,
+    "explanation": "【限量試劑】\n$\\text{NaNO}_2 + \\text{NH}_4\\text{Cl} \\to \\text{N}_2 + 2\\text{H}_2\\text{O} + \\text{NaCl}$（1:1）。\n$\\text{NaNO}_2$ $\\dfrac{1.7}{69} \\approx 0.025$ mol、$\\text{NH}_4\\text{Cl}$ $\\dfrac{1.5}{53.5} \\approx 0.028$ mol，亞硝酸鈉為限量試劑，全部用完（(C) 錯）。\n$\\text{N}_2$ 0.025 mol × 24.5 L ≈ 0.60 L < 0.8 L，(D) 正確。\n• (A) 氯化銨是離子化合物（受熱分解昇華）。(B) 氮氣無味、難溶於水。(E) 加熱密閉試管會有爆炸危險，且要收集氣體。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在 25.0℃ 時，1.0 克水的蒸氣壓（mmHg）與容器體積（L）的關係如圖 7 所示。已知 25.0℃ 時，水的飽和蒸氣壓為 24.0 mmHg。下列敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-17.png\" alt=\"圖7 蒸氣壓對體積：甲、乙、丙在水平段（飽和），丙之後沿曲線下降至丁\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "在乙點時，水蒸氣的平均動能高於丙點",
+      "在乙點時，水蒸氣的分子數多於丙點",
+      "在丙點時，水蒸氣的體積約為 43.0 公升",
+      "在乙點時，水蒸氣的密度與丙點相同",
+      "在甲點時，容器中液態水的量多於乙點"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "【飽和蒸氣】\n• (A) 錯：同溫，平均動能相同。\n• (B) 錯：乙、丙壓力相同，丙體積較大，水蒸氣分子較多。\n• (C) 正確：丙點是 1.0 g 水恰好全部汽化：$V = \\dfrac{(1/18)\\times0.082\\times298}{24.0/760} \\approx 43.0$ L。\n• (D) 正確：同溫同壓，水蒸氣密度相同。\n• (E) 正確：甲點體積較小，汽化的水較少，剩下的液態水較多。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "109m-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "氫氣是一種可以由水取得的潔淨能源，若欲直接將水加熱產生氫氣，則需要 3500℃ 的高溫。不過，科學家發現若先將碘化氫（HI）在 425℃ 加熱分解，接著降溫至 90℃ 導入水與二氧化硫（$\\text{SO}_2$），產生硫酸，達成平衡後再升溫至 825℃，讓硫酸分解產生氧氣，重複此一循環，即可在低於 1000℃ 的條件下，分解水產生氫氣和氧氣，此一系列反應式如下：\n$2\\text{HI} \\xrightarrow{425^\\circ\\text{C}} \\text{I}_2 + \\text{H}_2$　式（1）\n$2\\text{H}_2\\text{O} + \\text{SO}_2 + \\text{I}_2 \\xrightarrow{90^\\circ\\text{C}} \\text{H}_2\\text{SO}_4 + 2\\text{HI}$　式（2）\n$\\text{H}_2\\text{SO}_4 \\xrightarrow{825^\\circ\\text{C}} \\text{SO}_2 + \\text{H}_2\\text{O} + \\frac12\\text{O}_2$　式（3）\n結合這些反應，則可以利用煉鐵廠的廢熱分解水產生氫氣，成為一項有經濟價值的反應。下列有關此廢熱分解水產生氫氣的敘述，哪些正確？",
+    "options": [
+      "$\\text{H}_2\\text{SO}_4$ 為反應產物之一",
+      "總反應之 $\\Delta H > 0$",
+      "總反應將熱能轉化為化學能",
+      "$\\text{I}_2$ 與 $\\text{O}_2$ 都是反應中間體",
+      "HI 與 $\\text{SO}_2$ 都是催化劑"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【硫碘循環】\n三式相加：$\\text{H}_2\\text{O} \\to \\text{H}_2 + \\dfrac12\\text{O}_2$。\n• (A) 錯：$\\text{H}_2\\text{SO}_4$ 在式（2）生成、式（3）消耗，是中間產物，不是最終產物。\n• (B)(C) 正確：水的分解是吸熱反應，把廢熱轉成氫氣的化學能。\n• (D) 錯：$\\text{O}_2$ 是最終產物，不是中間體。\n• (E) 正確：依題目的循環順序由式（1）開始，HI 在式（1）先被消耗、式（2）再生；$\\text{SO}_2$ 在式（2）消耗、式（3）再生，反應前後數量不變，扮演催化劑的角色（同理 $\\text{I}_2$ 則是先生成後消耗的中間體）。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "109m-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "將 1.0 M 硝酸與 1.0 M 醋酸各 20.0 毫升，分別以 1.0 M 的氫氧化鈉水溶液滴定。下列關於此滴定實驗的敘述，哪些正確？（酚紅指示劑的變色範圍為 pH 6.8～8.4）",
+    "options": [
+      "在未滴定前，醋酸的 pH 比硝酸低",
+      "在到達當量點前，硝酸溶液將形成緩衝溶液",
+      "到達當量點時，硝酸溶液的 pH 比醋酸溶液低",
+      "到達當量點時，硝酸溶液所需要的氫氧化鈉水溶液體積比醋酸多",
+      "兩種酸的滴定，均可使用酚紅指示劑判斷滴定終點"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【強酸與弱酸滴定】\n• (A) 錯：同濃度時強酸 $[\\text{H}^+]$ 較大，硝酸 pH 較低。\n• (B) 錯：強酸與其鹽不能形成緩衝溶液；醋酸才會。\n• (C) 正確：硝酸當量點為中性，醋酸當量點因醋酸根水解呈鹼性。\n• (D) 錯：兩者莫耳數相同，所需 NaOH 體積相同（20.0 mL）。\n• (E) 正確：當量點附近 pH 急遽變化，都會跨過酚紅的變色範圍。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "109m-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 20-21 題為題組】欲知草酸溶液的濃度，可以用酸性過錳酸鉀溶液滴定而得，其平衡反應式如下，其中各係數 a、b、c、x、y、z 為最簡整數比的值。\n$a\\,\\text{MnO}_4^- + b\\,\\text{H}_2\\text{C}_2\\text{O}_4 + c\\,\\text{H}^+ \\to x\\,\\text{CO}_2 + y\\,\\text{Mn}^{2+} + z\\,\\text{H}_2\\text{O}$　式（4）\n因草酸鈣的溶度積極小，所以，上述的氧化還原滴定也可用於測定樣品中之鈣的含量。已知樣品甲所含成分中，鈣離子僅以碳酸鈣的形式存在，王同學決定要以此方法來分析樣品中碳酸鈣含量。王同學秤取 10.0 克樣品，並緩慢將其加至過量鹽酸水溶液中。待完全溶解後，緩慢加入氨水使其呈鹼性，再加入過量草酸銨水溶液使其產生沉澱。過濾後，先用少許純水沖洗草酸鈣沉澱物，再將沉澱物慢慢加至過量硫酸水溶液中使其完全溶解。最後，將所得草酸水溶液，以 0.100 M 過錳酸鉀滴定，當達到滴定終點時，共用了 50.0 毫升的過錳酸鉀溶液。（鈣原子量：40；碳酸鈣式量：100；草酸銨式量：124）\n\n20. 下列有關過錳酸鉀與草酸及其化學反應式的敘述，哪些正確？",
+    "options": [
+      "$y^3 = z$",
+      "$a + b + c = 20$",
+      "過錳酸鉀為還原劑",
+      "草酸為雙質子弱酸",
+      "若此反應改在鹼性的條件下，則過錳酸鉀與草酸的反應仍可得到相同的產物"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "【平衡反應式】\n$2\\text{MnO}_4^- + 5\\text{H}_2\\text{C}_2\\text{O}_4 + 6\\text{H}^+ \\to 10\\text{CO}_2 + 2\\text{Mn}^{2+} + 8\\text{H}_2\\text{O}$\n• (A) 正確：$y = 2$、$z = 8 = 2^3$。\n• (B) 錯：$2 + 5 + 6 = 13$。\n• (C) 錯：過錳酸鉀是氧化劑。\n• (D) 正確。\n• (E) 錯：鹼性或中性下過錳酸根被還原為 $\\text{MnO}_2$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "109m-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "【第 20-21 題為題組】欲知草酸溶液的濃度，可以用酸性過錳酸鉀溶液滴定而得，其平衡反應式如下，其中各係數 a、b、c、x、y、z 為最簡整數比的值。\n$a\\,\\text{MnO}_4^- + b\\,\\text{H}_2\\text{C}_2\\text{O}_4 + c\\,\\text{H}^+ \\to x\\,\\text{CO}_2 + y\\,\\text{Mn}^{2+} + z\\,\\text{H}_2\\text{O}$　式（4）\n因草酸鈣的溶度積極小，所以，上述的氧化還原滴定也可用於測定樣品中之鈣的含量。已知樣品甲所含成分中，鈣離子僅以碳酸鈣的形式存在，王同學決定要以此方法來分析樣品中碳酸鈣含量。王同學秤取 10.0 克樣品，並緩慢將其加至過量鹽酸水溶液中。待完全溶解後，緩慢加入氨水使其呈鹼性，再加入過量草酸銨水溶液使其產生沉澱。過濾後，先用少許純水沖洗草酸鈣沉澱物，再將沉澱物慢慢加至過量硫酸水溶液中使其完全溶解。最後，將所得草酸水溶液，以 0.100 M 過錳酸鉀滴定，當達到滴定終點時，共用了 50.0 毫升的過錳酸鉀溶液。（鈣原子量：40；碳酸鈣式量：100；草酸銨式量：124）\n\n21. 下列有關過錳酸鉀溶液，檢測樣品中碳酸鈣含量實驗的敘述，哪些正確？",
+    "options": [
+      "加入鹽酸，可增加碳酸鈣在水中的溶解度",
+      "在水中，草酸鈣的溶解度和 pH 無關",
+      "到達滴定終點時，溶液呈無色",
+      "碳酸鈣在樣品中含量約在 10-15% 之間",
+      "實驗中需用過量草酸銨溶液，是為了要有多餘的草酸可被過錳酸鉀滴定"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "【間接滴定】\n• (A) 正確：$\\text{CaCO}_3 + 2\\text{HCl} \\to \\text{CaCl}_2 + \\text{H}_2\\text{O} + \\text{CO}_2$。\n• (B) 錯：草酸根是弱酸根，酸性時溶解度增加（實驗也正是用硫酸把它溶解）。\n• (C) 錯：終點時過錳酸鉀稍過量，溶液呈淡紫紅色。\n• (D) 正確：$\\text{MnO}_4^-$ $0.100\\times0.0500 = 5.00\\times10^{-3}$ mol，草酸（即 $\\text{Ca}^{2+}$）$= \\dfrac52\\times5.00\\times10^{-3} = 0.0125$ mol，$\\text{CaCO}_3$ 1.25 g，占 12.5%。\n• (E) 錯：過量草酸銨是為了使鈣離子完全沉澱；多餘的草酸根在過濾、沖洗時已除去，若殘留反而造成誤差。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "109m-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "聚苯胺是一種有機半導體。圖 8 是苯胺聚合成聚苯胺的反應式。下列敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-22.png\" alt=\"圖8 苯胺經反應試劑聚合成 −C6H4−NH−C6H4−NH− 重複的聚苯胺\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "硝基苯進行還原反應可得苯胺",
+      "苯胺聚合反應中，所加入的反應試劑是一種氧化劑",
+      "聚苯胺屬於一種共聚物",
+      "聚苯胺中的胺基以間位方式連結",
+      "聚苯胺分子間可能有氫鍵作用力"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "【聚苯胺】\n• (A) 正確：$\\text{C}_6\\text{H}_5\\text{NO}_2$ 還原得 $\\text{C}_6\\text{H}_5\\text{NH}_2$。\n• (B) 正確：苯胺失去氫而連結，是氧化聚合（常用過硫酸銨）。\n• (C) 錯：只由苯胺一種單體構成，是均聚物。\n• (D) 錯：由圖，N 接在苯環的對位。\n• (E) 正確：主鏈上有 N−H，可形成氫鍵。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "109m-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "某一電解槽的示意圖如圖 9 所示。左燒杯中裝有 100 毫升 0.50 M 的硝酸銀（$\\text{AgNO}_3$）溶液，右燒杯中裝有 100 毫升 0.25 M 的氯化銅（$\\text{CuCl}_2$）溶液；甲、乙、丙及丁為質量相同的石墨電極，X 與 Y 為直流電源的兩極。電解一段時間後，甲電極比其他三個電極重。下列敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-23.png\" alt=\"圖9 串聯電解：X 接甲、Y 接丁，乙與丙以導線相連；左杯為硝酸銀、右杯為氯化銅\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "直流電源的 X 為陰極，Y 為陽極",
+      "電解後，左燒杯溶液的 pH 小於 7",
+      "甲電極進行還原反應，析出 Ag",
+      "電解後，僅左燒杯產生氣體",
+      "丙電極進行還原反應，析出物的莫耳數為甲電極析出物的一半"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "【串聯電解】\n甲最重，析出的是 Ag（莫耳質量大），甲為陰極，接電源負極 X；電源的兩端應稱為正、負極，不稱陰陽極，(A) 錯（依大考中心答案）。\n• (C) 正確：$\\text{Ag}^+ + e^- \\to \\text{Ag}$。\n• (B) 正確：乙為陽極，$2\\text{H}_2\\text{O} \\to \\text{O}_2 + 4\\text{H}^+ + 4e^-$，溶液變酸。\n• 丙接乙，為右杯陰極：$\\text{Cu}^{2+} + 2e^- \\to \\text{Cu}$；丁為陽極：$2\\text{Cl}^- \\to \\text{Cl}_2 + 2e^-$。兩杯都有氣體，(D) 錯。\n• (E) 正確：通過的電量相同，每析出 1 mol Cu 需 2 mol 電子，Cu 的莫耳數為 Ag 的一半。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "109m-ast-chem-24",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "排尿是人體代謝的重要管道，因此水溶性不佳的物質，需要轉變成水溶性較佳的產物，以利透過尿液排出體外。例如：圖 10 中，化合物甲經酵素與體內某分子丙反應產生化合物乙。下列有關此反應的相關敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-24.png\" alt=\"圖10 4-胺基聯苯（甲）經酵素與丙分子作用，胺基接上葡萄糖醛酸環（含 COOH 與多個 OH），成為化合物乙\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "丙分子是一個葡萄糖的衍生物",
+      "化合物乙的飽和六員環結構具親水性",
+      "化合物甲的水溶性在 pH 8 中較在 pH 6 中高",
+      "化合物乙水溶液的 pH 值小於化合物甲的水溶液",
+      "化合物甲的水溶性低於化合物乙，因為其所含 $-\\text{NH}_2$ 為疏水性"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "【葡萄糖醛酸結合】\n• (A) 正確：接上的六員環是葡萄糖醛酸（葡萄糖 C6 氧化成羧基），由葡萄糖衍生。\n• (B) 正確：環上有多個 −OH 與 −COOH，可與水形成氫鍵。\n• (C) 錯：甲是芳香胺（弱鹼），在酸性（pH 6）時較易質子化成銨離子，水溶性較高。\n• (D) 正確：乙含羧基，水溶液偏酸；甲含胺基，偏鹼。\n• (E) 錯：$-\\text{NH}_2$ 是親水基；甲水溶性差是因為大面積的聯苯疏水骨架。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "109m-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】已知甲、乙、丙、丁、戊和己為週期表中前三週期的原子，其價電子數和原子半徑如表 2 所示：\n• 甲：價電子 6、半徑 73 pm\n• 乙：價電子 5、半徑 75 pm\n• 丙：價電子 4、半徑 77 pm\n• 丁：價電子 6、半徑 102 pm\n• 戊：價電子 2、半徑 160 pm\n• 己：價電子 1、半徑 186 pm\n\n1. 寫出丙元素最常見的兩種同素異形體的名稱，其中一種的原子鍵結軌域為 sp³。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "鑽石（金剛石，sp³）與石墨（或石墨烯、富勒烯 C₆₀）"
+    ],
+    "blankLabels": [
+      "同素異形體"
+    ],
+    "explanation": "由價電子數與半徑：甲 O、乙 N、丙 C、丁 S、戊 Mg、己 Na。碳的同素異形體中，鑽石的碳為 $sp^3$，石墨（石墨烯、$\\text{C}_{60}$）的碳為 $sp^2$。"
+  },
+  {
+    "id": "109m-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】已知甲、乙、丙、丁、戊和己為週期表中前三週期的原子，其價電子數和原子半徑如表 2 所示：\n• 甲：價電子 6、半徑 73 pm\n• 乙：價電子 5、半徑 75 pm\n• 丙：價電子 4、半徑 77 pm\n• 丁：價電子 6、半徑 102 pm\n• 戊：價電子 2、半徑 160 pm\n• 己：價電子 1、半徑 186 pm\n\n2. 戊在高溫下與元素態乙反應，可產生一固體物質庚，庚與水作用會生成一刺激性臭味的氣體與一白色固體辛，辛的溶解度低，可作為胃藥。寫出庚與辛的化學式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "Mg3N2",
+      "Mg(OH)2"
+    ],
+    "blankLabels": [
+      "庚",
+      "辛"
+    ],
+    "acceptedBlanks": [
+      [
+        "氮化鎂"
+      ],
+      [
+        "氫氧化鎂"
+      ]
+    ],
+    "explanation": "$3\\text{Mg} + \\text{N}_2 \\to \\text{Mg}_3\\text{N}_2$；$\\text{Mg}_3\\text{N}_2 + 6\\text{H}_2\\text{O} \\to 3\\text{Mg(OH)}_2 + 2\\text{NH}_3$（刺激性臭味）。氫氧化鎂難溶，可作制酸劑。"
+  },
+  {
+    "id": "109m-ast-chem-non-1-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】已知甲、乙、丙、丁、戊和己為週期表中前三週期的原子，其價電子數和原子半徑如表 2 所示：\n• 甲：價電子 6、半徑 73 pm\n• 乙：價電子 5、半徑 75 pm\n• 丙：價電子 4、半徑 77 pm\n• 丁：價電子 6、半徑 102 pm\n• 戊：價電子 2、半徑 160 pm\n• 己：價電子 1、半徑 186 pm\n\n3. 元素態甲與丁反應，可產生兩種氣體，其組成符合倍比定律，且兩者皆可造成酸雨。寫出此二氣體的化學式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "SO2",
+      "SO3"
+    ],
+    "blankLabels": [
+      "氣體一",
+      "氣體二"
+    ],
+    "acceptedBlanks": [
+      [
+        "SO3",
+        "二氧化硫"
+      ],
+      [
+        "SO2",
+        "三氧化硫"
+      ]
+    ],
+    "explanation": "硫與氧可生成 $\\text{SO}_2$ 與 $\\text{SO}_3$，與定量硫結合的氧質量比 2:3（倍比定律），溶於水分別成亞硫酸、硫酸，造成酸雨。"
+  },
+  {
+    "id": "109m-ast-chem-non-1-4",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】已知甲、乙、丙、丁、戊和己為週期表中前三週期的原子，其價電子數和原子半徑如表 2 所示：\n• 甲：價電子 6、半徑 73 pm\n• 乙：價電子 5、半徑 75 pm\n• 丙：價電子 4、半徑 77 pm\n• 丁：價電子 6、半徑 102 pm\n• 戊：價電子 2、半徑 160 pm\n• 己：價電子 1、半徑 186 pm\n\n4. 一白色固體經過分析後得知含有甲、丙及己三種原子，此白色固體可以索耳未法製備。寫出此白色固體的化學式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "Na2CO3"
+    ],
+    "blankLabels": [
+      "化學式"
+    ],
+    "acceptedBlanks": [
+      [
+        "碳酸鈉"
+      ]
+    ],
+    "explanation": "含 O、C、Na，以索耳未法（氨鹼法）製得的是碳酸鈉 $\\text{Na}_2\\text{CO}_3$（先得 $\\text{NaHCO}_3$，再加熱分解）。"
+  },
+  {
+    "id": "109m-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】尿酸的化學結構如圖 11 所示，其分子式為 $\\text{C}_5\\text{H}_4\\text{N}_4\\text{O}_3$，分子量 168。尿酸是人體內 DNA 代謝的產物，在人體中以其鈉鹽-尿酸鈉（$\\text{C}_5\\text{H}_3\\text{N}_4\\text{NaO}_3$）形式經尿液排出。由於在 37℃ 時，尿酸鈉每毫升尿液的溶解度為 0.067 毫克，當人體中產生過多的尿酸無法經尿液順利排出時，可能以結晶形式沉積在關節組織，引起痛風疾病。\n\n1. 試問 1 公升尿液最多可溶解幾莫耳的尿酸鈉？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-non-2.png\" alt=\"圖11 尿酸的結構：嘌呤環上有三個 C=O 與四個 N−H\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "3.5×10^-4"
+    ],
+    "blankLabels": [
+      "莫耳數"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.00035",
+        "3.5x10^-4",
+        "3.5E-4",
+        "0.00035mol",
+        "3.5×10^-4mol"
+      ]
+    ],
+    "explanation": "尿酸鈉式量 $168 - 1 + 23 = 190$。1 公升可溶 $0.067\\times1000 = 67$ mg：$\\dfrac{0.067\\text{ g}}{190} \\approx 3.5\\times10^{-4}$ mol。"
+  },
+  {
+    "id": "109m-ast-chem-non-2-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】尿酸的化學結構如圖 11 所示，其分子式為 $\\text{C}_5\\text{H}_4\\text{N}_4\\text{O}_3$，分子量 168。尿酸是人體內 DNA 代謝的產物，在人體中以其鈉鹽-尿酸鈉（$\\text{C}_5\\text{H}_3\\text{N}_4\\text{NaO}_3$）形式經尿液排出。由於在 37℃ 時，尿酸鈉每毫升尿液的溶解度為 0.067 毫克，當人體中產生過多的尿酸無法經尿液順利排出時，可能以結晶形式沉積在關節組織，引起痛風疾病。\n\n2. 尿酸結構含有幾對未鍵結電子對？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-non-2.png\" alt=\"圖11 尿酸的結構：嘌呤環上有三個 C=O 與四個 N−H\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "10"
+    ],
+    "blankLabels": [
+      "對數"
+    ],
+    "acceptedBlanks": [
+      [
+        "10對",
+        "十"
+      ]
+    ],
+    "explanation": "3 個羰基 O 各有 2 對（6 對）；4 個 N 各有 1 對（4 對），共 10 對。"
+  },
+  {
+    "id": "109m-ast-chem-non-2-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】尿酸的化學結構如圖 11 所示，其分子式為 $\\text{C}_5\\text{H}_4\\text{N}_4\\text{O}_3$，分子量 168。尿酸是人體內 DNA 代謝的產物，在人體中以其鈉鹽-尿酸鈉（$\\text{C}_5\\text{H}_3\\text{N}_4\\text{NaO}_3$）形式經尿液排出。由於在 37℃ 時，尿酸鈉每毫升尿液的溶解度為 0.067 毫克，當人體中產生過多的尿酸無法經尿液順利排出時，可能以結晶形式沉積在關節組織，引起痛風疾病。\n\n3. DNA 結構由三大部分組成，試問結構中的哪一部分最有可能是人體產生尿酸的來源？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-chem-non-2.png\" alt=\"圖11 尿酸的結構：嘌呤環上有三個 C=O 與四個 N−H\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "含氮鹼基"
+    ],
+    "blankLabels": [
+      "來源"
+    ],
+    "acceptedBlanks": [
+      [
+        "嘌呤",
+        "鹼基",
+        "嘌呤鹼基",
+        "含氮鹼基（嘌呤）"
+      ]
+    ],
+    "explanation": "DNA 由磷酸、去氧核糖、含氮鹼基組成。尿酸的雙環含氮結構與嘌呤（腺嘌呤、鳥嘌呤）相同，是嘌呤鹼基的代謝產物。"
+  },
+  {
+    "id": "109m-ast-chem-non-3-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】在 179℃ 下，異丙醇氣體可以分解為丙酮與氫氣，其反應式如下：\n$\\text{C}_3\\text{H}_7\\text{OH}(g) \\rightleftharpoons \\text{C}_3\\text{H}_6\\text{O}(g) + \\text{H}_2(g)$　式（5）\n表 3 常見共價鍵之鍵能（kJ/mol）：H−H 432、C−C 347、C=C 614、C−H 413、C−O 358、C=O 745、O−H 467、O−O 146、C≡C 839\n\n1. 利用表 3 之化學鍵能資料，列出詳細計算式，求出式（5）之反應熱（kJ / mol）。（2 分）",
+    "points": 2,
+    "blanks": [
+      "61"
+    ],
+    "blankLabels": [
+      "反應熱（kJ/mol）"
+    ],
+    "acceptedBlanks": [
+      [
+        "+61",
+        "61kJ/mol",
+        "+61kJ/mol"
+      ]
+    ],
+    "explanation": "異丙醇：7 C−H、2 C−C、1 C−O、1 O−H；丙酮 + 氫：6 C−H、2 C−C、1 C=O、1 H−H。\n$\\Delta H = (7\\times413 + 2\\times347 + 358 + 467) - (6\\times413 + 2\\times347 + 745 + 432) = 4410 - 4349 = +61$ kJ/mol"
+  },
+  {
+    "id": "109m-ast-chem-non-3-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】在 179℃ 下，異丙醇氣體可以分解為丙酮與氫氣，其反應式如下：\n$\\text{C}_3\\text{H}_7\\text{OH}(g) \\rightleftharpoons \\text{C}_3\\text{H}_6\\text{O}(g) + \\text{H}_2(g)$　式（5）\n表 3 常見共價鍵之鍵能（kJ/mol）：H−H 432、C−C 347、C=C 614、C−H 413、C−O 358、C=O 745、O−H 467、O−O 146、C≡C 839\n\n2. 若將 6.0 克異丙醇置入一個 10 公升密閉容器中，並加熱至 179℃，當系統達平衡後，測得氫氣分壓為 0.24 大氣壓。列出詳細計算式，求出式（5）之平衡常數（$K_p$）。（2 分）",
+    "points": 2,
+    "blanks": [
+      "0.44"
+    ],
+    "blankLabels": [
+      "Kp"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.443",
+        "0.45",
+        "0.4"
+      ]
+    ],
+    "explanation": "初始 $P = \\dfrac{(6.0/60)\\times0.082\\times452}{10} \\approx 0.37$ atm。\n平衡：$P_{\\text{H}_2} = P_{\\text{丙酮}} = 0.24$，$P_{\\text{異丙醇}} = 0.37 - 0.24 = 0.13$ atm。\n$K_p = \\dfrac{0.24\\times0.24}{0.13} \\approx 0.44$"
+  },
+  {
+    "id": "109m-ast-chem-non-3-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題三】在 179℃ 下，異丙醇氣體可以分解為丙酮與氫氣，其反應式如下：\n$\\text{C}_3\\text{H}_7\\text{OH}(g) \\rightleftharpoons \\text{C}_3\\text{H}_6\\text{O}(g) + \\text{H}_2(g)$　式（5）\n表 3 常見共價鍵之鍵能（kJ/mol）：H−H 432、C−C 347、C=C 614、C−H 413、C−O 358、C=O 745、O−H 467、O−O 146、C≡C 839\n\n3. 異丙醇與丙酮的分子量相近，但是兩者沸點相差約 26℃，試推測異丙醇與丙酮兩者中，何者的沸點較高？其原因為何？（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "異丙醇沸點較高，因為異丙醇有 O−H，分子間可形成氫鍵；丙酮分子間沒有氫鍵。"
+    ],
+    "blankLabels": [
+      "答案與原因"
+    ],
+    "explanation": "異丙醇沸點 82°C、丙酮 56°C，差約 26°C。"
   }
 ]
