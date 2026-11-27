@@ -32817,5 +32817,651 @@
       ]
     ],
     "explanation": "醋酸 4.0 mmol，加入 NaOH 2.0 mmol：剩 $\\text{CH}_3\\text{COOH}$ 2.0 mmol、生成 $\\text{CH}_3\\text{COO}^-$ 2.0 mmol，濃度相等（半當量點）。\n$[\\text{H}^+] = K_a = 2.0\\times10^{-5}$，$\\text{pH} = 5 - \\log2 \\approx 4.7$。"
+  },
+  {
+    "id": "102-ast-chem-01",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "points": 3,
+    "question": "電解水時，若在陰極產生 1 克的氫氣，則理論上在陽極可得多少升的氧氣（在標準狀況）？",
+    "options": [
+      "1.1",
+      "2.2",
+      "2.8",
+      "5.6",
+      "11.2"
+    ],
+    "answerIndex": 3,
+    "explanation": "【電解水】\n$2\\text{H}_2\\text{O} \\to 2\\text{H}_2 + \\text{O}_2$。$\\text{H}_2$ 1 g = 0.5 mol，$\\text{O}_2$ 0.25 mol，標準狀況下 $0.25\\times22.4 = 5.6$ L。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-chem-02",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關實驗安全的行為，何者正確？",
+    "options": [
+      "取高揮發性液體時，應於通風櫥中進行",
+      "加熱試管時，須使用試管夾，並固定在管底加熱",
+      "被強酸潑到時要立刻以鹼中和，並以消毒過的紗布擦乾",
+      "實驗時，應專注於實驗過程，若有藥品溢出，要待實驗結束後再清潔",
+      "剛加熱過的玻璃試管，可用自來水沖洗其外部，使其迅速冷卻，以利實驗進行"
+    ],
+    "answerIndex": 0,
+    "explanation": "【實驗安全】\n• (A) 正確。\n• (B) 應來回移動、均勻加熱，管口勿對人，不可固定在管底。\n• (C) 應先以大量清水沖洗，不可用鹼中和（中和放熱造成二度傷害）。\n• (D) 藥品溢出應立即清理。\n• (E) 熱玻璃驟冷容易破裂。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-chem-03",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "points": 3,
+    "question": "苯的路易斯結構有時以畫有圓圈的六角形來表示 $\\pi$ 電子共振的概念，圖 1 為化合物芘的結構，若以路易斯結構表示時，則芘的結構總共會出現幾個 $\\pi$ 鍵？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-chem-03.png\" alt=\"圖1 芘：四個苯環稠合的結構\" style=\"width:100%;max-width:120px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "12"
+    ],
+    "answerIndex": 2,
+    "explanation": "【共軛 π 鍵的數目】\n芘 $\\text{C}_{16}\\text{H}_{10}$ 的 16 個碳都是 sp² 碳，每個碳提供一個 p 電子，共 16 個 π 電子。路易斯（凱庫勒）結構中兩個電子形成一個 π 鍵，共 8 個 C=C 雙鍵。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-chem-04",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "points": 3,
+    "question": "已知不穩定的原子核可能經由一系列的衰變過程而逐漸變成穩定的原子核，碘-131 的原子核不穩定，因此具有放射性，其反應如下：\n$^{131}_{53}\\text{I} \\to {}^{131}_{54}\\text{Xe} + x\\beta + \\gamma$\n已知碘-131 衰變為氙的半生期約為 8 天，下列有關含放射性碘-131 化合物的敘述，哪個正確？",
+    "options": [
+      "用液態氮凍結後，其放射性即可消失",
+      "該核反應式中，$\\beta$ 的係數 $x$ 為 2",
+      "已知此反應的速率常數為 $8.7\\times10^{-2}\\text{ 天}^{-1}$，則碘-131 衰變為氙屬於一級反應",
+      "將其還原成固態的碘後，再將碘加熱昇華就可去除其放射性",
+      "用強酸溶解後，加入鉛離子產生難溶的碘化鉛，就可去除其放射性"
+    ],
+    "answerIndex": 2,
+    "explanation": "【放射性衰變】\n• (C) 正確：放射性衰變是一級反應，半生期固定：$k = \\dfrac{0.693}{8} \\approx 8.7\\times10^{-2}\\text{ 天}^{-1}$，與題給數值一致。\n• (B) 錯：原子序增加 1、質量數不變，只放出 1 個 β 粒子，$x = 1$。\n• (A)(D)(E) 錯：放射性來自原子核，物理或化學變化（凍結、昇華、沉澱）都不能改變核的衰變。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-chem-05",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關處理實驗室廢棄物的敘述，哪一項<u>錯誤</u>？",
+    "options": [
+      "拋棄式的乳膠手套，用後為避免污染，不可直接丟入一般垃圾桶",
+      "含碘之廢棄溶液，酸化後要以過氧化氫處理",
+      "用過的 KSCN 溶液貯存於無機鹽類廢液桶中",
+      "實驗剩餘的斐林試液，應倒入重金屬廢液桶中，再交予環保單位統一處理",
+      "剩餘的鹽酸溶液以氫氧化鈉中和，並以大量水稀釋後排入水槽"
+    ],
+    "answerIndex": 1,
+    "explanation": "【廢液處理】\n含碘廢液應加入還原劑（如硫代硫酸鈉）把 $\\text{I}_2$ 還原為無害的 $\\text{I}^-$。酸化後加過氧化氫反而會把 $\\text{I}^-$ 氧化成 $\\text{I}_2$，處理方向錯誤。其他敘述皆正確。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-chem-06",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "points": 3,
+    "question": "下列有關 $[\\text{Ag(NH}_3)_2]\\text{Cl}$ 的敘述，哪一項<u>錯誤</u>？",
+    "options": [
+      "此化合物的 $\\text{Ag}^+$ 配位數為 2",
+      "$\\text{NH}_3$ 與 $\\text{Ag}^+$ 以配位鍵結合",
+      "$[\\text{Ag(NH}_3)_2]\\text{Cl}$ 中 $\\text{Cl}^-$ 的價電子組態為 $3s^2 3p^6$",
+      "$[\\text{Ag(NH}_3)_2]\\text{Cl}$ 溶於水後會解離成 $[\\text{Ag(NH}_3)_2]^+$ 和 $\\text{Cl}^-$",
+      "$[\\text{Ag(NH}_3)_2]\\text{Cl}$ 中的 $\\text{Cl}^-$ 具有孤電子對，故也以配位鍵方式與 $\\text{Ag}^+$ 結合"
+    ],
+    "answerIndex": 4,
+    "explanation": "【錯離子與相對離子】\n$\\text{Cl}^-$ 在中括號外，是相對離子，以離子鍵與錯離子 $[\\text{Ag(NH}_3)_2]^+$ 結合，溶於水時解離出來，並未與 $\\text{Ag}^+$ 形成配位鍵。\n\n故選 (E)"
+  },
+  {
+    "id": "102-ast-chem-07",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "points": 3,
+    "question": "氮氣與氧氣反應時可生成 X、Y 與 Z 三種常見的氮氧化合物，其中各化合物的氮含量如圖 2 所示。根據此圖，試問下列敘述，哪一項正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-chem-07.png\" alt=\"圖2 氮含量（克）對化合物質量（克）的三條直線 X、Y、Z\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "化合物 X 在低溫時為無色，在高溫為紅棕色",
+      "化合物 Y 中各原子均符合八隅體結構",
+      "銅離子與濃硝酸反應時可生成化合物 Y",
+      "化合物 Y 與 $\\text{O}_3$ 反應可生成 Z",
+      "化合物 Z 中氮的氧化數是 +5"
+    ],
+    "answerIndex": 3,
+    "explanation": "【由斜率求組成】\n斜率 = 氮的質量分率：X 約 0.64（$\\text{N}_2\\text{O}$，$\\dfrac{28}{44}$）、Y 約 0.47（NO，$\\dfrac{14}{30}$）、Z 約 0.30（$\\text{NO}_2$，$\\dfrac{14}{46}$）。\n• (A) 錯：低溫無色、高溫紅棕色是 $\\text{N}_2\\text{O}_4 \\rightleftharpoons 2\\text{NO}_2$。\n• (B) 錯：NO 有奇數個電子，N 不符合八隅體。\n• (C) 錯：銅與濃硝酸生成 $\\text{NO}_2$（Z）；稀硝酸才生成 NO。\n• (D) 正確：$\\text{NO} + \\text{O}_3 \\to \\text{NO}_2 + \\text{O}_2$。\n• (E) 錯：$\\text{NO}_2$ 中氮為 +4。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-chem-08",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "points": 3,
+    "question": "在裝有觸媒的反應器中，灌入氣體 X 與 Y 各 1 莫耳。在反應進行中的某一時刻，測得混合氣體的總莫耳數為 1.8 莫耳，且 X、Y、Z 三種氣體的分壓比為 7:9:2。已知該反應的化學反應式為 $a\\text{X} + b\\text{Y} \\to c\\text{Z}$，則反應式中的係數 $a$、$b$、$c$ 是下列哪一組數字？",
+    "options": [
+      "1、2、3",
+      "3、2、1",
+      "7、9、2",
+      "3、1、8",
+      "3、1、2"
+    ],
+    "answerIndex": 4,
+    "explanation": "【分壓比 = 莫耳數比】\n總共 1.8 mol，依 7:9:2 分配：X 0.7、Y 0.9、Z 0.2 mol。\n消耗 X 0.3、Y 0.1，生成 Z 0.2，莫耳數變化比 3:1:2，即 $a:b:c = 3:1:2$。\n\n故選 (E)"
+  },
+  {
+    "id": "102-ast-chem-09",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "points": 3,
+    "question": "實驗桌上有三瓶試藥，只知其為氯化鈉、氯化銀及氯化亞汞，但因標籤脫落，難以辨識。陳同學從三瓶中各取出少許，分別置入甲、乙、丙三支試管，再以蒸餾水及濃氨水進行檢驗，所得結果如下：\n• 蒸餾水：試管甲溶解、試管乙不溶、試管丙不溶\n• 濃氨水：試管甲溶解、試管乙溶解、試管丙灰色沉澱\n根據其檢驗結果，試問甲、乙、丙三試管所含的物質依序各為何？",
+    "options": [
+      "氯化鈉、氯化亞汞、氯化銀",
+      "氯化銀、氯化鈉、氯化亞汞",
+      "氯化亞汞、氯化鈉、氯化銀",
+      "氯化鈉、氯化銀、氯化亞汞",
+      "氯化銀、氯化亞汞、氯化鈉"
+    ],
+    "answerIndex": 3,
+    "explanation": "【鹵化物的溶解性】\n• 甲溶於水：NaCl。\n• 乙不溶於水但溶於濃氨水：AgCl（形成 $[\\text{Ag(NH}_3)_2]^+$）。\n• 丙與氨水生成灰色沉澱：$\\text{Hg}_2\\text{Cl}_2 + 2\\text{NH}_3 \\to \\text{Hg} + \\text{HgNH}_2\\text{Cl} + \\text{NH}_4\\text{Cl}$（黑色汞與白色沉澱混成灰色）。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-chem-10",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "points": 3,
+    "question": "以 0.10 M 的 NaOH 溶液滴定某單質子弱酸的滴定曲線如圖 3 所示。橫軸為加入 NaOH 的毫升數，縱軸為溶液的 pH 值。試問下列何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-chem-10.png\" alt=\"圖3 弱酸滴定曲線：起始 pH 4，5 mL 時 pH 約 6，當量點 10 mL\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "在滴定過程中，當加入 0.10 M 的 NaOH 溶液 2 mL 時，所得的溶液具有最佳的緩衝能力",
+      "此單質子弱酸的解離常數（$K_a$）約為 $1.0\\times10^{-6}$",
+      "此弱酸的濃度為 $10^{-4}$ M",
+      "此實驗最好選用甲基紅做指示劑",
+      "此滴定反應為吸熱反應"
+    ],
+    "answerIndex": 1,
+    "explanation": "【由滴定曲線求 Ka】\n當量點在 10 mL，半當量點 5 mL 時 pH 約 6.0：$[\\text{H}^+] = K_a = 1.0\\times10^{-6}$，(B) 正確。\n• (A) 最佳緩衝在半當量點（5 mL）。\n• (C) 起始 pH 4：$[\\text{H}^+]^2 = K_aC \\Rightarrow C = \\dfrac{10^{-8}}{10^{-6}} = 10^{-2}$ M。\n• (D) 當量點 pH 約 9，應選酚酞；甲基紅在酸性範圍變色。\n• (E) 中和反應放熱。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-chem-11",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "points": 3,
+    "question": "丙烯醯胺在常溫下為白色結晶，易溶於水，且可能致癌。油炸含碳水化合物的食物，溫度高於 130℃ 就會出現丙烯醯胺。試問丙烯醯胺的化學式為下列何者？",
+    "options": [
+      "$\\text{CH}_2\\text{CHCH}_2\\text{NH}_2$",
+      "$\\text{CH}_3\\text{COCH}_2\\text{NH}_2$",
+      "$\\text{CH}_3\\text{CH}_2\\text{CONH}_2$",
+      "$\\text{CH}_3\\text{CH}_2\\text{CH}_2\\text{CONH}_2$",
+      "$\\text{CH}_2\\text{CHCONH}_2$"
+    ],
+    "answerIndex": 4,
+    "explanation": "【命名】\n「丙烯」：三個碳、含 C=C；「醯胺」：$-\\text{CONH}_2$。丙烯醯胺為 $\\text{CH}_2{=}\\text{CH}-\\text{CONH}_2$。\n\n故選 (E)"
+  },
+  {
+    "id": "102-ast-chem-12",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "points": 3,
+    "question": "為了增加豬肉中的瘦肉，有些養豬戶會在豬的飼料中，添加禁藥「瘦肉精」。瘦肉精可以促進蛋白質合成，增加瘦肉。圖 4 為某一瘦肉精的結構式。下列有關此化合物的敘述，何者<u>錯誤</u>？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-chem-12.png\" alt=\"圖4 瘦肉精：兩個對位酚環以含醇羥基與二級胺的碳鏈相連\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此瘦肉精分子含有二級醇結構",
+      "可形成分子間氫鍵",
+      "此化合物的水溶液呈酸性",
+      "此化合物的水溶液加入多侖試劑，不會產生銀鏡",
+      "此化合物加入氯化鐵酒精水溶液，會造成顏色改變"
+    ],
+    "answerIndex": 2,
+    "explanation": "【官能基性質】\n分子中有二級胺（鹼性）、酚基（極弱酸）與二級醇，胺基的鹼性較強，水溶液呈鹼性，(C) 錯誤。\n其他：含 −OH、−NH− 可形成氫鍵；沒有醛基，不起銀鏡反應；酚與 $\\text{FeCl}_3$ 呈色。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-chem-13",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "已知石墨和金剛石（鑽石）的莫耳燃燒熱分別是 −394 kJ 及 −396 kJ。下列敘述，哪些正確？",
+    "options": [
+      "石墨既不導電也不導熱",
+      "金剛石是碳元素的最穩定結構",
+      "從石墨製造金剛石是放熱反應",
+      "從石墨製造金剛石的反應熱為 +2 kJ/mol",
+      "石墨（$\\text{C}(s)$）的莫耳燃燒熱相當於 $\\text{CO}_2(g)$ 的莫耳生成熱"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "【赫斯定律】\n$\\text{C(石墨)} \\to \\text{C(金剛石)}$：$\\Delta H = -394 - (-396) = +2$ kJ/mol，吸熱，(D) 正確、(C) 錯；石墨能量較低，是較穩定的結構，(B) 錯。\n• (A) 錯：石墨有自由移動的 π 電子，可導電。\n• (E) 正確：石墨是碳的標準狀態，燃燒生成 $\\text{CO}_2$ 的反應熱就是 $\\text{CO}_2$ 的生成熱。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "102-ast-chem-14",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列物質：銅、水、食鹽、醋酸酐、石英等，受其鍵結與作用力的影響，具有明顯的形態和性質的差異。下列有關這些物質的敘述，哪些正確？",
+    "options": [
+      "銅金屬可視為銅陽離子浸於電子海中",
+      "石英屬於共價網狀固體，是由共價鍵結合而成",
+      "食鹽屬於離子化合物，是由陰、陽離子間的靜電吸引力結合而成",
+      "水分子內有共價鍵，分子間有氫鍵但無凡得瓦力",
+      "醋酸酐分子內有共價鍵，分子間有氫鍵及凡得瓦力"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "【化學鍵與作用力】\n• (A)(B)(C) 正確。\n• (D) 錯：凡得瓦力存在於所有分子之間，水分子間除氫鍵外也有凡得瓦力。\n• (E) 錯：醋酸酐 $(\\text{CH}_3\\text{CO})_2\\text{O}$ 沒有 O−H，分子間無氫鍵。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "102-ast-chem-15",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "常見的強酸有鹽酸、硝酸、硫酸、過氯酸，但只有濃硫酸常作為下列反應中強酸的來源：\n$\\text{CH}_3\\text{CH}_2\\text{OH} \\xrightarrow{\\text{濃硫酸},\\ 170\\sim180^\\circ\\text{C}} \\text{H}_2\\text{C}{=}\\text{CH}_2 + \\text{H}_2\\text{O}$\n試問下列哪些應為選用濃硫酸較合理的原因？",
+    "options": [
+      "濃硫酸的酸性最強",
+      "濃硫酸具有較強的還原力",
+      "濃硫酸具有較強的脫水性",
+      "濃硫酸為有機酸，有利於有機反應",
+      "濃硫酸有利該反應的平衡往右進行"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【濃硫酸的脫水性】\n乙醇脫水成乙烯，濃硫酸既是酸催化劑，又能吸收生成的水，使平衡向右移動，(C)(E) 正確。\n• (A) 過氯酸酸性更強。\n• (B) 濃硫酸是氧化劑，不是還原劑。\n• (D) 硫酸是無機酸。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "102-ast-chem-16",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "將含有酚酞、碘化鉀與澱粉的混合液加入 U 型管，再把接於電池兩端的石墨棒，放入 U 型管中，形成電解電池如圖 5。下列有關此電解電池的敘述，哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-chem-16.png\" alt=\"圖5 U 型管電解：乙電極接電池正極、甲電極接負極\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "電解時水被氧化",
+      "乙電極附近有氧氣生成",
+      "乙電極附近溶液變藍色",
+      "甲電極端發生氧化反應",
+      "甲電極附近溶液的 pH 值上升"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【電解碘化鉀溶液】\n乙電極接正極為陽極：$\\text{I}^-$ 比水容易氧化，$2\\text{I}^- \\to \\text{I}_2 + 2e^-$，$\\text{I}_2$ 使澱粉變藍，(C) 正確，(A)(B) 錯。\n甲電極接負極為陰極，發生還原：$2\\text{H}_2\\text{O} + 2e^- \\to \\text{H}_2 + 2\\text{OH}^-$，pH 上升，酚酞變紅，(E) 正確、(D) 錯。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "102-ast-chem-17",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "在實驗室通常使用電石和水來製備乙炔。下列有關此一實驗的敘述，哪些正確？",
+    "options": [
+      "電石的化學式為 CaC",
+      "實驗過程中除了乙炔生成外，還會產生氫氧化鈣",
+      "將乙炔通入溴的四氯化碳溶液會褪色並進行取代反應",
+      "將乙炔通入微鹼性的過錳酸鉀溶液，會產生二氧化錳",
+      "製備乙炔時，應將水逐滴加到電石，以避免反應過於劇烈而發生危險"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "【乙炔的製備與性質】\n$\\text{CaC}_2 + 2\\text{H}_2\\text{O} \\to \\text{C}_2\\text{H}_2 + \\text{Ca(OH)}_2$，(A) 錯、(B) 正確。\n• (C) 錯：與溴是加成反應。\n• (D) 正確：過錳酸鉀在中性或微鹼性下被還原為棕色 $\\text{MnO}_2$。\n• (E) 正確：反應劇烈，需逐滴加水控制。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "102-ast-chem-18",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "硫代硫酸鈉（$\\text{Na}_2\\text{S}_2\\text{O}_3$）可有效去除水中殘餘的氯，其化學反應如下所示：\n$\\text{Na}_2\\text{S}_2\\text{O}_3 + x\\,\\text{Cl}_2 + y\\,\\text{H}_2\\text{O} \\to 2\\text{NaHSO}_4 + z\\,\\text{HCl}$\n式中 $x$、$y$ 與 $z$ 為該反應式經平衡後的係數。下列哪些敘述正確？",
+    "options": [
+      "$z = 2x$",
+      "$x + y > z$",
+      "$\\text{Cl}_2$ 被氧化",
+      "S 的氧化數由 +2 變成 +4",
+      "此反應為自身氧化還原反應"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "【平衡氧化還原反應】\nS 由 +2 變 +6，兩個 S 共失去 8 個電子；每個 $\\text{Cl}_2$ 得 2 個電子，所以 $x = 4$。\nCl 守恆：$z = 8$；H 守恆：$2y = 2 + 8 \\Rightarrow y = 5$。\n$\\text{Na}_2\\text{S}_2\\text{O}_3 + 4\\text{Cl}_2 + 5\\text{H}_2\\text{O} \\to 2\\text{NaHSO}_4 + 8\\text{HCl}$\n• (A) $z = 8 = 2x$ ✓；(B) $x + y = 9 > 8$ ✓。\n• (C) 錯：$\\text{Cl}_2$ 被還原。(D) 錯：S 變成 +6。(E) 錯：氧化與還原發生在不同元素。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "102-ast-chem-19",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "若硫代硫酸鈉與鹽酸在含有少量界面活性劑的水溶液中進行反應，則下列有關敘述，哪些正確？",
+    "options": [
+      "反應物恰好完全作用後溶液為酸性",
+      "界面活性劑的作用為維持反應容器的清潔",
+      "產物中可能會有氧化數為零的奈米硫粒子",
+      "由於廷得耳效應，照光後可以觀察到產物所造成的光折射現象",
+      "產物中含硫物質之總氧化數較反應物中含硫物質之總氧化數減少"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "【硫代硫酸根的自身氧化還原】\n$\\text{S}_2\\text{O}_3^{2-} + 2\\text{H}^+ \\to \\text{S} + \\text{SO}_2 + \\text{H}_2\\text{O}$\n• (A) 正確：生成的 $\\text{SO}_2$ 溶於水成亞硫酸，溶液呈酸性。\n• (B) 錯：界面活性劑是讓生成的硫粒子分散、不聚集，形成奈米粒子膠體。\n• (C) 正確：S 的氧化數為 0。\n• (D) 錯：廷得耳效應是膠體粒子對光的散射，不是折射。\n• (E) 錯：反應物兩個 S 總氧化數 +4；產物 S（0）+ $\\text{SO}_2$（+4）總和仍為 +4。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "102-ast-chem-20",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "五個錯合物如下：甲 $[\\text{Co(H}_2\\text{O)}_4\\text{Cl}_2]\\text{Cl}$、乙 $\\text{K}_2[\\text{Fe(EDTA)}]$、丙 $[\\text{Co(en)}_x]\\text{Cl}_3$、丁 $[\\text{Cr(NH}_3)_6]\\text{Cl}_3$、戊 $[\\text{Pd(NH}_3)_4]\\text{Cl}_2$。其中，EDTA（乙二胺四醋酸根）為六牙基，en（乙二胺）為雙牙基。下列有關此五個錯合物的敘述，哪些正確？",
+    "options": [
+      "甲錯合物，Co 的配位數為 7，Co 的氧化數為 +2",
+      "乙錯合物，Fe 的氧化數為 +4",
+      "丙錯合物，$x$ 為 3",
+      "各取 $10^{-3}$ 莫耳的丙與丁分別溶於 1000 克水中，丁溶液的沸點高於丙溶液的沸點",
+      "取等莫耳的丙與戊分別溶於等量的水中，加入過量的硝酸銀溶液至完全沉澱，則沉澱量丙大於戊"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "【錯合物的配位數與氧化數】\n• (A) 錯：4 個 $\\text{H}_2\\text{O}$ + 2 個 $\\text{Cl}^-$，配位數 6；$x - 2 = +1 \\Rightarrow$ Co 為 +3。\n• (B) 錯：$\\text{EDTA}^{4-}$，$x - 4 = -2 \\Rightarrow$ Fe 為 +2。\n• (C) 正確：Co 配位數 6，雙牙基需 3 個。\n• (D) 錯：丙、丁都解離成 1 個錯離子 + 3 個 $\\text{Cl}^-$，粒子數相同，沸點相同。\n• (E) 正確：丙有 3 個游離 $\\text{Cl}^-$，戊只有 2 個，生成的 AgCl 丙較多。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "102-ast-chem-21",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列哪些聚合物較易被生物分解？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-chem-21.png\" alt=\"五種聚合物 (A) 多醣 (B) 聚苯乙烯 (C) 聚乙烯 (D) 聚丙烯 (E) 聚丙胺酸（多肽）\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (A)",
+      "圖 (B)",
+      "圖 (C)",
+      "圖 (D)",
+      "圖 (E)"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "【生物可分解性】\n(A) 是葡萄糖以醣苷鍵連成的多醣，(E) 是胺基酸以醯胺鍵連成的多肽，都是天然聚合物，可被酵素水解。\n(B) 聚苯乙烯、(C) 聚乙烯、(D) 聚丙烯是加成聚合的碳鏈塑膠，主鏈只有 C−C 鍵，很難被生物分解。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "102-ast-chem-22",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "下列有關乙烯和乙炔的敘述，哪些正確？",
+    "options": [
+      "乙炔不會進行聚合反應",
+      "乙炔加水反應可以得到乙醇",
+      "可用含氯化亞銅的氨水溶液來分辨乙烯和乙炔",
+      "乙烯可與溴分子溶液反應產生 1,2-二溴乙烷",
+      "在低溫下，乙烯可與鹼性過錳酸鉀溶液反應得到 1,2-乙二醇"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "【烯與炔】\n• (A) 錯：乙炔可聚合成聚乙炔（導電塑膠）。\n• (B) 錯：乙炔加水得乙醛。\n• (C) 正確：乙炔的末端氫可與 $\\text{Cu}^+$ 生成紅色的乙炔亞銅沉澱，乙烯不會。\n• (D)(E) 正確。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "102-ast-chem-23",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "構成生物體的主要胺基酸有 20 種。試問下列有關胺基酸的敘述，哪些正確？",
+    "options": [
+      "不溶於水",
+      "含有胺基與羧基兩種官能基",
+      "是組成植物纖維素的結構單元",
+      "是組成許多天然酵素的結構單元",
+      "是組成動物毛髮主要成分的結構單元"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "【胺基酸】\n• (A) 錯：胺基酸以兩性離子存在，多數可溶於水。\n• (B) 正確。\n• (C) 錯：纖維素由葡萄糖組成。\n• (D) 正確：酵素多為蛋白質。\n• (E) 正確：毛髮主要為角蛋白。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "102-ast-chem-24",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "multiple",
+    "points": 4,
+    "question": "某生分析某聚合物，發現有下列重複的結構：\n$\\cdots-[\\text{CH}_2-\\text{CH}{=}\\text{CH}-\\text{CH}_2]_x-[\\text{CH}_2-\\text{CH(CN)}]_y-[\\text{CH}_2-\\text{CH(C}_6\\text{H}_5)]_z-\\cdots$\n試問下列敘述，哪些正確？",
+    "options": [
+      "合成 $-[\\text{CH}_2-\\text{CH}{=}\\text{CH}-\\text{CH}_2]_x-$ 的單體是具有單鍵與雙鍵交錯的結構",
+      "此聚合物的單體均無幾何異構物",
+      "此聚合物是經由縮合反應而產生的共聚物",
+      "單獨使用 $\\text{CH}_2{=}\\text{CH}-\\text{CH}{=}\\text{CH}_2$ 為單體，也可製造此聚合物",
+      "合成此聚合物的三種單體，分別稱為 1,3-丁二烯、丙烯腈、苯乙烯"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "【ABS 共聚物】\n三種單體：1,3-丁二烯 $\\text{CH}_2{=}\\text{CH}-\\text{CH}{=}\\text{CH}_2$（雙鍵、單鍵、雙鍵交錯，經 1,4-加成形成主鏈中的雙鍵）、丙烯腈 $\\text{CH}_2{=}\\text{CHCN}$、苯乙烯，(A)(E) 正確。\n• (B) 正確：三者的雙鍵末端都是 $=\\text{CH}_2$，沒有順反異構。\n• (C) 錯：是加成聚合，沒有小分子脫去。\n• (D) 錯：只用丁二烯得不到含 −CN 與苯基的鏈段。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "102-ast-chem-non-1-1",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】在 25.0℃ 時，鎂帶與鹽酸反應產生氫氣，可利用排水集氣法將生成的氫氣完全收集於集氣管中。某生測得集氣管內氣體體積為 29.80 mL，集氣管內水柱比管外水面高出 6.80 cm，如圖 6 所示。（已知實驗當時的大氣壓力為 75.88 cm-Hg、飽和蒸氣壓 $32.37\\text{ gw/cm}^2$、水銀密度 $= 13.6\\text{ g/cm}^3$，水密度 $= 1.00\\text{ g/cm}^3$）\n\n1. 寫出鎂帶與鹽酸作用產生氫氣的平衡化學反應式。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-chem-non-1.png\" alt=\"圖6 排水集氣：集氣管內氣體 29.80 mL，管內水面比管外高 6.80 cm\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{Mg}(s) + 2\\text{HCl}(aq) \\to \\text{MgCl}_2(aq) + \\text{H}_2(g)$"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "也可寫成離子式 $\\text{Mg}(s) + 2\\text{H}^+(aq) \\to \\text{Mg}^{2+}(aq) + \\text{H}_2(g)$。"
+  },
+  {
+    "id": "102-ast-chem-non-1-2",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】在 25.0℃ 時，鎂帶與鹽酸反應產生氫氣，可利用排水集氣法將生成的氫氣完全收集於集氣管中。某生測得集氣管內氣體體積為 29.80 mL，集氣管內水柱比管外水面高出 6.80 cm，如圖 6 所示。（已知實驗當時的大氣壓力為 75.88 cm-Hg、飽和蒸氣壓 $32.37\\text{ gw/cm}^2$、水銀密度 $= 13.6\\text{ g/cm}^3$，水密度 $= 1.00\\text{ g/cm}^3$）\n\n2. 集氣管中的氣體壓力為幾 cm-Hg？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-chem-non-1.png\" alt=\"圖6 排水集氣：集氣管內氣體 29.80 mL，管內水面比管外高 6.80 cm\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "75.38"
+    ],
+    "blankLabels": [
+      "氣體壓力（cmHg）"
+    ],
+    "acceptedBlanks": [
+      [
+        "75.4",
+        "75.38cmHg",
+        "75.38cm-Hg"
+      ]
+    ],
+    "explanation": "管內水面比外面高 6.80 cm，管內氣體壓力比大氣壓小。6.80 cm 水柱換算成水銀柱：$\\dfrac{6.80\\times1.00}{13.6} = 0.50$ cm-Hg。\n$P = 75.88 - 0.50 = 75.38$ cm-Hg"
+  },
+  {
+    "id": "102-ast-chem-non-1-3",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】在 25.0℃ 時，鎂帶與鹽酸反應產生氫氣，可利用排水集氣法將生成的氫氣完全收集於集氣管中。某生測得集氣管內氣體體積為 29.80 mL，集氣管內水柱比管外水面高出 6.80 cm，如圖 6 所示。（已知實驗當時的大氣壓力為 75.88 cm-Hg、飽和蒸氣壓 $32.37\\text{ gw/cm}^2$、水銀密度 $= 13.6\\text{ g/cm}^3$，水密度 $= 1.00\\text{ g/cm}^3$）\n\n3. 集氣管中氫氣的分壓為幾 cm-Hg？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-chem-non-1.png\" alt=\"圖6 排水集氣：集氣管內氣體 29.80 mL，管內水面比管外高 6.80 cm\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "73.00"
+    ],
+    "blankLabels": [
+      "氫氣分壓（cmHg）"
+    ],
+    "acceptedBlanks": [
+      [
+        "73",
+        "73.0",
+        "73.00cmHg",
+        "73.00cm-Hg"
+      ]
+    ],
+    "explanation": "飽和水蒸氣壓 $32.37\\text{ gw/cm}^2$ 換算：$\\dfrac{32.37}{13.6} \\approx 2.38$ cm-Hg。\n$P_{\\text{H}_2} = 75.38 - 2.38 = 73.00$ cm-Hg"
+  },
+  {
+    "id": "102-ast-chem-non-1-4",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題一】在 25.0℃ 時，鎂帶與鹽酸反應產生氫氣，可利用排水集氣法將生成的氫氣完全收集於集氣管中。某生測得集氣管內氣體體積為 29.80 mL，集氣管內水柱比管外水面高出 6.80 cm，如圖 6 所示。（已知實驗當時的大氣壓力為 75.88 cm-Hg、飽和蒸氣壓 $32.37\\text{ gw/cm}^2$、水銀密度 $= 13.6\\text{ g/cm}^3$，水密度 $= 1.00\\text{ g/cm}^3$）\n\n4. 參與反應的鎂有多少公克？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-chem-non-1.png\" alt=\"圖6 排水集氣：集氣管內氣體 29.80 mL，管內水面比管外高 6.80 cm\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "0.0284"
+    ],
+    "blankLabels": [
+      "鎂（g）"
+    ],
+    "acceptedBlanks": [
+      [
+        "0.028",
+        "0.0285",
+        "0.0283",
+        "2.84×10^-2",
+        "0.0284g"
+      ]
+    ],
+    "explanation": "$n = \\dfrac{PV}{RT} = \\dfrac{(73.00/76)\\times0.02980}{0.082\\times298} \\approx 1.17\\times10^{-3}$ mol\nMg 與 $\\text{H}_2$ 莫耳數相同：$1.17\\times10^{-3}\\times24.3 \\approx 0.0284$ g（容許些微誤差）"
+  },
+  {
+    "id": "102-ast-chem-non-2-1",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】有兩種無機物粉末，甲為暗灰色金屬，乙為白色的無水化合物。王同學為了要探究其為何種物質，做了下列實驗：\n步驟 1：分別稱取適量的甲與乙，混合後置入燒杯再加入蒸餾水，即見溶液呈藍色。在攪拌混合物溶液的過程中，溶液的藍色漸漸變淺，最終呈現淺綠色，並見杯底有沉澱。\n步驟 2：過濾得濾液丙，將沉澱先以稀鹽酸沖洗後，再以蒸餾水沖洗，得到紅棕色沉澱丁，經測試知其為金屬。將 0.1 M 氯化鋇溶液滴入濾液丙，立見白色沉澱。\n步驟 3：將丁與 12 M 的硫酸共熱，會放出難聞氣體。繼續加熱，將溶液濃縮後靜置，得藍色晶體戊。\n步驟 4：晶體戊經反覆數次的磨碎與加熱後，終得白色粉末乙。\n實驗後王同學想不出答案，就請教張老師。老師取少許甲的粉末放在紙上，並將磁鐵棒放在紙下，則見粉末會隨磁鐵的移動而移動。最後，老師還暗示王同學：甲原子的基態，其電子組態中有 $d^6$。\n\n1. 寫出甲的化學式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "Fe"
+    ],
+    "blankLabels": [
+      "甲"
+    ],
+    "acceptedBlanks": [
+      [
+        "鐵"
+      ]
+    ],
+    "explanation": "甲是會被磁鐵吸引的暗灰色金屬，基態電子組態 $[\\text{Ar}]3d^6 4s^2$：鐵。它能把 $\\text{Cu}^{2+}$ 置換出來（藍色變淺綠色 $\\text{Fe}^{2+}$，析出紅棕色銅）。"
+  },
+  {
+    "id": "102-ast-chem-non-2-2",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】有兩種無機物粉末，甲為暗灰色金屬，乙為白色的無水化合物。王同學為了要探究其為何種物質，做了下列實驗：\n步驟 1：分別稱取適量的甲與乙，混合後置入燒杯再加入蒸餾水，即見溶液呈藍色。在攪拌混合物溶液的過程中，溶液的藍色漸漸變淺，最終呈現淺綠色，並見杯底有沉澱。\n步驟 2：過濾得濾液丙，將沉澱先以稀鹽酸沖洗後，再以蒸餾水沖洗，得到紅棕色沉澱丁，經測試知其為金屬。將 0.1 M 氯化鋇溶液滴入濾液丙，立見白色沉澱。\n步驟 3：將丁與 12 M 的硫酸共熱，會放出難聞氣體。繼續加熱，將溶液濃縮後靜置，得藍色晶體戊。\n步驟 4：晶體戊經反覆數次的磨碎與加熱後，終得白色粉末乙。\n實驗後王同學想不出答案，就請教張老師。老師取少許甲的粉末放在紙上，並將磁鐵棒放在紙下，則見粉末會隨磁鐵的移動而移動。最後，老師還暗示王同學：甲原子的基態，其電子組態中有 $d^6$。\n\n2. 寫出乙的化學式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "CuSO4"
+    ],
+    "blankLabels": [
+      "乙"
+    ],
+    "acceptedBlanks": [
+      [
+        "硫酸銅",
+        "無水硫酸銅"
+      ]
+    ],
+    "explanation": "乙是白色無水化合物，溶於水呈藍色（$\\text{Cu}^{2+}$），濾液加 $\\text{BaCl}_2$ 生成白色 $\\text{BaSO}_4$（含 $\\text{SO}_4^{2-}$），所以是無水硫酸銅。"
+  },
+  {
+    "id": "102-ast-chem-non-2-3",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】有兩種無機物粉末，甲為暗灰色金屬，乙為白色的無水化合物。王同學為了要探究其為何種物質，做了下列實驗：\n步驟 1：分別稱取適量的甲與乙，混合後置入燒杯再加入蒸餾水，即見溶液呈藍色。在攪拌混合物溶液的過程中，溶液的藍色漸漸變淺，最終呈現淺綠色，並見杯底有沉澱。\n步驟 2：過濾得濾液丙，將沉澱先以稀鹽酸沖洗後，再以蒸餾水沖洗，得到紅棕色沉澱丁，經測試知其為金屬。將 0.1 M 氯化鋇溶液滴入濾液丙，立見白色沉澱。\n步驟 3：將丁與 12 M 的硫酸共熱，會放出難聞氣體。繼續加熱，將溶液濃縮後靜置，得藍色晶體戊。\n步驟 4：晶體戊經反覆數次的磨碎與加熱後，終得白色粉末乙。\n實驗後王同學想不出答案，就請教張老師。老師取少許甲的粉末放在紙上，並將磁鐵棒放在紙下，則見粉末會隨磁鐵的移動而移動。最後，老師還暗示王同學：甲原子的基態，其電子組態中有 $d^6$。\n\n3. 寫出戊的化學式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "CuSO4·5H2O"
+    ],
+    "blankLabels": [
+      "戊"
+    ],
+    "acceptedBlanks": [
+      [
+        "CuSO4.5H2O",
+        "CuSO4•5H2O",
+        "CuSO4‧5H2O",
+        "Cu(H2O)5SO4",
+        "CuSO45H2O",
+        "五水硫酸銅"
+      ]
+    ],
+    "explanation": "銅與濃硫酸共熱得硫酸銅，濃縮結晶為藍色的五水硫酸銅 $\\text{CuSO}_4\\cdot5\\text{H}_2\\text{O}$；加熱失去結晶水後變回白色的無水 $\\text{CuSO}_4$（乙）。"
+  },
+  {
+    "id": "102-ast-chem-non-2-4",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "化學",
+    "type": "fill",
+    "question": "【非選擇題二】有兩種無機物粉末，甲為暗灰色金屬，乙為白色的無水化合物。王同學為了要探究其為何種物質，做了下列實驗：\n步驟 1：分別稱取適量的甲與乙，混合後置入燒杯再加入蒸餾水，即見溶液呈藍色。在攪拌混合物溶液的過程中，溶液的藍色漸漸變淺，最終呈現淺綠色，並見杯底有沉澱。\n步驟 2：過濾得濾液丙，將沉澱先以稀鹽酸沖洗後，再以蒸餾水沖洗，得到紅棕色沉澱丁，經測試知其為金屬。將 0.1 M 氯化鋇溶液滴入濾液丙，立見白色沉澱。\n步驟 3：將丁與 12 M 的硫酸共熱，會放出難聞氣體。繼續加熱，將溶液濃縮後靜置，得藍色晶體戊。\n步驟 4：晶體戊經反覆數次的磨碎與加熱後，終得白色粉末乙。\n實驗後王同學想不出答案，就請教張老師。老師取少許甲的粉末放在紙上，並將磁鐵棒放在紙下，則見粉末會隨磁鐵的移動而移動。最後，老師還暗示王同學：甲原子的基態，其電子組態中有 $d^6$。\n\n4. 寫出實驗步驟 3 中，丁與硫酸共熱的平衡化學反應式。（2 分）",
+    "points": 2,
+    "selfGrade": true,
+    "blanks": [
+      "$\\text{Cu}(s) + 2\\text{H}_2\\text{SO}_4(\\text{conc}) \\to \\text{CuSO}_4(aq) + \\text{SO}_2(g) + 2\\text{H}_2\\text{O}(l)$"
+    ],
+    "blankLabels": [
+      "反應式"
+    ],
+    "explanation": "熱濃硫酸是氧化劑，把銅氧化為 $\\text{Cu}^{2+}$，本身被還原為有刺激性臭味的 $\\text{SO}_2$（難聞氣體）。"
   }
 ]
