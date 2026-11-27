@@ -130494,5 +130494,760 @@
     ],
     "answerIndex": 0,
     "explanation": "文章以學生被罰款、和解的例子，警告非法下載者會有法律後果。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-eng-01",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "1. The new stadium was built at a convenient ______, close to an MRT station and within walking distance to a popular shopping center.",
+    "options": [
+      "vacancy",
+      "procedure",
+      "residence",
+      "location"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：新體育場蓋在交通便利的地點，靠近捷運站，走路就到熱門購物中心。\n• (D) location 地點\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-eng-02",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "2. The young Taiwanese pianist performed ______ well and won the first prize in the music contest.",
+    "options": [
+      "intimately",
+      "remarkably",
+      "potentially",
+      "efficiently"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：這位年輕的台灣鋼琴家表現非常出色，贏得音樂比賽首獎。\n• (B) remarkably 非常、顯著地\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-eng-03",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "3. As thousands of new ______ from Southeastern Asia have moved to Taiwan for work or marriage, we should try our best to help them adjust to our society.",
+    "options": [
+      "immigrants",
+      "messengers",
+      "possessors",
+      "agencies"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：數以千計來自東南亞的新移民因工作或婚姻來台，我們應盡力幫助他們適應社會。\n• (A) immigrant 移民\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-eng-04",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "4. Although the manager apologized many times for his poor decision, there was nothing he could do to ______ his mistake.",
+    "options": [
+      "resign",
+      "retain",
+      "refresh",
+      "remedy"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：雖然經理為錯誤的決定道歉多次，卻無法補救他的錯誤。\n• (D) remedy 補救\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-eng-05",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "5. Last winter's snowstorms and freezing temperatures were quite ______ for this region where warm and short winters are typical.",
+    "options": [
+      "fundamental",
+      "extraordinary",
+      "statistical",
+      "individual"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：這個地區冬天通常溫暖短暫，去年冬天的暴風雪和嚴寒相當不尋常。\n• (B) extraordinary 不尋常的\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-eng-06",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "6. To overcome budget shortages, some small schools in rural areas have set up ______ programs to share their teaching and library resources.",
+    "options": [
+      "cooperative",
+      "objective",
+      "relative",
+      "infinitive"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：為了克服經費短缺，一些鄉下小學成立合作計畫，共享教學與圖書資源。\n• (A) cooperative 合作的\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-eng-07",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "7. After spending much time carefully studying the patient's ______, the doctor finally made his diagnosis.",
+    "options": [
+      "confessions",
+      "symptoms",
+      "protests",
+      "qualifications"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：醫生花了很多時間仔細研究病人的症狀，終於做出診斷。\n• (B) symptom 症狀\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-eng-08",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "8. The universe is full of wonders. Throughout history, people have been ______ by the mystery of what lies beyond our planet.",
+    "options": [
+      "notified",
+      "complicated",
+      "fascinated",
+      "suspended"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：宇宙充滿奇妙，自古以來人們就著迷於地球之外的奧祕。\n• (C) fascinated 著迷的\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-eng-09",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "9. The president's speech will be broadcast ______ on television and radio so that more people can listen to it at the time when it is delivered.",
+    "options": [
+      "comparatively",
+      "temporarily",
+      "simultaneously",
+      "permanently"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：總統演說將在電視與廣播同步播出，讓更多人在演說當下收聽。\n• (C) simultaneously 同時地\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-eng-10",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "10. In order to expand its foreign market, the company decided to ______ its products and provide more varieties to the customer.",
+    "options": [
+      "exceed",
+      "dismiss",
+      "retrieve",
+      "diversify"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：為了擴展海外市場，公司決定使產品多樣化，提供顧客更多選擇。\n• (D) diversify 使多樣化\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-eng-11",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe telephone is widely considered as the most rapidly evolving technological device today. Many experts in the field believe that future phones will not only look very different-- they may not even be 【 11 】. They may be hidden in jewelry or accessories, or even embedded in the body. They will undoubtedly have a lot of additional features and 【 12 】 functions, and users may interact with them in new ways, too. 【 13 】 they are still called \"phones\"--a word meaning \"voice\" in Greek--making voice calls may no longer be their primary function. With advances in contemporary design and technology, the phones may 【 14 】 remote controls, house keys, Game Boys, maps, flashlights, health monitors, recorders, handguns, and so on. 【 15 】, they will be \"the remote-control for life.\"\n11.",
+    "options": [
+      "heard",
+      "sold",
+      "changed",
+      "seen"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：未來的電話不只外觀不同，甚至可能「看不見」；下句說可能藏在首飾中或植入體內。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-eng-12",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe telephone is widely considered as the most rapidly evolving technological device today. Many experts in the field believe that future phones will not only look very different-- they may not even be 【 11 】. They may be hidden in jewelry or accessories, or even embedded in the body. They will undoubtedly have a lot of additional features and 【 12 】 functions, and users may interact with them in new ways, too. 【 13 】 they are still called \"phones\"--a word meaning \"voice\" in Greek--making voice calls may no longer be their primary function. With advances in contemporary design and technology, the phones may 【 14 】 remote controls, house keys, Game Boys, maps, flashlights, health monitors, recorders, handguns, and so on. 【 15 】, they will be \"the remote-control for life.\"\n12.",
+    "options": [
+      "remote",
+      "scarce",
+      "novel",
+      "accidental"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：未來的電話一定會有許多附加功能與「新奇的」功能。novel「新穎的」。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-eng-13",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe telephone is widely considered as the most rapidly evolving technological device today. Many experts in the field believe that future phones will not only look very different-- they may not even be 【 11 】. They may be hidden in jewelry or accessories, or even embedded in the body. They will undoubtedly have a lot of additional features and 【 12 】 functions, and users may interact with them in new ways, too. 【 13 】 they are still called \"phones\"--a word meaning \"voice\" in Greek--making voice calls may no longer be their primary function. With advances in contemporary design and technology, the phones may 【 14 】 remote controls, house keys, Game Boys, maps, flashlights, health monitors, recorders, handguns, and so on. 【 15 】, they will be \"the remote-control for life.\"\n13.",
+    "options": [
+      "As long as",
+      "Even if",
+      "Just as",
+      "Only when"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：「即使」它們仍叫做「電話」，打電話可能不再是主要功能。Even if「即使」表讓步。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-eng-14",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe telephone is widely considered as the most rapidly evolving technological device today. Many experts in the field believe that future phones will not only look very different-- they may not even be 【 11 】. They may be hidden in jewelry or accessories, or even embedded in the body. They will undoubtedly have a lot of additional features and 【 12 】 functions, and users may interact with them in new ways, too. 【 13 】 they are still called \"phones\"--a word meaning \"voice\" in Greek--making voice calls may no longer be their primary function. With advances in contemporary design and technology, the phones may 【 14 】 remote controls, house keys, Game Boys, maps, flashlights, health monitors, recorders, handguns, and so on. 【 15 】, they will be \"the remote-control for life.\"\n14.",
+    "options": [
+      "call for",
+      "get over",
+      "relate to",
+      "serve as"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：電話可能「充當」遙控器、鑰匙、遊戲機、地圖等。serve as「充當」。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-eng-15",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 11-15 題組】\nThe telephone is widely considered as the most rapidly evolving technological device today. Many experts in the field believe that future phones will not only look very different-- they may not even be 【 11 】. They may be hidden in jewelry or accessories, or even embedded in the body. They will undoubtedly have a lot of additional features and 【 12 】 functions, and users may interact with them in new ways, too. 【 13 】 they are still called \"phones\"--a word meaning \"voice\" in Greek--making voice calls may no longer be their primary function. With advances in contemporary design and technology, the phones may 【 14 】 remote controls, house keys, Game Boys, maps, flashlights, health monitors, recorders, handguns, and so on. 【 15 】, they will be \"the remote-control for life.\"\n15.",
+    "options": [
+      "In short",
+      "As yet",
+      "By the way",
+      "On the contrary"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：「總之」，它們將成為「生活的遙控器」。In short 總結前文。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-eng-16",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe fruits and vegetables we eat often come in distinctive colors. The rich colors, 【 16 】, are not there only to attract attention. They perform another important function for the plants.\n\nResearch shows that the substances 【 17 】 these colors actually protect plants from chemical damage. The colors come mainly from chemicals known as antioxidants. Plants make antioxidants to protect themselves from the sun's ultraviolet (UV) light, 【 18 】 may cause harmful elements to form within the plant cells.\n\nWhen we eat colorful fruits and vegetables, the coloring chemicals protect us, too. Typically, an intensely colored plant has 【 19 】 of these protective chemicals than a paler one does. Research on how chemicals in blueberries affect brain function even suggests that these chemicals may help our own brains work more 【 20 】. In other words, eating richly colored fruits and vegetables makes us both healthier and smarter.\n16.",
+    "options": [
+      "almost",
+      "rarely",
+      "however",
+      "relatively"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：「然而」，豐富的顏色不只是為了吸引注意，還有另一個重要功能。however 表轉折，插入句中。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-eng-17",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe fruits and vegetables we eat often come in distinctive colors. The rich colors, 【 16 】, are not there only to attract attention. They perform another important function for the plants.\n\nResearch shows that the substances 【 17 】 these colors actually protect plants from chemical damage. The colors come mainly from chemicals known as antioxidants. Plants make antioxidants to protect themselves from the sun's ultraviolet (UV) light, 【 18 】 may cause harmful elements to form within the plant cells.\n\nWhen we eat colorful fruits and vegetables, the coloring chemicals protect us, too. Typically, an intensely colored plant has 【 19 】 of these protective chemicals than a paler one does. Research on how chemicals in blueberries affect brain function even suggests that these chemicals may help our own brains work more 【 20 】. In other words, eating richly colored fruits and vegetables makes us both healthier and smarter.\n17.",
+    "options": [
+      "capable of",
+      "different from",
+      "inferior to",
+      "responsible for"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：研究顯示「造成」這些顏色的物質能保護植物。be responsible for「造成、導致」。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-eng-18",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe fruits and vegetables we eat often come in distinctive colors. The rich colors, 【 16 】, are not there only to attract attention. They perform another important function for the plants.\n\nResearch shows that the substances 【 17 】 these colors actually protect plants from chemical damage. The colors come mainly from chemicals known as antioxidants. Plants make antioxidants to protect themselves from the sun's ultraviolet (UV) light, 【 18 】 may cause harmful elements to form within the plant cells.\n\nWhen we eat colorful fruits and vegetables, the coloring chemicals protect us, too. Typically, an intensely colored plant has 【 19 】 of these protective chemicals than a paler one does. Research on how chemicals in blueberries affect brain function even suggests that these chemicals may help our own brains work more 【 20 】. In other words, eating richly colored fruits and vegetables makes us both healthier and smarter.\n18.",
+    "options": [
+      "which",
+      "that",
+      "what",
+      "such"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：植物製造抗氧化物保護自己不受紫外線傷害，「而紫外線」可能在細胞內產生有害物質。非限定關係子句（逗號後）用 which。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-eng-19",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe fruits and vegetables we eat often come in distinctive colors. The rich colors, 【 16 】, are not there only to attract attention. They perform another important function for the plants.\n\nResearch shows that the substances 【 17 】 these colors actually protect plants from chemical damage. The colors come mainly from chemicals known as antioxidants. Plants make antioxidants to protect themselves from the sun's ultraviolet (UV) light, 【 18 】 may cause harmful elements to form within the plant cells.\n\nWhen we eat colorful fruits and vegetables, the coloring chemicals protect us, too. Typically, an intensely colored plant has 【 19 】 of these protective chemicals than a paler one does. Research on how chemicals in blueberries affect brain function even suggests that these chemicals may help our own brains work more 【 20 】. In other words, eating richly colored fruits and vegetables makes us both healthier and smarter.\n19.",
+    "options": [
+      "more",
+      "less",
+      "most",
+      "least"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：顏色深的植物通常比淺色的含有「更多」保護性化學物質。比較兩者，與 than 搭配用 more。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-eng-20",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 16-20 題組】\nThe fruits and vegetables we eat often come in distinctive colors. The rich colors, 【 16 】, are not there only to attract attention. They perform another important function for the plants.\n\nResearch shows that the substances 【 17 】 these colors actually protect plants from chemical damage. The colors come mainly from chemicals known as antioxidants. Plants make antioxidants to protect themselves from the sun's ultraviolet (UV) light, 【 18 】 may cause harmful elements to form within the plant cells.\n\nWhen we eat colorful fruits and vegetables, the coloring chemicals protect us, too. Typically, an intensely colored plant has 【 19 】 of these protective chemicals than a paler one does. Research on how chemicals in blueberries affect brain function even suggests that these chemicals may help our own brains work more 【 20 】. In other words, eating richly colored fruits and vegetables makes us both healthier and smarter.\n20.",
+    "options": [
+      "obviously",
+      "diligently",
+      "efficiently",
+      "superficially"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：這些化學物質可能幫助大腦運作得更「有效率」；下句說讓我們更聰明。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-eng-21",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nRecent studies have shown that alcohol is the leading gateway drug for teenagers. Gateway drugs are substances people take that 【 21 】 them to take more drugs. Alcohol works directly on the central nervous system and alters one's moods and limits judgment. Since its way of altering moods (changing one's state of mind) is generally expected and socially acceptable, oftentimes it 【 22 】 over drinking. Habitual drinkers may find alcohol not stimulating enough 【 23 】 and want to seek other more stimulating substances. 【 24 】 a circumstance often preconditions teenagers to the possibility of taking other drugs such as marijuana, cocaine or heroin. Another reason why alcohol is the main gateway drug is that the 【 25 】 of teenagers it can affect is very wide. It is easily accessible in most societies and common in popular events such as sports gatherings and dinner parties.\n21.",
+    "options": [
+      "lead",
+      "leads",
+      "leading",
+      "led"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：入門藥物是「引導」人吸食更多毒品的物質。關係子句 that 的先行詞 substances 為複數，用 lead。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-eng-22",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nRecent studies have shown that alcohol is the leading gateway drug for teenagers. Gateway drugs are substances people take that 【 21 】 them to take more drugs. Alcohol works directly on the central nervous system and alters one's moods and limits judgment. Since its way of altering moods (changing one's state of mind) is generally expected and socially acceptable, oftentimes it 【 22 】 over drinking. Habitual drinkers may find alcohol not stimulating enough 【 23 】 and want to seek other more stimulating substances. 【 24 】 a circumstance often preconditions teenagers to the possibility of taking other drugs such as marijuana, cocaine or heroin. Another reason why alcohol is the main gateway drug is that the 【 25 】 of teenagers it can affect is very wide. It is easily accessible in most societies and common in popular events such as sports gatherings and dinner parties.\n22.",
+    "options": [
+      "applies to",
+      "arrives at",
+      "results in",
+      "plans on"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：酒精改變情緒的方式為社會所接受，所以常「導致」飲酒過量。result in「導致」。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-eng-23",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nRecent studies have shown that alcohol is the leading gateway drug for teenagers. Gateway drugs are substances people take that 【 21 】 them to take more drugs. Alcohol works directly on the central nervous system and alters one's moods and limits judgment. Since its way of altering moods (changing one's state of mind) is generally expected and socially acceptable, oftentimes it 【 22 】 over drinking. Habitual drinkers may find alcohol not stimulating enough 【 23 】 and want to seek other more stimulating substances. 【 24 】 a circumstance often preconditions teenagers to the possibility of taking other drugs such as marijuana, cocaine or heroin. Another reason why alcohol is the main gateway drug is that the 【 25 】 of teenagers it can affect is very wide. It is easily accessible in most societies and common in popular events such as sports gatherings and dinner parties.\n23.",
+    "options": [
+      "in advance",
+      "after a while",
+      "in the least",
+      "at most"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：習慣喝酒的人「過一陣子」可能覺得酒精不夠刺激，轉而尋求其他物質。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-eng-24",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nRecent studies have shown that alcohol is the leading gateway drug for teenagers. Gateway drugs are substances people take that 【 21 】 them to take more drugs. Alcohol works directly on the central nervous system and alters one's moods and limits judgment. Since its way of altering moods (changing one's state of mind) is generally expected and socially acceptable, oftentimes it 【 22 】 over drinking. Habitual drinkers may find alcohol not stimulating enough 【 23 】 and want to seek other more stimulating substances. 【 24 】 a circumstance often preconditions teenagers to the possibility of taking other drugs such as marijuana, cocaine or heroin. Another reason why alcohol is the main gateway drug is that the 【 25 】 of teenagers it can affect is very wide. It is easily accessible in most societies and common in popular events such as sports gatherings and dinner parties.\n24.",
+    "options": [
+      "Since",
+      "As",
+      "All",
+      "Such"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：「這樣的」情況常使青少年更可能吸食大麻、古柯鹼等。such a + 名詞。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-eng-25",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 21-25 題組】\nRecent studies have shown that alcohol is the leading gateway drug for teenagers. Gateway drugs are substances people take that 【 21 】 them to take more drugs. Alcohol works directly on the central nervous system and alters one's moods and limits judgment. Since its way of altering moods (changing one's state of mind) is generally expected and socially acceptable, oftentimes it 【 22 】 over drinking. Habitual drinkers may find alcohol not stimulating enough 【 23 】 and want to seek other more stimulating substances. 【 24 】 a circumstance often preconditions teenagers to the possibility of taking other drugs such as marijuana, cocaine or heroin. Another reason why alcohol is the main gateway drug is that the 【 25 】 of teenagers it can affect is very wide. It is easily accessible in most societies and common in popular events such as sports gatherings and dinner parties.\n25.",
+    "options": [
+      "population",
+      "popularity",
+      "pollution",
+      "possibility"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：酒精能影響的青少年「人口」範圍很廣。population「（某類）人口、族群」。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-eng-26",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nA new year means a new beginning for most of us. On December 28th last year, the New York City sanitation department offered people a new way 【 26 】 farewell to 2007. For one hour on that day, a huge paper-cutting machine was set up in Times Square so people could 【 27 】 their lingering bad memories. Everything from photos of ex-lovers to lousy report cards could be cut into small pieces, as the organizers had announced 【 28 】 the event. Recycling cans were also provided for items such as 【 29 】 CDs and regrettable fashion mistakes. Former schoolteacher Eileen Lawrence won the event's ＄250 award for the most creative memory destined for 【 30 】. She had created a painting from a photo of her ex-boyfriend, who Lawrence was happy to say goodbye to.\n26.",
+    "options": [
+      "bid",
+      "to bid",
+      "bidding",
+      "bidden"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：提供人們一種向 2007 年「道別」的新方式。a way to + V；bid farewell to「向…告別」。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-eng-27",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nA new year means a new beginning for most of us. On December 28th last year, the New York City sanitation department offered people a new way 【 26 】 farewell to 2007. For one hour on that day, a huge paper-cutting machine was set up in Times Square so people could 【 27 】 their lingering bad memories. Everything from photos of ex-lovers to lousy report cards could be cut into small pieces, as the organizers had announced 【 28 】 the event. Recycling cans were also provided for items such as 【 29 】 CDs and regrettable fashion mistakes. Former schoolteacher Eileen Lawrence won the event's ＄250 award for the most creative memory destined for 【 30 】. She had created a painting from a photo of her ex-boyfriend, who Lawrence was happy to say goodbye to.\n27.",
+    "options": [
+      "destroy",
+      "maintain",
+      "dislike",
+      "create"
+    ],
+    "answerIndex": 0,
+    "explanation": "句意：時代廣場架起巨大碎紙機，讓人「銷毀」揮之不去的不好回憶。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-eng-28",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nA new year means a new beginning for most of us. On December 28th last year, the New York City sanitation department offered people a new way 【 26 】 farewell to 2007. For one hour on that day, a huge paper-cutting machine was set up in Times Square so people could 【 27 】 their lingering bad memories. Everything from photos of ex-lovers to lousy report cards could be cut into small pieces, as the organizers had announced 【 28 】 the event. Recycling cans were also provided for items such as 【 29 】 CDs and regrettable fashion mistakes. Former schoolteacher Eileen Lawrence won the event's ＄250 award for the most creative memory destined for 【 30 】. She had created a painting from a photo of her ex-boyfriend, who Lawrence was happy to say goodbye to.\n28.",
+    "options": [
+      "until",
+      "prior to",
+      "above all",
+      "beforehand"
+    ],
+    "answerIndex": 1,
+    "explanation": "句意：如同主辦單位在活動「之前」宣布的。prior to + 名詞「在…之前」；beforehand 是副詞，不能接受詞。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-eng-29",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nA new year means a new beginning for most of us. On December 28th last year, the New York City sanitation department offered people a new way 【 26 】 farewell to 2007. For one hour on that day, a huge paper-cutting machine was set up in Times Square so people could 【 27 】 their lingering bad memories. Everything from photos of ex-lovers to lousy report cards could be cut into small pieces, as the organizers had announced 【 28 】 the event. Recycling cans were also provided for items such as 【 29 】 CDs and regrettable fashion mistakes. Former schoolteacher Eileen Lawrence won the event's ＄250 award for the most creative memory destined for 【 30 】. She had created a painting from a photo of her ex-boyfriend, who Lawrence was happy to say goodbye to.\n29.",
+    "options": [
+      "available",
+      "amusing",
+      "annoying",
+      "artificial"
+    ],
+    "answerIndex": 2,
+    "explanation": "句意：也提供回收桶，丟棄「惱人的」CD 和後悔的穿搭失誤。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-eng-30",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 1,
+    "question": "【綜合測驗 26-30 題組】\nA new year means a new beginning for most of us. On December 28th last year, the New York City sanitation department offered people a new way 【 26 】 farewell to 2007. For one hour on that day, a huge paper-cutting machine was set up in Times Square so people could 【 27 】 their lingering bad memories. Everything from photos of ex-lovers to lousy report cards could be cut into small pieces, as the organizers had announced 【 28 】 the event. Recycling cans were also provided for items such as 【 29 】 CDs and regrettable fashion mistakes. Former schoolteacher Eileen Lawrence won the event's ＄250 award for the most creative memory destined for 【 30 】. She had created a painting from a photo of her ex-boyfriend, who Lawrence was happy to say goodbye to.\n30.",
+    "options": [
+      "machine",
+      "machines",
+      "a machine",
+      "the machine"
+    ],
+    "answerIndex": 3,
+    "explanation": "句意：Lawrence 以最有創意、注定要進「那台碎紙機」的回憶獲獎。特指前文的碎紙機，用 the machine。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-eng-31-40",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【文意選填 31-40 題組】\nAthletes and sports competitors compete in organized, officiated sports events to entertain spectators. When playing a game, athletes are required to understand the strategies of their game and ___(31)___ the rules and regulations of the sport. The events in which they compete include both ___(32)___ sports, such as baseball, basketball, and soccer, and individual sports, such as golf, tennis, and bowling. The level of play varies from unpaid high school athletics to ___(33)___ sports, in which the best from around the world compete in events broadcast on international television.\nBeing an athlete involves more than competing in athletic events. Athletes spend many hours each day practicing skills and improving teamwork under the ___(34)___ of a coach or a sports instructor. They view videotapes not only to critique their own performances and ___(35)___ but also to learn their opponents' tendencies and weaknesses to gain a competitive advantage. Some athletes work regularly with strength trainers to gain muscle and to ___(36)___ injury. Many athletes push their bodies ___(37)___ during both practice and play, so career-ending injury always is a risk. Even minor injuries may put a player ___(38)___ of replacement. Because competition at all levels is extremely intense and job security is always unstable, many athletes train year round to maintain ___(39)___ form and technique and peak physical condition. Athletes also must ___(40)___ to strictly controlled diets during their sports season to supplement any physical training program.\n(A) conform　(B) prevent　(C) obey　(D) guidance　(E) excellent　(F) techniques　(G) professional　(H) team　(I) at risk　(J) to the limit\n（請依序填入各題代號 A～J）",
+    "blanks": [
+      "C",
+      "H",
+      "G",
+      "D",
+      "F",
+      "B",
+      "J",
+      "I",
+      "E",
+      "A"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "explanation": "• 31 (C) obey：運動員必須了解比賽策略並「遵守」規則，與 understand 並列。\n• 32 (H) team：比賽包括棒球、籃球、足球等「團隊」運動，與 individual sports 相對。\n• 33 (G) professional：從業餘的高中運動到世界頂尖選手參與的「職業」運動。\n• 34 (D) guidance：在教練指導下練習，under the guidance of。\n• 35 (F) techniques：看錄影帶評析自己的表現與「技巧」，與 performances 並列。\n• 36 (B) prevent：與體能教練合作增加肌肉並「預防」受傷。\n• 37 (J) to the limit：許多運動員把身體逼「到極限」，push… to the limit。\n• 38 (I) at risk：即使小傷也可能讓選手「面臨」被替換的「風險」，put sb. at risk of。\n• 39 (E) excellent：全年訓練以維持「絕佳的」狀態與技巧。\n• 40 (A) conform：conform to「遵守」嚴格控制的飲食；obey 不接 to。"
+  },
+  {
+    "id": "97-ast-eng-41-45",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "fill",
+    "points": 10,
+    "question": "【篇章結構 41-45 題組】\nIt is impossible to imagine Paris without its cafés. The city has some 12,000 cafés varying in size, grandeur, and significance. The cafés are like an extension of the French living room, a place to start and end the day, to gossip and debate.\n___(41)___ The oldest café in Paris is Le Procope. It was opened in 1686 by Francesco Procopio dei Coltelli, the man who turned France into a coffee-drinking society. ___(42)___ By the end of the 18th century, all of Paris was intoxicated with coffee and the city supported some 700 cafés. ___(43)___ By the 1840s the number of cafés had grown to 3,000. The men who gathered in these cafés and set the theme of the times included journalists, playwrights and writers. Around the turn of the 20th century, the sidewalk cafés became the meeting halls for artists and literary figures.\n___(44)___ The artists gathered at the café may not be as great as those of the past, but faces worth watching are just the same. ___(45)___ You'll see the old men in navy berets; ultra-thin, bronzed women with hair dyed bright orange; and schoolchildren sharing an afternoon chocolate with their mothers. The café in Paris has always been a place for seeing and being seen.\n(A) When did the cafés in France start?\n(B) Linger a bit and you will see that the Parisian stereotypes are still alive and well.\n(C) Nowadays in Paris cafés still play the role of picture windows for observing contemporary life.\n(D) These were like all-male clubs, with many functioning as centers of political life and discussion.\n(E) Le Procope attracted Paris's political and literary elite, and thus played an important part among the upper class.\n（請依序填入各題代號 A～E）",
+    "blanks": [
+      "A",
+      "E",
+      "D",
+      "C",
+      "B"
+    ],
+    "blankLabels": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ],
+    "explanation": "• 41 (A)：以問句引出咖啡館起源；下句回答最古老的是 Le Procope。\n• 42 (E)：Le Procope 吸引巴黎政治與文學菁英，在上流社會扮演重要角色。\n• 43 (D)：These 指 18 世紀末的 700 家咖啡館，像男性俱樂部，是政治討論中心；下文說聚集的是記者、劇作家等男性。\n• 44 (C)：時至今日，咖啡館仍是觀察當代生活的櫥窗；下句說值得一看的面孔依舊。\n• 45 (B)：多待一會兒就會看到巴黎人的刻板形象；下句列舉戴貝雷帽的老人等。"
+  },
+  {
+    "id": "97-ast-eng-46",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 46-49 題組】\nThe Lego Group had a very humble beginning in the workshop of Ole Kirk Christiansen, a carpenter from Denmark. Christiansen began creating wooden toys in 1932. Two years later, he stumbled on the Lego name by putting together the first two letters of the Danish words Leg and Godt, which mean \"play well.\" The name could be interpreted as \"I put together\" in Latin; it also corresponds to the Greek verb meaning \"gather\" or \"pick up.\"\n\nIn 1947, the company expanded to making plastic toys. At first, the use of plastic for toy manufacture was not highly regarded by retailers and consumers of the time. Many of the Lego Group's shipments were returned, following poor sales. However, Christiansen's son, Godtfred Kirk Christiansen, saw the immense potential in Lego bricks to become a system for creative play. As the junior managing director of the Lego Group, he spent years trying to improve the \"locking\" ability of the bricks and made the bricks more versatile. In 1958, the modern interlocking brick design was finally developed and patented.\n\nToday Lego is sold in more than 130 countries. Every minute 33,824 Lego bricks are made, and kids around the world spend 5 billion hours a year playing with Lego. There will be more than 400 million people playing with Lego bricks this year. On average, every person in the world owns 62 Lego bricks, and about seven Lego sets are sold every second.\n\nThis year Lego fans all over the world are celebrating the 50th anniversary of the tiny building blocks. Though already 50 years old, Lego is still the same product it was in the 1950s. Bricks bought then are still compatible with current bricks and that is probably the reason the toy has never fallen out of favor.\n46. Which of the following is true about the name Lego?",
+    "options": [
+      "It is a combination of Greek and Latin words.",
+      "It was created by Ole Kirk Christiansen's son.",
+      "It was created in 1947 for naming the plastic toys.",
+      "It came from Danish words meaning \"play\" and \"well.\""
+    ],
+    "answerIndex": 3,
+    "explanation": "Lego 取自丹麥文 Leg（玩）與 Godt（好）的前兩個字母，意思是「玩得好」。\n(B) 是父親 Ole Kirk 取的；(C) 1934 年取名。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-eng-47",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 46-49 題組】\nThe Lego Group had a very humble beginning in the workshop of Ole Kirk Christiansen, a carpenter from Denmark. Christiansen began creating wooden toys in 1932. Two years later, he stumbled on the Lego name by putting together the first two letters of the Danish words Leg and Godt, which mean \"play well.\" The name could be interpreted as \"I put together\" in Latin; it also corresponds to the Greek verb meaning \"gather\" or \"pick up.\"\n\nIn 1947, the company expanded to making plastic toys. At first, the use of plastic for toy manufacture was not highly regarded by retailers and consumers of the time. Many of the Lego Group's shipments were returned, following poor sales. However, Christiansen's son, Godtfred Kirk Christiansen, saw the immense potential in Lego bricks to become a system for creative play. As the junior managing director of the Lego Group, he spent years trying to improve the \"locking\" ability of the bricks and made the bricks more versatile. In 1958, the modern interlocking brick design was finally developed and patented.\n\nToday Lego is sold in more than 130 countries. Every minute 33,824 Lego bricks are made, and kids around the world spend 5 billion hours a year playing with Lego. There will be more than 400 million people playing with Lego bricks this year. On average, every person in the world owns 62 Lego bricks, and about seven Lego sets are sold every second.\n\nThis year Lego fans all over the world are celebrating the 50th anniversary of the tiny building blocks. Though already 50 years old, Lego is still the same product it was in the 1950s. Bricks bought then are still compatible with current bricks and that is probably the reason the toy has never fallen out of favor.\n47. When did the Lego brick become as a creative form of toy?",
+    "options": [
+      "1958",
+      "1947",
+      "1934",
+      "1932"
+    ],
+    "answerIndex": 0,
+    "explanation": "兒子 Godtfred 看到積木成為創意遊戲系統的潛力，花多年改良，1958 年現代卡榫式積木終於研發成功並取得專利。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-eng-48",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 46-49 題組】\nThe Lego Group had a very humble beginning in the workshop of Ole Kirk Christiansen, a carpenter from Denmark. Christiansen began creating wooden toys in 1932. Two years later, he stumbled on the Lego name by putting together the first two letters of the Danish words Leg and Godt, which mean \"play well.\" The name could be interpreted as \"I put together\" in Latin; it also corresponds to the Greek verb meaning \"gather\" or \"pick up.\"\n\nIn 1947, the company expanded to making plastic toys. At first, the use of plastic for toy manufacture was not highly regarded by retailers and consumers of the time. Many of the Lego Group's shipments were returned, following poor sales. However, Christiansen's son, Godtfred Kirk Christiansen, saw the immense potential in Lego bricks to become a system for creative play. As the junior managing director of the Lego Group, he spent years trying to improve the \"locking\" ability of the bricks and made the bricks more versatile. In 1958, the modern interlocking brick design was finally developed and patented.\n\nToday Lego is sold in more than 130 countries. Every minute 33,824 Lego bricks are made, and kids around the world spend 5 billion hours a year playing with Lego. There will be more than 400 million people playing with Lego bricks this year. On average, every person in the world owns 62 Lego bricks, and about seven Lego sets are sold every second.\n\nThis year Lego fans all over the world are celebrating the 50th anniversary of the tiny building blocks. Though already 50 years old, Lego is still the same product it was in the 1950s. Bricks bought then are still compatible with current bricks and that is probably the reason the toy has never fallen out of favor.\n48. Which of the following is true in describing the popularity of Lego?",
+    "options": [
+      "More than 5 billion people in the world own Lego sets.",
+      "Children spend an average of 62 dollars on Lego bricks each year.",
+      "People in the world spend 400 million hours playing with Lego every year.",
+      "The Lego Group now produces more than 30 thousand toy bricks every minute."
+    ],
+    "answerIndex": 3,
+    "explanation": "每分鐘生產 33,824 塊積木。\n(A) 50 億是每年遊玩的小時數；(B) 62 是平均每人擁有的積木塊數；(C) 4 億是今年玩樂高的人數。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-eng-49",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 46-49 題組】\nThe Lego Group had a very humble beginning in the workshop of Ole Kirk Christiansen, a carpenter from Denmark. Christiansen began creating wooden toys in 1932. Two years later, he stumbled on the Lego name by putting together the first two letters of the Danish words Leg and Godt, which mean \"play well.\" The name could be interpreted as \"I put together\" in Latin; it also corresponds to the Greek verb meaning \"gather\" or \"pick up.\"\n\nIn 1947, the company expanded to making plastic toys. At first, the use of plastic for toy manufacture was not highly regarded by retailers and consumers of the time. Many of the Lego Group's shipments were returned, following poor sales. However, Christiansen's son, Godtfred Kirk Christiansen, saw the immense potential in Lego bricks to become a system for creative play. As the junior managing director of the Lego Group, he spent years trying to improve the \"locking\" ability of the bricks and made the bricks more versatile. In 1958, the modern interlocking brick design was finally developed and patented.\n\nToday Lego is sold in more than 130 countries. Every minute 33,824 Lego bricks are made, and kids around the world spend 5 billion hours a year playing with Lego. There will be more than 400 million people playing with Lego bricks this year. On average, every person in the world owns 62 Lego bricks, and about seven Lego sets are sold every second.\n\nThis year Lego fans all over the world are celebrating the 50th anniversary of the tiny building blocks. Though already 50 years old, Lego is still the same product it was in the 1950s. Bricks bought then are still compatible with current bricks and that is probably the reason the toy has never fallen out of favor.\n49. What is most likely the reason why Lego still remains popular?",
+    "options": [
+      "Old Lego bricks may still be connected to new ones.",
+      "The company hasn't changed its name since 1947.",
+      "The material for the bricks has proved to be safe.",
+      "The price of the toy is relatively reasonable."
+    ],
+    "answerIndex": 0,
+    "explanation": "1950 年代買的積木至今仍與新積木相容，這可能就是它從不退流行的原因。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-eng-50",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 50-53 題組】\nDuring my ninth-grade year, I suffered from anorexia nervosa. It was not enough to be thin. I had to be the thinnest. Now, however, fully recovered, I can reflect back and realize that my wishes were more complex than fitting into size five pants. Many of my subconscious emotions were related to my relationship with my father. As I was growing up, his work always came first. Sometimes I would not see him for up to two weeks. Not only did he devote his whole self to his work, but he expected me to do the same (\"You cannot get anywhere unless you go to the best universities!\"). Though, consciously, I never felt pressure to please him, I began dieting after the first time he told me I looked fat.\n\nAt the time, all I knew was that I had to be skinny--skinnier than anyone else. Every month my father went to Europe for a week or so and on the days he left, sorrow and emptiness consumed me: Daddy was leaving. Then, I turned to focus on a mysterious weakness--a helpless childlike emotion that came from starving. I liked to know that I needed to be taken care of; maybe Daddy would take care of me.\n\nNow, two years later and thirty-eight pounds heavier, I have come to realize that I cannot alter my father's inability to express his feelings. Instead, I must accept myself. I know that I am a valuable person who strives to achieve and accomplish. But I cannot strive solely for others. By starving, I attempted to gain pride in myself by obtaining my father's approval or acknowledgment of my value as a person. But the primary approval must come from me, and I feel secure now that I can live with that knowledge safely locked in my mind.\n50. What is \"anorexia nervosa\" as mentioned in the first paragraph?",
+    "options": [
+      "It is an inability to express one's feelings.",
+      "It describes a situation of feeling insecure.",
+      "It refers to people who are emotionally unstable.",
+      "It is an illness that makes one want to stop eating."
+    ],
+    "answerIndex": 3,
+    "explanation": "作者說她非瘦不可、要最瘦，靠挨餓節食，康復後重了 38 磅，可知 anorexia nervosa 是神經性厭食症。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-eng-51",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 50-53 題組】\nDuring my ninth-grade year, I suffered from anorexia nervosa. It was not enough to be thin. I had to be the thinnest. Now, however, fully recovered, I can reflect back and realize that my wishes were more complex than fitting into size five pants. Many of my subconscious emotions were related to my relationship with my father. As I was growing up, his work always came first. Sometimes I would not see him for up to two weeks. Not only did he devote his whole self to his work, but he expected me to do the same (\"You cannot get anywhere unless you go to the best universities!\"). Though, consciously, I never felt pressure to please him, I began dieting after the first time he told me I looked fat.\n\nAt the time, all I knew was that I had to be skinny--skinnier than anyone else. Every month my father went to Europe for a week or so and on the days he left, sorrow and emptiness consumed me: Daddy was leaving. Then, I turned to focus on a mysterious weakness--a helpless childlike emotion that came from starving. I liked to know that I needed to be taken care of; maybe Daddy would take care of me.\n\nNow, two years later and thirty-eight pounds heavier, I have come to realize that I cannot alter my father's inability to express his feelings. Instead, I must accept myself. I know that I am a valuable person who strives to achieve and accomplish. But I cannot strive solely for others. By starving, I attempted to gain pride in myself by obtaining my father's approval or acknowledgment of my value as a person. But the primary approval must come from me, and I feel secure now that I can live with that knowledge safely locked in my mind.\n51. Why did the writer suffer from anorexia nervosa?",
+    "options": [
+      "She was told by her father to take care of herself.",
+      "She wanted to go to the best university.",
+      "She wanted her father's attention.",
+      "She grew up in a poor family."
+    ],
+    "answerIndex": 2,
+    "explanation": "父親工作至上、常不在家；她藉著挨餓產生需要被照顧的感覺，希望父親照顧她、肯定她。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-eng-52",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 50-53 題組】\nDuring my ninth-grade year, I suffered from anorexia nervosa. It was not enough to be thin. I had to be the thinnest. Now, however, fully recovered, I can reflect back and realize that my wishes were more complex than fitting into size five pants. Many of my subconscious emotions were related to my relationship with my father. As I was growing up, his work always came first. Sometimes I would not see him for up to two weeks. Not only did he devote his whole self to his work, but he expected me to do the same (\"You cannot get anywhere unless you go to the best universities!\"). Though, consciously, I never felt pressure to please him, I began dieting after the first time he told me I looked fat.\n\nAt the time, all I knew was that I had to be skinny--skinnier than anyone else. Every month my father went to Europe for a week or so and on the days he left, sorrow and emptiness consumed me: Daddy was leaving. Then, I turned to focus on a mysterious weakness--a helpless childlike emotion that came from starving. I liked to know that I needed to be taken care of; maybe Daddy would take care of me.\n\nNow, two years later and thirty-eight pounds heavier, I have come to realize that I cannot alter my father's inability to express his feelings. Instead, I must accept myself. I know that I am a valuable person who strives to achieve and accomplish. But I cannot strive solely for others. By starving, I attempted to gain pride in myself by obtaining my father's approval or acknowledgment of my value as a person. But the primary approval must come from me, and I feel secure now that I can live with that knowledge safely locked in my mind.\n52. Which of the following statements is true about the writer?",
+    "options": [
+      "She has problems controlling her tempers.",
+      "She is proud of herself for working hard to succeed.",
+      "She has had great confidence in herself since childhood.",
+      "She has changed her father's way of expressing himself."
+    ],
+    "answerIndex": 1,
+    "explanation": "她說自己是努力追求成就、有價值的人，並且現在肯定自己。\n(C) 她過去靠父親認可來建立自尊；(D) 她說無法改變父親。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-eng-53",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 50-53 題組】\nDuring my ninth-grade year, I suffered from anorexia nervosa. It was not enough to be thin. I had to be the thinnest. Now, however, fully recovered, I can reflect back and realize that my wishes were more complex than fitting into size five pants. Many of my subconscious emotions were related to my relationship with my father. As I was growing up, his work always came first. Sometimes I would not see him for up to two weeks. Not only did he devote his whole self to his work, but he expected me to do the same (\"You cannot get anywhere unless you go to the best universities!\"). Though, consciously, I never felt pressure to please him, I began dieting after the first time he told me I looked fat.\n\nAt the time, all I knew was that I had to be skinny--skinnier than anyone else. Every month my father went to Europe for a week or so and on the days he left, sorrow and emptiness consumed me: Daddy was leaving. Then, I turned to focus on a mysterious weakness--a helpless childlike emotion that came from starving. I liked to know that I needed to be taken care of; maybe Daddy would take care of me.\n\nNow, two years later and thirty-eight pounds heavier, I have come to realize that I cannot alter my father's inability to express his feelings. Instead, I must accept myself. I know that I am a valuable person who strives to achieve and accomplish. But I cannot strive solely for others. By starving, I attempted to gain pride in myself by obtaining my father's approval or acknowledgment of my value as a person. But the primary approval must come from me, and I feel secure now that I can live with that knowledge safely locked in my mind.\n53. What's the writer's purpose of writing this passage?",
+    "options": [
+      "To blame her father.",
+      "To report a case of child abuse.",
+      "To reflect on a stage of growing up.",
+      "To teach people how to lose weight."
+    ],
+    "answerIndex": 2,
+    "explanation": "作者回顧九年級時罹患厭食症的經歷與心路歷程，反思成長中的一段時期。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-eng-54",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 54-56 題組】\nAfrica is a land of many ethnic groups, but when Europeans carved Africa into colonies, they gave no consideration to the territories of African ethnic groups. Some borderlines were drawn that split same groups into different colonies. Other borders threw different groups together. Sometimes the groups thrown together were enemies.\n\nWhen the colonies became independent nations, these same borderlines were often maintained. Today, the Somali people remain split among Ethiopia, Kenya, Somalia, and Djibouti. On the other hand, almost every African nation is home to more than one ethnic group. In Nigeria, for example, live the Hausa, the Fulani, the Yoruba, the Ibo, and many smaller groups.\n\nConflicts have arisen over the way in which ethnic groups were split apart and thrown together. For example, a war between Somalia and Ethiopia was fought because Somalis wanted all their people to be a part of one nation. A civil war in Nigeria, on the other hand, was triggered partly by conflicts between ethnic groups within that nation. Similar conflicts between ethnic groups arose in Chad, Zaire, and Burundi as well. One principal goal among African nations today, therefore, is to help make it possible for their many ethnic groups to live together in peace.\n54. What happened to the territorial lines drawn in Africa by the Europeans?",
+    "options": [
+      "They disappeared as the Europeans no longer ruled the colonies.",
+      "They were respected by different ethnic groups.",
+      "They became borders between countries.",
+      "They became war memorials."
+    ],
+    "answerIndex": 2,
+    "explanation": "殖民地獨立建國後，這些界線往往沿用，成為國界。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-eng-55",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 54-56 題組】\nAfrica is a land of many ethnic groups, but when Europeans carved Africa into colonies, they gave no consideration to the territories of African ethnic groups. Some borderlines were drawn that split same groups into different colonies. Other borders threw different groups together. Sometimes the groups thrown together were enemies.\n\nWhen the colonies became independent nations, these same borderlines were often maintained. Today, the Somali people remain split among Ethiopia, Kenya, Somalia, and Djibouti. On the other hand, almost every African nation is home to more than one ethnic group. In Nigeria, for example, live the Hausa, the Fulani, the Yoruba, the Ibo, and many smaller groups.\n\nConflicts have arisen over the way in which ethnic groups were split apart and thrown together. For example, a war between Somalia and Ethiopia was fought because Somalis wanted all their people to be a part of one nation. A civil war in Nigeria, on the other hand, was triggered partly by conflicts between ethnic groups within that nation. Similar conflicts between ethnic groups arose in Chad, Zaire, and Burundi as well. One principal goal among African nations today, therefore, is to help make it possible for their many ethnic groups to live together in peace.\n55. What does the author think to be a reason for conflicts among the Africans?",
+    "options": [
+      "Most ethnic groups have established their own countries.",
+      "One ethnic group is broken up among different countries.",
+      "Some Europeans invaded Africa to increase their colonies.",
+      "African nations fought the Europeans to expand their territories."
+    ],
+    "answerIndex": 1,
+    "explanation": "同一族群被分割到不同國家（如索馬利人想統一而與衣索比亞開戰），是衝突的原因之一。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-eng-56",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "英文",
+    "type": "single",
+    "points": 2,
+    "question": "【閱讀測驗 54-56 題組】\nAfrica is a land of many ethnic groups, but when Europeans carved Africa into colonies, they gave no consideration to the territories of African ethnic groups. Some borderlines were drawn that split same groups into different colonies. Other borders threw different groups together. Sometimes the groups thrown together were enemies.\n\nWhen the colonies became independent nations, these same borderlines were often maintained. Today, the Somali people remain split among Ethiopia, Kenya, Somalia, and Djibouti. On the other hand, almost every African nation is home to more than one ethnic group. In Nigeria, for example, live the Hausa, the Fulani, the Yoruba, the Ibo, and many smaller groups.\n\nConflicts have arisen over the way in which ethnic groups were split apart and thrown together. For example, a war between Somalia and Ethiopia was fought because Somalis wanted all their people to be a part of one nation. A civil war in Nigeria, on the other hand, was triggered partly by conflicts between ethnic groups within that nation. Similar conflicts between ethnic groups arose in Chad, Zaire, and Burundi as well. One principal goal among African nations today, therefore, is to help make it possible for their many ethnic groups to live together in peace.\n56. What is the best title for the passage?",
+    "options": [
+      "War and Peace in Africa",
+      "Africa: Borderlines Misplaced",
+      "European Colonization of Africa",
+      "Africa Recovered and Reconstructed"
+    ],
+    "answerIndex": 1,
+    "explanation": "全文談歐洲人劃分殖民地時不顧族群分布，界線劃錯導致族群衝突。\n\n故選 (B)"
   }
 ]
