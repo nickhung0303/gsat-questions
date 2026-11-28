@@ -232978,5 +232978,303 @@
       "36"
     ],
     "explanation": "在 $\\triangle ABE$ 中：$\\angle BAE = 15^\\circ$、$\\angle ABE = 60^\\circ - 15^\\circ = 45^\\circ$，$\\angle AEB = 120^\\circ$。正弦定理：\n$\\overline{AE} = \\dfrac{\\sin45^\\circ}{\\sin120^\\circ} = \\dfrac{\\sqrt2}{\\sqrt3}$，$\\overline{BE} = \\dfrac{\\sin15^\\circ}{\\sin120^\\circ}$。\n由對稱，$\\overline{AD} = \\overline{BE}$，所以\n$$\\overline{DE} = \\overline{AE} - \\overline{AD} = \\frac{\\sqrt2 - 2\\sin15^\\circ}{\\sqrt3} = \\frac{3\\sqrt2 - \\sqrt6}{2\\sqrt3} = \\frac{\\sqrt6}{2} - \\frac{\\sqrt2}{2}$$"
+  },
+  {
+    "id": "103-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 在坐標平面上，圓 $x^2 + y^2 + 2x - 2y + 1 = 0$ 與 $y = |2x + 1|$ 的圖形有幾個交點？",
+    "options": [
+      "1 個",
+      "2 個",
+      "3 個",
+      "4 個",
+      "0 個"
+    ],
+    "answerIndex": 3,
+    "explanation": "圓：$(x + 1)^2 + (y - 1)^2 = 1$。\n• 右支 $y = 2x + 1$（$x \\ge -\\dfrac12$）：代入得 $5x^2 + 2x = 0$，$x = 0$ 或 $-\\dfrac25$，都 $\\ge -\\dfrac12$，2 個。\n• 左支 $y = -2x - 1$（$x \\le -\\dfrac12$）：代入得 $5(x + 1)^2 = 1$，$x = -1 \\pm \\dfrac{1}{\\sqrt5}$，都 $\\le -\\dfrac12$，2 個。\n共 4 個。\n\n故選 (D)"
+  },
+  {
+    "id": "103-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 在地面某定點測得數公里外高塔塔尖的仰角為 $\\theta_1$，朝高塔方向沿直線前進 100 公尺之後，重新測得塔尖仰角為 $\\theta_2$，再沿同一直線繼續前進 100 公尺後，測得仰角為 $\\theta_3$。請問下列哪一個選項的數值依序成等差數列？",
+    "options": [
+      "$\\theta_1, \\theta_2, \\theta_3$",
+      "$\\sin\\theta_1, \\sin\\theta_2, \\sin\\theta_3$",
+      "$\\cos\\theta_1, \\cos\\theta_2, \\cos\\theta_3$",
+      "$\\tan\\theta_1, \\tan\\theta_2, \\tan\\theta_3$",
+      "$\\cot\\theta_1, \\cot\\theta_2, \\cot\\theta_3$"
+    ],
+    "answerIndex": 4,
+    "explanation": "塔高 $h$，三處到塔底的水平距離 $d$、$d - 100$、$d - 200$ 成等差。$\\cot\\theta = \\dfrac{\\text{距離}}{h}$，所以 $\\cot\\theta_1, \\cot\\theta_2, \\cot\\theta_3$ 成等差（公差 $-\\dfrac{100}{h}$）。\n\n故選 (E)"
+  },
+  {
+    "id": "103-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 請問指數方程式 $2^{10^x} = 10^6$ 的解 $x$ 最接近下列哪一個選項？（$\\log2 \\approx 0.3010$、$\\log3 \\approx 0.4771$、$\\log7 \\approx 0.8451$）",
+    "options": [
+      "1.1",
+      "1.2",
+      "1.3",
+      "1.4",
+      "1.5"
+    ],
+    "answerIndex": 2,
+    "explanation": "取對數：$10^x\\log2 = 6$，$10^x = \\dfrac{6}{0.3010} \\approx 19.93$，$x = \\log19.93 \\approx 1 + \\log2 = 1.30$。\n\n故選 (C)"
+  },
+  {
+    "id": "103-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "4. 令多項式 $2(x + 1)^n$ 除以 $(3x - 2)^n$ 所得餘式的常數項為 $r_n$。請問極限 $\\displaystyle\\lim_{n\\to\\infty}r_n$ 為下列哪一選項？",
+    "options": [
+      "0",
+      "$\\dfrac32$",
+      "2",
+      "3",
+      "不存在"
+    ],
+    "answerIndex": 2,
+    "explanation": "令 $t = 3x - 2$，$x + 1 = \\dfrac{t + 5}{3}$：$2(x + 1)^n = \\dfrac{2}{3^n}(t + 5)^n$。除以 $t^n$ 的餘式是去掉 $t^n$ 項：$r(x) = \\dfrac{2}{3^n}\\left[(t + 5)^n - t^n\\right]$。\n常數項 $= r(0)$（$x = 0$ 時 $t = -2$）$= \\dfrac{2}{3^n}\\left[3^n - (-2)^n\\right] = 2\\left[1 - \\left(-\\dfrac23\\right)^n\\right] \\to 2$。\n\n故選 (C)"
+  },
+  {
+    "id": "103-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 給定向量 $\\vec u = (2, 2, 1)$，請選出正確的選項：",
+    "options": [
+      "可找到向量 $\\vec v$ 使得 $\\vec u\\cdot\\vec v = \\sqrt2$",
+      "可找到向量 $\\vec v$ 使得 $\\vec u\\times\\vec v = (1, 3, 4)$",
+      "若非零向量 $\\vec v$ 滿足 $|\\vec u\\cdot\\vec v| = 2|\\vec v|$，則 $\\vec u\\times\\vec v = \\vec 0$",
+      "若非零向量 $\\vec v$ 滿足 $|\\vec u\\times\\vec v| = 3|\\vec v|$，則 $\\vec u\\cdot\\vec v = 0$",
+      "若向量 $\\vec v$ 滿足 $\\vec u\\cdot\\vec v = 0$ 且 $\\vec u\\times\\vec v = \\vec 0$，則 $\\vec v = \\vec 0$"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "$|\\vec u| = 3$。\n• (A) 正確：例如 $\\vec v = \\left(\\dfrac{\\sqrt2}{2}, 0, 0\\right)$。\n• (B) 錯誤：外積必垂直 $\\vec u$，但 $(1, 3, 4)\\cdot(2, 2, 1) = 12 \\ne 0$。\n• (C) 錯誤：$|\\cos\\theta| = \\dfrac23$，不平行，外積不為零。\n• (D) 正確：$\\sin\\theta = 1$，垂直。\n• (E) 正確：既垂直又平行，只能是零向量。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "103-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 考慮多項式函數 $f(x) = 4x^3 - 11x^2 + 6x$。請選出正確的選項：",
+    "options": [
+      "函數 $f$ 的圖形在點 $(1, -1)$ 的切線斜率為正",
+      "函數 $f$ 的圖形與直線 $y = 1$ 交於三點",
+      "函數 $f$ 的唯一相對極小值為 $\\dfrac{-9}{4}$",
+      "$f(\\pi) > 0$",
+      "$f\\left(\\cos\\dfrac{4\\pi}{7}\\right) > 0$"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "$f(x) = x(4x - 3)(x - 2)$，$f'(x) = 2(3x - 1)(2x - 3)$。\n• (A) 錯誤：$f'(1) = -4$。\n• (B) 錯誤：相對極大值 $f\\left(\\dfrac13\\right) = \\dfrac{25}{27} < 1$，$y = 1$ 只交一點。\n• (C) 正確：$f\\left(\\dfrac32\\right) = -\\dfrac94$。\n• (D) 正確：$\\pi > 2$，三個因式都正。\n• (E) 錯誤：$\\cos\\dfrac{4\\pi}{7} < 0$，而 $x < 0$ 時三個因式都負，$f < 0$。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "103-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 職業棒球季後賽第一輪採五戰三勝制，當參賽甲、乙兩隊中有一隊贏得三場比賽時，就由該隊晉級而賽事結束。每場比賽皆須分出勝負，且每場比賽的勝負皆不受之前已賽結果影響。假設甲隊在任一場贏球的機率為定值 $p$，以 $f(p)$ 表實際比賽場數的期望值（其中 $0 \\le p \\le 1$），請選出正確的選項：",
+    "options": [
+      "只須比賽 3 場就產生晉級球隊的機率為 $p^3 + (1 - p)^3$",
+      "$f(p)$ 是 $p$ 的 5 次多項式",
+      "$f(p)$ 的常數項等於 3",
+      "函數 $f(p)$ 在 $p = \\dfrac12$ 時有最大值",
+      "$f\\left(\\dfrac14\\right) < f\\left(\\dfrac45\\right)$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "令 $q = 1 - p$、$s = pq$：\n$P(3) = p^3 + q^3 = 1 - 3s$；$P(4) = 3p^3q + 3pq^3 = 3s(1 - 2s)$；$P(5) = 6p^2q^2 = 6s^2$。\n$f = 3(1 - 3s) + 12s(1 - 2s) + 30s^2 = 3 + 3s + 6s^2$。\n• (A) 正確。\n• (B) 錯誤：$s$ 是二次，$f$ 是 4 次。\n• (C) 正確：$f(0) = 3$。\n• (D) 正確：$f$ 隨 $s$ 遞增，$s = pq$ 在 $p = \\dfrac12$ 最大。\n• (E) 錯誤：$s\\left(\\dfrac14\\right) = \\dfrac{3}{16} > s\\left(\\dfrac45\\right) = \\dfrac{4}{25}$，所以 $f\\left(\\dfrac14\\right) > f\\left(\\dfrac45\\right)$。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "103-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 考慮 $x, y, z$ 的方程組 $\\begin{cases} 2^x - 3^y + 5^z = -1 \\\\ 2^{x+1} + 3^y - 5^z = 4 \\\\ 2^{x+1} + 3^{y+1} + a5^z = 8 \\end{cases}$，其中 $a$ 為實數。請選出正確的選項：",
+    "options": [
+      "若 $(x, y, z)$ 為此方程組的解，則 $x = 0$",
+      "若 $(x, y, z)$ 為此方程組的解，則 $y > 0$",
+      "若 $(x, y, z)$ 為此方程組的解，則 $y < z$",
+      "當 $a \\ne -3$ 時，恰有一組 $(x, y, z)$ 滿足此方程組",
+      "當 $a = -3$ 時，滿足此方程組的所有解 $(x, y, z)$ 會在一條直線上"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "令 $X = 2^x, Y = 3^y, Z = 5^z$（皆為正）：$X - Y + Z = -1$、$2X + Y - Z = 4$、$2X + 3Y + aZ = 8$。\n前兩式相加 $3X = 3$，$X = 1$；再得 $Y = Z + 2$；代入第三式 $(a + 3)Z = 0$。\n• (A) 正確：$x = 0$。\n• (B) 正確：$Y = Z + 2 > 2$，$y > \\log_32 > 0$。\n• (C) 錯誤：例如 $z = 0$ 時 $Y = 3$，$y = 1 > z$。\n• (D) 錯誤：$a \\ne -3$ 時 $Z = 0$，不可能，無解。\n• (E) 錯誤：$a = -3$ 時解為 $\\left(0, \\log_3(5^z + 2), z\\right)$，不是直線。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "103-ast-ma-09",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "9. 在（凸）四邊形 $ABCD$ 中，已知 $\\overline{AB} = 3$，$\\overline{BC} = 4$，$\\overline{CD} = 3$，$\\overline{DA} = x$，且對角線 $\\overline{AC} = 4$。請選出正確的選項：",
+    "options": [
+      "$\\cos\\angle ABC \\ge \\dfrac37$",
+      "$\\cos\\angle BAD > \\cos\\angle ABC$",
+      "$x$ 可能為 1",
+      "$x < \\dfrac{13}{2}$",
+      "若 $A$、$B$、$C$、$D$ 四點共圓，則 $x = \\dfrac74$"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "$\\triangle ABC$：$\\overline{AC} = \\overline{BC} = 4$，$\\cos\\angle ABC = \\cos\\angle BAC = \\dfrac{9}{24} = \\dfrac38$；$\\cos\\angle BCA = \\dfrac{23}{32}$。\n• (A) 錯誤：$\\dfrac38 < \\dfrac37$。\n• (B) 錯誤：$\\angle BAD > \\angle BAC = \\angle ABC$，餘弦較小。\n• (C) 錯誤：$4 = 3 + 1$，$\\triangle ACD$ 退化。\n• (D) 正確：凸四邊形需 $\\angle BCA + \\angle ACD < 180^\\circ$，$\\cos\\angle ACD = \\dfrac{25 - x^2}{24} > -\\dfrac{23}{32}$，$x^2 < 42.25$，$x < \\dfrac{13}{2}$。\n• (E) 正確：共圓時 $\\cos D = -\\cos B = -\\dfrac38$，$16 = 9 + x^2 + \\dfrac94x$，$4x^2 + 9x - 28 = 0$，$x = \\dfrac74$。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "103-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "A. 如圖，設 $ABCD\\text{-}EFGH$ 為空間中長、寬、高分別為 2、3、5 的長方體。已知 $\\overline{AB} = 2$、$\\overline{AD} = \\overline{BC} = 3$，且 $\\overline{DH} = 5$，則內積 $\\overrightarrow{AH}\\cdot\\overrightarrow{AC}$ 之值為 ⑩。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/103-ast-ma-A.png\" alt=\"長方體 ABCD-EFGH，ABCD 為上底，E、F、G、H 分別在 A、B、C、D 正下方\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "9"
+    ],
+    "blankLabels": [
+      "10"
+    ],
+    "explanation": "令 $\\vec u = \\overrightarrow{AB}$、$\\vec v = \\overrightarrow{AD}$、$\\vec w = \\overrightarrow{DH}$ 兩兩垂直。\n$\\overrightarrow{AH} = \\vec v + \\vec w$，$\\overrightarrow{AC} = \\vec u + \\vec v$，內積 $= |\\vec v|^2 = 9$。"
+  },
+  {
+    "id": "103-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "B. 在遊戲中，阿玲拿到如右的數字卡。主持人隨機從 1 至 9 號球中同時取出三球，若這三球的號碼中任兩個都不在卡片上的同一行也不在卡片上的同一列時就得獎，則阿玲得獎的機率為 $\\dfrac{⑪}{⑫⑬}$。（化成最簡分數）",
+    "svg": "<svg viewBox=\"0 0 136 128\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:163.2px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"44\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"24\" y=\"29.333333333333332\" fill=\"#ffeb3b\" font-size=\"16\" text-anchor=\"middle\">1</text><rect x=\"46\" y=\"4\" width=\"44\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"68\" y=\"29.333333333333332\" fill=\"#ffeb3b\" font-size=\"16\" text-anchor=\"middle\">2</text><rect x=\"90\" y=\"4\" width=\"44\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"29.333333333333332\" fill=\"#ffeb3b\" font-size=\"16\" text-anchor=\"middle\">3</text><rect x=\"2\" y=\"44\" width=\"44\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"24\" y=\"69.33333333333333\" fill=\"#ffffff\" font-size=\"16\" text-anchor=\"middle\">8</text><rect x=\"46\" y=\"44\" width=\"44\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"68\" y=\"69.33333333333333\" fill=\"#ffffff\" font-size=\"16\" text-anchor=\"middle\">9</text><rect x=\"90\" y=\"44\" width=\"44\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"69.33333333333333\" fill=\"#ffffff\" font-size=\"16\" text-anchor=\"middle\">4</text><rect x=\"2\" y=\"84\" width=\"44\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"24\" y=\"109.33333333333333\" fill=\"#ffffff\" font-size=\"16\" text-anchor=\"middle\">7</text><rect x=\"46\" y=\"84\" width=\"44\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"68\" y=\"109.33333333333333\" fill=\"#ffffff\" font-size=\"16\" text-anchor=\"middle\">6</text><rect x=\"90\" y=\"84\" width=\"44\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"109.33333333333333\" fill=\"#ffffff\" font-size=\"16\" text-anchor=\"middle\">5</text></svg>",
+    "blanks": [
+      "1",
+      "1",
+      "4"
+    ],
+    "blankLabels": [
+      "11",
+      "12",
+      "13"
+    ],
+    "explanation": "三球分別在三列、三行，相當於每列選一格且行互不相同：$3! = 6$ 種。總數 $\\dbinom93 = 84$。\n機率 $\\dfrac{6}{84} = \\dfrac{1}{14}$。"
+  },
+  {
+    "id": "103-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】在坐標平面上以 $\\Omega$ 表示曲線 $y = x - x^2$ 與直線 $y = 0$ 所圍的有界區域。試回答下列問題。\n(1) 試求 $\\Omega$ 的面積。（3 分）",
+    "points": 3,
+    "blanks": [
+      "$\\dfrac16$"
+    ],
+    "blankLabels": [
+      "面積"
+    ],
+    "explanation": "$\\displaystyle\\int_0^1(x - x^2)\\,dx = \\frac12 - \\frac13 = \\frac16$。"
+  },
+  {
+    "id": "103-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】在坐標平面上以 $\\Omega$ 表示曲線 $y = x - x^2$ 與直線 $y = 0$ 所圍的有界區域。試回答下列問題。\n(2) 若直線 $y = cx$ 將 $\\Omega$ 分成面積相等的兩塊區域，試求 $c$ 之值。（7 分）",
+    "points": 7,
+    "blanks": [
+      "$c = 1 - \\dfrac{1}{\\sqrt[3]{2}}$"
+    ],
+    "blankLabels": [
+      "c"
+    ],
+    "explanation": "直線與曲線交於 $x = 0$、$x = 1 - c$。兩者之間的區域面積\n$$\\int_0^{1-c}(x - x^2 - cx)\\,dx = \\frac{(1 - c)^3}{6}$$\n要等於 $\\dfrac{1}{12}$：$(1 - c)^3 = \\dfrac12$，$c = 1 - \\dfrac{1}{\\sqrt[3]{2}}$。"
+  },
+  {
+    "id": "103-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】對於正整數 $n$，設 $(1 + i)^n = a_n + ib_n$，其中 $i = \\sqrt{-1}$ 且 $a_n$、$b_n$ 為實數。試回答下列問題。\n(1) 試求 $a_4^2 + b_4^2$ 之值。（2 分）",
+    "points": 2,
+    "blanks": [
+      "16"
+    ],
+    "blankLabels": [
+      "值"
+    ],
+    "explanation": "$a_4^2 + b_4^2 = |(1 + i)^4|^2 = (\\sqrt2)^8 = 16$。"
+  },
+  {
+    "id": "103-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】對於正整數 $n$，設 $(1 + i)^n = a_n + ib_n$，其中 $i = \\sqrt{-1}$ 且 $a_n$、$b_n$ 為實數。試回答下列問題。\n(2) 從恆等式 $(1 + i)^{n+1} = (1 + i)^n(1 + i)$ 可推得 $a_n$、$b_n$ 會滿足矩陣乘法 $\\begin{bmatrix} a_{n+1} \\\\ b_{n+1} \\end{bmatrix} = T\\begin{bmatrix} a_n \\\\ b_n \\end{bmatrix}$，試求矩陣 $T$。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$T = \\begin{bmatrix} 1 & -1 \\\\ 1 & 1 \\end{bmatrix}$"
+    ],
+    "blankLabels": [
+      "T"
+    ],
+    "explanation": "$(a_n + ib_n)(1 + i) = (a_n - b_n) + i(a_n + b_n)$，所以 $a_{n+1} = a_n - b_n$、$b_{n+1} = a_n + b_n$，$T = \\begin{bmatrix} 1 & -1 \\\\ 1 & 1 \\end{bmatrix}$。"
+  },
+  {
+    "id": "103-ast-ma-non-2-3",
+    "examType": "分科/指考",
+    "year": 103,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】對於正整數 $n$，設 $(1 + i)^n = a_n + ib_n$，其中 $i = \\sqrt{-1}$ 且 $a_n$、$b_n$ 為實數。試回答下列問題。\n(3) 令 $P$、$Q$ 為坐標平面上異於原點 $O$ 的兩點，若矩陣 $T$ 在平面上定義的線性變換將 $P$、$Q$ 分別映射到點 $P'$、$Q'$，試證 $\\dfrac{\\overline{OP'}}{\\overline{OP}} = \\dfrac{\\overline{OQ'}}{\\overline{OQ}}$ 且 $\\angle POQ = \\angle P'OQ'$。（8 分）",
+    "points": 8,
+    "blanks": [
+      "$T = \\sqrt2\\begin{bmatrix} \\cos45^\\circ & -\\sin45^\\circ \\\\ \\sin45^\\circ & \\cos45^\\circ \\end{bmatrix}$：旋轉 $45^\\circ$ 再放大 $\\sqrt2$ 倍"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "$T = \\sqrt2\\begin{bmatrix} \\cos45^\\circ & -\\sin45^\\circ \\\\ \\sin45^\\circ & \\cos45^\\circ \\end{bmatrix}$，是以原點為中心旋轉 $45^\\circ$ 再伸縮 $\\sqrt2$ 倍。\n• 每個向量長度都乘 $\\sqrt2$：$\\dfrac{\\overline{OP'}}{\\overline{OP}} = \\dfrac{\\overline{OQ'}}{\\overline{OQ}} = \\sqrt2$。\n• 兩向量同時旋轉 $45^\\circ$，夾角不變。也可直接驗證：$P(a, b)$、$Q(c, d)$ 時 $\\overrightarrow{OP'}\\cdot\\overrightarrow{OQ'} = 2(ac + bd) = 2\\,\\overrightarrow{OP}\\cdot\\overrightarrow{OQ}$，除以長度乘積（也是原來的 2 倍），餘弦相同。"
   }
 ]
