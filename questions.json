@@ -245878,5 +245878,233 @@
       "範圍"
     ],
     "explanation": "$x = 0$ 不是根。$x \\ne 0$ 時方程式等價於 $4m = h(x) = 3x + \\dfrac1{x^3}$。\n$x > 0$：$h'(x) = 3 - \\dfrac3{x^4}$，在 $x = 1$ 有最小值 4，值域 $[4, \\infty)$；$h$ 為奇函數，$x < 0$ 時值域 $(-\\infty, -4]$。\n無實根 ⇔ $-4 < 4m < 4$，即 $-1 < m < 1$。"
+  },
+  {
+    "id": "91-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "1. 方程式 $x^4 - 4x^3 - 3x^2 + x + 1 = 0$ 在下列哪兩個整數之間有實數根？",
+    "options": [
+      "$-3$ 與 $-2$ 之間",
+      "$-2$ 與 $-1$ 之間",
+      "$-1$ 與 0 之間",
+      "0 與 1 之間",
+      "1 與 2 之間"
+    ],
+    "answerIndex": 3,
+    "explanation": "$f(-3) = 160$、$f(-2) = 35$、$f(-1) = 2$、$f(0) = 1$、$f(1) = -4$、$f(2) = -25$。只有 0 與 1 之間變號。\n\n故選 (D)"
+  },
+  {
+    "id": "91-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "2. 下圖顯示民國 88、89 及 90 年三個年度所調查之台灣北、中、南、東部地區國民對自己生活的滿意程度（資料來源：內政部統計處「國民生活狀況調查報告」）。為比較各地區國民對自己生活滿意程度的差異，以東部地區國民之滿意度為基準，計算各年度中其他三地相對於當年度東部地區國民的「相對生活滿意度」。例如：88 年度中部地區的相對生活滿意度為 74.6/79.1 ≈ 94.31%；89 年度北部地區的相對生活滿意度為 73.3/73.2 ≈ 100.14%。下列關於各地區國民生活滿意度的敘述，何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/91-ast-mb-02.png\" alt=\"北中南東滿意度：88 年 75.4、74.6、77.6、79.1；89 年 73.3、73.8、71.6、73.2；90 年 63.3、61.9、60.0、64.1\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "北部地區國民的「相對生活滿意度」在 88—90 年三年中，以 90 年度為最低",
+      "中部地區國民的「相對生活滿意度」在 88—90 年三年中逐年降低",
+      "南部地區國民的「相對生活滿意度」在 88—90 年三年中，以 90 年度為最低",
+      "在 88—90 年三年中，四地區國民間生活滿意度的差異在 90 年度達到最低",
+      "在 88—90 年三年中，四地區國民間生活滿意度的差異逐年增加"
+    ],
+    "answerIndex": 2,
+    "explanation": "相對滿意度（北、中、南）：88 年 95.3%、94.3%、98.1%；89 年 100.1%、100.8%、97.8%；90 年 98.8%、96.6%、93.6%。\n• (A) ✗：北部最低在 88 年。\n• (B) ✗：中部 89 年上升。\n• (C) ✓：南部 90 年 93.6% 最低。\n• (D)(E) ✗：四地最大差距 88 年 4.5、89 年 2.2、90 年 4.1，以 89 年最小。\n\n故選 (C)"
+  },
+  {
+    "id": "91-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "A. 前行政院長提出知識經濟，喊出 10 年內要讓台灣 double（加倍），一般小市民希望第 11 年開始的薪水加倍。如果每年調薪 $a\\%$，其中 $a$ 為整數，欲達成小市民的希望，那麼 $a$ 的最小值為 ③。（參考數值：$\\log2 \\approx 0.3010$；$\\log(1 + 0.01x)$ 當 $x = 1, 2, \\ldots, 9$ 時依序約為 0.0043、0.0086、0.0128、0.0170、0.0212、0.0253、0.0294、0.0334、0.0374）",
+    "blanks": [
+      "8"
+    ],
+    "blankLabels": [
+      "3"
+    ],
+    "explanation": "10 次調薪後加倍：$10\\log(1 + 0.01a) \\ge 0.3010$，$\\log(1 + 0.01a) \\ge 0.0301$。$a = 7$ 時 0.0294 不足，$a = 8$ 時 0.0334 可以。"
+  },
+  {
+    "id": "91-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "B. 設一橢圓方程式為 $\\dfrac{x^2}{a^2} + \\dfrac{y^2}{b^2} = 1$，其中 $a > 0$，$b > 0$，F 為它的一個焦點。已知此橢圓在 $x$ 軸上的兩個頂點與 F 的距離分別為 5 單位及 1 單位，如下圖 B 所示。則 $(a, b) = $ (④, $\\sqrt{⑤}$)。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/91-ast-mb-B.png\" alt=\"圖 B：橢圓，焦點 F、F′ 在 x 軸上\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "3",
+      "5"
+    ],
+    "blankLabels": [
+      "4",
+      "5"
+    ],
+    "explanation": "$a + c = 5$、$a - c = 1$，$a = 3$、$c = 2$，$b = \\sqrt{9 - 4} = \\sqrt5$。"
+  },
+  {
+    "id": "91-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "C. 如下圖 C 所示，一個大的正八角星的頂點為周圍八個全等的小正八角星中心，相鄰的兩個小八角星有一個共同的頂點。觀察圖中虛線部分，設小八角星頂點 C 到其中心 A 的距離為 $a$，大八角星頂點 A 到其中心 O 的距離為 $b$。試問 $a : b$ 的比值為 $\\dfrac{\\sqrt{⑥ - \\sqrt{⑦}}}2$。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/91-ast-mb-C.png\" alt=\"圖 C：大正八角星，頂點 A、B 為相鄰兩個小八角星的中心，C 為它們的共同頂點\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "2",
+      "2"
+    ],
+    "blankLabels": [
+      "6",
+      "7"
+    ],
+    "explanation": "相鄰兩頂點 $A$、$B$ 對 $O$ 張 $45^\\circ$，$\\overline{AB} = 2b\\sin22.5^\\circ$。共同頂點 $C$ 由對稱性落在 $\\overline{AB}$ 中點，$a = \\overline{AC} = b\\sin22.5^\\circ$。\n$\\sin22.5^\\circ = \\sqrt{\\dfrac{1 - \\cos45^\\circ}2} = \\dfrac{\\sqrt{2 - \\sqrt2}}2$。"
+  },
+  {
+    "id": "91-ast-mb-D",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "D. 因乾旱水源不足自來水公司計畫在下週一至週日的 7 天中選擇 2 天停止供水。若要求停水的兩天不相連，則自來水公司共有多少種選擇方式？答：⑧⑨ 種。",
+    "blanks": [
+      "1",
+      "5"
+    ],
+    "blankLabels": [
+      "8",
+      "9"
+    ],
+    "explanation": "$\\dbinom72 - 6 = 15$（扣掉相鄰的 6 對）。"
+  },
+  {
+    "id": "91-ast-mb-E",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "E. 用單位長的不銹鋼條焊接如下圖系列的四面體鐵架，圖中的小圈圈「。」表示焊接點，圖 E_1 有兩層共 4 個焊接點，圖 E_2 有三層共 10 個焊接點，圖 E_3 有四層共 20 個焊接點。試問依此規律，推算圖 E_5 有六層共多少焊接點？答：⑩⑪ 個。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/91-ast-mb-E.png\" alt=\"四面體鐵架 E_1、E_2、E_3\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "5",
+      "6"
+    ],
+    "blankLabels": [
+      "10",
+      "11"
+    ],
+    "explanation": "第 $k$ 層（由上往下）有 $1 + 2 + \\cdots + k = \\dfrac{k(k + 1)}2$ 個點：1、3、6、10、15、21。六層共 56 個。"
+  },
+  {
+    "id": "91-ast-mb-F",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "F. 有一鋼架結構，其底面為邊長 2 單位的正八邊形，上面為邊長 2 單位的正方形，側面有四個正方形及四個正三角形（如下圖 F_1）。從此鋼架上方作正射影，可得（如下圖 F_2）所示的圖形。則此鋼架的高度為 $\\sqrt{⑫}$ 單位。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/91-ast-mb-F.png\" alt=\"圖 F_1 鋼架立體圖與圖 F_2 俯視圖\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "2"
+    ],
+    "blankLabels": [
+      "12"
+    ],
+    "explanation": "由俯視圖，正方形的邊到八邊形對應邊的水平距離是 $\\sqrt2$（八邊形中心到邊 $1 + \\sqrt2$，正方形中心到邊 1）。側面正方形邊長 2，高度 $\\sqrt{2^2 - (\\sqrt2)^2} = \\sqrt2$。"
+  },
+  {
+    "id": "91-ast-mb-non-1",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】某公司考慮在甲、乙兩地間選擇一地投資開設新廠。經評估，在甲地設廠，如獲利，預計可獲利 10000（萬元）；如不獲利，預計將虧損 7000（萬元）。在乙地設廠，如獲利，預計可獲利 6000（萬元）；如不獲利，預計將虧損 5000（萬元）。又該公司評估新廠在甲、乙兩地獲利的機率分別為 0.6、0.7。如以獲利期望值為決策準則，該公司應選擇甲地或乙地投資？寫出作決策的過程。（10 分）",
+    "points": 10,
+    "blanks": [
+      "甲地（期望值 3200 萬元 > 2700 萬元）"
+    ],
+    "blankLabels": [
+      "決策"
+    ],
+    "explanation": "甲：$0.6\\times10000 - 0.4\\times7000 = 3200$（萬元）；乙：$0.7\\times6000 - 0.3\\times5000 = 2700$（萬元）。甲的期望值較大，選甲地。"
+  },
+  {
+    "id": "91-ast-mb-non-2",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某歌唱訓練班根據以往的經驗得知：每花 10 萬元在報章雜誌上替歌手打廣告可以提升歌手的形象指數 5 點，知名度指數 10 點；反之，若是在電台上，同樣花 10 萬元替歌手打廣告，則可以提升歌手的形象指數 6 點，知名度指數 4 點。根據市場調查發現成為名歌星的形象指數至少 160 點，知名度指數亦至少 160 點，而且綜合指數（形象指數與知名度指數的和）至少 360 點。\n試問：歌唱訓練班要讓一位新歌手（假設其形象指數與知名度指數皆為 0）成為名歌星至少應該花多少廣告費？這些廣告費報章雜誌與電台應各分配多少，效果最好。（請在坐標平面上畫圖求解）（14 分）",
+    "points": 14,
+    "blanks": [
+      "至少 290 萬元：報章雜誌 140 萬、電台 150 萬"
+    ],
+    "blankLabels": [
+      "廣告費"
+    ],
+    "explanation": "設報章雜誌 $x$ 個 10 萬、電台 $y$ 個 10 萬：$5x + 6y \\ge 160$，$10x + 4y \\ge 160$，$15x + 10y \\ge 360$，$x, y \\ge 0$，求 $x + y$ 最小。\n可行區域頂點：$(0, 40)$、$(4, 30)$、$(14, 15)$、$(32, 0)$，$x + y$ 依序為 40、34、29、32。\n最小在 $(14, 15)$：共 290 萬元，報章雜誌 140 萬、電台 150 萬。"
+  },
+  {
+    "id": "91-ast-mb-non-3-1",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題三】設數列 $\\langle a_n\\rangle$ 的第 $n$ 項 $a_n$ 為 $a_n = \\dfrac{1 + \\sqrt{8n - 7}}2$（$n \\ge 1$）。\n(1) 依序列出 $a_2$、$a_3$、$a_4$、$a_5$、$a_6$、$a_7$ 的值。（6 分）",
+    "points": 6,
+    "blanks": [
+      "$2, \\dfrac{1 + \\sqrt{17}}2, 3, \\dfrac{1 + \\sqrt{33}}2, \\dfrac{1 + \\sqrt{41}}2, 4$"
+    ],
+    "blankLabels": [
+      "各項"
+    ],
+    "explanation": "$8n - 7$ 依序為 9、17、25、33、41、49。"
+  },
+  {
+    "id": "91-ast-mb-non-3-2",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題三】設數列 $\\langle a_n\\rangle$ 的第 $n$ 項 $a_n$ 為 $a_n = \\dfrac{1 + \\sqrt{8n - 7}}2$（$n \\ge 1$）。\n(2) 設 $k$ 為一正整數，試說明 $k^2 - k$ 必為偶數。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$k^2 - k = k(k - 1)$ 是連續兩整數之積"
+    ],
+    "blankLabels": [
+      "說明"
+    ],
+    "explanation": "$k$ 與 $k - 1$ 中恰有一個是偶數，乘積為偶數。"
+  },
+  {
+    "id": "91-ast-mb-non-3-3",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題三】設數列 $\\langle a_n\\rangle$ 的第 $n$ 項 $a_n$ 為 $a_n = \\dfrac{1 + \\sqrt{8n - 7}}2$（$n \\ge 1$）。\n(3) 設 $k$ 為一正整數，試證明在數列 $\\langle a_n\\rangle$ 中，可以找到一個項 $a_m$ 使 $a_m = k$。（6 分）",
+    "points": 6,
+    "blanks": [
+      "取 $m = \\dfrac{k^2 - k}2 + 1$"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "由 (2)，$m = \\dfrac{k^2 - k}2 + 1$ 是正整數。$8m - 7 = 4k^2 - 4k + 1 = (2k - 1)^2$，所以 $a_m = \\dfrac{1 + (2k - 1)}2 = k$。"
   }
 ]
