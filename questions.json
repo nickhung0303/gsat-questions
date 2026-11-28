@@ -256756,5 +256756,822 @@
       "環境變遷"
     ],
     "explanation": "造礁珊瑚只生長在海面附近，不同高度珊瑚礁的年代可以重建當地海平面升降的歷史。"
+  },
+  {
+    "id": "93-ast-geo-01",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-3 為題組\n東南亞國協（東協）擁有十一個會員國，為亞太經濟板塊重要的一部份。請問：\n\n東協最早的五個會員國—泰國、馬來西亞、菲律賓、印尼和新加坡之共同特徵為何？",
+    "options": [
+      "均曾為西方國家的殖民地",
+      "族群宗教文化複雜多元的國家",
+      "農、礦產資源豐富的國家",
+      "都市體系均呈首要型都市型態"
+    ],
+    "answerIndex": 1,
+    "explanation": "五國都有多元族群與宗教（如馬來、華人、印度人；伊斯蘭教、佛教、天主教）。泰國未曾被殖民；新加坡缺乏農礦資源；新加坡是城市國家。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-geo-02",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-3 為題組\n東南亞國協（東協）擁有十一個會員國，為亞太經濟板塊重要的一部份。請問：\n\n東協內部達成合作共識的最主要原因為何？甲、宗教文化複雜，企求透過合作，促使區域穩定；乙、農礦產互補性高，會員國間之貿易可共創利潤；丙、藉著政治上之結盟，逐步向西方資本陣營靠攏；丁、藉由區域整合，以因應新的全球經濟秩序發展",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "甲丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "各國族群宗教複雜，合作可維持區域穩定（甲）；面對全球化與其他區域組織，需要整合以提升競爭力（丁）。各國產品相似，互補性低。\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-geo-03",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-3 為題組\n東南亞國協（東協）擁有十一個會員國，為亞太經濟板塊重要的一部份。請問：\n\n東協的國家在今日亞太經濟板塊所扮演的最主要角色為何？",
+    "options": [
+      "與技術先進的日本有競爭的功能",
+      "與勞力眾多的中國有互補的可能",
+      "是亞洲地區產品的最主要市場所在",
+      "是重要農礦與勞力資源之所在"
+    ],
+    "answerIndex": 3,
+    "explanation": "東協國家提供熱帶栽培作物、礦產（錫、石油）與大量勞力，在亞太分工中是重要的原料與勞力來源。\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-geo-04",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "4-5 為題組\n澳洲與紐西蘭在地理環境和開發史上有許多共同點，但也有些相異之處。請問：\n\n有關兩地的相同之處，下列何者不正確？",
+    "options": [
+      "早期曾為大英帝國的殖民地",
+      "人口大多集中在沿海的都市地區",
+      "毛利人是人數最多的原住民",
+      "畜牧產品的外銷是重要的經濟來源"
+    ],
+    "answerIndex": 2,
+    "explanation": "毛利人是紐西蘭的原住民；澳洲的原住民是澳洲原住民（Aborigines）。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-geo-05",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "4-5 為題組\n澳洲與紐西蘭在地理環境和開發史上有許多共同點，但也有些相異之處。請問：\n\n有關兩地的相異之處，下列何者不正確？",
+    "options": [
+      "澳洲內陸擁有廣大低平的沙漠，紐西蘭內陸則崎嶇多山",
+      "澳洲南部有溫帶地中海型氣候，紐西蘭南部則有溫帶海洋性氣候",
+      "澳洲東岸人口多於西岸，紐西蘭則是北島人口多於南島",
+      "澳洲目前的經貿對象以歐盟為主，紐西蘭則以亞太地區國家為主"
+    ],
+    "answerIndex": 3,
+    "explanation": "澳洲和紐西蘭目前的主要貿易對象都是亞太國家（日本、中國、美國等），不是歐盟。\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-geo-06",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "6-7 為題組\n2004年5月1日起，歐盟由原來的15個會員國，擴大成25個會員國。請問：\n\n在新加入的10國中，哪些國家原為華沙公約組織的會員國？",
+    "options": [
+      "波蘭、立陶宛、匈牙利",
+      "匈牙利、捷克、波蘭",
+      "捷克、波蘭、立陶宛",
+      "拉脫維亞、匈牙利、捷克"
+    ],
+    "answerIndex": 1,
+    "explanation": "波蘭、匈牙利、捷克（原捷克斯洛伐克）是華沙公約成員。立陶宛、拉脫維亞當時是蘇聯的一部分，不是獨立會員國。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-geo-07",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "6-7 為題組\n2004年5月1日起，歐盟由原來的15個會員國，擴大成25個會員國。請問：\n\n在新加入的10國中，哪些國家在歷史上從未建國，直至1990年後才獨立成國？",
+    "options": [
+      "賽浦路斯、馬爾它",
+      "馬爾它、斯洛維尼亞",
+      "斯洛維尼亞、斯洛伐克",
+      "斯洛伐克、賽浦路斯"
+    ],
+    "answerIndex": 2,
+    "explanation": "斯洛維尼亞 1991 年自南斯拉夫獨立，斯洛伐克 1993 年自捷克斯洛伐克分出，兩者都是首次建國。賽浦路斯、馬爾它在 1960 年代已獨立。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-geo-08",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "8-9 為題組\n冰島素有「冰與火的世界」之稱，自然環境惡劣，但能源豐富，得以發展溫室農業以及多元化的工業，使得該國成為生活品質名列全球前20名之內的國家。請問：\n\n冰島都市近郊處處可見的溫室，其能源為何？",
+    "options": [
+      "地熱",
+      "水力",
+      "沼氣",
+      "天然氣"
+    ],
+    "answerIndex": 0,
+    "explanation": "冰島位於中洋脊上，火山與地熱豐富，溫室以地熱供暖。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-geo-09",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "8-9 為題組\n冰島素有「冰與火的世界」之稱，自然環境惡劣，但能源豐富，得以發展溫室農業以及多元化的工業，使得該國成為生活品質名列全球前20名之內的國家。請問：\n\n水力為重要的能源之一，使得冰島全年有雨、降水量高的最主要因素為何？",
+    "options": [
+      "冷暖流交會處",
+      "位於極圈氣旋帶",
+      "輻射強烈多對流雨",
+      "山高谷低多地形雨"
+    ],
+    "answerIndex": 1,
+    "explanation": "冰島位在副極地低壓帶，西風帶氣旋頻繁經過，全年多鋒面氣旋雨。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-geo-10",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "10-11 為題組\n一生態學家在非洲某村落進行生態調查，他由水源所在地的抽水井出發，向外沿同一方向前進。發現植被從水井往外呈同心圓式的分布：水井附近土地是光禿和堅硬的，到距井200公尺左右，出現稀疏且乾硬的雜草，250公尺左右是帶刺的灌木叢，以外到1公里左右，才是一些相隔甚遠的草本植物群及灌木。請問：\n\n上述調查區的植物分布型態，最可能是下列哪種人類活動所引起的？",
+    "options": [
+      "過牧",
+      "濫墾",
+      "濫伐",
+      "濫採"
+    ],
+    "answerIndex": 0,
+    "explanation": "牲畜集中到水井飲水，愈靠近水井踐踏與啃食愈嚴重，植被由井向外呈同心圓退化，是過度放牧所致。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-geo-11",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "10-11 為題組\n一生態學家在非洲某村落進行生態調查，他由水源所在地的抽水井出發，向外沿同一方向前進。發現植被從水井往外呈同心圓式的分布：水井附近土地是光禿和堅硬的，到距井200公尺左右，出現稀疏且乾硬的雜草，250公尺左右是帶刺的灌木叢，以外到1公里左右，才是一些相隔甚遠的草本植物群及灌木。請問：\n\n上述植被景觀最可能出現在下列非洲的哪個地區？",
+    "options": [
+      "尼羅河中游",
+      "尚比西河中游",
+      "剛果河中游",
+      "尼日河中游"
+    ],
+    "answerIndex": 3,
+    "explanation": "尼日河中游流經撒哈拉南緣的撒赫爾地區，半乾燥草原上游牧盛行，過牧導致沙漠化。尼羅河中游是沙漠；剛果河中游是熱帶雨林；尚比西河中游是較濕潤的莽原。\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-geo-12",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "12-13 為題組\n1960年代以來，墨西哥北部邊境工業區吸引了數千家外商投資，創造了近百萬的工作機會。墨國對外商提供基礎設施及稅務等優惠，並允許免稅出口。此合作模式吸引大量人口移入，卻突顯出邊境都市設施匱乏，環境問題與流行疾病接踵而來。請問：\n\n促成美墨邊界區成為重要工業所在地的最重要原因為何？",
+    "options": [
+      "勞力資源豐富",
+      "原料資源豐富",
+      "電力價格低廉",
+      "接近國際市場"
+    ],
+    "answerIndex": 0,
+    "explanation": "美國企業利用墨西哥便宜而充足的勞力，在邊境設加工廠（maquiladora），產品再免稅回銷美國。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-geo-13",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "12-13 為題組\n1960年代以來，墨西哥北部邊境工業區吸引了數千家外商投資，創造了近百萬的工作機會。墨國對外商提供基礎設施及稅務等優惠，並允許免稅出口。此合作模式吸引大量人口移入，卻突顯出邊境都市設施匱乏，環境問題與流行疾病接踵而來。請問：\n\n美墨邊界區傳染性疾病流行的最主要原因為何？甲、人口密度是墨國最高之處；乙、高溫多雨潮濕的氣候所致；丙、人與人接觸頻繁密集所致；丁、人民醫療知識與設備不足；戊、都市水源與水質的品質低落",
+    "options": [
+      "甲乙丁",
+      "甲丙戊",
+      "乙丙丁",
+      "丙丁戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "大量移民擁擠居住，接觸頻繁（丙），醫療設施不足（丁），供水與衛生設施匱乏（戊）。美墨邊界屬乾燥氣候；墨國人口密度最高處在首都墨西哥城。\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-geo-14",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "14-15 為題組\n過去中南美洲國家受殖民帝國影響，如今則在跨國企業與國際貿易的不平等交換下，使得貧窮與貧富不均成為普遍的現象，大量人口由鄉村移入都市。請問：\n\n跨國企業對拉丁美洲國家的產業結構造成下列哪些影響？甲、農業以單一或少數農作為主；乙、農業產品以外銷先進國家為主；丙、農礦產資源的開採以內需為主；丁、農礦產的初級加工是主要的製造業；戊、產業呈一級與三級為主的發展",
+    "options": [
+      "甲乙丙",
+      "甲乙丁",
+      "乙丁戊",
+      "丙丁戊"
+    ],
+    "answerIndex": 1,
+    "explanation": "跨國企業經營單一作物的栽培業（甲），產品外銷先進國家（乙），當地製造業以農礦產初級加工為主（丁）。資源開採以外銷為主。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-geo-15",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "14-15 為題組\n過去中南美洲國家受殖民帝國影響，如今則在跨國企業與國際貿易的不平等交換下，使得貧窮與貧富不均成為普遍的現象，大量人口由鄉村移入都市。請問：\n\n拉丁美洲國家內部區域發展不均的最重要原因為何？甲、貧民窟結集於都市中心及外圍；乙、外資投資集中於首要型都市；丙、土地所有權集中於少數地主；丁、首要型都市與都市環境惡化；戊、交通條件與資源分布不均",
+    "options": [
+      "甲乙戊",
+      "乙丙丁",
+      "乙丙戊",
+      "甲丁戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "外資集中在首要都市（乙）、土地集中於少數地主使鄉村貧窮（丙）、交通與資源分布不均（戊），造成區域發展差距。貧民窟、都市環境惡化是結果而不是原因。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-geo-16",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "16-17 為題組\n以下為二則有關近年來中國東北農業變遷的報導：\n資料一：東北曾是世界著名的商品大豆產區。1949年後轉以內銷為主，是中國主要食用油的來源。自加入WTO後，2001年江蘇省某榨油廠即進口美國大豆1396萬噸，約相當於中國一年的大豆產量，同年東北大豆卻有七成積壓在農村。\n資料二：黑（龍江）省某食品公司推出無污染的小包裝小米，銷售遍及全省各超市；黑省稻米適合日、韓人口味，故水稻種植面積增加；黑省北安市有農民給人家端盤子，後來端出自己的酒店；有農民上船當漁工，沒幾年當了幾條漁船的老板；有人憑一把剪刀剪出自己的製衣廠，….。請問：\n\n<svg viewBox=\"0 0 394 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:472.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"190\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\"></text><rect x=\"192\" y=\"4\" width=\"100\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">東北大豆</text><rect x=\"292\" y=\"4\" width=\"100\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">美國大豆</text><rect x=\"2\" y=\"32\" width=\"190\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">生產成本(元／每公斤)</text><rect x=\"192\" y=\"32\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.6</text><rect x=\"292\" y=\"32\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.8</text><rect x=\"2\" y=\"60\" width=\"190\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">運輸(元／每公斤)</text><rect x=\"192\" y=\"60\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.045</text><rect x=\"292\" y=\"60\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.04</text><rect x=\"2\" y=\"88\" width=\"190\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">出油率(%)</text><rect x=\"192\" y=\"88\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">17</text><rect x=\"292\" y=\"88\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">20</text><rect x=\"2\" y=\"116\" width=\"190\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">加工成本(元／每公噸)</text><rect x=\"192\" y=\"116\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"242\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10+X</text><rect x=\"292\" y=\"116\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">X</text></svg>\n註：X為美國大豆每公噸的加工成本。\n\n表1為東北和美國進口大豆的部分產銷成本調查。依據表中所列的成本數據，上述榨油廠若要生產3400公斤食用油，使用美國大豆會比東北大豆節省多少成本？",
+    "options": [
+      "(18820＋3X)元",
+      "(13855＋3X)元",
+      "(20300＋3X)元",
+      "(25500＋3X)元"
+    ],
+    "answerIndex": 0,
+    "explanation": "東北大豆出油率 17%，需大豆 $3400 \\div 0.17 = 20000$ 公斤 = 20 公噸，成本 $20000 \\times (1.6 + 0.045) + 20(10 + X) = 33100 + 20X$。美國大豆出油率 20%，需 17000 公斤 = 17 公噸，成本 $17000 \\times 0.84 + 17X = 14280 + 17X$。相差 $18820 + 3X$ 元。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-geo-17",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "16-17 為題組\n以下為二則有關近年來中國東北農業變遷的報導：\n資料一：東北曾是世界著名的商品大豆產區。1949年後轉以內銷為主，是中國主要食用油的來源。自加入WTO後，2001年江蘇省某榨油廠即進口美國大豆1396萬噸，約相當於中國一年的大豆產量，同年東北大豆卻有七成積壓在農村。\n資料二：黑（龍江）省某食品公司推出無污染的小包裝小米，銷售遍及全省各超市；黑省稻米適合日、韓人口味，故水稻種植面積增加；黑省北安市有農民給人家端盤子，後來端出自己的酒店；有農民上船當漁工，沒幾年當了幾條漁船的老板；有人憑一把剪刀剪出自己的製衣廠，….。請問：\n\n由上述資料判斷，下列何者不是東北農業轉變的趨勢？",
+    "options": [
+      "發展生態農業",
+      "發展適應市場產品",
+      "農業就業人口數增加",
+      "擴大生產規模"
+    ],
+    "answerIndex": 2,
+    "explanation": "資料二提到農民轉去開餐廳、當漁船老闆、開製衣廠，農業人口是減少的。無污染小米是生態農業；種日韓口味的稻米是適應市場。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-geo-18",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "18-20 為題組\n甘肅省古浪縣黃羊川鄉海拔3500公尺，年雨量約300mm，為中國最貧困的農鄉之一。已故溫世仁先生創辦的某科技公司捐贈電腦給該鄉的黃羊川職業中學，透過網際網路師生接觸到各種外界資訊及教學資源，學生還設計了網頁，登載農民委託出售的農特產品，為當地帶來新的財源。請問：\n\n中國西部偏遠農村過去在農業產銷上所面臨的最主要困難應是下列哪些？甲、勞動力不足；乙、市場資訊封閉；丙、交通不便；丁、耕地不足",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "丁甲"
+    ],
+    "answerIndex": 1,
+    "explanation": "偏遠山區對外資訊閉塞（乙）、交通不便（丙），農產品難以銷售。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-geo-19",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "18-20 為題組\n甘肅省古浪縣黃羊川鄉海拔3500公尺，年雨量約300mm，為中國最貧困的農鄉之一。已故溫世仁先生創辦的某科技公司捐贈電腦給該鄉的黃羊川職業中學，透過網際網路師生接觸到各種外界資訊及教學資源，學生還設計了網頁，登載農民委託出售的農特產品，為當地帶來新的財源。請問：\n\n透過網路訂購並以郵政或貨運公司交貨的運銷方式，被認為有助於中國西部偏遠農村的發展，是因為它具有下列哪些優點？甲、農民可專業化大量生產農特產品；乙、農民可協調運作成為系統化的生產隊伍；丙、農民可少量多樣化生產農特產品；丁、農民可直接面對無地域障礙的廣大市場",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "丁甲"
+    ],
+    "answerIndex": 2,
+    "explanation": "網路行銷讓小農少量多樣的特產也能找到買家（丙），並直接接觸不受距離限制的市場（丁）。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-geo-20",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "18-20 為題組\n甘肅省古浪縣黃羊川鄉海拔3500公尺，年雨量約300mm，為中國最貧困的農鄉之一。已故溫世仁先生創辦的某科技公司捐贈電腦給該鄉的黃羊川職業中學，透過網際網路師生接觸到各種外界資訊及教學資源，學生還設計了網頁，登載農民委託出售的農特產品，為當地帶來新的財源。請問：\n\n以學校作為地方電子商務中心來行銷農特產品，被稱之為「以校領鄉」，其原因為何？",
+    "options": [
+      "學校的空間面積較大",
+      "學校為農村人才所在地",
+      "學校的交通位置適中",
+      "學校師生薪資較為便宜"
+    ],
+    "answerIndex": 1,
+    "explanation": "偏遠農村中，懂電腦與網路的人才集中在學校，由學校帶動鄉村發展。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-geo-21",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-22 為題組\n已開發國家和開發中國家的都市化和都市人口成長階段不同。圖1是2000年世界前六大都市(甲—己)，其1950、1970、2000和2015（推估）的人口柱狀圖。請問：\n\n哪個圖形是紐約的人口成長情形？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-21.png\" alt=\"圖1 六大都市人口（百萬人；依序為 1950、1970、2000、2015 推估）：甲 約 7、17、26、26；乙 約 3、9、18、19；丙 約 3、6、18、26；丁 約 3、8、18、20；戊 約 12、16、17、17.5；己 約 1、2.5、13.5、23\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "戊",
+      "丁",
+      "丙",
+      "甲"
+    ],
+    "answerIndex": 0,
+    "explanation": "已開發國家都市化早，1950 年人口已多，之後成長緩慢。戊 1950 年已約 1200 萬，之後幾乎持平，是紐約。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-geo-22",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-22 為題組\n已開發國家和開發中國家的都市化和都市人口成長階段不同。圖1是2000年世界前六大都市(甲—己)，其1950、1970、2000和2015（推估）的人口柱狀圖。請問：\n\n哪個圖形是拉哥斯(位於奈及利亞)的人口成長情形？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-21.png\" alt=\"圖1 六大都市人口（百萬人；依序為 1950、1970、2000、2015 推估）：甲 約 7、17、26、26；乙 約 3、9、18、19；丙 約 3、6、18、26；丁 約 3、8、18、20；戊 約 12、16、17、17.5；己 約 1、2.5、13.5、23\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "乙",
+      "丁",
+      "戊",
+      "己"
+    ],
+    "answerIndex": 3,
+    "explanation": "開發中國家都市人口晚近才快速成長。己 1950、1970 年人口很少，2000 年後急增，到 2015 年仍大幅成長，是拉哥斯。\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-geo-23",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "23-24 為題組\n鹹蛋超人住在24ºS 59ºW，有一天他想要拜訪住在地球另一端的麵包超人，並決定「遁地」前去。於是他從家中鑽入地底，始終保持直線前進並穿越地心。請問：\n\n當他鑽出地球另一端時，最可能看到下列何種景觀？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-23.png\" alt=\"四張景觀照片：(A) 茂密的竹林；(B) 乾燥山坡上的仙人掌與灌叢（沙漠景觀）；(C) 積雪地面上的針葉樹林；(D) 海岸邊成排的椰子樹\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖(A)",
+      "圖(B)",
+      "圖(C)",
+      "圖(D)"
+    ],
+    "answerIndex": 0,
+    "explanation": "穿過地心到達對蹠點：緯度變號為 24°N，經度為 $180° - 59° = 121°$E，位在臺灣中部，常見竹林。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-geo-24",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "23-24 為題組\n鹹蛋超人住在24ºS 59ºW，有一天他想要拜訪住在地球另一端的麵包超人，並決定「遁地」前去。於是他從家中鑽入地底，始終保持直線前進並穿越地心。請問：\n\n鹹蛋超人共花費3小時才穿透到地球的另一端，到達的時間為當地12月2日13時。鹹蛋超人由家中出發的當地時間為何？",
+    "options": [
+      "12月2日7時",
+      "12月1日19時",
+      "12月2日1時",
+      "12月1日22時"
+    ],
+    "answerIndex": 3,
+    "explanation": "出發時刻為臺灣時間 12 月 2 日 10 時。臺灣（121°E）用 UTC+8，59°W 約為 UTC−4，相差 12 小時，所以出發地當地時間是 12 月 1 日 22 時。\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-geo-25",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "25-26 為題組\n表2為14個樣區中，甲、乙、丙三個變數的觀察值。請問：\n\n<svg viewBox=\"0 0 274 368\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:328.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">樣區</text><rect x=\"62\" y=\"4\" width=\"70\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"132\" y=\"4\" width=\"70\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"202\" y=\"4\" width=\"70\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"2\" y=\"28\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"62\" y=\"28\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">200</text><rect x=\"132\" y=\"28\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.9</text><rect x=\"202\" y=\"28\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"2\" y=\"52\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"62\" y=\"52\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">280</text><rect x=\"132\" y=\"52\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.1</text><rect x=\"202\" y=\"52\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12</text><rect x=\"2\" y=\"76\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"62\" y=\"76\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">290</text><rect x=\"132\" y=\"76\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.9</text><rect x=\"202\" y=\"76\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10</text><rect x=\"2\" y=\"100\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"62\" y=\"100\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">310</text><rect x=\"132\" y=\"100\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.9</text><rect x=\"202\" y=\"100\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"2\" y=\"124\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"62\" y=\"124\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">340</text><rect x=\"132\" y=\"124\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.6</text><rect x=\"202\" y=\"124\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"2\" y=\"148\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"62\" y=\"148\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">560</text><rect x=\"132\" y=\"148\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.7</text><rect x=\"202\" y=\"148\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"2\" y=\"172\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"62\" y=\"172\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">570</text><rect x=\"132\" y=\"172\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.2</text><rect x=\"202\" y=\"172\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"2\" y=\"196\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"62\" y=\"196\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">590</text><rect x=\"132\" y=\"196\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.8</text><rect x=\"202\" y=\"196\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"2\" y=\"220\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"62\" y=\"220\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">630</text><rect x=\"132\" y=\"220\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.8</text><rect x=\"202\" y=\"220\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"2\" y=\"244\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10</text><rect x=\"62\" y=\"244\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">690</text><rect x=\"132\" y=\"244\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.4</text><rect x=\"202\" y=\"244\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"2\" y=\"268\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"284.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"62\" y=\"268\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"284.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">820</text><rect x=\"132\" y=\"268\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"284.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.5</text><rect x=\"202\" y=\"268\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"284.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"2\" y=\"292\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"308.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12</text><rect x=\"62\" y=\"292\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"308.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">840</text><rect x=\"132\" y=\"292\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"308.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"202\" y=\"292\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"308.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"2\" y=\"316\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"332.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13</text><rect x=\"62\" y=\"316\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"332.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">890</text><rect x=\"132\" y=\"316\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"332.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.4</text><rect x=\"202\" y=\"316\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"332.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"2\" y=\"340\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"356.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14</text><rect x=\"62\" y=\"340\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"356.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">950</text><rect x=\"132\" y=\"340\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"356.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11.2</text><rect x=\"202\" y=\"340\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"356.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text></svg>\n\n變數甲和變數丙間的相關係數(r)值為何？",
+    "options": [
+      "－0.74",
+      "－0.12",
+      "0.12",
+      "0.74"
+    ],
+    "answerIndex": 0,
+    "explanation": "甲由小到大時，丙大致由 10～12 降到 1～5，呈明顯的負相關，r 約 −0.74。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-geo-26",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "25-26 為題組\n表2為14個樣區中，甲、乙、丙三個變數的觀察值。請問：\n\n<svg viewBox=\"0 0 274 368\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:328.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">樣區</text><rect x=\"62\" y=\"4\" width=\"70\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"132\" y=\"4\" width=\"70\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"202\" y=\"4\" width=\"70\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"2\" y=\"28\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"62\" y=\"28\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">200</text><rect x=\"132\" y=\"28\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.9</text><rect x=\"202\" y=\"28\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"2\" y=\"52\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"62\" y=\"52\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">280</text><rect x=\"132\" y=\"52\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.1</text><rect x=\"202\" y=\"52\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12</text><rect x=\"2\" y=\"76\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"62\" y=\"76\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">290</text><rect x=\"132\" y=\"76\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.9</text><rect x=\"202\" y=\"76\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10</text><rect x=\"2\" y=\"100\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"62\" y=\"100\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">310</text><rect x=\"132\" y=\"100\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.9</text><rect x=\"202\" y=\"100\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"2\" y=\"124\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"62\" y=\"124\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">340</text><rect x=\"132\" y=\"124\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.6</text><rect x=\"202\" y=\"124\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"2\" y=\"148\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"62\" y=\"148\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">560</text><rect x=\"132\" y=\"148\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.7</text><rect x=\"202\" y=\"148\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"2\" y=\"172\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"62\" y=\"172\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">570</text><rect x=\"132\" y=\"172\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.2</text><rect x=\"202\" y=\"172\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"2\" y=\"196\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"62\" y=\"196\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">590</text><rect x=\"132\" y=\"196\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.8</text><rect x=\"202\" y=\"196\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"2\" y=\"220\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"62\" y=\"220\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">630</text><rect x=\"132\" y=\"220\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.8</text><rect x=\"202\" y=\"220\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"2\" y=\"244\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10</text><rect x=\"62\" y=\"244\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">690</text><rect x=\"132\" y=\"244\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.4</text><rect x=\"202\" y=\"244\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"2\" y=\"268\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"284.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"62\" y=\"268\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"284.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">820</text><rect x=\"132\" y=\"268\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"284.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.5</text><rect x=\"202\" y=\"268\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"284.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"2\" y=\"292\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"308.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12</text><rect x=\"62\" y=\"292\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"308.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">840</text><rect x=\"132\" y=\"292\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"308.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"202\" y=\"292\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"308.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"2\" y=\"316\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"332.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13</text><rect x=\"62\" y=\"316\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"332.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">890</text><rect x=\"132\" y=\"316\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"332.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.4</text><rect x=\"202\" y=\"316\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"332.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"2\" y=\"340\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"356.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14</text><rect x=\"62\" y=\"340\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"356.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">950</text><rect x=\"132\" y=\"340\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"356.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11.2</text><rect x=\"202\" y=\"340\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"356.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text></svg>\n\n甲、乙和丙三個變數依序最可能分別為何？",
+    "options": [
+      "測站污染濃度、測站與汙染源距離、測站風速",
+      "自殺案件數、失業率、癌症死亡率",
+      "海拔高度、溪流坡度、魚的種類數",
+      "降雨量、日照、氣溫"
+    ],
+    "answerIndex": 2,
+    "explanation": "甲為 200～950，像海拔（公尺）；海拔愈高，溪流坡度（乙）愈大，魚的種類（丙）愈少，符合表中趨勢。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-geo-27",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-28 為題組\nGIS疊圖分析時，布林運算元(含AND,OR,NOT,XOR四種運算)被利用來篩選符合條件的資料。圖2為布林運算元的示意圖，A、B二圓代表兩種資料，經布林運算後，灰色區域為符合條件的資料，白色區域為不符合條件的資料。若某地區有林地、保育地、坡地和建築用地四種土地利用類型。請問：\n\n下列敘述何者符合「XOR」的關係？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-27.png\" alt=\"圖2 布林運算示意（灰色為符合條件）：A AND B 只有兩圓重疊處為灰；A OR B 兩圓全部為灰；A NOT B 是 A 圓扣掉重疊處為灰；A XOR B 是兩圓各自不重疊的部分為灰、重疊處為白\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "坡地的建築用地，但非林地",
+      "林地或非坡地的保育地",
+      "林地或坡地，但非坡地的林地",
+      "林地的非保育地"
+    ],
+    "answerIndex": 2,
+    "explanation": "XOR 是「屬於 A 或 B，但不同時屬於兩者」。「林地或坡地，但非坡地的林地」即（林地 OR 坡地）扣掉（林地 AND 坡地），符合 XOR。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-geo-28",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-28 為題組\nGIS疊圖分析時，布林運算元(含AND,OR,NOT,XOR四種運算)被利用來篩選符合條件的資料。圖2為布林運算元的示意圖，A、B二圓代表兩種資料，經布林運算後，灰色區域為符合條件的資料，白色區域為不符合條件的資料。若某地區有林地、保育地、坡地和建築用地四種土地利用類型。請問：\n\n某公司要興建一個觀光飯店，用地的條件為「林地中的非保育地，且為非坡地的建築用地」，要滿足這些條件需使用那兩個布林運算元？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-27.png\" alt=\"圖2 布林運算示意（灰色為符合條件）：A AND B 只有兩圓重疊處為灰；A OR B 兩圓全部為灰；A NOT B 是 A 圓扣掉重疊處為灰；A XOR B 是兩圓各自不重疊的部分為灰、重疊處為白\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "AND、NOT",
+      "AND、OR",
+      "OR、NOT",
+      "OR、XOR"
+    ],
+    "answerIndex": 0,
+    "explanation": "「林地 NOT 保育地」、「建築用地 NOT 坡地」，兩者再取交集（AND）。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-geo-29",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "29-30 為題組\n海平面變化是一項「全球環境變遷」的重大議題。請問：\n\n造成全球海平面上升的主要原因，不包括下列哪項？",
+    "options": [
+      "海水因增溫而體積膨脹",
+      "南北極冰帽及高山冰川消融",
+      "北極海附近海面浮冰消融",
+      "陸地水域、植被和土壤水減少"
+    ],
+    "answerIndex": 2,
+    "explanation": "海面浮冰原本就浮在海中，排開的水量等於其重量，融化後不會使海平面上升。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-geo-30",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "29-30 為題組\n海平面變化是一項「全球環境變遷」的重大議題。請問：\n\n當全球的海平面顯著上升時，對臺灣會造成下列哪項最直接的環境衝擊？",
+    "options": [
+      "黑面琵鷺現有棲地面積縮減",
+      "附近海域珊瑚礁種類增加",
+      "南部沿海地區地層下陷量增加",
+      "各河川泥沙搬運量增加"
+    ],
+    "answerIndex": 0,
+    "explanation": "黑面琵鷺棲息在曾文溪口的潮間帶、潟湖與魚塭，海平面上升會淹沒這些低窪濕地。地層下陷是超抽地下水造成，與海平面無關。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-geo-31",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "31-33 為題組\n圖3為某流域管理單位由長年水文資料(1875-1975)所推算的洪水頻率曲線。但如以較近年代(1945-1975)的水文資料推算，則洪水頻率有提高的現象。請問：\n\n原百年一次的洪水位，在1945-1975年的洪水頻率曲線上其再現週期約為多少年？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-31.png\" alt=\"圖3 洪水頻率曲線（橫軸再現週期 1～100 年，對數刻度；縱軸水位 6～14 公尺）：「百年一次洪水位」約 13 公尺（點線），「開始出現災害的水位」10 公尺（虛線）；1945-1975 曲線在 1875-1975 曲線左上方。1875-1975 曲線在約 5 年達 10 公尺、100 年達 13 公尺；1945-1975 曲線在約 2 年達 10 公尺、約 50 年達 13 公尺\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "70年",
+      "50年",
+      "20年",
+      "10年"
+    ],
+    "answerIndex": 1,
+    "explanation": "百年一次洪水位約 13 公尺，1945-1975 曲線約在再現週期 50 年處達到此水位。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-geo-32",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "31-33 為題組\n圖3為某流域管理單位由長年水文資料(1875-1975)所推算的洪水頻率曲線。但如以較近年代(1945-1975)的水文資料推算，則洪水頻率有提高的現象。請問：\n\n開始出現災害的水位，在1945-1975年的洪水頻率曲線上，其再現週期較1875-1975年的洪水頻率曲線約縮短了多少年？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-31.png\" alt=\"圖3 洪水頻率曲線（橫軸再現週期 1～100 年，對數刻度；縱軸水位 6～14 公尺）：「百年一次洪水位」約 13 公尺（點線），「開始出現災害的水位」10 公尺（虛線）；1945-1975 曲線在 1875-1975 曲線左上方。1875-1975 曲線在約 5 年達 10 公尺、100 年達 13 公尺；1945-1975 曲線在約 2 年達 10 公尺、約 50 年達 13 公尺\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1年",
+      "3年",
+      "5年",
+      "7年"
+    ],
+    "answerIndex": 1,
+    "explanation": "10 公尺水位在 1875-1975 曲線上約 5 年一次，在 1945-1975 曲線上約 2 年一次，縮短約 3 年。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-geo-33",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "31-33 為題組\n圖3為某流域管理單位由長年水文資料(1875-1975)所推算的洪水頻率曲線。但如以較近年代(1945-1975)的水文資料推算，則洪水頻率有提高的現象。請問：\n\n如該流域的降雨量及降雨特性沒有變化，則近年洪水頻率提高的最可能原因為何？甲、河道疏濬；乙、旱田還牧；丙、水田轉作；丁、林地轉牧；戊、都市化；己、地下水禁用",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-31.png\" alt=\"圖3 洪水頻率曲線（橫軸再現週期 1～100 年，對數刻度；縱軸水位 6～14 公尺）：「百年一次洪水位」約 13 公尺（點線），「開始出現災害的水位」10 公尺（虛線）；1945-1975 曲線在 1875-1975 曲線左上方。1875-1975 曲線在約 5 年達 10 公尺、100 年達 13 公尺；1945-1975 曲線在約 2 年達 10 公尺、約 50 年達 13 公尺\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙丙",
+      "乙丙己",
+      "丙丁戊",
+      "甲戊己"
+    ],
+    "answerIndex": 2,
+    "explanation": "水田可蓄水，轉作旱作後蓄洪功能消失（丙）；森林改為牧地，截留與入滲減少（丁）；都市化使不透水面增加（戊），都使地表逕流增加、洪峰提高。河道疏濬可降低洪水位。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-geo-34",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "34-35 為題組\n為達成永續發展目標，臺灣許多自然風景區僅以門票為主要收入來源。請問：\n\n<svg viewBox=\"0 0 394 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:472.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">定價方案</text><rect x=\"92\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"152\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">門票價格(元)</text><rect x=\"212\" y=\"4\" width=\"180\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"302\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">遊客人數(萬人次／年)</text><rect x=\"2\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"92\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"152\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"212\" y=\"32\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"302\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">300</text><rect x=\"2\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"92\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"152\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">150</text><rect x=\"212\" y=\"60\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"302\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">200</text><rect x=\"2\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"92\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"152\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">200</text><rect x=\"212\" y=\"88\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"302\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"2\" y=\"116\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"92\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"152\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">250</text><rect x=\"212\" y=\"116\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"302\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">50</text></svg>\n\n有一面積為1500公頃的風景區擬全年開放，經營上需符合下列兩個條件：每日平均每公頃遊客不應超過2人，以及年營業收入最少應超過年維護成本1億5千萬元的20%。表3為此風景區預估門票定價與遊客人數關係表，若門票為唯一的收入來源，則經營者應選擇的門票定價是表3中的哪個方案？",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "遊客上限 $1500 \\times 2 \\times 365 = 1095000$ 人次，約 109.5 萬人次／年，所以甲（300 萬）、乙（200 萬）超量。收入需超過 1.5 億元的 20%，即 3000 萬元：丙為 200 元 × 100 萬人次 = 2 億元，丁為 250 元 × 50 萬人次 = 1.25 億元，都符合；丙收入較高，選丙。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-geo-35",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "34-35 為題組\n為達成永續發展目標，臺灣許多自然風景區僅以門票為主要收入來源。請問：\n\n風景區如冬山河親水公園、野柳風景區等亦無規劃付費遊樂設施，其最可能的考量為何？甲、地處偏僻員工不足；乙、遊憩活動過多環境污染增加；丙、收入不敷建設成本；丁、降低地景觀賞價值；戊、人工設施易破壞生態環境",
+    "options": [
+      "甲乙丙",
+      "甲丙戊",
+      "乙丙丁",
+      "乙丁戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "為了永續經營：遊樂活動多會增加污染（乙）、人工設施破壞自然景觀價值（丁）與生態（戊）。\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-geo-36",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n以下是某國中學生在臺灣某個聚落進行地理實察時，對耆老訪談的部分記錄：\n甲：小雜貨舖當時兼修漁網，它也是我們前往港邊海埔地摸蜆、抓魚的集合地點。\n乙：村子外向西到海埔地的路上沿途都是鹽田、魚塭，虱目魚是我們當時常吃的主菜。\n丙：沿著公路向南大約一公里，可以看到我所說的豐枯水期明顯的河川，那河邊的大榕樹下是我們小時候乘涼和吃西瓜的地方！\n學生訪談後做出結論：『本聚落從過去數十年以來，地理景觀已產生許多變化』。請問：\n\n從訪談的內容可以判斷上述題幹所指稱的河川最可能是下列哪條？",
+    "options": [
+      "高屏溪",
+      "曾文溪",
+      "濁水溪",
+      "頭前溪"
+    ],
+    "answerIndex": 1,
+    "explanation": "西側海埔地有鹽田、魚塭，以虱目魚為主菜，河川豐枯水期明顯，是臺南沿海，河川為曾文溪。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-geo-37",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n以下是某國中學生在臺灣某個聚落進行地理實察時，對耆老訪談的部分記錄：\n甲：小雜貨舖當時兼修漁網，它也是我們前往港邊海埔地摸蜆、抓魚的集合地點。\n乙：村子外向西到海埔地的路上沿途都是鹽田、魚塭，虱目魚是我們當時常吃的主菜。\n丙：沿著公路向南大約一公里，可以看到我所說的豐枯水期明顯的河川，那河邊的大榕樹下是我們小時候乘涼和吃西瓜的地方！\n學生訪談後做出結論：『本聚落從過去數十年以來，地理景觀已產生許多變化』。請問：\n\n若要明確的標示上述訪談所論及的各個地點，以哪種地圖最適合？",
+    "options": [
+      "1：5 000像片基本圖",
+      "1：10 000水文地質圖",
+      "1：50 000地形圖",
+      "1：100 000行政區圖"
+    ],
+    "answerIndex": 0,
+    "explanation": "雜貨舖、榕樹等小範圍地點，需要大比例尺且能顯示地物的五千分之一像片基本圖。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-geo-38",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n以下是某國中學生在臺灣某個聚落進行地理實察時，對耆老訪談的部分記錄：\n甲：小雜貨舖當時兼修漁網，它也是我們前往港邊海埔地摸蜆、抓魚的集合地點。\n乙：村子外向西到海埔地的路上沿途都是鹽田、魚塭，虱目魚是我們當時常吃的主菜。\n丙：沿著公路向南大約一公里，可以看到我所說的豐枯水期明顯的河川，那河邊的大榕樹下是我們小時候乘涼和吃西瓜的地方！\n學生訪談後做出結論：『本聚落從過去數十年以來，地理景觀已產生許多變化』。請問：\n\n上述野外實察訪談所得的資料與研究方法分屬下列何者？甲、歸納的研究；乙、演繹的研究；丙、第一手資料；丁、第二手資料；戊、計量分析研究；己、人地關係研究",
+    "options": [
+      "甲丁戊",
+      "乙丙戊",
+      "乙丁己",
+      "甲丙己"
+    ],
+    "answerIndex": 3,
+    "explanation": "親自訪談得到的是第一手資料（丙）；由各項訪談歸納出「地理景觀已產生許多變化」，是歸納研究（甲）；探討聚落居民與環境的變遷，屬人地關係研究（己）。\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-geo-non-1-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、圖4為一個溫帶地區的都市土地使用示意圖。\n\n1. 在靜風無雲的午夜時，觀測圖中ABCDE五個地點的地面氣溫，各地點氣溫由高到低的排列順序為何？（2 分）（順序顛倒或答案不完整不給分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-non1.png\" alt=\"圖4 都市土地使用剖面（0～8 公里）：A 在 0 公里（郊區綠地）；B 在 2 公里（市郊住宅區）；C 在 3 公里（商業區）；D 在 4 公里（市中心，高樓最密集）；E 在 6 公里（公園）\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "D＞C＞B＞E＞A"
+    ],
+    "blankLabels": [
+      "由高到低"
+    ],
+    "explanation": "市中心（D）建物密集、人為熱最多，氣溫最高；向外依序為商業區（C）、住宅區（B）；公園（E）有綠地水體，較涼；郊區綠地（A）最低。"
+  },
+  {
+    "id": "93-ast-geo-non-1-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、圖4為一個溫帶地區的都市土地使用示意圖。\n\n2. 造成ABCDE五個地點有顯著溫差的現象為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-non1.png\" alt=\"圖4 都市土地使用剖面（0～8 公里）：A 在 0 公里（郊區綠地）；B 在 2 公里（市郊住宅區）；C 在 3 公里（商業區）；D 在 4 公里（市中心，高樓最密集）；E 在 6 公里（公園）\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "都市熱島效應"
+    ],
+    "blankLabels": [
+      "現象"
+    ],
+    "explanation": "都市中心氣溫高於郊區，等溫線呈島狀，稱為都市熱島。"
+  },
+  {
+    "id": "93-ast-geo-non-1-3",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、圖4為一個溫帶地區的都市土地使用示意圖。\n\n3. 哪個季節該都市上述的溫差現象會最明顯？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-non1.png\" alt=\"圖4 都市土地使用剖面（0～8 公里）：A 在 0 公里（郊區綠地）；B 在 2 公里（市郊住宅區）；C 在 3 公里（商業區）；D 在 4 公里（市中心，高樓最密集）；E 在 6 公里（公園）\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "冬季"
+    ],
+    "blankLabels": [
+      "季節"
+    ],
+    "explanation": "溫帶都市冬季大量使用暖氣，人為熱最多，加上冬季夜長、輻射冷卻強，郊區降溫多，城郊溫差最大。"
+  },
+  {
+    "id": "93-ast-geo-non-1-4",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、圖4為一個溫帶地區的都市土地使用示意圖。\n\n4. 在都市計劃中增加哪項公共設施用地的面積最能有效降低上述溫差的強度？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-non1.png\" alt=\"圖4 都市土地使用剖面（0～8 公里）：A 在 0 公里（郊區綠地）；B 在 2 公里（市郊住宅區）；C 在 3 公里（商業區）；D 在 4 公里（市中心，高樓最密集）；E 在 6 公里（公園）\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "公園綠地"
+    ],
+    "blankLabels": [
+      "公共設施用地"
+    ],
+    "explanation": "公園綠地的植物蒸散與遮蔭可降溫，圖中公園 E 的氣溫就比周圍低。"
+  },
+  {
+    "id": "93-ast-geo-non-2-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 4,
+    "selfGrade": true,
+    "question": "二、圖5為石灰岩洞地形發育示意圖。\n\n1. 石灰岩洞地形的發育，除需具有石灰岩質地層外，還需要何種氣候條件？（2 分）此外，石灰岩層下方岩層之岩質應具哪種特性？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-non2.png\" alt=\"圖5 石灰岩地形發育示意：地表河流流到石灰岩層上的滲穴處沒入地下，在石灰岩層中形成溶洞，再從下方流出\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "溫暖濕潤（高溫多雨）",
+      "不透水"
+    ],
+    "blankLabels": [
+      "氣候條件",
+      "下方岩層特性"
+    ],
+    "explanation": "溶蝕作用需要充足的水（多雨）與較高的溫度（生物作用使水中二氧化碳多、溶蝕快）。下方是不透水層，地下水才會沿兩層交界橫向流動，溶蝕出洞穴。"
+  },
+  {
+    "id": "93-ast-geo-non-2-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 4,
+    "selfGrade": true,
+    "question": "二、圖5為石灰岩洞地形發育示意圖。\n\n2. 石灰岩地形繼續發育，圖中的滲穴會逐漸擴大，形成寬廣平坦的盆地，在地形上稱為什麼？（2 分）這種盆地在雲貴高原多為聚落及耕地所在，被當地人俗稱為什麼？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-geo-non2.png\" alt=\"圖5 石灰岩地形發育示意：地表河流流到石灰岩層上的滲穴處沒入地下，在石灰岩層中形成溶洞，再從下方流出\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "溶蝕盆地（坡立谷）",
+      "壩子"
+    ],
+    "blankLabels": [
+      "地形名稱",
+      "俗稱"
+    ],
+    "explanation": "滲穴、溶蝕窪地不斷擴大合併，形成底部平坦的溶蝕盆地（坡立谷）；雲貴高原居民稱這類山間平地為「壩子」。"
+  },
+  {
+    "id": "93-ast-geo-non-3-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 4,
+    "selfGrade": true,
+    "question": "三、表4為台灣1993與2003二年部分出口產品之組成（單位：百萬美元）。\n\n<svg viewBox=\"0 0 474 216\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">品名</text><rect x=\"132\" y=\"4\" width=\"100\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1993 出口值</text><rect x=\"232\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1993 %</text><rect x=\"302\" y=\"4\" width=\"100\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">2003 出口值</text><rect x=\"402\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">2003 %</text><rect x=\"2\" y=\"30\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">總計</text><rect x=\"132\" y=\"30\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">85091.3</text><rect x=\"232\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"302\" y=\"30\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">144179.5</text><rect x=\"402\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"2\" y=\"56\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">紡織品</text><rect x=\"132\" y=\"56\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12039.4</text><rect x=\"232\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14.15</text><rect x=\"302\" y=\"56\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11877.5</text><rect x=\"402\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.24</text><rect x=\"2\" y=\"82\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">鞋帽傘羽毛品</text><rect x=\"132\" y=\"82\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3335.8</text><rect x=\"232\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.92</text><rect x=\"302\" y=\"82\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">605.1</text><rect x=\"402\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.42</text><rect x=\"2\" y=\"108\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">玩具運動品</text><rect x=\"132\" y=\"108\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2816.1</text><rect x=\"232\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.31</text><rect x=\"302\" y=\"108\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1728.9</text><rect x=\"402\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.20</text><rect x=\"2\" y=\"134\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">基本金屬製品</text><rect x=\"132\" y=\"134\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7133.1</text><rect x=\"232\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.38</text><rect x=\"302\" y=\"134\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14330.3</text><rect x=\"402\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.94</text><rect x=\"2\" y=\"160\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">機械電機設備</text><rect x=\"132\" y=\"160\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">33474.7</text><rect x=\"232\" y=\"160\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">39.34</text><rect x=\"302\" y=\"160\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">75352.3</text><rect x=\"402\" y=\"160\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">52.26</text><rect x=\"2\" y=\"186\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">精密儀器</text><rect x=\"132\" y=\"186\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2165.7</text><rect x=\"232\" y=\"186\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.55</text><rect x=\"302\" y=\"186\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7429.0</text><rect x=\"402\" y=\"186\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.15</text></svg>\n\n1. 請依據表4繪製一幅柱狀圖，以呈現1993與2003年間紡織品、鞋帽傘羽毛品、與玩具運動品在台灣出口產品比重的顯著變化。（4 分，X軸表示產品，Y軸表示變量，並完整標記各類產品名、變量數字、及圖例等。）",
+    "blanks": [
+      "複式柱狀圖：X 軸為紡織品、鞋帽傘羽毛品、玩具運動品；每類各畫 1993、2003 兩根柱（以圖例區分）；Y 軸為出口比重（%），標出 14.15／8.24、3.92／0.42、3.31／1.20"
+    ],
+    "blankLabels": [
+      "作圖要點"
+    ],
+    "explanation": "題目要呈現的是「比重」變化，所以 Y 軸用百分比（%），不是出口值。每類產品並列兩年的柱子，並加上圖例、軸名稱與數值。"
+  },
+  {
+    "id": "93-ast-geo-non-3-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、表4為台灣1993與2003二年部分出口產品之組成（單位：百萬美元）。\n\n<svg viewBox=\"0 0 474 216\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">品名</text><rect x=\"132\" y=\"4\" width=\"100\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1993 出口值</text><rect x=\"232\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1993 %</text><rect x=\"302\" y=\"4\" width=\"100\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">2003 出口值</text><rect x=\"402\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">2003 %</text><rect x=\"2\" y=\"30\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">總計</text><rect x=\"132\" y=\"30\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">85091.3</text><rect x=\"232\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"302\" y=\"30\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">144179.5</text><rect x=\"402\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"2\" y=\"56\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">紡織品</text><rect x=\"132\" y=\"56\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12039.4</text><rect x=\"232\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14.15</text><rect x=\"302\" y=\"56\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11877.5</text><rect x=\"402\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.24</text><rect x=\"2\" y=\"82\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">鞋帽傘羽毛品</text><rect x=\"132\" y=\"82\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3335.8</text><rect x=\"232\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.92</text><rect x=\"302\" y=\"82\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">605.1</text><rect x=\"402\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.42</text><rect x=\"2\" y=\"108\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">玩具運動品</text><rect x=\"132\" y=\"108\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2816.1</text><rect x=\"232\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.31</text><rect x=\"302\" y=\"108\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1728.9</text><rect x=\"402\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.20</text><rect x=\"2\" y=\"134\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">基本金屬製品</text><rect x=\"132\" y=\"134\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7133.1</text><rect x=\"232\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.38</text><rect x=\"302\" y=\"134\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14330.3</text><rect x=\"402\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.94</text><rect x=\"2\" y=\"160\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">機械電機設備</text><rect x=\"132\" y=\"160\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">33474.7</text><rect x=\"232\" y=\"160\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">39.34</text><rect x=\"302\" y=\"160\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">75352.3</text><rect x=\"402\" y=\"160\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">52.26</text><rect x=\"2\" y=\"186\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">精密儀器</text><rect x=\"132\" y=\"186\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2165.7</text><rect x=\"232\" y=\"186\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.55</text><rect x=\"302\" y=\"186\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7429.0</text><rect x=\"402\" y=\"186\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.15</text></svg>\n\n2. 上述三類產品，在十年中出口貿易比重減少，最主要是因為在全球分工中台灣喪失哪種競爭優勢？（2 分）",
+    "blanks": [
+      "勞力（低廉工資）優勢"
+    ],
+    "blankLabels": [
+      "競爭優勢"
+    ],
+    "explanation": "紡織、製鞋、玩具都是勞力密集產業。臺灣工資上漲，這些產業移往工資更低的中國與東南亞。"
+  },
+  {
+    "id": "93-ast-geo-non-3-3",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、表4為台灣1993與2003二年部分出口產品之組成（單位：百萬美元）。\n\n<svg viewBox=\"0 0 474 216\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">品名</text><rect x=\"132\" y=\"4\" width=\"100\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1993 出口值</text><rect x=\"232\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1993 %</text><rect x=\"302\" y=\"4\" width=\"100\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">2003 出口值</text><rect x=\"402\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">2003 %</text><rect x=\"2\" y=\"30\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">總計</text><rect x=\"132\" y=\"30\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">85091.3</text><rect x=\"232\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"302\" y=\"30\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">144179.5</text><rect x=\"402\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"2\" y=\"56\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">紡織品</text><rect x=\"132\" y=\"56\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12039.4</text><rect x=\"232\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14.15</text><rect x=\"302\" y=\"56\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11877.5</text><rect x=\"402\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.24</text><rect x=\"2\" y=\"82\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">鞋帽傘羽毛品</text><rect x=\"132\" y=\"82\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3335.8</text><rect x=\"232\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.92</text><rect x=\"302\" y=\"82\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">605.1</text><rect x=\"402\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.42</text><rect x=\"2\" y=\"108\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">玩具運動品</text><rect x=\"132\" y=\"108\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2816.1</text><rect x=\"232\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.31</text><rect x=\"302\" y=\"108\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1728.9</text><rect x=\"402\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.20</text><rect x=\"2\" y=\"134\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">基本金屬製品</text><rect x=\"132\" y=\"134\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7133.1</text><rect x=\"232\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.38</text><rect x=\"302\" y=\"134\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14330.3</text><rect x=\"402\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.94</text><rect x=\"2\" y=\"160\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">機械電機設備</text><rect x=\"132\" y=\"160\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">33474.7</text><rect x=\"232\" y=\"160\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">39.34</text><rect x=\"302\" y=\"160\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">75352.3</text><rect x=\"402\" y=\"160\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">52.26</text><rect x=\"2\" y=\"186\" width=\"130\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">精密儀器</text><rect x=\"132\" y=\"186\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2165.7</text><rect x=\"232\" y=\"186\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.55</text><rect x=\"302\" y=\"186\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7429.0</text><rect x=\"402\" y=\"186\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.15</text></svg>\n\n3. 機械電機設備與精密儀器兩類產品，在十年中出口貿易比重顯著提升，顯示台灣在全球分工中的角色，主要朝哪種投入條件（或哪種導向）的產業發展？（2 分）",
+    "blanks": [
+      "資本密集、技術密集（技術導向）"
+    ],
+    "blankLabels": [
+      "產業發展方向"
+    ],
+    "explanation": "機械電機與精密儀器需要大量資本與技術投入，顯示臺灣產業朝資本、技術密集的方向升級。"
   }
 ]
