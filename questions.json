@@ -242429,5 +242429,382 @@
       "說明"
     ],
     "explanation": "不成功機率 $1 - y(x) = \\dfrac1{1 + r(x)}$。$x \\ge 8$ 時 $r(x) \\ge 2^5 = 32$，所以 $1 - y \\le \\dfrac1{33} \\approx 3.03\\% < 4\\%$。"
+  },
+  {
+    "id": "93-gsat-math-01",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "points": 5,
+    "question": "1. 已知一等差數列共有十項，且知其奇數項之和為 15，偶數項之和為 30，則下列哪一選項為此數列之公差？",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answerIndex": 2,
+    "explanation": "偶數項各比前一個奇數項多 $d$，共 5 對：$5d = 30 - 15$，$d = 3$。\n\n故選 (C)"
+  },
+  {
+    "id": "93-gsat-math-02",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "points": 5,
+    "question": "2. 下列選項中的數，何者最大？［其中 $n! = n\\times(n - 1)\\times\\cdots\\times2\\times1$］",
+    "options": [
+      "$100^{10}$",
+      "$10^{100}$",
+      "$50^{50}$",
+      "$50!$",
+      "$\\dfrac{100!}{50!}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "• $100^{10} = 10^{20}$。\n• $50^{50} = 10^{50\\log50} \\approx 10^{84.9}$。\n• $50! < 50^{50}$。\n• $\\dfrac{100!}{50!} = 51\\times52\\times\\cdots\\times100 < 100^{50} = 10^{100}$。\n最大是 $10^{100}$。\n\n故選 (B)"
+  },
+  {
+    "id": "93-gsat-math-03",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "points": 5,
+    "question": "3. 右圖陰影部分所示為複數平面上區域 $A = \\left\\{z : z = r(\\cos\\theta + i\\sin\\theta), 0 \\le r \\le 1, \\dfrac{3\\pi}4 \\le \\theta \\le \\dfrac{5\\pi}4\\right\\}$ 之略圖。令 $D = \\{w : w = z^3, z \\in A\\}$，試問下列選項中之略圖，何者之陰影部分與區域 $D$ 最接近？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-gsat-math-03a.png\" alt=\"區域 A：左側 135° 到 225° 的扇形\" style=\"width:100%;max-width:140px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-gsat-math-03b.png\" alt=\"五個選項的扇形區域略圖\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖 (1)",
+      "圖 (2)",
+      "圖 (3)",
+      "圖 (4)",
+      "圖 (5)"
+    ],
+    "answerIndex": 4,
+    "explanation": "$z^3$ 的長度 $r^3 \\in [0, 1]$，輻角 $3\\theta \\in \\left[\\dfrac{9\\pi}4, \\dfrac{15\\pi}4\\right]$，即從 $45^\\circ$ 轉到 $315^\\circ$（共 $270^\\circ$）。$D$ 是單位圓盤挖掉右側 $-45^\\circ$ 到 $45^\\circ$ 的扇形，對應圖 (5)。\n\n故選 (E)"
+  },
+  {
+    "id": "93-gsat-math-04",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "points": 5,
+    "question": "4. 在坐標空間中給定兩點 $A(1, 2, 3)$ 與 $B(7, 6, 5)$。令 $S$ 為 $xy$-平面上所有使得向量 $\\overrightarrow{PA}$ 垂直於向量 $\\overrightarrow{PB}$ 的 $P$ 點所成的集合，則",
+    "options": [
+      "$S$ 為空集合",
+      "$S$ 恰含一點",
+      "$S$ 恰含兩點",
+      "$S$ 為一線段",
+      "$S$ 為一圓"
+    ],
+    "answerIndex": 0,
+    "explanation": "$\\overrightarrow{PA}\\perp\\overrightarrow{PB}$ ⇔ $P$ 在以 $\\overline{AB}$ 為直徑的球面上：球心 $(4, 4, 4)$，半徑 $\\dfrac{\\sqrt{36 + 16 + 4}}2 = \\sqrt{14} \\approx 3.74$。球心到 $xy$ 平面距離 4 大於半徑，沒有交點。\n\n故選 (A)"
+  },
+  {
+    "id": "93-gsat-math-05",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "points": 5,
+    "question": "5. 設 $\\triangle ABC$ 為平面上的一個三角形，$P$ 為平面上一點且 $\\overrightarrow{AP} = \\dfrac13\\overrightarrow{AB} + t\\overrightarrow{AC}$，其中 $t$ 為一實數。試問下列哪一選項為 $t$ 的最大範圍，使得 $P$ 落在 $\\triangle ABC$ 的內部？",
+    "options": [
+      "$0 < t < \\dfrac14$",
+      "$0 < t < \\dfrac13$",
+      "$0 < t < \\dfrac12$",
+      "$0 < t < \\dfrac23$",
+      "$0 < t < \\dfrac34$"
+    ],
+    "answerIndex": 3,
+    "explanation": "$P$ 在內部 ⇔ 兩係數皆正且和小於 1：$t > 0$、$\\dfrac13 + t < 1$，即 $0 < t < \\dfrac23$。\n\n故選 (D)"
+  },
+  {
+    "id": "93-gsat-math-06",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "points": 5,
+    "question": "6. 台灣證券交易市場規定股票成交價格只能在前一個交易日的收盤價（即最後一筆的成交價）的漲、跌 7% 範圍內變動。例如：某支股票前一個交易日的收盤價是每股 100 元，則今天該支股票每股的買賣價格必須在 93 元至 107 元之間。假設有某支股票的價格起伏很大，某一天的收盤價是每股 40 元，次日起連續五個交易日以跌停板收盤（也就是每天跌 7%），緊接著卻連續五個交易日以漲停板收盤（也就是每天漲 7%）。請問經過這十個交易日後，該支股票每股的收盤價最接近下列哪一個選項中的價格？",
+    "options": [
+      "39 元",
+      "39.5 元",
+      "40 元",
+      "40.5 元",
+      "41 元"
+    ],
+    "answerIndex": 0,
+    "explanation": "$40\\times0.93^5\\times1.07^5 = 40\\times(0.9951)^5 \\approx 40\\times0.9757 \\approx 39.0$。\n\n故選 (A)"
+  },
+  {
+    "id": "93-gsat-math-07",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "7. 中山高速公路重慶北路交流道南下入口匝道分成內、外兩線車道，路旁立有標誌「外側車道　大客車專用」。請選出不違反此規定的選項：",
+    "options": [
+      "小型車行駛內側車道",
+      "小型車行駛外側車道",
+      "大客車行駛內側車道",
+      "大客車行駛外側車道",
+      "大貨車行駛外側車道"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "規定的意思是「外側車道 ⇒ 只能是大客車」，並沒有規定大客車只能走外側。所以非大客車行駛外側車道才違規：(B)(E) 違規，其餘不違反。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "93-gsat-math-08",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 在坐標平面上，下列哪些方程式的圖形可以放進一個夠大的圓裡面？",
+    "options": [
+      "$3x = 2y^2$",
+      "$3x^2 + 2y^2 = 1$",
+      "$3x^2 - 2y^2 = 1$",
+      "$|x + y| = 1$",
+      "$|x| + |y| = 1$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "能放進圓裡 ⇔ 圖形有界。拋物線 (A)、雙曲線 (C)、兩平行直線 (D) 都無界；橢圓 (B) 與正方形 (E) 有界。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "93-gsat-math-09",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 如右圖 $O\\text{-}ABCD$ 為一金字塔，底是邊長為 1 之正方形，頂點 $O$ 與 $A$、$B$、$C$、$D$ 之距離均為 2。試問下列哪些式子是正確的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-gsat-math-09.png\" alt=\"正四角錐 O-ABCD\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC} + \\overrightarrow{OD} = \\vec0$",
+      "$\\overrightarrow{OA} + \\overrightarrow{OB} - \\overrightarrow{OC} - \\overrightarrow{OD} = \\vec0$",
+      "$\\overrightarrow{OA} - \\overrightarrow{OB} + \\overrightarrow{OC} - \\overrightarrow{OD} = \\vec0$",
+      "$\\overrightarrow{OA}\\cdot\\overrightarrow{OB} = \\overrightarrow{OC}\\cdot\\overrightarrow{OD}$",
+      "$\\overrightarrow{OA}\\cdot\\overrightarrow{OC} = 2$"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "• (A) ✗：等於 $4\\overrightarrow{OM}$（$M$ 為底面中心）。\n• (B) ✗：等於 $(\\overrightarrow{OA} - \\overrightarrow{OD}) + (\\overrightarrow{OB} - \\overrightarrow{OC}) = \\overrightarrow{DA} + \\overrightarrow{CB} = 2\\overrightarrow{DA} \\ne \\vec0$。\n• (C) ✓：$(\\overrightarrow{OA} - \\overrightarrow{OB}) + (\\overrightarrow{OC} - \\overrightarrow{OD}) = \\overrightarrow{BA} + \\overrightarrow{DC} = \\vec0$（正方形 $\\overrightarrow{BA} = \\overrightarrow{CD}$）。\n• (D) ✓：兩者都是 $2\\cdot2\\cos\\theta$，$\\theta$ 為相鄰側稜夾角。\n• (E) ✗：$\\overline{AC} = \\sqrt2$，$\\overrightarrow{OA}\\cdot\\overrightarrow{OC} = \\dfrac{4 + 4 - 2}2 = 3$。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "93-gsat-math-10",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 從 $1, 2, \\ldots, 10$ 這十個數中隨意取兩個，以 $p$ 表示其和為偶數之機率，$q$ 表示其和為奇數之機率。試問下列哪些敘述是正確的？",
+    "options": [
+      "$p + q = 1$",
+      "$p = q$",
+      "$|p - q| \\le \\dfrac1{10}$",
+      "$|p - q| \\ge \\dfrac1{20}$",
+      "$p \\ge \\dfrac12$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "和為偶數：兩奇 $\\dbinom52$ + 兩偶 $\\dbinom52$ $= 20$，$p = \\dfrac{20}{45} = \\dfrac49$，$q = \\dfrac59$，$|p - q| = \\dfrac19$。\n(A) ✓、(B) ✗、(C) ✗（$\\dfrac19 > \\dfrac1{10}$）、(D) ✓、(E) ✗。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "93-gsat-math-11",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 設 $f(x)$ 為三次實係數多項式，且知複數 $1 + i$ 為 $f(x) = 0$ 之一解。試問下列哪些敘述是正確的？",
+    "options": [
+      "$f(1 - i) = 0$",
+      "$f(2 + i) \\ne 0$",
+      "沒有實數 $x$ 滿足 $f(x) = x$",
+      "沒有實數 $x$ 滿足 $f(x^3) = 0$",
+      "若 $f(0) > 0$ 且 $f(2) < 0$，則 $f(4) < 0$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "$f(x) = k(x^2 - 2x + 2)(x - r)$，$r$ 為實數。\n• (A) ✓。\n• (B) ✓：三個根為 $1 \\pm i$、$r$。\n• (C) ✗：$f(x) - x$ 是三次實係數多項式，必有實根。\n• (D) ✗：$x^3 = r$ 有實數解。\n• (E) ✓：$x^2 - 2x + 2 > 0$，$f$ 與 $k(x - r)$ 同號。$f(0) > 0$、$f(2) < 0$ ⇒ $k < 0$ 且 $0 < r < 2$，所以 $f(4) = 10k(4 - r) < 0$。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "93-gsat-math-A",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 某數學老師計算學期成績的公式如下：五次平時考中取較好的三次之平均值佔 30%，兩次期中考各佔 20%，期末考佔 30%。某生平時考成績分別為 68、82、70、73、85，期中考成績分別為 86、79，期末考成績為 90，則該生學期成績為 ⑫⑬。（計算到整數為止，小數點以後四捨五入）",
+    "blanks": [
+      "8",
+      "4"
+    ],
+    "blankLabels": [
+      "12",
+      "13"
+    ],
+    "explanation": "平時考較好的三次 85、82、73，平均 80。$0.3\\times80 + 0.2\\times86 + 0.2\\times79 + 0.3\\times90 = 24 + 17.2 + 15.8 + 27 = 84$。"
+  },
+  {
+    "id": "93-gsat-math-B",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 某電視台舉辦抽獎遊戲，現場準備的抽獎箱裡放置了四個分別標有 1000、800、600、0 元獎額的球。參加者自行從抽獎箱裡摸取一球（取後即放回），主辦單位即贈送與此球上數字等額的獎金，並規定抽取到 0 元的人可以再摸一次，但是所得獎金折半（若再摸到 0 就沒有第三次機會）；則一個參加者可得獎金的期望值是 ⑭⑮⑯ 元。（計算到整數為止，小數點以後四捨五入）",
+    "blanks": [
+      "6",
+      "7",
+      "5"
+    ],
+    "blankLabels": [
+      "14",
+      "15",
+      "16"
+    ],
+    "explanation": "第一次：$\\dfrac{1000 + 800 + 600}4 = 600$。摸到 0（機率 $\\dfrac14$）再摸，期望 $\\dfrac12\\times600 = 300$。總期望 $600 + \\dfrac14\\times300 = 675$ 元。"
+  },
+  {
+    "id": "93-gsat-math-C",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 設 $a, b, c$ 為正整數，若 $a\\log_{520}2 + b\\log_{520}5 + c\\log_{520}13 = 3$，則 $a + b + c =$ ⑰⑱。",
+    "blanks": [
+      "1",
+      "5"
+    ],
+    "blankLabels": [
+      "17",
+      "18"
+    ],
+    "explanation": "$2^a5^b13^c = 520^3 = (2^3\\cdot5\\cdot13)^3 = 2^9\\cdot5^3\\cdot13^3$，由質因數分解唯一性 $a = 9$、$b = 3$、$c = 3$，和為 15。"
+  },
+  {
+    "id": "93-gsat-math-D",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "D. 設 $\\triangle ABC$ 為一等腰直角三角形，$\\angle BAC = 90^\\circ$。若 $P$、$Q$ 為斜邊 $\\overline{BC}$ 的三等分點，則 $\\tan\\angle PAQ = \\dfrac{⑲}{⑳}$。（化成最簡分數）",
+    "blanks": [
+      "3",
+      "4"
+    ],
+    "blankLabels": [
+      "19",
+      "20"
+    ],
+    "explanation": "取 $A(0, 0)$、$B(3, 0)$、$C(0, 3)$，$P(2, 1)$、$Q(1, 2)$。$\\tan\\angle PAQ = \\dfrac{|2\\cdot2 - 1\\cdot1|}{2\\cdot1 + 1\\cdot2} = \\dfrac34$。"
+  },
+  {
+    "id": "93-gsat-math-E",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "E. 某高中招收高一新生共有男生 1008 人、女生 924 人報到。學校想將他們依男女合班的原則平均分班，且要求各班有同樣多的男生，也有同樣多的女生；考量教學效益，並限制各班總人數在 40 與 50 人之間，則共分成 ㉑㉒ 班。",
+    "blanks": [
+      "4",
+      "2"
+    ],
+    "blankLabels": [
+      "21",
+      "22"
+    ],
+    "explanation": "班數 $n$ 須整除 1008 與 924，即整除 $(1008, 924) = 84$；每班 $\\dfrac{1932}n$ 人介於 40 與 50 之間，$38.6 \\le n \\le 48.3$。84 的因數中只有 42 符合（每班 46 人）。"
+  },
+  {
+    "id": "93-gsat-math-F",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "F. 在坐標空間中，平面 $x - 2y + z = 0$ 上有一以點 $P(1, 1, 1)$ 為圓心的圓 $\\Gamma$，而 $Q(-9, 9, 27)$ 為圓 $\\Gamma$ 上一點。若過 $Q$ 與圓 $\\Gamma$ 相切的直線之一方向向量為 $(a, b, 1)$，則 $a =$ ㉓，$b =$ ㉔。",
+    "blanks": [
+      "5",
+      "3"
+    ],
+    "blankLabels": [
+      "23",
+      "24"
+    ],
+    "explanation": "切線在平面上且垂直半徑 $\\overrightarrow{PQ} = (-10, 8, 26) \\parallel (-5, 4, 13)$，方向為 $(1, -2, 1)\\times(-5, 4, 13) = (-30, -18, -6) \\parallel (5, 3, 1)$。"
+  },
+  {
+    "id": "93-gsat-math-G",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "G. 設 $270^\\circ < A < 360^\\circ$ 且 $\\sqrt3\\sin A + \\cos A = 2\\sin2004^\\circ$。若 $A = m^\\circ$，則 $m =$ ㉕㉖㉗。",
+    "blanks": [
+      "3",
+      "0",
+      "6"
+    ],
+    "blankLabels": [
+      "25",
+      "26",
+      "27"
+    ],
+    "explanation": "左邊 $= 2\\sin(A + 30^\\circ)$，右邊 $= 2\\sin204^\\circ$。$A + 30^\\circ \\in (300^\\circ, 390^\\circ)$，$\\sin(A + 30^\\circ) = \\sin204^\\circ = \\sin(-24^\\circ)$，取 $A + 30^\\circ = 336^\\circ$，$A = 306^\\circ$。"
+  },
+  {
+    "id": "93-gsat-math-H",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "H. 坐標平面上的圓 $C: (x - 7)^2 + (y - 8)^2 = 9$ 上有 ㉘㉙ 個點與原點的距離正好是整數值。",
+    "blanks": [
+      "1",
+      "2"
+    ],
+    "blankLabels": [
+      "28",
+      "29"
+    ],
+    "explanation": "圓心到原點 $\\sqrt{113} \\approx 10.63$，圓上點到原點的距離介於 $7.63$ 與 $13.63$ 之間，整數 8, 9, …, 13 共 6 個，每個距離對應圓上 2 點，共 12 個。"
+  },
+  {
+    "id": "93-gsat-math-I",
+    "examType": "學測",
+    "year": 93,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "I. 在坐標平面上，設直線 $L: y = x + 2$ 與拋物線 $\\Gamma: x^2 = 4y$ 相交於 $P$、$Q$ 兩點。若 $F$ 表拋物線 $\\Gamma$ 的焦點，則 $\\overline{PF} + \\overline{QF} =$ ㉚㉛。",
+    "blanks": [
+      "1",
+      "0"
+    ],
+    "blankLabels": [
+      "30",
+      "31"
+    ],
+    "explanation": "$x^2 = 4x + 8$，$x_1 + x_2 = 4$，$y_1 + y_2 = 4 + 4 = 8$。拋物線上點到焦點的距離等於到準線 $y = -1$ 的距離：$\\overline{PF} + \\overline{QF} = (y_1 + 1) + (y_2 + 1) = 10$。"
   }
 ]
