@@ -239883,5 +239883,315 @@
       "41"
     ],
     "explanation": "取 $A$ 為原點、$B(3, 0)$，$C = 5(\\cos120^\\circ, \\sin120^\\circ) = \\left(-\\dfrac52, \\dfrac{5\\sqrt3}2\\right)$。\n$M = \\left(\\dfrac14, \\dfrac{5\\sqrt3}4\\right)$，$\\tan\\angle BAM = \\dfrac{5\\sqrt3/4}{1/4} = 5\\sqrt3$。"
+  },
+  {
+    "id": "96-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 設 $z = \\cos\\dfrac{2\\pi}7 + i\\sin\\dfrac{2\\pi}7$，試問複數 $1 - z$ 的絕對值為以下哪一選項？",
+    "options": [
+      "$2\\sin\\dfrac\\pi7$",
+      "$\\sin\\dfrac{2\\pi}7$",
+      "$\\sqrt2\\sin\\dfrac{2\\pi}7$",
+      "$\\sqrt2\\left(1 - \\cos\\dfrac{2\\pi}7\\right)$",
+      "$\\sqrt{1 - \\cos\\dfrac{2\\pi}7}$"
+    ],
+    "answerIndex": 0,
+    "explanation": "$|1 - z|^2 = \\left(1 - \\cos\\dfrac{2\\pi}7\\right)^2 + \\sin^2\\dfrac{2\\pi}7 = 2 - 2\\cos\\dfrac{2\\pi}7 = 4\\sin^2\\dfrac\\pi7$，所以 $|1 - z| = 2\\sin\\dfrac\\pi7$。\n\n故選 (A)"
+  },
+  {
+    "id": "96-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 試問下列有關極限 $\\displaystyle\\lim_{x\\to1}\\dfrac{|3 - 3x - x^2| - 1}{x - 1}$ 的敘述何者正確？",
+    "options": [
+      "極限不存在",
+      "極限為 0",
+      "極限為 1",
+      "極限為 5",
+      "極限為 −2"
+    ],
+    "answerIndex": 3,
+    "explanation": "$x$ 在 1 附近時 $3 - 3x - x^2 \\approx -1 < 0$，絕對值為 $x^2 + 3x - 3$。\n分子 $x^2 + 3x - 4 = (x - 1)(x + 4)$，極限為 $1 + 4 = 5$。\n\n故選 (D)"
+  },
+  {
+    "id": "96-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 設 $a_1, a_2, a_3, \\cdots, a_{10}$ 是一等比數列，其首項 $a_1 > 1$ 且公比 $r > 1$。坐標平面上有一質點 $M$ 自原點 $(0, 0)$ 出發，依以下規則連續移動十次：第一次移動往右 $\\log a_1$ 單位，第二次移動向上 $\\log a_2$ 單位，第三次移動往右 $\\log a_3$ 單位，第四次移動向上 $\\log a_4$ 單位，依此類推直到第十次；即第 $2k - 1$ 次的移動是往右 $\\log a_{2k-1}$ 單位，接著第 $2k$ 次的移動是向上 $\\log a_{2k}$ 單位。已知經過這十次的移動後，該質點 $M$ 停在點 $\\left(5 + 5\\log2, 5 + \\dfrac{15}2\\log2\\right)$ 的位置上，試問首項 $a_1$ 與公比 $r$ 組成的序對 $(a_1, r)$ 為以下哪一選項？",
+    "options": [
+      "$(\\sqrt2, \\sqrt2)$",
+      "$(2\\sqrt2, \\sqrt5)$",
+      "$(2, \\sqrt2)$",
+      "$(5, \\sqrt5)$",
+      "$(5, \\sqrt2)$"
+    ],
+    "answerIndex": 4,
+    "explanation": "令 $p = \\log a_1$、$q = \\log r$，$\\log a_k = p + (k - 1)q$。\n往右：$k = 1, 3, 5, 7, 9$，和 $5p + 20q = 5 + 5\\log2$；向上：$k = 2, 4, \\ldots, 10$，和 $5p + 25q = 5 + \\dfrac{15}2\\log2$。\n相減：$5q = \\dfrac52\\log2$，$r = \\sqrt2$；$5p = 5 + 5\\log2 - 10\\log2$，$p = 1 - \\log2 = \\log5$，$a_1 = 5$。\n\n故選 (E)"
+  },
+  {
+    "id": "96-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 某校高三共有 300 位學生，數學科第一次段考、第二次段考成績分別以 $X$、$Y$ 表示，且每位學生的成績用 0 至 100 評分。若這兩次段考數學科成績的相關係數為 0.016，試問下列哪些選項是正確的？",
+    "options": [
+      "$X$ 與 $Y$ 的相關情形可以用散佈圖表示",
+      "這兩次段考的數學成績適合用直線 $X = a + bY$ 表示 $X$ 與 $Y$ 的相關情形（$a, b$ 為常數，$b \\ne 0$）",
+      "$X + 5$ 與 $Y + 5$ 的相關係數仍為 0.016",
+      "$10X$ 與 $10Y$ 的相關係數仍為 0.016",
+      "若 $X' = \\dfrac{X - \\bar X}{S_X}$、$Y' = \\dfrac{Y - \\bar Y}{S_Y}$，其中 $\\bar X$、$\\bar Y$ 分別為 $X$、$Y$ 的平均數，$S_X$、$S_Y$ 分別為 $X$、$Y$ 的標準差，則 $X'$ 與 $Y'$ 的相關係數仍為 0.016"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explanation": "• (A) ✓。\n• (B) ✗：相關係數接近 0，幾乎沒有線性關係，不適合用直線描述。\n• (C)(D)(E) ✓：兩變數各自作「正倍數加常數」的變換，相關係數不變。\n\n故選 (A)(C)(D)(E)"
+  },
+  {
+    "id": "96-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 設 $P(x)$ 是一個五次實係數多項式。若 $P(x)$ 除以 $x - 3$ 的餘式是 2，且商 $Q(x)$ 是一個係數均為正數的多項式，試問下列哪些選項是正確的？",
+    "options": [
+      "$P(x) = 0$ 與 $Q(x) = 0$ 有共同的實根",
+      "3 是 $P(x) = 2$ 唯一的實根",
+      "$P(x)$ 不能被 $x - 4$ 整除",
+      "$P(x) = 0$ 一定有小於 3 的實根",
+      "$P(x)$ 除以 $(x - 3)(x + 3)$ 的餘式也是 2"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "$P(x) = (x - 3)Q(x) + 2$，$Q$ 為四次、係數全正，所以 $x \\ge 0$ 時 $Q(x) > 0$。\n• (A) ✗：若 $Q(r) = 0$，則 $P(r) = 2 \\ne 0$。\n• (B) ✗：$P(x) = 2$ ⇔ $x = 3$ 或 $Q(x) = 0$，$Q$ 可能有負根（如 $Q(x) = (x + 1)(x + 2)(x^2 + 1)$）。\n• (C) ✓：$P(4) = Q(4) + 2 > 0$。\n• (D) ✓：$x \\ge 3$ 時 $P(x) \\ge 2$；而 $P$ 為五次、首項係數為正，$x \\to -\\infty$ 時 $P \\to -\\infty$，所以有小於 3 的實根。\n• (E) ✗：$P(-3) = -6Q(-3) + 2$ 不一定等於 2。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "96-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 設 $a$ 是不為零的實數，且以下的三元一次方程組有解：$\\begin{cases} \\dfrac{x - 3}2 = \\dfrac{y - 5}3 \\\\ \\dfrac{y - 5}3 = z - 4 \\\\ \\dfrac xa = z - 2 \\\\ \\dfrac{y + 1}3 = z - 2 \\end{cases}$。試問下列哪些選項是正確的？",
+    "options": [
+      "$a = 2$",
+      "原方程組有唯一解",
+      "方程組 $\\begin{cases} \\dfrac{x - 3}2 = \\dfrac{y - 5}3 \\\\ \\dfrac xa = z - 2 \\end{cases}$ 有無窮多解",
+      "方程組 $\\begin{cases} \\dfrac xa = z - 2 \\\\ \\dfrac{y + 1}3 = z - 2 \\end{cases}$ 有唯一解",
+      "方程組 $\\begin{cases} \\dfrac{x - 3}2 = \\dfrac{y - 5}3 \\\\ \\dfrac{y - 5}3 = z - 4 \\end{cases}$ 有無窮多解"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "前兩式是直線 $L_1$：$(3 + 2t, 5 + 3t, 4 + t)$；後兩式是直線 $L_2$：$(as, -1 + 3s, 2 + s)$。\n聯立：$y$：$s = t + 2$；$z$：自動成立；$x$：$3 + 2t = a(t + 2)$，即 $(2 - a)t = 2a - 3$。\n有解 ⇒ $a \\ne 2$（$a = 2$ 時 $0 = 1$），且解唯一。\n• (A) ✗、(B) ✓。\n• (C) ✓：兩個不平行平面交成一直線。\n• (D) ✗：兩個方程式、三個未知數，解是一條直線。\n• (E) ✓：即直線 $L_1$。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "96-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 有關矩陣 $A = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}$ 與矩陣 $B = \\begin{bmatrix} \\frac12 & -\\frac{\\sqrt3}2 \\\\ \\frac{\\sqrt3}2 & \\frac12 \\end{bmatrix}$，試問下列哪些選項是正確的？",
+    "options": [
+      "$AB = BA$",
+      "$A^2B = BA^2$",
+      "$A^{11}B^3 = B^6A^5$",
+      "$AB^{12} = A^7$",
+      "$(ABA)^{15} = AB^{15}A$"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "$A$ 是對 $x$ 軸的鏡射，$A^2 = I$；$B$ 是旋轉 $60^\\circ$，$B^6 = I$、$B^3 = -I$。\n• (A) ✗：$AB = \\begin{bmatrix} \\frac12 & -\\frac{\\sqrt3}2 \\\\ -\\frac{\\sqrt3}2 & -\\frac12 \\end{bmatrix}$，$BA = \\begin{bmatrix} \\frac12 & \\frac{\\sqrt3}2 \\\\ \\frac{\\sqrt3}2 & -\\frac12 \\end{bmatrix}$。\n• (B) ✓：兩邊都是 $B$。\n• (C) ✗：左邊 $A(-I) = -A$，右邊 $A$。\n• (D) ✓：兩邊都是 $A$。\n• (E) ✓：$(ABA)^{15} = AB(AA)B(AA)\\cdots BA = AB^{15}A$。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "96-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 考慮坐標平面上函數 $y = x^3 + 2x + 3$ 的圖形（$x$ 為任意實數），試問下列哪些選項是正確的？",
+    "options": [
+      "圖形有最高點，也有最低點",
+      "圖形有水平切線",
+      "圖形與任一水平直線恰有一交點",
+      "若 $(a, b)$ 在圖形上，則 $(-a, -b + 6)$ 也在圖形上",
+      "圖形與三直線 $x = 0$，$x = 1$，$y = 0$ 所圍成的區域之面積大於 4"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "$y' = 3x^2 + 2 > 0$，函數嚴格遞增、值域為全體實數。\n• (A)(B) ✗。\n• (C) ✓。\n• (D) ✓：$f(-a) = -a^3 - 2a + 3 = 6 - f(a)$，圖形對稱於 $(0, 3)$。\n• (E) ✓：在 $[0, 1]$ 上 $y > 0$，面積 $\\dfrac14 + 1 + 3 = \\dfrac{17}4 > 4$。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "96-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "A. 某公司共有 6 個工廠，各工廠的產量都一樣，且所生產的產品都放進同一倉庫中。由過去的經驗知道，第 $k$ 個工廠的產品不良率為 $\\dfrac k{50}$，其中 $k = 1, 2, 3, 4, 5, 6$，為了檢驗倉庫中這一批產品的品質，從倉庫中任意抽出一件，若為不良品，則此不良品是來自第五個工廠的機率為 $\\dfrac{⑨}{⑩⑪}$。（化成最簡分數）",
+    "blanks": [
+      "5",
+      "2",
+      "1"
+    ],
+    "blankLabels": [
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation": "各廠產量相同，不良品數正比於 $k$：$\\dfrac5{1 + 2 + \\cdots + 6} = \\dfrac5{21}$。"
+  },
+  {
+    "id": "96-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "B. 在坐標平面上，一圓通過點 $(-2, 7)$，且與直線 $4x + 3y - 14 = 0$ 相切於點 $(-1, 6)$，若此圓的方程式為 $x^2 + y^2 + ax + by + c = 0$，則 $a =$ ⑫⑬，$b =$ ⑭⑮，$c =$ ⑯。",
+    "blanks": [
+      "1",
+      "0",
+      "-",
+      "6",
+      "9"
+    ],
+    "acceptedBlanks": [
+      [
+        "1"
+      ],
+      [
+        "0"
+      ],
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "6"
+      ],
+      [
+        "9"
+      ]
+    ],
+    "blankLabels": [
+      "12",
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "explanation": "圓心在切點的法線上：$(-1 + 4t, 6 + 3t)$，到 $(-2, 7)$ 與 $(-1, 6)$ 等距：$(1 + 4t)^2 + (3t - 1)^2 = 25t^2$，$t = -1$。\n圓心 $(-5, 3)$、半徑 5：$x^2 + y^2 + 10x - 6y + 9 = 0$。"
+  },
+  {
+    "id": "96-ast-ma-C",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "C. 張師傅想為公司設計底面為正方形且沒有蓋子的一個長方體紙盒，裡面白色，外面灰色。在灰色部分的面積為 432 平方公分的限制之下，為了使紙盒的容量達到最大，他應將此無蓋長方體紙盒的底面每邊邊長設計為 ⑰⑱ 公分。",
+    "blanks": [
+      "1",
+      "2"
+    ],
+    "blankLabels": [
+      "17",
+      "18"
+    ],
+    "explanation": "底邊 $x$、高 $h$：$x^2 + 4xh = 432$，容量 $V = x^2h = \\dfrac{x(432 - x^2)}4$。\n$V' = \\dfrac{432 - 3x^2}4 = 0$，$x = 12$（此時 $h = 6$）。"
+  },
+  {
+    "id": "96-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設 $f(x) = x^3 - 6x^2 - x + 30$，且 $a, b$ 是方程式 $f(x) = 0$ 的兩正根。\n(1) 求解三次方程式 $f(x) = 0$。（3 分）",
+    "points": 3,
+    "blanks": [
+      "$x = -2, 3, 5$"
+    ],
+    "blankLabels": [
+      "三根"
+    ],
+    "explanation": "$f(-2) = -8 - 24 + 2 + 30 = 0$，$f(x) = (x + 2)(x^2 - 8x + 15) = (x + 2)(x - 3)(x - 5)$。"
+  },
+  {
+    "id": "96-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設 $f(x) = x^3 - 6x^2 - x + 30$，且 $a, b$ 是方程式 $f(x) = 0$ 的兩正根。\n(2) 若 $\\triangle ABC$ 中，$\\overline{AC} = a$，$\\overline{BC} = b$，$\\angle ACB = 120^\\circ$，且 $D, E$ 是 $\\overline{AB}$ 上兩點，滿足 $\\overline{BD} = \\overline{BC}$，$\\overline{AE} = \\overline{AC}$，試求 $\\triangle CDE$ 的面積。（8 分）",
+    "points": 8,
+    "blanks": [
+      "$\\dfrac{15\\sqrt3}{28}$"
+    ],
+    "blankLabels": [
+      "面積"
+    ],
+    "explanation": "$\\{a, b\\} = \\{3, 5\\}$。$\\overline{AB}^2 = 9 + 25 + 15 = 49$，$\\overline{AB} = 7$。\n$\\overline{AE} + \\overline{BD} = 8 > 7$，所以 $\\overline{DE} = 8 - 7 = 1$。\n$\\triangle CDE$ 與 $\\triangle ABC$ 同高，面積比 $\\dfrac{\\overline{DE}}{\\overline{AB}} = \\dfrac17$；$\\triangle ABC$ 面積 $\\dfrac12\\cdot15\\cdot\\dfrac{\\sqrt3}2 = \\dfrac{15\\sqrt3}4$。\n所求 $\\dfrac{15\\sqrt3}{28}$。"
+  },
+  {
+    "id": "96-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $\\triangle ABC$ 的三頂點坐標分別為 $A(-2, 7, 15)$、$B(1, 16, 3)$、$C(10, 7, 3)$。\n(1) 試求通過 A、B、C 三點的平面方程式。（5 分）",
+    "points": 5,
+    "blanks": [
+      "$x + y + z = 20$"
+    ],
+    "blankLabels": [
+      "平面"
+    ],
+    "explanation": "$\\overrightarrow{AB} = (3, 9, -12) \\parallel (1, 3, -4)$，$\\overrightarrow{AC} = (12, 0, -12) \\parallel (1, 0, -1)$。\n法向量 $(1, 3, -4)\\times(1, 0, -1) = (-3, -3, -3) \\parallel (1, 1, 1)$，平面 $x + y + z = -2 + 7 + 15 = 20$。"
+  },
+  {
+    "id": "96-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 96,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $\\triangle ABC$ 的三頂點坐標分別為 $A(-2, 7, 15)$、$B(1, 16, 3)$、$C(10, 7, 3)$。\n(2) 試求 $\\triangle ABC$ 的外心坐標。（5 分）",
+    "points": 5,
+    "blanks": [
+      "$(3, 9, 8)$"
+    ],
+    "blankLabels": [
+      "外心"
+    ],
+    "explanation": "外心 $P(x, y, z)$ 在平面上且到三頂點等距：\n$PA^2 = PB^2$ ⇒ $x + 3y - 4z = -2$；$PA^2 = PC^2$ ⇒ $x - z = -5$；又 $x + y + z = 20$。\n解得 $(3, 9, 8)$，到三頂點距離平方都是 78。"
   }
 ]
