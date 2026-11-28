@@ -231932,5 +231932,352 @@
       "37"
     ],
     "explanation": "$\\overline{AC} \\perp \\overline{AB}$（後輪方向沿車身）。前輪轉了 $28^\\circ$，$\\overline{BC}$ 與前輪方向垂直，所以 $\\angle ACB = 28^\\circ$。\n直角三角形 $ABC$ 中 $\\sin28^\\circ = \\dfrac{\\overline{AB}}{\\overline{BC}}$，$\\overline{BC} = \\dfrac{2.85}{0.4695} \\approx 6.07$，約 6.1 公尺。"
+  },
+  {
+    "id": "104-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 滿足不等式 $\\dfrac{1}{104} \\le \\left(\\sqrt{10}\\right)^x \\le 2015$ 的整數 $x$ 共有多少個？",
+    "options": [
+      "9 個",
+      "10 個",
+      "11 個",
+      "12 個",
+      "13 個"
+    ],
+    "answerIndex": 2,
+    "explanation": "取對數：$-\\log104 \\le \\dfrac x2 \\le \\log2015$，即 $-2.017 \\le \\dfrac x2 \\le 3.304$，$-4.03 \\le x \\le 6.61$。\n整數 $-4$～6，共 11 個。\n\n故選 (C)"
+  },
+  {
+    "id": "104-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 考慮坐標平面上的直線 $L: 3x - 2y = 1$。若 $a$ 為實數且二階方陣 $\\begin{bmatrix} 1 & 0 \\\\ a & -8 \\end{bmatrix}$ 所代表的線性變換可以將 $L$ 上的點變換到一條斜率為 2 的直線，則 $a$ 的值為下列哪一個選項？",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answerIndex": 4,
+    "explanation": "$L$ 上的點 $\\left(x, \\dfrac{3x - 1}{2}\\right)$ 變成 $\\left(x, ax - 4(3x - 1)\\right) = (x, (a - 12)x + 4)$，像是斜率 $a - 12$ 的直線。\n$a - 12 = 2$，$a = 14$。\n\n故選 (E)"
+  },
+  {
+    "id": "104-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 設複數平面上的相異四點 $z_1, z_2, z_3, z_4$ 依序且依逆時針方向可連成一個正方形。下列哪一個選項為 $\\dfrac{z_2 - z_1}{z_3 - z_1}$ 之值？",
+    "options": [
+      "$\\sqrt2\\cos\\left(\\dfrac{\\pi}{4}\\right) + \\sqrt2\\,i\\sin\\left(\\dfrac{\\pi}{4}\\right)$",
+      "$\\sqrt2\\cos\\left(-\\dfrac{\\pi}{4}\\right) + \\sqrt2\\,i\\sin\\left(-\\dfrac{\\pi}{4}\\right)$",
+      "$\\dfrac{1}{\\sqrt2}\\cos\\left(\\dfrac{\\pi}{4}\\right) + \\dfrac{1}{\\sqrt2}i\\sin\\left(\\dfrac{\\pi}{4}\\right)$",
+      "$\\dfrac{1}{\\sqrt2}\\cos\\left(-\\dfrac{\\pi}{4}\\right) + \\dfrac{1}{\\sqrt2}i\\sin\\left(-\\dfrac{\\pi}{4}\\right)$",
+      "$\\cos\\left(\\dfrac{\\pi}{4}\\right) + i\\sin\\left(\\dfrac{\\pi}{4}\\right)$"
+    ],
+    "answerIndex": 3,
+    "explanation": "$z_3 - z_1$ 是對角線，$z_2 - z_1$ 是邊。逆時針排列時，對角線是邊逆時針轉 $45^\\circ$ 並放大 $\\sqrt2$ 倍，反過來邊 = 對角線順時針轉 $45^\\circ$ 再乘 $\\dfrac{1}{\\sqrt2}$：\n$$\\frac{z_2 - z_1}{z_3 - z_1} = \\frac{1}{\\sqrt2}\\left(\\cos\\left(-\\frac{\\pi}{4}\\right) + i\\sin\\left(-\\frac{\\pi}{4}\\right)\\right)$$\n\n故選 (D)"
+  },
+  {
+    "id": "104-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 坐標平面上有 $A$、$B$、$C$ 三點，滿足 $\\angle ABC$ 為直角，$\\overline{AB} = \\overline{BC}$，且向量 $\\overrightarrow{AB} = (4, 2)$。請選出可以為向量 $\\overrightarrow{AC}$ 的選項。",
+    "options": [
+      "(−2, 4)",
+      "(2, −4)",
+      "(2, 6)",
+      "(−2, 6)",
+      "(6, −2)"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "$\\overrightarrow{BC}$ 與 $\\overrightarrow{AB}$ 垂直且等長：$\\pm(-2, 4)$。\n$\\overrightarrow{AC} = \\overrightarrow{AB} + \\overrightarrow{BC} = (2, 6)$ 或 $(6, -2)$。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "104-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 設實係數多項式 $f(x)$ 滿足 $f(1 + i) = 5$ 與 $f(i) = 10$（其中 $i = \\sqrt{-1}$），且 $f(x)$ 除以 $(x^2 - 2x + 2)(x^2 + 1)$ 的餘式為 $g(x)$。請選出正確的選項。",
+    "options": [
+      "$g(1 + i) = 5$",
+      "$f(-i) = -10$",
+      "$g(x)$ 除以 $x^2 - 2x + 2$ 的餘式是一次多項式",
+      "$g(x)$ 除以 $x^2 - 2x + 2$ 的商式是 $2x + 1$",
+      "$g(x) = 2x^3 - 7x^2 + 2x + 3$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "$f - g$ 被 $(x^2 - 2x + 2)(x^2 + 1)$ 整除，在 $1 \\pm i$、$\\pm i$ 處 $g = f$。\n• (A) 正確。\n• (B) 錯誤：實係數，$f(-i) = \\overline{f(i)} = 10$。\n• (C) 錯誤：設餘式 $r(x) = ax + b$（實係數），$r(1 + i) = 5$ 得 $a = 0$、$b = 5$，是常數。\n• (D) 正確：$g = (x^2 - 2x + 2)q(x) + 5$，$q$ 為一次。$g(i) = (1 - 2i)q(i) + 5 = 10$，$q(i) = \\dfrac{5}{1 - 2i} = 1 + 2i$，所以 $q(x) = 2x + 1$。\n• (E) 錯誤：$g(x) = (x^2 - 2x + 2)(2x + 1) + 5 = 2x^3 - 3x^2 + 2x + 7$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "104-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 設 $f(x)$ 為實係數二次多項式，$g(x)$ 為實係數三次多項式。已知 $y = f(x)$ 的圖形與 $x$ 軸交於 $x = -4$ 與 $x = 0$，而 $y = g(x)$ 的圖形與 $x$ 軸交於 $x = -4, x = 0$ 及 $x = 4$，且 $f(x)$ 與 $g(x)$ 的（相對）極小值皆發生於 $-4 < x < 0$。請選出正確的選項。",
+    "options": [
+      "$f(x)$ 與 $g(x)$ 的最高次項係數皆為正",
+      "$f(x)$ 的（相對）極小值發生於 $x = -2$",
+      "$g(x)$ 的（相對）極小值發生於 $x = -2$",
+      "$g(-1) = g(-3)$",
+      "$g(-1) = -g(1)$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "$f(x) = ax(x + 4)$，有極小值所以 $a > 0$，頂點 $x = -2$。\n$g(x) = bx(x^2 - 16)$，$g'(x) = b(3x^2 - 16) = 0$ 於 $x = \\pm\\dfrac{4}{\\sqrt3}$。極小值在 $-\\dfrac{4}{\\sqrt3}$（負側），需 $b < 0$。\n• (A) 錯誤：$b < 0$。\n• (B) 正確。\n• (C) 錯誤：在 $-\\dfrac{4}{\\sqrt3} \\approx -2.31$。\n• (D) 錯誤：$g(-1) = 15b$、$g(-3) = 21b$。\n• (E) 正確：$g$ 是奇函數。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "104-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 坐標平面上有一以原點 $O$ 為圓心的圓 $C$，交直線 $x - y + 1 = 0$ 於 $Q, R$ 兩點。已知圓 $C$ 上有一點 $P$ 使得 $\\triangle PQR$ 為一正三角形。請選出正確的選項。",
+    "options": [
+      "$O$ 點與 $P$ 點皆在 $\\overline{QR}$ 的中垂線上",
+      "$P$ 點在第三象限",
+      "$\\overline{QR}$ 的中點坐標為 $\\left(-\\dfrac13, \\dfrac23\\right)$",
+      "圓 $C$ 的方程式為 $x^2 + y^2 = 2$",
+      "直線 $x - y - 1 = 0$ 為圓 $C$ 在 $P$ 點的切線"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "• (A) 正確：$\\overline{OQ} = \\overline{OR}$、$\\overline{PQ} = \\overline{PR}$。\n• $O$ 是正三角形 $PQR$ 的外心（也是重心），到 $\\overline{QR}$ 的距離為半徑的一半：$\\dfrac{1}{\\sqrt2} = \\dfrac r2$，$r = \\sqrt2$。(D) 正確。\n• (C) 錯誤：中點是 $O$ 在直線上的垂足 $\\left(-\\dfrac12, \\dfrac12\\right)$。\n• (B) 錯誤：$P$ 在垂足的反方向、距 $O$ 為 $\\sqrt2$：$P(1, -1)$，在第四象限。\n• (E) 錯誤：$P$ 點的切線垂直 $\\overrightarrow{OP} = (1, -1)$，為 $x - y = 2$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "104-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 被診斷為不孕症的患者，可分為兩類：第一類為可藉人工方式受孕；其餘患者為第二類，無法藉由人工方式受孕。第一類在不孕症的患者中所佔比例為 $p$（$0 < p < 1$），而每做一次人工受孕成功的機率為 $q$（$0 < q < 1$），且每次成功與否互相獨立。不孕症的患者除非人工受孕成功，否則無法得知是屬於哪一類的患者。請選出正確的選項。",
+    "options": [
+      "不孕症的患者，第一次人工受孕失敗的機率為 $(1 - p)(1 - q)$",
+      "在人工受孕失敗一次的情況下，屬於第二類不孕症患者的條件機率為 $\\dfrac{1 - p}{1 - pq}$",
+      "若醫學進步，讓人工受孕成功的機率 $q$ 提高了，則在人工受孕失敗一次的情況下，屬於第二類不孕症患者的條件機率會降低",
+      "在第一類的患者中，做一次人工受孕就成功的機率大於做兩次才成功的機率",
+      "若醫學進步，讓人工受孕成功的機率 $q$ 提高了，則在第一類的患者中，做一次人工受孕就成功的機率會增加，而做兩次才成功的機率會降低"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "• (A) 錯誤：失敗 = 第二類（$1 - p$）或第一類失敗（$p(1 - q)$），合計 $1 - pq$。\n• (B) 正確：$\\dfrac{1 - p}{1 - pq}$。\n• (C) 錯誤：$q$ 變大時分母 $1 - pq$ 變小，條件機率變大。\n• (D) 正確：$q > (1 - q)q$。\n• (E) 錯誤：$(1 - q)q$ 在 $q < \\dfrac12$ 時隨 $q$ 遞增。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "104-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "A. 設 $a, b$ 為實數，$f(x)$ 為 5 次實係數多項式且其最高次項係數為 $a$。若 $f(x)$ 滿足 $\\displaystyle\\int_b^x f(t)\\,dt = \\frac32\\left(x^2 + 4x + 5\\right)^3 - \\frac32$，則 $a =$ ⑨，$b =$ ⑩⑪。",
+    "blanks": [
+      "9",
+      "-",
+      "2"
+    ],
+    "acceptedBlanks": [
+      [
+        "9"
+      ],
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "2"
+      ]
+    ],
+    "blankLabels": [
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation": "兩邊微分：$f(x) = \\dfrac92(x^2 + 4x + 5)^2(2x + 4)$，最高次項 $\\dfrac92\\cdot2x^5 = 9x^5$，$a = 9$。\n代 $x = b$：左邊 0，$(b^2 + 4b + 5)^3 = 1$，$(b + 2)^2 + 1 = 1$，$b = -2$。"
+  },
+  {
+    "id": "104-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "B. 坐標空間中，設 $P, Q$ 為平面 $3x - 2y - 2z = 1$ 上兩點且滿足 $\\overline{PQ} = 7$。另取空間中兩點 $P', Q'$ 滿足向量 $\\overrightarrow{PP'} = \\overrightarrow{QQ'} = (-3, 4, 6)$。當向量 $\\overrightarrow{PQ} = \\pm$(⑫, ⑬, ⑭⑮) 時，會使得平行四邊形 $PQQ'P'$ 面積最大。",
+    "blanks": [
+      "2",
+      "6",
+      "-",
+      "3"
+    ],
+    "acceptedBlanks": [
+      [
+        "2"
+      ],
+      [
+        "6"
+      ],
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "blankLabels": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "explanation": "面積 $= |\\overrightarrow{PQ}||\\overrightarrow{PP'}|\\sin\\theta$，$|\\overrightarrow{PQ}| = 7$ 固定，$\\overrightarrow{PQ} \\perp \\overrightarrow{PP'}$ 時最大。\n$\\overrightarrow{PQ}$ 在平面上（垂直法向量 $(3, -2, -2)$）又垂直 $(-3, 4, 6)$：方向 $(3, -2, -2)\\times(-3, 4, 6) = (-4, -12, 6) \\parallel (2, 6, -3)$，長度恰為 7。\n$\\overrightarrow{PQ} = \\pm(2, 6, -3)$。"
+  },
+  {
+    "id": "104-ast-ma-C",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "C. 一盒子裡有 $n$（$n > 3$）顆大小相同的球，其中有 1 顆紅球、2 顆藍球以及 $n - 3$ 顆白球。從盒子裡隨機同時抽取 3 球，所得球的計分方式為每顆紅球、藍球及白球分別為 $2n$ 分、$n$ 分及 1 分。若所得分數的期望值為 $E_n$，則 $\\displaystyle\\lim_{n\\to\\infty}E_n =$ ⑯⑰。",
+    "blanks": [
+      "1",
+      "5"
+    ],
+    "blankLabels": [
+      "16",
+      "17"
+    ],
+    "explanation": "每顆球被抽到的機率都是 $\\dfrac3n$，由期望值的線性性：\n$$E_n = \\frac3n\\left(2n + 2n + (n - 3)\\right) = \\frac{3(5n - 3)}{n} \\to 15$$"
+  },
+  {
+    "id": "104-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】有一時鐘的時針長度為 5 公分，分針長度為 8 公分。假設時針針尖每分鐘所移動的弧長都相等。試回答下列問題。\n(1) 試求時針針尖每分鐘所移動的弧長。（3 分）",
+    "points": 3,
+    "blanks": [
+      "$\\dfrac{\\pi}{72}$ 公分"
+    ],
+    "blankLabels": [
+      "弧長"
+    ],
+    "explanation": "時針每分鐘轉 $0.5^\\circ = \\dfrac{\\pi}{360}$，弧長 $5\\cdot\\dfrac{\\pi}{360} = \\dfrac{\\pi}{72}$ 公分。"
+  },
+  {
+    "id": "104-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】有一時鐘的時針長度為 5 公分，分針長度為 8 公分。假設時針針尖每分鐘所移動的弧長都相等。試回答下列問題。\n(2) 已知時針針尖與分針針尖距離為 7 公分，求時針和分針所夾的角度。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$60^\\circ$（$\\dfrac{\\pi}{3}$）"
+    ],
+    "blankLabels": [
+      "夾角"
+    ],
+    "explanation": "餘弦定理：$\\cos\\theta = \\dfrac{25 + 64 - 49}{2\\cdot5\\cdot8} = \\dfrac12$，$\\theta = 60^\\circ$。"
+  },
+  {
+    "id": "104-ast-ma-non-1-3",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】有一時鐘的時針長度為 5 公分，分針長度為 8 公分。假設時針針尖每分鐘所移動的弧長都相等。試回答下列問題。\n(3) 試問在六點與六點半之間，時針針尖與分針針尖的距離最接近 7 公分是在六點幾分（取至最接近的整數分鐘）？（4 分）",
+    "points": 4,
+    "blanks": [
+      "6 點 22 分"
+    ],
+    "blankLabels": [
+      "時間"
+    ],
+    "explanation": "6 點整兩針夾 $180^\\circ$，之後每分鐘夾角減少 $6^\\circ - 0.5^\\circ = 5.5^\\circ$。距離 7 公分時夾角 $60^\\circ$：$\\dfrac{120}{5.5} \\approx 21.8$ 分，最接近 6 點 22 分。"
+  },
+  {
+    "id": "104-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設無窮數列 $\\langle a_n\\rangle$ 符合 $a_0 = 0$ 且當 $n \\ge 1$ 時，$a_n$ 滿足 $a_n - a_{n-1} = \\left(\\dfrac15\\right)^n$（當 $n$ 為偶數），$a_n - a_{n-1} = \\left(\\dfrac15\\right)^n - \\left(\\dfrac13\\right)^n$（當 $n$ 為奇數）。試回答下列問題。\n(1) 將 $a_6$ 寫成兩個等比級數的差，其中一個有 6 項，另一個有 3 項。（2 分）",
+    "points": 2,
+    "blanks": [
+      "$a_6 = \\displaystyle\\sum_{k=1}^{6}\\left(\\frac15\\right)^k - \\left[\\frac13 + \\left(\\frac13\\right)^3 + \\left(\\frac13\\right)^5\\right]$"
+    ],
+    "blankLabels": [
+      "a6"
+    ],
+    "explanation": "$a_6 = \\displaystyle\\sum_{n=1}^{6}(a_n - a_{n-1})$：每項都有 $\\left(\\dfrac15\\right)^n$，奇數項另外減 $\\left(\\dfrac13\\right)^n$：\n$a_6 = \\left[\\dfrac15 + \\cdots + \\left(\\dfrac15\\right)^6\\right] - \\left[\\dfrac13 + \\left(\\dfrac13\\right)^3 + \\left(\\dfrac13\\right)^5\\right]$。"
+  },
+  {
+    "id": "104-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設無窮數列 $\\langle a_n\\rangle$ 符合 $a_0 = 0$ 且當 $n \\ge 1$ 時，$a_n$ 滿足 $a_n - a_{n-1} = \\left(\\dfrac15\\right)^n$（當 $n$ 為偶數），$a_n - a_{n-1} = \\left(\\dfrac15\\right)^n - \\left(\\dfrac13\\right)^n$（當 $n$ 為奇數）。試回答下列問題。\n(2) 求 $\\displaystyle\\lim_{n\\to\\infty}a_{2n}$ 的值。（3 分）",
+    "points": 3,
+    "blanks": [
+      "$-\\dfrac18$"
+    ],
+    "blankLabels": [
+      "極限"
+    ],
+    "explanation": "$$\\lim_{n\\to\\infty}a_{2n} = \\frac{\\frac15}{1 - \\frac15} - \\frac{\\frac13}{1 - \\frac19} = \\frac14 - \\frac38 = -\\frac18$$"
+  },
+  {
+    "id": "104-ast-ma-non-2-3",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設無窮數列 $\\langle a_n\\rangle$ 符合 $a_0 = 0$ 且當 $n \\ge 1$ 時，$a_n$ 滿足 $a_n - a_{n-1} = \\left(\\dfrac15\\right)^n$（當 $n$ 為偶數），$a_n - a_{n-1} = \\left(\\dfrac15\\right)^n - \\left(\\dfrac13\\right)^n$（當 $n$ 為奇數）。試回答下列問題。\n(3) 證明：當 $n \\ge 0$ 時 $a_{2n+2} - a_{2n} < 0$。並依此說明對於所有正整數 $n$，不等式 $-\\dfrac18 \\le a_{2n} < 0$ 恆成立。（8 分）",
+    "points": 8,
+    "blanks": [
+      "$a_{2n+2} - a_{2n} = \\dfrac{6}{25}\\left(\\dfrac15\\right)^{2n} - \\dfrac13\\left(\\dfrac13\\right)^{2n} < 0$，數列遞減趨近 $-\\dfrac18$"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "$$a_{2n+2} - a_{2n} = \\left(\\frac15\\right)^{2n+2} + \\left(\\frac15\\right)^{2n+1} - \\left(\\frac13\\right)^{2n+1} = \\frac{6}{25}\\left(\\frac15\\right)^{2n} - \\frac13\\left(\\frac13\\right)^{2n}$$\n因 $\\dfrac{6}{25} < \\dfrac13$ 且 $\\left(\\dfrac15\\right)^{2n} \\le \\left(\\dfrac13\\right)^{2n}$，差小於 0。\n所以 $a_0 = 0 > a_2 > a_4 > \\cdots$，嚴格遞減且極限為 $-\\dfrac18$，故對正整數 $n$：$-\\dfrac18 \\le a_{2n} < 0$（嚴格遞減數列的每一項都大於其極限）。"
   }
 ]
