@@ -258441,5 +258441,860 @@
       "工程計畫"
     ],
     "explanation": "南水北調工程把長江流域的水分東、中、西三線調往缺水的華北與西北。"
+  },
+  {
+    "id": "92-ast-geo-01",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "臺灣的山坡地因過度墾殖而水土流失嚴重，為解決此一問題，政府正積極推動山坡地造林工作。如果山坡地全部退耕還林，河川最可能出現下列哪一種變化？",
+    "options": [
+      "豪雨時洪水水位變高",
+      "夏季時河水流速加快",
+      "冬季時河水流量增多",
+      "暴雨時洪峰到達時間縮短"
+    ],
+    "answerIndex": 2,
+    "explanation": "森林涵養水源，雨季時讓雨水入滲成為地下水，乾季（冬季）再慢慢流出補充河水，使枯水期流量增多；同時降低洪峰、延後洪峰到達時間。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-geo-02",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "中國某一種農業活動的方式是：「農民利用水渠或坎井灌溉農田，在狹小的耕地上，栽種較高大的果樹，並在其綠蔭下，種植棉花、麥類、葡萄、瓜果等，作物成層分布。」就中國的六大地區而言，該種農業活動最可能出現在哪兩個地區？",
+    "options": [
+      "東北、塞北",
+      "塞北、西部",
+      "西部、華南",
+      "華北、東北"
+    ],
+    "answerIndex": 1,
+    "explanation": "坎井（坎兒井）灌溉的綠洲農業見於乾燥的新疆、河西走廊、內蒙古等地，屬塞北與西部地區。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-geo-03",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "美國哪一個農業帶的農業經營方式，和混合農業最為類似？",
+    "options": [
+      "棉花帶",
+      "玉米帶",
+      "小麥帶",
+      "放牧帶"
+    ],
+    "answerIndex": 1,
+    "explanation": "玉米帶種植玉米、大豆作為飼料，並飼養肉牛、豬，作物與牲畜結合，正是混合農業。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-geo-04",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "世界五大宗教均發源於西、南亞，其中哪一個宗教在其發源地目前信徒極少，居民多改信其他宗教？",
+    "options": [
+      "佛教",
+      "猶太教",
+      "印度教",
+      "伊斯蘭教"
+    ],
+    "answerIndex": 0,
+    "explanation": "佛教發源於印度，後來在印度衰微，當地居民多信奉印度教，佛教則盛行於東亞、東南亞。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-geo-05",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "一般而言，大部分的地圖都繪有網格狀的地理網線，網格的主要功能為何？",
+    "options": [
+      "利於等高線的繪製",
+      "便於地形剖面的透視",
+      "便於估算天然資源的豐缺",
+      "利於判別地形地物的位置"
+    ],
+    "answerIndex": 3,
+    "explanation": "經緯網或座標方格可用來定出地物的位置。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-geo-06",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "智利國土受限於安地斯山脈，東西寬不超過180公里，但南北則長達4200公里，狹長的國土形狀，使其景觀豐富而多變化。下列該國各項重要景觀由南而北出現的正確順序為何？甲、群聚的企鵝；乙、遍野的桃、杏水果園；丙、荒涼單調的沙漠。",
+    "options": [
+      "甲乙丙",
+      "甲丙乙",
+      "乙甲丙",
+      "丙甲乙"
+    ],
+    "answerIndex": 0,
+    "explanation": "智利南端接近南極，有企鵝（甲）；中部是地中海型氣候，盛產桃、杏等水果（乙）；北部是阿他加馬沙漠（丙）。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-geo-07",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖1是1990年代某種作物的各國產量分配圖，這種作物應該是：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-07.png\" alt=\"圖1 1990 年代某作物各國產量圓餅圖：中國大陸占最大一塊（約三成多），其次為印度（約兩成），再來是印尼，以及孟加拉、泰國、越南等較小的扇形，其餘為「其他」\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "小麥",
+      "棉花",
+      "甘蔗",
+      "稻米"
+    ],
+    "answerIndex": 3,
+    "explanation": "主要生產國是中國、印度、印尼、孟加拉、泰國、越南，都是季風亞洲的稻作國家。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-geo-08",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "「近年來，原料、能源、勞工等傳統工業區位要素的重要性已日漸減弱，市場、政策等因素對工業區位選擇的影響力愈來愈大。」導致這種轉變的最根本原因是什麼？",
+    "options": [
+      "生產技術革新",
+      "環保意識增強",
+      "市場規模擴大",
+      "資源耗損加速"
+    ],
+    "answerIndex": 0,
+    "explanation": "生產與運輸技術進步，原料、能源使用效率提高、運輸成本降低，自動化也減少對勞力的依賴，傳統區位因子的影響力因而減弱。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-geo-09",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "某人旅遊日記上記載：「今天我參觀一處大型農場，農場內有工人宿舍、學校、天主教堂；除了宿舍附近種有一些蔬菜和水果外，農場內最主要的作物是咖啡。」該種農場景觀在下列哪一個地區最為常見？",
+    "options": [
+      "德干高原",
+      "中南半島",
+      "巴西高原",
+      "伊比利半島"
+    ],
+    "answerIndex": 2,
+    "explanation": "巴西高原是世界最大的咖啡產區，大型咖啡園（fazenda）自成一個社區，居民多信天主教。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-geo-10",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "王先生最近移民澳洲雪梨，想買一間面向正北方的二層樓房。為了在房子後方的空地找出全年陽光都照不到的地方，以便規劃植栽的內容，王先生應該選擇在下列哪一個月份某日的中午時刻去參觀？",
+    "options": [
+      "三月",
+      "六月",
+      "九月",
+      "十二月"
+    ],
+    "answerIndex": 3,
+    "explanation": "雪梨在南半球，正午太陽在北方，房子後方（南側）有陰影。12 月是南半球夏至，正午太陽高度角最大，房屋的陰影最短；這時陰影仍涵蓋的地方，就是全年陽光都照不到的地方。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-geo-11",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖2為上海沿岸某個月份的海水鹽度分布圖，從圖中可看出海水等鹽度線有從海岸線向外凸出的現象。一般而言，等鹽度線外凸的情況，在下列哪一個月份最為顯著？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-11.png\" alt=\"圖2 上海沿岸海水等鹽度線（‰）：靠近長江口的鹽度 28～30，向外海增加到 31～34；等鹽度線在長江口外向東南外海明顯凸出\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "一月",
+      "四月",
+      "七月",
+      "十月"
+    ],
+    "answerIndex": 2,
+    "explanation": "長江在夏季（七月）流量最大，大量淡水注入海中，使低鹽度海水向外海擴展得最遠。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-geo-12",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "丹麥是中、西歐和斯堪地半島間往來的陸橋，也是控制哪二個海域間通航的門戶，而素有「北歐十字路口國」之稱？",
+    "options": [
+      "黑海、波羅的海",
+      "地中海、大西洋",
+      "波羅的海、北海",
+      "北海、北極海"
+    ],
+    "answerIndex": 2,
+    "explanation": "丹麥扼守波羅的海出口的海峽，連通波羅的海與北海。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-geo-13",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "社會科學的研究者常透過歷史地圖獲得過去的資訊。在清代臺灣的歷史地圖中，哪一項資料的正確性最高？",
+    "options": [
+      "山地的高度",
+      "河川的長度",
+      "行政區的面積",
+      "聚落的相對方位"
+    ],
+    "answerIndex": 3,
+    "explanation": "清代地圖多為山水畫式的示意圖，沒有精確的測量與比例尺，高度、長度、面積都不準確，只有聚落間的相對方位較可信。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-geo-14",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "珊瑚礁島國土瓦魯，位於大洋洲，該國領導人在一份聲明中說，他們對抗環境變遷的努力已告失敗，將放棄自己的家園，舉國移民紐西蘭。該聲明中所謂之「環境變遷」最可能是下列何者？",
+    "options": [
+      "海平面上升",
+      "火山爆發",
+      "酸雨侵蝕",
+      "臭氧層破洞"
+    ],
+    "answerIndex": 0,
+    "explanation": "吐瓦魯是海拔僅數公尺的珊瑚礁島，全球暖化造成的海平面上升威脅國土存亡。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-geo-15",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "以下是1994年有關印度半島降雨情形的兩則新聞報導：甲、「新德里連續三週每日高達45℃的熱浪，終於告一段落，昨日的傾盆大雨使首都的氣溫明顯降低……。」乙、「季風帶來好幾波的暴雨，橫掃印度和巴基斯坦，已經奪走近600人的生命……。」甲、乙兩則新聞報導依序最可能發生在哪兩個月份？",
+    "options": [
+      "三月、四月",
+      "六月、七月",
+      "九月、十月",
+      "十二月、一月"
+    ],
+    "answerIndex": 1,
+    "explanation": "印度在雨季前的 5～6 月最熱，6 月西南季風抵達帶來降雨，熱浪結束（甲）；7 月是季風雨的高峰，常有水災（乙）。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-geo-16",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖3是阿根廷北部不同農業類型的分布示意圖。下列哪一個概念最適宜用來解釋該地的農業分布？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-16.png\" alt=\"圖3 阿根廷北部農業分布示意圖：由巴拉那河口的布宜諾斯艾利斯向內陸，依序為乳牛場和園藝農場、混合農業，最外圍（遠方高地）為畜牧業\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "區位租",
+      "空間擴散",
+      "乘數效應",
+      "連鎖型分工"
+    ],
+    "answerIndex": 0,
+    "explanation": "以布宜諾斯艾利斯為市場中心，向外依序為乳牛與園藝、混合農業、畜牧業，是杜能（屠能）區位租概念下的同心圓農業分布。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-geo-17",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖4是四種海陸等溫線分布的示意圖，其中哪一幅圖最能展現北半球一月份等溫線分布的特性﹖",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-17.png\" alt=\"圖4 四幅海陸等溫線示意圖，皆為左側陸地、右側海洋，18℃ 與 20℃ 兩條虛線由左向右橫越：甲 20℃ 在上、18℃ 在下，等溫線在陸地向上彎、在海洋向下彎；乙 18℃ 在上、20℃ 在下，等溫線在陸地向下彎、在海洋向上彎；丙 20℃ 在上、18℃ 在下，等溫線在陸地向下彎、在海洋向上彎；丁 18℃ 在上、20℃ 在下，等溫線在陸地向上彎、在海洋向下彎\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "北半球氣溫向北（圖的上方）遞減，所以 20℃ 應在 18℃ 下方（南方）。一月陸地比海洋冷，等溫線經過陸地時向南（下）彎，經過海洋時向北（上）彎。對照四圖，符合的是乙。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-geo-18",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖5是北半球四座山的示意圖，圖中分別標明山腳處不同月份的月均溫。平均而言，地勢每升高100公尺，氣溫降低0.6℃。請問哪一座山的山頂，最可能出現終年積雪的現象﹖",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-18.png\" alt=\"圖5 北半球四座山（山腳海拔 0）：甲 高 2500 公尺，山腳七月均溫 16℃；乙 高 2200 公尺，山腳七月均溫 12℃；丙 高 1800 公尺，山腳一月均溫 10℃；丁 高 1500 公尺，山腳一月均溫 8℃\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "終年積雪的條件是最暖月（北半球七月）山頂均溫仍在 0℃ 以下。甲：$16 - 25 \\times 0.6 = 1$℃；乙：$12 - 22 \\times 0.6 = -1.2$℃，最暖月仍低於 0℃。丙、丁只給一月氣溫，無法表示全年都低於 0℃。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-geo-19",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "表1、臺灣四大區域平均每戶全年收入指數的變遷（臺灣平均每戶全年收入指數＝100）\n<svg viewBox=\"0 0 464 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:556.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"100\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"52\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">年代</text><rect x=\"102\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">北部區域</text><rect x=\"192\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">中部區域</text><rect x=\"282\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">南部區域</text><rect x=\"372\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"417\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">東部區域</text><rect x=\"2\" y=\"32\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"52\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">民國75年</text><rect x=\"102\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">113</text><rect x=\"192\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">92</text><rect x=\"282\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">89</text><rect x=\"372\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"417\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">81</text><rect x=\"2\" y=\"60\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"52\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">民國85年</text><rect x=\"102\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">114</text><rect x=\"192\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">89</text><rect x=\"282\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">89</text><rect x=\"372\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"417\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">80</text><rect x=\"2\" y=\"88\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"52\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">民國90年</text><rect x=\"102\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">115</text><rect x=\"192\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">90</text><rect x=\"282\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">86</text><rect x=\"372\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"417\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">80</text></svg>\n\n表1是臺灣四大區域平均每戶全年收入指數的變遷資料。下列哪一個概念最適合用來解釋北部區域平均每戶全年收入指數增加，而中、南和東部三區域平均每戶全年收入指數減少的發展趨勢？",
+    "options": [
+      "商閾",
+      "鄰近效果",
+      "乘數效應",
+      "反吸與退化"
+    ],
+    "answerIndex": 3,
+    "explanation": "核心的北部區域吸引其他區域的人才、資金（反吸），使其他區域相對退化，區域差距擴大。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-geo-20",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "20-22 為題組\n「臺灣島平均每年約發生2200次地震。其中有感地震二百餘次，災害性地震可能有一次。輕微的地震，會使山坡地的土石變得鬆散而容易崩塌，以致豪雨時容易造成土石流。強烈的地震，則容易在山區引發山崩與落石，人民的生命財產遭受到嚴重損失。」請問：\n\n臺灣多地震的原因，和臺灣島的哪一項位置特性關係最密切？",
+    "options": [
+      "北回歸線的通過位置",
+      "海洋與大陸的交會位置",
+      "東北季風和西南季風的交替位置",
+      "菲律賓海板塊和歐亞大陸板塊的接觸位置"
+    ],
+    "answerIndex": 3,
+    "explanation": "臺灣位於菲律賓海板塊與歐亞大陸板塊的聚合帶，板塊擠壓使地震頻繁。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-geo-21",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "20-22 為題組\n「臺灣島平均每年約發生2200次地震。其中有感地震二百餘次，災害性地震可能有一次。輕微的地震，會使山坡地的土石變得鬆散而容易崩塌，以致豪雨時容易造成土石流。強烈的地震，則容易在山區引發山崩與落石，人民的生命財產遭受到嚴重損失。」請問：\n\n地震震央發生在下列哪一個縣的可能性最低？",
+    "options": [
+      "花蓮",
+      "苗栗",
+      "澎湖",
+      "臺南"
+    ],
+    "answerIndex": 2,
+    "explanation": "澎湖位於臺灣海峽中，遠離板塊交界，地殼較穩定，地震最少。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-geo-22",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "20-22 為題組\n「臺灣島平均每年約發生2200次地震。其中有感地震二百餘次，災害性地震可能有一次。輕微的地震，會使山坡地的土石變得鬆散而容易崩塌，以致豪雨時容易造成土石流。強烈的地震，則容易在山區引發山崩與落石，人民的生命財產遭受到嚴重損失。」請問：\n\n臺灣下列哪一個地區的地形發育，和土石流的關係最密切？",
+    "options": [
+      "高雄縣大岡山",
+      "屏東縣恆春西台地",
+      "臺中縣清水海岸平原",
+      "花蓮縣木瓜溪沖積扇"
+    ],
+    "answerIndex": 3,
+    "explanation": "沖積扇由山區溪流挾帶大量土石，在出山口堆積而成，土石流是重要的堆積來源。大岡山是珊瑚礁石灰岩台地；恆春西台地是隆起台地；清水平原是海岸平原。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-geo-23",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "23-25 為題組\n下文是對中國東南半部某一地區的描述：「該地區山多田少，陸上交通不便。海岸線綿長曲折，天然港灣眾多，島嶼星羅棋佈。許多沿海居民自古即以海為田，有的捕魚曬鹽，有的發展貿易，有的甚至遷移海外；內陸居民則種植茶、蔗和水果等經濟作物，供應沿海貿易所需。」請問：\n\n引文描述的地區最可能是下列何地？",
+    "options": [
+      "海南島",
+      "東南丘陵",
+      "江南丘陵",
+      "山東丘陵"
+    ],
+    "answerIndex": 1,
+    "explanation": "山多田少、海岸曲折、港灣島嶼多、居民向海外發展、種植茶與蔗，是閩浙一帶的東南丘陵。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-geo-24",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "23-25 為題組\n下文是對中國東南半部某一地區的描述：「該地區山多田少，陸上交通不便。海岸線綿長曲折，天然港灣眾多，島嶼星羅棋佈。許多沿海居民自古即以海為田，有的捕魚曬鹽，有的發展貿易，有的甚至遷移海外；內陸居民則種植茶、蔗和水果等經濟作物，供應沿海貿易所需。」請問：\n\n引文描述的地區，沿海居民自古即向海外發展貿易，除該地的海岸特性外，還和下列哪一因素有關？",
+    "options": [
+      "河川短促",
+      "季風交替",
+      "族群複雜",
+      "宗教多元"
+    ],
+    "answerIndex": 1,
+    "explanation": "帆船時代靠季風航行：冬季東北季風南下東南亞，夏季西南季風北返，季風交替有利於海外貿易。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-geo-25",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "23-25 為題組\n下文是對中國東南半部某一地區的描述：「該地區山多田少，陸上交通不便。海岸線綿長曲折，天然港灣眾多，島嶼星羅棋佈。許多沿海居民自古即以海為田，有的捕魚曬鹽，有的發展貿易，有的甚至遷移海外；內陸居民則種植茶、蔗和水果等經濟作物，供應沿海貿易所需。」請問：\n\n引文描述的地區，沿海有大批居民遷移海外。下列哪一個概念最適宜用來解釋這種遷移活動？",
+    "options": [
+      "負載力",
+      "生態平衡",
+      "核心邊陲",
+      "擴散與模仿"
+    ],
+    "answerIndex": 0,
+    "explanation": "山多田少，土地無法養活日漸增加的人口，超過環境負載力，居民只好向外遷移。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-geo-26",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "26-28 為題組\n某一國家60％的國土是山地，地勢高聳，U形谷發達。該國政治上採聯邦體制，有四種官方語言。鐘錶、儀器等精緻工業和金融業發達，旅遊業興盛，是世界最富有的國家之一。請問：\n\n上文所述的國家，最可能是下列哪一國？",
+    "options": [
+      "日本",
+      "挪威",
+      "瑞士",
+      "紐西蘭"
+    ],
+    "answerIndex": 2,
+    "explanation": "阿爾卑斯山國、聯邦制、四種官方語言（德、法、義、羅曼斯語）、鐘錶與金融業發達，是瑞士。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-geo-27",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "26-28 為題組\n某一國家60％的國土是山地，地勢高聳，U形谷發達。該國政治上採聯邦體制，有四種官方語言。鐘錶、儀器等精緻工業和金融業發達，旅遊業興盛，是世界最富有的國家之一。請問：\n\n該國山地多U形谷，是什麼作用力造成的？",
+    "options": [
+      "斷層作用",
+      "褶曲作用",
+      "溶蝕作用",
+      "冰河作用"
+    ],
+    "answerIndex": 3,
+    "explanation": "U 形谷是冰河侵蝕谷地形成的。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-geo-28",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "26-28 為題組\n某一國家60％的國土是山地，地勢高聳，U形谷發達。該國政治上採聯邦體制，有四種官方語言。鐘錶、儀器等精緻工業和金融業發達，旅遊業興盛，是世界最富有的國家之一。請問：\n\n該國發展工業時，國內最可能提供的能源為何？",
+    "options": [
+      "煤",
+      "石油",
+      "水力",
+      "天然氣"
+    ],
+    "answerIndex": 2,
+    "explanation": "瑞士缺乏化石燃料，但山高谷深、冰河融水豐富，水力資源充足。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-geo-29",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "29-31 為題組\n十九世紀時，東非和東南亞大部分地區曾經是西歐列強的殖民地。東非的（甲國）位於英國殖民地和（乙國）殖民地的緩衝帶，東南亞的（丙國）位於英國殖民地和（丁國）殖民地的緩衝帶，甲丙兩國因而得以維持獨立。目前甲丙兩國的農產品外銷，分別以（戊）和（己）二種現金作物為主。請問：\n\n空格（甲國）和（丙國）是指哪二個國家？",
+    "options": [
+      "肯亞、泰國",
+      "肯亞、印尼",
+      "衣索比亞、泰國",
+      "坦尚尼亞、馬來西亞"
+    ],
+    "answerIndex": 2,
+    "explanation": "東非的衣索比亞與東南亞的泰國都在列強殖民地之間，維持了獨立。肯亞、坦尚尼亞、印尼、馬來西亞都曾被殖民。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-geo-31",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "29-31 為題組\n十九世紀時，東非和東南亞大部分地區曾經是西歐列強的殖民地。東非的（甲國）位於英國殖民地和（乙國）殖民地的緩衝帶，東南亞的（丙國）位於英國殖民地和（丁國）殖民地的緩衝帶，甲丙兩國因而得以維持獨立。目前甲丙兩國的農產品外銷，分別以（戊）和（己）二種現金作物為主。請問：\n\n空格（戊）和（己）是指哪二種作物？",
+    "options": [
+      "香蕉、咖啡",
+      "咖啡、橡膠",
+      "棉花、橡膠",
+      "棉花、香蕉"
+    ],
+    "answerIndex": 1,
+    "explanation": "衣索比亞是咖啡的原鄉，以咖啡為主要出口農產；泰國是世界最大的天然橡膠出口國。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-geo-32",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "32-34 為題組\n2002年11月16日，「嚴重急性呼吸道症候群」（SARS）首次在中國的佛山出現，不久即傳染到臺灣和世界各地。2003年4月22日，臺北市立和平醫院爆發院內集體感染，SARS疫情迅即全臺延燒，至5月24日止，全臺共有2113個疑似SARS通報病例，其分布如圖6所示。請問：\n\nSARS首次出現在中國的哪一個地理區？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-32.png\" alt=\"圖6 臺灣各縣市疑似 SARS 通報病例數（至 5 月 24 日）：200 以上（最深色）為台北市、台北縣；100～199 為桃園縣與高雄縣市一帶；50～100 為台中市一帶與屏東縣；其餘縣市（含澎湖、金門、連江）多為 1～40\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "海河平原",
+      "長江三角洲",
+      "成都平原",
+      "珠江三角洲"
+    ],
+    "answerIndex": 3,
+    "explanation": "佛山位於廣東省，屬珠江三角洲。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-geo-33",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "32-34 為題組\n2002年11月16日，「嚴重急性呼吸道症候群」（SARS）首次在中國的佛山出現，不久即傳染到臺灣和世界各地。2003年4月22日，臺北市立和平醫院爆發院內集體感染，SARS疫情迅即全臺延燒，至5月24日止，全臺共有2113個疑似SARS通報病例，其分布如圖6所示。請問：\n\n臺灣疑似SARS通報病例的分布，和下列何者的關係最密切？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-32.png\" alt=\"圖6 臺灣各縣市疑似 SARS 通報病例數（至 5 月 24 日）：200 以上（最深色）為台北市、台北縣；100～199 為桃園縣與高雄縣市一帶；50～100 為台中市一帶與屏東縣；其餘縣市（含澎湖、金門、連江）多為 1～40\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "人口密度",
+      "地形起伏",
+      "族群組成",
+      "雨量多寡"
+    ],
+    "answerIndex": 0,
+    "explanation": "病例集中在台北、高雄等人口稠密的都會區，與人口密度關係最密切。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-geo-34",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "32-34 為題組\n2002年11月16日，「嚴重急性呼吸道症候群」（SARS）首次在中國的佛山出現，不久即傳染到臺灣和世界各地。2003年4月22日，臺北市立和平醫院爆發院內集體感染，SARS疫情迅即全臺延燒，至5月24日止，全臺共有2113個疑似SARS通報病例，其分布如圖6所示。請問：\n\n下列哪一套理論概念最適合用來研究疑似SARS通報病例分布的時間變化？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-32.png\" alt=\"圖6 臺灣各縣市疑似 SARS 通報病例數（至 5 月 24 日）：200 以上（最深色）為台北市、台北縣；100～199 為桃園縣與高雄縣市一帶；50～100 為台中市一帶與屏東縣；其餘縣市（含澎湖、金門、連江）多為 1～40\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "邱念圈",
+      "空間擴散",
+      "中地體系",
+      "韋伯理論"
+    ],
+    "answerIndex": 1,
+    "explanation": "傳染病由發源地隨時間向外傳播，適合用空間擴散的概念分析。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-geo-35",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "35-36 為題組\n表2是美國四個城市40年降雨量的年平均數、標準差和變異係數。請問：\n\n表2、美國四個城市40年降雨量統計資料\n<svg viewBox=\"0 0 434 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:520.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">城市</text><rect x=\"72\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">平均數(mm)</text><rect x=\"192\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">標準差(mm)</text><rect x=\"312\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">變異係數(%)</text><rect x=\"2\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"72\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1300.9</text><rect x=\"192\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">150.9</text><rect x=\"312\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11.6</text><rect x=\"2\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"72\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">903.2</text><rect x=\"192\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">188.1</text><rect x=\"312\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">20.8</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"72\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">701.8</text><rect x=\"192\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">190.5</text><rect x=\"312\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">27.1</text><rect x=\"2\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"72\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">244.3</text><rect x=\"192\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">112.3</text><rect x=\"312\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">46.0</text></svg>\n註：變異係數＝(標準差/平均數)×100%\n\n丁城最可能位在美國的哪一州？",
+    "options": [
+      "東北部的紐約州",
+      "東南部的佛羅里達州",
+      "西北部的華盛頓州",
+      "西南部的加州"
+    ],
+    "answerIndex": 3,
+    "explanation": "丁城年雨量最少（244 mm）、變異係數最大（46%），是乾燥地區的特徵，最可能在西南部的加州（南部內陸）。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-geo-36",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "35-36 為題組\n表2是美國四個城市40年降雨量的年平均數、標準差和變異係數。請問：\n\n表2、美國四個城市40年降雨量統計資料\n<svg viewBox=\"0 0 434 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:520.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">城市</text><rect x=\"72\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">平均數(mm)</text><rect x=\"192\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">標準差(mm)</text><rect x=\"312\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">變異係數(%)</text><rect x=\"2\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"72\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1300.9</text><rect x=\"192\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">150.9</text><rect x=\"312\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11.6</text><rect x=\"2\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"72\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">903.2</text><rect x=\"192\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">188.1</text><rect x=\"312\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">20.8</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"72\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">701.8</text><rect x=\"192\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">190.5</text><rect x=\"312\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">27.1</text><rect x=\"2\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"72\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">244.3</text><rect x=\"192\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">112.3</text><rect x=\"312\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">46.0</text></svg>\n註：變異係數＝(標準差/平均數)×100%\n\n解讀表2中的資料，可獲得下列哪一項結論？",
+    "options": [
+      "根據平均數，可知丙城的降雨強度最大",
+      "根據標準差，可知丁城的年降雨量最少",
+      "根據標準差，可知乙城的降雨量季節變化最大",
+      "根據變異係數，可知甲城的年降雨量變化最小"
+    ],
+    "answerIndex": 3,
+    "explanation": "變異係數可比較平均數不同的資料的相對變化程度，甲城最小（11.6%），年雨量最穩定。年平均數不能說明降雨強度；年雨量多少要看平均數；年資料也無法看出季節變化。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-geo-37",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "37-38 為題組\n圖7是臺灣三級產業就業人口比例的變化圖，圖中甲、乙、丙代表各級產業就業人口比例的變化曲線。請問：\n\n這種變化過程稱為什麼？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-37.png\" alt=\"圖7 臺灣三級產業就業人口比例（民國 41～90 年）：甲由約 56% 持續下降，民國 60 年代後急降到 90 年的約 8%；乙由約 27% 緩慢上升，到 90 年約 55%；丙由約 17% 上升，民國 70 年前後達約 42% 高峰後略降到約 37%\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "部門轉移",
+      "所得彈性",
+      "區域分化",
+      "機能分類"
+    ],
+    "answerIndex": 0,
+    "explanation": "就業人口由第一級產業（甲）轉向第二級（丙）、再轉向第三級產業（乙），稱為部門轉移。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-geo-38",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "37-38 為題組\n圖7是臺灣三級產業就業人口比例的變化圖，圖中甲、乙、丙代表各級產業就業人口比例的變化曲線。請問：\n\n根據羅斯托（W. W. Rostow）的經濟發展階段模式，臺灣自民國79年以後，已進入哪一個發展階段？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-37.png\" alt=\"圖7 臺灣三級產業就業人口比例（民國 41～90 年）：甲由約 56% 持續下降，民國 60 年代後急降到 90 年的約 8%；乙由約 27% 緩慢上升，到 90 年約 55%；丙由約 17% 上升，民國 70 年前後達約 42% 高峰後略降到約 37%\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "起飛前期",
+      "起飛期",
+      "成熟期",
+      "大量消費期"
+    ],
+    "answerIndex": 3,
+    "explanation": "民國 79 年以後第三級產業就業人口超過一半，國民所得高，消費與服務業興盛，屬大量消費期。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-geo-39",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "39-41 為題組\n圖8為亞洲東部某日的天氣圖，請根據此圖回答下列問題：\n\n該天氣圖最常出現在下列哪一個月份？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-39.png\" alt=\"圖8 亞洲東部天氣圖：蒙古、華北一帶為強大的高氣壓（H），等壓線密集向東南延伸到臺灣；日本東方海上為低氣壓（L），冷鋒由日本向西南延伸到東海\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "一月",
+      "四月",
+      "七月",
+      "十月"
+    ],
+    "answerIndex": 0,
+    "explanation": "蒙古高壓（西伯利亞高壓）強盛、等壓線密集、冷鋒南下，是冬季寒潮爆發的天氣型態，最常見於一月。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-geo-40",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "39-41 為題組\n圖8為亞洲東部某日的天氣圖，請根據此圖回答下列問題：\n\n該日臺灣北部區域，最可能出現下列哪三種風向的風？甲、北風；乙、東北風；丙、東南風；丁、南風；戊、西南風；己、西北風。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-39.png\" alt=\"圖8 亞洲東部天氣圖：蒙古、華北一帶為強大的高氣壓（H），等壓線密集向東南延伸到臺灣；日本東方海上為低氣壓（L），冷鋒由日本向西南延伸到東海\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙己",
+      "乙丙丁",
+      "乙戊己",
+      "丙丁戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "高壓在西北方、低壓在東北方，冷空氣由北方南下，臺灣北部吹北風、東北風，並可能有西北風。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-geo-41",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "39-41 為題組\n圖8為亞洲東部某日的天氣圖，請根據此圖回答下列問題：\n\n該日臺灣地區最可能遭受何種氣象災害？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-39.png\" alt=\"圖8 亞洲東部天氣圖：蒙古、華北一帶為強大的高氣壓（H），等壓線密集向東南延伸到臺灣；日本東方海上為低氣壓（L），冷鋒由日本向西南延伸到東海\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "豪雨",
+      "寒害",
+      "焚風",
+      "龍捲風"
+    ],
+    "answerIndex": 1,
+    "explanation": "強烈大陸冷氣團南下，氣溫驟降，容易造成農漁業寒害。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-geo-42",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "42-43 為題組\n根據華南地區河川的水文特性推測，若在該地區某河川興建水庫，則水庫下游水文測站觀測的水位變化曲線，會產生顯著差異。圖9中的兩條曲線分別表示該水文測站在水庫完成前後的水位變化。請問：\n\n水庫完成後，該水文測站測得的最高水位，發生在什麼時間？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-42.png\" alt=\"圖9 下游測站水位（12 月到隔年 12 月）：實線起伏大，冬季約 5 公尺，6 月達最高約 16 公尺，8 月降到約 7.5 公尺，10 月又有約 11 公尺的次高峰；虛線起伏小，冬季約 8 公尺，緩升到 7～8 月約 13 公尺的最高點後緩降\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "3-4月",
+      "5-6月",
+      "7-8月",
+      "9-10月"
+    ],
+    "answerIndex": 2,
+    "explanation": "水庫會調節水量，使水位變化平緩，完成後的曲線是起伏小的虛線，其最高點在 7～8 月。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-geo-43",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "42-43 為題組\n根據華南地區河川的水文特性推測，若在該地區某河川興建水庫，則水庫下游水文測站觀測的水位變化曲線，會產生顯著差異。圖9中的兩條曲線分別表示該水文測站在水庫完成前後的水位變化。請問：\n\n水庫完成前，該河川出現最高水位的時間，和下列哪一自然現象的關係最密切？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-42.png\" alt=\"圖9 下游測站水位（12 月到隔年 12 月）：實線起伏大，冬季約 5 公尺，6 月達最高約 16 公尺，8 月降到約 7.5 公尺，10 月又有約 11 公尺的次高峰；虛線起伏小，冬季約 8 公尺，緩升到 7～8 月約 13 公尺的最高點後緩降\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "冬雪融化",
+      "春雨霏霏",
+      "梅雨連綿",
+      "颱風豪雨"
+    ],
+    "answerIndex": 2,
+    "explanation": "水庫完成前（實線）最高水位在 6 月，正值華南的梅雨季。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-geo-44",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "44-45 為題組\n根據土壤中粘土、坋砂、砂的比例，將某區的土壤分為子～亥十二種類型（圖10）。請問：\n\n某塊田地的土壤，粘土、坋砂、砂的比例分別為10%、20%、70%，該土壤應該屬於哪一種類型？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-44.png\" alt=\"圖10 土壤質地三角圖（粘土%、坋砂%、砂%）：子在上方頂點區（粘土 40% 以上）；丑、寅在中上兩側；卯、辰、巳在中間；午、未在左下角（砂最多）；申在底邊中央偏左（砂約 50～70%，粘土 20% 以下）；酉在中間偏右下；戌、亥在右下角（坋砂最多）\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "子",
+      "申",
+      "辰",
+      "戌"
+    ],
+    "answerIndex": 1,
+    "explanation": "粘土只有 10%、砂達 70%，位於三角圖底邊附近、偏砂的一側，落在申。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-geo-45",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "44-45 為題組\n根據土壤中粘土、坋砂、砂的比例，將某區的土壤分為子～亥十二種類型（圖10）。請問：\n\n下列土壤類型中，哪一種的排水性最差？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-44.png\" alt=\"圖10 土壤質地三角圖（粘土%、坋砂%、砂%）：子在上方頂點區（粘土 40% 以上）；丑、寅在中上兩側；卯、辰、巳在中間；午、未在左下角（砂最多）；申在底邊中央偏左（砂約 50～70%，粘土 20% 以下）；酉在中間偏右下；戌、亥在右下角（坋砂最多）\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "子",
+      "辰",
+      "午",
+      "亥"
+    ],
+    "answerIndex": 0,
+    "explanation": "粘土顆粒最細、孔隙小，透水性差。子的粘土比例最高，排水性最差；午的砂最多，排水最好。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-geo-46",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "46-48 為題組\n臺灣某段灣岬互現的海岸，最近面臨兩大問題：一是當地一處知名的海水浴場，近年因附近興建了突出（垂直）海岸線的工程設施，以及其他原因的影響，導致沙灘顯著縮減。二是當地的水產養殖戶，承租類似圖11照片箭頭所指的海岸地形闢建養殖池，養殖九孔、鮑魚等；他們要求在承租的範圍內擴建新的養殖池。請問：\n\n這段灣岬互現的海岸是指臺灣哪一處海岸？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-46.png\" alt=\"圖11 海岸照片：海浪拍打處向陸地延伸出一片平坦、略向海傾斜的岩石平台，岩層紋理清楚，箭頭指向這片平台；右側為較高的岩壁\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "東南部",
+      "西南部",
+      "東北部",
+      "西北部"
+    ],
+    "answerIndex": 2,
+    "explanation": "東北角海岸（三貂角到鼻頭角一帶）軟硬岩層交互，岬灣相間，並有福隆等海水浴場與九孔養殖池。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-geo-47",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "46-48 為題組\n臺灣某段灣岬互現的海岸，最近面臨兩大問題：一是當地一處知名的海水浴場，近年因附近興建了突出（垂直）海岸線的工程設施，以及其他原因的影響，導致沙灘顯著縮減。二是當地的水產養殖戶，承租類似圖11照片箭頭所指的海岸地形闢建養殖池，養殖九孔、鮑魚等；他們要求在承租的範圍內擴建新的養殖池。請問：\n\n圖11照片箭頭所指的海岸地形是：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-46.png\" alt=\"圖11 海岸照片：海浪拍打處向陸地延伸出一片平坦、略向海傾斜的岩石平台，岩層紋理清楚，箭頭指向這片平台；右側為較高的岩壁\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "波蝕棚",
+      "潮埔",
+      "海灘",
+      "海岸階地"
+    ],
+    "answerIndex": 0,
+    "explanation": "海浪侵蝕形成的平坦岩石平台，位在高潮線附近，是波蝕棚（海蝕平台），東北角的九孔池多開鑿在這種平台上。\n\n故選 (A)"
+  },
+  {
+    "id": "92-ast-geo-48",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "46-48 為題組\n臺灣某段灣岬互現的海岸，最近面臨兩大問題：一是當地一處知名的海水浴場，近年因附近興建了突出（垂直）海岸線的工程設施，以及其他原因的影響，導致沙灘顯著縮減。二是當地的水產養殖戶，承租類似圖11照片箭頭所指的海岸地形闢建養殖池，養殖九孔、鮑魚等；他們要求在承租的範圍內擴建新的養殖池。請問：\n\n除了突出（垂直）海岸線的工程設施外，下列五項事實中，哪兩項最可能也是該海水浴場沙灘縮減的重要原因？甲、附近闢建許多水產養殖池；乙、海灘內緣的沙丘區被開闢為公園和露營地；丙、近年此處海岸曾遭受數次大颱風的侵襲；丁、注入本海岸的主要河流，流域內陸續進行多種治山防洪工程；戊、注入本海岸的主要河流，流域內坡地多處被開闢為農地使用。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-46.png\" alt=\"圖11 海岸照片：海浪拍打處向陸地延伸出一片平坦、略向海傾斜的岩石平台，岩層紋理清楚，箭頭指向這片平台；右側為較高的岩壁\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "甲戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "大颱風的巨浪把沙灘的沙捲走（丙）；流域內的攔砂壩等治山防洪工程攔截泥沙，河流供應海岸的沙減少（丁）。坡地開墾反而增加泥沙來源。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-geo-49",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "49-50 為題組\n圖12是某一狹長河谷地之聚落與人口分布示意圖，該地居民正計畫在其間興建一座活動中心，供全體居民集會使用。興建原則是要使所有居民至活動中心的總距離最小。請問：\n\n活動中心應該興建在下列哪一個聚落？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-49.png\" alt=\"圖12 河谷聚落人口（每點代表 50 人）：甲在 0 公里，2 點（100 人）；乙在 1 公里，3 點（150 人）；丙在 3 公里，1 點；丁在 4 公里，1 點；戊在 6 公里，1 點；己在 7 公里，1 點；庚在 10 公里，1 點\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 1,
+    "explanation": "在一條直線上，使總距離最小的位置是人口的中位數。總人口 10 單位（每單位 50 人），由左排起，第 5、6 單位分別在乙（1 公里）與丙（3 公里），選項中只有乙在此範圍內。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-geo-50",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "49-50 為題組\n圖12是某一狹長河谷地之聚落與人口分布示意圖，該地居民正計畫在其間興建一座活動中心，供全體居民集會使用。興建原則是要使所有居民至活動中心的總距離最小。請問：\n\n若將庚聚落居民遷至距甲聚落右側15公里處，則活動中心應該興建在下列哪一個聚落？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-geo-49.png\" alt=\"圖12 河谷聚落人口（每點代表 50 人）：甲在 0 公里，2 點（100 人）；乙在 1 公里，3 點（150 人）；丙在 3 公里，1 點；丁在 4 公里，1 點；戊在 6 公里，1 點；己在 7 公里，1 點；庚在 10 公里，1 點\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 1,
+    "explanation": "庚仍在最右端，人口排序不變，中位數位置不變，仍是乙。總距離最小的位置只看排序，不受極端值的距離影響。\n\n故選 (B)"
   }
 ]
