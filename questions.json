@@ -251658,5 +251658,883 @@
       "災害與依據"
     ],
     "explanation": "對照甲圖，「建築中」的區塊位在過去網流河道與沙地上，地勢低窪，豪雨時河水容易回到舊河道而淹水。"
+  },
+  {
+    "id": "99-ast-geo-01",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-3 為題組\n全球暖化是當代重要的環境議題。全球暖化將導致海平面上升，海岸線後退，土地資源流失；沿海地區土地也易受海水倒灌、排水不良而受水患之苦。此外，全球暖化也可能導致疾病流行範圍的擴大，如2007年，流行於熱帶地區的屈公病（Chikungunya），曾在部分溫帶國家境內出現大量病例，即被世界衛生組織官員認為與全球暖化有關。\n\n圖1中，台灣本島哪段海岸出現類似上述的海岸變遷現象？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-01.png\" alt=\"圖1 臺灣本島：甲在北端東北角、乙在西北部、丙在西南部屏東沿海、丁在東部花蓮沿海\" style=\"width:100%;max-width:140px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "丙位於臺灣西南部沿海（屏東、高雄一帶），是低平的沙岸，超抽地下水造成地層下陷，海岸後退、海水倒灌、排水不良等問題嚴重。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-geo-02",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-3 為題組\n全球暖化是當代重要的環境議題。全球暖化將導致海平面上升，海岸線後退，土地資源流失；沿海地區土地也易受海水倒灌、排水不良而受水患之苦。此外，全球暖化也可能導致疾病流行範圍的擴大，如2007年，流行於熱帶地區的屈公病（Chikungunya），曾在部分溫帶國家境內出現大量病例，即被世界衛生組織官員認為與全球暖化有關。\n\n圖2中，哪個國家遭受上述水患範圍占國土總面積的比例最高？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-02.png\" alt=\"圖2 南亞地圖：丁指向波斯灣沿岸、丙指向印度西部、乙指向孟加拉、甲指向緬甸西南沿海\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "乙是孟加拉，國土大多是恆河、布拉馬普得拉河的低平三角洲，海拔很低，海平面上升造成淹水的比例最高。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-geo-03",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-3 為題組\n全球暖化是當代重要的環境議題。全球暖化將導致海平面上升，海岸線後退，土地資源流失；沿海地區土地也易受海水倒灌、排水不良而受水患之苦。此外，全球暖化也可能導致疾病流行範圍的擴大，如2007年，流行於熱帶地區的屈公病（Chikungunya），曾在部分溫帶國家境內出現大量病例，即被世界衛生組織官員認為與全球暖化有關。\n\n2007年，哪國境內出現大量屈公病案例，而被世界衛生組織官員認為與全球暖化氣候變遷有關？",
+    "options": [
+      "義大利",
+      "貝里斯",
+      "甘比亞",
+      "吉里巴斯"
+    ],
+    "answerIndex": 0,
+    "explanation": "題目說是「溫帶國家」，2007 年義大利東北部爆發屈公病疫情。其他三國都位於熱帶。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-geo-04",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "4-6 為題組\n小明在自行車上安裝全球定位系統（GPS），並用每10秒自動記錄一點的方式，將騎自行車所到之處記錄下來，再將這些資料下載到Google地球上展示。\n\n小明坐在河畔約花了10分鐘寫生，Google地球中顯示的點位記錄如圖3。呈現這樣結果的最可能原因是：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-04.png\" alt=\"圖3 河畔的衛星影像，一群白色記錄點聚集成直徑約數公尺的小團\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "GPS內部零件故障",
+      "小明取景定點位移",
+      "經緯座標轉換位移",
+      "GPS衛星定位誤差"
+    ],
+    "answerIndex": 3,
+    "explanation": "小明坐著不動，GPS 每 10 秒記錄一點，點位卻散成一小團，這是衛星定位本身的誤差。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-geo-05",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "4-6 為題組\n小明在自行車上安裝全球定位系統（GPS），並用每10秒自動記錄一點的方式，將騎自行車所到之處記錄下來，再將這些資料下載到Google地球上展示。\n\n小明在公路上全力衝刺，GPS的點位記錄如圖4公路上黑點所示。下列何者最可能是小明所騎道路的高度剖面圖？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-05a.png\" alt=\"圖4 山區公路衛星影像，甲、乙、丙、丁依序沿公路標示，公路上有黑色記錄點，間距疏密不一\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-05b.png\" alt=\"四個高度剖面選項：(A) 甲低、乙最高、丙稍低、丁最低後回升；(B) 甲低、乙較高、丙最高、丁低後回升；(C) 甲高、乙降低、丙稍升、丁最低後回升；(D) 甲低平、乙升高、丙最高、丁降低後持平\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answerIndex": 1,
+    "explanation": "GPS 每 10 秒記一點，點距愈大表示速度愈快、坡度愈平緩或下坡，點距愈小表示上坡。依圖4，甲到丙之間點距較小（上坡、速度慢），丙到丁點距明顯變大（下坡、速度快），表示由甲一路爬升到最高點丙，再下坡到丁，對應 (B)。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-geo-06",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "4-6 為題組\n小明在自行車上安裝全球定位系統（GPS），並用每10秒自動記錄一點的方式，將騎自行車所到之處記錄下來，再將這些資料下載到Google地球上展示。\n\n小明騎在一條筆直的山路上，依GPS的記錄，其起點和終點的台灣二度分帶座標分別為：起點（248588, 2575424）、終點（252935, 2577221）。小明的騎車方向為何？",
+    "options": [
+      "由西南向東北",
+      "由東北向西南",
+      "由西北向東南",
+      "由東南向西北"
+    ],
+    "answerIndex": 0,
+    "explanation": "終點的 X（東西向）與 Y（南北向）座標都比起點大，表示向東、向北移動，即由西南向東北。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-geo-07",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "7-8 為題組\n熱帶濕潤地區土壤常因含有氧化鐵、氧化鋁等物質而呈現紅色，且土壤肥沃度低。\n\n下列有關此種土壤成土過程的敘述，何者正確？",
+    "options": [
+      "表土層的鐵、鋁等物質因增添作用帶至底土層",
+      "表土層因鐵、鋁物質的洗入作用而形成堅硬結核",
+      "底土層的鐵、鋁氧化物因淋溶作用而大量流失",
+      "底土層因洗入作用使鐵、鋁氧化物質澱積"
+    ],
+    "answerIndex": 3,
+    "explanation": "熱帶高溫多雨，淋溶作用強烈，可溶性鹽基與矽酸流失，鐵、鋁氧化物被洗入底土層澱積，形成紅土。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-geo-08",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "7-8 為題組\n熱帶濕潤地區土壤常因含有氧化鐵、氧化鋁等物質而呈現紅色，且土壤肥沃度低。\n\n熱帶濕潤地區此類土壤肥沃度不高的可能原因為何？甲、養分因淋溶作用強烈而流失；乙、腐植質分解速度緩慢；丙、養分多為茂盛的植物所吸收；丁、土壤底土多石灰質澱積",
+    "options": [
+      "甲乙",
+      "丙丁",
+      "甲丙",
+      "乙丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "雨量多，養分被淋溶流失（甲）；高溫使有機質分解快，養分迅速被茂盛植物吸收貯存在生物體內（丙），土壤本身養分少。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-geo-09",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "9-10 為題組\n對流層的氣溫是近地面較高，且呈隨高度增加而遞減。但此一現象在一天中的不同時間均有差異，有時甚至出現逆溫現象。圖5即為同一地點在某日的早晨、午後、夜間及清晨四個不同時段的近地面大氣垂直氣溫分布曲線圖。\n\n圖5中丁曲線愈接近地面氣溫愈高的主要原因為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-09.png\" alt=\"圖5 四條垂直氣溫曲線（縱軸高度、橫軸氣溫）：甲最靠左，近地面氣溫最低、向上先升高再降低（逆溫）；乙、丙在中間，近地面略有彎折；丁最靠右，愈近地面氣溫愈高\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "愈近地面風速愈小，大氣熱量不易散失",
+      "愈近地面空氣塵埃愈多，塵埃能吸收太陽輻射",
+      "愈近地面空氣密度愈大，大氣愈能吸收太陽輻射",
+      "地面吸收太陽輻射後，將熱能再輻射供大氣吸收"
+    ],
+    "answerIndex": 3,
+    "explanation": "大氣主要靠吸收地面輻射而增溫（大氣對太陽短波輻射吸收很少），所以愈接近地面氣溫愈高，午後最明顯。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-geo-10",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "9-10 為題組\n對流層的氣溫是近地面較高，且呈隨高度增加而遞減。但此一現象在一天中的不同時間均有差異，有時甚至出現逆溫現象。圖5即為同一地點在某日的早晨、午後、夜間及清晨四個不同時段的近地面大氣垂直氣溫分布曲線圖。\n\n圖5中哪條曲線最可能是清晨（日出之前）的大氣垂直氣溫分布？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-09.png\" alt=\"圖5 四條垂直氣溫曲線（縱軸高度、橫軸氣溫）：甲最靠左，近地面氣溫最低、向上先升高再降低（逆溫）；乙、丙在中間，近地面略有彎折；丁最靠右，愈近地面氣溫愈高\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "夜間地面輻射冷卻，到日出前地面溫度最低，近地面空氣比上方冷，形成逆溫層，氣溫最低且近地面向上升溫，即甲。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-geo-11",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "11-12 為題組\n土石流與洪患是近年台灣常見的天然災害，災害防治乃成為目前重要的課題。圖6是台灣山區四個聚落的航空照片，框線內為民居密集區。\n\n圖6中之四處聚落，何者較不容易發生土石流與洪患兩類災害？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-11.png\" alt=\"圖6 四處山區聚落航照：甲聚落位於溪谷出口旁的狹長河階；乙聚落在兩條溪溝匯流處；丙聚落位於較高、平坦的台地上，遠離溪溝；丁聚落位於溪流出谷口的扇狀地上\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "丙聚落位於地勢較高的平坦台地，遠離溪溝與谷口。甲、乙、丁都緊鄰溪谷、匯流處或谷口扇狀地，易受土石流、洪水侵襲。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-geo-12",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "11-12 為題組\n土石流與洪患是近年台灣常見的天然災害，災害防治乃成為目前重要的課題。圖6是台灣山區四個聚落的航空照片，框線內為民居密集區。\n\n經過調查評估，相關單位計畫在山區對崩塌邊坡進行護坡措施，最主要目的是希望透過下列何種方式防治土石流災害？",
+    "options": [
+      "疏導土石分流",
+      "減少土石來源",
+      "降低土石流速",
+      "促進土石堆積"
+    ],
+    "answerIndex": 1,
+    "explanation": "土石流的物質來自上游崩塌的邊坡，護坡穩定坡面，可減少崩落的土石來源。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-geo-13",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-14 為題組\n圖7是某地區行政邊界的向量式資料，該區有三個行政單元，分別為復興里、自強里與敦化里。圖8是同地區都市計畫分區與地價的網格式資料，圖9是網格代碼。根據人口統計資料顯示：復興里有11,000人、自強里有18,000人、敦化里有17,000人；已知圖8都市計畫分區每一方格人口依其土地利用類別（商業、住宅、工業），按3：5：2比例而定。\n\n在GIS軟體中將人口資料與圖7的向量圖層結合後，轉換為圖8的網格式資料，則圖9網格代碼6的人口為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-13.png\" alt=\"圖7 行政區：左半部（網格第 1、2 欄）為復興里，右上（第 3、4 欄、第 1、2 列）為自強里，右下（第 3、4 欄、第 3、4 列）為敦化里；圖8 都市計畫分區（由上而下每列）：商商商住／商住住住／工工住住／工工工住；地價（十萬元）：10 11 9 8／12 9 8 9／7 4 7 9／6 5 5 8；圖9 網格代碼 1～16 由左至右、由上而下編號\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "2.5千人",
+      "3千人",
+      "4.5千人",
+      "6千人"
+    ],
+    "answerIndex": 0,
+    "explanation": "網格 6 位於復興里（第 1、2 欄）。復興里 8 格依序為商、商、商、住、工、工、工、工，權重 $3 + 3 + 3 + 5 + 2 + 2 + 2 + 2 = 22$，每單位 $11000 \\div 22 = 500$ 人。網格 6 是住宅，$5 \\times 500 = 2500$ 人。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-geo-14",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-14 為題組\n圖7是某地區行政邊界的向量式資料，該區有三個行政單元，分別為復興里、自強里與敦化里。圖8是同地區都市計畫分區與地價的網格式資料，圖9是網格代碼。根據人口統計資料顯示：復興里有11,000人、自強里有18,000人、敦化里有17,000人；已知圖8都市計畫分區每一方格人口依其土地利用類別（商業、住宅、工業），按3：5：2比例而定。\n\n某超商決定在敦化里設立新店舖，選址的條件為人口多且地價低的地區，則最佳設立地點的網格代碼是：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-13.png\" alt=\"圖7 行政區：左半部（網格第 1、2 欄）為復興里，右上（第 3、4 欄、第 1、2 列）為自強里，右下（第 3、4 欄、第 3、4 列）為敦化里；圖8 都市計畫分區（由上而下每列）：商商商住／商住住住／工工住住／工工工住；地價（十萬元）：10 11 9 8／12 9 8 9／7 4 7 9／6 5 5 8；圖9 網格代碼 1～16 由左至右、由上而下編號\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "15"
+    ],
+    "answerIndex": 1,
+    "explanation": "敦化里為網格 11、12、15、16（住、住、工、住），權重 $5 + 5 + 2 + 5 = 17$，每單位 $17000 \\div 17 = 1000$ 人。11、12、16 各 5000 人，地價分別為 7、9、8，以 11 地價最低。網格 10 屬復興里。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-geo-15",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "15-17 為題組\n圖10中，甲處西側師公格山，於2010年4月25日發生「走山」災變，大量土石突然沿著坡面移動，掩埋國道三號甲處約300公尺長車道，造成4人死亡。\n\n圖中甲處的座標為：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-15.png\" alt=\"圖10 2003 年二萬五千分之一經建版地形圖：國道三號由左下向右上斜穿，甲在圖幅中央偏右上的國道旁；網格線 3 19000、3 20000、3 21000（橫）與 27 78000、27 79000（縱）；大埔交流道位於國道東側的河谷平地；西北角有瑪陵國小瑪西分校\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "（319200, 2778300）",
+      "（319375, 2778500）",
+      "（320100, 2779200）",
+      "（320250, 2779500）"
+    ],
+    "answerIndex": 2,
+    "explanation": "甲位於 320000 縱線稍東、2779000 橫線稍北，約為（320100, 2779200）。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-geo-16",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "15-17 為題組\n圖10中，甲處西側師公格山，於2010年4月25日發生「走山」災變，大量土石突然沿著坡面移動，掩埋國道三號甲處約300公尺長車道，造成4人死亡。\n\n此次災變現象屬於下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-15.png\" alt=\"圖10 2003 年二萬五千分之一經建版地形圖：國道三號由左下向右上斜穿，甲在圖幅中央偏右上的國道旁；網格線 3 19000、3 20000、3 21000（橫）與 27 78000、27 79000（縱）；大埔交流道位於國道東側的河谷平地；西北角有瑪陵國小瑪西分校\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "地滑",
+      "潛移",
+      "落石",
+      "土石流"
+    ],
+    "answerIndex": 0,
+    "explanation": "國道三號 3.1 公里處的走山，是順向坡上的岩層沿層面整片快速滑動，屬地滑。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-geo-17",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "15-17 為題組\n圖10中，甲處西側師公格山，於2010年4月25日發生「走山」災變，大量土石突然沿著坡面移動，掩埋國道三號甲處約300公尺長車道，造成4人死亡。\n\n依據圖10所提供的資訊，由甲處向四周觀察可看到的地景為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-15.png\" alt=\"圖10 2003 年二萬五千分之一經建版地形圖：國道三號由左下向右上斜穿，甲在圖幅中央偏右上的國道旁；網格線 3 19000、3 20000、3 21000（橫）與 27 78000、27 79000（縱）；大埔交流道位於國道東側的河谷平地；西北角有瑪陵國小瑪西分校\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "由甲處向西北可遠眺瑪西分校",
+      "高速公路沿著河階修建",
+      "圖中東南山坡有蔗田拾級而上",
+      "大埔交流道於陡坡修建"
+    ],
+    "answerIndex": 3,
+    "explanation": "依等高線，大埔交流道所在處等高線密集，是在山坡地上開挖修建。瑪西分校與甲之間有山稜阻隔；高速公路以高架、隧道穿越山區，不是沿河階；臺灣北部山坡不種甘蔗。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-geo-18",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "18-20 為題組\n在1960年代當歐、美、日等地的製造業開始外移之際，台灣設置加工出口區以促進工業發展。之後，隨著台灣產業不斷升級，以出口為導向的製造業也出現外移的現象，其中移往地理位置鄰近、語言相通的中國者不在少數，使部分傳統工業區出現生產萎縮、廠區老舊、廠房閒置等「老化」現象。然而，近年因中國投資環境改變，台商亦有回流的趨向。\n\n1960年代台灣設置加工出口區的區位選擇傾向鄰近國際港埠，空間上高度聚集，以利產品輸出。就此區位條件而言，下列何地被選定為設置加工出口專業區？",
+    "options": [
+      "雲林",
+      "高雄",
+      "屏東",
+      "新竹"
+    ],
+    "answerIndex": 1,
+    "explanation": "1966 年臺灣第一個加工出口區設在高雄港旁（前鎮），之後又設楠梓、臺中潭子。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-geo-19",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "18-20 為題組\n在1960年代當歐、美、日等地的製造業開始外移之際，台灣設置加工出口區以促進工業發展。之後，隨著台灣產業不斷升級，以出口為導向的製造業也出現外移的現象，其中移往地理位置鄰近、語言相通的中國者不在少數，使部分傳統工業區出現生產萎縮、廠區老舊、廠房閒置等「老化」現象。然而，近年因中國投資環境改變，台商亦有回流的趨向。\n\n台灣有些位於都市近郊的老舊工業區若要轉型為大賣場、購物中心等使用目標，首要之務應是：",
+    "options": [
+      "加強水電、排水系統等公共建設",
+      "發展衛星市鎮，創造消費需求",
+      "解編工業區，進行土地使用分區重劃",
+      "發展大眾捷運系統，改善區位條件"
+    ],
+    "answerIndex": 2,
+    "explanation": "工業區土地依法只能作工業使用，必須先解編、變更土地使用分區為商業區，才能合法經營大賣場。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-geo-20",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "18-20 為題組\n在1960年代當歐、美、日等地的製造業開始外移之際，台灣設置加工出口區以促進工業發展。之後，隨著台灣產業不斷升級，以出口為導向的製造業也出現外移的現象，其中移往地理位置鄰近、語言相通的中國者不在少數，使部分傳統工業區出現生產萎縮、廠區老舊、廠房閒置等「老化」現象。然而，近年因中國投資環境改變，台商亦有回流的趨向。\n\n最近幾年部分台商因為產業發展環境的變化而出現回流的現象。下列哪些因素是造成台商回流的主要原因？甲、中國出口退稅調降；乙、台幣匯率持續下貶；丙、國外市場需求擴大；丁、台灣土地租金優惠",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "甲丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "中國調降出口退稅，在中國生產的成本提高（甲）；臺灣推出「006688」等土地租金優惠吸引回流（丁）。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-geo-21",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-23 為題組\n台灣為因應社會和環境的快速變化，規劃為「西部創新發展軸」、「中央山脈保育軸」、「東部優質生活產業軸」、「海洋環帶」、「離島生態觀光區」等軸帶的國土計畫，作為未來的發展架構。\n\n「多元族群特色、優美山河景觀、潔淨土地資源、平疇綠野稻香」是圖11中哪個軸帶發展上所具有的優勢條件？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-21.png\" alt=\"圖11 國土空間發展架構：甲為框起來的離島；乙為環繞臺灣的弧形海洋環帶；丙為臺灣東部的軸帶；丁為縱貫臺灣中央的軸帶；西部有另一條虛線軸帶\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "這是東部（花東）的特色：原住民族群多元、山海景觀優美、土地污染少、花東縱谷稻田遍布，即「東部優質生活產業軸」丙。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-geo-22",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-23 為題組\n台灣為因應社會和環境的快速變化，規劃為「西部創新發展軸」、「中央山脈保育軸」、「東部優質生活產業軸」、「海洋環帶」、「離島生態觀光區」等軸帶的國土計畫，作為未來的發展架構。\n\n「西部創新發展軸」共分為北部、中部與南部三大城市區域。目前此三大城市區域在發展上具有下列哪些共同特徵？甲、已闢建科學工業園區；乙、已營運的高運量捷運系統；丙、三百萬以上人口的直轄市；丁、有對外聯絡的機場和港口",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "甲丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "北（竹科）、中（中科）、南（南科）都有科學園區（甲）；也都有國際機場與港口（丁）。2010 年時中部沒有捷運、也沒有三百萬人口的直轄市。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-geo-23",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-23 為題組\n台灣為因應社會和環境的快速變化，規劃為「西部創新發展軸」、「中央山脈保育軸」、「東部優質生活產業軸」、「海洋環帶」、「離島生態觀光區」等軸帶的國土計畫，作為未來的發展架構。\n\n「離島生態觀光區」以提供國民特殊生態與文化體驗為主，發展上強調環境保育和文化保存。圖12為台灣某處島嶼上的地景，屬於重要的保育資源。此離島是：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-23.png\" alt=\"圖12 海岸邊高聳的玄武岩柱狀節理崖壁\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "金門",
+      "馬祖",
+      "澎湖",
+      "蘭嶼"
+    ],
+    "answerIndex": 2,
+    "explanation": "照片是玄武岩柱狀節理形成的海崖，是澎湖的代表地景（澎湖玄武岩自然保留區）。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-geo-24",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "24-25 為題組\n2010年1月13日海地發生規模7.0強烈地震，震源距離地表約10公里，首都太子港的建築物，包括總統府及聯合國駐海地總部應聲倒塌，死傷無數，災情慘重。\n\n發生震災的海地位於圖13中何處？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-24.png\" alt=\"圖13 加勒比海地圖：甲在古巴島附近，乙、丙、丁依序由西向東排列在大安地列斯群島南側（乙在牙買加附近、丙在伊斯帕尼奧拉島西部、丁在其東部）\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "海地位於伊斯帕尼奧拉島西部，即丙；東部（丁）是多明尼加；乙是牙買加附近；甲是古巴。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-geo-25",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "24-25 為題組\n2010年1月13日海地發生規模7.0強烈地震，震源距離地表約10公里，首都太子港的建築物，包括總統府及聯合國駐海地總部應聲倒塌，死傷無數，災情慘重。\n\n此次地震災情慘重的主要原因是：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-24.png\" alt=\"圖13 加勒比海地圖：甲在古巴島附近，乙、丙、丁依序由西向東排列在大安地列斯群島南側（乙在牙買加附近、丙在伊斯帕尼奧拉島西部、丁在其東部）\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "震央距人口密集區近",
+      "引發土石流掩埋村莊",
+      "海嘯襲擊沿海低地區",
+      "地震後適逢颶風來襲"
+    ],
+    "answerIndex": 0,
+    "explanation": "震源深度僅約 10 公里，震央又離首都太子港很近，人口密集、建築物耐震性差，造成大量傷亡。1 月不是颶風季。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-geo-26",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "26-28 為題組\n1997年部分亞洲國家相繼發生股市、房地產崩跌、匯率遽貶、外匯枯竭等危機，釀成「亞洲金融風暴」；2008年美國金融危機使國際金融市場信用緊縮，更擴大為全球性的金融海嘯。上述金融危機一般認為是這些國家的實體經濟（實際提供生產品和服務的經濟活動）和虛擬經濟（純以資本投資於金融商品等，追求資本利得為目的的經濟活動）失衡所導致。\n\n亞洲金融風暴受創國在風暴前的「實體經濟的失衡」是指：",
+    "options": [
+      "推動大規模的建設計畫，積壓大量資金",
+      "發展龐大的重化工業，資金短期難以回收",
+      "執行進口替代政策，生產效率低落，產品銷售欠佳",
+      "產業高度擴張，致產能過剩，經濟成長趨緩，貿易逆差擴大"
+    ],
+    "answerIndex": 3,
+    "explanation": "風暴前東南亞各國大舉擴張產能，出口競爭力下降，產能過剩，經濟成長放緩，貿易逆差擴大。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-geo-27",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "26-28 為題組\n1997年部分亞洲國家相繼發生股市、房地產崩跌、匯率遽貶、外匯枯竭等危機，釀成「亞洲金融風暴」；2008年美國金融危機使國際金融市場信用緊縮，更擴大為全球性的金融海嘯。上述金融危機一般認為是這些國家的實體經濟（實際提供生產品和服務的經濟活動）和虛擬經濟（純以資本投資於金融商品等，追求資本利得為目的的經濟活動）失衡所導致。\n\n亞洲金融風暴受創國在風暴前的「虛擬經濟的失衡」是指：",
+    "options": [
+      "房地產信貸管制鬆散，大量資金放貸給信用評等很低的購屋者",
+      "國際熱錢不斷流入，房地產、股市等資產價值膨脹，匯率抬升",
+      "金融產業以高利率吸引國際資金，進行高風險金融商品的投資",
+      "發行國債以支持國營產業，因無力償還本息，致主權信用動搖"
+    ],
+    "answerIndex": 1,
+    "explanation": "大量國際短期資金湧入，推升股市、房地產泡沫與本國匯率；熱錢撤出時資產崩跌、貨幣急貶。(A) 是美國次貸危機。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-geo-28",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "26-28 為題組\n1997年部分亞洲國家相繼發生股市、房地產崩跌、匯率遽貶、外匯枯竭等危機，釀成「亞洲金融風暴」；2008年美國金融危機使國際金融市場信用緊縮，更擴大為全球性的金融海嘯。上述金融危機一般認為是這些國家的實體經濟（實際提供生產品和服務的經濟活動）和虛擬經濟（純以資本投資於金融商品等，追求資本利得為目的的經濟活動）失衡所導致。\n\n歐洲某國在2000年後，朝向成為「境外金融中心」發展，以高息、低稅率吸引國際資金，大多運用於高倍數的風險性金融投資，使該國在短短幾年間人均國民所得躍居世界第四位。但2008年底，國際資金枯竭，各項金融投資大幅虧損，無力償還國際存戶的本息。此國應是下列哪國？",
+    "options": [
+      "冰島",
+      "希臘",
+      "英國",
+      "愛爾蘭"
+    ],
+    "answerIndex": 0,
+    "explanation": "冰島銀行業以高利吸收外資、過度擴張，2008 年三大銀行倒閉，國家幾近破產。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-geo-29",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "29-30 為題組\n中國自2002年加入世界貿易組織後，東北農民就面臨進口穀物的競爭壓力，其中本地大豆的產地價格經常高於進口大豆的到岸價格，且水份含量較高而出油率較低，因此造成滯銷現象，嚴重影響東北農業發展。\n\n下列哪國近年大量墾伐森林，闢為耕地，生產大豆外銷到中國等國家？",
+    "options": [
+      "美國",
+      "巴西",
+      "馬來西亞",
+      "波蘭"
+    ],
+    "answerIndex": 1,
+    "explanation": "巴西砍伐亞馬孫雨林與塞拉多草原擴大大豆種植，大量出口到中國。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-geo-30",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "29-30 為題組\n中國自2002年加入世界貿易組織後，東北農民就面臨進口穀物的競爭壓力，其中本地大豆的產地價格經常高於進口大豆的到岸價格，且水份含量較高而出油率較低，因此造成滯銷現象，嚴重影響東北農業發展。\n\n中國為解決東北大豆農業的困境，所推出的農業政策為：",
+    "options": [
+      "對進口大豆提高關稅，提高價格競爭力",
+      "大豆田轉作具市場價值的其他經濟作物",
+      "政府以保證價格收購大豆，保障農民權益",
+      "提高大豆品質檢測標準，降低大豆進口數量"
+    ],
+    "answerIndex": 1,
+    "explanation": "加入 WTO 後不能任意提高關稅或設貿易障礙，因此輔導農民轉作其他具市場價值的作物。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-geo-31",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "31-32 為題組\n圖14為歐洲法國、挪威、丹麥、英國等四國2008年各種能源消費結構的百分比圖，顯示各國能源政策的差異。\n\n從能源形式估計，哪個國家的平均每單位能源二氧化碳排放量最低？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-31.png\" alt=\"圖14 四國能源消費結構（%）：甲 石油約 52、天然氣約 23、煤炭約 25，無核電與水力；乙 石油約 37、天然氣約 40、煤炭約 2、核電約 18、水力約 2；丙 石油約 21、天然氣約 9、煤炭約 1、水力約 69；丁 石油約 36、天然氣約 15、煤炭約 5、核電約 39、水力約 5\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "丙以水力為主（約七成），化石燃料比例最低，每單位能源的碳排放最少。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-geo-32",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "31-32 為題組\n圖14為歐洲法國、挪威、丹麥、英國等四國2008年各種能源消費結構的百分比圖，顯示各國能源政策的差異。\n\n依據圖14，甲、乙、丙、丁依序是哪個國家？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-31.png\" alt=\"圖14 四國能源消費結構（%）：甲 石油約 52、天然氣約 23、煤炭約 25，無核電與水力；乙 石油約 37、天然氣約 40、煤炭約 2、核電約 18、水力約 2；丙 石油約 21、天然氣約 9、煤炭約 1、水力約 69；丁 石油約 36、天然氣約 15、煤炭約 5、核電約 39、水力約 5\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "丹麥、英國、挪威、法國",
+      "法國、丹麥、英國、挪威",
+      "挪威、英國、法國、丹麥",
+      "英國、法國、挪威、丹麥"
+    ],
+    "answerIndex": 0,
+    "explanation": "甲沒有核電與水力、煤炭比例高：丹麥。乙天然氣比例高（北海天然氣）、有一些核電：英國。丙以水力為主：挪威。丁核電比例最高：法國。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-geo-33",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "33-35 為題組\n拉丁美洲因為氣候濕熱，各種傳染病肆虐，其中埃及斑蚊是傳染登革熱的主要媒介。1970年代泛美衛生組織（Pan American Health Organization）大力推動滅蚊運動，使得埃及斑蚊的分布大幅縮小，但是1980年代以後因環境保護意識抬頭，導致滅蚊運動終止，埃及斑蚊分布再度擴大（圖15）。\n\n1970年代以後埃及斑蚊分布的向北方向擴散傾向於什麼型式？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-33.png\" alt=\"圖15 1930s、1970s、1998 三個時期埃及斑蚊分布區：1930s 分布於中美洲與南美洲大部分地區；1970s 大幅縮小，只剩北部零星地區；1998 再度擴大到中美洲與南美洲東部、北部，但亞馬孫河流域內陸仍無\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "位移式",
+      "擴張式",
+      "階層式",
+      "混合式"
+    ],
+    "answerIndex": 1,
+    "explanation": "分布區由原有地區向鄰近地區連續擴大，原分布區仍在，屬擴張式擴散。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-geo-34",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "33-35 為題組\n拉丁美洲因為氣候濕熱，各種傳染病肆虐，其中埃及斑蚊是傳染登革熱的主要媒介。1970年代泛美衛生組織（Pan American Health Organization）大力推動滅蚊運動，使得埃及斑蚊的分布大幅縮小，但是1980年代以後因環境保護意識抬頭，導致滅蚊運動終止，埃及斑蚊分布再度擴大（圖15）。\n\n1980年代以後埃及斑蚊分布再度擴大的原因是：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-33.png\" alt=\"圖15 1930s、1970s、1998 三個時期埃及斑蚊分布區：1930s 分布於中美洲與南美洲大部分地區；1970s 大幅縮小，只剩北部零星地區；1998 再度擴大到中美洲與南美洲東部、北部，但亞馬孫河流域內陸仍無\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "DDT殺蟲劑全球禁用",
+      "氣候變遷，雨量增加",
+      "居民的衛生習慣不佳",
+      "都市化區人口密度高"
+    ],
+    "answerIndex": 0,
+    "explanation": "環保意識抬頭，DDT 因污染環境、在生物體內累積而被禁用，滅蚊運動終止，斑蚊分布再度擴大。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-geo-35",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "33-35 為題組\n拉丁美洲因為氣候濕熱，各種傳染病肆虐，其中埃及斑蚊是傳染登革熱的主要媒介。1970年代泛美衛生組織（Pan American Health Organization）大力推動滅蚊運動，使得埃及斑蚊的分布大幅縮小，但是1980年代以後因環境保護意識抬頭，導致滅蚊運動終止，埃及斑蚊分布再度擴大（圖15）。\n\n1980年代以後埃及斑蚊分布在亞馬孫河流域並未見明顯的擴散，其原因是：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-33.png\" alt=\"圖15 1930s、1970s、1998 三個時期埃及斑蚊分布區：1930s 分布於中美洲與南美洲大部分地區；1970s 大幅縮小，只剩北部零星地區；1998 再度擴大到中美洲與南美洲東部、北部，但亞馬孫河流域內陸仍無\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "雨林大量被砍伐",
+      "部落居民已具滅蚊技術",
+      "人口稀疏密度低",
+      "氣候異常蚊蟲不易繁殖"
+    ],
+    "answerIndex": 2,
+    "explanation": "埃及斑蚊是家蚊，喜在人類住家附近的積水容器中繁殖，亞馬孫雨林人口稀少，難以擴散。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-geo-36",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-37 為題組\n人口金字塔的型態不僅能顯示該國人口結構與人口轉型階段，同時也能反映該國社經發展的程度。圖16為四種型態的人口金字塔圖。\n\n圖16中四種人口金字塔的型態，若依人口轉型階段的前後，其正確的排列順序應是：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-36.png\" alt=\"圖16 四種人口金字塔（年齡 0～100+，男左女右，百分比）：甲 底部最寬、向上急速縮小的尖塔形；乙 底部窄、中年層最寬的倒梯形（老化）；丙 下半部各年齡層寬度相近、上部收窄的鐘形；丁 底部寬、向上逐漸收窄的寬底金字塔\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙丙丁",
+      "甲丙丁乙",
+      "甲乙丁丙",
+      "甲丁丙乙"
+    ],
+    "answerIndex": 3,
+    "explanation": "甲 高出生、高死亡的尖塔形（高穩定期）→ 丁 出生率仍高、死亡率下降的寬底形（擴張期）→ 丙 出生率下降的鐘形（低穩定期）→ 乙 出生率很低、老化的倒梯形（人口減少）。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-geo-37",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-37 為題組\n人口金字塔的型態不僅能顯示該國人口結構與人口轉型階段，同時也能反映該國社經發展的程度。圖16為四種型態的人口金字塔圖。\n\n圖16的丙、丁兩種人口金字塔型態依序與下列哪兩個國家2009年人口年齡結構最相似？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-geo-36.png\" alt=\"圖16 四種人口金字塔（年齡 0～100+，男左女右，百分比）：甲 底部最寬、向上急速縮小的尖塔形；乙 底部窄、中年層最寬的倒梯形（老化）；丙 下半部各年齡層寬度相近、上部收窄的鐘形；丁 底部寬、向上逐漸收窄的寬底金字塔\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "德國、索馬利亞",
+      "日本、巴西",
+      "丹麥、阿曼",
+      "美國、菲律賓"
+    ],
+    "answerIndex": 3,
+    "explanation": "丙為鐘形，出生率仍維持一定水準，像美國（移民與生育率較高）；丁為寬底金字塔，像人口仍快速成長的菲律賓。德國、日本、丹麥較接近乙型；索馬利亞接近甲型。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-geo-38",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "38-40 為題組\n智利北部的一個漁村，過去生活用水需由外來的水車供應。當地人利用此地多霧（霧日達300天）的特殊氣候環境，在附近山區以木樁架設50平方公尺大小的網，網上的細孔可攔沾霧滴，霧水沿網而下，由塑膠管集水供應山下居民。有霧的日子中，這些網平均一天每平方公尺可得到4公升的水，一天可供應10,000公升的水。\n\n下列哪個地區的氣候型態與上述漁村最為類似？",
+    "options": [
+      "北非西海岸",
+      "加州沿海",
+      "南非西南角沿海",
+      "西班牙沿海"
+    ],
+    "answerIndex": 0,
+    "explanation": "智利北部是受涼流（祕魯涼流）影響的沿海沙漠，多霧少雨。北非西海岸（撒哈拉西岸）有加那利涼流，同樣是多霧的沿海沙漠。加州、南非西南角、西班牙都是地中海型氣候。\n\n故選 (A)"
+  },
+  {
+    "id": "99-ast-geo-39",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "38-40 為題組\n智利北部的一個漁村，過去生活用水需由外來的水車供應。當地人利用此地多霧（霧日達300天）的特殊氣候環境，在附近山區以木樁架設50平方公尺大小的網，網上的細孔可攔沾霧滴，霧水沿網而下，由塑膠管集水供應山下居民。有霧的日子中，這些網平均一天每平方公尺可得到4公升的水，一天可供應10,000公升的水。\n\n智利北部重濕多霧最主要原因是：",
+    "options": [
+      "強烈日照使得海水大量蒸發",
+      "副熱帶高壓帶使地面蒸發的水氣不易擴散",
+      "沙漠夜間地面輻射冷卻成霧",
+      "沿岸有涼流經過使下層大氣降溫到達飽和"
+    ],
+    "answerIndex": 3,
+    "explanation": "祕魯涼流使近海面的空氣冷卻，水氣達到飽和凝結成霧；上層較暖形成逆溫，不易降雨。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-geo-40",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "38-40 為題組\n智利北部的一個漁村，過去生活用水需由外來的水車供應。當地人利用此地多霧（霧日達300天）的特殊氣候環境，在附近山區以木樁架設50平方公尺大小的網，網上的細孔可攔沾霧滴，霧水沿網而下，由塑膠管集水供應山下居民。有霧的日子中，這些網平均一天每平方公尺可得到4公升的水，一天可供應10,000公升的水。\n\n參照台灣的農村四口之家一天的用水量約為100公升，而以色列則約為40公升的供水情形。推論一個地方具有哪些條件才有可能運用如文中所述的水資源利用方式？甲、人口數量多，使用水成本低；乙、人口數量少，總耗水量不多；丙、天然水源稀少，水資源匱乏；丁、人口密度高，供水方便",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "甲丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "集霧網一天只能供 1 萬公升，約夠 100～250 戶，只適合人口少（乙）且缺乏其他水源（丙）的地方。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-geo-non-1-1",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、非洲迦納東北部的巴庫（BAWKU）地區全年分為乾、濕兩個季節，深深影響居民日常的活動空間與勞務時間的配置。女人為維繫家庭，一天最主要勞動的時間分配如表1所示。薪材來源除了在附近山林撿拾之外，農作物收成後的禾稈（如：玉米稈）亦是重要的來源。供水除前往取水點取水之外，天然雨水收集亦是重要來源。農村的買賣活動，多在作物收成後且生產有剩餘的時候才進行。1984年該地區乾旱，全年缺水；1991年則是多水年。\n\n1. 依據上文所述，表1中的甲為何種季節？（2 分）",
+    "svg": "<svg viewBox=\"0 0 494 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">項目（小時）</text><rect x=\"132\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1984 甲</text><rect x=\"222\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1984 乙</text><rect x=\"312\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1991 甲</text><rect x=\"402\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1991 乙</text><rect x=\"2\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">家務 a</text><rect x=\"132\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.6</text><rect x=\"222\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.4</text><rect x=\"312\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.6</text><rect x=\"402\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.1</text><rect x=\"2\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">家屋菜圃</text><rect x=\"132\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.5</text><rect x=\"222\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.6</text><rect x=\"312\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.4</text><rect x=\"402\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.4</text><rect x=\"2\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">生產工作 b</text><rect x=\"132\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.3</text><rect x=\"222\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.3</text><rect x=\"312\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.1</text><rect x=\"402\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.2</text></svg>\na. 家務：煮飯（撿拾薪材）、取水、照顧小孩、清潔\nb. 生產工作：農事、釀造、食物加工、手工藝等",
+    "blanks": [
+      "濕季"
+    ],
+    "blankLabels": [
+      "季節"
+    ],
+    "explanation": "甲季節家屋菜圃的工作時間較多（有水可種菜），家務時間較少（取水、撿柴較方便），是濕季。"
+  },
+  {
+    "id": "99-ast-geo-non-1-2",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、非洲迦納東北部的巴庫（BAWKU）地區全年分為乾、濕兩個季節，深深影響居民日常的活動空間與勞務時間的配置。女人為維繫家庭，一天最主要勞動的時間分配如表1所示。薪材來源除了在附近山林撿拾之外，農作物收成後的禾稈（如：玉米稈）亦是重要的來源。供水除前往取水點取水之外，天然雨水收集亦是重要來源。農村的買賣活動，多在作物收成後且生產有剩餘的時候才進行。1984年該地區乾旱，全年缺水；1991年則是多水年。\n\n2. 表1家務項中撿拾薪材與取水是最花費時間的兩項工作，為何花費的時間乙季節比甲季節多？（2 分）",
+    "svg": "<svg viewBox=\"0 0 494 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">項目（小時）</text><rect x=\"132\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1984 甲</text><rect x=\"222\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1984 乙</text><rect x=\"312\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1991 甲</text><rect x=\"402\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1991 乙</text><rect x=\"2\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">家務 a</text><rect x=\"132\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.6</text><rect x=\"222\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.4</text><rect x=\"312\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.6</text><rect x=\"402\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.1</text><rect x=\"2\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">家屋菜圃</text><rect x=\"132\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.5</text><rect x=\"222\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.6</text><rect x=\"312\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.4</text><rect x=\"402\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.4</text><rect x=\"2\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">生產工作 b</text><rect x=\"132\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.3</text><rect x=\"222\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.3</text><rect x=\"312\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.1</text><rect x=\"402\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.2</text></svg>\na. 家務：煮飯（撿拾薪材）、取水、照顧小孩、清潔\nb. 生產工作：農事、釀造、食物加工、手工藝等",
+    "blanks": [
+      "乾季取水地點較遠（距離因素）"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "乙是乾季，附近水源乾涸、雨水無法收集，必須走到較遠的取水點，薪材也要到較遠處撿拾。"
+  },
+  {
+    "id": "99-ast-geo-non-1-3",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、非洲迦納東北部的巴庫（BAWKU）地區全年分為乾、濕兩個季節，深深影響居民日常的活動空間與勞務時間的配置。女人為維繫家庭，一天最主要勞動的時間分配如表1所示。薪材來源除了在附近山林撿拾之外，農作物收成後的禾稈（如：玉米稈）亦是重要的來源。供水除前往取水點取水之外，天然雨水收集亦是重要來源。農村的買賣活動，多在作物收成後且生產有剩餘的時候才進行。1984年該地區乾旱，全年缺水；1991年則是多水年。\n\n3. 該地1991年婦女在家務上花費的時間少於1984年是因為撿拾薪材時間縮減所致。撿拾薪材的時間得以縮減之主要原因為何？（2 分）",
+    "svg": "<svg viewBox=\"0 0 494 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">項目（小時）</text><rect x=\"132\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1984 甲</text><rect x=\"222\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1984 乙</text><rect x=\"312\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1991 甲</text><rect x=\"402\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1991 乙</text><rect x=\"2\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">家務 a</text><rect x=\"132\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.6</text><rect x=\"222\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.4</text><rect x=\"312\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.6</text><rect x=\"402\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.1</text><rect x=\"2\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">家屋菜圃</text><rect x=\"132\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.5</text><rect x=\"222\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.6</text><rect x=\"312\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.4</text><rect x=\"402\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.4</text><rect x=\"2\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">生產工作 b</text><rect x=\"132\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.3</text><rect x=\"222\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.3</text><rect x=\"312\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.1</text><rect x=\"402\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.2</text></svg>\na. 家務：煮飯（撿拾薪材）、取水、照顧小孩、清潔\nb. 生產工作：農事、釀造、食物加工、手工藝等",
+    "blanks": [
+      "農作物收成數量增多，玉米禾稈較多"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "1991 年是多水年，作物收成好，收成後的玉米稈等禾稈多，可直接當薪材，不必遠行撿柴。"
+  },
+  {
+    "id": "99-ast-geo-non-1-4",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、非洲迦納東北部的巴庫（BAWKU）地區全年分為乾、濕兩個季節，深深影響居民日常的活動空間與勞務時間的配置。女人為維繫家庭，一天最主要勞動的時間分配如表1所示。薪材來源除了在附近山林撿拾之外，農作物收成後的禾稈（如：玉米稈）亦是重要的來源。供水除前往取水點取水之外，天然雨水收集亦是重要來源。農村的買賣活動，多在作物收成後且生產有剩餘的時候才進行。1984年該地區乾旱，全年缺水；1991年則是多水年。\n\n4. 依據上文所述，該地居民從事買賣活動最可能會在何種季節進行？（2 分）",
+    "svg": "<svg viewBox=\"0 0 494 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">項目（小時）</text><rect x=\"132\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1984 甲</text><rect x=\"222\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1984 乙</text><rect x=\"312\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1991 甲</text><rect x=\"402\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1991 乙</text><rect x=\"2\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">家務 a</text><rect x=\"132\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.6</text><rect x=\"222\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.4</text><rect x=\"312\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.6</text><rect x=\"402\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.1</text><rect x=\"2\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">家屋菜圃</text><rect x=\"132\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.5</text><rect x=\"222\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.6</text><rect x=\"312\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.4</text><rect x=\"402\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.4</text><rect x=\"2\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">生產工作 b</text><rect x=\"132\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.3</text><rect x=\"222\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.3</text><rect x=\"312\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.1</text><rect x=\"402\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.2</text></svg>\na. 家務：煮飯（撿拾薪材）、取水、照顧小孩、清潔\nb. 生產工作：農事、釀造、食物加工、手工藝等",
+    "blanks": [
+      "乾季"
+    ],
+    "blankLabels": [
+      "季節"
+    ],
+    "explanation": "作物在濕季生長、季末收成，收成後有剩餘才進行買賣，時間落在接下來的乾季。"
+  },
+  {
+    "id": "99-ast-geo-non-1-5",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、非洲迦納東北部的巴庫（BAWKU）地區全年分為乾、濕兩個季節，深深影響居民日常的活動空間與勞務時間的配置。女人為維繫家庭，一天最主要勞動的時間分配如表1所示。薪材來源除了在附近山林撿拾之外，農作物收成後的禾稈（如：玉米稈）亦是重要的來源。供水除前往取水點取水之外，天然雨水收集亦是重要來源。農村的買賣活動，多在作物收成後且生產有剩餘的時候才進行。1984年該地區乾旱，全年缺水；1991年則是多水年。\n\n5. 該地的農業屬於何種農業類型？（2 分）",
+    "svg": "<svg viewBox=\"0 0 494 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">項目（小時）</text><rect x=\"132\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1984 甲</text><rect x=\"222\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1984 乙</text><rect x=\"312\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1991 甲</text><rect x=\"402\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1991 乙</text><rect x=\"2\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">家務 a</text><rect x=\"132\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.6</text><rect x=\"222\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.4</text><rect x=\"312\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.6</text><rect x=\"402\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.1</text><rect x=\"2\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">家屋菜圃</text><rect x=\"132\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.5</text><rect x=\"222\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.6</text><rect x=\"312\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.4</text><rect x=\"402\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.4</text><rect x=\"2\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">生產工作 b</text><rect x=\"132\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.3</text><rect x=\"222\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.3</text><rect x=\"312\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.1</text><rect x=\"402\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"447\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.2</text></svg>\na. 家務：煮飯（撿拾薪材）、取水、照顧小孩、清潔\nb. 生產工作：農事、釀造、食物加工、手工藝等",
+    "blanks": [
+      "（傳統）自給性農業"
+    ],
+    "blankLabels": [
+      "農業類型"
+    ],
+    "explanation": "生產以自家消費為主，只有餘糧時才買賣，屬於傳統自給式農業。"
+  },
+  {
+    "id": "99-ast-geo-non-2-1",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、2009年9月曾有船隻在中國三峽大壩以東的宜昌附近因水位降低而觸礁，同年10月三峽水庫的蓄水位在170公尺附近時，管理單位沒有繼續蓄水至工程所規劃的「正常蓄水位」175公尺，便開始排放庫水。水庫建設同時亦具有提升長江航道機能的效益，並對南水北調的營運有所助益。\n\n1. 管理單位沒有將蓄水位提升至175公尺，最可能的原因應是長江中下游遭受哪種自然災害所致？（2 分）",
+    "blanks": [
+      "旱災（乾旱）"
+    ],
+    "blankLabels": [
+      "自然災害"
+    ],
+    "explanation": "宜昌附近船隻因水位低而觸礁，顯示中下游乾旱缺水，水庫必須放水補充下游水量。"
+  },
+  {
+    "id": "99-ast-geo-non-2-2",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、2009年9月曾有船隻在中國三峽大壩以東的宜昌附近因水位降低而觸礁，同年10月三峽水庫的蓄水位在170公尺附近時，管理單位沒有繼續蓄水至工程所規劃的「正常蓄水位」175公尺，便開始排放庫水。水庫建設同時亦具有提升長江航道機能的效益，並對南水北調的營運有所助益。\n\n2. 三峽水庫規劃的蓄水位在不同的季節會有所不同，在雨季來臨前，管理單位會將蓄水位降至145公尺，目的是要發揮水庫的何種功能？（2 分）",
+    "blanks": [
+      "防洪（蓄洪、調洪、減少洪患）"
+    ],
+    "blankLabels": [
+      "功能"
+    ],
+    "explanation": "雨季前降低水位，騰出庫容，可在洪水來時蓄積洪水、削減洪峰。"
+  },
+  {
+    "id": "99-ast-geo-non-2-3",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、2009年9月曾有船隻在中國三峽大壩以東的宜昌附近因水位降低而觸礁，同年10月三峽水庫的蓄水位在170公尺附近時，管理單位沒有繼續蓄水至工程所規劃的「正常蓄水位」175公尺，便開始排放庫水。水庫建設同時亦具有提升長江航道機能的效益，並對南水北調的營運有所助益。\n\n3. 按三峽工程的規劃，水庫完成後配合船閘調節水位，萬噸輪船可由長江口上溯至哪個港市，使長江「黃金水道」的航運機能更得以提昇？（2 分）",
+    "blanks": [
+      "重慶市"
+    ],
+    "blankLabels": [
+      "港市"
+    ],
+    "explanation": "三峽水庫回水到重慶，川江險灘被淹沒，萬噸級船隊可直達重慶。"
+  },
+  {
+    "id": "99-ast-geo-non-2-4",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、2009年9月曾有船隻在中國三峽大壩以東的宜昌附近因水位降低而觸礁，同年10月三峽水庫的蓄水位在170公尺附近時，管理單位沒有繼續蓄水至工程所規劃的「正常蓄水位」175公尺，便開始排放庫水。水庫建設同時亦具有提升長江航道機能的效益，並對南水北調的營運有所助益。\n\n4. 依據計畫，三峽水庫兼有輸水至漢江上游的丹江口水庫的任務，其目的是為支援「南水北調」方案中哪線工程所需的水源？（2 分）",
+    "blanks": [
+      "中線"
+    ],
+    "blankLabels": [
+      "工程"
+    ],
+    "explanation": "南水北調中線工程從漢江丹江口水庫引水，經河南、河北到北京、天津。"
+  },
+  {
+    "id": "99-ast-geo-non-2-5",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、2009年9月曾有船隻在中國三峽大壩以東的宜昌附近因水位降低而觸礁，同年10月三峽水庫的蓄水位在170公尺附近時，管理單位沒有繼續蓄水至工程所規劃的「正常蓄水位」175公尺，便開始排放庫水。水庫建設同時亦具有提升長江航道機能的效益，並對南水北調的營運有所助益。\n\n5. 學者認為「南水北調」後，長江流域的血吸蟲病會擴散至北方溫帶地區。此類問題可在非洲哪條河川大型水利工程完工後，血吸蟲病沿著灌溉渠道擴散的經驗得到佐證？（2 分）",
+    "blanks": [
+      "尼羅河"
+    ],
+    "blankLabels": [
+      "河川"
+    ],
+    "explanation": "埃及亞斯文高壩完工後，灌溉渠道遍布，水流緩慢，血吸蟲的中間宿主釘螺大量繁殖，血吸蟲病擴散。"
   }
 ]
