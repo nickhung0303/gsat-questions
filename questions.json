@@ -228184,5 +228184,389 @@
       "情形二"
     ],
     "explanation": "$x = \\dfrac{-1 \\pm \\sqrt5}{2}$，公比 $= \\dfrac{a_3}{a_2} = \\dfrac{x + 2}{2(x + 1)}$：\n• $x = \\dfrac{-1 + \\sqrt5}{2}$：$\\dfrac{(3 + \\sqrt5)/2}{1 + \\sqrt5} = \\dfrac{3 + \\sqrt5}{2(1 + \\sqrt5)} = \\dfrac{1 + \\sqrt5}{4}$。\n• $x = \\dfrac{-1 - \\sqrt5}{2}$：$\\dfrac{(3 - \\sqrt5)/2}{1 - \\sqrt5} = \\dfrac{1 - \\sqrt5}{4}$。"
+  },
+  {
+    "id": "108-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 某公司尾牙舉辦「紅包大放送」活動。每位員工擲兩枚均勻銅板一次，若出現兩個反面可得獎金 400 元；若出現一正一反可得獎金 800 元；若出現兩個正面可得獎金 800 元並且獲得再擲一次的機會，其獲得獎金規則與前述相同，但不再有繼續投擲銅板的機會（也就是說每位員工最多有兩次擲銅板的機會）。試問每位參加活動的員工可獲得獎金的期望值為何？",
+    "options": [
+      "850 元",
+      "875 元",
+      "900 元",
+      "925 元",
+      "950 元"
+    ],
+    "answerIndex": 1,
+    "explanation": "最後一次（不能再擲）的期望值：$400\\cdot\\dfrac14 + 800\\cdot\\dfrac12 + 800\\cdot\\dfrac14 = 700$。\n第一次：兩反 $400\\cdot\\dfrac14$；一正一反 $800\\cdot\\dfrac12$；兩正 $(800 + 700)\\cdot\\dfrac14$。\n$E = 100 + 400 + 375 = 875$ 元。\n\n故選 (B)"
+  },
+  {
+    "id": "108-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 設 $n$ 為正整數。第 $n$ 個費馬數（Fermat Number）定義為 $F_n = 2^{(2^n)} + 1$，例如 $F_1 = 2^{(2^1)} + 1 = 5$，$F_2 = 2^{(2^2)} + 1 = 17$。試問 $\\dfrac{F_{13}}{F_{12}}$ 的整數部分以十進位表示時，其位數最接近下列哪一個選項？（$\\log2 \\approx 0.3010$）",
+    "options": [
+      "120",
+      "240",
+      "600",
+      "900",
+      "1200"
+    ],
+    "answerIndex": 4,
+    "explanation": "$\\dfrac{F_{13}}{F_{12}} = \\dfrac{2^{8192} + 1}{2^{4096} + 1} \\approx 2^{4096}$（略小一點，整數部分位數相同）。\n$\\log2^{4096} = 4096\\times0.3010 \\approx 1232.9$，約 1233 位，最接近 1200。\n\n故選 (E)"
+  },
+  {
+    "id": "108-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 在一座尖塔的正南方地面某點 $A$，測得塔頂的仰角為 $14^\\circ$；又在此尖塔正東方地面某點 $B$，測得塔頂的仰角為 $18^\\circ30'$，且 $A$、$B$ 兩點距離為 65 公尺。已知當在線段 $\\overline{AB}$ 上移動時，在 $C$ 點測得塔頂的仰角為最大，則 $C$ 點到塔底的距離最接近下列哪一個選項？（$\\cot14^\\circ \\approx 4.01$，$\\cot18^\\circ30' \\approx 2.99$）",
+    "options": [
+      "27 公尺",
+      "29 公尺",
+      "31 公尺",
+      "33 公尺",
+      "35 公尺"
+    ],
+    "answerIndex": 2,
+    "explanation": "設塔高 $h$、塔底 $O$。$\\overline{OA} = 4.01h$（正南）、$\\overline{OB} = 2.99h$（正東），$\\angle AOB = 90^\\circ$。\n$\\overline{AB} = h\\sqrt{4.01^2 + 2.99^2} \\approx h\\sqrt{25.02} \\approx 5h = 65$，$h \\approx 13$。\n仰角最大 ⇔ 離塔底最近：$C$ 是 $O$ 到 $\\overline{AB}$ 的垂足，距離 $= \\dfrac{\\overline{OA}\\cdot\\overline{OB}}{\\overline{AB}} = \\dfrac{4.01\\times2.99h^2}{5h} \\approx 2.40h \\approx 31$ 公尺。\n\n故選 (C)"
+  },
+  {
+    "id": "108-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 設 $\\Gamma$ 為坐標平面上通過 $(7, 0)$ 與 $\\left(0, \\dfrac72\\right)$ 兩點的圓。試選出正確的選項。",
+    "options": [
+      "$\\Gamma$ 的半徑大於或等於 5",
+      "當 $\\Gamma$ 的半徑達到最小可能值時，$\\Gamma$ 通過原點",
+      "$\\Gamma$ 與直線 $x + 2y = 6$ 有交點",
+      "$\\Gamma$ 的圓心不可能在第四象限",
+      "若 $\\Gamma$ 的圓心在第三象限，則 $\\Gamma$ 的半徑大於 8"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "兩點距離 $\\sqrt{49 + \\frac{49}{4}} = \\dfrac{7\\sqrt5}{2} \\approx 7.83$；圓心在其中垂線 $y = 2x - \\dfrac{21}{4}$ 上。\n• (A) 錯誤：最小半徑為弦長一半 $\\approx 3.91$。\n• (B) 正確：最小時兩點為直徑兩端，而兩點與原點所成角為直角，原點在圓上。\n• (C) 錯誤：直線 $x + 2y = 6$ 與弦所在直線 $x + 2y = 7$ 平行且相距 $\\dfrac{1}{\\sqrt5}$；圓心在另一側很遠時（半徑很大），弦外凸出的部分趨近 0，碰不到。\n• (D) 錯誤：例如圓心 $\\left(1, -\\dfrac{13}{4}\\right)$ 在第四象限。\n• (E) 正確：第三象限需 $x < 0$，半徑$^2 = (x - 7)^2 + \\left(2x - \\dfrac{21}{4}\\right)^2 > 49 + \\dfrac{441}{16} > 64$。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "108-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 袋中有 2 顆紅球、3 顆白球與 1 顆藍球，其大小皆相同。今將袋中的球逐次取出，每次隨機取出一顆，取後不放回，直到所有球被取出為止。試選出正確的選項。",
+    "options": [
+      "「取出的第一顆為紅球」的機率等於「取出的第二顆為紅球」的機率",
+      "「取出的第一顆為紅球」與「取出的第二顆為紅球」兩者為獨立事件",
+      "「取出的第一顆為紅球」與「取出的第二顆為白球或藍球」兩者為互斥事件",
+      "「取出的第一、二顆皆為紅球」的機率等於「取出的第一、二顆皆為白球」的機率",
+      "「取出的前三顆皆為白球」的機率小於「取出的前三顆球顏色皆相異」的機率"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "• (A) 正確：每個位置是紅球的機率都是 $\\dfrac26$。\n• (B) 錯誤：$P(\\text{兩次紅}) = \\dfrac26\\cdot\\dfrac15 = \\dfrac{1}{15} \\ne \\dfrac19$。\n• (C) 錯誤：可以同時發生（紅、白）。\n• (D) 錯誤：$\\dfrac{1}{15}$ 與 $\\dfrac36\\cdot\\dfrac25 = \\dfrac15$。\n• (E) 正確：$\\dfrac{3\\cdot2\\cdot1}{6\\cdot5\\cdot4} = \\dfrac{1}{20}$；三色各一：$\\dfrac{3!\\cdot2\\cdot3\\cdot1}{120} = \\dfrac{3}{10}$。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "108-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 設 $\\langle a_n\\rangle$、$\\langle b_n\\rangle$ 為兩實數數列，且對所有的正整數 $n$，$a_n < b_n^2 < a_{n+1}$ 均成立。若已知 $\\displaystyle\\lim_{n\\to\\infty}a_n = 4$，試選出正確的選項。",
+    "options": [
+      "對所有的正整數 $n$，$a_n > 3$ 均成立",
+      "存在正整數 $n$，使得 $a_{n+1} > 4$",
+      "對所有的正整數 $n$，$b_n^2 < b_{n+1}^2$ 均成立",
+      "$\\displaystyle\\lim_{n\\to\\infty}b_n^2 = 4$",
+      "$\\displaystyle\\lim_{n\\to\\infty}b_n = 2$ 或 $\\displaystyle\\lim_{n\\to\\infty}b_n = -2$"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "由條件 $a_n < a_{n+1}$，$\\langle a_n\\rangle$ 嚴格遞增且趨近 4，所以每一項都小於 4。\n• (A) 錯誤：前幾項可以很小，例如 $a_1 = 0$。\n• (B) 錯誤：遞增數列的每項都小於極限 4。\n• (C) 正確：$b_n^2 < a_{n+1} < b_{n+1}^2$。\n• (D) 正確：夾擠定理。\n• (E) 錯誤：例如 $b_n = (-1)^n\\sqrt{c_n}$ 正負交替，$b_n$ 沒有極限。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "108-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 已知三次實係數多項式函數 $f(x) = ax^3 + bx^2 + cx + 2$，在 $-2 \\le x \\le 1$ 範圍內的圖形如示意圖。試選出正確的選項。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/108-ast-ma-07.png\" alt=\"f 在 -2 到 1 之間的圖形：凹口向上，最低點在 y 軸左側附近且為正值\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$a > 0$",
+      "$b > 0$",
+      "$c > 0$",
+      "方程式 $f(x) = 0$ 恰有三實根",
+      "$y = f(x)$ 圖形的反曲點的 $y$ 坐標為正"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "由圖：$[-2, 1]$ 上凹口向上（$f'' > 0$），最低點在 $y$ 軸左側，所以 $x = 0$ 處已在遞增（$f'(0) > 0$）。\n• (A) 錯誤：只知道 $f''$ 在 $[-2, 1]$ 為正，$a$ 的正負無法判定。\n• (B) 正確：$f''(0) = 2b > 0$。\n• (C) 正確：$c = f'(0) > 0$。\n• (D) 錯誤：無法確定。\n• (E) 正確：反曲點 $x_0$ 在 $[-2, 1]$ 外。若 $a > 0$，$x_0 < -2$，$f'$ 在 $[x_0, -2]$ 上仍為負（$f'(-2) < 0$ 且 $f'$ 在 $x_0$ 右側遞增），$f(x_0) > f(-2) > 0$；若 $a < 0$，$x_0 > 1$，同理 $f$ 在 $[1, x_0]$ 遞增，$f(x_0) > f(1) > 0$。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "108-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 坐標平面上以原點 $O$ 為圓心的單位圓上三相異點 $A$、$B$、$C$ 滿足 $2\\overrightarrow{OA} + 3\\overrightarrow{OB} + 4\\overrightarrow{OC} = \\vec 0$，其中 $A$ 點的坐標為 $(1, 0)$。試選出正確的選項。",
+    "options": [
+      "向量 $2\\overrightarrow{OA} + 3\\overrightarrow{OB}$ 的長度為 4",
+      "內積 $\\overrightarrow{OA}\\cdot\\overrightarrow{OB} < 0$",
+      "$\\angle BOC$、$\\angle AOC$、$\\angle AOB$ 中，以 $\\angle BOC$ 的度數為最小",
+      "$\\overline{AB} > \\dfrac32$",
+      "$3\\sin\\angle AOB = 4\\sin\\angle AOC$"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "令 $\\vec a, \\vec b, \\vec c$ 為三個單位向量。\n• (A) 正確：$2\\vec a + 3\\vec b = -4\\vec c$，長度 4。\n• (B) 錯誤：$|2\\vec a + 3\\vec b|^2 = 13 + 12\\,\\vec a\\cdot\\vec b = 16$，$\\vec a\\cdot\\vec b = \\dfrac14 > 0$。\n• (C) 錯誤：同理 $\\vec b\\cdot\\vec c = -\\dfrac78$、$\\vec a\\cdot\\vec c = -\\dfrac{11}{16}$；$\\angle AOB$ 的餘弦最大，角度最小。\n• (D) 錯誤：$\\overline{AB}^2 = 2 - \\dfrac12 = \\dfrac32$，$\\overline{AB} \\approx 1.22$。\n• (E) 正確：$\\sin\\angle AOB = \\dfrac{\\sqrt{15}}{4}$、$\\sin\\angle AOC = \\sqrt{1 - \\dfrac{121}{256}} = \\dfrac{3\\sqrt{15}}{16}$，$3\\cdot\\dfrac{\\sqrt{15}}{4} = 4\\cdot\\dfrac{3\\sqrt{15}}{16}$。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "108-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "A. 在坐標平面上，定義一個坐標變換 $\\begin{bmatrix} y_1 \\\\ y_2 \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ -1 & 2 \\end{bmatrix}\\begin{bmatrix} x_1 \\\\ x_2 \\end{bmatrix} + \\begin{bmatrix} -2 \\\\ 3 \\end{bmatrix}$，其中 $\\begin{bmatrix} x_1 \\\\ x_2 \\end{bmatrix}$ 代表舊坐標，$\\begin{bmatrix} y_1 \\\\ y_2 \\end{bmatrix}$ 代表新坐標。若舊坐標為 $\\begin{bmatrix} r \\\\ s \\end{bmatrix}$ 的點 $P$ 經此坐標變換得到的新坐標為 $\\begin{bmatrix} 1 \\\\ -2 \\end{bmatrix}$，則 $(r, s) =$ (⑨, ⑩⑪)。",
+    "blanks": [
+      "3",
+      "-",
+      "1"
+    ],
+    "acceptedBlanks": [
+      [
+        "3"
+      ],
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "1"
+      ]
+    ],
+    "blankLabels": [
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation": "$r - 2 = 1$，$r = 3$；$-r + 2s + 3 = -2$，$2s = -2$，$s = -1$。$(r, s) = (3, -1)$。"
+  },
+  {
+    "id": "108-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "B. 在坐標平面上，$A(a, r)$、$B(b, s)$ 為函數圖形 $y = \\log_2x$ 上之兩點，其中 $a < b$。已知 $A$、$B$ 連線的斜率等於 2，且線段 $\\overline{AB}$ 的長度為 $\\sqrt5$，則 $(a, b) = \\left(\\dfrac{⑫}{⑬}, \\dfrac{⑭}{⑮}\\right)$。（化成最簡分數）",
+    "blanks": [
+      "1",
+      "3",
+      "4",
+      "3"
+    ],
+    "blankLabels": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "explanation": "$s - r = 2(b - a)$，$(b - a)^2 + 4(b - a)^2 = 5$，$b - a = 1$、$s - r = 2$。\n$\\log_2\\dfrac ba = 2$，$b = 4a$，$3a = 1$：$a = \\dfrac13$、$b = \\dfrac43$。"
+  },
+  {
+    "id": "108-ast-ma-C",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "C. 設 $z$ 為複數。在複數平面上，一個正六邊形依順時針方向的連續三個頂點為 $z$、0、$z + 5 - 2\\sqrt3i$（其中 $i = \\sqrt{-1}$），則 $z$ 的實部為 $\\dfrac{⑯⑰}{⑱}$。（化成最簡分數）",
+    "blanks": [
+      "-",
+      "7",
+      "2"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "7"
+      ],
+      [
+        "2"
+      ]
+    ],
+    "blankLabels": [
+      "16",
+      "17",
+      "18"
+    ],
+    "explanation": "正六邊形在頂點 0 的內角 $120^\\circ$，兩鄰邊等長：$w = z + 5 - 2\\sqrt3i$ 是 $z$ 繞原點旋轉 $\\pm120^\\circ$。順時針排列時 $w = z(\\cos120^\\circ + i\\sin120^\\circ)$，\n$$w - z = z\\left(-\\frac32 + \\frac{\\sqrt3}{2}i\\right) = 5 - 2\\sqrt3i \\implies z = \\frac{(5 - 2\\sqrt3i)\\left(-\\frac32 - \\frac{\\sqrt3}{2}i\\right)}{3} = -\\frac72 + \\frac{\\sqrt3}{6}i$$\n（驗算：$z \\to 0 \\to w$ 為向右轉，確為順時針。）實部 $-\\dfrac72$。"
+  },
+  {
+    "id": "108-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標空間中以 $O$ 表示原點，給定兩向量 $\\overrightarrow{OA} = (1, \\sqrt2, 1)$、$\\overrightarrow{OB} = (2, 0, 0)$。試回答下列問題。\n(1) 若 $\\overrightarrow{OP}$ 是長度為 2 的向量，且與 $\\overrightarrow{OA}$ 之夾角為 $60^\\circ$，試求向量 $\\overrightarrow{OA}$ 與 $\\overrightarrow{OP}$ 的內積。（2 分）",
+    "points": 2,
+    "blanks": [
+      "2"
+    ],
+    "blankLabels": [
+      "內積"
+    ],
+    "explanation": "$|\\overrightarrow{OA}| = 2$，內積 $= 2\\cdot2\\cos60^\\circ = 2$。"
+  },
+  {
+    "id": "108-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標空間中以 $O$ 表示原點，給定兩向量 $\\overrightarrow{OA} = (1, \\sqrt2, 1)$、$\\overrightarrow{OB} = (2, 0, 0)$。試回答下列問題。\n(2) 承 (1)，已知滿足此條件的所有點 $P$ 均落在一平面 $E$ 上，試求平面 $E$ 的方程式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "$x + \\sqrt2y + z = 2$"
+    ],
+    "blankLabels": [
+      "E"
+    ],
+    "explanation": "$P(x, y, z)$ 滿足 $\\overrightarrow{OA}\\cdot\\overrightarrow{OP} = 2$：$x + \\sqrt2y + z = 2$。"
+  },
+  {
+    "id": "108-ast-ma-non-1-3",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標空間中以 $O$ 表示原點，給定兩向量 $\\overrightarrow{OA} = (1, \\sqrt2, 1)$、$\\overrightarrow{OB} = (2, 0, 0)$。試回答下列問題。\n(3) 若 $\\overrightarrow{OQ}$ 是長度為 2 的向量，分別與 $\\overrightarrow{OA}$、$\\overrightarrow{OB}$ 之夾角皆為 $60^\\circ$，已知滿足此條件的所有點 $Q$ 均落在一直線 $L$ 上，試求直線 $L$ 的方向向量。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$(0, 1, -\\sqrt2)$（或其非零倍數）"
+    ],
+    "blankLabels": [
+      "方向向量"
+    ],
+    "explanation": "$\\overrightarrow{OQ}\\cdot\\overrightarrow{OA} = 2$、$\\overrightarrow{OQ}\\cdot\\overrightarrow{OB} = 2\\cdot2\\cdot\\dfrac12 = 2$，即 $x + \\sqrt2y + z = 2$ 與 $x = 1$。\n$L$ 的方向 $= (1, \\sqrt2, 1)\\times(1, 0, 0) = (0, 1, -\\sqrt2)$。"
+  },
+  {
+    "id": "108-ast-ma-non-1-4",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標空間中以 $O$ 表示原點，給定兩向量 $\\overrightarrow{OA} = (1, \\sqrt2, 1)$、$\\overrightarrow{OB} = (2, 0, 0)$。試回答下列問題。\n(4) 承 (3)，試求出滿足條件的所有 $Q$ 點之坐標。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$(1, \\sqrt2, -1)$",
+      "$\\left(1, -\\dfrac{\\sqrt2}{3}, \\dfrac53\\right)$"
+    ],
+    "blankLabels": [
+      "Q 之一",
+      "Q 之二"
+    ],
+    "explanation": "$x = 1$、$z = 1 - \\sqrt2y$，又 $|\\overrightarrow{OQ}|^2 = 4$：$1 + y^2 + (1 - \\sqrt2y)^2 = 4$，$3y^2 - 2\\sqrt2y - 2 = 0$，$y = \\sqrt2$ 或 $-\\dfrac{\\sqrt2}{3}$。\n$Q = (1, \\sqrt2, -1)$ 或 $\\left(1, -\\dfrac{\\sqrt2}{3}, \\dfrac53\\right)$。"
+  },
+  {
+    "id": "108-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $f(x)$ 為實係數多項式函數，且 $xf(x) = 3x^4 - 2x^3 + x^2 + \\displaystyle\\int_1^x f(t)\\,dt$ 對 $x \\ge 1$ 恆成立。試回答下列問題。\n(1) 試求 $f(1)$。（2 分）",
+    "points": 2,
+    "blanks": [
+      "2"
+    ],
+    "blankLabels": [
+      "f(1)"
+    ],
+    "explanation": "代 $x = 1$：$f(1) = 3 - 2 + 1 + 0 = 2$。"
+  },
+  {
+    "id": "108-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $f(x)$ 為實係數多項式函數，且 $xf(x) = 3x^4 - 2x^3 + x^2 + \\displaystyle\\int_1^x f(t)\\,dt$ 對 $x \\ge 1$ 恆成立。試回答下列問題。\n(2) 試求 $f'(x)$。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$f'(x) = 12x^2 - 6x + 2$"
+    ],
+    "blankLabels": [
+      "f'(x)"
+    ],
+    "explanation": "兩邊微分：$f(x) + xf'(x) = 12x^3 - 6x^2 + 2x + f(x)$，$f'(x) = 12x^2 - 6x + 2$。"
+  },
+  {
+    "id": "108-ast-ma-non-2-3",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $f(x)$ 為實係數多項式函數，且 $xf(x) = 3x^4 - 2x^3 + x^2 + \\displaystyle\\int_1^x f(t)\\,dt$ 對 $x \\ge 1$ 恆成立。試回答下列問題。\n(3) 試求 $f(x)$。（2 分）",
+    "points": 2,
+    "blanks": [
+      "$f(x) = 4x^3 - 3x^2 + 2x - 1$"
+    ],
+    "blankLabels": [
+      "f(x)"
+    ],
+    "explanation": "$f(x) = 4x^3 - 3x^2 + 2x + C$，$f(1) = 3 + C = 2$，$C = -1$。"
+  },
+  {
+    "id": "108-ast-ma-non-2-4",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $f(x)$ 為實係數多項式函數，且 $xf(x) = 3x^4 - 2x^3 + x^2 + \\displaystyle\\int_1^x f(t)\\,dt$ 對 $x \\ge 1$ 恆成立。試回答下列問題。\n(4) 試證明恰有一個大於 1 的正實數 $a$ 滿足 $\\displaystyle\\int_0^a f(x)\\,dx = 1$。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$G(a) = a^4 - a^3 + a^2 - a$ 在 $a > 1$ 遞增，由 0 增到無限大"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "令 $G(a) = \\displaystyle\\int_0^a f = a^4 - a^3 + a^2 - a$，$G(1) = 0$，$G' = f$。\n$f'(x) = 12x^2 - 6x + 2$ 的判別式 $36 - 96 < 0$，$f' > 0$，$f$ 遞增；$f(1) = 2 > 0$，所以 $a > 1$ 時 $G' > 0$，$G$ 嚴格遞增且 $G(a) \\to \\infty$。\n由勘根定理與單調性，恰有一個 $a > 1$ 使 $G(a) = 1$。"
   }
 ]
