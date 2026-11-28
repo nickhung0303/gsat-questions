@@ -255905,5 +255905,856 @@
       "產業部門"
     ],
     "explanation": "工廠關閉後改為文化事業、博物館、新興產業、住宅與公園，並培訓人才，由第二級產業轉為第三級（服務業）部門。"
+  },
+  {
+    "id": "94-ast-geo-01",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-3 為題組\n二次戰後的60年來，台灣農業從傳統轉化成市場及多元化導向；加入WTO後，為因應國內、外市場之變遷及永續發展的潮流，農業再度面臨著轉型。請問：\n\n下列哪些現象是台灣農業「市場及多元化導向」的呈現？甲、城鄉差距的縮短；乙、生產結構的改變；丙、附加價值的提高；丁、休閒農業的發展；戊、自給經濟的發展",
+    "options": [
+      "甲丙戊",
+      "甲乙丁",
+      "乙丙丁",
+      "丙丁戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "依市場需求調整作物（乙）、提高農產附加價值（丙）、發展休閒農業（丁），都是市場與多元化導向。自給經濟正好相反；城鄉差距縮短不是農業本身的轉型。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-geo-02",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-3 為題組\n二次戰後的60年來，台灣農業從傳統轉化成市場及多元化導向；加入WTO後，為因應國內、外市場之變遷及永續發展的潮流，農業再度面臨著轉型。請問：\n\n台灣目前市場流行的有機農產品，最主要是下列哪些(社會)變遷的結果？甲、消費者追求健康飲食的趨勢；乙、農業生產與行銷策略的變更；丙、社會追求自然資源永續利用；丁、城鄉差異與貧富差距日益擴大；戊、老年人口飲食消費需求降低",
+    "options": [
+      "甲乙丙",
+      "甲丙戊",
+      "甲丙丁",
+      "乙丁戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "消費者重視健康（甲）、農民改變生產與行銷策略（乙）、社會重視永續利用（丙），共同促成有機農產品流行。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-geo-03",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-3 為題組\n二次戰後的60年來，台灣農業從傳統轉化成市場及多元化導向；加入WTO後，為因應國內、外市場之變遷及永續發展的潮流，農業再度面臨著轉型。請問：\n\n下列哪些發展方向最有利於台灣農業的永續發展？甲、提倡融合地方生態環境的休閒農業；乙、重視農民地方經驗以求特色農業的發展；丙、農地產權買賣高度自主以符民主潮流；丁、擴增交通路線以因應休閒農業的需要；戊、善用農業生物科技以提高農業的效益",
+    "options": [
+      "甲丙丁",
+      "甲乙戊",
+      "甲乙丁",
+      "丙丁戊"
+    ],
+    "answerIndex": 1,
+    "explanation": "結合生態的休閒農業（甲）、發揮地方特色（乙）、運用生物科技提高效益（戊）都有利永續。農地自由買賣易使農地流失；廣闢道路會破壞環境。\n\n故選 (B)"
+  },
+  {
+    "id": "94-ast-geo-04",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "4-5 為題組\n澎湖群島位於台灣海峽，主要由64個大小島嶼所組成。在地質上除花嶼之外，其餘各島嶼都是由玄武岩和部分夾層的沈積岩所組成，而在島嶼四周常有珊瑚礁發育。請問：\n\n下列何處的火山因岩漿的流動特性而形成與澎湖群島類似的地形？",
+    "options": [
+      "台灣大屯山",
+      "日本富士山",
+      "美國聖海倫火山",
+      "美國夏威夷火山"
+    ],
+    "answerIndex": 3,
+    "explanation": "澎湖是玄武岩熔岩流形成的方山地形。玄武岩岩漿黏性低、流動性高，與夏威夷火山相同。大屯山、富士山、聖海倫火山是安山岩質的錐狀火山。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-geo-05",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "4-5 為題組\n澎湖群島位於台灣海峽，主要由64個大小島嶼所組成。在地質上除花嶼之外，其餘各島嶼都是由玄武岩和部分夾層的沈積岩所組成，而在島嶼四周常有珊瑚礁發育。請問：\n\n珊瑚礁碎塊(俗稱咾咕石)過去常被居民用於下列哪些用途？甲、堆造石滬捕魚；乙、砌綠蠵龜產卵庇護所；丙、築擋風牆抗東北季風；丁、當作消波塊抗浪",
+    "options": [
+      "甲丙",
+      "乙丁",
+      "甲乙",
+      "丙丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "澎湖居民用咾咕石堆石滬（甲），也砌成菜宅等擋風牆抵擋冬季強勁的東北季風（丙）。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-geo-06",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "6-7 為題組\n某高中地理老師帶學生到台灣西部的一段海岸進行戶外考察，到達海邊時發現海岸防風林的木麻黃大量傾倒，原屬海防部隊的水泥崗哨亦傾陷在水中。請問：\n\n台灣西部海岸的海岸線目前有80％左右正處於侵蝕狀態，但各地海岸線後退原因並不相同。下列何處海岸線的後退主要是因地層下陷所造成？",
+    "options": [
+      "台北八里",
+      "新竹南寮",
+      "雲林口湖",
+      "台南七股"
+    ],
+    "answerIndex": 2,
+    "explanation": "雲林、彰化、屏東沿海養殖業大量超抽地下水，地層下陷嚴重，雲林口湖是代表地區。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-geo-07",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "6-7 為題組\n某高中地理老師帶學生到台灣西部的一段海岸進行戶外考察，到達海邊時發現海岸防風林的木麻黃大量傾倒，原屬海防部隊的水泥崗哨亦傾陷在水中。請問：\n\n下列哪些人為活動可能造成台灣西部海岸的侵蝕現象？甲、河川上游興建水庫；乙、河川上游濫墾濫伐；丙、興建港口防波堤；丁、開採河口海岸砂石；戊、防風林內傾倒廢土",
+    "options": [
+      "甲丙丁",
+      "乙丁戊",
+      "乙丙戊",
+      "甲丁戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "水庫攔截泥沙（甲）、防波堤阻斷沿岸漂沙使下游缺沙（丙）、採砂直接減少泥沙（丁），都使海岸輸沙不足而後退。濫墾濫伐反而增加河川輸沙。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-geo-08",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "8-10 為題組\n圖1是幾種常見的侵台颱風路徑圖。當路徑不同時，風向及風雨情況有很大差異。請問：\n\n當颱風以第4號路徑，沿東部海岸北上侵襲台灣，颱風中心到達圖示之位置時，下列哪些地區最有可能發生焚風現象？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-08.png\" alt=\"圖1 侵台颱風路徑（颱風符號代表颱風中心所在）：路徑 1 由東南方向西北穿過臺灣北部；路徑 2 由東南向西北穿過臺灣中部；路徑 3 由東南向西北經臺灣南端（巴士海峽）；路徑 4 沿東部海岸由南向北，颱風中心標在臺灣東北方外海；路徑 5、6 由南向北沿臺灣海峽（西部外海）北上\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "台南、嘉義",
+      "基隆、台北",
+      "台中、苗栗",
+      "台東、花蓮"
+    ],
+    "answerIndex": 3,
+    "explanation": "颱風中心在臺灣東北方外海時，逆時針環流使臺灣吹西風或西南風，氣流越過中央山脈，在背風的東部（台東、花蓮）下沉增溫，形成焚風。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-geo-09",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "8-10 為題組\n圖1是幾種常見的侵台颱風路徑圖。當路徑不同時，風向及風雨情況有很大差異。請問：\n\n十、十一月侵襲台灣的颱風被稱為秋颱。如秋颱以第3號路徑經台灣南端或巴士海峽侵襲台灣時，除了恒春、高雄地區會有狂風暴雨外，下列哪些地區最有可能出現豪大雨現象？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-08.png\" alt=\"圖1 侵台颱風路徑（颱風符號代表颱風中心所在）：路徑 1 由東南方向西北穿過臺灣北部；路徑 2 由東南向西北穿過臺灣中部；路徑 3 由東南向西北經臺灣南端（巴士海峽）；路徑 4 沿東部海岸由南向北，颱風中心標在臺灣東北方外海；路徑 5、6 由南向北沿臺灣海峽（西部外海）北上\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "acceptedAnswerIndices": [
+      [
+        3
+      ]
+    ],
+    "options": [
+      "金門、馬祖",
+      "基隆、台北",
+      "台中、苗栗",
+      "台東、花蓮"
+    ],
+    "answerIndex": 1,
+    "explanation": "秋颱的北側東北風與東北季風共伴，迎風的北部、東北部（基隆、台北，以及宜蘭、花蓮一帶）容易出現豪大雨。大考中心公告 (B) 或 (D) 皆給分。\n\n故選 (B)"
+  },
+  {
+    "id": "94-ast-geo-10",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "8-10 為題組\n圖1是幾種常見的侵台颱風路徑圖。當路徑不同時，風向及風雨情況有很大差異。請問：\n\n當台灣北部的颱風環流是西北-東南流向時，氣流可沿淡水河進入台北盆地，並在盆地南部沿山抬升，造成特大風雨，稱為「西北颱」。這種現象應是下列哪種路徑颱風所造成的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-08.png\" alt=\"圖1 侵台颱風路徑（颱風符號代表颱風中心所在）：路徑 1 由東南方向西北穿過臺灣北部；路徑 2 由東南向西北穿過臺灣中部；路徑 3 由東南向西北經臺灣南端（巴士海峽）；路徑 4 沿東部海岸由南向北，颱風中心標在臺灣東北方外海；路徑 5、6 由南向北沿臺灣海峽（西部外海）北上\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "5"
+    ],
+    "answerIndex": 0,
+    "explanation": "颱風中心由東向西通過北部、到達臺灣海峽北部時，北部受颱風南側環流吹西北風，氣流沿淡水河口灌入台北盆地，是第 1 號路徑。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-geo-11",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "11-12 為題組\n小明前去參觀資訊應用展中有關GIS在政府部門和民間廠商的應用情形。請問：\n\nGIS「疊圖分析」已被公部門普遍使用。下列哪項業務最適合用此法來處理？",
+    "options": [
+      "找出位在水源保護區內的養豬戶",
+      "界定鄰近工地50公尺的噪音影響範圍",
+      "分析最佳視野的遊客觀景台位置",
+      "規劃交通尖峰時間避開塞車的替代道路"
+    ],
+    "answerIndex": 0,
+    "explanation": "將「水源保護區」圖層與「養豬戶」圖層疊合，即可找出位在保護區內的養豬戶。(B) 是環域分析；(C) 是視域分析；(D) 是路網分析。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-geo-12",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "11-12 為題組\n小明前去參觀資訊應用展中有關GIS在政府部門和民間廠商的應用情形。請問：\n\n小明發現大部分地圖出版商皆採用GIS作為輔助製圖工具，下列是他寫的有關新舊製圖差異之心得，其中哪段敘述不正確？",
+    "options": [
+      "當地圖需要更新時，GIS只要將更新部份重繪即可，傳統手工繪圖則必須全部重繪",
+      "GIS可用不同圖層來管理不同主題的大量資料，傳統繪圖在一張紙圖上僅能有少數主題",
+      "瀏覽GIS中的電子地圖時，可利用放大和縮小工具改變地圖的比例尺，傳統紙圖則只有一個固定的比例尺",
+      "不同來源的舊紙圖經過數化後，使用GIS便可以不經投影和座標系統的轉換，將不同的地圖整合在同一底圖上"
+    ],
+    "answerIndex": 3,
+    "explanation": "不同來源的地圖投影與座標系統可能不同，數化後仍須進行座標轉換，才能正確套疊。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-geo-13",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-14 為題組\n距離所形成的交通成本與時間成本，會影響消費者與供應者間的商品交易。請問：\n\n大台北地區捷運開通後，沿各個捷運車站有很多新的消費性商店與服務行業聚集，這是因為捷運站的交通區位使下列哪個因素發生變化所致？",
+    "options": [
+      "商品圈擴大",
+      "商品圈縮小",
+      "商閾擴大",
+      "商閾縮小"
+    ],
+    "answerIndex": 0,
+    "explanation": "捷運縮短交通時間，消費者願意前往的最大距離（商品圈）擴大，可吸引更多顧客，商店便聚集在車站周邊。商閾是維持營運所需的最低需求，不因交通而改變。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-geo-14",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-14 為題組\n距離所形成的交通成本與時間成本，會影響消費者與供應者間的商品交易。請問：\n\n台灣都市內隨處可見24小時便利商店，目前這類商店仍在持續增加中，這是因為其商品圈與商閾存在著何種關係？",
+    "options": [
+      "商閾遠比商品圈小",
+      "商閾與商品圈相近",
+      "商品圈比商閾小",
+      "兩者之間無關連性"
+    ],
+    "answerIndex": 0,
+    "explanation": "都市人口密集，便利商店販售日常低級財，只需很小範圍的人口就能達到商閾，商閾遠小於商品圈，因此仍有空間持續展店。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-geo-15",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "15-16 為題組\n青藏高原東南部地區，自然植被由下往上是河谷灌叢帶、高山森林帶、高山草原帶、高山寒原帶。行山牧季移的牧民人口日增，所產山羊毛品質甚佳，近年頗受市場歡迎，少數藏民在緩坡地栽種旱作，以補充藏民所需的部分糧食。請問：\n\n當地已出現高山森林帶上限下移、下限上移的退縮現象，主要造成的原因為何？甲、氣候變乾；乙、工礦業開發；丙、擴展牧地；丁、燃料需求；戊、花卉栽培",
+    "options": [
+      "甲丙",
+      "丙丁",
+      "乙戊",
+      "甲丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "牧民人口增加，砍伐森林上緣擴展牧地（丙），下緣靠近聚落的森林則被砍來當燃料（丁），森林帶由上下兩端退縮。\n\n故選 (B)"
+  },
+  {
+    "id": "94-ast-geo-16",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "15-16 為題組\n青藏高原東南部地區，自然植被由下往上是河谷灌叢帶、高山森林帶、高山草原帶、高山寒原帶。行山牧季移的牧民人口日增，所產山羊毛品質甚佳，近年頗受市場歡迎，少數藏民在緩坡地栽種旱作，以補充藏民所需的部分糧食。請問：\n\n藏民所栽種的旱作以玉米、小麥、大麥、馬鈴薯等為主，其中以馬鈴薯的栽培高度上限最高，其原因為何？",
+    "options": [
+      "可在霜期栽種",
+      "適合凍土培育",
+      "生長季最短",
+      "耐鹼性土壤"
+    ],
+    "answerIndex": 2,
+    "explanation": "海拔愈高，無霜期愈短；馬鈴薯生長期短，能在短暫的生長季內收成，所以可種到最高處。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-geo-17",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "17-19 為題組\n21世紀的中國不僅成為世界生產大國，也是世界主要市場大國。外國企業投資金額位居全球第一位，也是世界主要原料進口國，年經濟成長率高達9％。經濟高度發展下，推動了區域發展，加快了都市化的腳步，也使得城鄉風貌產生許多變化。請問：\n\n下列有關近年中國進出口貿易的結構，哪項陳述是正確的？",
+    "options": [
+      "以稻米為主食，故小麥常維持淨輸出的狀況",
+      "蘊藏豐富的鐵、銅礦，故不仰賴進口供應",
+      "能源以核能和水力為主，石油進口增幅小",
+      "家電產品逐漸接近成衣，亦成為出口大宗"
+    ],
+    "answerIndex": 3,
+    "explanation": "中國成為「世界工廠」，家電等製造業產品出口快速增加，逐漸接近成衣的地位。中國需大量進口小麥、鐵礦、銅礦與石油，能源以煤為主。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-geo-18",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "17-19 為題組\n21世紀的中國不僅成為世界生產大國，也是世界主要市場大國。外國企業投資金額位居全球第一位，也是世界主要原料進口國，年經濟成長率高達9％。經濟高度發展下，推動了區域發展，加快了都市化的腳步，也使得城鄉風貌產生許多變化。請問：\n\n下列有關中國區域發展的敘述，哪項是正確的？",
+    "options": [
+      "鄉村人口大量湧入都市，都市人口比率現已略高於鄉村",
+      "高經濟成長率主要出現在沿海地區，內陸經濟成長率仍為負值",
+      "為平衡區域間之差距，中國政府進行「西部大開發」計畫",
+      "東北地區已有良好之工業基礎，故成為外資最大的集中地"
+    ],
+    "answerIndex": 2,
+    "explanation": "東西部差距擴大，中國於 2000 年起推動西部大開發。當時都市人口比率仍低於鄉村；內陸也是正成長；外資集中在東南沿海。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-geo-19",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "17-19 為題組\n21世紀的中國不僅成為世界生產大國，也是世界主要市場大國。外國企業投資金額位居全球第一位，也是世界主要原料進口國，年經濟成長率高達9％。經濟高度發展下，推動了區域發展，加快了都市化的腳步，也使得城鄉風貌產生許多變化。請問：\n\n下列哪些因素使得外資樂於投資中國？甲、交通方便，物資可暢通全國；乙、獎勵內銷，產品可直銷全國；丙、資金融通方便，借貸成本低；丁、人口眾多，國內市場潛力大；戊、工資低廉，有助降低生產成本",
+    "options": [
+      "甲丙",
+      "乙戊",
+      "丙丁",
+      "丁戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "龐大人口帶來市場潛力（丁）與低廉勞力（戊）。當時內陸交通仍不便，政府獎勵的是外銷，資金融通也不算便利。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-geo-20",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "20-21 為題組\n2004年印尼蘇門答臘西北海域於當地時間12月26日上午7:58發生規模9的地震，隨後引發強烈海嘯，海嘯影響範圍波及南亞，甚至到達7000公里外的非洲。圖2為海嘯前進的等時線圖，圖中等時線間距為1小時，鋸齒狀的線條代表斷層線。請問：\n\n當天（12月26日）索馬利亞東北沿海也受到這次海嘯的衝擊，造成上百人失蹤。海嘯抵達該地的當地時間為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-20.png\" alt=\"圖2 2004 年南亞海嘯等時線圖（經度 30°E～100°E，等時線間距 1 小時）：斷層線在蘇門答臘西北、安達曼海一帶呈南北向；等時線由斷層向西呈同心弧狀擴展，越過印度洋到達非洲東岸（索馬利亞）約需 8 小時\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "10時",
+      "12時",
+      "14時",
+      "16時"
+    ],
+    "answerIndex": 1,
+    "explanation": "由等時線數出海嘯約 8 小時到達索馬利亞，即蘇門答臘時間約 16 時。蘇門答臘約在東經 105° 時區（UTC+7），索馬利亞約在東經 45° 時區（UTC+3），晚 4 小時，當地時間約 12 時。\n\n故選 (B)"
+  },
+  {
+    "id": "94-ast-geo-21",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "20-21 為題組\n2004年印尼蘇門答臘西北海域於當地時間12月26日上午7:58發生規模9的地震，隨後引發強烈海嘯，海嘯影響範圍波及南亞，甚至到達7000公里外的非洲。圖2為海嘯前進的等時線圖，圖中等時線間距為1小時，鋸齒狀的線條代表斷層線。請問：\n\n發生地震的斷層線為南北向，所引發海嘯最強的波浪為東西向。下列哪個國家由於位在該斷層線北方，海岸地區有許多小島和珊瑚礁屏障，因此受創程度遠較其他鄰近國家輕微？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-20.png\" alt=\"圖2 2004 年南亞海嘯等時線圖（經度 30°E～100°E，等時線間距 1 小時）：斷層線在蘇門答臘西北、安達曼海一帶呈南北向；等時線由斷層向西呈同心弧狀擴展，越過印度洋到達非洲東岸（索馬利亞）約需 8 小時\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "印度",
+      "柬埔寨",
+      "泰國",
+      "緬甸"
+    ],
+    "answerIndex": 3,
+    "explanation": "緬甸位在南北向斷層線的北方，不在海嘯主要的東西傳播方向上，加上沿岸島嶼與珊瑚礁屏障，受災較輕。泰國在斷層正東方，受災嚴重。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-geo-22",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "22-23 為題組\n區域特色通常為一地自然環境與人文條件長期共同運作的結果，但有時卻由少數因子突顯出其特色。例如中美洲的巴拿馬，在巴拿馬運河影響下，添增不少有別於其鄰近地區的獨特性。請問：\n\n下列有關巴拿馬區域特色之敘述，哪些是正確的？甲、馬雅古文明發源地；乙、人口以印地安土著為主；丙、外銷農產以香蕉、蔗糖為主；丁、運河將國土分隔成兩半；戊、農業人口數佔就業人口1/2",
+    "options": [
+      "甲丙",
+      "甲丁",
+      "丙丁",
+      "乙戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "巴拿馬屬熱帶栽培業區，出口香蕉、蔗糖（丙）；運河橫貫地峽，把國土分成東西兩半（丁）。馬雅文明在猶加敦半島一帶；人口以混血為主；經濟以運河相關服務業為主。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-geo-23",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "22-23 為題組\n區域特色通常為一地自然環境與人文條件長期共同運作的結果，但有時卻由少數因子突顯出其特色。例如中美洲的巴拿馬，在巴拿馬運河影響下，添增不少有別於其鄰近地區的獨特性。請問：\n\n下列有關巴拿馬運河的敘述哪些是正確的？甲、與蘇伊士運河同為世界僅有的二大聯結海洋的運河；乙、由法國建造完成，並長期由美國就近經營管理；丙、主權回歸後，對國庫與產業結構帶來重大的影響；丁、溝通二大洋，降低國際的交通運輸時間與成本；戊、今日面臨的問題在於輪船已加大，但運河寬度有限",
+    "options": [
+      "丙丁戊",
+      "乙丙戊",
+      "甲乙丁",
+      "甲丙丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "1999 年運河主權回歸巴拿馬，通行費成為重要財源（丙）；運河連通太平洋與大西洋（丁）；巨型輪船無法通過，因此需要拓寬（戊）。聯結海洋的運河不只兩條（如基爾運河）；法國開工失敗，由美國建成。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-geo-24",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "24-25 為題組\n智利北部與秘魯沿岸，海水因持續西向的氣流吹送而呈離岸方向的洋流，流向西太平洋，深海的冷海水上湧補充；當聖嬰現象發生時，西向氣流減弱，表面海水由西太平洋向東流至秘魯沿岸，湧升流消失，沿岸水溫升高，氣候出現異常，常造成自然災害。請問：\n\n聖嬰年時秘魯沿岸因氣候異常帶來的自然災害為何？",
+    "options": [
+      "風災",
+      "水災",
+      "旱災",
+      "沙塵暴"
+    ],
+    "answerIndex": 1,
+    "explanation": "湧升流消失、沿岸水溫升高，空氣不再穩定，原本乾燥的秘魯沿岸出現大雨，造成水災。\n\n故選 (B)"
+  },
+  {
+    "id": "94-ast-geo-25",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "24-25 為題組\n智利北部與秘魯沿岸，海水因持續西向的氣流吹送而呈離岸方向的洋流，流向西太平洋，深海的冷海水上湧補充；當聖嬰現象發生時，西向氣流減弱，表面海水由西太平洋向東流至秘魯沿岸，湧升流消失，沿岸水溫升高，氣候出現異常，常造成自然災害。請問：\n\n聖嬰現象亦對秘魯地區的社會經濟造成重大衝擊，請問下列敘述何者錯誤？",
+    "options": [
+      "東南太平洋漁場漁獲量下降",
+      "漁產加工產品出口數量銳減",
+      "沿海島嶼的鳥糞層大幅減少",
+      "糧食作物因此無法自給自足"
+    ],
+    "answerIndex": 3,
+    "explanation": "冷水湧升停止，營養鹽減少，鯷魚等漁獲銳減（A），魚粉出口減少（B），以魚為食的海鳥減少，鳥糞也跟著減少（C）。秘魯糧食本來就不依賴沿岸漁業，聖嬰造成的是暫時性衝擊，(D) 說法錯誤。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-geo-26",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "26-28 為題組\n為保護非洲尚存的物種，並解決非洲的貧窮，在國際環境與金融組織的鼓勵下，非洲成立全球僅有的四個跨國公園，它不但使生態系有自由且自然的消長機會，同時也針對因為貧窮所導致對自然環境不當利用的問題，提供了解決方法。但跨國保護公園的實現，也衝擊著傳統國家疆界的觀念。請問：\n\n下列哪些重要條件使非洲得以成立全球僅有的四個跨國保護公園？甲、國際政治組織的倡導；乙、觀光提供工作機會；丙、人口稀少保護公園易於實現；丁、動植物資源亟需保育；戊、世界分工之具體落實",
+    "options": [
+      "甲乙丙",
+      "乙丙丁",
+      "丙丁戊",
+      "甲丁戊"
+    ],
+    "answerIndex": 1,
+    "explanation": "跨國公園可發展生態觀光、提供工作（乙），邊境地區人口稀少容易劃設（丙），且野生動植物亟需保育（丁）。倡導者是國際環境與金融組織，不是政治組織。\n\n故選 (B)"
+  },
+  {
+    "id": "94-ast-geo-27",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "26-28 為題組\n為保護非洲尚存的物種，並解決非洲的貧窮，在國際環境與金融組織的鼓勵下，非洲成立全球僅有的四個跨國公園，它不但使生態系有自由且自然的消長機會，同時也針對因為貧窮所導致對自然環境不當利用的問題，提供了解決方法。但跨國保護公園的實現，也衝擊著傳統國家疆界的觀念。請問：\n\n此類型跨國界保護公園成立的最大動機為何？",
+    "options": [
+      "共同分擔野生動植物保育的責任",
+      "為保護棲地與生態的完整性",
+      "能提供到訪者多樣化的遊憩經驗",
+      "促進兩國或多國邊界居民的互動"
+    ],
+    "answerIndex": 1,
+    "explanation": "動物遷徙與生態系不受國界限制，跨國公園讓生態系「自由且自然的消長」，最大動機是保護棲地與生態的完整。\n\n故選 (B)"
+  },
+  {
+    "id": "94-ast-geo-28",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "26-28 為題組\n為保護非洲尚存的物種，並解決非洲的貧窮，在國際環境與金融組織的鼓勵下，非洲成立全球僅有的四個跨國公園，它不但使生態系有自由且自然的消長機會，同時也針對因為貧窮所導致對自然環境不當利用的問題，提供了解決方法。但跨國保護公園的實現，也衝擊著傳統國家疆界的觀念。請問：\n\n下列何者為上述跨國界合作最難以克服的問題？",
+    "options": [
+      "國際合作涉及理想與利益的整合",
+      "邊界地區自然環境形勢的阻隔",
+      "季節性資源調整與分配的難題",
+      "跨國地區人口分布懸殊整合困難"
+    ],
+    "answerIndex": 0,
+    "explanation": "跨國公園牽涉各國主權、觀光收益分配與保育理想，如何整合各國利益最困難。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-geo-29",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "29-30 為題組\n近三十年來，馬來西亞和印尼成為全球棕油主要輸出國，輸出量分居世界第一、二位。油棕產業為兩國帶來大量外匯以及農村人口的就業機會。請問：\n\n棕油輸出之前，馬國和印尼兩國分別以哪種物品為其外匯最主要的來源(順序不能顛倒)？",
+    "options": [
+      "石油和天然橡膠",
+      "石油和天然氣",
+      "天然氣和石油",
+      "天然橡膠和石油"
+    ],
+    "answerIndex": 3,
+    "explanation": "馬來西亞過去是世界最大的天然橡膠出口國；印尼則以石油出口為主要外匯來源（曾為 OPEC 成員）。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-geo-30",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "29-30 為題組\n近三十年來，馬來西亞和印尼成為全球棕油主要輸出國，輸出量分居世界第一、二位。油棕產業為兩國帶來大量外匯以及農村人口的就業機會。請問：\n\n印尼棕油產量目前居世界第二位，但油棕種植面積和產量節節上升，直逼馬來西亞。印尼油棕業有哪些條件較優於馬來西亞？甲、降水量較為豐沛；乙、工資較為低廉；丙、加工技術較高；丁、人力資源較豐沛；戊、農業機械化較高",
+    "options": [
+      "甲乙",
+      "丙丁",
+      "乙丁",
+      "甲戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "印尼人口遠多於馬來西亞，勞力充足（丁）且工資較低（乙）。加工技術與機械化則是馬來西亞較高；兩國都屬多雨的熱帶雨林氣候。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-geo-31",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "31-33 為題組\n拉丁美洲土地分配極度不均，不僅影響各國農業發展，並造成社會之不安定。圖3是巴西不同農場規模農戶數與所佔全國農地面積的累加百分率圖，其中橫軸係將各農戶按農場規模由小至大依序排列而成，而圖中數字即代表農場規模。請問：\n\n大部分農戶的農場規模為多少公頃？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-31.png\" alt=\"圖3 巴西農戶數累加百分率（橫軸）與農地面積累加百分率（縱軸）：1 公頃位於（約 10%，0%）；100 公頃位於（約 90%，約 21%）；1000 公頃位於（約 99%，約 56%）；10000 公頃位於（約 100%，約 85%）；100000 公頃（含以上）位於（100%，100%）\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "＜1",
+      "1-100",
+      "100-1000",
+      "＞1000"
+    ],
+    "answerIndex": 1,
+    "explanation": "1 公頃點約在農戶累加 10%，100 公頃點約在 90%，所以約 80% 的農戶農場規模介於 1～100 公頃。\n\n故選 (B)"
+  },
+  {
+    "id": "94-ast-geo-32",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "31-33 為題組\n拉丁美洲土地分配極度不均，不僅影響各國農業發展，並造成社會之不安定。圖3是巴西不同農場規模農戶數與所佔全國農地面積的累加百分率圖，其中橫軸係將各農戶按農場規模由小至大依序排列而成，而圖中數字即代表農場規模。請問：\n\n農場規模1000公頃以上的大地主農戶數及其所佔農地面積之百分率分別為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-31.png\" alt=\"圖3 巴西農戶數累加百分率（橫軸）與農地面積累加百分率（縱軸）：1 公頃位於（約 10%，0%）；100 公頃位於（約 90%，約 21%）；1000 公頃位於（約 99%，約 56%）；10000 公頃位於（約 100%，約 85%）；100000 公頃（含以上）位於（100%，100%）\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "99及56",
+      "1及56",
+      "1及44",
+      "99及44"
+    ],
+    "answerIndex": 2,
+    "explanation": "1000 公頃點位於農戶 99%、面積 56%，所以 1000 公頃以上的農戶占 $100 - 99 = 1\\%$，卻擁有 $100 - 56 = 44\\%$ 的農地。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-geo-33",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "31-33 為題組\n拉丁美洲土地分配極度不均，不僅影響各國農業發展，並造成社會之不安定。圖3是巴西不同農場規模農戶數與所佔全國農地面積的累加百分率圖，其中橫軸係將各農戶按農場規模由小至大依序排列而成，而圖中數字即代表農場規模。請問：\n\n土地分配不均，對巴西農業發展有下列哪些影響？甲、大農場土地利用率甚低；乙、農產僅供國內市場消費；丙、土地過大使農作多樣化；丁、土地集中農村貧富不均；戊、租佃關係不利農地改良",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-31.png\" alt=\"圖3 巴西農戶數累加百分率（橫軸）與農地面積累加百分率（縱軸）：1 公頃位於（約 10%，0%）；100 公頃位於（約 90%，約 21%）；1000 公頃位於（約 99%，約 56%）；10000 公頃位於（約 100%，約 85%）；100000 公頃（含以上）位於（100%，100%）\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙丁",
+      "乙丙戊",
+      "丙丁戊",
+      "甲丁戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "大地主土地多閒置或粗放利用（甲）、貧富懸殊（丁）、佃農無長期經營誘因而不願改良土地（戊）。巴西大農場多為外銷單一作物。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-geo-34",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "34-35 為題組\n為了增進地區在國際上的競爭力，相鄰的國家常結盟為區域性的組織。其中以歐盟歷史最悠久，成員國高達25國（2004年），合作項目多，堪稱全球區域整合的典範。請問：\n\n下列有關歐盟地區之敘述何者正確？甲、天主、基督與東正教派區；乙、英語為歐盟未來單一語言；丙、境內人員和貨物通行無阻；丁、義務教育制度趨向一致化；戊、歐元為歐盟地區單一貨幣",
+    "options": [
+      "甲戊",
+      "甲丙",
+      "乙戊",
+      "乙丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "歐盟成員國信仰天主教、基督教（新教）與東正教（甲）；單一市場讓人員、貨物自由流通（丙）。歐盟尊重各國語言；並非所有成員都使用歐元；教育由各國自主。\n\n故選 (B)"
+  },
+  {
+    "id": "94-ast-geo-35",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "34-35 為題組\n為了增進地區在國際上的競爭力，相鄰的國家常結盟為區域性的組織。其中以歐盟歷史最悠久，成員國高達25國（2004年），合作項目多，堪稱全球區域整合的典範。請問：\n\n於2004年加入的新成員國波蘭和匈牙利，產業以農業為主，但與原成員國之間差距頗大，因此如何提升兩國之農業發展，為歐盟急需解決的難題。下列有關此兩國目前農業經濟發展的敘述，哪些是正確的？甲、集體大農場，個人無生產決定權；乙、農產品市場擴大，競爭者也增加；丙、歐盟價格保護政策，農業人口增加；丁、自由競爭體系，農民適應不良；戊、失業小農增加，移入其他歐盟國家",
+    "options": [
+      "甲丙",
+      "甲丁",
+      "乙丁",
+      "乙戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "加入歐盟後市場擴大，但也要和西歐高效率農業競爭（乙）；由過去的共產計畫經濟轉入自由市場，農民適應不良（丁）。集體農場已解散；農業人口是減少的。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-geo-36",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n高科技資訊產業研發投入成本極高，但產品生命週期短，因此產業的空間分工以降低成本與提高資源的利用度為要。在研發期後，產品之生命週期可分為三個階段：\n階段I：研發完成進入市場時，需求量較少，價格較高\n階段II：成為主流產品時，需求量大，價格下降\n階段III：當產品接近生命週期尾聲時，需求量小，維修為主\n甲資訊工業公司的重要客戶在美國，最大生產基地設在中國深圳，但甲公司在美國加州也設有一小廠與其最大客戶的營運總部只有一牆之隔。產品需修改時，則由甲公司的兩廠研發人員透過電傳視訊接力研發。請問：\n\n甲公司與美國最大客戶具有分工關係，就該項產品而言，其客戶之營運總部主要是負責下列哪個階段的工作？",
+    "options": [
+      "研發期",
+      "第I階段",
+      "第II階段",
+      "第III階段"
+    ],
+    "answerIndex": 0,
+    "explanation": "客戶營運總部負責產品的研發設計，甲公司負責代工生產。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-geo-37",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n高科技資訊產業研發投入成本極高，但產品生命週期短，因此產業的空間分工以降低成本與提高資源的利用度為要。在研發期後，產品之生命週期可分為三個階段：\n階段I：研發完成進入市場時，需求量較少，價格較高\n階段II：成為主流產品時，需求量大，價格下降\n階段III：當產品接近生命週期尾聲時，需求量小，維修為主\n甲資訊工業公司的重要客戶在美國，最大生產基地設在中國深圳，但甲公司在美國加州也設有一小廠與其最大客戶的營運總部只有一牆之隔。產品需修改時，則由甲公司的兩廠研發人員透過電傳視訊接力研發。請問：\n\n甲公司的加州小工廠主要是支援產品生命週期的哪些階段？",
+    "options": [
+      "I",
+      "I和II",
+      "II和III",
+      "I和III"
+    ],
+    "answerIndex": 3,
+    "explanation": "階段 I 需求少、需要與客戶密切配合修改，階段 III 需求小、以維修為主，都適合在客戶旁的小廠進行；需求量大的階段 II 則由深圳大廠量產。\n\n故選 (D)"
+  },
+  {
+    "id": "94-ast-geo-38",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n高科技資訊產業研發投入成本極高，但產品生命週期短，因此產業的空間分工以降低成本與提高資源的利用度為要。在研發期後，產品之生命週期可分為三個階段：\n階段I：研發完成進入市場時，需求量較少，價格較高\n階段II：成為主流產品時，需求量大，價格下降\n階段III：當產品接近生命週期尾聲時，需求量小，維修為主\n甲資訊工業公司的重要客戶在美國，最大生產基地設在中國深圳，但甲公司在美國加州也設有一小廠與其最大客戶的營運總部只有一牆之隔。產品需修改時，則由甲公司的兩廠研發人員透過電傳視訊接力研發。請問：\n\n甲公司利用兩地兩廠接力研發修改，主要是要節省下列哪個資源？",
+    "options": [
+      "人力",
+      "技術",
+      "時間",
+      "市場"
+    ],
+    "answerIndex": 2,
+    "explanation": "加州與深圳時差約半天，一地下班後由另一地接手，可 24 小時不間斷研發，縮短產品上市時間。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-geo-non-1-1",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、一位在布吉納法索參與醫療服務的台灣人說：「聽到這個國家生活問候語『有沒有拉肚子？』等同於我們的『吃飽了沒？』…。多數人沒有工作，但是起碼有一塊田可以在雨季來時耕作…這一年收穫的東西，得要撐到下一年的收割，因此今年挨不挨餓，完全取決於雨下得夠不夠…。有國際組織在村子發放小額貸款，讓婦女們可以經營小本生意…」。\n\n1. 以「有沒有拉肚子？」作為生活問候語，顯示哪種公共設施的缺乏？（2 分）",
+    "blanks": [
+      "自來水系統"
+    ],
+    "blankLabels": [
+      "公共設施"
+    ],
+    "explanation": "拉肚子常見，表示飲用水不乾淨，缺乏自來水（及下水道）系統。"
+  },
+  {
+    "id": "94-ast-geo-non-1-2",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、一位在布吉納法索參與醫療服務的台灣人說：「聽到這個國家生活問候語『有沒有拉肚子？』等同於我們的『吃飽了沒？』…。多數人沒有工作，但是起碼有一塊田可以在雨季來時耕作…這一年收穫的東西，得要撐到下一年的收割，因此今年挨不挨餓，完全取決於雨下得夠不夠…。有國際組織在村子發放小額貸款，讓婦女們可以經營小本生意…」。\n\n2. 由上文得知，布吉納法索有些年份降水足以供應農作成長，有些年份則否。該地的降水特色為何？（2 分）",
+    "blanks": [
+      "年雨量變率大"
+    ],
+    "blankLabels": [
+      "降水特色"
+    ],
+    "explanation": "各年雨量多寡差異很大，「今年挨不挨餓，完全取決於雨下得夠不夠」，表示年雨量變率大。"
+  },
+  {
+    "id": "94-ast-geo-non-1-3",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、一位在布吉納法索參與醫療服務的台灣人說：「聽到這個國家生活問候語『有沒有拉肚子？』等同於我們的『吃飽了沒？』…。多數人沒有工作，但是起碼有一塊田可以在雨季來時耕作…這一年收穫的東西，得要撐到下一年的收割，因此今年挨不挨餓，完全取決於雨下得夠不夠…。有國際組織在村子發放小額貸款，讓婦女們可以經營小本生意…」。\n\n3. 就羅斯托(W.W.Rostow)的經濟發展階段模式而言，布吉納法索處於模式中哪個階段？（2 分）",
+    "blanks": [
+      "傳統社會階段"
+    ],
+    "blankLabels": [
+      "階段"
+    ],
+    "explanation": "多數人靠天吃飯、自給性農業為主，屬羅斯托模式的第一階段「傳統社會」。"
+  },
+  {
+    "id": "94-ast-geo-non-1-4",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、一位在布吉納法索參與醫療服務的台灣人說：「聽到這個國家生活問候語『有沒有拉肚子？』等同於我們的『吃飽了沒？』…。多數人沒有工作，但是起碼有一塊田可以在雨季來時耕作…這一年收穫的東西，得要撐到下一年的收割，因此今年挨不挨餓，完全取決於雨下得夠不夠…。有國際組織在村子發放小額貸款，讓婦女們可以經營小本生意…」。\n\n4. 國人前往外國協助當地人改善生活品質，與上述國際組織的區域發展工作類似。此類活動或行為，通稱為何？（2 分）",
+    "blanks": [
+      "海外援助（國際援助）"
+    ],
+    "blankLabels": [
+      "通稱"
+    ],
+    "explanation": "前往他國協助改善生活品質，通稱海外援助（國際援助）。"
+  },
+  {
+    "id": "94-ast-geo-non-2-1",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "fill",
+    "points": 4,
+    "selfGrade": true,
+    "question": "二、用以規範工業國家溫室氣體排放量的「京都議定書」已於2005年2月16日起正式生效，其中推廣風力發電是政府因應的政策之一。國內第一座商業化運轉之風力發電系統設置於雲林縣麥寮鄉台塑六輕工業區，表一為2003年該系統一號機運轉紀錄。\n\n<svg viewBox=\"0 0 672 92\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"140\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">月份</text><rect x=\"142\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"164\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"186\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"208\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"230\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"274\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"296\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"318\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"340\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"362\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"384\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"406\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"428\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"450\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"494\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"516\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"538\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"560\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">10</text><rect x=\"582\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"604\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"626\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"648\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">12</text><rect x=\"2\" y=\"32\" width=\"140\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">平均風速(公尺/秒)</text><rect x=\"142\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"164\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.3</text><rect x=\"186\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"208\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.9</text><rect x=\"230\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.9</text><rect x=\"274\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"296\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.2</text><rect x=\"318\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"340\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.3</text><rect x=\"362\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"384\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.5</text><rect x=\"406\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"428\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.2</text><rect x=\"450\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.2</text><rect x=\"494\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"516\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.3</text><rect x=\"538\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"560\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7.3</text><rect x=\"582\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"604\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.4</text><rect x=\"626\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"648\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.8</text><rect x=\"2\" y=\"60\" width=\"140\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">發電量(萬度)</text><rect x=\"142\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"164\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">23.1</text><rect x=\"186\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"208\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">15.6</text><rect x=\"230\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">17.5</text><rect x=\"274\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"296\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.2</text><rect x=\"318\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"340\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10.3</text><rect x=\"362\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"384\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.2</text><rect x=\"406\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"428\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.1</text><rect x=\"450\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.3</text><rect x=\"494\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"516\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.4</text><rect x=\"538\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"560\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">19.1</text><rect x=\"582\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"604\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">26.2</text><rect x=\"626\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"648\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.5</text></svg>\n\n1. 請舉出兩個明確的環境因素，說明雲林麥寮六輕工業區為何適宜設置風力發電系統？（4 分）",
+    "blanks": [
+      "地形平坦",
+      "風速大"
+    ],
+    "blankLabels": [
+      "因素一",
+      "因素二"
+    ],
+    "explanation": "麥寮位於西部海埔新生地，地形平坦開闊，沒有阻擋；冬季東北季風強勁，風速大。"
+  },
+  {
+    "id": "94-ast-geo-non-2-2",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、用以規範工業國家溫室氣體排放量的「京都議定書」已於2005年2月16日起正式生效，其中推廣風力發電是政府因應的政策之一。國內第一座商業化運轉之風力發電系統設置於雲林縣麥寮鄉台塑六輕工業區，表一為2003年該系統一號機運轉紀錄。\n\n<svg viewBox=\"0 0 672 92\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"140\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">月份</text><rect x=\"142\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"164\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"186\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"208\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"230\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"274\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"296\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"318\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"340\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"362\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"384\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"406\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"428\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"450\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"494\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"516\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"538\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"560\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">10</text><rect x=\"582\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"604\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"626\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"648\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">12</text><rect x=\"2\" y=\"32\" width=\"140\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">平均風速(公尺/秒)</text><rect x=\"142\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"164\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.3</text><rect x=\"186\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"208\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.9</text><rect x=\"230\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.9</text><rect x=\"274\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"296\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.2</text><rect x=\"318\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"340\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.3</text><rect x=\"362\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"384\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.5</text><rect x=\"406\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"428\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.2</text><rect x=\"450\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.2</text><rect x=\"494\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"516\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.3</text><rect x=\"538\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"560\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7.3</text><rect x=\"582\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"604\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.4</text><rect x=\"626\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"648\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.8</text><rect x=\"2\" y=\"60\" width=\"140\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">發電量(萬度)</text><rect x=\"142\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"164\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">23.1</text><rect x=\"186\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"208\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">15.6</text><rect x=\"230\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">17.5</text><rect x=\"274\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"296\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.2</text><rect x=\"318\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"340\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10.3</text><rect x=\"362\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"384\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.2</text><rect x=\"406\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"428\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.1</text><rect x=\"450\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.3</text><rect x=\"494\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"516\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.4</text><rect x=\"538\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"560\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">19.1</text><rect x=\"582\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"604\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">26.2</text><rect x=\"626\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"648\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.5</text></svg>\n\n2. 請以「離散趨勢」的概念，說明表一的運轉紀錄有何特性？（2 分）",
+    "blanks": [
+      "發電量季節分布不均（變異大）"
+    ],
+    "blankLabels": [
+      "特性"
+    ],
+    "explanation": "發電量最多的 11 月 26.2 萬度，最少的 8 月只有 1.3 萬度，各月差異很大，離散程度高，冬多夏少。"
+  },
+  {
+    "id": "94-ast-geo-non-2-3",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、用以規範工業國家溫室氣體排放量的「京都議定書」已於2005年2月16日起正式生效，其中推廣風力發電是政府因應的政策之一。國內第一座商業化運轉之風力發電系統設置於雲林縣麥寮鄉台塑六輕工業區，表一為2003年該系統一號機運轉紀錄。\n\n<svg viewBox=\"0 0 672 92\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"140\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">月份</text><rect x=\"142\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"164\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"186\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"208\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"230\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"274\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"296\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"318\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"340\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"362\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"384\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"406\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"428\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"450\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"494\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"516\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"538\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"560\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">10</text><rect x=\"582\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"604\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"626\" y=\"4\" width=\"44\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"648\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">12</text><rect x=\"2\" y=\"32\" width=\"140\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">平均風速(公尺/秒)</text><rect x=\"142\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"164\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.3</text><rect x=\"186\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"208\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.9</text><rect x=\"230\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.9</text><rect x=\"274\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"296\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.2</text><rect x=\"318\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"340\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.3</text><rect x=\"362\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"384\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.5</text><rect x=\"406\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"428\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.2</text><rect x=\"450\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.2</text><rect x=\"494\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"516\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.3</text><rect x=\"538\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"560\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7.3</text><rect x=\"582\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"604\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.4</text><rect x=\"626\" y=\"32\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"648\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.8</text><rect x=\"2\" y=\"60\" width=\"140\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">發電量(萬度)</text><rect x=\"142\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"164\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">23.1</text><rect x=\"186\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"208\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">15.6</text><rect x=\"230\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">17.5</text><rect x=\"274\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"296\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.2</text><rect x=\"318\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"340\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10.3</text><rect x=\"362\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"384\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.2</text><rect x=\"406\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"428\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.1</text><rect x=\"450\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.3</text><rect x=\"494\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"516\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8.4</text><rect x=\"538\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"560\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">19.1</text><rect x=\"582\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"604\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">26.2</text><rect x=\"626\" y=\"60\" width=\"44\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"648\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.5</text></svg>\n\n3. 請就能源供需的季節特性，解釋為何台灣無法以風力發電作為主要的能源？（2 分）",
+    "blanks": [
+      "夏季用電需求高，但夏季風力發電量反而小"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "風力發電集中在冬季東北季風期；夏季用電（冷氣）需求最高時，風速最弱，發電量最少，供需季節不配合。"
+  },
+  {
+    "id": "94-ast-geo-non-3-1",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、東沙島(圖4)位於東沙群島(圖5)的西側，全島陸域面積1.74平方公里，由珊瑚及貝殼碎屑堆積而成，最高海拔7公尺。\n\n1. 圖4中東沙島上長條型甲設施是什麼？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-non3a.png\" alt=\"圖4 東沙島空照：島上有一條貫穿全島的長條形設施（甲）；島的另一側圍著一片幾乎封閉的淺水域（乙），開口朝外海\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-non3b.png\" alt=\"圖5 東沙群島衛星影像：珊瑚礁圍成近似圓形的環狀，中間是深色的大片水域；東沙島位於環的西側\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "飛機跑道"
+    ],
+    "blankLabels": [
+      "設施"
+    ],
+    "explanation": "島上筆直貫穿全島的長條形設施是機場跑道。"
+  },
+  {
+    "id": "94-ast-geo-non-3-2",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、東沙島(圖4)位於東沙群島(圖5)的西側，全島陸域面積1.74平方公里，由珊瑚及貝殼碎屑堆積而成，最高海拔7公尺。\n\n2. 圖4中的乙水域，在地形上稱作什麼？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-non3a.png\" alt=\"圖4 東沙島空照：島上有一條貫穿全島的長條形設施（甲）；島的另一側圍著一片幾乎封閉的淺水域（乙），開口朝外海\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-non3b.png\" alt=\"圖5 東沙群島衛星影像：珊瑚礁圍成近似圓形的環狀，中間是深色的大片水域；東沙島位於環的西側\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "潟湖"
+    ],
+    "blankLabels": [
+      "地形"
+    ],
+    "explanation": "被沙洲、陸地圍成的半封閉淺水域是潟湖。"
+  },
+  {
+    "id": "94-ast-geo-non-3-3",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、東沙島(圖4)位於東沙群島(圖5)的西側，全島陸域面積1.74平方公里，由珊瑚及貝殼碎屑堆積而成，最高海拔7公尺。\n\n3. 圖5中東沙群島屬哪種珊瑚礁地形？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-non3a.png\" alt=\"圖4 東沙島空照：島上有一條貫穿全島的長條形設施（甲）；島的另一側圍著一片幾乎封閉的淺水域（乙），開口朝外海\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-geo-non3b.png\" alt=\"圖5 東沙群島衛星影像：珊瑚礁圍成近似圓形的環狀，中間是深色的大片水域；東沙島位於環的西側\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "環礁"
+    ],
+    "blankLabels": [
+      "珊瑚礁地形"
+    ],
+    "explanation": "珊瑚礁圍成環狀，中間是潟湖水域，屬環礁。"
+  },
+  {
+    "id": "94-ast-geo-non-3-4",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、東沙島(圖4)位於東沙群島(圖5)的西側，全島陸域面積1.74平方公里，由珊瑚及貝殼碎屑堆積而成，最高海拔7公尺。\n\n4. 採集不同高度的珊瑚礁樣本進行定年分析，可以知道當地什麼環境變遷的歷史？（2 分）",
+    "blanks": [
+      "海平面升降"
+    ],
+    "blankLabels": [
+      "環境變遷"
+    ],
+    "explanation": "造礁珊瑚只生長在海面附近，不同高度珊瑚礁的年代可以重建當地海平面升降的歷史。"
   }
 ]
