@@ -275804,5 +275804,765 @@
       "辯護內容（25 字內）"
     ],
     "explanation": "史達林指出德國曾經由芬蘭、波蘭、羅馬尼亞、保加利亞與匈牙利入侵蘇聯，所以讓這些國家對蘇聯忠誠，是為了確保安全，不是擴張。"
+  },
+  {
+    "id": "114-ast-geo-01",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "世界棒球經典賽將於2026年3月舉行分組預賽，某參賽國球迷貼文表示：「希望我國與日本、韓國分在同組，因為這些國家球員也有漢字的名字，比較容易記住，可以吸引平常較沒參與棒球活動的朋友一同觀賽；若是與古巴、荷蘭等國同組，因球員名字只有音譯而較難記住，很多人就沒興趣了。」上述球迷的觀點，最適合以下列哪個概念來解釋？",
+    "options": [
+      "文化圈",
+      "資訊革新",
+      "區位移轉",
+      "世界體系"
+    ],
+    "answerIndex": 0,
+    "explanation": "臺灣、日本、韓國同屬使用漢字的東亞文化圈，共同的文字使人感到親近、容易記住；古巴、荷蘭屬於其他文化圈。\n\n故選 (A)"
+  },
+  {
+    "id": "114-ast-geo-02",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "照片1是2023年臺灣某河口的空拍照片。照片中可看到河流右岸有許多正在興建的建築物，周圍部分地區為山林河海的自然環境。此地區位於大都市邊緣，土地開發潛力高，但對居民來說，聯外交通是其最關心的議題。根據照片1中的資訊，下列何者是此地在該都市發展過程中最主要扮演的角色？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-02.png\" alt=\"照片1 2023 年臺灣某河口空拍：河口右岸有大片正在興建的高樓與整地中的土地，遠方是山丘，旁邊是河流與海岸\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "提供都市休閒的農林專區",
+      "增加都市之肺的公園專區",
+      "作為河港都市的倉儲用地",
+      "疏解都市人口的新興市鎮"
+    ],
+    "answerIndex": 3,
+    "explanation": "照片是淡水河口的淡海新市鎮，位於臺北都會區邊緣，大量興建住宅以疏解臺北的人口，居民通勤依賴聯外交通。\n\n故選 (D)"
+  },
+  {
+    "id": "114-ast-geo-03",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "河狸是一種半水生的囓齒動物，會利用樹枝、泥土和石頭等材料，在河流中建造水壩，為自己創造理想的棲息地，有「自然界水壩工程師」之稱，這些水壩有些可能長達數百公尺。照片2為河狸在某河流所興建的水壩。該水壩未被洪水沖毀的期間，其對於該河流最可能產生下列哪些影響？\n甲、減少水壩上游入滲量\n乙、降低水壩下游洪峰流量\n丙、減少水壩上游地表逕流量\n丁、減少水壩下游河流輸沙量",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-03.png\" alt=\"照片2 河狸以樹枝、泥土堆成的水壩橫跨河道，水壩上游形成水面平靜的池塘，周圍是樹林\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙",
+      "甲丙",
+      "乙丁",
+      "丙丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "水壩攔蓄河水，上游積水使入滲增加（甲錯）；洪水先被池塘蓄存，下游洪峰流量降低（乙對）；泥沙在壩前沉積，下游輸沙量減少（丁對）。水壩不會減少上游坡面的地表逕流（丙錯）。\n\n故選 (C)"
+  },
+  {
+    "id": "114-ast-geo-04",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "某生出國旅遊，發現當地物價跟臺灣大異其趣，例如1公升的礦泉水要價約合臺幣15元，而1公升的汽油只要臺幣4元。另外逛當地市集時，發現當地無論男女都穿戴長袍頭巾，市集販賣的地毯、壁毯，或是繪畫等藝術品都是色彩繽紛、圖案對稱的幾何圖形。某生最可能是去到圖1中的哪個國家？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-04.png\" alt=\"圖1 地圖：丙在法國，乙在阿拉伯半島（沙烏地阿拉伯），甲在印度，丁在南美洲（巴西）\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "汽油比水便宜，表示產油而缺水的乾燥國家；男女穿長袍頭巾、藝術品以幾何圖形為主（伊斯蘭教避免偶像），是伊斯蘭國家。乙為沙烏地阿拉伯。\n\n故選 (B)"
+  },
+  {
+    "id": "114-ast-geo-05",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "某研究指出：「阿美族主要分布在臺灣東部，因居住環境不同而發展出相異的飲食特色（甲）。東海岸的阿美族有著高超的潛水射魚技術，因而有海鮮水產飲食文化；縱谷區的阿美族多上山狩獵，出發前並有特定的儀式（乙），因而有食肉的飲食文化。上述兩種主要都是男性的工作，而阿美族女性則是以採摘野菜為主（丙），發展出野菜的飲食文化，她們會隨著季節時令及地域不同，有什麼便採集什麼，採摘剛好的量，避免整株拔起，只取嫩葉食用（丁）。」題文中畫線代號部分，何者最能直接說明阿美族的傳統生態知識？",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "傳統生態知識是族人長期與環境互動累積、能永續利用資源的知識與做法。依季節採集、只採剛好的量、不整株拔起、只取嫩葉，讓植物得以再生，最直接體現這種知識。\n\n故選 (D)"
+  },
+  {
+    "id": "114-ast-geo-06",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "某生為學習理財規劃，欲由各國人口特質尋找較佳的投資標的。該生蒐集2020年全球一些國家的人口資料並繪製成圖2，其中橫軸是人口成長率，縱軸為14歲以下人口比例減去65歲以上人口比例，圓圈大小代表國家的人口總數。該生選擇甲國作為投資標的，但指導老師根據圖2資訊，認為現階段這不是一個好的選擇。下列何者最可能是指導老師的見解？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-06.png\" alt=\"圖2 泡泡圖（橫軸人口成長率、縱軸 14 歲以下人口比例減 65 歲以上人口比例，圓圈大小為人口數）：甲在右上角（成長率約 1.6、縱軸約 27），圓圈小；中（中國）成長率約 0.3、縱軸約 5，圓圈最大；美約 0.5、約 2；俄約 0、約 4；德約 0.1、約 −8；日約 −0.3、約 −17\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "幼年人口眾多，青壯年負擔大",
+      "老年人口多，高齡化問題嚴重",
+      "人口成長率低，內需市場不足",
+      "青壯人口比例低，勞動力不足"
+    ],
+    "answerIndex": 0,
+    "explanation": "甲國人口成長率最高，幼年人口比例遠高於老年人口（縱軸約 27），扶養比高，青壯年負擔沉重。甲國老年人口少、成長率高，(B)(C) 都不符。\n\n故選 (A)"
+  },
+  {
+    "id": "114-ast-geo-07",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1944年的美軍地形圖中雲林縣外海有多處濱外沙洲，但近年來呈現縮小或消失的趨勢，例如外傘頂洲逐年縮小，並持續往嘉義縣的海岸線靠近，故被稱為「移動的國土」。若以方位角表示此移動方向，最可能為下列何者？",
+    "options": [
+      "45度",
+      "135度",
+      "270度",
+      "315度"
+    ],
+    "answerIndex": 1,
+    "explanation": "外傘頂洲位於雲林外海，逐漸向南方的嘉義、並向東邊的海岸靠近，移動方向為東南。方位角以正北為 0 度順時針計算，東南為 135 度。\n\n故選 (B)"
+  },
+  {
+    "id": "114-ast-geo-08",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "全球各大洲發展程度不一，社會經濟狀況有別，因此呈現出不同型態的人口金字塔。下列是2024年歐洲、亞洲、非洲與北美洲的人口金字塔圖，哪張圖最可能是亞洲？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-08.png\" alt=\"四張 2024 年人口金字塔：(A) 底部 0-4 歲約 3.5%，往上到 40 歲前寬度相近（約 3.5～4.2%），之後逐漸變窄，呈接近吊鐘形；(B) 底部最寬（0-4 歲約 7%），往上快速變窄，典型金字塔形；(C) 0-4 歲約 2.7%，往上略增，30～64 歲最寬（約 3～3.6%），老年人口比例較高；(D) 0-4 歲約 2.3%，比 (C) 更窄，35～64 歲最寬，老年人口比例最高，女性高齡人口明顯多於男性\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answerIndex": 0,
+    "explanation": "(B) 底部最寬，是高出生率的非洲；(D) 幼年最少、老年最多，是歐洲；(C) 底部縮小但老年比例較 (D) 低，是北美洲。亞洲出生率已下降，但青壯年人口仍多、老年比例較低，呈 (A) 的形狀。\n\n故選 (A)"
+  },
+  {
+    "id": "114-ast-geo-09",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "9-10 為題組\n某人預計到臺東看2026年元旦的第一道曙光，他想從圖3的二萬五千分之一經建版地形圖中找尋合適的地點。請問：\n\n圖3中相鄰兩條等高線間的高度差為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-09.png\" alt=\"圖3 臺東海岸二萬五千分之一地形圖：等高線密集，標有 100、200、300 計曲線，水母丁山 379 公尺、325、163 等高點；甲在西南側南溪附近的低地，乙在東側面海的山坡（八仙洞附近），丙在西北側的山谷，丁在東北側山坡；東邊為海岸與公路，指北針朝上\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "10 m",
+      "20 m",
+      "50 m",
+      "100 m"
+    ],
+    "answerIndex": 0,
+    "explanation": "圖中計曲線標示 100、200、300 公尺，相鄰兩條計曲線之間有 9 條首曲線，間隔 10 公尺。二萬五千分之一經建版地形圖的首曲線間距就是 10 公尺。\n\n故選 (A)"
+  },
+  {
+    "id": "114-ast-geo-10",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "9-10 為題組\n某人預計到臺東看2026年元旦的第一道曙光，他想從圖3的二萬五千分之一經建版地形圖中找尋合適的地點。請問：\n\n該生在圖3中的哪個地點可能最先見到元旦的第一道曙光？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-09.png\" alt=\"圖3 臺東海岸二萬五千分之一地形圖：等高線密集，標有 100、200、300 計曲線，水母丁山 379 公尺、325、163 等高點；甲在西南側南溪附近的低地，乙在東側面海的山坡（八仙洞附近），丙在西北側的山谷，丁在東北側山坡；東邊為海岸與公路，指北針朝上\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "元旦日出方位在東南方。乙位於面向東方大海的山坡上，東南方沒有山地遮擋；甲、丙在山的西側，視線被山稜擋住；丁的東南方有 163 公尺的山丘遮擋。\n\n故選 (B)"
+  },
+  {
+    "id": "114-ast-geo-11",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "11-12 為題組\n2023年4月，位於堪察加半島的舍維留奇火山爆發。當地緊急應變小組立即發布航空紅色警報，指出有「大片火山灰雲」可能噴至十幾公里高，並且隨風飄移，可能影響鄰近空域的飛航安全，圖4為火山噴發前後的兩張衛星影像比較圖。請問：\n\n根據圖4中大片火山灰雲的位置，火山噴發時最主要吹下列何種風向的風？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-11.png\" alt=\"圖4 舍維留奇火山噴發前（04/07 05:00）與噴發後（04/07 06:40）的衛星影像：影像左邊為北（上方標 56°N、55°N、54°N），上方為東（左側標 160°E 在下、166°E 在上）；噴發後火山灰雲由火山向上方（東方）延伸\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "東風",
+      "西風",
+      "南風",
+      "北風"
+    ],
+    "answerIndex": 1,
+    "explanation": "注意影像方位：上方為東經度數較大的一側（東方）。噴發後的火山灰雲由火山向東延伸，表示被西風吹往東方；堪察加半島位於中緯度，盛行西風。\n\n故選 (B)"
+  },
+  {
+    "id": "114-ast-geo-12",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "11-12 為題組\n2023年4月，位於堪察加半島的舍維留奇火山爆發。當地緊急應變小組立即發布航空紅色警報，指出有「大片火山灰雲」可能噴至十幾公里高，並且隨風飄移，可能影響鄰近空域的飛航安全，圖4為火山噴發前後的兩張衛星影像比較圖。請問：\n\n下列哪兩地之間的大圓航線，最可能受到這次航空紅色警報的影響？",
+    "options": [
+      "中國北京到新加坡",
+      "臺灣桃園到英國倫敦",
+      "澳洲雪梨到日本東京",
+      "韓國首爾到美國阿拉斯加"
+    ],
+    "answerIndex": 3,
+    "explanation": "火山灰雲在堪察加半島東方的北太平洋上空。首爾到阿拉斯加的大圓航線往東北經過堪察加半島附近，最可能受影響。桃園到倫敦的大圓航線往西北經過西伯利亞，不經過堪察加東方。\n\n故選 (D)"
+  },
+  {
+    "id": "114-ast-geo-13",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-15 為題組\n紫斑蝶是全球唯二的越冬型蝴蝶，約在3月至4月回溫時，會隨著南風北上繁殖覓食，稱為「初春北返」；秋季時，會遷徙至南臺灣山谷避冬，稱為「南遷渡冬」。高公局為保護飛越國道的紫斑蝶安全，每年會在國道三號特定路段，架設長約1,100公尺、高4公尺的防護網，如圖5中甲點所示。\n某生為提升大眾對紫斑蝶的認識，開發一款手機應用程式，使用者安裝後，只要接近紫斑蝶發現地，就會自動顯示該處紫斑蝶的相關資訊。請問：\n\n在全球暖化情境下，紫斑蝶北返和南遷的日期，長期來看，最可能發生何種變化？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-13.png\" alt=\"圖5 臺灣地圖：國道三號由北往南縱貫西部，紫斑蝶發現地多在中南部丘陵與山麓；甲點在國道三號經過的中部地區（彰化、南投交界附近）\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "兩者都提前",
+      "兩者都延後",
+      "北返提前，南遷延後",
+      "北返延後，南遷提前"
+    ],
+    "answerIndex": 2,
+    "explanation": "紫斑蝶隨氣溫回升北返、天冷南遷。暖化使春季回溫提早、秋季降溫延後，所以北返提前、南遷延後。\n\n故選 (C)"
+  },
+  {
+    "id": "114-ast-geo-14",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-15 為題組\n紫斑蝶是全球唯二的越冬型蝴蝶，約在3月至4月回溫時，會隨著南風北上繁殖覓食，稱為「初春北返」；秋季時，會遷徙至南臺灣山谷避冬，稱為「南遷渡冬」。高公局為保護飛越國道的紫斑蝶安全，每年會在國道三號特定路段，架設長約1,100公尺、高4公尺的防護網，如圖5中甲點所示。\n某生為提升大眾對紫斑蝶的認識，開發一款手機應用程式，使用者安裝後，只要接近紫斑蝶發現地，就會自動顯示該處紫斑蝶的相關資訊。請問：\n\n圖5中的甲點最接近下列哪個地形區？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-13.png\" alt=\"圖5 臺灣地圖：國道三號由北往南縱貫西部，紫斑蝶發現地多在中南部丘陵與山麓；甲點在國道三號經過的中部地區（彰化、南投交界附近）\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "林口台地",
+      "竹東丘陵",
+      "八卦台地",
+      "埔里盆地"
+    ],
+    "answerIndex": 2,
+    "explanation": "甲點在國道三號經過的中部，彰化與南投交界處，即八卦台地（國道三號林內附近的紫斑蝶保護路段）。\n\n故選 (C)"
+  },
+  {
+    "id": "114-ast-geo-15",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-15 為題組\n紫斑蝶是全球唯二的越冬型蝴蝶，約在3月至4月回溫時，會隨著南風北上繁殖覓食，稱為「初春北返」；秋季時，會遷徙至南臺灣山谷避冬，稱為「南遷渡冬」。高公局為保護飛越國道的紫斑蝶安全，每年會在國道三號特定路段，架設長約1,100公尺、高4公尺的防護網，如圖5中甲點所示。\n某生為提升大眾對紫斑蝶的認識，開發一款手機應用程式，使用者安裝後，只要接近紫斑蝶發現地，就會自動顯示該處紫斑蝶的相關資訊。請問：\n\n根據題文，該手機應用程式的設計原理，最符合下列何種空間資訊科技的應用？",
+    "options": [
+      "對抗性地圖",
+      "空間隱私權",
+      "適地性服務",
+      "公眾參與式地理資訊系統"
+    ],
+    "answerIndex": 2,
+    "explanation": "程式依使用者的所在位置，自動提供附近紫斑蝶的資訊，是適地性服務（LBS）。\n\n故選 (C)"
+  },
+  {
+    "id": "114-ast-geo-16",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "16-17 為題組\n澎湖赤崁聚落的居民，每年冬天都會至聚落外海的姑婆嶼採集紫菜。由於姑婆嶼被列為我國目前唯一的紫菜保護區，為確保紫菜不致被過度採集，赤崁聚落居民的信仰中心－龍德宮，依聚落住戶人口發放限額採集證，並挑選良辰吉日，統一載運民眾登島，依慣例燃放鞭炮後民眾才能採集，且採集紫菜時僅能以徒手方式進行。由於紫菜品質良好市場反應非常熱絡，價格居高不下，被赤崁居民視為年終獎金來源。請問：\n\n根據題文，澎湖赤崁聚落的哪些做法，符合海洋資源永續發展的概念？\n甲、依聚落住戶人口發放限額採集證\n乙、依慣例燃放鞭炮後民眾才能採集\n丙、採集紫菜時僅能以徒手方式進行\n丁、紫菜品質良好市場反應非常熱絡",
+    "options": [
+      "甲丙",
+      "甲丁",
+      "乙丙",
+      "乙丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "限額採集證控制採集量，只能徒手採集避免工具過度刮取，都能讓紫菜資源永續。燃放鞭炮是儀式，市場熱絡是經濟效益，與永續無直接關係。\n\n故選 (A)"
+  },
+  {
+    "id": "114-ast-geo-17",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "16-17 為題組\n澎湖赤崁聚落的居民，每年冬天都會至聚落外海的姑婆嶼採集紫菜。由於姑婆嶼被列為我國目前唯一的紫菜保護區，為確保紫菜不致被過度採集，赤崁聚落居民的信仰中心－龍德宮，依聚落住戶人口發放限額採集證，並挑選良辰吉日，統一載運民眾登島，依慣例燃放鞭炮後民眾才能採集，且採集紫菜時僅能以徒手方式進行。由於紫菜品質良好市場反應非常熱絡，價格居高不下，被赤崁居民視為年終獎金來源。請問：\n\n根據題文，下列何者最可能是當地紫菜採集季節的風花圖？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-17.png\" alt=\"四張風花圖：(A) 風向集中在北北東（約 20°～30°），頻率高達約 80%；(B) 風向集中在南方（180°），約 30%；(C) 風向集中在北北西（約 340°），約 20%；(D) 風向集中在西南方（約 225°），約 20%\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answerIndex": 0,
+    "explanation": "紫菜在冬天採集，澎湖冬季吹強勁而穩定的東北季風，風向集中在北北東且頻率極高，對應 (A)。\n\n故選 (A)"
+  },
+  {
+    "id": "114-ast-geo-18",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "18-19 為題組\n2025年法國某企業為了環境永續發展，成立無動力的遠洋貨運帆船船隊，僅依靠風力與洋流航行，船上所有電子系統、空調與冷藏設備，均依靠太陽能或風電運作，進行橫跨大西洋兩岸的有機食品貿易。圖6顯示此船隊的航行路線，主要從法國出發，前往加勒比海地區載運可可和咖啡，接著抵達美國販售法國紅酒後，再一路返回法國。請問：\n\n根據題文，該帆船船隊從法國出發，在順風順水的前提下，最可能依序航經哪些洋流後返回法國？\n甲、墨西哥灣流\n乙、北赤道洋流\n丙、北大西洋暖流",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-18.png\" alt=\"圖6 帆船船隊航線：由法國出發，向西南橫越大西洋到加勒比海，再往北到美國東岸，最後橫越北大西洋返回法國，呈順時針環線\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙丙",
+      "乙甲丙",
+      "丙甲乙",
+      "丙乙甲"
+    ],
+    "answerIndex": 1,
+    "explanation": "北大西洋洋流呈順時針環流：從法國南下後，乘北赤道洋流（與東北信風）向西到加勒比海，再沿墨西哥灣流北上到美國東岸，最後乘北大西洋暖流（與西風）回到歐洲。\n\n故選 (B)"
+  },
+  {
+    "id": "114-ast-geo-19",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "18-19 為題組\n2025年法國某企業為了環境永續發展，成立無動力的遠洋貨運帆船船隊，僅依靠風力與洋流航行，船上所有電子系統、空調與冷藏設備，均依靠太陽能或風電運作，進行橫跨大西洋兩岸的有機食品貿易。圖6顯示此船隊的航行路線，主要從法國出發，前往加勒比海地區載運可可和咖啡，接著抵達美國販售法國紅酒後，再一路返回法國。請問：\n\n該企業的作法，最可能達成下列何種效益？",
+    "options": [
+      "減少產品的碳足跡",
+      "減少產品的食物里程",
+      "增加法國糧食自給率",
+      "增加法國環境負載力"
+    ],
+    "answerIndex": 0,
+    "explanation": "以風力、洋流航行，船上用電來自太陽能與風電，大幅減少運輸過程的碳排放，降低產品的碳足跡。橫越大西洋的運輸距離並沒有縮短，食物里程沒有減少。\n\n故選 (A)"
+  },
+  {
+    "id": "114-ast-geo-20",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "20-21 為題組\n人工智慧（AI）產業供應鏈，包括上游產業的晶片設計公司與代工廠、中游產業的伺服器品牌廠與代工廠，以及下游產業的軟體服務之雲端業者、AI公司等，透過上、中、下游產業的網絡連結，促成使用者得以享受AI的便利。表1為2024年AI供應鏈上、中、下游產業部分代表性公司，這些公司分布於世界各地，其企業總部多位於臺灣、美國和韓國等先進國家。請問：\n\n表1\n<svg viewBox=\"0 0 554 88\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"90\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"28\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">AI 供應鏈</text><rect x=\"92\" y=\"4\" width=\"160\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"28\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">上游產業</text><rect x=\"252\" y=\"4\" width=\"150\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"28\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">中游產業</text><rect x=\"402\" y=\"4\" width=\"150\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"28\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">下游產業</text><rect x=\"2\" y=\"44\" width=\"90\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"68\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">公司名稱</text><rect x=\"92\" y=\"44\" width=\"160\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"68\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">輝達、超微、英特爾、台積電、三星</text><rect x=\"252\" y=\"44\" width=\"150\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"68\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">HP、戴爾、廣達、鴻海、緯穎</text><rect x=\"402\" y=\"44\" width=\"150\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"68\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">亞馬遜、微軟、Meta、OpenAI</text></svg>\n\nAI產業的蓬勃發展，依賴某些發展歷程所產生的結果，其最可能是下列何者？",
+    "options": [
+      "區域互賴與不平等交換的結果",
+      "核心區與邊陲區連動發展的結果",
+      "交通革新與全球高度都市化的結果",
+      "資訊革命與知識經濟持續精進的結果"
+    ],
+    "answerIndex": 3,
+    "explanation": "AI 產業以晶片、伺服器、軟體與雲端服務為核心，依賴資訊科技的革命與以知識、研發為主的知識經濟；企業總部多在先進國家，並非核心—邊陲的連動。\n\n故選 (D)"
+  },
+  {
+    "id": "114-ast-geo-21",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "20-21 為題組\n人工智慧（AI）產業供應鏈，包括上游產業的晶片設計公司與代工廠、中游產業的伺服器品牌廠與代工廠，以及下游產業的軟體服務之雲端業者、AI公司等，透過上、中、下游產業的網絡連結，促成使用者得以享受AI的便利。表1為2024年AI供應鏈上、中、下游產業部分代表性公司，這些公司分布於世界各地，其企業總部多位於臺灣、美國和韓國等先進國家。請問：\n\n表1\n<svg viewBox=\"0 0 554 88\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"90\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"28\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">AI 供應鏈</text><rect x=\"92\" y=\"4\" width=\"160\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"28\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">上游產業</text><rect x=\"252\" y=\"4\" width=\"150\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"28\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">中游產業</text><rect x=\"402\" y=\"4\" width=\"150\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"28\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">下游產業</text><rect x=\"2\" y=\"44\" width=\"90\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"68\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">公司名稱</text><rect x=\"92\" y=\"44\" width=\"160\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"68\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">輝達、超微、英特爾、台積電、三星</text><rect x=\"252\" y=\"44\" width=\"150\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"68\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">HP、戴爾、廣達、鴻海、緯穎</text><rect x=\"402\" y=\"44\" width=\"150\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"68\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">亞馬遜、微軟、Meta、OpenAI</text></svg>\n\n若僅從表1判斷，AI產業供應鏈中各家公司的合作關係，最可能反映出下列哪項產業經營特徵？\n甲、輝達公司已達到垂直整合的成果\n乙、廣達和鴻海公司可產生水平分工的合作\n丙、緯穎和OpenAI公司可產生垂直分工的合作\n丁、台積電和亞馬遜公司可達到水平整合的成果",
+    "options": [
+      "甲乙",
+      "甲丁",
+      "乙丙",
+      "丙丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "廣達與鴻海同屬中游，可分擔同一階段的生產（水平分工）；中游的緯穎與下游的 OpenAI 屬上下游關係（垂直分工）。表 1 只看到輝達在上游，看不出垂直整合；台積電（上游）與亞馬遜（下游）不同層級，不是水平整合。\n\n故選 (C)"
+  },
+  {
+    "id": "114-ast-geo-22",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "22-23 為題組\n一地的產業發展深受地理環境影響，圖7是全球五個地點的位置。請問：\n\n某地是世界重要的肉品出口區，2019-2020年間因極端高溫與乾旱，造成該地牛羊飼養成本上升，對國際肉品市場產生重大影響。該地最可能是圖7中的何處？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-22.png\" alt=\"圖7 世界地圖：甲在南美洲（巴西東部），乙在阿拉伯半島西南（紅海附近），丙在中國東部，丁在澳洲東南部，戊在歐洲西北的北海附近（英國一帶）\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "澳洲東南部是重要的牛羊肉出口區，2019～2020 年遭遇極端高溫、乾旱與大規模森林火災。\n\n故選 (D)"
+  },
+  {
+    "id": "114-ast-geo-23",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "22-23 為題組\n一地的產業發展深受地理環境影響，圖7是全球五個地點的位置。請問：\n\n圖7中戊地相對於其他四地適合發展綠能發電，最可能是因為該地具有下列哪項地理環境特色？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-22.png\" alt=\"圖7 世界地圖：甲在南美洲（巴西東部），乙在阿拉伯半島西南（紅海附近），丙在中國東部，丁在澳洲東南部，戊在歐洲西北的北海附近（英國一帶）\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "太陽照射時數較長",
+      "風向風力常年穩定",
+      "地熱資源蘊藏豐沛",
+      "地勢落差起伏較大"
+    ],
+    "answerIndex": 1,
+    "explanation": "戊位於北海沿岸的西北歐，終年受盛行西風吹拂，風向風力穩定，適合發展離岸風電。\n\n故選 (B)"
+  },
+  {
+    "id": "114-ast-geo-24",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "24-26 為題組\n太平洋珊瑚礁島國吐瓦魯（7°S，177°E），居民主要屬於南島語族，近年來面臨國土消失的嚴重威脅。2022年其外交部長宣布，將在元宇宙的虛擬空間中，建立一個數位版的吐瓦魯，藉以保存共同語言、規範和習俗，未來即便國土消失，吐瓦魯人仍可在此空間互動交流，凝聚對祖國的向心力。請問：\n\n造成文中該國國土消失的主要原因，最可能是下列何者？",
+    "options": [
+      "山洪爆發",
+      "颱風侵襲",
+      "海平面上升",
+      "土壤鹽鹼化"
+    ],
+    "answerIndex": 2,
+    "explanation": "吐瓦魯是地勢低平的珊瑚礁島國，全球暖化造成海平面上升，國土有被淹沒的危機。\n\n故選 (C)"
+  },
+  {
+    "id": "114-ast-geo-25",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "24-26 為題組\n太平洋珊瑚礁島國吐瓦魯（7°S，177°E），居民主要屬於南島語族，近年來面臨國土消失的嚴重威脅。2022年其外交部長宣布，將在元宇宙的虛擬空間中，建立一個數位版的吐瓦魯，藉以保存共同語言、規範和習俗，未來即便國土消失，吐瓦魯人仍可在此空間互動交流，凝聚對祖國的向心力。請問：\n\n吐瓦魯所欲建立的元宇宙虛擬空間，與下列哪種空間的特性最相似？",
+    "options": [
+      "幾何空間",
+      "自然空間",
+      "社會空間",
+      "三維空間"
+    ],
+    "answerIndex": 2,
+    "explanation": "數位吐瓦魯的目的是保存語言、規範、習俗，讓人民互動交流、凝聚向心力，強調的是人與人的社會關係與文化意義，屬於社會空間。\n\n故選 (C)"
+  },
+  {
+    "id": "114-ast-geo-26",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "24-26 為題組\n太平洋珊瑚礁島國吐瓦魯（7°S，177°E），居民主要屬於南島語族，近年來面臨國土消失的嚴重威脅。2022年其外交部長宣布，將在元宇宙的虛擬空間中，建立一個數位版的吐瓦魯，藉以保存共同語言、規範和習俗，未來即便國土消失，吐瓦魯人仍可在此空間互動交流，凝聚對祖國的向心力。請問：\n\n若部分吐瓦魯人想搬遷至距離最近，且仍是南島語族分布範圍內的國家，其最可能到下列哪個國家？",
+    "options": [
+      "澳洲",
+      "紐西蘭",
+      "馬來西亞",
+      "馬達加斯加"
+    ],
+    "answerIndex": 1,
+    "explanation": "紐西蘭的原住民毛利人屬南島語族，且距吐瓦魯較近。澳洲原住民不屬南島語族；馬來西亞與馬達加斯加雖屬南島語族分布範圍，但距離遠得多。\n\n故選 (B)"
+  },
+  {
+    "id": "114-ast-geo-27",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-29 為題組\n2025年美國總統川普就任後發布行政命令，將「墨西哥灣」（Gulf of Mexico）更名為「美國灣」（Gulf of America），之後Google地圖作出相應的調整，美國境內的使用者會看到新的名稱，墨西哥境內維持不變，而其他地區則同時顯示兩個名稱。有則新聞提到：「除了墨西哥政府對此向Google提出抗議外，許多民眾也紛紛湧入Google地圖表達不滿，在此標籤上給予一顆星的評價並留下負面評論，由於數量過多，迫使Google地圖關閉此標籤的評論功能，並刪除更名後的負評。」\n其實，過去美墨之間的地名常常也沒有統一，例如美墨邊境的界河，墨西哥稱之為「布拉沃河」，就與美國的命名不同。\n而Google地圖上一個標籤顯示兩個地名的做法也非第一次，例如某個位於伊斯蘭世界的重要海灣，為了顧及與此海灣比鄰主要國家的文化和政治意義，即被標示為「波斯灣（阿拉伯灣）」。請問：\n\n題文中的新聞內容，最可能反映出下列哪個現象？",
+    "options": [
+      "民眾可在Google地圖留下評價是智慧城市的特徵",
+      "Google 地圖是公眾參與地理資訊系統的討論平臺",
+      "Google 地圖關閉評論功能可降低地理媒體的傳播力量",
+      "民眾透過公民科學的方式迫使Google 地圖關閉評論功能"
+    ],
+    "answerIndex": 2,
+    "explanation": "民眾在 Google 地圖的地名標籤上大量留下負評，是利用地理媒體表達意見；Google 關閉評論功能並刪除負評，削弱了這些訊息的傳播。這不是政府邀請公眾參與決策的 PPGIS，也不是公民科學。\n\n故選 (C)"
+  },
+  {
+    "id": "114-ast-geo-28",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-29 為題組\n2025年美國總統川普就任後發布行政命令，將「墨西哥灣」（Gulf of Mexico）更名為「美國灣」（Gulf of America），之後Google地圖作出相應的調整，美國境內的使用者會看到新的名稱，墨西哥境內維持不變，而其他地區則同時顯示兩個名稱。有則新聞提到：「除了墨西哥政府對此向Google提出抗議外，許多民眾也紛紛湧入Google地圖表達不滿，在此標籤上給予一顆星的評價並留下負面評論，由於數量過多，迫使Google地圖關閉此標籤的評論功能，並刪除更名後的負評。」\n其實，過去美墨之間的地名常常也沒有統一，例如美墨邊境的界河，墨西哥稱之為「布拉沃河」，就與美國的命名不同。\n而Google地圖上一個標籤顯示兩個地名的做法也非第一次，例如某個位於伊斯蘭世界的重要海灣，為了顧及與此海灣比鄰主要國家的文化和政治意義，即被標示為「波斯灣（阿拉伯灣）」。請問：\n\n墨西哥的布拉沃河是指美國的哪條河流？",
+    "options": [
+      "格蘭河",
+      "亞馬孫河",
+      "科羅拉多河",
+      "密西西比河"
+    ],
+    "answerIndex": 0,
+    "explanation": "美墨邊境的界河，美國稱為格蘭河（Rio Grande），墨西哥稱為布拉沃河（Río Bravo）。\n\n故選 (A)"
+  },
+  {
+    "id": "114-ast-geo-29",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-29 為題組\n2025年美國總統川普就任後發布行政命令，將「墨西哥灣」（Gulf of Mexico）更名為「美國灣」（Gulf of America），之後Google地圖作出相應的調整，美國境內的使用者會看到新的名稱，墨西哥境內維持不變，而其他地區則同時顯示兩個名稱。有則新聞提到：「除了墨西哥政府對此向Google提出抗議外，許多民眾也紛紛湧入Google地圖表達不滿，在此標籤上給予一顆星的評價並留下負面評論，由於數量過多，迫使Google地圖關閉此標籤的評論功能，並刪除更名後的負評。」\n其實，過去美墨之間的地名常常也沒有統一，例如美墨邊境的界河，墨西哥稱之為「布拉沃河」，就與美國的命名不同。\n而Google地圖上一個標籤顯示兩個地名的做法也非第一次，例如某個位於伊斯蘭世界的重要海灣，為了顧及與此海灣比鄰主要國家的文化和政治意義，即被標示為「波斯灣（阿拉伯灣）」。請問：\n\nGoogle 地圖上波斯灣（阿拉伯灣）的標記方式，最可能是顧及下列哪兩個國家？",
+    "options": [
+      "伊朗、葉門",
+      "伊拉克、阿曼",
+      "伊朗、沙烏地阿拉伯",
+      "伊拉克、阿拉伯聯合大公國"
+    ],
+    "answerIndex": 2,
+    "explanation": "波斯灣北岸是波斯人為主的伊朗，南岸最主要的國家是阿拉伯人的沙烏地阿拉伯，兩國對海灣名稱各有堅持，也是區域內的主要對手。\n\n故選 (C)"
+  },
+  {
+    "id": "114-ast-geo-30",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-31 為題組\n南亞和東南亞為東西文化接觸帶，區域特色深受自然與人文因素的影響，其中板塊運動是形塑此區地形的主要自然因素；而宗教信仰是影響文化景觀的重要人文因素。請問：\n\n南亞與東南亞的地形主要受到板塊擠壓的影響，其中下列哪些板塊的碰撞，同時影響這兩個地區的地形演育？\n甲、歐亞板塊\n乙、印澳板塊\n丙、太平洋板塊\n丁、菲律賓海板塊",
+    "options": [
+      "甲乙",
+      "甲丁",
+      "乙丙",
+      "丙丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "印澳板塊向北碰撞歐亞板塊，在南亞形成喜馬拉雅山，在東南亞形成緬甸、印尼一帶的山脈與島弧（巽他海溝）。\n\n故選 (A)"
+  },
+  {
+    "id": "114-ast-geo-non-31",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "fill",
+    "points": 4,
+    "selfGrade": true,
+    "question": "30-31 為題組\n南亞和東南亞為東西文化接觸帶，區域特色深受自然與人文因素的影響，其中板塊運動是形塑此區地形的主要自然因素；而宗教信仰是影響文化景觀的重要人文因素。請問：\n\n南亞與東南亞兩區域各有其主要宗教，請擇一區域，並針對該區域寫出該區的兩大主要宗教（4分）。",
+    "blanks": [
+      "南亞：印度教、伊斯蘭教（或東南亞：佛教、伊斯蘭教）"
+    ],
+    "blankLabels": [
+      "選擇的區域與兩大宗教"
+    ],
+    "explanation": "南亞以印度的印度教與巴基斯坦、孟加拉的伊斯蘭教為主；東南亞以中南半島的佛教與馬來西亞、印尼的伊斯蘭教為主。\n\n評分重點：先寫出所選的區域，再寫出該區域正確的兩大宗教；只對一項得部分分數。"
+  },
+  {
+    "id": "114-ast-geo-32",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "32-34 為題組\n「空間人口集中指數」是指特定範圍中，平均每個人周圍一定半徑內的共居人口數。若兩國面積、人數相同，但因氣候、地形或歷史發展等因素，造成其中某國人口集中居住在特定地區，該國的人口集中指數將相對較高。表2顯示2015年最近一期巴西、葡萄牙，與韓國、波蘭、澳洲五國的空間人口集中指數資料，以及該年度相對應的人口總數與人口年齡結構百分比。請問：\n\n表2\n<svg viewBox=\"0 0 504 224\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"72\" y=\"4\" width=\"150\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">半徑50公里空間人口集中指數（人）</text><rect x=\"222\" y=\"4\" width=\"100\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">人口總數（百萬人）</text><rect x=\"322\" y=\"4\" width=\"60\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">幼年（%）</text><rect x=\"382\" y=\"4\" width=\"60\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">壯年（%）</text><rect x=\"442\" y=\"4\" width=\"60\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">老年（%）</text><rect x=\"2\" y=\"40\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">甲</text><rect x=\"72\" y=\"40\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">13,200</text><rect x=\"222\" y=\"40\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">51</text><rect x=\"322\" y=\"40\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">14</text><rect x=\"382\" y=\"40\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">73</text><rect x=\"442\" y=\"40\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">13</text><rect x=\"2\" y=\"76\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">乙</text><rect x=\"72\" y=\"76\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">2,149</text><rect x=\"222\" y=\"76\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">24</text><rect x=\"322\" y=\"76\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">19</text><rect x=\"382\" y=\"76\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">66</text><rect x=\"442\" y=\"76\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">15</text><rect x=\"2\" y=\"112\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">丙</text><rect x=\"72\" y=\"112\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">1,816</text><rect x=\"222\" y=\"112\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">38</text><rect x=\"322\" y=\"112\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">15</text><rect x=\"382\" y=\"112\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">69</text><rect x=\"442\" y=\"112\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">16</text><rect x=\"2\" y=\"148\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">巴西</text><rect x=\"72\" y=\"148\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">4,484</text><rect x=\"222\" y=\"148\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">202</text><rect x=\"322\" y=\"148\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">20</text><rect x=\"382\" y=\"148\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">70</text><rect x=\"442\" y=\"148\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10</text><rect x=\"2\" y=\"184\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">葡萄牙</text><rect x=\"72\" y=\"184\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">2,006</text><rect x=\"222\" y=\"184\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10</text><rect x=\"322\" y=\"184\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">14</text><rect x=\"382\" y=\"184\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">65</text><rect x=\"442\" y=\"184\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">21</text></svg>\n\n根據題文，表2中甲、乙、丙三國依序為何？",
+    "options": [
+      "波蘭、澳洲、韓國",
+      "韓國、波蘭、澳洲",
+      "澳洲、波蘭、韓國",
+      "韓國、澳洲、波蘭"
+    ],
+    "answerIndex": 3,
+    "explanation": "甲的集中指數最高（13,200），是面積小、人口集中在首爾都會區的韓國，且老年比例尚低。乙人口 2,400 萬、幼年比例最高，是移民國家澳洲（人口集中在東南沿海，但國土大，指數不如韓國）。丙人口 3,800 萬，是波蘭。\n\n故選 (D)"
+  },
+  {
+    "id": "114-ast-geo-non-33",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "32-34 為題組\n「空間人口集中指數」是指特定範圍中，平均每個人周圍一定半徑內的共居人口數。若兩國面積、人數相同，但因氣候、地形或歷史發展等因素，造成其中某國人口集中居住在特定地區，該國的人口集中指數將相對較高。表2顯示2015年最近一期巴西、葡萄牙，與韓國、波蘭、澳洲五國的空間人口集中指數資料，以及該年度相對應的人口總數與人口年齡結構百分比。請問：\n\n表2\n<svg viewBox=\"0 0 504 224\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"72\" y=\"4\" width=\"150\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">半徑50公里空間人口集中指數（人）</text><rect x=\"222\" y=\"4\" width=\"100\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">人口總數（百萬人）</text><rect x=\"322\" y=\"4\" width=\"60\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">幼年（%）</text><rect x=\"382\" y=\"4\" width=\"60\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">壯年（%）</text><rect x=\"442\" y=\"4\" width=\"60\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">老年（%）</text><rect x=\"2\" y=\"40\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">甲</text><rect x=\"72\" y=\"40\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">13,200</text><rect x=\"222\" y=\"40\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">51</text><rect x=\"322\" y=\"40\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">14</text><rect x=\"382\" y=\"40\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">73</text><rect x=\"442\" y=\"40\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">13</text><rect x=\"2\" y=\"76\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">乙</text><rect x=\"72\" y=\"76\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">2,149</text><rect x=\"222\" y=\"76\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">24</text><rect x=\"322\" y=\"76\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">19</text><rect x=\"382\" y=\"76\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">66</text><rect x=\"442\" y=\"76\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">15</text><rect x=\"2\" y=\"112\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">丙</text><rect x=\"72\" y=\"112\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">1,816</text><rect x=\"222\" y=\"112\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">38</text><rect x=\"322\" y=\"112\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">15</text><rect x=\"382\" y=\"112\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">69</text><rect x=\"442\" y=\"112\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">16</text><rect x=\"2\" y=\"148\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">巴西</text><rect x=\"72\" y=\"148\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">4,484</text><rect x=\"222\" y=\"148\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">202</text><rect x=\"322\" y=\"148\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">20</text><rect x=\"382\" y=\"148\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">70</text><rect x=\"442\" y=\"148\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10</text><rect x=\"2\" y=\"184\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">葡萄牙</text><rect x=\"72\" y=\"184\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">2,006</text><rect x=\"222\" y=\"184\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10</text><rect x=\"322\" y=\"184\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">14</text><rect x=\"382\" y=\"184\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">65</text><rect x=\"442\" y=\"184\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">21</text></svg>\n\n巴西曾為葡萄牙最大的海外殖民地，2015年時巴西的人口密度約為葡萄牙的五分之一，但表2的資料顯示其空間人口集中指數卻是葡萄牙的兩倍多，此與其殖民地都市發展歷程有關。哪個地理概念最適合用來解釋此現象？請以10字內說明（2分）。",
+    "blanks": [
+      "假性都市化（或首要型都市）"
+    ],
+    "blankLabels": [
+      "地理概念（10 字內）"
+    ],
+    "explanation": "殖民時期經濟以出口為主，人口與機能集中在少數港口大都市；之後大量鄉村人口湧入，城市就業與建設跟不上，形成假性都市化，人口高度集中在聖保羅、里約熱內盧等大都市，所以人口密度低，集中指數卻高。"
+  },
+  {
+    "id": "114-ast-geo-non-34",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "fill",
+    "points": 3,
+    "selfGrade": true,
+    "question": "32-34 為題組\n「空間人口集中指數」是指特定範圍中，平均每個人周圍一定半徑內的共居人口數。若兩國面積、人數相同，但因氣候、地形或歷史發展等因素，造成其中某國人口集中居住在特定地區，該國的人口集中指數將相對較高。表2顯示2015年最近一期巴西、葡萄牙，與韓國、波蘭、澳洲五國的空間人口集中指數資料，以及該年度相對應的人口總數與人口年齡結構百分比。請問：\n\n表2\n<svg viewBox=\"0 0 504 224\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"72\" y=\"4\" width=\"150\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">半徑50公里空間人口集中指數（人）</text><rect x=\"222\" y=\"4\" width=\"100\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">人口總數（百萬人）</text><rect x=\"322\" y=\"4\" width=\"60\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">幼年（%）</text><rect x=\"382\" y=\"4\" width=\"60\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">壯年（%）</text><rect x=\"442\" y=\"4\" width=\"60\" height=\"36\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"26\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">老年（%）</text><rect x=\"2\" y=\"40\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">甲</text><rect x=\"72\" y=\"40\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">13,200</text><rect x=\"222\" y=\"40\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">51</text><rect x=\"322\" y=\"40\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">14</text><rect x=\"382\" y=\"40\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">73</text><rect x=\"442\" y=\"40\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"62\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">13</text><rect x=\"2\" y=\"76\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">乙</text><rect x=\"72\" y=\"76\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">2,149</text><rect x=\"222\" y=\"76\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">24</text><rect x=\"322\" y=\"76\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">19</text><rect x=\"382\" y=\"76\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">66</text><rect x=\"442\" y=\"76\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"98\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">15</text><rect x=\"2\" y=\"112\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">丙</text><rect x=\"72\" y=\"112\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">1,816</text><rect x=\"222\" y=\"112\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">38</text><rect x=\"322\" y=\"112\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">15</text><rect x=\"382\" y=\"112\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">69</text><rect x=\"442\" y=\"112\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">16</text><rect x=\"2\" y=\"148\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">巴西</text><rect x=\"72\" y=\"148\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">4,484</text><rect x=\"222\" y=\"148\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">202</text><rect x=\"322\" y=\"148\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">20</text><rect x=\"382\" y=\"148\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">70</text><rect x=\"442\" y=\"148\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"170\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10</text><rect x=\"2\" y=\"184\" width=\"70\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">葡萄牙</text><rect x=\"72\" y=\"184\" width=\"150\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">2,006</text><rect x=\"222\" y=\"184\" width=\"100\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10</text><rect x=\"322\" y=\"184\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">14</text><rect x=\"382\" y=\"184\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">65</text><rect x=\"442\" y=\"184\" width=\"60\" height=\"36\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"206\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">21</text></svg>\n\n請將表2中「巴西」的人口年齡結構，以圓點繪製於三角圖上（3分）。（原題在答題卷的三角圖上作圖，此處請寫出你的點落在哪裡。）",
+    "blanks": [
+      "幼年 20%、壯年 70%、老年 10% 三條格線的交叉點，畫一個實心圓點"
+    ],
+    "blankLabels": [
+      "三角圖上的位置"
+    ],
+    "explanation": "巴西的人口結構為幼年 20%、壯年 70%、老年 10%，在三角圖上分別找到這三個數值的格線，三線交於一點即為答案。\n\n評分重點：只畫一個與示例大小相同的實心圓點，位置正確。"
+  },
+  {
+    "id": "114-ast-geo-35",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "35-36 為題組\n「15分鐘生活圈」是一個都市規劃與發展的理想概念，希望讓社區居民在步行15分鐘可及的範圍內，滿足大部分日常生活所需的服務。圖8為甲、乙、丙三個都市街區的生活資源分布圖，其比例尺大小一致，地圖下方實線符號長度代表居民15分鐘的步行距離。請問：\n\n某生欲利用服務區分析（或稱節點服務範圍）功能，找出都市內某地步行15分鐘的可及範圍，其在操作步驟中輸入下列哪個道路屬性，可直接產出分析結果？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-35.png\" alt=\"圖8 三個都市街區的生活資源分布（比例尺相同，下方實線為 15 分鐘步行距離；圓點為日常生活消費設施、星號為學校與托育中心、三角形為公園及居民休閒設施）：甲街區道路密集，三類設施數量多且平均散布各處；乙街區道路稀疏，設施很少且分散；丙街區設施數量多，但多集中在中心的圓環一帶\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "道路寬度",
+      "道路長度",
+      "平均高度",
+      "通過時間"
+    ],
+    "answerIndex": 3,
+    "explanation": "可及範圍以「15 分鐘」為門檻，只要各路段有步行「通過時間」的屬性，就能直接沿路網累計，找出 15 分鐘內可到達的範圍。只有道路長度還要再換算成時間。\n\n故選 (D)"
+  },
+  {
+    "id": "114-ast-geo-non-36",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "fill",
+    "points": 4,
+    "selfGrade": true,
+    "question": "35-36 為題組\n「15分鐘生活圈」是一個都市規劃與發展的理想概念，希望讓社區居民在步行15分鐘可及的範圍內，滿足大部分日常生活所需的服務。圖8為甲、乙、丙三個都市街區的生活資源分布圖，其比例尺大小一致，地圖下方實線符號長度代表居民15分鐘的步行距離。請問：\n\n根據題文和圖8，哪個都市最符合「15分鐘生活圈」的規劃與發展概念？請寫出最符合的都市，並以20字內從服務設施空間分布特色的角度說明判斷依據（4分）。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-35.png\" alt=\"圖8 三個都市街區的生活資源分布（比例尺相同，下方實線為 15 分鐘步行距離；圓點為日常生活消費設施、星號為學校與托育中心、三角形為公園及居民休閒設施）：甲街區道路密集，三類設施數量多且平均散布各處；乙街區道路稀疏，設施很少且分散；丙街區設施數量多，但多集中在中心的圓環一帶\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "甲",
+      "此都市的三類服務設施在空間分布上較平均"
+    ],
+    "blankLabels": [
+      "最符合的都市",
+      "判斷依據（20 字內）"
+    ],
+    "explanation": "甲街區的日常消費、學校托育、公園休閒三類設施數量多，且平均分布在各處，居民在 15 分鐘步行範圍內都能取得各種服務。乙設施太少；丙設施集中在中心，邊緣居民不易到達。\n\n評分重點：寫「甲」，並說明三類設施在空間上分布平均。"
+  },
+  {
+    "id": "114-ast-geo-37",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "37-38 為題組\n義大利某都市海岸侵蝕嚴重，當地政府為此委託專家進行海岸管理計畫。專家們首先判斷沿岸流的方向以瞭解該市海岸侵蝕的機制，接著訪問漁業、旅遊業、環保組織、公民等權益關係人，將他們的訴求與建議帶回，之後建立各項海岸管理指標，再以網路地圖的方式呈現指標資訊，作為規劃海岸管理計畫使用，並提供民眾查詢，圖9是該市海岸的局部衛星影像圖。某生以此案例進行公眾參與式地理資訊系統（PPGIS）的專題報告。請問：\n\n老師認為該生所引用的案例並未完全符合PPGIS的理念，其理由最可能是因為該計畫進行的過程，缺乏下列何種行動？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-38.png\" alt=\"圖9 義大利某市海岸衛星影像（指北針朝右，比例尺 400 m）：港口的防波堤向海突出；港口東南側（影像左下方）有寬廣的沙灘，西北側（影像右上方）的海岸沙灘狹窄，沿岸設有一排消波設施\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "研究人員使用GIS整合海岸土地利用資料",
+      "宣導民眾透過GIS網站查詢海岸地區風險",
+      "以GIS為平臺與權益關係人討論管理計畫",
+      "政府以GIS網站公開海岸地區景觀分區圖"
+    ],
+    "answerIndex": 2,
+    "explanation": "PPGIS 強調以 GIS 為平臺，讓民眾與權益關係人直接參與討論與決策。本案專家只是訪談後把意見帶回，再把結果放上網路地圖供查詢，缺少以 GIS 為平臺與權益關係人共同討論的過程。\n\n故選 (C)"
+  },
+  {
+    "id": "114-ast-geo-non-38",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "fill",
+    "points": 5,
+    "selfGrade": true,
+    "question": "37-38 為題組\n義大利某都市海岸侵蝕嚴重，當地政府為此委託專家進行海岸管理計畫。專家們首先判斷沿岸流的方向以瞭解該市海岸侵蝕的機制，接著訪問漁業、旅遊業、環保組織、公民等權益關係人，將他們的訴求與建議帶回，之後建立各項海岸管理指標，再以網路地圖的方式呈現指標資訊，作為規劃海岸管理計畫使用，並提供民眾查詢，圖9是該市海岸的局部衛星影像圖。某生以此案例進行公眾參與式地理資訊系統（PPGIS）的專題報告。請問：\n\n請寫出此區沿岸流的主要方向（由東北到西南／由西南到東北／由東南到西北／由西北到東南），並根據圖9中港口附近的地貌景觀，以30字內說明文中專家判斷此區沿岸流方向的依據與海岸侵蝕的機制（5分）。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-38.png\" alt=\"圖9 義大利某市海岸衛星影像（指北針朝右，比例尺 400 m）：港口的防波堤向海突出；港口東南側（影像左下方）有寬廣的沙灘，西北側（影像右上方）的海岸沙灘狹窄，沿岸設有一排消波設施\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "由東南到西北",
+      "港口造成突堤效應，使港口的（東）南側堆積，（西）北側侵蝕"
+    ],
+    "blankLabels": [
+      "沿岸流的主要方向",
+      "判斷依據與侵蝕機制（30 字內）"
+    ],
+    "explanation": "影像中北方朝右。港口的防波堤突出海面，攔截沿岸流挾帶的泥沙，上游一側（東南側）沙灘堆積變寬，下游一側（西北側）缺少泥沙補充而侵蝕，這就是突堤效應，也由此判斷沿岸流由東南流向西北。\n\n評分重點：方向寫「由東南到西北」；說明須包含港口突堤效應、東南側堆積、西北側侵蝕三項。"
+  },
+  {
+    "id": "114-ast-geo-39",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "39-41 為題組\n某生欲以人口活動強度來進行地理課題的探究，他從文獻分析中發現第三級產業活動興盛區，主要為零售百貨業或服務業等產業所聚集，具有地價高和易達性高的特色，由於這些區域提供許多就業機會，吸引鄰近人口跨區通勤來此工作。該生因此想探討北臺灣（北北基桃）每日淨通勤人數較多的區域，是否即為第三級產業活動興盛區。\n為了探究這個課題，他從國土資訊系統社會經濟資料服務平台中，下載以鄉鎮區為統計單元的「電信信令人口統計」GIS資料，該資料是以手機使用人口的位置，推估各個鄉鎮區的人口活動數量，表3為該資料的部分屬性資料表。該生利用GIS的屬性分析功能計算出各鄉鎮區的每日淨通勤人數估計值後，將研究成果繪製成圖10。\n該生從圖10的資訊發現，臺北市淨通勤人數較多的區域，的確與第三級產業活動興盛區高度重疊。請問：\n\n表3\n<svg viewBox=\"0 0 554 104\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">行政區</text><rect x=\"72\" y=\"4\" width=\"120\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">平日夜間停留人數</text><rect x=\"192\" y=\"4\" width=\"120\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">平日日間活動人數</text><rect x=\"312\" y=\"4\" width=\"120\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">假日夜間停留人數</text><rect x=\"432\" y=\"4\" width=\"120\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">假日日間活動人數</text><rect x=\"2\" y=\"36\" width=\"70\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">甲區</text><rect x=\"72\" y=\"36\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">577,007</text><rect x=\"192\" y=\"36\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">461,811</text><rect x=\"312\" y=\"36\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">574,620</text><rect x=\"432\" y=\"36\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">552,865</text><rect x=\"2\" y=\"68\" width=\"70\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">乙區</text><rect x=\"72\" y=\"68\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">426,580</text><rect x=\"192\" y=\"68\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">343,466</text><rect x=\"312\" y=\"68\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">424,259</text><rect x=\"432\" y=\"68\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">395,318</text></svg>\n\n根據題文，該生最可能從下列哪個地理概念進行研究發問？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-41.png\" alt=\"圖10 北北基桃淨通勤人數大於 1 萬人的區域（網點）：臺北市的網點區內有多家百貨公司與火車站；桃園市的網點區範圍大，區內標示多個工業區，百貨公司只在網點區外\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "交通革新",
+      "競租理論",
+      "時空收斂",
+      "城鄉關係"
+    ],
+    "answerIndex": 3,
+    "explanation": "該生的研究問題是：鄰近地區的人口每天跨區通勤到就業機會多的區域工作，淨通勤人數多的地方是否就是第三級產業興盛區。探討的是核心都市與周邊地區之間的人口流動與機能分工，屬於城鄉關係。題文雖提到地價高，但研究發問的重點不在地租的分配（競租理論）。\n\n故選 (D)"
+  },
+  {
+    "id": "114-ast-geo-40",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "39-41 為題組\n某生欲以人口活動強度來進行地理課題的探究，他從文獻分析中發現第三級產業活動興盛區，主要為零售百貨業或服務業等產業所聚集，具有地價高和易達性高的特色，由於這些區域提供許多就業機會，吸引鄰近人口跨區通勤來此工作。該生因此想探討北臺灣（北北基桃）每日淨通勤人數較多的區域，是否即為第三級產業活動興盛區。\n為了探究這個課題，他從國土資訊系統社會經濟資料服務平台中，下載以鄉鎮區為統計單元的「電信信令人口統計」GIS資料，該資料是以手機使用人口的位置，推估各個鄉鎮區的人口活動數量，表3為該資料的部分屬性資料表。該生利用GIS的屬性分析功能計算出各鄉鎮區的每日淨通勤人數估計值後，將研究成果繪製成圖10。\n該生從圖10的資訊發現，臺北市淨通勤人數較多的區域，的確與第三級產業活動興盛區高度重疊。請問：\n\n表3\n<svg viewBox=\"0 0 554 104\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">行政區</text><rect x=\"72\" y=\"4\" width=\"120\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">平日夜間停留人數</text><rect x=\"192\" y=\"4\" width=\"120\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">平日日間活動人數</text><rect x=\"312\" y=\"4\" width=\"120\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">假日夜間停留人數</text><rect x=\"432\" y=\"4\" width=\"120\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">假日日間活動人數</text><rect x=\"2\" y=\"36\" width=\"70\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">甲區</text><rect x=\"72\" y=\"36\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">577,007</text><rect x=\"192\" y=\"36\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">461,811</text><rect x=\"312\" y=\"36\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">574,620</text><rect x=\"432\" y=\"36\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">552,865</text><rect x=\"2\" y=\"68\" width=\"70\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">乙區</text><rect x=\"72\" y=\"68\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">426,580</text><rect x=\"192\" y=\"68\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">343,466</text><rect x=\"312\" y=\"68\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">424,259</text><rect x=\"432\" y=\"68\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">395,318</text></svg>\n\n根據題文，該生以GIS的屬性資料分析方法，從表3計算各區每日淨通勤人數的估計值，下列何者最可能是其使用的操作步驟？",
+    "options": [
+      "平日夜間停留人數的欄位數值加上平日日間活動人數的欄位數值",
+      "平日日間活動人數的欄位數值減去平日夜間停留人數的欄位數值",
+      "假日日間活動人數的欄位數值加上假日夜間停留人數的欄位數值",
+      "假日日間活動人數的欄位數值減去平日日間活動人數的欄位數值"
+    ],
+    "answerIndex": 1,
+    "explanation": "通勤發生在平日。平日白天在該區活動的人數減去晚上在該區停留（居住）的人數，就是每日淨移入的通勤人數；結果為正表示淨移入。\n\n故選 (B)"
+  },
+  {
+    "id": "114-ast-geo-non-41",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "fill",
+    "points": 4,
+    "selfGrade": true,
+    "question": "39-41 為題組\n某生欲以人口活動強度來進行地理課題的探究，他從文獻分析中發現第三級產業活動興盛區，主要為零售百貨業或服務業等產業所聚集，具有地價高和易達性高的特色，由於這些區域提供許多就業機會，吸引鄰近人口跨區通勤來此工作。該生因此想探討北臺灣（北北基桃）每日淨通勤人數較多的區域，是否即為第三級產業活動興盛區。\n為了探究這個課題，他從國土資訊系統社會經濟資料服務平台中，下載以鄉鎮區為統計單元的「電信信令人口統計」GIS資料，該資料是以手機使用人口的位置，推估各個鄉鎮區的人口活動數量，表3為該資料的部分屬性資料表。該生利用GIS的屬性分析功能計算出各鄉鎮區的每日淨通勤人數估計值後，將研究成果繪製成圖10。\n該生從圖10的資訊發現，臺北市淨通勤人數較多的區域，的確與第三級產業活動興盛區高度重疊。請問：\n\n表3\n<svg viewBox=\"0 0 554 104\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">行政區</text><rect x=\"72\" y=\"4\" width=\"120\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">平日夜間停留人數</text><rect x=\"192\" y=\"4\" width=\"120\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">平日日間活動人數</text><rect x=\"312\" y=\"4\" width=\"120\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">假日夜間停留人數</text><rect x=\"432\" y=\"4\" width=\"120\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"24\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">假日日間活動人數</text><rect x=\"2\" y=\"36\" width=\"70\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">甲區</text><rect x=\"72\" y=\"36\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">577,007</text><rect x=\"192\" y=\"36\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">461,811</text><rect x=\"312\" y=\"36\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">574,620</text><rect x=\"432\" y=\"36\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"56\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">552,865</text><rect x=\"2\" y=\"68\" width=\"70\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">乙區</text><rect x=\"72\" y=\"68\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">426,580</text><rect x=\"192\" y=\"68\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">343,466</text><rect x=\"312\" y=\"68\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">424,259</text><rect x=\"432\" y=\"68\" width=\"120\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"88\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">395,318</text></svg>\n\n老師審視該生的研究結果，發現缺乏桃園市的分析與推論，要求他補齊。如果你是該生，根據題文與圖10的資訊，從桃園市淨通勤人數大於1萬人區域內的產業類別，推論臺北市的研究結果在桃園市是否成立？請回答是或否，並以40字內陳述判斷的理由（4分）。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-41.png\" alt=\"圖10 北北基桃淨通勤人數大於 1 萬人的區域（網點）：臺北市的網點區內有多家百貨公司與火車站；桃園市的網點區範圍大，區內標示多個工業區，百貨公司只在網點區外\" style=\"width:100%;max-width:460px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "否",
+      "桃園市每日淨通勤人數大於 1 萬人的區域內，多為工業區（二級產業活動興盛區）"
+    ],
+    "blankLabels": [
+      "在桃園市是否成立",
+      "判斷理由（40 字內）"
+    ],
+    "explanation": "圖 10 中桃園市淨通勤人數大於 1 萬人的區域內分布許多工業區，百貨公司反而在區域外，吸引通勤人口的是第二級產業而非第三級產業，所以臺北市的結論在桃園市不成立。\n\n評分重點：寫「否」，並說明淨通勤人數多的區域以工業區（二級產業）為主。"
+  },
+  {
+    "id": "114-ast-geo-42",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "42-43 為題組\n閱讀以下資料：\n資料一：2024年全球前兩大太陽能發電國家的優勢條件\n<svg viewBox=\"0 0 544 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"270\" height=\"70\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"43\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">一、中國</text><rect x=\"272\" y=\"4\" width=\"270\" height=\"70\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"407\" y=\"43\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">二、美國</text><rect x=\"2\" y=\"74\" width=\"270\" height=\"70\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"113\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">中國憑藉政策補貼與完整供應鏈，處於全球太陽能板製造的主導地位，主要將產品出口到歐洲與北美等地區。</text><rect x=\"272\" y=\"74\" width=\"270\" height=\"70\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"407\" y=\"113\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">美國在太陽能發電容量上處於領先地位，大片土地日照時間充足，陽光帶等州見證了太陽能的大規模擴張。</text></svg>\n資料二：2025年美國總統川普上任後不久即揮舞關稅大刀，擬對許多國家收取高額關稅，尤其對中國的關稅稅率特別高，可能引發全球貿易減速。氣候與產業專家認為，全球貿易減速可能讓碳排放短暫下降，但長期恐不利於美國能源轉型與綠色科技。請問：\n\n根據題文，圖中何處最可能是美國發展太陽能光電的州別？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-geo-42.png\" alt=\"美國地圖：甲在東北部（紐約州一帶），乙在五大湖區（威斯康辛州一帶），丙在西北部（華盛頓州），丁在西南部（加州南部）\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "資料一指出美國陽光帶各州大規模發展太陽能。丁在加州南部，屬陽光帶，日照充足、土地廣大。甲、乙在東北與五大湖區，丙在多雨的西北太平洋沿岸。\n\n故選 (D)"
+  },
+  {
+    "id": "114-ast-geo-non-43",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "地理",
+    "type": "fill",
+    "points": 6,
+    "selfGrade": true,
+    "question": "42-43 為題組\n閱讀以下資料：\n資料一：2024年全球前兩大太陽能發電國家的優勢條件\n<svg viewBox=\"0 0 544 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"270\" height=\"70\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"43\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">一、中國</text><rect x=\"272\" y=\"4\" width=\"270\" height=\"70\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"407\" y=\"43\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">二、美國</text><rect x=\"2\" y=\"74\" width=\"270\" height=\"70\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"113\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">中國憑藉政策補貼與完整供應鏈，處於全球太陽能板製造的主導地位，主要將產品出口到歐洲與北美等地區。</text><rect x=\"272\" y=\"74\" width=\"270\" height=\"70\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"407\" y=\"113\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">美國在太陽能發電容量上處於領先地位，大片土地日照時間充足，陽光帶等州見證了太陽能的大規模擴張。</text></svg>\n資料二：2025年美國總統川普上任後不久即揮舞關稅大刀，擬對許多國家收取高額關稅，尤其對中國的關稅稅率特別高，可能引發全球貿易減速。氣候與產業專家認為，全球貿易減速可能讓碳排放短暫下降，但長期恐不利於美國能源轉型與綠色科技。請問：\n\n資料二中氣候與產業專家就美國對中國提高關稅政策後，對全球貿易減速之影響提出的兩個觀點，僅根據資料一作為其觀點的佐證，各以30字內寫出其可能所持的佐證說明（6分）。\n觀點一：全球貿易減速可能讓碳排放短暫下降\n觀點二：長期恐不利於美國能源轉型與綠色科技",
+    "blanks": [
+      "中國到美國的（太陽能板）出口貿易量下降，運輸量降低",
+      "美國未來發展光電所需的太陽能板成本增加"
+    ],
+    "blankLabels": [
+      "觀點一的佐證（30 字內）",
+      "觀點二的佐證（30 字內）"
+    ],
+    "explanation": "中國是太陽能板的主要製造與出口國，產品大量銷往北美。高關稅使中國輸美的貿易量與運輸量減少，運輸碳排短暫下降；但美國大規模擴張太陽能發電需要大量太陽能板，進口成本提高，長期不利能源轉型。\n\n評分重點：觀點一須寫出「中國到美國的出口（貿易、運輸）量下降」；觀點二須寫出「美國的太陽能板成本增加」。"
   }
 ]
