@@ -225208,5 +225208,338 @@
       "最大獲利"
     ],
     "explanation": "可行解區域為四邊形，頂點：\n• $y = 2x$ 與 $x = 3y$ 交於 $(0, 0)$。\n• $y = 2x$ 與 $x + y = 24$：$(8, 16)$。\n• $x + y = 24$ 與 $x = 15$：$(15, 9)$。\n• $x = 15$ 與 $x = 3y$：$(15, 5)$。\n目標函數 $6x + 7y$ 在頂點的值：0、160、153、125。\n最大獲利 160 萬元（甲 8 公畝、乙 16 公畝）。"
+  },
+  {
+    "id": "113-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 如圖所示，有一 $\\triangle ABC$，已知 $\\overline{BC}$ 邊上的高 $\\overline{AD} = 12$，且 $\\tan\\angle B = \\dfrac32$、$\\tan\\angle C = \\dfrac23$。試問 $\\overline{BC}$ 的長度為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-ma-01.png\" alt=\"三角形 ABC，D 在 BC 上且 AD 垂直 BC\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "20",
+      "21",
+      "24",
+      "25",
+      "26"
+    ],
+    "answerIndex": 4,
+    "explanation": "$\\overline{BD} = \\dfrac{\\overline{AD}}{\\tan B} = \\dfrac{12}{3/2} = 8$，$\\overline{DC} = \\dfrac{12}{2/3} = 18$，$\\overline{BC} = 26$。\n\n故選 (E)"
+  },
+  {
+    "id": "113-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 坐標平面上，橢圓 $\\Gamma$ 的方程式為 $\\dfrac{x^2}{a^2} + \\dfrac{y^2}{6^2} = 1$（其中 $a$ 為正實數）。若將 $\\Gamma$ 以原點 $O$ 為中心，沿 $x$ 軸方向伸縮為 2 倍、沿 $y$ 軸方向伸縮為 3 倍後，所得到的新圖形會通過點 $(18, 0)$。試問下列哪一個選項是 $\\Gamma$ 的焦點？",
+    "options": [
+      "$(0, 3\\sqrt3)$",
+      "$(-3\\sqrt5, 0)$",
+      "$(0, 6\\sqrt{13})$",
+      "$(-3\\sqrt{13}, 0)$",
+      "$(9, 0)$"
+    ],
+    "answerIndex": 1,
+    "explanation": "伸縮後新圖形為 $\\dfrac{x^2}{(2a)^2} + \\dfrac{y^2}{18^2} = 1$，過 $(18, 0)$ 得 $2a = 18$，$a = 9$。\n$\\Gamma: \\dfrac{x^2}{81} + \\dfrac{y^2}{36} = 1$，長軸在 $x$ 軸，$c = \\sqrt{81 - 36} = 3\\sqrt5$，焦點 $(\\pm3\\sqrt5, 0)$。\n\n故選 (B)"
+  },
+  {
+    "id": "113-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 想在 $5\\times5$ 的棋盤上擺放 4 個相同的西洋棋的城堡棋子。由於城堡會將同一行或是同一列的棋子吃掉，故擺放時規定每一行與每一列最多只能擺放一個城堡。在第一列的第一、三、五格（如圖示畫叉的格子）不擺放的情況下，試問共有多少種擺放方式？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/113-ast-ma-03.png\" alt=\"5×5 棋盤，第一列的第 1、3、5 格畫叉\" style=\"width:100%;max-width:170px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "216",
+      "240",
+      "288",
+      "312",
+      "360"
+    ],
+    "answerIndex": 3,
+    "explanation": "• 不加限制：選 4 列、4 行再一一配對：$\\dbinom54\\dbinom54\\cdot4! = 600$。\n• 第一列放在第 1、3、5 格之一：選格 3 種，其餘 3 個放在剩下 4 列 4 行：$\\dbinom43\\dbinom43\\cdot3! = 96$，共 $3\\times96 = 288$。\n$600 - 288 = 312$。\n\n故選 (D)"
+  },
+  {
+    "id": "113-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 一遊戲廠商將舉辦抽獎活動，廠商公告每次抽獎需使用掉一個代幣，且每次抽獎的中獎機率皆為 $\\dfrac{1}{10}$。某甲決定先存若干個代幣，並在活動開始後進行抽獎，直到用完所有代幣才停止。試選出正確的選項。",
+    "options": [
+      "某甲中獎一次所需要抽獎次數的期望值為 10",
+      "某甲抽獎兩次就中獎一次以上的機率為 0.2",
+      "某甲抽獎 10 次都沒中獎的機率小於抽獎 1 次就中獎的機率",
+      "某甲至少要存 22 個代幣，才能保證中獎的機率大於 0.9",
+      "某甲只要存足夠多的代幣，就可以保證中獎的機率為 1"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "• (A) 正確：幾何分配的期望值 $\\dfrac{1}{p} = 10$。\n• (B) 錯誤：$1 - 0.9^2 = 0.19$。\n• (C) 錯誤：$0.9^{10} \\approx 0.349 > 0.1$。\n• (D) 正確：需 $0.9^n < 0.1$，$n > \\dfrac{-1}{\\log0.9} = \\dfrac{1}{1 - 2\\log3} \\approx \\dfrac{1}{0.0458} \\approx 21.8$，至少 22 個。\n• (E) 錯誤：$1 - 0.9^n < 1$ 恆成立。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "113-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 設 $f(x)$ 為三次實係數多項式。已知 $f(-2 - 3i) = 0$（其中 $i = \\sqrt{-1}$），且 $f(x)$ 除以 $x^2 + x - 2$ 的餘式為 18。試選出正確的選項。",
+    "options": [
+      "$f(2 + 3i) = 0$",
+      "$f(-2) = 18$",
+      "$f(x)$ 的三次項係數為負",
+      "$f(x) = 0$ 恰有一正實根",
+      "$y = f(x)$ 圖形的對稱中心在第一象限"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "實係數，$-2 \\pm 3i$ 都是根，$f(x) = k(x^2 + 4x + 13)(x - r)$。\n$x^2 + x - 2 = (x + 2)(x - 1)$，餘式 18 表示 $f(1) = f(-2) = 18$：\n$18k(1 - r) = 18$、$9k(-2 - r) = 18$，相除得 $\\dfrac{1 - r}{-2 - r} = \\dfrac12$，$r = 4$，$k = -\\dfrac13$。\n• (A) 錯誤：根為 $-2 \\pm 3i$ 與 4。\n• (B) 正確。\n• (C) 正確：$k = -\\dfrac13$。\n• (D) 正確：唯一實根 4。\n• (E) 錯誤：三根和 $= 0$，對稱中心 $x = 0$；$f(0) = -\\dfrac13\\cdot13\\cdot(-4) = \\dfrac{52}{3}$，在 $y$ 軸上。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "113-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 坐標空間中，考慮滿足內積 $\\vec u\\cdot\\vec v = \\sqrt{15}$ 與外積 $\\vec u\\times\\vec v = (-1, 0, 3)$ 的兩向量 $\\vec u$、$\\vec v$。試選出正確的選項。",
+    "options": [
+      "$\\vec u$ 與 $\\vec v$ 的夾角 $\\theta$（其中 $0 \\le \\theta \\le \\pi$）大於 $\\dfrac{\\pi}{4}$",
+      "$\\vec u$ 可能為 $(1, 0, -1)$",
+      "$|\\vec u| + |\\vec v| \\ge 2\\sqrt5$",
+      "若已知 $\\vec v$，則 $\\vec u$ 可以被唯一決定",
+      "若已知 $|\\vec u| + |\\vec v|$，則 $|\\vec v|$ 可以被唯一決定"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "$|\\vec u||\\vec v|\\cos\\theta = \\sqrt{15}$，$|\\vec u||\\vec v|\\sin\\theta = |(-1, 0, 3)| = \\sqrt{10}$。\n• (A) 錯誤：$\\tan\\theta = \\sqrt{\\dfrac{10}{15}} < 1$，$\\theta < \\dfrac{\\pi}{4}$。\n• (B) 錯誤：$\\vec u$ 必垂直 $\\vec u\\times\\vec v$，但 $(1, 0, -1)\\cdot(-1, 0, 3) = -4 \\ne 0$。\n• (C) 正確：$|\\vec u||\\vec v| = \\sqrt{15 + 10} = 5$，由算幾不等式 $|\\vec u| + |\\vec v| \\ge 2\\sqrt5$。\n• (D) 正確：$\\vec u$ 沿 $\\vec v$ 的分量由內積決定，垂直 $\\vec v$ 的分量由外積決定（$\\vec u_\\perp = \\dfrac{\\vec v\\times(\\vec u\\times\\vec v)}{|\\vec v|^2}$），所以唯一。\n• (E) 錯誤：$|\\vec u|$、$|\\vec v|$ 是 $t^2 - st + 5 = 0$ 的兩根，可以互換，一般有兩種可能。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "113-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 坐標平面上，考慮兩函數 $f(x) = x^5 - 5x^3 + 5x^2 + 5$ 與 $g(x) = \\sin\\left(\\dfrac{\\pi x}{3} + \\dfrac{\\pi}{2}\\right)$ 的函數圖形。試選出正確的選項。",
+    "options": [
+      "$f'(1) = 0$",
+      "$y = f(x)$ 在閉區間 $[0, 2]$ 為遞增",
+      "$y = f(x)$ 在閉區間 $[0, 2]$ 為凹向上",
+      "對任意實數 $x$，$g(x + 6\\pi) = g(x)$",
+      "$y = f(x)$ 與 $y = g(x)$ 在閉區間 $[3, 4]$ 皆為遞增"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "$f'(x) = 5x^4 - 15x^2 + 10x = 5x(x - 1)^2(x + 2)$；$g(x) = \\cos\\dfrac{\\pi x}{3}$，週期 6。\n• (A) 正確。\n• (B) 正確：$x \\in [0, 2]$ 時 $f'(x) \\ge 0$。\n• (C) 錯誤：$f''(x) = 20x^3 - 30x + 10$，$f''\\left(\\dfrac12\\right) = 2.5 - 15 + 10 < 0$。\n• (D) 錯誤：$6\\pi$ 不是 6 的整數倍，例如 $g(0) = 1$，$g(6\\pi) = \\cos2\\pi^2 \\ne 1$。\n• (E) 正確：$[3, 4]$ 上 $f' > 0$；$\\dfrac{\\pi x}{3} \\in \\left[\\pi, \\dfrac{4\\pi}{3}\\right]$，$\\cos$ 在 $[\\pi, 2\\pi]$ 遞增。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "113-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 設 $z$ 為非零複數，且設 $\\alpha = |z|$、$\\beta$ 為 $z$ 的輻角，其中 $0 \\le \\beta < 2\\pi$。對任一正整數 $n$，設實數 $x_n$ 與 $y_n$ 分別為 $z^n$ 的實部與虛部。試選出正確選項。",
+    "options": [
+      "若 $\\alpha = 1$ 且 $\\beta = \\dfrac{3\\pi}{7}$，則 $x_{10} = x_3$",
+      "若 $y_3 = 0$，則 $y_6 = 0$",
+      "若 $x_3 = 1$，則 $x_6 = 1$",
+      "若數列 $\\langle y_n\\rangle$ 收斂，則 $\\alpha \\le 1$",
+      "若數列 $\\langle x_n\\rangle$ 收斂，則數列 $\\langle y_n\\rangle$ 也收斂"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "$x_n = \\alpha^n\\cos n\\beta$，$y_n = \\alpha^n\\sin n\\beta$。\n• (A) 錯誤：$x_{10} = \\cos\\dfrac{30\\pi}{7} = \\cos\\dfrac{2\\pi}{7}$，$x_3 = \\cos\\dfrac{9\\pi}{7} = \\cos\\dfrac{5\\pi}{7}$，不相等。\n• (B) 正確：$\\sin3\\beta = 0 \\Rightarrow \\sin6\\beta = 2\\sin3\\beta\\cos3\\beta = 0$。\n• (C) 錯誤：$x_6 = \\alpha^6(2\\cos^23\\beta - 1) = 2x_3^2 - \\alpha^6 = 2 - \\alpha^6$，$\\alpha \\ne 1$ 時不等於 1（例如 $z^3 = 1 + i$）。\n• (D) 錯誤：$z = 2$ 時 $y_n = 0$ 收斂，但 $\\alpha = 2$。\n• (E) 正確：$\\alpha < 1$ 時兩數列都收斂到 0；$\\alpha \\ge 1$ 時 $\\langle x_n\\rangle$ 收斂只能 $\\alpha = 1$ 且 $\\beta = 0$（此時 $y_n = 0$）；其他情形 $\\cos n\\beta$ 不會趨近定值，$x_n$ 發散。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "113-ast-ma-09",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "9. 設 $a, b, c, d$ 為實數。已知兩聯立方程組 $\\begin{cases} ax + by = 2 \\\\ cx + dy = 1 \\end{cases}$、$\\begin{cases} ax + by = -1 \\\\ cx + dy = -1 \\end{cases}$ 的增廣矩陣經過相同的列運算後，分別得到 $\\left[\\begin{array}{cc|c} 1 & -1 & 3 \\\\ 0 & 1 & 2 \\end{array}\\right]$、$\\left[\\begin{array}{cc|c} 1 & -1 & 2 \\\\ 0 & 1 & -1 \\end{array}\\right]$，則聯立方程組 $\\begin{cases} ax + by = 0 \\\\ cx + dy = 1 \\end{cases}$ 的解為 $x =$ ⑨-1 ⑨-2，$y =$ ⑨-3。",
+    "blanks": [
+      "-",
+      "7",
+      "0"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "7"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "blankLabels": [
+      "9-1",
+      "9-2",
+      "9-3"
+    ],
+    "explanation": "列運算是線性的：常數項 $\\begin{bmatrix} 2 \\\\ 1 \\end{bmatrix} \\to \\begin{bmatrix} 3 \\\\ 2 \\end{bmatrix}$、$\\begin{bmatrix} -1 \\\\ -1 \\end{bmatrix} \\to \\begin{bmatrix} 2 \\\\ -1 \\end{bmatrix}$。\n$\\begin{bmatrix} 0 \\\\ 1 \\end{bmatrix} = -1\\begin{bmatrix} 2 \\\\ 1 \\end{bmatrix} - 2\\begin{bmatrix} -1 \\\\ -1 \\end{bmatrix}$，所以它變成 $-\\begin{bmatrix} 3 \\\\ 2 \\end{bmatrix} - 2\\begin{bmatrix} 2 \\\\ -1 \\end{bmatrix} = \\begin{bmatrix} -7 \\\\ 0 \\end{bmatrix}$。\n解 $\\left[\\begin{array}{cc|c} 1 & -1 & -7 \\\\ 0 & 1 & 0 \\end{array}\\right]$：$y = 0$，$x = -7$。"
+  },
+  {
+    "id": "113-ast-ma-10",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "10. 坐標平面上，設 $\\Gamma$ 為以原點為圓心的圓，$P$ 為 $\\Gamma$ 與 $x$ 軸的其中一個交點。已知通過 $P$ 點且斜率為 $\\dfrac12$ 的直線交 $\\Gamma$ 於另一點 $Q$，且 $\\overline{PQ} = 1$，則 $\\Gamma$ 的半徑為 $\\dfrac{\\sqrt{⑩\\text{-}1}}{⑩\\text{-}2}$。（化為最簡根式）",
+    "blanks": [
+      "5",
+      "4"
+    ],
+    "blankLabels": [
+      "10-1",
+      "10-2"
+    ],
+    "explanation": "設半徑 $r$、$P(r, 0)$，直線 $x - 2y - r = 0$，圓心到直線距離 $\\dfrac{r}{\\sqrt5}$。\n弦長 $2\\sqrt{r^2 - \\dfrac{r^2}{5}} = \\dfrac{4r}{\\sqrt5} = 1$，$r = \\dfrac{\\sqrt5}{4}$。"
+  },
+  {
+    "id": "113-ast-ma-11",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "11. 設實數 $a_1, a_2, \\dots, a_9$ 是公差為 2 的等差數列，其中 $a_1 \\ne 0$ 且 $a_3 > 0$。若 $\\log_2a_3, \\log_2b, \\log_2a_9$ 三數依序也成等差數列，其中 $b$ 為 $a_4, a_5, a_6, a_7, a_8$ 其中一數，則 $a_9 = \\dfrac{⑪\\text{-}1\\ ⑪\\text{-}2}{⑪\\text{-}3}$。（化為最簡分數）",
+    "blanks": [
+      "2",
+      "5",
+      "2"
+    ],
+    "blankLabels": [
+      "11-1",
+      "11-2",
+      "11-3"
+    ],
+    "explanation": "對數成等差 $\\iff b^2 = a_3a_9$。令 $t = a_1$，$a_3 = t + 4$、$a_9 = t + 16$、$b = t + m$（$m = 6, 8, 10, 12, 14$）：\n$$(t + m)^2 = (t + 4)(t + 16) \\implies t = \\frac{64 - m^2}{2m - 20}$$\n• $m = 6$：$t = -\\dfrac72$，$a_3 = \\dfrac12 > 0$ ✓。\n• $m = 8$：$t = 0$，不合；$m = 10$：無解；$m = 12, 14$：$t = -20, -\\dfrac{33}{2}$，$a_3 < 0$ 不合。\n所以 $a_9 = -\\dfrac72 + 16 = \\dfrac{25}{2}$。"
+  },
+  {
+    "id": "113-ast-ma-12",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 4,
+    "question": "【第 12-14 題為題組】坐標空間中，考慮三個平面 $E_1: x + y + z = 7$、$E_2: x - y + z = 3$、$E_3: x - y - z = -5$。令 $E_1$ 與 $E_2$ 相交的直線為 $L_3$；$E_2$ 與 $E_3$ 相交的直線為 $L_1$；$E_3$ 與 $E_1$ 相交的直線為 $L_2$。根據上述，試回答下列問題。\n12. 已知三直線 $L_1$、$L_2$、$L_3$ 有共同交點，試求此共同交點 $P$ 的坐標。（非選擇題，4 分）",
+    "selfGrade": true,
+    "blanks": [
+      "$P(1, 2, 4)$"
+    ],
+    "blankLabels": [
+      "P"
+    ],
+    "explanation": "三平面的交點：$E_1 + E_3$：$2x = 2$，$x = 1$；$E_1 - E_2$：$2y = 4$，$y = 2$；代回 $E_1$：$z = 4$。$P(1, 2, 4)$。"
+  },
+  {
+    "id": "113-ast-ma-13",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 4,
+    "question": "【第 12-14 題為題組】坐標空間中，考慮三個平面 $E_1: x + y + z = 7$、$E_2: x - y + z = 3$、$E_3: x - y - z = -5$。令 $E_1$ 與 $E_2$ 相交的直線為 $L_3$；$E_2$ 與 $E_3$ 相交的直線為 $L_1$；$E_3$ 與 $E_1$ 相交的直線為 $L_2$。根據上述，試回答下列問題。\n13. 試說明 $L_1$、$L_2$、$L_3$ 中，任兩直線所夾的銳角皆為 $60^\\circ$。（註：令 $L_1$ 與 $L_2$ 所夾的銳角為 $\\alpha$，$L_2$ 與 $L_3$ 所夾的銳角為 $\\beta$，$L_3$ 與 $L_1$ 所夾的銳角為 $\\gamma$）（非選擇題，4 分）",
+    "selfGrade": true,
+    "blanks": [
+      "方向向量 (1,1,0)、(0,1,-1)、(1,0,-1)，兩兩夾角餘弦皆為 1/2"
+    ],
+    "blankLabels": [
+      "說明"
+    ],
+    "explanation": "方向向量用兩平面法向量的外積：\n• $L_3$：$(1, 1, 1)\\times(1, -1, 1) = (2, 0, -2)$，取 $(1, 0, -1)$。\n• $L_1$：$(1, -1, 1)\\times(1, -1, -1) = (2, 2, 0)$，取 $(1, 1, 0)$。\n• $L_2$：$(1, -1, -1)\\times(1, 1, 1) = (0, -2, 2)$，取 $(0, 1, -1)$。\n三向量長度都是 $\\sqrt2$，兩兩內積都是 1，夾角餘弦 $\\dfrac{1}{\\sqrt2\\cdot\\sqrt2} = \\dfrac12$，所夾銳角都是 $60^\\circ$。"
+  },
+  {
+    "id": "113-ast-ma-14",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 4,
+    "question": "【第 12-14 題為題組】坐標空間中，考慮三個平面 $E_1: x + y + z = 7$、$E_2: x - y + z = 3$、$E_3: x - y - z = -5$。令 $E_1$ 與 $E_2$ 相交的直線為 $L_3$；$E_2$ 與 $E_3$ 相交的直線為 $L_1$；$E_3$ 與 $E_1$ 相交的直線為 $L_2$。根據上述，試回答下列問題。\n14. 若坐標空間中第四個平面 $E_4$ 與 $E_1$、$E_2$、$E_3$ 圍出一個邊長為 $6\\sqrt2$ 的正四面體，試求出 $E_4$ 的方程式（寫成 $x + ay + bz = c$ 的形式）。（非選擇題，4 分）",
+    "selfGrade": true,
+    "blanks": [
+      "$x + y - z = 11$ 或 $x + y - z = -13$"
+    ],
+    "blankLabels": [
+      "E4"
+    ],
+    "explanation": "正四面體以 $P$ 為頂點，三條邊沿 $L_1, L_2, L_3$。取兩兩內積為正（夾 $60^\\circ$）的單位方向 $\\dfrac{(1,1,0)}{\\sqrt2}$、$\\dfrac{(0,1,-1)}{\\sqrt2}$、$\\dfrac{(1,0,-1)}{\\sqrt2}$，另外三頂點距 $P$ 為 $6\\sqrt2$：\n$(7, 8, 4)$、$(1, 8, -2)$、$(7, 2, -2)$，所在平面法向量 $\\propto (1,1,0) + (0,1,-1) + (1,0,-1) = (2, 2, -2)$，得 $x + y - z = 11$。\n三個方向同時取反向也可以：$(-5, -4, 4)$、$(1, -4, 10)$、$(-5, 2, 10)$，得 $x + y - z = -13$。"
+  },
+  {
+    "id": "113-ast-ma-15",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "points": 2,
+    "question": "【第 15-17 題為題組】坐標平面上，設 $\\Gamma$ 為三次函數 $f(x) = x^3 - 9x^2 + 15x - 4$ 的函數圖形。根據上述，試回答下列問題。\n15. 試問下列何者為 $f(x)$ 的導函數？（單選題，2 分）",
+    "options": [
+      "$x^2 - 9x + 15$",
+      "$3x^3 - 18x^2 + 15x - 4$",
+      "$3x^3 - 18x^2 + 15x$",
+      "$3x^2 - 18x + 15$",
+      "$x^2 - 18x + 15$"
+    ],
+    "answerIndex": 3,
+    "explanation": "$f'(x) = 3x^2 - 18x + 15$。\n\n故選 (D)"
+  },
+  {
+    "id": "113-ast-ma-16",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 4,
+    "question": "【第 15-17 題為題組】坐標平面上，設 $\\Gamma$ 為三次函數 $f(x) = x^3 - 9x^2 + 15x - 4$ 的函數圖形。根據上述，試回答下列問題。\n16. 試說明 $P(1, 3)$ 為 $\\Gamma$ 上之一點，並求 $\\Gamma$ 在 $P$ 點的切線 $L$ 的方程式。（非選擇題，4 分）",
+    "selfGrade": true,
+    "blanks": [
+      "$f(1) = 3$；$L: y = 3$"
+    ],
+    "blankLabels": [
+      "說明與切線"
+    ],
+    "explanation": "$f(1) = 1 - 9 + 15 - 4 = 3$，所以 $P$ 在 $\\Gamma$ 上。\n$f'(1) = 3 - 18 + 15 = 0$，切線斜率 0，$L: y = 3$。"
+  },
+  {
+    "id": "113-ast-ma-17",
+    "examType": "分科/指考",
+    "year": 113,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 15-17 題為題組】坐標平面上，設 $\\Gamma$ 為三次函數 $f(x) = x^3 - 9x^2 + 15x - 4$ 的函數圖形。根據上述，試回答下列問題。\n17. 承 16，試求 $\\Gamma$ 和 $L$ 所圍成有界區域的面積。（非選擇題，6 分）",
+    "selfGrade": true,
+    "blanks": [
+      "108"
+    ],
+    "blankLabels": [
+      "面積"
+    ],
+    "explanation": "$f(x) - 3 = x^3 - 9x^2 + 15x - 7 = (x - 1)^2(x - 7)$，交點 $x = 1, 7$，在 $(1, 7)$ 上 $f(x) < 3$。\n令 $u = x - 1$：\n$$\\int_1^7 (x - 1)^2(7 - x)\\,dx = \\int_0^6 u^2(6 - u)\\,du = \\left[2u^3 - \\frac{u^4}{4}\\right]_0^6 = 432 - 324 = 108$$"
   }
 ]
