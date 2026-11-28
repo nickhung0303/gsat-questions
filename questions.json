@@ -227884,5 +227884,305 @@
       "積分值"
     ],
     "explanation": "$f(-1) = (k - 1)^3 = 0$，$k = 1$，$f(x) = (x + 1)^3$。\n$\\displaystyle\\int_0^1(x + 1)^3dx = \\left[\\frac{(x + 1)^4}{4}\\right]_0^1 = \\frac{16 - 1}{4} = \\frac{15}{4}$。"
+  },
+  {
+    "id": "109m-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "1. 便利商店因週年慶而提供折扣優惠，只要消費滿 99 元就可從紙盒中隨機抽一球來決定該筆消費的折扣數（每顆球被抽到的機率相等）。店家已在盒中放了 9 顆球，其中寫著 6 折和 7 折的各有 1 顆、9 折 2 顆、95 折 5 顆。令隨機變數 $X$ 代表消費 100 元的顧客在折扣後需要付的金額（元），若店家想再加入一球使得 $X$ 的期望值等於 86 元，則新加入的那顆球上面所寫的折扣數應為下列哪一個選項？",
+    "options": [
+      "65 折",
+      "75 折",
+      "8 折",
+      "85 折",
+      "9 折"
+    ],
+    "answerIndex": 1,
+    "explanation": "原 9 顆球對應付款：$60 + 70 + 2\\times90 + 5\\times95 = 785$。加入 $x$ 元後共 10 顆：$\\dfrac{785 + x}{10} = 86$，$x = 75$，即 75 折。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "2. 在坐標平面上，$O$ 為原點，考慮直線 $L_1: 5x + 3y = 5$ 與直線 $L_2: 3x + 2y = 6 - 2a$，其中 $a$ 為實數。若直線 $L: 2x + y = 3$ 分別與直線 $L_1$ 及直線 $L_2$ 交於點 $A$ 及點 $B$，則三角形 $OAB$ 的面積為下列哪一個選項？",
+    "options": [
+      "$\\dfrac12|a - 2|$",
+      "$|a - 2|$",
+      "$2|a - 2|$",
+      "$3|a - 2|$",
+      "$6|a - 2|$"
+    ],
+    "answerIndex": 3,
+    "explanation": "代入 $y = 3 - 2x$：\n• $L_1$：$5x + 9 - 6x = 5$，$A(4, -5)$。\n• $L_2$：$3x + 6 - 4x = 6 - 2a$，$B(2a, 3 - 4a)$。\n面積 $= \\dfrac12|4(3 - 4a) - 2a(-5)| = \\dfrac12|12 - 6a| = 3|a - 2|$。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "3. 下列矩陣中，試選出矩陣乘法有意義且等式正確的選項。（註：選項中的 $[-1]$ 與 $[-5]$ 皆為一階方陣）",
+    "options": [
+      "$\\begin{bmatrix} 1 & 2 \\end{bmatrix}[-1] = \\begin{bmatrix} -1 & -2 \\end{bmatrix}$",
+      "$[-1]\\begin{bmatrix} 1 & 2 \\end{bmatrix} = \\begin{bmatrix} -1 \\\\ -2 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}\\begin{bmatrix} 5 & 6 \\end{bmatrix} = \\begin{bmatrix} 17 & 39 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 \\\\ 2 \\end{bmatrix}\\begin{bmatrix} -1 & -2 \\end{bmatrix} = [-5]$",
+      "$\\begin{bmatrix} -1 & 1 \\end{bmatrix}\\begin{bmatrix} 1 & 109 \\\\ 0 & -1 \\end{bmatrix} = \\begin{bmatrix} -1 & -110 \\end{bmatrix}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "矩陣相乘需「前者行數 = 後者列數」。\n• (A) $1\\times2$ 乘 $1\\times1$：無意義。\n• (B) 有意義，但結果是 $1\\times2$ 的 $\\begin{bmatrix} -1 & -2 \\end{bmatrix}$，不是行向量。\n• (C) $2\\times2$ 乘 $1\\times2$：無意義。\n• (D) $2\\times1$ 乘 $1\\times2$ 得 $2\\times2$ 矩陣，不是 $[-5]$。\n• (E) $\\begin{bmatrix} -1 & -109 - 1 \\end{bmatrix} = \\begin{bmatrix} -1 & -110 \\end{bmatrix}$，正確。\n\n故選 (E)"
+  },
+  {
+    "id": "109m-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 坐標平面上，設 $a, b$ 為實數，已知目標函數 $ax + by$ 在平面區域 $\\Omega: \\begin{cases} 4x + y \\le 16 \\\\ -2x + 3y \\le 6 \\\\ x \\ge 0 \\\\ y \\ge 0 \\end{cases}$ 上的最大值為 12，且取得最大值的點不在坐標軸上。試選出正確的選項。",
+    "options": [
+      "$4a + 3b = 12$",
+      "$-\\dfrac ab > -3$",
+      "$-\\dfrac ab < \\dfrac23$",
+      "$b$ 可能為 $-3$",
+      "$b$ 可能為 1"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "$\\Omega$ 的頂點 $(0, 0)$、$(4, 0)$、$(3, 4)$、$(0, 2)$。最大值發生的點不在坐標軸上，只能是唯一的 $(3, 4)$：$3a + 4b = 12$。\n要在 $(3, 4)$ 取得唯一最大值，目標函數的等值線斜率 $-\\dfrac ab$ 須介於兩鄰邊斜率 $-4$ 與 $\\dfrac23$ 之間，且 $b > 0$。\n• (A) 錯誤：應為 $3a + 4b = 12$。\n• (B) 錯誤：$-\\dfrac ab$ 可以是 $-3.5$。\n• (C) 正確。\n• (D) 錯誤：$b > 0$。\n• (E) 正確：$b = 1$、$a = \\dfrac83$，$-\\dfrac ab = -\\dfrac83 \\in (-4, \\dfrac23)$。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "109m-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 當我們打電話到大公司時，電話會透過公司的交換機轉接到所撥的號碼或分機，這個時候就會有等待接通的時間。實際測試發現，如果等待時間小於或等於 0.8 秒，打電話的人會完全沒有等待的感覺（可稱為無感等待），但如果等待時間大於或等於 1.5 秒，打電話的人就會感覺不耐煩（可稱為不耐等待）。某公司交換機的等待時間與相對次數如下圖。圖中最短等待時間為 0.1 秒，最長的等待時間為 2.0 秒，等待時間皆以 0.1 秒單位計，圖中的黑點代表該等待時間的相對次數，如：等待時間為 1.1 秒的相對次數為 12%。根據上述資訊，試選出正確的選項。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-mb-05.png\" alt=\"等待時間 0.1～2.0 秒的相對次數折線圖\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "無感等待所占比例較不耐等待高",
+      "無感等待所占比例達三分之一以上",
+      "發生不耐等待的比例達 10% 以上",
+      "等待時間不到 1.0 秒所占比例達一半以上",
+      "等待時間既非無感等待、也未發生不耐等待所占比例達一半以上"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "讀圖：0.1～0.8 秒為 2, 4, 4, 4, 4, 4, 5, 5，合計 32%；0.9 秒 10%；1.5～2.0 秒為 3, 3, 2, 1, 1, 1，合計 11%。\n• (A) 正確：32% > 11%。\n• (B) 錯誤：32% 未達 $33.\\overline{3}$%。\n• (C) 正確：11%。\n• (D) 錯誤：不到 1.0 秒為 32% + 10% = 42%。\n• (E) 正確：100% − 32% − 11% = 57%。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "109m-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 某甲在坐標平面上點 $(3, 4)$ 的位置，擲一均勻銅板，若出現正面，則以向量 $(1, -1)$ 的方向與大小移動；若出現反面，則以向量 $(-1, -1)$ 的方向與大小移動。到達新位置之後，重複同樣的步驟，直到抵達 $x$ 軸或 $y$ 軸時停止。試選出正確的選項。",
+    "options": [
+      "甲可能到達點 $(0, 0)$",
+      "若甲停在 $y$ 軸，則甲恰好移動 4 次",
+      "甲最後停在 $y$ 軸的機率大於停在 $x$ 軸的機率",
+      "甲最後停在點 $(2, 0)$ 的機率為 0",
+      "甲最後停在點 $(1, 0)$ 與停在點 $(5, 0)$ 的機率相等"
+    ],
+    "answerIndices": [
+      3
+    ],
+    "explanation": "每走一步 $y$ 減 1，$x$ 加減 1。走 $k$ 步後 $y = 4 - k$，$x$ 與 $3 + k$ 同奇偶。\n• (A) 錯誤：到 $y = 0$ 時 $k = 4$，$x$ 為奇數，不會是 0。\n• (B) 錯誤：$x = 0$ 只能在奇數步，連續三次反面在第 3 步停在 $(0, 1)$。\n• (C) 錯誤：停在 $y$ 軸的機率 $\\dfrac18$，停在 $x$ 軸 $\\dfrac78$。\n• (D) 正確：第 4 步時 $x$ 為奇數，不會是 2。\n• (E) 錯誤：$(1, 0)$ 需 1 正 3 反且不能前三次都反：3 種，機率 $\\dfrac{3}{16}$；$(5, 0)$ 需 3 正 1 反：4 種，$\\dfrac{4}{16}$。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "A. 若 $f(x)$ 為二次的實係數多項式函數，且滿足 $f(0) + f(1) = 5$，$f(1) + f(2) = 17$，$f(2) + f(0) = 14$，則 $f(x) =$ ⑦ $x^2 +$ ⑧ $x +$ ⑨。",
+    "blanks": [
+      "3",
+      "0",
+      "1"
+    ],
+    "blankLabels": [
+      "7",
+      "8",
+      "9"
+    ],
+    "explanation": "三式相加 $\\div 2$：$f(0) + f(1) + f(2) = 18$，得 $f(2) = 13$、$f(0) = 1$、$f(1) = 4$。\n設 $f(x) = px^2 + qx + 1$：$p + q = 3$、$4p + 2q = 12$，$p = 3$、$q = 0$。$f(x) = 3x^2 + 0x + 1$。"
+  },
+  {
+    "id": "109m-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "B. 坐標平面上有不共線的三點 $A, B, C$ 且點 $P$ 在線段 $\\overline{BC}$ 上，並令 $\\overrightarrow{AP} = x\\overrightarrow{AB} + y\\overrightarrow{AC}$。若 $\\overline{BP} = \\dfrac12\\overline{CP}$，則 $x$ 的值為 $\\dfrac{⑩}{⑪}$，$y$ 的值為 $\\dfrac{⑫}{⑬}$。（化為最簡分數）",
+    "blanks": [
+      "2",
+      "3",
+      "1",
+      "3"
+    ],
+    "blankLabels": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "explanation": "$BP : PC = 1 : 2$，分點公式 $\\overrightarrow{AP} = \\dfrac23\\overrightarrow{AB} + \\dfrac13\\overrightarrow{AC}$。$x = \\dfrac23$、$y = \\dfrac13$。"
+  },
+  {
+    "id": "109m-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "C. 某實驗室有輻射外洩，危害附近環境。根據調查：該輻射第一天汙染區域是一個以實驗室為中心，半徑 2 公里的圓形區域，如圖中最內圓的圓內區域。第二天與第三天汙染區域逐漸擴大，都是以實驗室為中心，但汙染半徑越來越大的圓形區域，如圖中第二個與第三個同心圓的圓內區域。已知輻射每天汙染區域依照上述同心圓的模式向外擴大區域，而且新增汙染區域之面積都是前一天新增汙染區域面積的 $\\dfrac57$ 倍，在汙染一直持續下去的條件下，全部汙染區域會趨近於半徑為 $\\sqrt{⑭⑮}$ 公里的圓形區域。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109m-ast-mb-C.png\" alt=\"三個同心圓的汙染區域\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "1",
+      "4"
+    ],
+    "blankLabels": [
+      "14",
+      "15"
+    ],
+    "explanation": "第一天面積 $4\\pi$，之後每天新增面積成公比 $\\dfrac57$ 的等比數列：\n$$4\\pi\\left(1 + \\frac57 + \\left(\\frac57\\right)^2 + \\cdots\\right) = \\frac{4\\pi}{1 - 5/7} = 14\\pi$$\n$\\pi r^2 = 14\\pi$，$r = \\sqrt{14}$。"
+  },
+  {
+    "id": "109m-ast-mb-D",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "D. 在所有滿足不等式 $|4 - 3x| < 11$ 的整數中，選取三相異整數（不計順序），而所選取的三數之中位數大於或等於該三數之平均數的選法有 ⑯⑰ 種。",
+    "blanks": [
+      "2",
+      "2"
+    ],
+    "blankLabels": [
+      "16",
+      "17"
+    ],
+    "explanation": "$-11 < 4 - 3x < 11 \\iff -\\dfrac73 < x < 5$，整數 $-2, -1, 0, 1, 2, 3, 4$ 共 7 個。\n三數 $a < b < c$，$b \\ge \\dfrac{a + b + c}{3} \\iff b - a \\ge c - b$。\n共 $\\dbinom73 = 35$ 種；等差（$b - a = c - b$）有 $5 + 3 + 1 = 9$ 種；其餘 26 種中，$b - a > c - b$ 與 $b - a < c - b$ 對稱各半，13 種。\n$13 + 9 = 22$ 種。"
+  },
+  {
+    "id": "109m-ast-mb-non-1-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】據說，「六人國」是因為 200 年前該國僅有 6 個人而得名。人口學家估算：過去 200 年來，已知該國人口數以平均年成長率為 $\\dfrac{1}{16}$ 的速率增加，即平均每年增加的人口數為前一年總人口數的 $\\dfrac{1}{16}$。利用參考數據：$\\log2 \\approx 0.3010$，$\\log3 \\approx 0.4771$，試回答下列問題。\n(1) 已知連續兩年中，第一年「六人國」的人口數為 $a$，第二年的人口數為 $ka$，試求 $k$ 的值。（2 分）",
+    "points": 2,
+    "blanks": [
+      "$k = \\dfrac{17}{16}$"
+    ],
+    "blankLabels": [
+      "k"
+    ],
+    "explanation": "$a + \\dfrac{a}{16} = \\dfrac{17}{16}a$，$k = \\dfrac{17}{16}$。"
+  },
+  {
+    "id": "109m-ast-mb-non-1-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】據說，「六人國」是因為 200 年前該國僅有 6 個人而得名。人口學家估算：過去 200 年來，已知該國人口數以平均年成長率為 $\\dfrac{1}{16}$ 的速率增加，即平均每年增加的人口數為前一年總人口數的 $\\dfrac{1}{16}$。利用參考數據：$\\log2 \\approx 0.3010$，$\\log3 \\approx 0.4771$，試回答下列問題。\n(2) 利用 $\\log16$ 與 $\\log18$ 的近似值，以內差法求 $\\log17$ 的近似值。（計算至小數點後第四位）（4 分）",
+    "points": 4,
+    "blanks": [
+      "log17 ≈ 1.2296"
+    ],
+    "blankLabels": [
+      "log17"
+    ],
+    "explanation": "$\\log16 = 4\\log2 \\approx 1.2040$，$\\log18 = \\log2 + 2\\log3 \\approx 1.2552$。\n17 在中間，$\\log17 \\approx \\dfrac{1.2040 + 1.2552}{2} = 1.2296$。"
+  },
+  {
+    "id": "109m-ast-mb-non-1-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】據說，「六人國」是因為 200 年前該國僅有 6 個人而得名。人口學家估算：過去 200 年來，已知該國人口數以平均年成長率為 $\\dfrac{1}{16}$ 的速率增加，即平均每年增加的人口數為前一年總人口數的 $\\dfrac{1}{16}$。利用參考數據：$\\log2 \\approx 0.3010$，$\\log3 \\approx 0.4771$，試回答下列問題。\n(3) 已知「六人國」現在的人口數很接近 $10^n$（其中 $n$ 為正整數），試求正整數 $n$ 的值。（5 分）",
+    "points": 5,
+    "blanks": [
+      "n = 6"
+    ],
+    "blankLabels": [
+      "n"
+    ],
+    "explanation": "現在人口 $6\\left(\\dfrac{17}{16}\\right)^{200}$，\n$\\log = \\log6 + 200(\\log17 - \\log16) \\approx 0.7781 + 200\\times0.0256 = 5.898$，最接近 6，$n = 6$。"
+  },
+  {
+    "id": "109m-ast-mb-non-2-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】等比數列 $\\langle a_n\\rangle$ 的前三項可表為 $a_1 = x^2 + x + 3$、$a_2 = 2x + 2$、$a_3 = x + 2$，其中 $x$ 為實數。試回答下列問題。\n(1) 試求 $x$ 的所有可能值。（6 分）",
+    "points": 6,
+    "blanks": [
+      "$x = 2$、$\\dfrac{-1 + \\sqrt5}{2}$、$\\dfrac{-1 - \\sqrt5}{2}$"
+    ],
+    "blankLabels": [
+      "x"
+    ],
+    "explanation": "$a_1a_3 = a_2^2$：$(x^2 + x + 3)(x + 2) = (2x + 2)^2$，化簡 $x^3 - x^2 - 3x + 2 = 0$，$(x - 2)(x^2 + x - 1) = 0$。\n$x = 2$ 或 $\\dfrac{-1 \\pm \\sqrt5}{2}$（此時各項皆不為 0）。"
+  },
+  {
+    "id": "109m-ast-mb-non-2-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】等比數列 $\\langle a_n\\rangle$ 的前三項可表為 $a_1 = x^2 + x + 3$、$a_2 = 2x + 2$、$a_3 = x + 2$，其中 $x$ 為實數。試回答下列問題。\n(2) 已知數列 $\\langle a_n\\rangle$ 的每一項都是有理數，試求 $x$ 的值及所對應的公比。（4 分）",
+    "points": 4,
+    "blanks": [
+      "x = 2",
+      "公比 $\\dfrac23$"
+    ],
+    "blankLabels": [
+      "x",
+      "公比"
+    ],
+    "explanation": "每項都是有理數 ⇔ $a_2 = 2x + 2$ 為有理數 ⇔ $x$ 為有理數，所以 $x = 2$：$a_1 = 9$、$a_2 = 6$、$a_3 = 4$，公比 $\\dfrac23$。"
+  },
+  {
+    "id": "109m-ast-mb-non-2-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】等比數列 $\\langle a_n\\rangle$ 的前三項可表為 $a_1 = x^2 + x + 3$、$a_2 = 2x + 2$、$a_3 = x + 2$，其中 $x$ 為實數。試回答下列問題。\n(3) 已知數列 $\\langle a_n\\rangle$ 並不是每一項都是有理數，試求 $x$ 的值及所對應的公比。（5 分）",
+    "points": 5,
+    "blanks": [
+      "$x = \\dfrac{-1 + \\sqrt5}{2}$，公比 $\\dfrac{1 + \\sqrt5}{4}$",
+      "$x = \\dfrac{-1 - \\sqrt5}{2}$，公比 $\\dfrac{1 - \\sqrt5}{4}$"
+    ],
+    "blankLabels": [
+      "情形一",
+      "情形二"
+    ],
+    "explanation": "$x = \\dfrac{-1 \\pm \\sqrt5}{2}$，公比 $= \\dfrac{a_3}{a_2} = \\dfrac{x + 2}{2(x + 1)}$：\n• $x = \\dfrac{-1 + \\sqrt5}{2}$：$\\dfrac{(3 + \\sqrt5)/2}{1 + \\sqrt5} = \\dfrac{3 + \\sqrt5}{2(1 + \\sqrt5)} = \\dfrac{1 + \\sqrt5}{4}$。\n• $x = \\dfrac{-1 - \\sqrt5}{2}$：$\\dfrac{(3 - \\sqrt5)/2}{1 - \\sqrt5} = \\dfrac{1 - \\sqrt5}{4}$。"
   }
 ]
