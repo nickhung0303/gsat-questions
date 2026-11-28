@@ -243041,5 +243041,320 @@
       "頂點"
     ],
     "explanation": "$(2, 0)$ 到焦點距離 $\\sqrt5$，到準線距離 $\\dfrac{|2k + 1|}{\\sqrt{k^2 + 1}} = \\sqrt5$：$k^2 - 4k + 4 = 0$，$k = 2$。\n準線 $2x + y + 1 = 0$。焦點 $(1, 2)$ 到準線的垂足為 $(1, 2) - \\dfrac{5}{5}(2, 1) = (-1, 1)$，頂點為焦點與垂足的中點 $\\left(0, \\dfrac32\\right)$。"
+  },
+  {
+    "id": "93-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "points": 7,
+    "question": "1. 如下圖 $\\angle BAC = \\theta$，$\\angle ABD = \\angle ACD = 90^\\circ$，$\\overline{AB} = a$，$\\overline{BD} = b$。下列選項何者可以表示 $\\overline{CD}$？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-mb-01.png\" alt=\"A、C 在底邊，B 在左上方，D 在 C 的正上方，∠ABD = ∠ACD = 90°\" style=\"width:100%;max-width:140px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$a\\sin\\theta + b\\cos\\theta$",
+      "$a\\sin\\theta - b\\cos\\theta$",
+      "$a\\cos\\theta - b\\sin\\theta$",
+      "$a\\cos\\theta + b\\sin\\theta$",
+      "$a\\sin\\theta + b\\tan\\theta$"
+    ],
+    "answerIndex": 1,
+    "explanation": "取 $A$ 為原點、$\\overrightarrow{AC}$ 為 $x$ 軸正向。由圖，$B$ 在 $A$ 的左上方，$\\theta$ 為鈍角：$B = (a\\cos\\theta, a\\sin\\theta)$。\n$\\overrightarrow{BD} \\perp \\overrightarrow{AB}$ 且指向右上，$D = B + b(\\sin\\theta, -\\cos\\theta)$。$\\overline{CD}$ 是 $D$ 的高度：$a\\sin\\theta - b\\cos\\theta$（$\\cos\\theta < 0$，此值大於 $a\\sin\\theta$）。\n\n故選 (B)"
+  },
+  {
+    "id": "93-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "points": 7,
+    "question": "2. 如下圖所示，線段 $\\overline{AB}$ 的長度為定值，且 $\\overline{AC} : \\overline{CB} = 2 : 1$。保持點 A 在 $y$ 軸上，上下移動，且點 B 在 $x$ 軸上左右移動時，點 C 所經過的路徑會形成一圖形。試問此圖形為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-mb-02.png\" alt=\"A 在 y 軸上、B 在 x 軸上，C 在線段 AB 上\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "一橢圓",
+      "一圓",
+      "一雙曲線",
+      "一菱形",
+      "一線段"
+    ],
+    "answerIndex": 0,
+    "explanation": "設 $A(0, p)$、$B(q, 0)$，$p^2 + q^2 = L^2$。$C = \\dfrac{A + 2B}3 = \\left(\\dfrac{2q}3, \\dfrac p3\\right)$，所以 $\\left(\\dfrac{3x}2\\right)^2 + (3y)^2 = L^2$，是橢圓。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "points": 7,
+    "question": "3. 統計學家克利夫蘭對人體的眼睛詳細研究後發現：我們的眼睛看到圖形面積的大小與此圖形實際面積的 0.7 次方成正比。例如：大圖形是小圖形的 3 倍，眼睛感覺到的只有 $3^{0.7}$（約 2.16）倍。觀察某個國家地圖，感覺全國面積約為某縣面積的 10 倍，試問這國家的實際面積大約是該縣面積的幾倍？［已知 $\\log2 \\approx 0.3010$，$\\log3 \\approx 0.4771$，$\\log7 \\approx 0.8451$］",
+    "options": [
+      "18 倍",
+      "21 倍",
+      "24 倍",
+      "27 倍",
+      "36 倍"
+    ],
+    "answerIndex": 3,
+    "explanation": "實際倍數 $k$ 滿足 $k^{0.7} = 10$，$\\log k = \\dfrac1{0.7} \\approx 1.4286$。$\\log27 = 3\\times0.4771 = 1.4313$ 最接近。\n\n故選 (D)"
+  },
+  {
+    "id": "93-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "points": 7,
+    "question": "4. 由電腦隨機選出 127 個正整數，取其最高位數字（如 35 為 3，110 為 1）所得之次數分佈如下圖。若從這 127 個正整數中任取一個，則其最高位數字為 $d$（$d = 1, 2, \\ldots, 9$）的機率 $P$ 最接近下列哪一選項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93-ast-mb-04.png\" alt=\"最高位數字 1 到 9 的次數直方圖，約為 39, 21, 17, 15, 9, 8, 7, 6, 5\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$P = \\dfrac19$",
+      "$P = \\dfrac12 - \\dfrac1{90}d$",
+      "$P = \\dfrac{(d - 5)^2}{60}$",
+      "$P = \\dfrac25\\cdot\\left(\\dfrac15\\right)^d$",
+      "$P = \\log\\left(1 + \\dfrac1d\\right)$"
+    ],
+    "answerIndex": 4,
+    "explanation": "由圖，$d = 1$ 約占 $\\dfrac{39}{127} \\approx 0.31$，之後逐漸遞減到 $d = 9$ 約 0.04。\n$\\log2 \\approx 0.30$、$\\log1.5 \\approx 0.18$、…、$\\log\\dfrac{10}9 \\approx 0.046$，且九項總和為 $\\log10 = 1$，最吻合。\n(A) 不遞減；(B) 九項和不為 1；(C) 在 $d = 5$ 為 0；(D) $d = 1$ 時只有 0.08。\n\n故選 (E)"
+  },
+  {
+    "id": "93-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 7,
+    "question": "5. 在空間中，一平面與一正立方體相截，若在平面的兩側各有正立方體的 4 個頂點，則其截面的形狀可能是下列哪種圖形？",
+    "options": [
+      "三角形",
+      "四邊形",
+      "五邊形",
+      "六邊形",
+      "八邊形"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "• 平行於一組對面、穿過中間的平面：兩側各 4 個頂點，截面為四邊形（矩形）。\n• 垂直於體對角線且通過中心的平面：兩側各 4 個頂點，截面為正六邊形。\n• 三角形只切掉一個頂點；正立方體只有 6 個面，截面最多六邊形，不可能八邊形。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "93-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 7,
+    "question": "6. 某校要從高一的「忠、孝、仁、愛」四個班級中隨機選取一個班級進行數學抽測。考慮甲、乙兩種抽樣方法：甲方法是從四個班級的導師中隨機選取一人，被選中導師的班級為抽測班級；乙方法是從所有高一學生中隨機選取一名學生，被選中學生的班級為抽測班級。若各班人數都不相同，其中「愛」班人數最多。則下列敘述有哪些是正確的？",
+    "options": [
+      "甲方法中，每位高一學生被抽測的機率相等",
+      "乙方法中，每位高一學生被抽測的機率相等",
+      "甲方法中，四個班級被抽測的機率相等",
+      "乙方法中，四個班級被抽測的機率相等",
+      "「愛」班被抽測的機率，使用甲方法較使用乙方法高"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "• 甲：每班 $\\dfrac14$，每位學生被抽測的機率也都是 $\\dfrac14$。(A)(C) ✓。\n• 乙：班級被抽到的機率與人數成正比，四班不相等；學生被抽測的機率 = 所屬班級的人數比例，也不相等。(B)(D) ✗。\n• (E) ✗：愛班人數最多，乙方法下機率大於 $\\dfrac14$，反而比甲高。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "93-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 7,
+    "question": "A. 設 $a$ 為實數，令 $\\alpha$、$\\beta$ 為二次方程式 $x^2 + ax + (a - 2) = 0$ 的兩個根。試問當 $a$ 為何值時，$|\\alpha - \\beta|$ 有最小值？答：$a =$ ⑦。",
+    "blanks": [
+      "2"
+    ],
+    "blankLabels": [
+      "7"
+    ],
+    "explanation": "$|\\alpha - \\beta|^2 = a^2 - 4(a - 2) = (a - 2)^2 + 4$，$a = 2$ 時最小。"
+  },
+  {
+    "id": "93-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 7,
+    "question": "B. 啦啦隊競賽規定每隊 8 人，且每隊男、女生均至少要有 2 人。某班共有 4 名男生及 7 名女生想參加啦啦隊競賽。若由此 11 人中依規定選出 8 人組隊，則共有 ⑧⑨⑩ 種不同的組隊方法。",
+    "blanks": [
+      "1",
+      "6",
+      "1"
+    ],
+    "blankLabels": [
+      "8",
+      "9",
+      "10"
+    ],
+    "explanation": "男 2 女 6：$\\dbinom42\\dbinom76 = 42$；男 3 女 5：$4\\cdot21 = 84$；男 4 女 4：$1\\cdot35 = 35$。共 161 種。"
+  },
+  {
+    "id": "93-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 7,
+    "question": "C. 阿貴和阿美及其他 8 名同學共 10 名學生輪到本周擔任值日生。本周 5 個上課日每天從尚未當過的同學中抽籤選出 2 位輪值。則阿貴和阿美同一天擔任值日生的機率為 $\\dfrac{⑪}{⑫}$。（以最簡分數表示）",
+    "blanks": [
+      "1",
+      "9"
+    ],
+    "blankLabels": [
+      "11",
+      "12"
+    ],
+    "explanation": "10 人恰好兩兩配成 5 組。阿貴的搭檔是其餘 9 人中任一人的機會相等，是阿美的機率 $\\dfrac19$。"
+  },
+  {
+    "id": "93-ast-mb-D",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 7,
+    "question": "D. 李探長為了找尋槍手的可能發射位置，他設定一空間坐標，先從 $(0, 0, 2)$ 朝向 $(5, 8, 3)$ 發射一固定雷射光束，接著又從點 $(0, 7, a)$ 沿平行於 $x$ 軸方向發射另一雷射光束，試問當 $a$ 為何值時，兩雷射光束會相交？答：$a = \\dfrac{⑬⑭}{⑮}$。",
+    "blanks": [
+      "2",
+      "3",
+      "8"
+    ],
+    "blankLabels": [
+      "13",
+      "14",
+      "15"
+    ],
+    "explanation": "第一道光：$(5t, 8t, 2 + t)$；第二道光：$(s, 7, a)$。$8t = 7$，$t = \\dfrac78$，$a = 2 + \\dfrac78 = \\dfrac{23}8$（此時 $s = \\dfrac{35}8 > 0$）。"
+  },
+  {
+    "id": "93-ast-mb-E",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 7,
+    "question": "E. 當平面上的點 $(x, y)$ 之坐標 $x$ 與 $y$ 都是整數時，稱點 $(x, y)$ 為格子點。數學家知道：坐標平面上三個頂點皆為格子點的三角形之面積可以用公式 $aS + bI + c$ 來表示，其中 $S$ 代表三角形三邊邊上的格子點數，$I$ 是落在三角形內部（不含邊上）的格子點數，$a, b, c$ 是固定的常數。則 $(a, b, c) =$ (⑯.⑰, ⑱, ⑲⑳)。",
+    "blanks": [
+      "0",
+      "5",
+      "1",
+      "-",
+      "1"
+    ],
+    "acceptedBlanks": [
+      [
+        "0"
+      ],
+      [
+        "5"
+      ],
+      [
+        "1"
+      ],
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "1"
+      ]
+    ],
+    "blankLabels": [
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "explanation": "這是皮克定理：面積 $= I + \\dfrac S2 - 1$。也可用特例求：\n$(0,0), (1,0), (0,1)$：$S = 3$、$I = 0$、面積 $\\dfrac12$；$(0,0), (2,0), (0,2)$：$S = 6$、$I = 0$、面積 2；$(0,0), (3,0), (0,3)$：$S = 9$、$I = 1$、面積 $\\dfrac92$。解得 $a = 0.5$、$b = 1$、$c = -1$。"
+  },
+  {
+    "id": "93-ast-mb-non-1-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】南北生技農場今年生產一種植物共 1 萬公斤，該植物每 200 公斤可提煉 1 公斤的中草藥，每 5 公斤可製成 1 公斤的健康食品。中草藥每公斤可獲利 5000 元，健康食品每公斤可獲利 100 元；根據市場調查每年中草藥最大需求量為 30 公斤，健康食品最大需求量是 1800 公斤。如果南北生技農場決定提煉中草藥 $x$ 公斤，並製成健康食品 $y$ 公斤，設 $P$ 為其可獲利潤。\n(1) 試以 $x, y$ 表示 $P$。（3 分）",
+    "points": 3,
+    "blanks": [
+      "$P = 5000x + 100y$"
+    ],
+    "blankLabels": [
+      "P"
+    ],
+    "explanation": "中草藥每公斤獲利 5000 元、健康食品每公斤獲利 100 元。"
+  },
+  {
+    "id": "93-ast-mb-non-1-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】南北生技農場今年生產一種植物共 1 萬公斤，該植物每 200 公斤可提煉 1 公斤的中草藥，每 5 公斤可製成 1 公斤的健康食品。中草藥每公斤可獲利 5000 元，健康食品每公斤可獲利 100 元；根據市場調查每年中草藥最大需求量為 30 公斤，健康食品最大需求量是 1800 公斤。如果南北生技農場決定提煉中草藥 $x$ 公斤，並製成健康食品 $y$ 公斤，設 $P$ 為其可獲利潤。\n(2) 如果想獲得最大利潤，則 $x, y$ 的值為何？說明理由。（8 分）",
+    "points": 8,
+    "blanks": [
+      "$x = 30$、$y = 800$（利潤 230000 元）"
+    ],
+    "blankLabels": [
+      "x, y"
+    ],
+    "explanation": "限制：$200x + 5y \\le 10000$，$0 \\le x \\le 30$，$0 \\le y \\le 1800$。\n每公斤植物做中草藥獲利 $\\dfrac{5000}{200} = 25$ 元，做健康食品 $\\dfrac{100}5 = 20$ 元，應優先做中草藥：$x = 30$ 用掉 6000 公斤，剩 4000 公斤做健康食品 $y = 800$。\n（可行區域頂點 $(0, 1800)$、$(5, 1800)$、$(30, 800)$、$(30, 0)$ 中，$(30, 800)$ 的 $P = 230000$ 最大。）"
+  },
+  {
+    "id": "93-ast-mb-non-2-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】聲音的強度是用每平方公尺多少瓦特（$W/m^2$）來衡量，一般人能感覺出聲音的最小強度為 $I_0 = 10^{-12}$（$W/m^2$）；當測得的聲音強度為 $I$（$W/m^2$）時，所產生的噪音分貝數 $d$ 為 $d(I) = 10\\cdot\\log\\dfrac I{I_0}$。\n(1) 一隻蚊子振動翅膀測得的聲音強度為 $10^{-12}$（$W/m^2$），求其產生的噪音分貝數。（2 分）",
+    "points": 2,
+    "blanks": [
+      "0 分貝"
+    ],
+    "blankLabels": [
+      "分貝"
+    ],
+    "explanation": "$10\\log1 = 0$。"
+  },
+  {
+    "id": "93-ast-mb-non-2-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】聲音的強度是用每平方公尺多少瓦特（$W/m^2$）來衡量，一般人能感覺出聲音的最小強度為 $I_0 = 10^{-12}$（$W/m^2$）；當測得的聲音強度為 $I$（$W/m^2$）時，所產生的噪音分貝數 $d$ 為 $d(I) = 10\\cdot\\log\\dfrac I{I_0}$。\n(2) 汽車製造廠測試發現，某新車以每小時 60 公里速度行駛時，測得的聲音強度為 $10^{-4}$（$W/m^2$），試問此聲音強度產生的噪音為多少分貝？（4 分）",
+    "points": 4,
+    "blanks": [
+      "80 分貝"
+    ],
+    "blankLabels": [
+      "分貝"
+    ],
+    "explanation": "$10\\log\\dfrac{10^{-4}}{10^{-12}} = 10\\times8 = 80$。"
+  },
+  {
+    "id": "93-ast-mb-non-2-3",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】聲音的強度是用每平方公尺多少瓦特（$W/m^2$）來衡量，一般人能感覺出聲音的最小強度為 $I_0 = 10^{-12}$（$W/m^2$）；當測得的聲音強度為 $I$（$W/m^2$）時，所產生的噪音分貝數 $d$ 為 $d(I) = 10\\cdot\\log\\dfrac I{I_0}$。\n(3) 棒球比賽場中，若一支瓦斯汽笛獨鳴，測得的噪音為 70 分貝，則百支瓦斯汽笛同時同地合鳴，被測得的噪音大約為多少分貝？（6 分）",
+    "points": 6,
+    "blanks": [
+      "90 分貝"
+    ],
+    "blankLabels": [
+      "分貝"
+    ],
+    "explanation": "一支：$\\dfrac I{I_0} = 10^7$。一百支強度相加為 $10^9I_0$，$10\\log10^9 = 90$ 分貝。"
   }
 ]
