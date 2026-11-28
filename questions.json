@@ -236543,5 +236543,399 @@
       "證明"
     ],
     "explanation": "$A^2 = \\begin{pmatrix} a^2 + bc & ab + bd \\\\ ca + dc & cb + d^2 \\end{pmatrix}$，各元素都是非負數的積與和，皆 $\\ge 0$。\n第一行和：$a^2 + bc + ca + dc = a(a + c) + c(b + d) = a + c = 1$；\n第二行和：$ab + bd + cb + d^2 = b(a + c) + d(b + d) = b + d = 1$。故 $A^2$ 為轉移矩陣。"
+  },
+  {
+    "id": "99-gsat-math-01",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "points": 5,
+    "question": "1. 若數列 $a_1, a_2, \\ldots, a_k, \\ldots, a_{10}$ 中每一項皆為 1 或 $-1$，則 $a_1 + a_2 + \\cdots + a_k + \\cdots + a_{10}$ 之值有多少種可能？",
+    "options": [
+      "10",
+      "11",
+      "$P^{10}_2$",
+      "$C^{10}_2$",
+      "$2^{10}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "設有 $k$ 項為 $-1$（$k = 0, 1, \\ldots, 10$），和為 $10 - 2k$，共 11 種。\n\n故選 (B)"
+  },
+  {
+    "id": "99-gsat-math-02",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "points": 5,
+    "question": "2. 已知 $a, b$ 為整數且行列式 $\\begin{vmatrix} 5 & a \\\\ b & 7 \\end{vmatrix} = 4$，則絕對值 $|a + b|$ 為何？",
+    "options": [
+      "16",
+      "31",
+      "32",
+      "39",
+      "條件不足，無法確定"
+    ],
+    "answerIndex": 2,
+    "explanation": "$35 - ab = 4$，$ab = 31$ 為質數，$(a, b) = (1, 31), (31, 1), (-1, -31), (-31, -1)$，$|a + b| = 32$。\n\n故選 (C)"
+  },
+  {
+    "id": "99-gsat-math-03",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "points": 5,
+    "question": "3. 箱中有三顆紅球與三顆白球。一摸彩遊戲是從箱中隨機同時抽出兩顆球。如果抽出的兩球顏色不同，則得獎金 100 元；如果兩球顏色相同，則無獎金。請問此遊戲獎金的期望值為何？",
+    "options": [
+      "20 元",
+      "30 元",
+      "40 元",
+      "50 元",
+      "60 元"
+    ],
+    "answerIndex": 4,
+    "explanation": "顏色不同的機率 $\\dfrac{3\\times3}{\\binom62} = \\dfrac9{15} = \\dfrac35$，期望值 60 元。\n\n故選 (E)"
+  },
+  {
+    "id": "99-gsat-math-04",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "points": 5,
+    "question": "4. 坐標平面上給定兩點 $A(1, 0)$ 與 $B(0, 1)$，又考慮另外三點 $P(\\pi, 1)$、$Q(-\\sqrt3, 6)$ 與 $R(2, \\log_432)$。令 $\\triangle PAB$ 的面積為 $p$、$\\triangle QAB$ 的面積為 $q$、$\\triangle RAB$ 的面積為 $r$。請問下列哪一個選項是正確的？",
+    "options": [
+      "$p < q < r$",
+      "$p < r < q$",
+      "$q < p < r$",
+      "$q < r < p$",
+      "$r < q < p$"
+    ],
+    "answerIndex": 0,
+    "explanation": "底 $\\overline{AB}$ 固定，面積正比於到直線 $x + y = 1$ 的距離，即 $|x + y - 1|$：\n$P$：$\\pi \\approx 3.14$；$Q$：$5 - \\sqrt3 \\approx 3.27$；$R$：$\\log_432 = 2.5$，$2 + 2.5 - 1 = 3.5$。\n\n故選 (A)"
+  },
+  {
+    "id": "99-gsat-math-05",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "points": 5,
+    "question": "5. 在密閉的實驗室中，開始時有某種細菌 1 千隻，並且以每小時增加 8% 的速率繁殖。如果依此速率持續繁殖，則 100 小時後細菌的數量最接近下列哪一個選項？",
+    "options": [
+      "9 千隻",
+      "108 千隻",
+      "2200 千隻",
+      "3200 千隻",
+      "32000 千隻"
+    ],
+    "answerIndex": 2,
+    "explanation": "$1.08^{100}$：$\\log1.08 = \\log\\dfrac{2^2\\cdot3^3}{100} = 2(0.3010) + 3(0.4771) - 2 = 0.0333$，乘 100 得 3.33，$10^{3.33} \\approx 2140$，最接近 2200 千隻。\n\n故選 (C)"
+  },
+  {
+    "id": "99-gsat-math-06",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "points": 5,
+    "question": "6. 坐標空間中 $O$ 為原點，點 $A$ 的坐標為 $(1, 2, 1)$。設 $S$ 是以 $O$ 為球心、4 為半徑的球面。請問在 $S$ 上滿足內積 $\\overrightarrow{OA}\\cdot\\overrightarrow{OP} = 6$ 的所有點 $P$ 所成的圖形為何？",
+    "options": [
+      "空集合",
+      "一個點",
+      "兩個點",
+      "一個圓",
+      "兩個圓"
+    ],
+    "answerIndex": 3,
+    "explanation": "$P$ 在平面 $x + 2y + z = 6$ 上，此平面到 $O$ 的距離 $\\dfrac6{\\sqrt6} = \\sqrt6 < 4$，與球面交成一個圓。\n\n故選 (D)"
+  },
+  {
+    "id": "99-gsat-math-07",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "points": 5,
+    "question": "7. 令橢圓 $\\Gamma_1: \\dfrac{x^2}{5^2} + \\dfrac{y^2}{3^2} = 1$、$\\Gamma_2: \\dfrac{x^2}{5^2} + \\dfrac{y^2}{3^2} = 2$、$\\Gamma_3: \\dfrac{x^2}{5^2} + \\dfrac{y^2}{3^2} = \\dfrac{2x}5$ 的長軸長分別為 $l_1$、$l_2$、$l_3$。請問下列哪一個選項是正確的？",
+    "options": [
+      "$l_1 = l_2 = l_3$",
+      "$l_1 = l_2 < l_3$",
+      "$l_1 < l_2 < l_3$",
+      "$l_1 = l_3 < l_2$",
+      "$l_1 < l_3 < l_2$"
+    ],
+    "answerIndex": 3,
+    "explanation": "• $l_1 = 10$。\n• $\\Gamma_2$：$\\dfrac{x^2}{50} + \\dfrac{y^2}{18} = 1$，$l_2 = 10\\sqrt2$。\n• $\\Gamma_3$：配方 $\\dfrac{(x - 5)^2}{25} + \\dfrac{y^2}9 = 1$，只是平移，$l_3 = 10$。\n\n故選 (D)"
+  },
+  {
+    "id": "99-gsat-math-08",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 設 $\\theta_1$、$\\theta_2$、$\\theta_3$、$\\theta_4$ 分別為第一、第二、第三、第四象限角，且都介於 0 與 $2\\pi$ 之間。已知 $|\\cos\\theta_1| = |\\cos\\theta_2| = |\\cos\\theta_3| = |\\cos\\theta_4| = \\dfrac13$，請問下列哪些選項是正確的？",
+    "options": [
+      "$\\theta_1 < \\dfrac\\pi4$",
+      "$\\theta_1 + \\theta_2 = \\pi$",
+      "$\\cos\\theta_3 = -\\dfrac13$",
+      "$\\sin\\theta_4 = \\dfrac{2\\sqrt2}3$",
+      "$\\theta_4 = \\theta_3 + \\dfrac\\pi2$"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "$\\theta_2 = \\pi - \\theta_1$、$\\theta_3 = \\pi + \\theta_1$、$\\theta_4 = 2\\pi - \\theta_1$。\n• (A) ✗：$\\cos\\theta_1 = \\dfrac13 < \\dfrac{\\sqrt2}2$，$\\theta_1 > \\dfrac\\pi4$。\n• (B) ✓。\n• (C) ✓：第三象限 $\\cos < 0$。\n• (D) ✗：第四象限 $\\sin < 0$。\n• (E) ✗：$\\theta_4 - \\theta_3 = \\pi - 2\\theta_1 \\ne \\dfrac\\pi2$（否則 $\\theta_1 = \\dfrac\\pi4$）。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "99-gsat-math-09",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 下列哪些方程式有實數解？",
+    "options": [
+      "$x^3 + x - 1 = 0$",
+      "$2^x + 2^{-x} = 0$",
+      "$\\log_2x + \\log_x2 = 1$",
+      "$\\sin x + \\cos2x = 3$",
+      "$4\\sin x + 3\\cos x = \\dfrac92$"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "• (A) ✓：奇數次實係數方程式必有實根。\n• (B) ✗：左邊恆正。\n• (C) ✗：令 $t = \\log_2x$，$t + \\dfrac1t = 1$ 判別式 $< 0$。\n• (D) ✗：$\\sin x \\le 1$、$\\cos2x \\le 1$，和最多 2。\n• (E) ✓：$4\\sin x + 3\\cos x$ 的最大值為 5 $\\ge \\dfrac92$。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "99-gsat-math-10",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 設 $a_1, a_2, \\ldots, a_n, \\ldots$ 為一實數數列，且對所有的正整數 $n$ 滿足 $a_{n+1} = \\dfrac{n(n + 1)}2 - a_n$。請問下列哪些選項是正確的？",
+    "options": [
+      "如果 $a_1 = 1$，則 $a_2 = 1$",
+      "如果 $a_1$ 是整數，則此數列的每一項都是整數",
+      "如果 $a_1$ 是無理數，則此數列的每一項都是無理數",
+      "$a_2 \\le a_4 \\le \\cdots \\le a_{2n} \\le \\cdots$（$n$ 為正整數）",
+      "如果 $a_k$ 是奇數，則 $a_{k+2}, a_{k+4}, \\ldots, a_{k+2n}, \\ldots$ 都是奇數（$n$ 為正整數）"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "• (A) ✗：$a_2 = 1 - 1 = 0$。\n• (B) ✓：$\\dfrac{n(n + 1)}2$ 為整數。\n• (C) ✓：整數減無理數仍為無理數。\n• (D) ✓：$a_{n+2} - a_n = \\dfrac{(n + 1)(n + 2)}2 - \\dfrac{n(n + 1)}2 = n + 1 > 0$。\n• (E) ✗：$a_{k+2} = a_k + (k + 1)$，$k$ 為偶數時奇偶性改變。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "99-gsat-math-11",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 坐標空間中，直線 $L$ 上距離點 $Q$ 最近的點稱為 $Q$ 在 $L$ 上的投影點。已知 $L$ 為平面 $2x - y = 2$ 上通過點 $(2, 2, 2)$ 的一直線。請問下列哪些選項中的點可能是原點 $O$ 在 $L$ 上的投影點？",
+    "options": [
+      "$(2, 2, 2)$",
+      "$(2, 0, 2)$",
+      "$\\left(\\dfrac45, -\\dfrac25, 0\\right)$",
+      "$\\left(\\dfrac45, -\\dfrac25, -2\\right)$",
+      "$\\left(\\dfrac89, -\\dfrac29, -\\dfrac29\\right)$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "設 $M(2, 2, 2)$，投影點 $Q$ 須在平面上，且 $Q = M$ 或 $\\overrightarrow{OQ}\\perp\\overrightarrow{QM}$。\n• (A) ✓：取 $L$ 的方向同時垂直平面法向量與 $\\overrightarrow{OM}$ 即可。\n• (B) ✗：$4 - 0 \\ne 2$，不在平面上。\n• (C) ✓：在平面上；$\\overrightarrow{OQ}\\cdot\\overrightarrow{QM} = \\dfrac45\\cdot\\dfrac65 - \\dfrac25\\cdot\\dfrac{12}5 + 0 = 0$。\n• (D) ✗：在平面上，但內積 $= 0 + (-2)(4) \\ne 0$。\n• (E) ✓：在平面上；$\\overrightarrow{QM} = \\left(\\dfrac{10}9, \\dfrac{20}9, \\dfrac{20}9\\right)$，內積 $\\dfrac{80 - 40 - 40}{81} = 0$。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "99-gsat-math-12",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 想要了解台灣的公民對某議題支持的程度所作的抽樣調查，依性別區分，所得結果如下表。請問從此次抽樣結果可以得到下列哪些推論？",
+    "svg": "<svg viewBox=\"0 0 434 110\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:520.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"210\" height=\"34\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"25.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"212\" y=\"4\" width=\"110\" height=\"34\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"25.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">女性公民</text><rect x=\"322\" y=\"4\" width=\"110\" height=\"34\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"377\" y=\"25.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">男性公民</text><rect x=\"2\" y=\"38\" width=\"210\" height=\"34\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"59.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">贊成此議題的比例 p̂</text><rect x=\"212\" y=\"38\" width=\"110\" height=\"34\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"59.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.52</text><rect x=\"322\" y=\"38\" width=\"110\" height=\"34\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"377\" y=\"59.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.59</text><rect x=\"2\" y=\"72\" width=\"210\" height=\"34\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"93.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">p̂ 的標準差 √(p̂(1−p̂)/n)</text><rect x=\"212\" y=\"72\" width=\"110\" height=\"34\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"93.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.02</text><rect x=\"322\" y=\"72\" width=\"110\" height=\"34\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"377\" y=\"93.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.04</text></svg>",
+    "options": [
+      "全台灣男性公民贊成此議題的比例大於女性公民贊成此議題的比例",
+      "在 95% 的信心水準之下，全台灣女性公民贊成此議題之比例的信賴區間為 [0.48, 0.56]（計算到小數點後第二位，以下四捨五入）",
+      "此次抽樣的女性公民數少於男性公民數",
+      "如果不區分性別，此次抽樣贊成此議題的比例 $\\hat p$ 介於 0.52 與 0.59 之間",
+      "如果不區分性別，此次抽樣 $\\hat p$ 的標準差 $\\sqrt{\\dfrac{\\hat p(1 - \\hat p)}n}$ 介於 0.02 與 0.04 之間"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "• (A) ✗：抽樣只能估計；兩者的信賴區間 $[0.48, 0.56]$、$[0.51, 0.67]$ 重疊，無法斷定。\n• (B) ✓：$0.52 \\pm 2(0.02)$。\n• (C) ✗：女性 $n = \\dfrac{0.52\\times0.48}{0.02^2} \\approx 624$，男性 $n = \\dfrac{0.59\\times0.41}{0.04^2} \\approx 151$，女性較多。\n• (D) ✓：合併比例是兩者的加權平均。\n• (E) ✗：合併 $n \\approx 775$、$\\hat p \\approx 0.534$，標準差 $\\approx 0.018 < 0.02$。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "99-gsat-math-A",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 坐標平面上有一個平行四邊形 $ABCD$，其中點 $A$ 的坐標為 $(2, 1)$，點 $B$ 的坐標為 $(8, 2)$，點 $C$ 在第一象限且知其 $x$ 坐標為 12。若平行四邊形 $ABCD$ 的面積等於 38 平方單位，則點 $D$ 的坐標為 (⑬, ⑭)。",
+    "blanks": [
+      "6",
+      "8"
+    ],
+    "blankLabels": [
+      "13",
+      "14"
+    ],
+    "explanation": "設 $C(12, y)$，$\\overrightarrow{AB} = (6, 1)$、$\\overrightarrow{BC} = (4, y - 2)$，面積 $|6(y - 2) - 4| = 38$，$y = 9$（另一解 $y = -\\dfrac{11}3$ 不在第一象限）。\n$D = A + \\overrightarrow{BC} = (6, 8)$。"
+  },
+  {
+    "id": "99-gsat-math-B",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 設 $f(x)$ 為滿足下列條件的最低次實係數多項式：$f(x)$ 最高次項的係數為 1，且 $3 - 2i$、$i$、5 皆為方程式 $f(x) = 0$ 的解（其中 $i^2 = -1$）。則 $f(x)$ 之常數項為 ⑮⑯⑰。",
+    "blanks": [
+      "-",
+      "6",
+      "5"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "6"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "blankLabels": [
+      "15",
+      "16",
+      "17"
+    ],
+    "explanation": "實係數 ⇒ 共軛根 $3 + 2i$、$-i$ 也是根。$f(x) = (x^2 - 6x + 13)(x^2 + 1)(x - 5)$，常數項 $13\\cdot1\\cdot(-5) = -65$。"
+  },
+  {
+    "id": "99-gsat-math-C",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 有一個兩列三行的表格如下圖。在六個空格中分別填入數字 1、2、3、4、5、6（不得重複），則 1、2 這兩個數字在同一行或同一列的方法有 ⑱⑲⑳ 種。",
+    "svg": "<svg viewBox=\"0 0 136 96\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:163.2px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"44\" height=\"44\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"24\" y=\"30.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"46\" y=\"4\" width=\"44\" height=\"44\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"68\" y=\"30.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"90\" y=\"4\" width=\"44\" height=\"44\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"30.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"2\" y=\"48\" width=\"44\" height=\"44\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"24\" y=\"74.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"46\" y=\"48\" width=\"44\" height=\"44\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"68\" y=\"74.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"90\" y=\"48\" width=\"44\" height=\"44\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"74.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\"></text></svg>",
+    "blanks": [
+      "4",
+      "3",
+      "2"
+    ],
+    "blankLabels": [
+      "18",
+      "19",
+      "20"
+    ],
+    "explanation": "1、2 的位置（有順序）：同一列 $2\\times3\\times2 = 12$ 種，同一行 $3\\times2 = 6$ 種，共 18 種；其餘 4 個數字任意排 $4! = 24$。$18\\times24 = 432$。"
+  },
+  {
+    "id": "99-gsat-math-D",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "D. 設實數 $a > 0$。若 $x$、$y$ 的方程組 $\\begin{cases} 2x - y = 1 \\\\ x - 2y = a \\\\ x - ay = 122 \\end{cases}$ 有解，則 $a =$ ㉑㉒。",
+    "blanks": [
+      "1",
+      "4"
+    ],
+    "blankLabels": [
+      "21",
+      "22"
+    ],
+    "explanation": "由前兩式：$x = \\dfrac{2 - a}3$、$y = \\dfrac{1 - 2a}3$。代入第三式：$2 - 2a + 2a^2 = 366$，$a^2 - a - 182 = 0$，$(a - 14)(a + 13) = 0$，$a = 14$。"
+  },
+  {
+    "id": "99-gsat-math-E",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "E. 如右圖，直角三角形 $ABD$ 中，$\\angle A$ 為直角，$C$ 為 $\\overline{AD}$ 邊上的點。已知 $\\overline{BC} = 6$，$\\overline{AB} = 5$，$\\angle ABD = 2\\angle ABC$，則 $\\overline{BD} = \\dfrac{㉓㉔}{㉕}$。（化成最簡分數）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-gsat-math-E.png\" alt=\"直角三角形 ABD，C 在 AD 上\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "9",
+      "0",
+      "7"
+    ],
+    "blankLabels": [
+      "23",
+      "24",
+      "25"
+    ],
+    "explanation": "$\\cos\\angle ABC = \\dfrac56$，$\\cos\\angle ABD = 2\\cdot\\dfrac{25}{36} - 1 = \\dfrac7{18}$。$\\overline{BD} = \\dfrac{\\overline{AB}}{\\cos\\angle ABD} = \\dfrac{90}7$。"
+  },
+  {
+    "id": "99-gsat-math-F",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "F. 設 $a$、$b$ 為實數。已知坐標平面上拋物線 $y = x^2 + ax + b$ 與 $x$ 軸交於 $P$、$Q$ 兩點，且 $\\overline{PQ} = 7$。若拋物線 $y = x^2 + ax + (b + 2)$ 與 $x$ 軸的兩交點為 $R$、$S$，則 $\\overline{RS} = \\sqrt{㉖㉗}$。",
+    "blanks": [
+      "4",
+      "1"
+    ],
+    "blankLabels": [
+      "26",
+      "27"
+    ],
+    "explanation": "兩根差的平方 $= a^2 - 4b = 49$。$\\overline{RS}^2 = a^2 - 4(b + 2) = 41$。"
+  },
+  {
+    "id": "99-gsat-math-G",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "G. 已知 $\\triangle ABC$ 中，$\\overline{AB} = 2$、$\\overline{BC} = 3$ 且 $\\angle A = 2\\angle C$，則 $\\overline{AC} = \\dfrac{㉘}{㉙}$。（化成最簡分數）",
+    "blanks": [
+      "5",
+      "2"
+    ],
+    "blankLabels": [
+      "28",
+      "29"
+    ],
+    "explanation": "正弦定理：$\\dfrac{\\sin A}{\\sin C} = \\dfrac32 = 2\\cos C$，$\\cos C = \\dfrac34$。\n餘弦定理：$4 = 9 + b^2 - 2\\cdot3b\\cdot\\dfrac34$，$2b^2 - 9b + 10 = 0$，$b = \\dfrac52$ 或 2。\n$b = 2$ 時 $B = C$，配合 $A = 2C$ 得 $C = 45^\\circ$，與 $\\cos C = \\dfrac34$ 矛盾，所以 $\\overline{AC} = \\dfrac52$。"
+  },
+  {
+    "id": "99-gsat-math-H",
+    "examType": "學測",
+    "year": 99,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "H. 坐標平面上給定點 $A\\left(\\dfrac94, 2\\right)$、直線 $L: y = -5$ 與拋物線 $\\Gamma: x^2 = 8y$。以 $d(P, L)$ 表示點 $P$ 到直線 $L$ 的距離。若點 $P$ 在 $\\Gamma$ 上變動，則 $|d(P, L) - \\overline{AP}|$ 之最大值為 $\\dfrac{㉚㉛}{㉜}$。（化成最簡分數）",
+    "blanks": [
+      "2",
+      "1",
+      "4"
+    ],
+    "blankLabels": [
+      "30",
+      "31",
+      "32"
+    ],
+    "explanation": "焦點 $F(0, 2)$、準線 $y = -2$，$d(P, L) = \\overline{PF} + 3$。\n$\\overline{PF} - \\overline{AP} \\le \\overline{AF} = \\dfrac94$，等號在 $A$ 落在 $\\overline{FP}$ 上時成立：取 $P(4, 2)$，$\\overline{PF} = 4$、$\\overline{AP} = \\dfrac74$。\n又 $\\overline{PF} - \\overline{AP} \\ge -\\dfrac94$，所以 $d(P, L) - \\overline{AP}$ 介於 $\\dfrac34$ 與 $\\dfrac{21}4$ 之間，絕對值最大為 $\\dfrac{21}4$。"
   }
 ]
