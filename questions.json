@@ -245636,5 +245636,247 @@
       "32"
     ],
     "explanation": "設邊長 6，$F$ 為原點：$A(0, 0, 4)$、$B(6, 0, 3)$、$D(0, 6, 3)$。\n$\\overrightarrow{AB} = (6, 0, -1)$、$\\overrightarrow{AD} = (0, 6, -1)$，$\\cos\\angle DAB = \\dfrac{1}{\\sqrt{37}\\sqrt{37}} = \\dfrac1{37}$。"
+  },
+  {
+    "id": "91-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 一正立方體的八個頂點中有四個頂點，各頂點彼此之間的距離都是 1，則此正立方體的體積為",
+    "options": [
+      "$2\\sqrt2$",
+      "$\\dfrac{\\sqrt2}4$",
+      "1",
+      "2"
+    ],
+    "answerIndex": 1,
+    "explanation": "兩兩距離相等的四個頂點構成內接正四面體，距離都是面對角線：$\\sqrt2s = 1$，$s = \\dfrac1{\\sqrt2}$，體積 $s^3 = \\dfrac{\\sqrt2}4$。\n\n故選 (B)"
+  },
+  {
+    "id": "91-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 某校想要瞭解全校同學是否知道中央政府五院院長的姓名，出了一份考卷。該卷共有五個單選題，滿分 100 分，每題答對得 20 分，答錯得零分，不倒扣。閱卷完畢後，校方公佈每題的答對率如下表。請問此次測驗全體受測同學的平均分數是",
+    "svg": "<svg viewBox=\"0 0 384 68\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:460.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">題號</text><rect x=\"82\" y=\"4\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">一</text><rect x=\"142\" y=\"4\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">二</text><rect x=\"202\" y=\"4\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">三</text><rect x=\"262\" y=\"4\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">四</text><rect x=\"322\" y=\"4\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">五</text><rect x=\"2\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">答對率</text><rect x=\"82\" y=\"34\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">80%</text><rect x=\"142\" y=\"34\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">70%</text><rect x=\"202\" y=\"34\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">60%</text><rect x=\"262\" y=\"34\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">50%</text><rect x=\"322\" y=\"34\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">40%</text></svg>",
+    "options": [
+      "70 分",
+      "65 分",
+      "60 分",
+      "55 分"
+    ],
+    "answerIndex": 2,
+    "explanation": "平均分數 = 各題平均得分之和 $= 20(0.8 + 0.7 + 0.6 + 0.5 + 0.4) = 60$。\n\n故選 (C)"
+  },
+  {
+    "id": "91-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "3. 當 $x$ 的範圍被限制在 $-\\dfrac\\pi2$ 和 $\\dfrac\\pi2$ 之間時，亦即 $-\\dfrac\\pi2 < x < \\dfrac\\pi2$，有關函數 $f(x) = \\cos x + \\dfrac4{\\cos x}$ 的敘述，哪些是正確的？",
+    "options": [
+      "$f(x) = f(-x)$",
+      "$f(x) \\ge 4$",
+      "$f(x)$ 的最小值是 4",
+      "$f(x)$ 有最大值"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "令 $t = \\cos x \\in (0, 1]$，$t + \\dfrac4t$ 在 $(0, 2)$ 遞減，最小值在 $t = 1$：$f = 5$。\n• (A) ✓：偶函數。\n• (B) ✓：$f \\ge 5 \\ge 4$。\n• (C) ✗：最小值是 5（算幾不等式的等號需 $t = 2$，取不到）。\n• (D) ✗：$t \\to 0^+$ 時 $f \\to \\infty$。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "91-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 平面上有以坐標原點為中心的兩個橢圓，已知這兩個橢圓的長軸長度相等，短軸長度也相等，並且兩橢圓相交於四個點。今將此四點以坐標原點為中心，反時鐘順序依次連成一個四邊形，請問下列哪些敘述為真？",
+    "options": [
+      "該四邊形一定是正方形",
+      "該四邊形不可能是長與寬不等的長方形",
+      "該四邊形一定是平行四邊形",
+      "該四邊形一定是菱形"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "兩橢圓全等、中心相同，只差一個旋轉角 $\\varphi$。以極坐標看，第一個橢圓 $r = g(\\theta)$，第二個 $r = g(\\theta - \\varphi)$，$g$ 只與 $\\cos^2$ 有關，相等 ⇔ $\\theta = \\dfrac\\varphi2 + \\dfrac{k\\pi}2$。\n所以四個交點兩兩對稱於原點、分別落在兩條互相垂直的直線上：對角線互相平分且垂直，是菱形（也是平行四邊形）。兩條對角線一般不等長，不一定是正方形；菱形若是長方形就是正方形，所以不可能是長寬不等的長方形。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "91-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 所謂「轉移矩陣」必須滿足下列兩個條件（甲）該矩陣的每一個位置都是一個非負的實數（乙）該矩陣的每一行的數字相加都等於 1。以 $2\\times2$ 矩陣為例，$\\begin{pmatrix} 0.2 & 0.3 \\\\ 0.8 & 0.7 \\end{pmatrix}$ 和 $\\begin{pmatrix} 0.9 & 0.6 \\\\ 0.1 & 0.4 \\end{pmatrix}$ 滿足（甲）（乙）這兩個條件，因此都是轉移矩陣。今設 A、B 是兩個 $n\\times n$ 的轉移矩陣，請問下列哪些敘述是正確的？",
+    "options": [
+      "$A^2$ 是轉移矩陣",
+      "$AB$ 不滿足條件（乙）",
+      "$\\dfrac12(A + B)$ 是轉移矩陣",
+      "$\\dfrac14(A^2 + B^2)$ 是轉移矩陣"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "以全為 1 的列向量 $u$ 表示條件（乙）：$uA = u$。\n• (A) ✓：$uA^2 = uA = u$，元素也非負。\n• (B) ✗：$uAB = uB = u$，滿足（乙）。\n• (C) ✓：$u\\cdot\\dfrac{A + B}2 = u$。\n• (D) ✗：每行和 $\\dfrac{1 + 1}4 = \\dfrac12$。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "91-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 醫療主管機關在持續追蹤某傳染病多年後，發現如果體檢受檢人感染該傳染病，就一定可以檢測出來。但是卻有 4% 的機率，將一不患該傳染病之受檢者誤檢為患有該病。已知全部男性人口中有 0.2% 的機率患有此病。現於兵役體檢時進行檢測，若該梯次役男共有十萬人受檢，而且某役男被告知患有該病。請問下列哪些敘述為真？",
+    "options": [
+      "該役男確實染病的機率大於 3%",
+      "該役男確實染病的機率大於 4%",
+      "該役男確實染病的機率大於 5%",
+      "該役男確實染病的機率大於 90%"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "$P(\\text{患病}\\mid\\text{陽性}) = \\dfrac{0.002}{0.002 + 0.998\\times0.04} = \\dfrac{0.002}{0.04192} \\approx 4.8\\%$。大於 3%、4%，小於 5%。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "91-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 某君於九十年初，在甲、乙、丙三家銀行各存入十萬元，各存滿一年後，分別取出。已知該年各銀行之月利率如下表，且全年十二個月皆依機動利率按月以複利計息。假設存滿一年，某君在甲、乙、丙三家銀行存款的本利和分別為 $a$、$b$、$c$ 元，請問下列哪些式子為真？",
+    "svg": "<svg viewBox=\"0 0 354 128\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:424.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"82\" y=\"4\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">甲銀行</text><rect x=\"172\" y=\"4\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">乙銀行</text><rect x=\"262\" y=\"4\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"307\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">丙銀行</text><rect x=\"2\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1-4 月</text><rect x=\"82\" y=\"34\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.3%</text><rect x=\"172\" y=\"34\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.3%</text><rect x=\"262\" y=\"34\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"307\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.3%</text><rect x=\"2\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">5-8 月</text><rect x=\"82\" y=\"64\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.3%</text><rect x=\"172\" y=\"64\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.4%</text><rect x=\"262\" y=\"64\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"307\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.2%</text><rect x=\"2\" y=\"94\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">9-12 月</text><rect x=\"82\" y=\"94\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"127\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.3%</text><rect x=\"172\" y=\"94\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.2%</text><rect x=\"262\" y=\"94\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"307\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.4%</text></svg>",
+    "options": [
+      "$a > b$",
+      "$a > c$",
+      "$b > c$",
+      "$a = b = c$"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "$b = c = 10^5(1.003)^4(1.004)^4(1.002)^4$（乘法可交換），$a = 10^5(1.003)^{12}$。\n比較 $1.003^2 = 1.006009$ 與 $1.004\\times1.002 = 1.006008$，前者較大，所以 $a > b = c$。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "91-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 空氣品質會受到污染物排放量及大氣擴散等因素的影響。某一機構為瞭解一特定地區的空氣品質，連續二十八天蒐集了該地區早上的平均風速及空氣中某特定氧化物的最大濃度。再繪製這二十八筆資料的散佈圖（見下圖），現根據該圖，可知",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/91-ast-ma-08.png\" alt=\"28 筆資料的散佈圖：橫軸平均風速 35 到 65 公里／小時，縱軸氧化物最大濃度 4 到 25，整體呈下降趨勢\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此筆資料中，該氧化物最大濃度的標準差大於 15",
+      "此筆資料中，該氧化物最大濃度的中位數為 15",
+      "此筆資料中，平均風速的中位數介於 45 與 50 間",
+      "若以最小平方法決定數據集中直線趨勢的直線，則該直線的斜率小於 0"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "• (A) ✗：濃度在 4～25 之間，標準差約 6。\n• (B) ✗：28 筆濃度由小到大第 14、15 筆約為 13 與 15，中位數約 14。\n• (C) ✓：風速由小到大第 14、15 筆都是 48。\n• (D) ✓：風速越大濃度越低，負相關。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "91-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 某人在 O 點測量到遠處有一物作等速直線運動。開始時該物位置在 P 點，一分鐘後，其位置在 Q 點，且 $\\angle POQ = 90^\\circ$。再過一分鐘後，該物位置在 R 點，且 $\\angle QOR = 30^\\circ$。請以最簡分數表示 $\\tan^2(\\angle OPQ) = \\dfrac{⑨}{⑩}$。",
+    "blanks": [
+      "3",
+      "4"
+    ],
+    "blankLabels": [
+      "9",
+      "10"
+    ],
+    "explanation": "取 $O$ 為原點、$P(p, 0)$、$Q(0, q)$。等速運動 ⇒ $Q$ 是 $\\overline{PR}$ 中點，$R(-p, 2q)$。\n$\\cos\\angle QOR = \\dfrac{2q}{\\sqrt{p^2 + 4q^2}} = \\dfrac{\\sqrt3}2$ ⇒ $4q^2 = 3p^2$。$\\tan\\angle OPQ = \\dfrac qp$，平方為 $\\dfrac34$。"
+  },
+  {
+    "id": "91-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 坐標平面上滿足聯立不等式 $|x| + |y| \\le 2$、$|x| + |y - 1| \\le 2$ 之區域的面積等於 $\\dfrac{⑪}{⑫}$（以最簡分數表示）。",
+    "blanks": [
+      "9",
+      "2"
+    ],
+    "blankLabels": [
+      "11",
+      "12"
+    ],
+    "explanation": "兩個菱形的交集對稱於 $y = \\dfrac12$。$-1 \\le y \\le \\dfrac12$ 時半寬為 $1 + y$，所以下半部是底 3、高 $\\dfrac32$ 的三角形，面積 $\\dfrac94$；全部 $\\dfrac92$。"
+  },
+  {
+    "id": "91-ast-ma-C",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 設 $n$ 為正整數，坐標平面上有一等腰三角形，它的三個頂點分別是 $(0, 2)$、$\\left(\\dfrac1n, 0\\right)$、$\\left(-\\dfrac1n, 0\\right)$。假設此三角形的外接圓直徑長等於 $D_n$，則 $\\displaystyle\\lim_{n\\to\\infty}D_n =$ ⑬。",
+    "blanks": [
+      "2"
+    ],
+    "blankLabels": [
+      "13"
+    ],
+    "explanation": "腰長平方 $4 + \\dfrac1{n^2}$、高 2。等腰三角形外接圓半徑 $R = \\dfrac{\\text{腰}^2}{2\\cdot\\text{高}} = \\dfrac{4 + 1/n^2}4 \\to 1$，$D_n \\to 2$。"
+  },
+  {
+    "id": "91-ast-ma-non-1",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題 1】袋中有七個白球，若干個黑球。今從袋中一次取出兩個球，已知此兩球同為白球的機率是 $\\dfrac7{22}$。請問袋中有幾個黑球？（10 分）",
+    "points": 10,
+    "blanks": [
+      "5 個"
+    ],
+    "blankLabels": [
+      "黑球數"
+    ],
+    "explanation": "設共 $n$ 球：$\\dfrac{\\binom72}{\\binom n2} = \\dfrac{21}{\\binom n2} = \\dfrac7{22}$，$\\binom n2 = 66$，$n = 12$，黑球 5 個。"
+  },
+  {
+    "id": "91-ast-ma-non-2",
+    "examType": "分科/指考",
+    "year": 91,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題 2】$m$ 為實數，已知四次方程式 $3x^4 - 4mx^3 + 1 = 0$ 無實根，求 $m$ 的範圍。（15 分）",
+    "points": 15,
+    "blanks": [
+      "$-1 < m < 1$"
+    ],
+    "blankLabels": [
+      "範圍"
+    ],
+    "explanation": "$x = 0$ 不是根。$x \\ne 0$ 時方程式等價於 $4m = h(x) = 3x + \\dfrac1{x^3}$。\n$x > 0$：$h'(x) = 3 - \\dfrac3{x^4}$，在 $x = 1$ 有最小值 4，值域 $[4, \\infty)$；$h$ 為奇函數，$x < 0$ 時值域 $(-\\infty, -4]$。\n無實根 ⇔ $-4 < 4m < 4$，即 $-1 < m < 1$。"
   }
 ]
