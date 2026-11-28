@@ -241872,5 +241872,283 @@
       "34"
     ],
     "explanation": "以 $A$ 為原點，$\\overrightarrow{AB}, \\overrightarrow{AD}, \\overrightarrow{AE}$ 為三軸：$P\\left(\\dfrac34, \\dfrac12, \\dfrac23\\right)$。到 $AB$（第一軸）的距離 $\\sqrt{\\dfrac14 + \\dfrac49} = \\dfrac56$。"
+  },
+  {
+    "id": "94-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 地震規模的大小通常用芮氏等級來表示。已知芮氏等級每增加 1 級，地震震幅強度約增加為原來的 10 倍，能量釋放強度則約增加為原來的 32 倍。現假設有兩次地震，所釋放的能量約相差 100,000 倍，依上述性質則地震震幅強度約相差幾倍？請選出最接近的答案。",
+    "options": [
+      "10 倍",
+      "100 倍",
+      "1000 倍",
+      "10000 倍"
+    ],
+    "answerIndex": 2,
+    "explanation": "能量差 $10^5 = 32^n$，$n = \\dfrac5{\\log32} = \\dfrac5{1.505} \\approx 3.3$ 級，震幅差 $10^{3.3} \\approx 2000$ 倍，選項中最接近（以數量級而言）的是 1000 倍。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. $\\dfrac{\\sin3\\theta}{\\sec2\\theta} - \\dfrac{\\cos3\\theta}{\\csc2\\theta}$ 可化簡為",
+    "options": [
+      "$\\sin\\theta$",
+      "$\\cos\\theta$",
+      "$\\tan\\theta$",
+      "$\\cot\\theta$"
+    ],
+    "answerIndex": 0,
+    "explanation": "$= \\sin3\\theta\\cos2\\theta - \\cos3\\theta\\sin2\\theta = \\sin(3\\theta - 2\\theta) = \\sin\\theta$。\n\n故選 (A)"
+  },
+  {
+    "id": "94-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 令 $i = \\sqrt{-1}$，$\\bar z$ 表複數 $z$ 的共軛複數。在複數平面上，所有滿足方程式 $(1 + i)z - (1 - i)\\bar z = 0$ 的複數 $z$，會形成下列哪種的圖形？",
+    "options": [
+      "一點",
+      "一圓",
+      "一直線",
+      "兩直線"
+    ],
+    "answerIndex": 2,
+    "explanation": "$(1 - i)\\bar z$ 是 $(1 + i)z$ 的共軛，條件即 $(1 + i)z$ 為實數 $t$，$z = \\dfrac t{1 + i} = \\dfrac t2(1 - i)$，是過原點、方向 $1 - i$ 的直線。\n\n故選 (C)"
+  },
+  {
+    "id": "94-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 設 $f(x) = x^2 + a(1 - x^2)$ 為一實係數多項式函數，$a$ 為常數。下列敘述何者正確：",
+    "options": [
+      "不論 $a$ 是何值，$f(x)$ 的函數圖形都不可能是直線",
+      "不論 $a$ 是何值，若 $f(x)$ 有極值，則極值都等於 $a$（註：極大值與極小值統稱極值）",
+      "0 有可能是 $f(x)$ 的極大值",
+      "若 $a \\ne 0$，則 $f(x) = 0$ 無重根"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "$f(x) = (1 - a)x^2 + a$。\n• (A) ✗：$a = 1$ 時 $f(x) = 1$ 是水平直線。\n• (B) ✓：$a \\ne 1$ 時極值在 $x = 0$，為 $f(0) = a$。\n• (C) ✗：極值 0 ⇒ $a = 0$，此時 $f = x^2$ 只有極小值。\n• (D) ✓：重根必在 $x = 0$，需 $f(0) = a = 0$。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "94-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 如圖，$ABCD$ 是邊長為 1 的正方形，在 $AB$、$BC$、$CD$、$DA$ 四邊上依序任取一點 $P$、$Q$、$R$、$S$（皆非頂點）。若 $PQRS$ 是長方形但不是正方形，下列敘述何者正確：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-ma-05.png\" alt=\"正方形 ABCD，P 在 AB 上\" style=\"width:100%;max-width:130px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\triangle SAP$ 與 $\\triangle PBQ$ 相似",
+      "$\\triangle SAP$ 和 $\\triangle QCR$ 全等",
+      "$PB = QB$",
+      "$\\triangle PBQ$ 的最大可能面積為 $\\dfrac1{\\sqrt2}$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "• (A) ✓：$\\angle SPQ = 90^\\circ$，$\\angle APS = \\angle BQP$，兩直角三角形相似。\n• (B) ✓：長方形對邊相等且平行，$\\triangle SAP \\cong \\triangle QCR$。\n• (C) ✓：設 $\\overline{BP} = x$、$\\overline{BQ} = y$，由相似 $\\dfrac{\\overline{AS}}{\\overline{AP}} = \\dfrac{\\overline{BP}}{\\overline{BQ}}$，且 $\\overline{AS} = 1 - \\overline{DS} = 1 - y$（因 $\\triangle SDR \\cong \\triangle QBP$），得 $\\dfrac{1 - y}{1 - x} = \\dfrac xy$，$(x - y)(x + y - 1) = 0$；若 $x + y = 1$ 則 $PQRS$ 為正方形，所以 $x = y$。\n• (D) ✗：$\\triangle PBQ$ 面積 $\\dfrac{x^2}2 < \\dfrac12$。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "94-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 球面 $x^2 + y^2 + z^2 = 4$ 與空間中兩點 $P = (1, -2, 1)$，$Q = (-1, 2, -1)$ 的關係是：",
+    "options": [
+      "直線 $PQ$ 和球面交於兩點",
+      "線段 $\\overline{PQ}$ 和球面交於兩點",
+      "直線 $PQ$ 與球面相切",
+      "直線 $PQ$ 通過球心"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "$Q = -P$，直線 $PQ$ 通過球心原點，與球面交於兩點。$|P| = \\sqrt6 > 2$，$P$、$Q$ 都在球外且在球心兩側，線段也與球面交於兩點。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "94-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 宴會在場的 50 位賓客有人偷了主人的珠寶，由於賓客身上都沒有珠寶，而且他們都不承認偷竊。警方決定動用測謊器，並且只問客人一個問題：「你有沒有偷珠寶？」。已知若某人說謊，則測謊器顯示他說謊的機率為 99%；若某人誠實，則測謊器顯示他誠實的機率是 90%。下列敘述何者正確：",
+    "options": [
+      "設竊賊只有一人。當賓客受測時，測謊器顯示賓客說謊的機率大於 10%",
+      "設竊賊只有一人。當測謊器顯示一賓客說謊時，該賓客正是竊賊的機率大於 50%",
+      "設竊賊只有一人，當測謊器顯示一賓客誠實時，該賓客卻是竊賊的機率小於 20%",
+      "當測謊器顯示一賓客說謊時，該賓客是竊賊的機率，並不因竊賊人數多少而改變"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "竊賊（說謊）機率 $\\dfrac1{50}$。\n• (A) ✓：$\\dfrac1{50}(0.99) + \\dfrac{49}{50}(0.10) = 0.0198 + 0.098 = 0.1178$。\n• (B) ✗：$\\dfrac{0.0198}{0.1178} \\approx 0.17$。\n• (C) ✓：$\\dfrac{0.0002}{0.0002 + 0.882}$ 極小。\n• (D) ✗：竊賊人數改變事前機率，條件機率也會改變。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "94-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. $A$ 是 $2\\times2$ 方陣，設 $A^2 = A\\cdot A$，$A^3 = A\\cdot A\\cdot A$，以此類推。已知 $A\\begin{bmatrix} 1 \\\\ -1 \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix}$，$A\\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} -1 \\\\ 1 \\end{bmatrix}$，若有 $a, b$ 使得 $A^4\\begin{bmatrix} a \\\\ b \\end{bmatrix} = \\begin{bmatrix} 3 \\\\ 2 \\end{bmatrix}$，下列敘述何者正確：",
+    "options": [
+      "$a = -3$",
+      "$b = 2$",
+      "$A^2\\begin{bmatrix} 1 \\\\ -1 \\end{bmatrix} = \\begin{bmatrix} -1 \\\\ 1 \\end{bmatrix}$",
+      "$A$ 是一旋轉方陣"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "令 $\\vec u = (1, -1)$、$\\vec v = (1, 1)$：$A\\vec u = \\vec v$、$A\\vec v = -\\vec u$。$A^2\\vec u = -\\vec u$、$A^2\\vec v = -\\vec v$，所以 $A^2 = -I$，$A^4 = I$。\n• (A) ✗、(B) ✓：$(a, b) = (3, 2)$。\n• (C) ✓。\n• (D) ✓：$\\vec u \\to \\vec v \\to -\\vec u$ 正是旋轉 $90^\\circ$。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "94-ast-ma-09",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "9. 有一條拋物線位於坐標平面之上半面（即其 $y$ 坐標 $\\ge 0$），並與 $x$-軸、直線 $y = x - 1$、直線 $y = -x - 1$ 相切。下列敘述何者正確：",
+    "options": [
+      "此拋物線的對稱軸必為 $y$-軸",
+      "若此拋物線對稱軸為 $y$-軸，則其焦距為 1（註：拋物線的焦距為焦點到頂點的距離）",
+      "此拋物線的頂點必在 $x$-軸上",
+      "有不只一條拋物線滿足此條件"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "• (B) ✓：對稱軸為 $y$ 軸且在上半面、與 $x$ 軸相切，頂點在原點：$y = kx^2$。與 $y = x - 1$ 相切：$kx^2 - x + 1 = 0$ 判別式 $1 - 4k = 0$，$k = \\dfrac14$，即 $x^2 = 4y$，焦距 1。\n• 三條切線構成的角內可放入許多條斜置的拋物線（對稱軸不一定鉛直），所以 (A)(C) 不一定成立，(D) 正確。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "94-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "A. 全班男女生共 51 人，票選畢業旅行的目的地，每人限投一票，結果如右表。現以簡單隨機抽樣，抽出兩人，若這兩人都是女生，則這兩人都想去墾丁的機率是 0.⑩⑪（以四捨五入取到小數兩位）。",
+    "svg": "<svg viewBox=\"0 0 204 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:244.79999999999998px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"82\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">女</text><rect x=\"142\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">男</text><rect x=\"2\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">墾丁</text><rect x=\"82\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">10</text><rect x=\"142\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">10</text><rect x=\"2\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">澎湖</text><rect x=\"82\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">6</text><rect x=\"142\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">10</text><rect x=\"2\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">花東</text><rect x=\"82\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">9</text><rect x=\"142\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">6</text></svg>",
+    "blanks": [
+      "1",
+      "5"
+    ],
+    "blankLabels": [
+      "10",
+      "11"
+    ],
+    "explanation": "女生 25 人，其中 10 人想去墾丁：$\\dfrac{\\binom{10}2}{\\binom{25}2} = \\dfrac{45}{300} = 0.15$。"
+  },
+  {
+    "id": "94-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "B. 考慮雙曲線 $y^2 - x^2 = 1$ 圖形的上半部（如右圖），取此雙曲線上 $x$ 坐標為 $n$ 的點與漸近線 $y = x$ 的距離，記為 $d_n$，其中 $n$ 為正整數。則 $\\displaystyle\\lim_{n\\to\\infty}(n\\cdot d_n) = 0.$⑫⑬（以四捨五入取到小數兩位）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-ast-ma-B.png\" alt=\"雙曲線上半部與漸近線 y = x，d_n 為點到漸近線的距離\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "3",
+      "5"
+    ],
+    "blankLabels": [
+      "12",
+      "13"
+    ],
+    "explanation": "點 $(n, \\sqrt{1 + n^2})$ 到 $y = x$ 的距離 $d_n = \\dfrac{\\sqrt{1 + n^2} - n}{\\sqrt2} = \\dfrac1{\\sqrt2(\\sqrt{1 + n^2} + n)}$。\n$n\\cdot d_n \\to \\dfrac1{2\\sqrt2} \\approx 0.354$，取 0.35。"
+  },
+  {
+    "id": "94-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】袋中有三個一樣大小的球，分別標示 10 分、20 分、30 分。重複自袋中取出一球後放回，記錄得分並累加，其中取出各球之機率皆相等。\n1. 求抽三次後總分為 60 分的機率。（5 分）",
+    "points": 5,
+    "blanks": [
+      "$\\dfrac7{27}$"
+    ],
+    "blankLabels": [
+      "機率"
+    ],
+    "explanation": "以 10 分為單位，三次和為 6：$(1, 2, 3)$ 的排列 6 種、$(2, 2, 2)$ 1 種，共 7 種，機率 $\\dfrac7{27}$。"
+  },
+  {
+    "id": "94-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】袋中有三個一樣大小的球，分別標示 10 分、20 分、30 分。重複自袋中取出一球後放回，記錄得分並累加，其中取出各球之機率皆相等。\n2. 遊戲「過三十」的規則是重複抽球，直到總得分大於或等於 30 分後停止，總得分恰為 30 分者輸，超過 30 分者贏。求贏得此遊戲之機率。（6 分）",
+    "points": 6,
+    "blanks": [
+      "$\\dfrac{11}{27}$"
+    ],
+    "blankLabels": [
+      "機率"
+    ],
+    "explanation": "輸 ⇔ 累加過程恰好停在 30：抽到 30（$\\dfrac13$）、10 再 20 或 20 再 10（$2\\cdot\\dfrac19$）、三次 10（$\\dfrac1{27}$），共 $\\dfrac{9 + 6 + 1}{27} = \\dfrac{16}{27}$。\n贏的機率 $1 - \\dfrac{16}{27} = \\dfrac{11}{27}$。"
+  },
+  {
+    "id": "94-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】平面上有一橢圓，已知其焦點為 $(0, 0)$ 和 $(4, 4)$，且 $y = x + \\sqrt2$ 為此橢圓的切線。\n1. 求此橢圓的半長軸長。（6 分）",
+    "points": 6,
+    "blanks": [
+      "3"
+    ],
+    "blankLabels": [
+      "半長軸"
+    ],
+    "explanation": "橢圓的光學性質：焦點 $F_1(0, 0)$ 對切線的對稱點 $F_1'$ 與另一焦點 $F_2$ 的距離等於 $2a$。\n$F_1$ 對 $x - y + \\sqrt2 = 0$ 的對稱點為 $(-\\sqrt2, \\sqrt2)$，到 $(4, 4)$ 的距離 $\\sqrt{(4 + \\sqrt2)^2 + (4 - \\sqrt2)^2} = 6$，$a = 3$。"
+  },
+  {
+    "id": "94-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 94,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】平面上有一橢圓，已知其焦點為 $(0, 0)$ 和 $(4, 4)$，且 $y = x + \\sqrt2$ 為此橢圓的切線。\n2. 設此橢圓方程式為 $Ax^2 + Bxy + Cy^2 + Dx + Ey = 1$，求 $A$、$B$、$C$、$D$、$E$ 之值。（5 分）",
+    "points": 5,
+    "blanks": [
+      "$A = 5$，$B = -8$，$C = 5$，$D = -4$，$E = -4$"
+    ],
+    "blankLabels": [
+      "係數"
+    ],
+    "explanation": "中心 $(2, 2)$、$c = 2\\sqrt2$、$a = 3$、$b = 1$，長軸沿 $y = x$ 方向。令 $u = \\dfrac{x + y - 4}{\\sqrt2}$、$v = \\dfrac{y - x}{\\sqrt2}$：$\\dfrac{u^2}9 + v^2 = 1$。\n即 $(x + y - 4)^2 + 9(y - x)^2 = 18$，展開整理得 $5x^2 - 8xy + 5y^2 - 4x - 4y = 1$。"
   }
 ]
