@@ -224180,5 +224180,346 @@
       "證明與邊長"
     ],
     "explanation": "三個平面都與 $L$ 的方向 $(1, 1, -1)$ 平行，$E$ 與它們都垂直，所以 $E$ 的法向量是 $(1, 1, -1)$，$\\Gamma$ 是三平面的「截面」三角形，內角就是兩兩平面的夾角。\n• 法向量 $n_1 = (1, 1, 2)$、$n_2 = (2, -1, 1)$、$n_3 = (1, -2, -1)$，長度都是 $\\sqrt6$。\n• $n_1\\cdot n_2 = 3$、$n_1\\cdot n_3 = -3$、$n_2\\cdot n_3 = 3$，夾角餘弦都是 $\\pm\\dfrac12$，兩平面夾角都是 $60^\\circ$ 或 $120^\\circ$，三角形的內角都是 $60^\\circ$，故為正三角形。\n• 邊長：$L$ 上一點 $(1, 1, 0)$（同時在 $E_1, E_2$ 上），到 $E_3$ 的距離 $\\dfrac{|1 - 2 - 0 - 5|}{\\sqrt6} = \\sqrt6$，這是正三角形的高，邊長 $= \\sqrt6\\cdot\\dfrac{2}{\\sqrt3} = 2\\sqrt2$。"
+  },
+  {
+    "id": "115-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "points": 5,
+    "question": "1. 試選出 $\\log_2(8\\sqrt2) - \\log_2(4\\sqrt2)$ 的值。",
+    "options": [
+      "1",
+      "2",
+      "$\\dfrac12$",
+      "$\\dfrac32$",
+      "$\\dfrac52$"
+    ],
+    "answerIndex": 0,
+    "explanation": "$\\log_2\\dfrac{8\\sqrt2}{4\\sqrt2} = \\log_2 2 = 1$。\n\n故選 (A)"
+  },
+  {
+    "id": "115-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "points": 5,
+    "question": "2. 設 $i = \\sqrt{-1}$、複數 $z = 2 + i$、$w = 1 + i$。試問下列哪一個複數的絕對值等於 5？",
+    "options": [
+      "$z - w$",
+      "$z - 2w$",
+      "$z - 3w$",
+      "$z - 4w$",
+      "$z - 5w$"
+    ],
+    "answerIndex": 4,
+    "explanation": "$z - kw = (2 - k) + (1 - k)i$，$|z - kw|^2 = (2 - k)^2 + (1 - k)^2$。\n$k = 5$：$9 + 16 = 25$，絕對值為 5。（$k = 1, 2, 3, 4$ 分別得 $1, 1, 5, 13$ 的平方，都不是 25。）\n\n故選 (E)"
+  },
+  {
+    "id": "115-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "points": 5,
+    "question": "3. 一袋中有三顆球，球上分別印有號碼 1, 2, 6。假設每次抽球時，袋中每顆球被抽到的機率均相等，考慮以下三種情況：（甲）隨機抽出一顆球，設此球號碼的期望值為 $a$。（乙）隨機抽出一顆球，記錄號碼後放回袋中，再隨機抽出一顆球，設前後兩顆球號碼平均數的期望值為 $b$。（丙）隨機抽出一顆球，取後不放回，再隨機抽出另一顆球，設前後兩顆球號碼平均數的期望值為 $c$。有關 $a, b, c$ 的大小關係，試選出正確的選項。",
+    "options": [
+      "$a > b > c$",
+      "$a = b > c$",
+      "$a = b = c$",
+      "$a = b < c$",
+      "$a < b < c$"
+    ],
+    "answerIndex": 2,
+    "explanation": "$a = \\dfrac{1 + 2 + 6}{3} = 3$。\n不論放回與否，每次抽到的球單獨看都是三顆等可能，期望值都是 3。由期望值的線性性質，平均數的期望值 $= \\dfrac{3 + 3}{2} = 3$。\n（例如丙：6 種有序抽法的平均數為 1.5, 3.5, 4, 1.5, 3.5, 4，平均 3。）\n$a = b = c$。\n\n故選 (C)"
+  },
+  {
+    "id": "115-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "points": 5,
+    "question": "4. 坐標平面上有一圓 $\\Gamma$。已知直線 $L: y = x$ 與圓 $\\Gamma$ 相切，且圓 $\\Gamma$ 的圓心對直線 $L$ 的對稱點坐標為 $(5, 3)$。試選出圓 $\\Gamma$ 的方程式。",
+    "options": [
+      "$(x - 5)^2 + (y + 3)^2 = 0$",
+      "$(x - 5)^2 + (y + 3)^2 = 2$",
+      "$(x - 5)^2 + (y + 3)^2 = 4$",
+      "$(x - 3)^2 + (y - 5)^2 = 2$",
+      "$(x - 3)^2 + (y - 5)^2 = 4$"
+    ],
+    "answerIndex": 3,
+    "explanation": "對 $y = x$ 的對稱是 $x, y$ 互換，圓心為 $(3, 5)$。\n相切，半徑 = 圓心到 $L$ 的距離 $= \\dfrac{|3 - 5|}{\\sqrt2} = \\sqrt2$。\n$\\Gamma: (x - 3)^2 + (y - 5)^2 = 2$。\n\n故選 (D)"
+  },
+  {
+    "id": "115-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "points": 5,
+    "question": "5. 坐標空間中有一點 $A(6, 8, -8)$。試問在 $x$ 軸、$y$ 軸、$z$ 軸這三條坐標軸上，總共有幾個點與點 $A$ 的距離等於 10？",
+    "options": [
+      "0",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answerIndex": 1,
+    "explanation": "• $x$ 軸上 $(t, 0, 0)$：$(t - 6)^2 + 64 + 64 = 100$，$(t - 6)^2 = -28$，無解。\n• $y$ 軸上 $(0, t, 0)$：$36 + (t - 8)^2 + 64 = 100$，$t = 8$，1 點。\n• $z$ 軸上 $(0, 0, t)$：$36 + 64 + (t + 8)^2 = 100$，$t = -8$，1 點。\n共 2 個。\n\n故選 (B)"
+  },
+  {
+    "id": "115-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "points": 5,
+    "question": "6. 設三次多項式 $f(x) = \\displaystyle\\int_0^x t(t - 2)\\,dt$。試問下列選項中，哪一個最有可能是函數 $y = f(x)$ 在坐標平面上的圖形？（選項圖形依序為 (A)～(E)）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-mb-06.png\" alt=\"五個三次函數圖形選項 (1) 到 (5)\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "(1) 在原點左側上升、在 y 軸右側有正的極大值，之後碰到 x 軸再上升",
+      "(2) 通過原點時為極大值，往右下降到負的極小值，再上升穿過 x 軸",
+      "(3) 由負值上升穿過原點，有正的極大值與等於 0 的極小值",
+      "(4) 由左上方下降到原點，有正的極大值後下降",
+      "(5) 由左上方下降，通過原點後到負的極小值，再上升到 0 附近後下降"
+    ],
+    "answerIndex": 1,
+    "explanation": "$f(x) = \\dfrac{x^3}{3} - x^2$，$f(0) = 0$，首項係數為正（右上、左下）。\n$f'(x) = x(x - 2)$：$x < 0$ 遞增、$0 < x < 2$ 遞減、$x > 2$ 遞增。\n所以原點是極大值、$x = 2$ 是極小值 $f(2) = -\\dfrac43$，再於 $x = 3$ 穿過 $x$ 軸。符合圖 (2)。\n\n故選 (B)"
+  },
+  {
+    "id": "115-ast-mb-07",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 根據經驗，某甲在閱讀某社群媒體上的文章時，對每篇文章是否「按讚」為獨立事件，且對每篇文章「按讚」的機率皆為 $\\dfrac13$。已知某甲在某日依序讀了 4 篇文章。試選出正確的選項。",
+    "options": [
+      "某甲對第 4 篇文章「按讚」的機率是 $\\dfrac13$",
+      "在某甲對第 1 篇文章「按讚」的條件下，某甲對第 2 篇文章「按讚」的機率小於 $\\dfrac13$",
+      "某甲在此 4 篇文章中，恰對 2 篇文章「按讚」的機率是 $\\dfrac{4}{81}$",
+      "某甲在此 4 篇文章中，至少對 2 篇文章「按讚」的機率是 $\\dfrac{11}{27}$",
+      "某甲在此 4 篇文章中，至少連續對 2 篇文章「按讚」的機率是 $\\dfrac{7}{27}$"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "• (A) 正確：每篇按讚機率都是 $\\dfrac13$。\n• (B) 錯誤：獨立事件，條件機率仍為 $\\dfrac13$。\n• (C) 錯誤：$\\dbinom42\\left(\\dfrac13\\right)^2\\left(\\dfrac23\\right)^2 = \\dfrac{24}{81} = \\dfrac{8}{27}$。\n• (D) 正確：$1 - \\left(\\dfrac23\\right)^4 - 4\\cdot\\dfrac13\\left(\\dfrac23\\right)^3 = 1 - \\dfrac{16}{81} - \\dfrac{32}{81} = \\dfrac{33}{81} = \\dfrac{11}{27}$。\n• (E) 正確：沒有連續兩篇按讚的情形：0 篇 $\\dfrac{16}{81}$；1 篇 $\\dfrac{32}{81}$；2 篇不相鄰（第 1、3／1、4／2、4 篇）$3\\cdot\\dfrac19\\cdot\\dfrac49 = \\dfrac{12}{81}$；3 篇以上必有相鄰。所求 $= 1 - \\dfrac{60}{81} = \\dfrac{21}{81} = \\dfrac{7}{27}$。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "115-ast-mb-08",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 設 $a_1, a_2, a_3, \\dots, a_7$ 為等差數列，且滿足 $10^{a_3} = 2$，$10^{a_5} = 5$。試選出正確的選項。",
+    "options": [
+      "$10^{a_1}, 10^{a_2}, 10^{a_3}, \\dots, 10^{a_7}$ 為等比數列",
+      "$10^{a_7} = \\dfrac{25}{2}$",
+      "$a_4 = \\log\\dfrac72$",
+      "$a_1 > 0$",
+      "$\\displaystyle\\sum_{k=3}^{6}(a_{k+1} - a_k) = 2 - 4\\log2$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "$a_3 = \\log2$，$a_5 = \\log5$，公差 $d = \\dfrac{\\log5 - \\log2}{2}$，$10^{2d} = \\dfrac52$。\n• (A) 正確：相鄰兩項比值固定為 $10^d$。\n• (B) 正確：$10^{a_7} = 10^{a_5}\\cdot10^{2d} = 5\\cdot\\dfrac52 = \\dfrac{25}{2}$。\n• (C) 錯誤：$a_4 = \\dfrac{a_3 + a_5}{2} = \\dfrac{\\log10}{2} = \\dfrac12$，而 $\\log\\dfrac72 \\approx 0.544$。\n• (D) 錯誤：$a_1 = a_3 - 2d = 2\\log2 - \\log5 = \\log\\dfrac45 < 0$。\n• (E) 正確：伸縮和 $= a_7 - a_3 = \\log\\dfrac{25}{2} - \\log2 = \\log\\dfrac{25}{4} = 2\\log5 - 2\\log2 = 2(1 - \\log2) - 2\\log2 = 2 - 4\\log2$。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "115-ast-mb-09",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "9. 某甲收集某廠牌車輛 50 筆行車速率（公里／小時）與煞停距離（公尺）的數據，並以行車速率為 $x$ 軸、煞停距離為 $y$ 軸繪製成散布圖，如圖所示，其中直線 $L$ 為 $y$ 對 $x$ 的最適直線（迴歸直線）。已知此 50 筆行車速率與煞停距離數據的平均數分別為 24.8 與 12.6，相關係數為 0.8，且直線 $L$ 通過點 $(6.8, 0)$。試選出正確的選項。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-ast-mb-09.png\" alt=\"行車速率與煞停距離的散布圖及迴歸直線 L\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "直線 $L$ 通過點 $(12.6, 24.8)$",
+      "直線 $L$ 的斜率為 0.8",
+      "當此廠牌車輛的行車速率為每小時 46.8 公里時，以最適直線 $L$ 推估其煞停距離應為 28 公尺",
+      "設此 50 筆數據行車速率的標準差為 $\\sigma_x$（公里／小時），且煞停距離的標準差為 $\\sigma_y$（公尺），則 $\\sigma_x > \\sigma_y$",
+      "若此 50 筆數據改以煞停距離為 $x$ 軸、行車速率為 $y$ 軸，則 $y$ 對 $x$ 的最適直線斜率為 $\\dfrac{10}{7}$"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "迴歸直線必過 $(24.8, 12.6)$，又過 $(6.8, 0)$，斜率 $= \\dfrac{12.6}{18} = 0.7$。\n• (A) 錯誤：應過 $(24.8, 12.6)$，坐標順序相反。\n• (B) 錯誤：斜率 0.7。\n• (C) 正確：$0.7\\times(46.8 - 6.8) = 28$。\n• (D) 正確：$0.7 = r\\dfrac{\\sigma_y}{\\sigma_x} = 0.8\\dfrac{\\sigma_y}{\\sigma_x}$，$\\dfrac{\\sigma_y}{\\sigma_x} = \\dfrac78 < 1$。\n• (E) 錯誤：新斜率 $= r\\dfrac{\\sigma_x}{\\sigma_y} = 0.8\\times\\dfrac87 = \\dfrac{32}{35}$（不是 $\\dfrac{1}{0.7} = \\dfrac{10}{7}$）。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "115-ast-mb-10",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "10. 設二階實數方陣 $I = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$、$A = \\begin{bmatrix} a & 1 \\\\ 0 & 1 \\end{bmatrix}$。已知 $A^2 + 2A = 3I$，則 $a =$ ⑩-1 ⑩-2。",
+    "blanks": [
+      "-",
+      "3"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "blankLabels": [
+      "10-1",
+      "10-2"
+    ],
+    "explanation": "$A^2 = \\begin{bmatrix} a^2 & a + 1 \\\\ 0 & 1 \\end{bmatrix}$，$A^2 + 2A = \\begin{bmatrix} a^2 + 2a & a + 3 \\\\ 0 & 3 \\end{bmatrix}$。\n要等於 $3I$：右上 $a + 3 = 0$，$a = -3$；檢查左上 $9 - 6 = 3$ ✓。\n答：$-3$"
+  },
+  {
+    "id": "115-ast-mb-11",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "11. 坐標平面上有四邊形 $\\Gamma$，其四個頂點分別為 $(6, 1)$、$(5, 5)$、$(2, 7)$ 和 $(-1, 8)$。若點 $P(x, y)$ 在 $\\Gamma$ 的內部（含邊界），則 $x + 4y$ 的最大值為 ⑪-1 ⑪-2。",
+    "blanks": [
+      "3",
+      "1"
+    ],
+    "blankLabels": [
+      "11-1",
+      "11-2"
+    ],
+    "explanation": "線性函數在多邊形（含邊界）上的最大值出現在頂點：\n$(6, 1)$：10；$(5, 5)$：25；$(2, 7)$：30；$(-1, 8)$：31。\n最大值 31。"
+  },
+  {
+    "id": "115-ast-mb-12",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "12. 箱中有編號分別為 1, 2, 3, …, 10 的卡片各一張，共 10 張卡片。從箱子中一次取出 6 張卡片，此 6 張卡片編號的中位數恰為 5 的組合共有 ⑫-1 ⑫-2 種。",
+    "blanks": [
+      "2",
+      "1"
+    ],
+    "blankLabels": [
+      "12-1",
+      "12-2"
+    ],
+    "explanation": "6 張由小到大，中位數 = 第 3、4 張的平均 = 5，第 3、4 張可能是 $(4, 6)$、$(3, 7)$、$(2, 8)$、$(1, 9)$，且比第 3 張小的要選 2 張、比第 4 張大的要選 2 張：\n• $(4, 6)$：$\\dbinom32\\dbinom42 = 3\\times6 = 18$。\n• $(3, 7)$：$\\dbinom22\\dbinom32 = 3$。\n• $(2, 8)$、$(1, 9)$：比第 3 張小的不足 2 張，0 種。\n共 21 種。"
+  },
+  {
+    "id": "115-ast-mb-13",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "points": 3,
+    "question": "【第 13-15 題為題組】某藥廠經營者希望能夠控制成本。假設當藥廠產量為 $x$ 公斤時，總成本函數為 $C(x)$（單位：萬元），其中 $C(0)$ 稱為固定成本，$C(x) - C(0)$ 稱為變動成本函數。當 $x > 0$ 時，變動成本函數除以產量稱為平均變動成本函數 $A(x)$（單位：萬元／公斤），即平均變動成本函數為 $A(x) = \\dfrac{C(x) - C(0)}{x}$。今已知該藥廠的總成本函數為 $C(x) = x^3 - 12x^2 + 60x + 42$，其中 $0 \\le x \\le 15$。根據上述，試回答下列問題。\n13. 試問此藥廠的固定成本為多少萬元？（單選題，3 分）",
+    "options": [
+      "12",
+      "42",
+      "60",
+      "90",
+      "91"
+    ],
+    "answerIndex": 1,
+    "explanation": "固定成本 $C(0) = 42$ 萬元。\n\n故選 (B)"
+  },
+  {
+    "id": "115-ast-mb-14",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 4,
+    "question": "【第 13-15 題為題組】某藥廠經營者希望能夠控制成本。假設當藥廠產量為 $x$ 公斤時，總成本函數為 $C(x)$（單位：萬元），其中 $C(0)$ 稱為固定成本，$C(x) - C(0)$ 稱為變動成本函數。當 $x > 0$ 時，變動成本函數除以產量稱為平均變動成本函數 $A(x)$（單位：萬元／公斤），即平均變動成本函數為 $A(x) = \\dfrac{C(x) - C(0)}{x}$。今已知該藥廠的總成本函數為 $C(x) = x^3 - 12x^2 + 60x + 42$，其中 $0 \\le x \\le 15$。根據上述，試回答下列問題。\n14. 當 $0 < x \\le 15$ 時，試求此藥廠的平均變動成本函數 $A(x)$，並求右極限 $\\displaystyle\\lim_{x\\to0^+}A(x)$ 的值。（非選擇題，4 分）",
+    "selfGrade": true,
+    "blanks": [
+      "$A(x) = x^2 - 12x + 60$",
+      "右極限 60"
+    ],
+    "blankLabels": [
+      "A(x)",
+      "右極限"
+    ],
+    "explanation": "$A(x) = \\dfrac{x^3 - 12x^2 + 60x}{x} = x^2 - 12x + 60$（$x > 0$）。\n$\\displaystyle\\lim_{x\\to0^+}A(x) = \\lim_{x\\to0^+}(x^2 - 12x + 60) = 60$。"
+  },
+  {
+    "id": "115-ast-mb-15",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 13-15 題為題組】某藥廠經營者希望能夠控制成本。假設當藥廠產量為 $x$ 公斤時，總成本函數為 $C(x)$（單位：萬元），其中 $C(0)$ 稱為固定成本，$C(x) - C(0)$ 稱為變動成本函數。當 $x > 0$ 時，變動成本函數除以產量稱為平均變動成本函數 $A(x)$（單位：萬元／公斤），即平均變動成本函數為 $A(x) = \\dfrac{C(x) - C(0)}{x}$。今已知該藥廠的總成本函數為 $C(x) = x^3 - 12x^2 + 60x + 42$，其中 $0 \\le x \\le 15$。根據上述，試回答下列問題。\n15. 試求此藥廠的平均變動成本函數 $A(x)$ 的最小值，並求此時藥廠產量為多少公斤？（非選擇題，6 分）",
+    "selfGrade": true,
+    "blanks": [
+      "最小值 24（萬元／公斤）",
+      "產量 6 公斤"
+    ],
+    "blankLabels": [
+      "最小值",
+      "產量"
+    ],
+    "explanation": "配方：$A(x) = (x - 6)^2 + 24$（或 $A'(x) = 2x - 12 = 0$ 得 $x = 6$，且圖形開口向上）。\n$x = 6$ 在 $0 < x \\le 15$ 內，產量 6 公斤時有最小值 24 萬元／公斤。"
+  },
+  {
+    "id": "115-ast-mb-16",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "points": 3,
+    "question": "【第 16-18 題為題組】坐標平面上有一向量 $\\vec u = (1, 2)$ 及三點 $A(1, 1)$、$B(4, 2)$、$C$，其中點 $C$ 位於第二象限。已知 $\\vec u$ 與向量 $\\overrightarrow{CA}$ 垂直，且 $\\vec u$ 與向量 $\\overrightarrow{CB}$ 的夾角為 $\\theta$，其餘弦值為 $\\cos\\theta = \\dfrac{1}{\\sqrt{10}}$。根據上述，試回答下列問題。\n16. 試問下列哪一個向量與向量 $\\vec u$ 垂直？（單選題，3 分）",
+    "options": [
+      "$(-2, 1)$",
+      "$(-1, 0)$",
+      "$(-1, -2)$",
+      "$(1, -1)$",
+      "$(2, 1)$"
+    ],
+    "answerIndex": 0,
+    "explanation": "$(1, 2)\\cdot(-2, 1) = -2 + 2 = 0$。其他選項內積分別為 $-1$、$-5$、$-1$、$4$。\n\n故選 (A)"
+  },
+  {
+    "id": "115-ast-mb-17",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 16-18 題為題組】坐標平面上有一向量 $\\vec u = (1, 2)$ 及三點 $A(1, 1)$、$B(4, 2)$、$C$，其中點 $C$ 位於第二象限。已知 $\\vec u$ 與向量 $\\overrightarrow{CA}$ 垂直，且 $\\vec u$ 與向量 $\\overrightarrow{CB}$ 的夾角為 $\\theta$，其餘弦值為 $\\cos\\theta = \\dfrac{1}{\\sqrt{10}}$。根據上述，試回答下列問題。\n17. 試求向量 $\\overrightarrow{AB}$ 以及 $\\cos\\angle BAC$ 的值。（非選擇題，6 分）",
+    "selfGrade": true,
+    "blanks": [
+      "$\\overrightarrow{AB} = (3, 1)$",
+      "$\\cos\\angle BAC = -\\dfrac{\\sqrt2}{2}$"
+    ],
+    "blankLabels": [
+      "向量 AB",
+      "cos∠BAC"
+    ],
+    "explanation": "• $\\overrightarrow{AB} = (4 - 1, 2 - 1) = (3, 1)$。\n• $\\overrightarrow{CA} \\perp \\vec u$，由 16 題 $\\overrightarrow{AC}$ 平行 $(-2, 1)$，設 $\\overrightarrow{AC} = t(-2, 1)$，$C = (1 - 2t, 1 + t)$。$C$ 在第二象限需 $1 - 2t < 0$，所以 $t > 0$。\n$$\\cos\\angle BAC = \\frac{(3, 1)\\cdot(-2t, t)}{\\sqrt{10}\\cdot\\sqrt5\\,t} = \\frac{-5t}{5\\sqrt2\\,t} = -\\frac{\\sqrt2}{2}$$"
+  },
+  {
+    "id": "115-ast-mb-18",
+    "examType": "分科/指考",
+    "year": 115,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 16-18 題為題組】坐標平面上有一向量 $\\vec u = (1, 2)$ 及三點 $A(1, 1)$、$B(4, 2)$、$C$，其中點 $C$ 位於第二象限。已知 $\\vec u$ 與向量 $\\overrightarrow{CA}$ 垂直，且 $\\vec u$ 與向量 $\\overrightarrow{CB}$ 的夾角為 $\\theta$，其餘弦值為 $\\cos\\theta = \\dfrac{1}{\\sqrt{10}}$。根據上述，試回答下列問題。\n18. 試求線段 $\\overline{BC}$ 的長度。（非選擇題，6 分）",
+    "selfGrade": true,
+    "blanks": [
+      "$\\overline{BC} = 5\\sqrt2$"
+    ],
+    "blankLabels": [
+      "BC"
+    ],
+    "explanation": "$\\vec u\\perp\\overrightarrow{CA}$，所以 $\\vec u\\cdot\\overrightarrow{CB} = \\vec u\\cdot(\\overrightarrow{CA} + \\overrightarrow{AB}) = \\vec u\\cdot\\overrightarrow{AB} = (1, 2)\\cdot(3, 1) = 5$。\n又 $\\vec u\\cdot\\overrightarrow{CB} = |\\vec u|\\,|\\overrightarrow{CB}|\\cos\\theta = \\sqrt5\\cdot\\overline{BC}\\cdot\\dfrac{1}{\\sqrt{10}}$，\n$$5 = \\frac{\\overline{BC}}{\\sqrt2} \\implies \\overline{BC} = 5\\sqrt2$$\n（此時 $t = 2$，$C(-3, 3)$ 確實在第二象限。）"
   }
 ]
