@@ -234323,5 +234323,293 @@
       "距離"
     ],
     "explanation": "$\\det M = \\sqrt2 + \\sqrt2 = 2\\sqrt2$，$\\triangle A'B'C'$ 面積 $= 3\\times2\\sqrt2 = 6\\sqrt2$。$\\overline{A'B'} = 2$，距離 $= \\dfrac{2\\times6\\sqrt2}{2} = 6\\sqrt2$。"
+  },
+  {
+    "id": "102-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "1. 設 $a, b, c$ 為實數，且二次多項式 $f(x) = ax(x - 1) + bx(x - 3) + c(x - 1)(x - 3)$ 滿足 $f(0) = 6$、$f(1) = 2$、$f(3) = -2$。請問 $a + b + c$ 等於下列哪一個選項？",
+    "options": [
+      "0",
+      "$\\dfrac23$",
+      "1",
+      "$-\\dfrac12$",
+      "$-\\dfrac43$"
+    ],
+    "answerIndex": 1,
+    "explanation": "$f(0) = 3c = 6$，$c = 2$；$f(1) = -2b = 2$，$b = -1$；$f(3) = 6a = -2$，$a = -\\dfrac13$。\n$a + b + c = \\dfrac23$。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "2. 綜合數種糧食的【糧食自給率】定義為 A/B，其中 A 為「每一種糧食之國內生產量乘以該糧食每單位產生熱量之後的總和」，B 為「每一種糧食之國內消費量乘以該糧食每單位產生熱量之後的總和」。已知甲、乙、丙三種糧食相關數據如下表。請問綜合甲、乙、丙這三種糧食的【糧食自給率】最接近下列哪一個選項？",
+    "svg": "<svg viewBox=\"0 0 544 128\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">糧食</text><rect x=\"62\" y=\"4\" width=\"150\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">國內生產量（千公噸）</text><rect x=\"212\" y=\"4\" width=\"150\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">國內消費量（千公噸）</text><rect x=\"362\" y=\"4\" width=\"180\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">單位熱量（大卡／百公克）</text><rect x=\"2\" y=\"34\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"62\" y=\"34\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1000</text><rect x=\"212\" y=\"34\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1200</text><rect x=\"362\" y=\"34\" width=\"180\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">300</text><rect x=\"2\" y=\"64\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"83.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"62\" y=\"64\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"83.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">280</text><rect x=\"212\" y=\"64\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"83.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">320</text><rect x=\"362\" y=\"64\" width=\"180\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"83.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"2\" y=\"94\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"113.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"62\" y=\"94\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"113.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"212\" y=\"94\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"113.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1000</text><rect x=\"362\" y=\"94\" width=\"180\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"113.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">600</text></svg>",
+    "options": [
+      "37%",
+      "39%",
+      "41%",
+      "43%",
+      "45%"
+    ],
+    "answerIndex": 1,
+    "explanation": "$A = 1000\\cdot300 + 280\\cdot100 + 100\\cdot600 = 388000$；$B = 1200\\cdot300 + 320\\cdot100 + 1000\\cdot600 = 992000$。\n$\\dfrac AB \\approx 0.391$，約 39%。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "3. 坐標平面上兩點 $(4, 1)$ 和 $(5, 9)$ 在直線 $3x - y - k = 0$ 的兩側，其中 $k$ 為整數。請選出正確的選項。",
+    "options": [
+      "滿足上式的 $k$ 最少有 5 個",
+      "所有滿足上式的 $k$ 的總和是 35",
+      "所有滿足上式的 $k$ 中，最小的是 7",
+      "所有滿足上式的 $k$ 的平均是 9",
+      "所有滿足上式的 $k$ 中，奇數與偶數的個數相同"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "兩點代入異號：$(11 - k)(6 - k) < 0$，$6 < k < 11$，$k = 7, 8, 9, 10$。\n• (A) 錯誤：4 個。(B) 錯誤：和 34。(C) 正確。(D) 錯誤：平均 8.5。(E) 正確：奇偶各 2 個。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "102-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 下列有關循環小數的敘述中，請選出正確的選項。",
+    "options": [
+      "$0.\\overline{7} + 0.\\overline{3} = 0.\\overline{6} + 0.\\overline{4}$",
+      "$0.\\overline{72} + 0.\\overline{28} = 1.\\overline{1}$",
+      "$0.\\overline{7} + 0.\\overline{3} = 1$",
+      "$0.\\overline{5} + 0.\\overline{5} = 1.\\overline{1}$",
+      "$0.4\\overline{9} = 0.5$"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "• (A) 正確：兩邊都是 $\\dfrac{10}{9}$。\n• (B) 錯誤：$\\dfrac{72 + 28}{99} = \\dfrac{100}{99} = 1.\\overline{01}$。\n• (C) 錯誤：$\\dfrac{10}{9} \\ne 1$。\n• (D) 正確：$\\dfrac{10}{9} = 1.\\overline{1}$。\n• (E) 正確：$0.4\\overline{9} = 0.4 + \\dfrac{9}{90} = 0.5$。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "102-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 某研究所處理個人申請入學，其甄選總成績係採計測驗 A 分數及測驗 B 分數各占 50%。50 位申請同學依甄選總成績高低排序，錄取前 20 名。所有學生測驗 A 分數的平均數為 97.38，而測驗 B 分數的平均數為 40.22。依准考證號碼順序，將這些同學的成績列表如下（見表）。現從甄選總成績、測驗 A 分數及測驗 B 分數之中任選兩種成績作散佈圖，圖甲及圖乙為其中之二；兩圖中各有 50 個資料點，每一點代表一位學生；兩個橫軸與縱軸之單位長可能皆不相同。請選出正確的選項。",
+    "svg": "<svg viewBox=\"0 0 594 302\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">測驗 A</text><rect x=\"72\" y=\"4\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">93</text><rect x=\"112\" y=\"4\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"152\" y=\"4\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"192\" y=\"4\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"232\" y=\"4\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"272\" y=\"4\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"312\" y=\"4\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"352\" y=\"4\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"392\" y=\"4\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"432\" y=\"4\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"472\" y=\"4\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"512\" y=\"4\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"552\" y=\"4\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"23.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"2\" y=\"34\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">測驗 B</text><rect x=\"72\" y=\"34\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28</text><rect x=\"112\" y=\"34\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">50</text><rect x=\"152\" y=\"34\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">59</text><rect x=\"192\" y=\"34\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">22</text><rect x=\"232\" y=\"34\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">52</text><rect x=\"272\" y=\"34\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">67</text><rect x=\"312\" y=\"34\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">30</text><rect x=\"352\" y=\"34\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">15</text><rect x=\"392\" y=\"34\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">46</text><rect x=\"432\" y=\"34\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"472\" y=\"34\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">72</text><rect x=\"512\" y=\"34\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">21</text><rect x=\"552\" y=\"34\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"53.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">59</text><rect x=\"2\" y=\"82\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">測驗 A</text><rect x=\"72\" y=\"82\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">93</text><rect x=\"112\" y=\"82\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"152\" y=\"82\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"192\" y=\"82\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"232\" y=\"82\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"272\" y=\"82\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"312\" y=\"82\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"352\" y=\"82\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"392\" y=\"82\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"432\" y=\"82\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"472\" y=\"82\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"512\" y=\"82\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"552\" y=\"82\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"101.33333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"2\" y=\"112\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">測驗 B</text><rect x=\"72\" y=\"112\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">24</text><rect x=\"112\" y=\"112\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13</text><rect x=\"152\" y=\"112\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">53</text><rect x=\"192\" y=\"112\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">33</text><rect x=\"232\" y=\"112\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">61</text><rect x=\"272\" y=\"112\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">57</text><rect x=\"312\" y=\"112\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">55</text><rect x=\"352\" y=\"112\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">26</text><rect x=\"392\" y=\"112\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35</text><rect x=\"432\" y=\"112\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40</text><rect x=\"472\" y=\"112\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"512\" y=\"112\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">60</text><rect x=\"552\" y=\"112\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"131.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">23</text><rect x=\"2\" y=\"160\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">測驗 A</text><rect x=\"72\" y=\"160\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"112\" y=\"160\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"152\" y=\"160\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"192\" y=\"160\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"232\" y=\"160\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"272\" y=\"160\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"312\" y=\"160\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"352\" y=\"160\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"392\" y=\"160\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">91</text><rect x=\"432\" y=\"160\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"472\" y=\"160\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"512\" y=\"160\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"552\" y=\"160\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"179.33333333333334\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"2\" y=\"190\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">測驗 B</text><rect x=\"72\" y=\"190\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">66</text><rect x=\"112\" y=\"190\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">29</text><rect x=\"152\" y=\"190\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">34</text><rect x=\"192\" y=\"190\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">58</text><rect x=\"232\" y=\"190\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">55</text><rect x=\"272\" y=\"190\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35</text><rect x=\"312\" y=\"190\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">16</text><rect x=\"352\" y=\"190\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28</text><rect x=\"392\" y=\"190\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28</text><rect x=\"432\" y=\"190\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">72</text><rect x=\"472\" y=\"190\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">51</text><rect x=\"512\" y=\"190\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">39</text><rect x=\"552\" y=\"190\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"209.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40</text><rect x=\"2\" y=\"238\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"257.3333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">測驗 A</text><rect x=\"72\" y=\"238\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"257.3333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"112\" y=\"238\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"257.3333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"152\" y=\"238\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"257.3333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"192\" y=\"238\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"257.3333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">93</text><rect x=\"232\" y=\"238\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"257.3333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"272\" y=\"238\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"257.3333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">96</text><rect x=\"312\" y=\"238\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"257.3333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"352\" y=\"238\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"257.3333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"392\" y=\"238\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"257.3333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"432\" y=\"238\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"257.3333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">98</text><rect x=\"472\" y=\"238\" width=\"40\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"257.3333333333333\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">93</text><rect x=\"2\" y=\"268\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"287.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">測驗 B</text><rect x=\"72\" y=\"268\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"287.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">18</text><rect x=\"112\" y=\"268\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"287.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">43</text><rect x=\"152\" y=\"268\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"287.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"192\" y=\"268\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"287.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">38</text><rect x=\"232\" y=\"268\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"287.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32</text><rect x=\"272\" y=\"268\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"287.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">53</text><rect x=\"312\" y=\"268\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"287.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">38</text><rect x=\"352\" y=\"268\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"287.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">53</text><rect x=\"392\" y=\"268\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"287.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">30</text><rect x=\"432\" y=\"268\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"287.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">54</text><rect x=\"472\" y=\"268\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"287.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">72</text></svg><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-mb-05.png\" alt=\"圖甲：點幾乎排成一條上升直線；圖乙：橫軸只有五個位置，各位置上有一串點\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖乙的橫軸為測驗 A 分數",
+      "圖乙的縱軸為甄選總成績",
+      "圖甲的橫軸為甄選總成績",
+      "若只以測驗 B 分數高低錄取 20 位同學（不採計測驗 A 分數），錄取的同學與以甄選總成績高低錄取的同學完全相同",
+      "甄選總成績的平均數為 97.38 及 40.22 的平均數"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explanation": "兩圖縱軸刻度 55～85，正是總成績 $\\dfrac{A + B}{2}$ 的範圍（$A$ 都在 91 以上，$B$ 最多 72）。\n• (A)(B) 正確：圖乙的橫軸只有 5 個位置，是只取 91、93、96、98、100 的測驗 A；縱軸為總成績。\n• (C) 錯誤：圖甲縱軸是總成績，橫軸是測驗 B（$A$ 幾乎相同，總成績幾乎由 $B$ 決定，點呈直線）。\n• (D) 正確：$B \\ge 50$ 的恰有 20 人，他們的總成績最低 73.5；其餘 30 人的總成績最高 72（$B = 46$、$A = 98$），排名切點相同。\n• (E) 正確：平均數有線性性質。\n\n故選 (A)(B)(D)(E)"
+  },
+  {
+    "id": "102-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 想要了解選民對某候選人真正的支持度（支持率）$p$，四家媒體所做的民意調查結果如下表所示，其中 $\\hat p$ 表示抽樣支持度，$\\hat\\sigma = \\sqrt{\\dfrac{\\hat p(1 - \\hat p)}{n}}$，$n$ 為抽樣人數。請選出正確的選項。",
+    "svg": "<svg viewBox=\"0 0 374 98\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:448.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"50\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"52\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">媒體 A</text><rect x=\"132\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">媒體 B</text><rect x=\"212\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">媒體 C</text><rect x=\"292\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">媒體 D</text><rect x=\"2\" y=\"34\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">p̂</text><rect x=\"52\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.30</text><rect x=\"132\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.40</text><rect x=\"212\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.30</text><rect x=\"292\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.28</text><rect x=\"2\" y=\"64\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">σ̂</text><rect x=\"52\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.02</text><rect x=\"132\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">σ̂_B</text><rect x=\"212\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.01</text><rect x=\"292\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.01</text></svg>",
+    "options": [
+      "在 95% 的信心水準之下，媒體 $A$ 抽樣所得 $p$ 的信賴區間為 $[0.28, 0.32]$",
+      "如果媒體 $B$ 抽樣的人數與媒體 $A$ 相同，則 $\\hat\\sigma_B$ 大於 0.02",
+      "媒體 $C$ 抽樣人數約為媒體 $A$ 抽樣人數的兩倍",
+      "媒體 $A$ 的抽樣支持度比媒體 $B$ 的抽樣支持度更接近候選人真正的支持度 $p$",
+      "在 95% 的信心水準之下，至少有一家媒體抽樣所得 $p$ 的信賴區間會包含真正的支持度 $p$"
+    ],
+    "answerIndices": [
+      1
+    ],
+    "explanation": "• (A) 錯誤：95% 信賴區間 $\\hat p \\pm 2\\hat\\sigma = [0.26, 0.34]$。\n• (B) 正確：$\\hat p(1 - \\hat p)$ 由 0.21 變 0.24，$n$ 相同時 $\\hat\\sigma_B > 0.02$。\n• (C) 錯誤：$\\hat p$ 相同、$\\hat\\sigma$ 減半，$n$ 要 4 倍。\n• (D) 錯誤：真正的 $p$ 未知，無法判斷。\n• (E) 錯誤：95% 只是長期的比例，不保證任何一次一定包含。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-mb-07",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 已知二階方陣 $A = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$ 滿足 $A\\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} 5 \\\\ 2 \\end{bmatrix}$，$A\\begin{bmatrix} 1 \\\\ 2 \\end{bmatrix} = \\begin{bmatrix} 7 \\\\ 4 \\end{bmatrix}$。請選出正確的選項。",
+    "options": [
+      "$A$ 的行列式（值）為 6",
+      "$A^2 = 5A - 6\\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$",
+      "$A^{-1} = \\begin{bmatrix} 2 & -2 \\\\ 0 & 3 \\end{bmatrix}$",
+      "$A\\begin{bmatrix} 1 \\\\ 3 \\end{bmatrix} = \\begin{bmatrix} 9 \\\\ 6 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 & 1 \\end{bmatrix}A = \\begin{bmatrix} 5 & 7 \\end{bmatrix}$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "$A = \\begin{bmatrix} 5 & 7 \\\\ 2 & 4 \\end{bmatrix}\\begin{bmatrix} 1 & 1 \\\\ 1 & 2 \\end{bmatrix}^{-1} = \\begin{bmatrix} 5 & 7 \\\\ 2 & 4 \\end{bmatrix}\\begin{bmatrix} 2 & -1 \\\\ -1 & 1 \\end{bmatrix} = \\begin{bmatrix} 3 & 2 \\\\ 0 & 2 \\end{bmatrix}$。\n• (A) 正確：$6$。\n• (B) 正確：跡為 5、行列式為 6，$A^2 - 5A + 6I = O$。\n• (C) 錯誤：$A^{-1} = \\dfrac16\\begin{bmatrix} 2 & -2 \\\\ 0 & 3 \\end{bmatrix}$。\n• (D) 正確：$(3 + 6, 6)$。\n• (E) 錯誤：$\\begin{bmatrix} 3 & 4 \\end{bmatrix}$。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "102-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "A. 從玫瑰、菊花、杜鵑、蘭花、山茶、水仙、繡球等七盆花中選出四盆靠在牆邊排成一列，其中杜鵑及山茶都被選到，且此兩盆花位置相鄰的排法有 ⑧⑨⑩ 種。",
+    "blanks": [
+      "1",
+      "2",
+      "0"
+    ],
+    "blankLabels": [
+      "8",
+      "9",
+      "10"
+    ],
+    "explanation": "另選 2 盆：$\\dbinom52 = 10$；杜鵑、山茶綁在一起與另 2 盆排列：$3!\\times2 = 12$。共 120 種。"
+  },
+  {
+    "id": "102-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "B. 袋中有 3 顆白球與 1 顆黑球，每次隨機從袋中抽出 1 球，袋中每一球被抽到的機率皆相同，抽出後不放回，直到抽中黑球時遊戲結束。若在第 $k$ 次抽到黑球，則得到 $k$ 元獎金。此遊戲可獲得獎金的數學期望值為 $\\dfrac{⑪}{⑫}$ 元。（化為最簡分數）",
+    "blanks": [
+      "5",
+      "2"
+    ],
+    "blankLabels": [
+      "11",
+      "12"
+    ],
+    "explanation": "黑球落在第 1～4 次的機率都是 $\\dfrac14$，期望值 $\\dfrac{1 + 2 + 3 + 4}{4} = \\dfrac52$。"
+  },
+  {
+    "id": "102-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "C. 在坐標平面上，設 $O$ 為原點，向量 $\\vec a = (1, 2)$，$\\vec b = (2, 1)$，$\\vec c = (1, 1)$，$\\vec d = (-1, 1)$。$P$ 為平面上的動點，令點集合 $A = \\{P \\mid \\overrightarrow{OP} = x\\vec a + y\\vec b$ 且 $0 \\le x \\le 1$ 且 $0 \\le y \\le 1\\}$，點集合 $B = \\{P \\mid \\overrightarrow{OP} = x\\vec c + y\\vec d$ 且 $0 \\le x \\le 1$ 且 $0 \\le y \\le 1\\}$，則區域 $A \\cap B$ 的面積為 $\\dfrac{⑬}{⑭}$。（化為最簡分數）",
+    "blanks": [
+      "1",
+      "3"
+    ],
+    "blankLabels": [
+      "13",
+      "14"
+    ],
+    "explanation": "$B$ 是頂點 $(0, 0)$、$(1, 1)$、$(0, 2)$、$(-1, 1)$ 的正方形：$|x| \\le y \\le 2 - |x|$。$A$ 是頂點 $(0, 0)$、$(1, 2)$、$(3, 3)$、$(2, 1)$ 的平行四邊形，在原點附近夾在 $y = \\dfrac x2$ 與 $y = 2x$ 之間，遠端的邊都在 $x + y \\ge 2$ 之外。\n交集：$x \\le y \\le 2x$ 且 $x + y \\le 2$，是三角形 $(0, 0)$、$\\left(\\dfrac23, \\dfrac43\\right)$、$(1, 1)$，面積 $\\dfrac12\\left|\\dfrac23 - \\dfrac43\\right| = \\dfrac13$。"
+  },
+  {
+    "id": "102-ast-mb-non-1-1",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】已知 $\\log2 \\approx 0.3010$，$\\log3 \\approx 0.4771$。試回答下列問題。\n(1) 請以對數律計算 $\\log1.5$（不必四捨五入）。（3 分）",
+    "points": 3,
+    "blanks": [
+      "0.1761"
+    ],
+    "blankLabels": [
+      "log1.5"
+    ],
+    "explanation": "$\\log1.5 = \\log3 - \\log2 = 0.1761$。"
+  },
+  {
+    "id": "102-ast-mb-non-1-2",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】已知 $\\log2 \\approx 0.3010$，$\\log3 \\approx 0.4771$。試回答下列問題。\n(2) 請以對數律計算 $\\log(1.5)^{60}$（不必四捨五入）。（3 分）",
+    "points": 3,
+    "blanks": [
+      "10.566"
+    ],
+    "blankLabels": [
+      "值"
+    ],
+    "explanation": "$60\\times0.1761 = 10.566$。"
+  },
+  {
+    "id": "102-ast-mb-non-1-3",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】已知 $\\log2 \\approx 0.3010$，$\\log3 \\approx 0.4771$。試回答下列問題。\n(3) 請問 $(1.5)^{60}$ 的整數部分是幾位數？請說明理由。（3 分）",
+    "points": 3,
+    "blanks": [
+      "11 位數"
+    ],
+    "blankLabels": [
+      "位數"
+    ],
+    "explanation": "$10 \\le 10.566 < 11$，所以 $10^{10} \\le (1.5)^{60} < 10^{11}$，整數部分為 11 位數。"
+  },
+  {
+    "id": "102-ast-mb-non-1-4",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】已知 $\\log2 \\approx 0.3010$，$\\log3 \\approx 0.4771$。試回答下列問題。\n(4) 請問 $(1.5)^{60}$ 的整數部分中，最左邊的數字是幾？請說明理由。（3 分）",
+    "points": 3,
+    "blanks": [
+      "3"
+    ],
+    "blankLabels": [
+      "最左邊數字"
+    ],
+    "explanation": "尾數 0.566 介於 $\\log3 = 0.4771$ 與 $\\log4 = 0.6020$ 之間，所以 $(1.5)^{60} = 10^{0.566}\\times10^{10}$，$3 < 10^{0.566} < 4$，最左邊數字為 3。"
+  },
+  {
+    "id": "102-ast-mb-non-2",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某工廠使用三種貴金屬元素合成兩種合金，其中每單位的甲合金是由 5 公克的 A 金屬、3 公克的 B 金屬以及 3 公克的 C 金屬組成，而每單位的乙合金是由 3 公克的 A 金屬、6 公克的 B 金屬與 3 公克的 C 金屬所組成。已知甲、乙合金每單位的獲利分別為 600、700 元。若工廠此次進了 1000 公克的 A 金屬、1020 公克的 B 金屬與 660 公克的 C 金屬投入生產這兩種合金，試問甲、乙兩種合金各應生產多少單位，才能獲得最大利潤？又此時利潤為多少？（12 分）",
+    "points": 12,
+    "blanks": [
+      "甲 100 單位、乙 120 單位",
+      "最大利潤 144000 元"
+    ],
+    "blankLabels": [
+      "生產數量",
+      "最大利潤"
+    ],
+    "explanation": "設甲 $x$、乙 $y$：$5x + 3y \\le 1000$、$3x + 6y \\le 1020$（$x + 2y \\le 340$）、$3x + 3y \\le 660$（$x + y \\le 220$），$x, y \\ge 0$；利潤 $600x + 700y$。\n頂點 $(0, 0)$、$(200, 0)$、$(170, 50)$、$(100, 120)$、$(0, 170)$，利潤 0、120000、137000、144000、119000。\n甲 100 單位、乙 120 單位，最大利潤 144000 元。"
   }
 ]
