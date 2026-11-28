@@ -241185,5 +241185,287 @@
       "長度"
     ],
     "explanation": "$V(t) = \\pi(12 - t)^2(60 + 20t)$，$0 \\le t \\le 8$。$V'(t) = 60\\pi(12 - t)(2 - t)$，只在 $t = 2$ 為 0（極大），所以最小值在端點：\n$V(0) = 8640\\pi$，$V(8) = 16\\times220\\pi = 3520\\pi$。最小在 $t = 8$，長度 $60 + 160 = 220$ 公分。"
+  },
+  {
+    "id": "95-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "1. 在坐標平面上，選出與圓 $(x - 3)^2 + (y - 4)^2 = 5^2$ 相切的直線：",
+    "options": [
+      "$3x + 4y = 5$",
+      "$3x + 4y = 0$",
+      "$4x + 3y = 5$",
+      "$4x + 3y = 0$",
+      "$4x + 3y = 1$"
+    ],
+    "answerIndex": 1,
+    "explanation": "圓心 $(3, 4)$ 到 $3x + 4y = k$ 的距離 $\\dfrac{|25 - k|}5 = 5$ ⇒ $k = 0$ 或 50；到 $4x + 3y = k$ 的距離 $\\dfrac{|24 - k|}5 = 5$ ⇒ $k = -1$ 或 49。只有 $3x + 4y = 0$ 相切（圓過原點）。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "2. 某大學數學系甄選入學的篩選方式如下：先就學科能力測驗國文、英文和社會這三科成績（級分）加總做第一次篩選。然後從通過篩選的學生當中，以自然科的成績做第二次篩選。最後再從通過的學生當中，以數學科的成績做第三次篩選，選出一些學生參加面試。現在有五位報名該系的學生的學科能力測驗成績如下表。已知這五位學生當中，通過第一次篩選的有四位，通過第二次篩選的有三位，通過第三次篩選可以參加面試的只剩下一位。請問哪一位學生參加面試？",
+    "svg": "<svg viewBox=\"0 0 490 164\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"56\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">學生</text><rect x=\"58\" y=\"4\" width=\"86\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"101\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">國文級分</text><rect x=\"144\" y=\"4\" width=\"86\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">英文級分</text><rect x=\"230\" y=\"4\" width=\"86\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"273\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">數學級分</text><rect x=\"316\" y=\"4\" width=\"86\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"359\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">社會級分</text><rect x=\"402\" y=\"4\" width=\"86\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"445\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">自然級分</text><rect x=\"2\" y=\"30\" width=\"56\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"58\" y=\"30\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"101\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13</text><rect x=\"144\" y=\"30\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"230\" y=\"30\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"273\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14</text><rect x=\"316\" y=\"30\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"359\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">15</text><rect x=\"402\" y=\"30\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"445\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"2\" y=\"56\" width=\"56\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"58\" y=\"56\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"101\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12</text><rect x=\"144\" y=\"56\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12</text><rect x=\"230\" y=\"56\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"273\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12</text><rect x=\"316\" y=\"56\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"359\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12</text><rect x=\"402\" y=\"56\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"445\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12</text><rect x=\"2\" y=\"82\" width=\"56\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"58\" y=\"82\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"101\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"144\" y=\"82\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13</text><rect x=\"230\" y=\"82\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"273\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">15</text><rect x=\"316\" y=\"82\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"359\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"402\" y=\"82\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"445\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">15</text><rect x=\"2\" y=\"108\" width=\"56\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"58\" y=\"108\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"101\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"144\" y=\"108\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12</text><rect x=\"230\" y=\"108\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"273\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13</text><rect x=\"316\" y=\"108\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"359\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10</text><rect x=\"402\" y=\"108\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"445\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13</text><rect x=\"2\" y=\"134\" width=\"56\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">戊</text><rect x=\"58\" y=\"134\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"101\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13</text><rect x=\"144\" y=\"134\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">15</text><rect x=\"230\" y=\"134\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"273\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11</text><rect x=\"316\" y=\"134\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"359\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"402\" y=\"134\" width=\"86\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"445\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12</text></svg>",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "國英社總和：甲 36、乙 36、丙 30、丁 33、戊 35，丙被刷掉。\n自然：甲 11、乙 12、丁 13、戊 12，甲被刷掉。\n數學：乙 12、丁 13、戊 11，丁最高。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "3. 假設 $\\vec a, \\vec b, \\vec c$ 是空間中三個向量，$r$ 是一個實數。已知 $\\vec a = (1, 1, 0)$，$\\vec b = (0, 1, 1)$ 且 $\\vec a, \\vec b, \\vec c$ 滿足 $\\vec a + \\vec b + r\\vec c = \\vec0$，那麼 $r$ 不可能等於下列哪一個數值：",
+    "options": [
+      "$-\\sqrt2$",
+      "0",
+      "1",
+      "$\\pi$（圓周率）",
+      "$10^{100}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "$r\\vec c = -(\\vec a + \\vec b) = (-1, -2, -1) \\ne \\vec0$，所以 $r \\ne 0$；任何非零 $r$ 都可取 $\\vec c = -\\dfrac1r(1, 2, 1)$。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 嘌呤是構成人體基因的重要物質，它的化學結構式主要是由一個正五邊形與一個正六邊形構成（令它們的邊長均為 1）的平面圖形，如下圖所示。試問以下哪些選項是正確的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-mb-04.png\" alt=\"正五邊形與正六邊形共用邊 OA，C 為五邊形頂點、B 為六邊形頂點，皆與 O 相鄰\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\angle BAC = 54^\\circ$",
+      "$O$ 是 $\\triangle ABC$ 的外接圓圓心",
+      "$\\overline{AB} = \\sqrt3$",
+      "$\\overline{BC} = 2\\sin66^\\circ$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "$\\overline{OA} = \\overline{OB} = \\overline{OC} = 1$，$O$ 是 $\\triangle ABC$ 的外心，(B) ✓。\n$\\angle AOC = 108^\\circ$、$\\angle AOB = 120^\\circ$，$\\angle BOC = 360^\\circ - 108^\\circ - 120^\\circ = 132^\\circ$。\n• (A) ✗：圓周角 $\\angle BAC = \\dfrac{132^\\circ}2 = 66^\\circ$。\n• (C) ✓：$\\overline{AB} = 2\\sin60^\\circ = \\sqrt3$。\n• (D) ✓：$\\overline{BC} = 2\\sin66^\\circ$。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "95-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 一個「訊息」是由一串 5 個數字排列組成，且每位數字都只能是 0 或 1，例如 10010 與 01011 就是兩個不同的訊息。兩個訊息的「距離」定義為此兩組數字串相對應位置中，數字不同的位置數。例如，數字串 10010 與 01011 在第 1, 2 及 5 三個位置不同，所以訊息 10010 與 01011 的距離為 3。試問以下哪些選項是正確的？",
+    "options": [
+      "與訊息 10010 相距最遠的訊息為 11101",
+      "任兩訊息之間的最大可能距離是 4",
+      "與訊息 10010 相距為 1 的訊息恰有 5 個",
+      "與訊息 10010 相距為 2 的訊息恰有 9 個"
+    ],
+    "answerIndices": [
+      2
+    ],
+    "explanation": "• (A) ✗：最遠的是每一位都相反的 01101（距離 5）；11101 的距離為 4。\n• (B) ✗：最大距離 5。\n• (C) ✓：改變其中一位，$\\dbinom51 = 5$ 個。\n• (D) ✗：$\\dbinom52 = 10$ 個。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 一個函數繪圖軟體的視窗預設的坐標平面之可視範圍為 $-15 \\le x \\le 15$ 及 $-10 \\le y \\le 10$，如下圖所示。當我們把視窗的比例尺調整為原來的二分之一時，視窗的可視範圍變成 $-30 \\le x \\le 30$ 及 $-20 \\le y \\le 20$，如下圖所示。試問以下哪些選項是正確的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-mb-06a.png\" alt=\"預設視窗 −15≤x≤15、−10≤y≤10\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-mb-06b.png\" alt=\"比例尺二分之一的視窗 −30≤x≤30、−20≤y≤20\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "如果把視窗的比例尺調整為原來的三分之一，那麼視窗的可視範圍變成 $-45 \\le x \\le 45$ 及 $-30 \\le y \\le 30$",
+      "如果把視窗的比例尺調整為原來的二分之一，那麼坐標平面上任一直線的斜率也變成原來的二分之一",
+      "使用預設的視窗時，只能看到 $y = x^2 - 30x + 190$ 與 $y = 5x - 60$ 這兩個圖形的一個交點",
+      "如果把視窗的比例尺調整為原來的五分之一，就可以看到 $y = x^2 - 30x + 190$ 與 $y = 5x - 60$ 這兩個圖形所有的交點"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "• (A) ✓：範圍放大 3 倍。\n• (B) ✗：$x$、$y$ 同比例縮放，直線斜率不變（只是看起來的位置改變）。\n• 交點：$x^2 - 35x + 250 = 0$，$x = 10$ 或 25，交點 $(10, -10)$、$(25, 65)$。\n• (C) ✓：預設視窗只看得到 $(10, -10)$。\n• (D) ✗：範圍 $-75 \\le x \\le 75$、$-50 \\le y \\le 50$，看不到 $(25, 65)$。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "95-ast-mb-07",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 某次數學測驗分為選擇題與非選擇題兩部分。下列的散佈圖中每個點 $(X, Y)$ 分別代表一位學生於此兩部分的得分，其中 $X$ 表該生選擇題的得分，$Y$ 表該生非選擇題的得分。設 $Z = X + Y$ 為各生在該測驗的總分。共有 11 位學生的得分數據。試問以下哪些選項是正確的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-mb-07.png\" alt=\"11 位學生 (X, Y) 散佈圖，X 約 15 到 48、Y 約 22 到 36\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$X$ 的中位數 $>$ $Y$ 的中位數",
+      "$X$ 的標準差 $>$ $Y$ 的標準差",
+      "$X$ 的全距 $>$ $Y$ 的全距",
+      "$Z$ 的中位數 $=$ $X$ 的中位數 $+$ $Y$ 的中位數"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "由圖讀出 11 點約為 $(15, 22), (20, 26), (25, 32), (28, 25), (30, 27), (35, 35), (36, 25), (37, 36), (41, 28), (45, 33), (48, 36)$。\n• (A) ✓：$X$ 中位數 35，$Y$ 中位數 28。\n• (B)(C) ✓：$X$ 分布在 15–48，$Y$ 只在 22–36，$X$ 的離散程度與全距都較大。\n• (D) ✗：$Z$ 依序約 37, 46, 57, 53, 57, 70, 61, 73, 69, 78, 84，中位數 61，不等於 $35 + 28 = 63$。中位數一般不具可加性。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "95-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "A. 一農夫想用 66 公尺長之竹籬圍成一長方形菜圃，並在其中一邊正中央留著寬 2 公尺的出入口，如下圖所示。此農夫所能圍成的最大面積為 ⑧⑨⑩ 平方公尺。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-mb-A.png\" alt=\"長方形菜圃，下邊中央留 2 公尺出入口\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "2",
+      "8",
+      "9"
+    ],
+    "blankLabels": [
+      "8",
+      "9",
+      "10"
+    ],
+    "explanation": "周長 $= 66 + 2 = 68$，長寬和 34，面積最大為 $17\\times17 = 289$ 平方公尺。"
+  },
+  {
+    "id": "95-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "B. 某機場基於飛航安全考量，限制機場附近建築物從機場中心地面到建築物頂樓的仰角不得超過 $8^\\circ$。某建築公司打算在離機場中心 3 公里且地表高度和機場中心一樣高的地方蓋一棟平均每樓層高 5 公尺的大樓。在符合機場的限制規定下，該大樓在地面以上最多可以蓋 ⑪⑫ 層樓。〔參考數據：$\\sin8^\\circ \\approx 0.1392$，$\\cos8^\\circ \\approx 0.9903$，$\\tan8^\\circ \\approx 0.1405$〕",
+    "blanks": [
+      "8",
+      "4"
+    ],
+    "blankLabels": [
+      "11",
+      "12"
+    ],
+    "explanation": "樓高上限 $3000\\tan8^\\circ \\approx 421.5$ 公尺，$\\dfrac{421.5}5 = 84.3$，最多 84 層。"
+  },
+  {
+    "id": "95-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "C. 如下圖所示，某摩天輪等分為 6 個全等區域。為了夜間的燈光造景，6 個區域分別採用不同顏色的燈光裝飾。若有 7 種不同顏色的燈光可供使用，則此摩天輪正面的夜間燈光造景共有 ⑬⑭⑮ 種不同的顏色排列方式。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-mb-C.png\" alt=\"圓形摩天輪等分為 6 個扇形區域\" style=\"width:100%;max-width:140px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "8",
+      "4",
+      "0"
+    ],
+    "blankLabels": [
+      "13",
+      "14",
+      "15"
+    ],
+    "explanation": "選 6 色排在 6 區：$P^7_6 = 5040$；摩天輪旋轉後相同的視為同一種，每種被重複算 6 次：$\\dfrac{5040}6 = 840$。"
+  },
+  {
+    "id": "95-ast-mb-non-1-1",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】珈慶杯撞球大賽的勝負是這樣決定的：裁判將寬 16 公分、長 7 公分的千元鈔票貼邊放置在長方形球台的左下角，如圖所示。甲、乙兩參賽者分別擊球，球靜止位置離鈔票中心點較近者獲勝。甲、乙擊球後，裁判拿尺仔細量得甲所擊球停在離球台左緣 23 公分，離球台下邊 39.5 公分處；乙所擊球停在離球台左緣 40 公分，離球台下邊 27.5 公分處。\n(1) 已知 $\\sqrt{1521}$ 是一個正整數，求此正整數。（3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-mb-non1.png\" alt=\"球台左下角貼著千元鈔票，甲、乙兩球的位置\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 3,
+    "blanks": [
+      "39"
+    ],
+    "blankLabels": [
+      "正整數"
+    ],
+    "explanation": "$39^2 = 1521$。"
+  },
+  {
+    "id": "95-ast-mb-non-1-2",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】珈慶杯撞球大賽的勝負是這樣決定的：裁判將寬 16 公分、長 7 公分的千元鈔票貼邊放置在長方形球台的左下角，如圖所示。甲、乙兩參賽者分別擊球，球靜止位置離鈔票中心點較近者獲勝。甲、乙擊球後，裁判拿尺仔細量得甲所擊球停在離球台左緣 23 公分，離球台下邊 39.5 公分處；乙所擊球停在離球台左緣 40 公分，離球台下邊 27.5 公分處。\n(2) 求甲所擊球停止位置與鈔票中心點的距離。（答案必須以最簡單的形式表示）（4 分）",
+    "points": 4,
+    "blanks": [
+      "39 公分"
+    ],
+    "blankLabels": [
+      "距離"
+    ],
+    "explanation": "以球台左下角為原點，鈔票中心 $(8, 3.5)$，甲 $(23, 39.5)$：距離 $\\sqrt{15^2 + 36^2} = \\sqrt{1521} = 39$ 公分。"
+  },
+  {
+    "id": "95-ast-mb-non-1-3",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】珈慶杯撞球大賽的勝負是這樣決定的：裁判將寬 16 公分、長 7 公分的千元鈔票貼邊放置在長方形球台的左下角，如圖所示。甲、乙兩參賽者分別擊球，球靜止位置離鈔票中心點較近者獲勝。甲、乙擊球後，裁判拿尺仔細量得甲所擊球停在離球台左緣 23 公分，離球台下邊 39.5 公分處；乙所擊球停在離球台左緣 40 公分，離球台下邊 27.5 公分處。\n(3) 如果你是裁判，你會裁定甲或乙獲勝？理由為何？（6 分）",
+    "points": 6,
+    "blanks": [
+      "甲獲勝（甲 39 公分、乙 40 公分）"
+    ],
+    "blankLabels": [
+      "裁定"
+    ],
+    "explanation": "乙 $(40, 27.5)$：距離 $\\sqrt{32^2 + 24^2} = 40$ 公分。$39 < 40$，甲較近，甲獲勝。"
+  },
+  {
+    "id": "95-ast-mb-non-2-1",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】為預防禽流感，營養師吩咐雞場主人每天必須從飼料中提供至少 84 單位的營養素 A、至少 72 單位的營養素 B 和至少 60 單位的營養素 C 給他的雞群。這三種營養素可由兩種飼料中獲得，且知第一種飼料每公斤售價 5 元並含有 7 單位的營養素 A，3 單位的營養素 B 與 3 單位的營養素 C；第二種飼料每公斤售價 4 元並含有 2 單位的營養素 A，6 單位的營養素 B 與 2 單位的營養素 C。\n(1) 若雞場主人每天使用 $x$ 公斤的第一種飼料與 $y$ 公斤的第二種飼料就能符合營養師吩咐，則除了 $x \\ge 0, y \\ge 0$ 兩個條件外，寫下 $x, y$ 必須滿足的不等式組。（3 分）",
+    "points": 3,
+    "blanks": [
+      "$7x + 2y \\ge 84$，$3x + 6y \\ge 72$，$3x + 2y \\ge 60$"
+    ],
+    "blankLabels": [
+      "不等式組"
+    ],
+    "explanation": "營養素 A、B、C 分別至少 84、72、60 單位。"
+  },
+  {
+    "id": "95-ast-mb-non-2-2",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】為預防禽流感，營養師吩咐雞場主人每天必須從飼料中提供至少 84 單位的營養素 A、至少 72 單位的營養素 B 和至少 60 單位的營養素 C 給他的雞群。這三種營養素可由兩種飼料中獲得，且知第一種飼料每公斤售價 5 元並含有 7 單位的營養素 A，3 單位的營養素 B 與 3 單位的營養素 C；第二種飼料每公斤售價 4 元並含有 2 單位的營養素 A，6 單位的營養素 B 與 2 單位的營養素 C。\n(2) 若雞場主人想以最少的飼料成本來達到雞群的營養要求，則 $x, y$ 的值為何？最少的飼料成本又是多少？（10 分）",
+    "points": 10,
+    "blanks": [
+      "$x = 18$、$y = 3$，最少 102 元"
+    ],
+    "blankLabels": [
+      "最佳解"
+    ],
+    "explanation": "可行區域的頂點：$(0, 42)$、$(6, 21)$（$7x + 2y = 84$ 與 $3x + 2y = 60$ 的交點）、$(18, 3)$（$3x + 2y = 60$ 與 $x + 2y = 24$ 的交點）、$(24, 0)$。\n成本 $5x + 4y$：168、114、102、120。最小為 $x = 18$、$y = 3$ 時的 102 元。"
   }
 ]
