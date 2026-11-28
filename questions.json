@@ -226570,5 +226570,306 @@
       "b"
     ],
     "explanation": "$x^3 - 4x^2 + 5x = mx \\iff x\\big(x^2 - 4x + (5 - m)\\big) = 0$。$x = 0$ 已是一個交點，另需 $x^2 - 4x + 5 - m = 0$ 有兩個相異正根：\n• 判別式 $16 - 4(5 - m) > 0 \\Rightarrow m > 1$；\n• 兩根積 $5 - m > 0 \\Rightarrow m < 5$（兩根和 4 已為正）。\n$1 < m < 5$，$a = 1$、$b = 5$。"
+  },
+  {
+    "id": "110-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "1. 下列選項分別為甲、乙、丙、丁、戊等五個地區 1 至 10 歲（以整數計）兒童罹患某疾病的人數散佈圖。試選出罹患某疾病的人數與年齡相關係數值最大的選項。（選項圖依序為 (A) 甲區～(E) 戊區）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/110-ast-mb-01.png\" alt=\"甲到戊五區的年齡與罹病人數散佈圖\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲區：人數幾乎不隨年齡改變",
+      "乙區：人數隨年齡幾乎成直線遞減",
+      "丙區：人數大致隨年齡增加，但上下起伏明顯",
+      "丁區：人數隨年齡幾乎成直線遞增",
+      "戊區：人數先增後減，呈拱形"
+    ],
+    "answerIndex": 3,
+    "explanation": "相關係數衡量「線性」關係，最大值為 1，需資料點幾乎落在一條斜率為正的直線上。\n• 甲：接近 0；乙：接近 $-1$；戊：先增後減，線性相關接近 0。\n• 丙、丁都是正相關，但丙的點散開，丁的點幾乎在一直線上，丁最大。\n\n故選 (D)"
+  },
+  {
+    "id": "110-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "2. 已知實係數二次多項式函數 $f(x)$ 滿足 $f(-1) = k$，$f(1) = 9k$，$f(3) = -15k$，其中 $k > 0$。設函數 $y = f(x)$ 圖形頂點的 $x$ 坐標為 $a$，試選出正確的選項。",
+    "options": [
+      "$a \\le -1$",
+      "$-1 < a < 1$",
+      "$a = 1$",
+      "$1 < a < 3$",
+      "$3 \\le a$"
+    ],
+    "answerIndex": 1,
+    "explanation": "設 $f(x) = px^2 + qx + r$：\n• $f(1) - f(-1) = 2q = 8k$，$q = 4k$；\n• $f(1) + f(-1) = 2p + 2r = 10k$；$f(3) = 9p + 12k + r = -15k$，得 $9p + r = -27k$。\n相減 $8p = -32k$，$p = -4k$。頂點 $a = -\\dfrac{q}{2p} = \\dfrac12$。\n\n故選 (B)"
+  },
+  {
+    "id": "110-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "3. 某公司舉辦年終抽獎活動，每人從編號分別為 1 至 6 的六張牌中隨機抽取兩張。假設每張牌抽到的機會均相等，且規則如下：（一）若這兩張牌的號碼之和是奇數，則可得獎金 100 元，此時抽獎結束；（二）若號碼之和為偶數，就將這兩張牌丟掉，再從剩下的四張牌中隨機抽取兩張牌，且其號碼之和為奇數，則可得獎金 50 元，其他情形則沒有獎金，此時抽獎結束。依上述規則，試求每人參加此抽獎活動的獎金期望值為多少元？",
+    "options": [
+      "50",
+      "70",
+      "72",
+      "80",
+      "100"
+    ],
+    "answerIndex": 1,
+    "explanation": "6 張中奇、偶各 3 張，共 $\\dbinom62 = 15$ 種抽法。\n• 和為奇數（一奇一偶）：$\\dfrac{9}{15} = \\dfrac35$，得 100 元。\n• 和為偶數 $\\dfrac25$：丟掉兩張同奇偶的牌後剩下 1 張與 3 張，再抽兩張為一奇一偶的機率 $\\dfrac{3}{6} = \\dfrac12$，得 50 元。\n期望值 $= 100\\cdot\\dfrac35 + 50\\cdot\\dfrac25\\cdot\\dfrac12 = 60 + 10 = 70$ 元。\n\n故選 (B)"
+  },
+  {
+    "id": "110-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 設 $a = \\log_2 8$，$b = \\log_3 1$，$c = \\log_{0.5}8$，試選出正確的選項。",
+    "options": [
+      "$b = 0$",
+      "$a + b + c > 0$",
+      "$a > b > c$",
+      "$a^2 > b^2 > c^2$",
+      "$2^a > 3^b > \\left(\\dfrac12\\right)^c$"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "$a = 3$、$b = 0$、$c = -3$。\n• (A) 正確。\n• (B) 錯誤：和為 0。\n• (C) 正確：$3 > 0 > -3$。\n• (D) 錯誤：$9 > 0$，但 $0 < 9$。\n• (E) 錯誤：$2^3 = 8$、$3^0 = 1$、$\\left(\\dfrac12\\right)^{-3} = 8$。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "110-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 某便利商店將甲、乙、丙三個積木模型和 $a$、$b$、$c$、$d$、$e$ 五個角色公仔，共八個玩具，分成兩袋販售。每袋均裝有四個玩具，其分裝的原則如下：（一）甲和 $a$ 必須裝在同一袋。（二）每袋至少裝有一個積木模型。（三）$d$ 和 $e$ 必須裝在不同袋。根據以上敘述，試選出正確的選項。",
+    "options": [
+      "每袋至少裝有兩個角色公仔",
+      "乙和丙必裝在不同袋",
+      "如果乙和 $d$ 裝在同一袋，則丙和 $e$ 必裝在同一袋",
+      "如果乙和 $d$ 裝在不同袋，則 $b$ 和 $c$ 必裝在不同袋",
+      "如果 $b$ 和 $c$ 裝在不同袋，則乙和丙必裝在同一袋"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "含甲的袋子 $X$ = {甲, $a$, $d$ 或 $e$ 其一, 另一件 $z$}，$z \\in$ {乙, 丙, $b$, $c$}（$z$ 不能讓乙、丙都在 $X$，否則另一袋沒有積木）；其餘四件在另一袋 $Y$。\n• (A) 正確：$X$ 有 $a$ 與 $d/e$；$Y$ 有另一個 $d/e$，且 {乙, 丙, $b$, $c$} 去掉 $z$ 後仍含 $b$ 或 $c$。\n• (B) 錯誤：$z = b$ 時乙、丙都在 $Y$。\n• (C) 錯誤：例如 $X$ = {甲, $a$, $e$, $b$}、$Y$ = {乙, 丙, $c$, $d$}，乙與 $d$ 同袋，但丙與 $e$ 不同袋。\n• (D) 錯誤：例如 $X$ = {甲, $a$, $e$, 乙}、$Y$ = {丙, $b$, $c$, $d$}，乙與 $d$ 不同袋，但 $b$、$c$ 同袋。\n• (E) 正確：$b$、$c$ 不同袋表示 $z$ 是 $b$ 或 $c$，乙、丙都在 $Y$。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "110-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 已知實數數列 $\\langle a_n\\rangle$ 滿足 $a_1 = 1$，$a_{n+1} = \\dfrac{2n + 1}{2n - 1}a_n$，$n$ 為正整數。試選出正確的選項。",
+    "options": [
+      "$a_2 = 3$",
+      "$a_4 = 9$",
+      "$\\langle a_n\\rangle$ 為等比數列",
+      "$\\displaystyle\\sum_{n=1}^{20}a_n = 400$",
+      "$\\displaystyle\\lim_{n\\to\\infty}\\frac{a_n}{n} = 2$"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "連乘相消：$a_n = \\dfrac31\\cdot\\dfrac53\\cdots\\dfrac{2n - 1}{2n - 3}\\cdot a_1 = 2n - 1$。\n• (A) 正確。\n• (B) 錯誤：$a_4 = 7$。\n• (C) 錯誤：是等差數列。\n• (D) 正確：前 20 個奇數和 $= 20^2 = 400$。\n• (E) 正確：$\\dfrac{2n - 1}{n} \\to 2$。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "110-ast-mb-07",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 已知某人每次飛鏢射中的機率皆為 $\\dfrac12$，且每次射飛鏢的結果均互相獨立。試從下列選項中，選出發生機率為 $\\dfrac12$ 的事件。",
+    "options": [
+      "連續射 2 次飛鏢，恰射中 1 次",
+      "連續射 4 次飛鏢，恰射中 2 次",
+      "連續射 4 次飛鏢，射中的總次數為奇數",
+      "連續射 6 次飛鏢，在第 1 次沒有射中的條件下，第 2 次有射中",
+      "連續射 6 次飛鏢，在前 2 次恰射中 1 次的條件下，後 4 次恰射中 2 次"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "• (A) 正確：$\\dbinom21\\dfrac14 = \\dfrac12$。\n• (B) 錯誤：$\\dbinom42\\dfrac{1}{16} = \\dfrac38$。\n• (C) 正確：1 次或 3 次：$\\dfrac{4 + 4}{16} = \\dfrac12$。\n• (D) 正確：獨立，條件機率仍為 $\\dfrac12$。\n• (E) 錯誤：獨立，等於後 4 次恰中 2 次的機率 $\\dfrac38$。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "110-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "A. 數線上有原點 $O$ 及三點 $A(-2)$、$B(10)$、$C(x)$，其中 $x$ 為實數。已知線段 $\\overline{BC}$、$\\overline{AC}$、$\\overline{OB}$ 長度大小關係為 $\\overline{BC} < \\overline{AC} < \\overline{OB}$，則 $x$ 的最大範圍為 ⑧ $< x <$ ⑨。",
+    "blanks": [
+      "4",
+      "8"
+    ],
+    "blankLabels": [
+      "8",
+      "9"
+    ],
+    "explanation": "• $\\overline{AC} < \\overline{OB} = 10$：$|x + 2| < 10$，$-12 < x < 8$。\n• $\\overline{BC} < \\overline{AC}$：$C$ 離 10 比離 $-2$ 近，$x > 4$（兩點中點）。\n所以 $4 < x < 8$。"
+  },
+  {
+    "id": "110-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "B. 設矩陣 $A = \\begin{bmatrix} 1 & -2 \\\\ 0 & 1 \\end{bmatrix}\\begin{bmatrix} 1 & 0 \\\\ 0 & 6 \\end{bmatrix}\\begin{bmatrix} 1 & -2 \\\\ 0 & 1 \\end{bmatrix}^{-1}$，$B = \\begin{bmatrix} 1 & -2 \\\\ 0 & 1 \\end{bmatrix}\\begin{bmatrix} 6 & 0 \\\\ 0 & 1 \\end{bmatrix}\\begin{bmatrix} 1 & -2 \\\\ 0 & 1 \\end{bmatrix}^{-1}$，其中 $\\begin{bmatrix} 1 & -2 \\\\ 0 & 1 \\end{bmatrix}^{-1}$ 為矩陣 $\\begin{bmatrix} 1 & -2 \\\\ 0 & 1 \\end{bmatrix}$ 的反方陣。若 $A + B = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$，則 $a + b + c + d =$ ⑩⑪。",
+    "blanks": [
+      "1",
+      "4"
+    ],
+    "blankLabels": [
+      "10",
+      "11"
+    ],
+    "explanation": "令 $P = \\begin{bmatrix} 1 & -2 \\\\ 0 & 1 \\end{bmatrix}$，則\n$$A + B = P\\left(\\begin{bmatrix} 1 & 0 \\\\ 0 & 6 \\end{bmatrix} + \\begin{bmatrix} 6 & 0 \\\\ 0 & 1 \\end{bmatrix}\\right)P^{-1} = P(7I)P^{-1} = 7I$$\n$a + b + c + d = 7 + 0 + 0 + 7 = 14$。"
+  },
+  {
+    "id": "110-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "C. 已知一個不均勻銅板，投擲時出現正面的機率為 $\\dfrac13$，出現反面的機率為 $\\dfrac23$。今在坐標平面上有一顆棋子，依投擲此銅板的正反面結果，前進至下一個位置，規則如下：（一）若擲出為正面，則從目前位置依著向量 $(-1, 2)$ 的方向與長度，前進至下一個位置；（二）若擲出為反面，則從目前位置依著向量 $(1, 0)$ 的方向與長度，前進至下一個位置。例如：棋子目前位置在坐標 $(2, 4)$，若擲出反面，則棋子前進至坐標 $(3, 4)$。假設棋子以原點 $(0, 0)$ 為起始點，依上述規則，連續投擲此銅板 6 次，且每次投擲均互相獨立，則經過 6 次移動後，棋子停在坐標 (⑫, ⑬) 的機率最大。",
+    "blanks": [
+      "2",
+      "4"
+    ],
+    "blankLabels": [
+      "12",
+      "13"
+    ],
+    "explanation": "6 次中正面 $k$ 次，位置 $k(-1, 2) + (6 - k)(1, 0) = (6 - 2k, 2k)$，機率 $\\dbinom6k\\left(\\dfrac13\\right)^k\\left(\\dfrac23\\right)^{6-k} = \\dfrac{\\binom6k2^{6-k}}{3^6}$。\n分子：$k = 0, 1, 2, 3$ 分別為 64、192、240、160，之後更小；$k = 2$ 最大，位置 $(2, 4)$。"
+  },
+  {
+    "id": "110-ast-mb-non-1-1",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標平面上有兩點 $A(-3, 4)$、$B(3, 2)$ 及一條直線 $L$。已知 $A$、$B$ 兩點在直線 $L$ 的兩側且 $\\vec n = (4, -3)$ 是直線 $L$ 的法向量。設 $A$ 點到直線 $L$ 的距離為 $B$ 點到直線 $L$ 的距離的 5 倍。根據上述，試回答下列問題。\n(1) 試求向量 $\\overrightarrow{AB}$ 與向量 $\\vec n$ 的內積。（4 分）",
+    "points": 4,
+    "blanks": [
+      "30"
+    ],
+    "blankLabels": [
+      "內積"
+    ],
+    "explanation": "$\\overrightarrow{AB} = (6, -2)$，$(6, -2)\\cdot(4, -3) = 24 + 6 = 30$。"
+  },
+  {
+    "id": "110-ast-mb-non-1-2",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標平面上有兩點 $A(-3, 4)$、$B(3, 2)$ 及一條直線 $L$。已知 $A$、$B$ 兩點在直線 $L$ 的兩側且 $\\vec n = (4, -3)$ 是直線 $L$ 的法向量。設 $A$ 點到直線 $L$ 的距離為 $B$ 點到直線 $L$ 的距離的 5 倍。根據上述，試回答下列問題。\n(2) 試求直線 $L$ 的方程式。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$4x - 3y - 1 = 0$"
+    ],
+    "blankLabels": [
+      "L"
+    ],
+    "explanation": "設 $L: 4x - 3y + k = 0$。代入：$A$ 得 $k - 24$，$B$ 得 $k + 6$，兩者異號（兩側）且 $|k - 24| = 5|k + 6|$。\n在 $-6 < k < 24$ 時 $24 - k = 5(k + 6)$，$k = -1$。$L: 4x - 3y - 1 = 0$。"
+  },
+  {
+    "id": "110-ast-mb-non-1-3",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標平面上有兩點 $A(-3, 4)$、$B(3, 2)$ 及一條直線 $L$。已知 $A$、$B$ 兩點在直線 $L$ 的兩側且 $\\vec n = (4, -3)$ 是直線 $L$ 的法向量。設 $A$ 點到直線 $L$ 的距離為 $B$ 點到直線 $L$ 的距離的 5 倍。根據上述，試回答下列問題。\n(3) 設 $P$ 點在直線 $L$ 上且 $\\overline{PA} = \\overline{PB}$，試求 $P$ 點坐標。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$P(-2, -3)$"
+    ],
+    "blankLabels": [
+      "P"
+    ],
+    "explanation": "$P$ 在 $\\overline{AB}$ 的中垂線上：中點 $(0, 3)$、法向量 $\\overrightarrow{AB} = (6, -2)$，中垂線 $3x - y + 3 = 0$。\n與 $4x - 3y = 1$ 聯立：$4x - 3(3x + 3) = 1$，$x = -2$、$y = -3$。$P(-2, -3)$。"
+  },
+  {
+    "id": "110-ast-mb-non-2-1",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】已知某廠商生產甲、乙兩型電動車所需的成本有電池、馬達、其他等三大類，甲、乙兩型的各類成本如下表（單位：萬元）。今該廠商甲、乙兩型電動車售價的算式為「電池成本的 $x$ 倍」、「馬達成本的 $y$ 倍」與「其他成本的 $\\dfrac{x + y}{2}$ 倍」之總和，即：售價 = 電池成本 $\\times x$ + 馬達成本 $\\times y$ + 其他成本 $\\times\\dfrac{x + y}{2}$。其中倍數 $x$、$y$ 需滿足「$1 \\le x \\le 2$，$1 \\le y \\le 2$，且甲、乙兩型電動車的售價均不超過 200 萬元」。該廠商為了區隔產品，希望甲、乙兩型電動車的售價差距最大。根據上述資訊，試回答下列問題。\n(1) 試寫出甲、乙兩型電動車的售價（以 x、y 的式子來表示），並說明「甲型電動車的售價必定高於乙型電動車的售價」。（4 分）",
+    "svg": "<svg viewBox=\"0 0 374 98\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:448.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"72\" y=\"4\" width=\"100\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">電池成本</text><rect x=\"172\" y=\"4\" width=\"100\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">馬達成本</text><rect x=\"272\" y=\"4\" width=\"100\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">其他成本</text><rect x=\"2\" y=\"34\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">甲型</text><rect x=\"72\" y=\"34\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">56</text><rect x=\"172\" y=\"34\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">26</text><rect x=\"272\" y=\"34\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">48</text><rect x=\"2\" y=\"64\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">乙型</text><rect x=\"72\" y=\"64\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">40</text><rect x=\"172\" y=\"64\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20</text><rect x=\"272\" y=\"64\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">56</text></svg>",
+    "points": 4,
+    "blanks": [
+      "甲 $80x + 50y$、乙 $68x + 48y$",
+      "差 $12x + 2y > 0$"
+    ],
+    "blankLabels": [
+      "售價",
+      "說明"
+    ],
+    "explanation": "• 甲：$56x + 26y + 48\\cdot\\dfrac{x + y}{2} = 80x + 50y$。\n• 乙：$40x + 20y + 56\\cdot\\dfrac{x + y}{2} = 68x + 48y$。\n差 $= 12x + 2y > 0$（$x, y \\ge 1$），所以甲型售價必定較高。"
+  },
+  {
+    "id": "110-ast-mb-non-2-2",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】已知某廠商生產甲、乙兩型電動車所需的成本有電池、馬達、其他等三大類，甲、乙兩型的各類成本如下表（單位：萬元）。今該廠商甲、乙兩型電動車售價的算式為「電池成本的 $x$ 倍」、「馬達成本的 $y$ 倍」與「其他成本的 $\\dfrac{x + y}{2}$ 倍」之總和，即：售價 = 電池成本 $\\times x$ + 馬達成本 $\\times y$ + 其他成本 $\\times\\dfrac{x + y}{2}$。其中倍數 $x$、$y$ 需滿足「$1 \\le x \\le 2$，$1 \\le y \\le 2$，且甲、乙兩型電動車的售價均不超過 200 萬元」。該廠商為了區隔產品，希望甲、乙兩型電動車的售價差距最大。根據上述資訊，試回答下列問題。\n(2) 試在坐標平面上，畫出滿足題幹條件 (x, y) 的可行解區域，並以斜線標示該區域。（4 分）",
+    "svg": "<svg viewBox=\"0 0 374 98\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:448.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"72\" y=\"4\" width=\"100\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">電池成本</text><rect x=\"172\" y=\"4\" width=\"100\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">馬達成本</text><rect x=\"272\" y=\"4\" width=\"100\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">其他成本</text><rect x=\"2\" y=\"34\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">甲型</text><rect x=\"72\" y=\"34\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">56</text><rect x=\"172\" y=\"34\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">26</text><rect x=\"272\" y=\"34\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">48</text><rect x=\"2\" y=\"64\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">乙型</text><rect x=\"72\" y=\"64\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">40</text><rect x=\"172\" y=\"64\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20</text><rect x=\"272\" y=\"64\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">56</text></svg>",
+    "points": 4,
+    "blanks": [
+      "四邊形，頂點 (1,1)、(15/8,1)、(5/4,2)、(1,2)"
+    ],
+    "blankLabels": [
+      "可行解區域"
+    ],
+    "explanation": "條件：$1 \\le x \\le 2$、$1 \\le y \\le 2$、$80x + 50y \\le 200$（即 $8x + 5y \\le 20$）、$68x + 48y \\le 200$。\n甲較貴，只要甲不超過 200，乙也不會超過（在 $x, y \\ge 1$ 的範圍內 $8x + 5y \\le 20$ 已推出乙的條件）。\n可行解區域為四邊形，頂點 $(1, 1)$、$\\left(\\dfrac{15}{8}, 1\\right)$、$\\left(\\dfrac54, 2\\right)$、$(1, 2)$。"
+  },
+  {
+    "id": "110-ast-mb-non-2-3",
+    "examType": "分科/指考",
+    "year": 110,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】已知某廠商生產甲、乙兩型電動車所需的成本有電池、馬達、其他等三大類，甲、乙兩型的各類成本如下表（單位：萬元）。今該廠商甲、乙兩型電動車售價的算式為「電池成本的 $x$ 倍」、「馬達成本的 $y$ 倍」與「其他成本的 $\\dfrac{x + y}{2}$ 倍」之總和，即：售價 = 電池成本 $\\times x$ + 馬達成本 $\\times y$ + 其他成本 $\\times\\dfrac{x + y}{2}$。其中倍數 $x$、$y$ 需滿足「$1 \\le x \\le 2$，$1 \\le y \\le 2$，且甲、乙兩型電動車的售價均不超過 200 萬元」。該廠商為了區隔產品，希望甲、乙兩型電動車的售價差距最大。根據上述資訊，試回答下列問題。\n(3) 試求當倍數 x、y 分別為多少時，甲、乙兩型電動車的售價差距最大？此時甲、乙兩型電動車的售價差距為多少萬元？（6 分）",
+    "svg": "<svg viewBox=\"0 0 374 98\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:448.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"72\" y=\"4\" width=\"100\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">電池成本</text><rect x=\"172\" y=\"4\" width=\"100\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">馬達成本</text><rect x=\"272\" y=\"4\" width=\"100\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">其他成本</text><rect x=\"2\" y=\"34\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">甲型</text><rect x=\"72\" y=\"34\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">56</text><rect x=\"172\" y=\"34\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">26</text><rect x=\"272\" y=\"34\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">48</text><rect x=\"2\" y=\"64\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">乙型</text><rect x=\"72\" y=\"64\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">40</text><rect x=\"172\" y=\"64\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20</text><rect x=\"272\" y=\"64\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">56</text></svg>",
+    "points": 6,
+    "blanks": [
+      "$x = \\dfrac{15}{8}$、$y = 1$",
+      "差距 24.5 萬元"
+    ],
+    "blankLabels": [
+      "x、y",
+      "最大差距"
+    ],
+    "explanation": "目標函數 $12x + 2y$ 在頂點的值：$(1, 1)$：14；$\\left(\\dfrac{15}{8}, 1\\right)$：24.5；$\\left(\\dfrac54, 2\\right)$：19；$(1, 2)$：16。\n$x = \\dfrac{15}{8}$、$y = 1$ 時差距最大，為 24.5 萬元。"
   }
 ]
