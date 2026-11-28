@@ -244526,5 +244526,325 @@
       "15"
     ],
     "explanation": "令 $u = x + y$、$v = x - y$：$-2x + 6y = 2u - 4v$，曲線化為 $v = \\dfrac{(u + 1)^2}4 \\ge 0$。\n距離 $\\dfrac{|v + 4|}{\\sqrt2} \\ge \\dfrac4{\\sqrt2} = 2\\sqrt2 = \\sqrt8$（$u = -1$ 時成立）。"
+  },
+  {
+    "id": "92-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "1. 下圖為台灣 SARS 疫情病例累計趨勢統計圖（3 月 31 日到 5 月 31 日）。從 4 月 22 日到 5 月 14 日共 23 天的每日平均新增病例數，最接近下列哪一個值？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-mb-01.png\" alt=\"累計病例長條圖：4 月 21 日約 90 例，5 月 14 日約 490 例，5 月底約 680 例\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "11",
+      "14",
+      "17",
+      "20",
+      "23"
+    ],
+    "answerIndex": 2,
+    "explanation": "由圖，4 月 21 日累計約 90 例，5 月 14 日約 490 例，23 天增加約 400 例，平均每天約 17 例。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "2. 樂透是由 1～42 個號碼開出 6 個號碼，請問開出的 6 個號碼都是偶數的機率，最接近下列哪一個值？",
+    "options": [
+      "$\\dfrac12$",
+      "$\\dfrac6{42}$",
+      "$\\dfrac1{2^3}$",
+      "$\\dfrac1{12}$",
+      "$\\dfrac1{2^6}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "$\\dfrac{\\binom{21}6}{\\binom{42}6} = \\dfrac{21\\cdot20\\cdot19\\cdot18\\cdot17\\cdot16}{42\\cdot41\\cdot40\\cdot39\\cdot38\\cdot37} \\approx 0.010$，每個因數都略小於 $\\dfrac12$，最接近 $\\dfrac1{2^6} \\approx 0.016$。\n\n故選 (E)"
+  },
+  {
+    "id": "92-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "3. 下表是 2001 年時，從各國國會網站取得有關『該國國會議員席次與人口數』的資料。根據上述資料，人口數（以千人為單位）為 $P$ 的國家，他們的國會議員席次 $y$，以下列哪個公式制訂較接近上述五個國家的現況？",
+    "svg": "<svg viewBox=\"0 0 374 176\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:448.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">國名</text><rect x=\"82\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">議會席次 y</text><rect x=\"212\" y=\"4\" width=\"160\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">人口數 P（千人）</text><rect x=\"2\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">冰島</text><rect x=\"82\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">63</text><rect x=\"212\" y=\"32\" width=\"160\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">270</text><rect x=\"2\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">挪威</text><rect x=\"82\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">165</text><rect x=\"212\" y=\"60\" width=\"160\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4480</text><rect x=\"2\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">丹麥</text><rect x=\"82\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">175</text><rect x=\"212\" y=\"88\" width=\"160\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">5330</text><rect x=\"2\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"134.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">泰國</text><rect x=\"82\" y=\"116\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"134.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">393</text><rect x=\"212\" y=\"116\" width=\"160\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"134.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">60600</text><rect x=\"2\" y=\"144\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"162.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">日本</text><rect x=\"82\" y=\"144\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"147\" y=\"162.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">500</text><rect x=\"212\" y=\"144\" width=\"160\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"162.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">126540</text></svg>",
+    "options": [
+      "$y = \\dfrac P4$",
+      "$y = 0.1P + 36$",
+      "$y = 4\\sqrt P$",
+      "$y = 10\\sqrt[3]P$",
+      "$y = 27\\log_{10}P$"
+    ],
+    "answerIndex": 3,
+    "explanation": "$10\\sqrt[3]P$：冰島 $10\\times6.46 \\approx 65$、挪威 $\\approx 165$、丹麥 $\\approx 175$、泰國 $\\approx 393$、日本 $\\approx 502$，幾乎完全吻合。\n其他如 $4\\sqrt P$ 對日本給出約 1423，$27\\log P$ 對冰島約 66 但對日本只有 138。\n\n故選 (D)"
+  },
+  {
+    "id": "92-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "4. 和平大學有 4 個學院，各學院的男女生人數統計如下表。為瞭解和平大學學生對英美聯軍攻打伊拉克的看法，準備抽樣 100 位學生進行問卷調查。全體 1 萬名學生先編號，從 1 號到 10000 號。其中管理學院的阿雄與阿珠是男女朋友，阿雄編號為 501，阿珠編號為 605。已知阿珠被抽到，在下列各種抽樣方法中，阿雄也被抽到的機率何者最大？［※系統抽樣法基本上是只做第一次隨機抽樣後，就採取一固定間隔數抽出一樣本。例如：1 到 100 號隨機抽一個號碼 m，後面所抽出的樣本就是 100+m，200+m，…，9900+m。］",
+    "svg": "<svg viewBox=\"0 0 464 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:556.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"62\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"102\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">文</text><rect x=\"142\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">理</text><rect x=\"222\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">工</text><rect x=\"302\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">管理</text><rect x=\"382\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">小計</text><rect x=\"2\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">男</text><rect x=\"62\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"102\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">600</text><rect x=\"142\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1000</text><rect x=\"222\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2400</text><rect x=\"302\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2000</text><rect x=\"382\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">6000</text><rect x=\"2\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">女</text><rect x=\"62\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"102\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">400</text><rect x=\"142\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1000</text><rect x=\"222\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">600</text><rect x=\"302\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2000</text><rect x=\"382\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4000</text><rect x=\"2\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">小計</text><rect x=\"62\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"102\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1000</text><rect x=\"142\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2000</text><rect x=\"222\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3000</text><rect x=\"302\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4000</text><rect x=\"382\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">10000</text></svg>",
+    "options": [
+      "以簡單隨機抽樣法",
+      "以編號作系統抽樣法",
+      "將男生、女生各看成一群，再依男女生所佔人數比例在兩群中分別作隨機抽樣",
+      "將各學院各看成一群，再依各學院所佔人數比例在四群中分別作隨機抽樣",
+      "每學院都隨機抽樣同樣人數"
+    ],
+    "answerIndex": 2,
+    "explanation": "• (A) $\\dfrac{99}{9999} \\approx 0.0099$。\n• (B) 阿珠 605 被抽到表示 $m = 5$，501 不會被抽到，機率 0。\n• (C) 男生群抽 60 人，與阿珠無關：$\\dfrac{60}{6000} = 0.01$。\n• (D) 管理學院抽 40 人，阿珠已占一名：$\\dfrac{39}{3999} \\approx 0.00975$。\n• (E) 每院 25 人：$\\dfrac{24}{3999} \\approx 0.006$。\n最大是 (C)。\n\n故選 (C)"
+  },
+  {
+    "id": "92-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 7,
+    "question": "5. 如圖所示在坐標平面上，$\\triangle OAB$ 為一正三角形，其中點 A 的坐標為 $(1, 2)$，點 B 為 $(b_1, b_2)$。試問下列何者為真？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-mb-05.png\" alt=\"正三角形 OAB，A(1, 2) 在第一象限，B 在第二象限\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$b_1 + ib_2 = (\\cos60^\\circ + i\\sin60^\\circ)(1 + 2i)$",
+      "$b_1 + ib_2 = (\\cos60^\\circ - i\\sin60^\\circ)(1 + 2i)$",
+      "$(b_1, b_2) = (-1, 2)$",
+      "$\\begin{bmatrix} b_1 \\\\ b_2 \\end{bmatrix} = \\begin{bmatrix} \\cos60^\\circ & -\\sin60^\\circ \\\\ \\sin60^\\circ & \\cos60^\\circ \\end{bmatrix}\\begin{bmatrix} 1 \\\\ 2 \\end{bmatrix}$",
+      "$\\begin{bmatrix} b_1 \\\\ b_2 \\end{bmatrix} = \\begin{bmatrix} \\cos60^\\circ & \\sin60^\\circ \\\\ \\sin60^\\circ & -\\cos60^\\circ \\end{bmatrix}\\begin{bmatrix} 1 \\\\ 2 \\end{bmatrix}$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "由圖，$B$ 是 $A$ 繞原點逆時針旋轉 $60^\\circ$ 而得：複數乘 $\\cos60^\\circ + i\\sin60^\\circ$，或左乘旋轉矩陣。(A)(D) ✓。\n(B) 是順時針；(C) $(1, 2)$ 與 $(-1, 2)$ 的夾角不是 $60^\\circ$；(E) 是鏡射矩陣。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "92-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 7,
+    "question": "6. 如圖所示的立體示意圖，線段 $\\overline{AC}$ 垂直於過 D、C、E 這三點的平面。設 $\\overline{AB} = \\overline{BC} = 10$，$\\overline{DC} = 15$，$\\overline{CE} = 30$，$\\angle CDB = \\alpha$，$\\angle BDA = \\beta$，$\\angle CEB = \\alpha'$，$\\angle BEA = \\beta'$。試問下列何者為真？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-mb-06.png\" alt=\"A、B、C 在鉛直線上，D、C、E 在底面，標示 α、β、α′、β′\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\alpha = \\beta$",
+      "$\\alpha = \\alpha' + \\beta'$",
+      "$\\alpha = 2\\alpha'$",
+      "$\\alpha + \\beta > \\dfrac\\pi3$",
+      "$\\alpha' + \\beta' < \\dfrac\\pi6$"
+    ],
+    "answerIndices": [
+      1
+    ],
+    "explanation": "$\\tan\\alpha = \\dfrac{10}{15} = \\dfrac23$，$\\tan(\\alpha + \\beta) = \\dfrac{20}{15} = \\dfrac43$；$\\tan\\alpha' = \\dfrac{10}{30} = \\dfrac13$，$\\tan(\\alpha' + \\beta') = \\dfrac{20}{30} = \\dfrac23$。\n• (B) ✓：$\\tan(\\alpha' + \\beta') = \\tan\\alpha$。\n• (A) ✗：$\\tan\\beta = \\dfrac{4/3 - 2/3}{1 + 8/9} = \\dfrac6{17} \\ne \\dfrac23$。\n• (C) ✗：$\\tan2\\alpha' = \\dfrac34$。\n• (D) ✗：$\\dfrac43 < \\sqrt3$。\n• (E) ✗：$\\dfrac23 > \\dfrac1{\\sqrt3}$。\n\n故選 (B)"
+  },
+  {
+    "id": "92-ast-mb-07",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 7,
+    "question": "7. 陳老師證明了 $x^2 = 2^x$ 有兩個正實數解及一個負實數解後，進一步說，此方程式兩邊各取 $\\log_2$，得 $2\\log_2x = x$；陳老師要同學討論此新的方程式有多少實數解？小英說：恰有三個實數解；小明說：恰有兩個正實數解；小華說：最多只有兩個實數解；小毛說：仍然有兩個正實數解及一個負實數解；小芬說：沒有實數解。請問哪些人說的話，可以成立？",
+    "options": [
+      "小英",
+      "小明",
+      "小華",
+      "小毛",
+      "小芬"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "$2\\log_2x = x$ 的定義域是 $x > 0$，負根消失，只剩 $x = 2$ 與 $x = 4$ 兩個正實數解。所以小明、小華對。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "92-ast-mb-08",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 7,
+    "question": "8. SARS 疫情期間，為了建立指標顯示疫情已受控制，以便向國人宣示可以過正常生活，有位公共衛生專家建議的指標是『連續 7 天，每天新增的可能病例都不超過（小於或等於）5 人』。根據連續 7 天的新增病例計算，下列各選項，哪些必定符合此指標？",
+    "options": [
+      "平均數 ≤ 3",
+      "標準差 ≤ 1",
+      "平均數 ≤ 3 且標準差 ≤ 2",
+      "平均數 ≤ 3 且全距 ≤ 2",
+      "眾數 = 1 且全距 ≤ 4"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "• (A) ✗：如 0, 0, 0, 0, 0, 0, 21。\n• (B) ✗：如每天都 10 人。\n• (C) ✗：如 2, 2, 2, 2, 2, 3, 7：平均約 2.86，標準差約 1.7，但有一天 7 人。\n• (D) ✓：最小值 $\\le$ 平均 $\\le 3$，最大值 $\\le$ 最小值 $+ 2 \\le 5$。\n• (E) ✓：眾數 1 表示最小值 $\\le 1$，最大值 $\\le 5$。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "92-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "A. 根據調查，在華人社會，身高 $H$ 公尺，體重 $W$ 公斤的人中，其平均體表面積 $S$ 平方公尺，可以用數學模型 $S = aH + bW - 0.01$ 來表示，這裡的 $a, b$ 是常數。又知體重一樣，身高多 5 公分，平均體表面積會增加 0.03 平方公尺；而身高一樣，體重多 4 公斤，平均體表面積會增加 0.05 平方公尺。根據模型，身高 170 公分，體重 64 公斤，應該有 ⑨.⑩⑪ 平方公尺的平均體表面積。",
+    "blanks": [
+      "1",
+      "8",
+      "1"
+    ],
+    "blankLabels": [
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation": "$0.05a = 0.03$，$a = 0.6$；$4b = 0.05$，$b = 0.0125$。$S = 0.6\\times1.7 + 0.0125\\times64 - 0.01 = 1.02 + 0.8 - 0.01 = 1.81$。"
+  },
+  {
+    "id": "92-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "B. 若數列 $\\langle a_n\\rangle$ 滿足 $a_1 = \\dfrac17$，$a_2 = \\dfrac37$ 及 $a_{n+1} = \\dfrac72a_n(1 - a_n)$（$n \\ge 1$），則 $a_{101} - a_{100} = \\dfrac{⑫}{⑬}$。",
+    "blanks": [
+      "3",
+      "7"
+    ],
+    "blankLabels": [
+      "12",
+      "13"
+    ],
+    "explanation": "$a_3 = \\dfrac72\\cdot\\dfrac37\\cdot\\dfrac47 = \\dfrac67$，$a_4 = \\dfrac72\\cdot\\dfrac67\\cdot\\dfrac17 = \\dfrac37$，之後 $\\dfrac37, \\dfrac67$ 交替：偶數項 $\\dfrac37$、奇數項（$n \\ge 3$）$\\dfrac67$。$a_{101} - a_{100} = \\dfrac67 - \\dfrac37 = \\dfrac37$。"
+  },
+  {
+    "id": "92-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "C. 已知坐標平面上的四個點，$A(-1, 2)$，$B(0, 0)$，$C(1, 2)$，$D(x, y)$，其中 D 為 $\\overline{AB}$ 中點與 $\\overline{BC}$ 中點的連線段的中點。設有一拋物線通過 A、D、C 三點，則此拋物線的焦點坐標為 $\\left(⑭, \\dfrac{⑮}{⑯}\\right)$。",
+    "blanks": [
+      "0",
+      "5",
+      "4"
+    ],
+    "blankLabels": [
+      "14",
+      "15",
+      "16"
+    ],
+    "explanation": "兩中點 $\\left(-\\dfrac12, 1\\right)$、$\\left(\\dfrac12, 1\\right)$，$D(0, 1)$。過 $A, D, C$ 的拋物線（對稱軸鉛直）為 $y = x^2 + 1$，即 $x^2 = 4\\cdot\\dfrac14(y - 1)$，焦點 $\\left(0, \\dfrac54\\right)$。"
+  },
+  {
+    "id": "92-ast-mb-D",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "D. 如圖所示 $\\triangle ABC$ 中，D 為邊 $\\overline{BC}$ 上一點，且 $\\overline{AB} = \\overline{AC} = 5$，$\\overline{AD} = 4$，$\\overline{BD} = 2$，$\\overline{DC} = a$。則 $a = \\dfrac{⑰}{⑱}$。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-mb-D.png\" alt=\"等腰三角形 ABC，D 在 BC 上，BD = 2、DC = a\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "9",
+      "2"
+    ],
+    "blankLabels": [
+      "17",
+      "18"
+    ],
+    "explanation": "等腰三角形中 $\\overline{AB}^2 - \\overline{AD}^2 = \\overline{BD}\\cdot\\overline{DC}$（以高的垂足為原點計算即得）：$25 - 16 = 2a$，$a = \\dfrac92$。"
+  },
+  {
+    "id": "92-ast-mb-E",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "E. 某公司所生產的產品，存放在甲、乙兩倉庫分別有 50 單位、40 單位，現在市場 A、市場 B 分別的需求量是 20 單位、30 單位，下表是各倉庫運輸到各市場的每單位運輸成本。在滿足 A、B 市場的需求下，最節省的運輸成本為 ⑲⑳㉑㉒㉓ 元。",
+    "svg": "<svg viewBox=\"0 0 344 92\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:412.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"100\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"52\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"102\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">市場 A</text><rect x=\"222\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">市場 B</text><rect x=\"2\" y=\"32\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"52\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">倉庫甲</text><rect x=\"102\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">500 元</text><rect x=\"222\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">450 元</text><rect x=\"2\" y=\"60\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"52\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">倉庫乙</text><rect x=\"102\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">400 元</text><rect x=\"222\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"282\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">300 元</text></svg>",
+    "blanks": [
+      "1",
+      "8",
+      "0",
+      "0",
+      "0"
+    ],
+    "blankLabels": [
+      "19",
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "explanation": "乙倉庫到兩市場都比較便宜，且到 B 省得較多（省 150 元 vs 100 元），所以乙的 40 單位先送 B 的 30 單位、再送 A 10 單位，甲送 A 10 單位。\n成本 $30\\times300 + 10\\times400 + 10\\times500 = 18000$ 元。"
+  },
+  {
+    "id": "92-ast-mb-F",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "F. 沈醫師認為身高 H（公尺）的人，其理想體重 W（公斤），應符合公式 $W = 22H^2$（公斤）。一般而言，體重在理想體重 ±10% 範圍內，稱為標準體重；超過 10% 但不超過 20% 者，稱為微胖；超過 20% 者，稱為肥胖。微胖及肥胖都是過重的現象。對身高 H，體重 W 的人，體重過重的充要條件為 $W > cH^2 + dH + e$，則 $(c, d, e) =$ (㉔㉕.㉖, ㉗, ㉘)。",
+    "blanks": [
+      "2",
+      "4",
+      "2",
+      "0",
+      "0"
+    ],
+    "blankLabels": [
+      "24",
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "explanation": "過重 ⇔ 超過理想體重的 110%：$W > 1.1\\times22H^2 = 24.2H^2$，$(c, d, e) = (24.2, 0, 0)$。"
+  },
+  {
+    "id": "92-ast-mb-G",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "G. 下圖為一單位正立方體 ABCDEFGH（即稜長 1）。則四面體 ACFH 的表面積為 $\\sqrt{㉙㉚}$。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-mb-G.png\" alt=\"單位正立方體，上底面 A、B、C、D，下底面 E、F、G、H（A 在 E 正上方）\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "1",
+      "2"
+    ],
+    "blankLabels": [
+      "29",
+      "30"
+    ],
+    "explanation": "ACFH 的六條稜都是面對角線 $\\sqrt2$，是正四面體。表面積 $4\\times\\dfrac{\\sqrt3}4\\times2 = 2\\sqrt3 = \\sqrt{12}$。"
+  },
+  {
+    "id": "92-ast-mb-H",
+    "examType": "分科/指考",
+    "year": 92,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "H. 上圖四面體 ACFH 的體積為 $\\dfrac{㉛}{㉜}$。（以最簡分數表示）［※錐體體積等於底面積乘以高除以 3。］",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92-ast-mb-G.png\" alt=\"單位正立方體，上底面 A、B、C、D，下底面 E、F、G、H（A 在 E 正上方）\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "1",
+      "3"
+    ],
+    "blankLabels": [
+      "31",
+      "32"
+    ],
+    "explanation": "正立方體切掉四個角落的三角錐（每個體積 $\\dfrac13\\cdot\\dfrac12\\cdot1 = \\dfrac16$），剩下 $1 - 4\\times\\dfrac16 = \\dfrac13$。"
   }
 ]
