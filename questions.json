@@ -230507,5 +230507,413 @@
       "機率"
     ],
     "explanation": "共 25 枚，$\\dbinom{25}{2} = 300$。含紅色的組合都至少 60 元；$Y \\le 50$ 只有：兩綠 40 元 $\\dbinom92 = 36$、一綠一藍 30 元 $9\\times12 = 108$、兩藍 20 元 $\\dbinom{12}{2} = 66$，共 210。\n$P = \\dfrac{210}{300} = \\dfrac{7}{10}$。"
+  },
+  {
+    "id": "105-gsat-math-01",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "points": 5,
+    "question": "1. 設 $f(x)$ 為二次實係數多項式，已知 $f(x)$ 在 $x = 2$ 時有最小值 1 且 $f(3) = 3$。請問 $f(1)$ 之值為下列哪一選項？",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4",
+      "條件不足，無法確定"
+    ],
+    "answerIndex": 2,
+    "explanation": "$f(x) = k(x - 2)^2 + 1$，$f(3) = k + 1 = 3$，$k = 2$。$f(1) = 2 + 1 = 3$（也可由對稱性 $f(1) = f(3)$）。\n\n故選 (C)"
+  },
+  {
+    "id": "105-gsat-math-02",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "points": 5,
+    "question": "2. 請問 $\\sin73^\\circ$、$\\sin146^\\circ$、$\\sin219^\\circ$、$\\sin292^\\circ$、$\\sin365^\\circ$ 這五個數值的中位數是哪一個？",
+    "options": [
+      "$\\sin73^\\circ$",
+      "$\\sin146^\\circ$",
+      "$\\sin219^\\circ$",
+      "$\\sin292^\\circ$",
+      "$\\sin365^\\circ$"
+    ],
+    "answerIndex": 4,
+    "explanation": "化成銳角：$\\sin73^\\circ$、$\\sin146^\\circ = \\sin34^\\circ$、$\\sin219^\\circ = -\\sin39^\\circ$、$\\sin292^\\circ = -\\sin68^\\circ$、$\\sin365^\\circ = \\sin5^\\circ$。\n由小到大：$-\\sin68^\\circ < -\\sin39^\\circ < \\sin5^\\circ < \\sin34^\\circ < \\sin73^\\circ$，中位數 $\\sin365^\\circ$。\n\n故選 (E)"
+  },
+  {
+    "id": "105-gsat-math-03",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "points": 5,
+    "question": "3. 坐標平面上兩圖形 $\\Gamma_1, \\Gamma_2$ 的方程式分別為：$\\Gamma_1: (x + 1)^2 + y^2 = 1$、$\\Gamma_2: (x + y)^2 = 1$。請問 $\\Gamma_1, \\Gamma_2$ 共有幾個交點？",
+    "options": [
+      "1 個",
+      "2 個",
+      "3 個",
+      "4 個",
+      "0 個"
+    ],
+    "answerIndex": 1,
+    "explanation": "$\\Gamma_2$ 是兩直線 $x + y = 1$ 與 $x + y = -1$。圓心 $(-1, 0)$、半徑 1：\n• 到 $x + y = 1$ 的距離 $\\sqrt2 > 1$，不相交。\n• $x + y = -1$ 通過圓心，交 2 點。\n共 2 個。\n\n故選 (B)"
+  },
+  {
+    "id": "105-gsat-math-04",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "points": 5,
+    "question": "4. 放射性物質的半衰期 $T$ 定義為每經過時間 $T$，該物質的質量會衰退成原來的一半。鉛製容器中有兩種放射性物質 $A$、$B$，開始紀錄時容器中物質 $A$ 的質量為物質 $B$ 的兩倍，而 120 小時後兩種物質的質量相同。已知物質 $A$ 的半衰期為 7.5 小時，請問物質 $B$ 的半衰期為幾小時？",
+    "options": [
+      "8 小時",
+      "10 小時",
+      "12 小時",
+      "15 小時",
+      "20 小時"
+    ],
+    "answerIndex": 0,
+    "explanation": "$2m\\left(\\dfrac12\\right)^{120/7.5} = m\\left(\\dfrac12\\right)^{120/T}$，即 $2^{1 - 16} = 2^{-120/T}$，$\\dfrac{120}{T} = 15$，$T = 8$。\n\n故選 (A)"
+  },
+  {
+    "id": "105-gsat-math-05",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "points": 5,
+    "question": "5. 坐標空間中一質點自點 $P(1, 1, 1)$ 沿著方向 $\\vec a = (1, 2, 2)$ 等速直線前進，經過 5 秒後剛好到達平面 $x - y + 3z = 28$ 上，立即轉向沿著方向 $\\vec b = (-2, 2, -1)$ 依同樣的速率等速直線前進。請問再經過幾秒此質點會剛好到達平面 $x = 2$ 上？",
+    "options": [
+      "1 秒",
+      "2 秒",
+      "3 秒",
+      "4 秒",
+      "永遠不會到達"
+    ],
+    "answerIndex": 1,
+    "explanation": "設每秒走 $k\\vec a$：5 秒後在 $(1 + 5k, 1 + 10k, 1 + 10k)$，代入平面 $3 + 25k = 28$，$k = 1$，速率 $|\\vec a| = 3$，到達 $Q(6, 11, 11)$。\n$|\\vec b| = 3$，速率相同，每秒恰好走一個 $\\vec b$：$x = 6 - 2t = 2$，$t = 2$。\n\n故選 (B)"
+  },
+  {
+    "id": "105-gsat-math-06",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "points": 5,
+    "question": "6. 設 $\\langle a_n\\rangle$ 為一等比數列。已知前十項的和為 $\\displaystyle\\sum_{k=1}^{10}a_k = 80$，前五個奇數項的和為 $a_1 + a_3 + a_5 + a_7 + a_9 = 120$，請選出首項 $a_1$ 的正確範圍。",
+    "options": [
+      "$a_1 < 80$",
+      "$80 \\le a_1 < 90$",
+      "$90 \\le a_1 < 100$",
+      "$100 \\le a_1 < 110$",
+      "$110 \\le a_1$"
+    ],
+    "answerIndex": 3,
+    "explanation": "偶數項和 $= r\\times$ 奇數項和 $= 80 - 120 = -40$，$r = -\\dfrac13$。\n$a_1\\left(1 + \\dfrac19 + \\dfrac1{81} + \\dfrac1{729} + \\dfrac1{6561}\\right) = 120$，括號約 1.1250，$a_1 \\approx 106.7$。\n\n故選 (D)"
+  },
+  {
+    "id": "105-gsat-math-07",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "7. 下列各方程式中，請選出有實數解的選項。",
+    "options": [
+      "$|x| + |x - 5| = 1$",
+      "$|x| + |x - 5| = 6$",
+      "$|x| - |x - 5| = 1$",
+      "$|x| - |x - 5| = 6$",
+      "$|x| - |x - 5| = -1$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "• $|x| + |x - 5|$ 是到 0 與 5 的距離和，最小值 5，範圍 $[5, \\infty)$：(A) 無解、(B) 有解。\n• $|x| - |x - 5|$ 是距離差，範圍 $[-5, 5]$：(C)(E) 有解、(D) 無解。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "105-gsat-math-08",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 下面是甲、乙兩個商場的奇異果以及蘋果不同包裝的價格表，例如：甲商場奇異果價格「35 元／一袋 2 顆」表示每一袋有 2 顆奇異果，價格 35 元。依據上述數據，請選出正確的選項。",
+    "svg": "<svg viewBox=\"0 0 364 302\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:436.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">甲商場</text><rect x=\"82\" y=\"4\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">1 顆裝</text><rect x=\"152\" y=\"4\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">2 顆裝</text><rect x=\"222\" y=\"4\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"257\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">5 顆裝</text><rect x=\"292\" y=\"4\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">6 顆裝</text><rect x=\"2\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">奇異果</text><rect x=\"82\" y=\"34\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">20 元</text><rect x=\"152\" y=\"34\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">35 元</text><rect x=\"222\" y=\"34\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"257\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">80 元</text><rect x=\"292\" y=\"34\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100 元</text><rect x=\"2\" y=\"82\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"101.66666666666667\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">甲商場</text><rect x=\"82\" y=\"82\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"101.66666666666667\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">1 顆裝</text><rect x=\"152\" y=\"82\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"101.66666666666667\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">3 顆裝</text><rect x=\"222\" y=\"82\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"257\" y=\"101.66666666666667\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">6 顆裝</text><rect x=\"292\" y=\"82\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"101.66666666666667\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">8 顆裝</text><rect x=\"2\" y=\"112\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"131.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">蘋果</text><rect x=\"82\" y=\"112\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"131.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">45 元</text><rect x=\"152\" y=\"112\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"131.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">130 元</text><rect x=\"222\" y=\"112\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"257\" y=\"131.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">260 元</text><rect x=\"292\" y=\"112\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"131.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">340 元</text><rect x=\"2\" y=\"160\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">乙商場</text><rect x=\"82\" y=\"160\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">1 顆裝</text><rect x=\"152\" y=\"160\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">3 顆裝</text><rect x=\"222\" y=\"160\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"257\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">4 顆裝</text><rect x=\"292\" y=\"160\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"179.66666666666666\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">6 顆裝</text><rect x=\"2\" y=\"190\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">奇異果</text><rect x=\"82\" y=\"190\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">18 元</text><rect x=\"152\" y=\"190\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">50 元</text><rect x=\"222\" y=\"190\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"257\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">65 元</text><rect x=\"292\" y=\"190\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"209.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">95 元</text><rect x=\"2\" y=\"238\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"257.6666666666667\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">乙商場</text><rect x=\"82\" y=\"238\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"257.6666666666667\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">1 顆裝</text><rect x=\"152\" y=\"238\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"257.6666666666667\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">4 顆裝</text><rect x=\"222\" y=\"238\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"257\" y=\"257.6666666666667\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">6 顆裝</text><rect x=\"292\" y=\"238\" width=\"70\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"257.6666666666667\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">10 顆裝</text><rect x=\"2\" y=\"268\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"287.6666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">蘋果</text><rect x=\"82\" y=\"268\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"287.6666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">50 元</text><rect x=\"152\" y=\"268\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"187\" y=\"287.6666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">190 元</text><rect x=\"222\" y=\"268\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"257\" y=\"287.6666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">280 元</text><rect x=\"292\" y=\"268\" width=\"70\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"287.6666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">420 元</text></svg>",
+    "options": [
+      "在甲商場買一袋 3 顆裝的蘋果所需金額低於買三袋 1 顆裝的蘋果",
+      "乙商場的奇異果售價，一袋裝越多顆者，其每顆單價越低",
+      "若只想買奇異果，則在甲商場花 500 元最多可以買到 30 顆奇異果",
+      "如果要買 12 顆奇異果和 4 顆蘋果，在甲商場所需最少金額低於在乙商場所需最少金額",
+      "無論要買多少顆蘋果，在甲商場所需最少金額都低於在乙商場所需最少金額"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "• (A) 正確：$130 < 3\\times45 = 135$。\n• (B) 正確：每顆 18、16.7、16.25、15.8 元，遞減。\n• (C) 錯誤：甲的 5 顆裝每顆 16 元最便宜，6 袋 480 元買 30 顆，剩 20 元再買 1 顆，共 31 顆。\n• (D) 正確：甲：奇異果 12 顆最少 $80 + 80 + 35 = 195$，蘋果 4 顆最少 $130 + 45 = 175$，共 370；乙：奇異果 $95\\times2 = 190$，蘋果 190，共 380。\n• (E) 錯誤：例如 10 顆蘋果，乙 420 元；甲最少 $340 + 45\\times2 = 430$ 元。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "105-gsat-math-09",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 下列各直線中，請選出和 $z$ 軸互為歪斜線的選項。",
+    "options": [
+      "$L_1: \\begin{cases} x = 0 \\\\ z = 0 \\end{cases}$",
+      "$L_2: \\begin{cases} y = 0 \\\\ x + z = 1 \\end{cases}$",
+      "$L_3: \\begin{cases} z = 0 \\\\ x + y = 1 \\end{cases}$",
+      "$L_4: \\begin{cases} x = 1 \\\\ y = 1 \\end{cases}$",
+      "$L_5: \\begin{cases} y = 1 \\\\ z = 1 \\end{cases}$"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "歪斜：不平行也不相交（$z$ 軸為 $x = y = 0$）。\n• $L_1$ 是 $y$ 軸，交於原點。\n• $L_2$ 在 $xz$ 平面，交於 $(0, 0, 1)$。\n• $L_3$ 方向 $(1, -1, 0)$，且 $x = y = 0$ 時 $0 = 1$，不相交 → 歪斜。\n• $L_4$ 平行 $z$ 軸。\n• $L_5$ 方向 $(1, 0, 0)$，要交 $z$ 軸需 $y = 0$，與 $y = 1$ 矛盾 → 歪斜。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "105-gsat-math-10",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 設 $a$、$b$、$c$ 皆為正整數，考慮多項式 $f(x) = x^4 + ax^3 + bx^2 + cx + 2$。請選出正確的選項。",
+    "options": [
+      "$f(x) = 0$ 無正根",
+      "$f(x) = 0$ 一定有實根",
+      "$f(x) = 0$ 一定有虛根",
+      "$f(1) + f(-1)$ 的值是偶數",
+      "若 $a + c > b + 3$，則 $f(x) = 0$ 有一根介於 $-1$ 與 0 之間"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "• (A) 正確：係數全為正，$x > 0$ 時 $f(x) > 0$。\n• (B) 錯誤：例如 $x^4 + x^3 + x^2 + x + 2$ 沒有實根。\n• (C) 錯誤：例如 $(x + 1)^3(x + 2) = x^4 + 5x^3 + 9x^2 + 7x + 2$，四根皆實。\n• (D) 正確：$f(1) + f(-1) = 2 + 2b + 4 = 2b + 6$。\n• (E) 正確：$f(-1) = 3 + b - (a + c) < 0$，$f(0) = 2 > 0$，由勘根定理有根在 $(-1, 0)$。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "105-gsat-math-11",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 一個 41 人的班級某次數學考試，每個人的成績都未超過 59 分。老師決定以下列方式調整成績：原始成績為 $x$ 分的學生，新成績調整為 $40\\log_{10}\\left(\\dfrac{x + 1}{10}\\right) + 60$ 分（四捨五入到整數）。請選出正確的選項。",
+    "options": [
+      "若某人原始成績是 9 分，則新成績為 60 分",
+      "若某人原始成績超過 20 分，則其新成績超過 70 分",
+      "調整後全班成績的全距比原始成績的全距大",
+      "已知小文的原始成績恰等於全班原始成績的中位數，則小文的新成績仍然等於調整後全班成績的中位數",
+      "已知小美的原始成績恰等於全班原始成績的平均，則小美的新成績仍然等於調整後全班成績的平均（四捨五入到整數）"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "• (A) 正確：$\\log1 = 0$。\n• (B) 正確：$x > 20$ 時 $40\\log2.1 + 60 \\approx 72.9$ 以上。\n• (C) 錯誤：例如全班都在 30～59 分之間，新成績的差只有 $40\\log\\dfrac{60}{31} \\approx 11.5$，全距反而變小。\n• (D) 正確：調整函數遞增（四捨五入後仍不遞減），名次順序不變，中位數對應同一人。\n• (E) 錯誤：對數不是一次函數，平均數不會對應。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "105-gsat-math-12",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 在 $\\triangle ABC$ 中，已知 $\\angle A = 20^\\circ$、$\\overline{AB} = 5$、$\\overline{BC} = 4$。請選出正確的選項。",
+    "options": [
+      "可以確定 $\\angle B$ 的餘弦值",
+      "可以確定 $\\angle C$ 的正弦值",
+      "可以確定 $\\triangle ABC$ 的面積",
+      "可以確定 $\\triangle ABC$ 的內切圓半徑",
+      "可以確定 $\\triangle ABC$ 的外接圓半徑"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "已知兩邊與非夾角（SSA）：$5\\sin20^\\circ \\approx 1.71 < 4 < 5$，有兩個三角形。\n• (B) 正確：$\\sin C = \\dfrac{5\\sin20^\\circ}{4}$ 固定（$C$ 可能是銳角或鈍角）。\n• (E) 正確：$2R = \\dfrac{4}{\\sin20^\\circ}$。\n• (A)(C)(D) 錯誤：$C$ 有兩種，$\\angle B$、面積、內切圓半徑都跟著有兩種。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "105-gsat-math-13",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "13. 甲、乙、丙、丁四位男生各騎一台機車約 $A$、$B$、$C$、$D$ 四位女生一起出遊，他們約定讓四位女生依照 $A$、$B$、$C$、$D$ 的順序抽鑰匙來決定搭乘哪位男生的機車。其中除了 $B$ 認得甲的機車鑰匙，並且絕對不會選取之外，每個女生選取這些鑰匙的機會都均等。請選出正確的選項。",
+    "options": [
+      "$A$ 抽到甲的鑰匙的機率大於 $C$ 抽到甲的鑰匙的機率",
+      "$C$ 抽到甲的鑰匙的機率大於 $D$ 抽到甲的鑰匙的機率",
+      "$A$ 抽到乙的鑰匙的機率大於 $B$ 抽到乙的鑰匙的機率",
+      "$B$ 抽到丙的鑰匙的機率大於 $C$ 抽到丙的鑰匙的機率",
+      "$C$ 抽到甲的鑰匙的機率大於 $C$ 抽到乙的鑰匙的機率"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "• $A$：每把 $\\dfrac14$。\n• $B$：$A$ 抽走甲（$\\dfrac14$）時，$B$ 在其餘 3 把中各 $\\dfrac13$；否則 $B$ 在剩下的 2 把非甲鑰匙中各 $\\dfrac12$。$P(B\\text{ 乙}) = \\dfrac14\\cdot\\dfrac13 + \\dfrac24\\cdot\\dfrac12 = \\dfrac13$，丙、丁同理。\n• 甲留到 $C$、$D$ 時（機率 $\\dfrac34$）兩人各半：$P(C\\text{ 甲}) = P(D\\text{ 甲}) = \\dfrac38$。\n• 乙：剩給 $C$、$D$ 的機率 $1 - \\dfrac14 - \\dfrac13 = \\dfrac{5}{12}$，各 $\\dfrac{5}{24}$；丙同理。\n(A) $\\dfrac14 < \\dfrac38$；(B) 相等；(C) $\\dfrac14 < \\dfrac13$；(D) $\\dfrac13 > \\dfrac{5}{24}$ 正確；(E) $\\dfrac38 > \\dfrac{5}{24}$ 正確。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "105-gsat-math-A",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 考慮每個元（或稱元素）只能是 0 或 1 的 $2\\times3$ 階矩陣，且它的第一列與第二列不相同且各列的元素不能全為零，這樣的矩陣共有 ⑭⑮ 個。",
+    "blanks": [
+      "4",
+      "2"
+    ],
+    "blankLabels": [
+      "14",
+      "15"
+    ],
+    "explanation": "每列有 $2^3 - 1 = 7$ 種非零列，兩列相異且有順序：$7\\times6 = 42$。"
+  },
+  {
+    "id": "105-gsat-math-B",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 坐標平面上 $O$ 為原點，設 $\\vec u = (1, 2)$、$\\vec v = (3, 4)$。令 $\\Omega$ 為滿足 $\\overrightarrow{OP} = x\\vec u + y\\vec v$ 的所有點 $P$ 所形成的區域，其中 $\\dfrac12 \\le x \\le 1$、$-3 \\le y \\le \\dfrac12$，則 $\\Omega$ 的面積為 $\\dfrac{⑯}{⑰}$ 平方單位。（化成最簡分數）",
+    "blanks": [
+      "7",
+      "2"
+    ],
+    "blankLabels": [
+      "16",
+      "17"
+    ],
+    "explanation": "$\\Omega$ 是平行四邊形，面積 $=$（$x$ 的範圍長）$\\times$（$y$ 的範圍長）$\\times|\\det(\\vec u, \\vec v)| = \\dfrac12\\times\\dfrac72\\times|4 - 6| = \\dfrac72$。"
+  },
+  {
+    "id": "105-gsat-math-C",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 從橢圓 $\\Gamma$ 的兩焦點分別作垂直於長軸的直線，交橢圓於四點。已知連此四點得一個邊長為 2 的正方形，則 $\\Gamma$ 的長軸長為 ⑱ $+ \\sqrt{⑲}$。",
+    "blanks": [
+      "1",
+      "5"
+    ],
+    "blankLabels": [
+      "18",
+      "19"
+    ],
+    "explanation": "兩焦點相距 $2c = 2$，$c = 1$；正焦弦長 $\\dfrac{2b^2}{a} = 2$，$b^2 = a$。\n$a^2 - a = 1$，$a = \\dfrac{1 + \\sqrt5}{2}$，長軸長 $2a = 1 + \\sqrt5$。"
+  },
+  {
+    "id": "105-gsat-math-D",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "D. 線性方程組 $\\begin{cases} x + 2y + 3z = 0 \\\\ 2x + y + 3z = 6 \\\\ x - y = 6 \\\\ x - 2y - z = 8 \\end{cases}$ 經高斯消去法計算後，其增廣矩陣可化簡為 $\\left[\\begin{array}{ccc|c} 1 & 0 & a & b \\\\ 0 & 1 & c & d \\\\ 0 & 0 & 0 & 0 \\\\ 0 & 0 & 0 & 0 \\end{array}\\right]$，則 $a =$ ⑳、$b =$ ㉑、$c =$ ㉒、$d =$ ㉓㉔。",
+    "blanks": [
+      "1",
+      "4",
+      "1",
+      "-",
+      "2"
+    ],
+    "acceptedBlanks": [
+      [
+        "1"
+      ],
+      [
+        "4"
+      ],
+      [
+        "1"
+      ],
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "2"
+      ]
+    ],
+    "blankLabels": [
+      "20",
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "explanation": "由第三式 $x = y + 6$，代入其餘三式都化為 $y + z = -2$。所以 $y = -2 - z$、$x = 4 - z$：\n$x + z = 4$、$y + z = -2$。$a = 1$、$b = 4$、$c = 1$、$d = -2$。"
+  },
+  {
+    "id": "105-gsat-math-E",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "E. 設 $a$ 為一實數，已知在第一象限滿足聯立不等式 $\\begin{cases} x - 3y \\le a \\\\ x + 2y \\le 14 \\end{cases}$ 的所有點所形成之區域面積為 $\\dfrac{213}{5}$ 平方單位，則 $a =$ ㉕。",
+    "blanks": [
+      "6"
+    ],
+    "blankLabels": [
+      "25"
+    ],
+    "explanation": "第一象限中 $x + 2y \\le 14$ 的三角形面積 $\\dfrac{14\\times7}{2} = 49$。$x - 3y \\le a$ 切掉靠 $x$ 軸的小三角形：頂點 $(a, 0)$、$(14, 0)$、兩直線交點 $\\left(\\cdot, \\dfrac{14 - a}{5}\\right)$，面積 $\\dfrac{(14 - a)^2}{10}$。\n$49 - \\dfrac{(14 - a)^2}{10} = \\dfrac{213}{5}$，$(14 - a)^2 = 64$，$a = 6$（$a = 22$ 時不會切到區域，不合）。"
+  },
+  {
+    "id": "105-gsat-math-F",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "F. 投擲一公正骰子三次，所得的點數依序為 $a, b, c$。在 $b$ 為奇數的條件下，行列式 $\\begin{vmatrix} a & b \\\\ b & c \\end{vmatrix} > 0$ 的機率為 $\\dfrac{㉖㉗}{㉘㉙}$。（化成最簡分數）",
+    "blanks": [
+      "1",
+      "9",
+      "3",
+      "6"
+    ],
+    "blankLabels": [
+      "26",
+      "27",
+      "28",
+      "29"
+    ],
+    "explanation": "需 $ac > b^2$，$(a, c)$ 共 36 種：\n• $b = 1$：$ac > 1$，35 種。\n• $b = 3$：$ac > 9$，$a = 2$～6 分別有 2、3、4、5、5 種，共 19。\n• $b = 5$：$ac > 25$：$(5, 6)$、$(6, 5)$、$(6, 6)$，3 種。\n機率 $= \\dfrac{35 + 19 + 3}{108} = \\dfrac{57}{108} = \\dfrac{19}{36}$。"
+  },
+  {
+    "id": "105-gsat-math-G",
+    "examType": "學測",
+    "year": 105,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "G. 如右圖所示，$ABCD\\text{-}EFGH$ 為一長方體。若平面 $BDG$ 上一點 $P$ 滿足 $\\overrightarrow{AP} = \\dfrac13\\overrightarrow{AB} + 2\\overrightarrow{AD} + a\\overrightarrow{AE}$，則實數 $a = \\dfrac{㉚}{㉛}$。（化成最簡分數）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-gsat-math-G.png\" alt=\"長方體 ABCD-EFGH，ABCD 為上底面，E、F、G、H 分別在 A、B、C、D 正下方\" style=\"width:100%;max-width:170px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "4",
+      "3"
+    ],
+    "blankLabels": [
+      "30",
+      "31"
+    ],
+    "explanation": "以 $\\overrightarrow{AB}, \\overrightarrow{AD}, \\overrightarrow{AE}$ 為坐標：$B(1, 0, 0)$、$D(0, 1, 0)$、$G(1, 1, 1)$。\n平面 $BDG$ 的法向量 $(D - B)\\times(G - B) = (-1, 1, 0)\\times(0, 1, 1) = (1, 1, -1)$，方程式 $x + y - z = 1$。\n$P\\left(\\dfrac13, 2, a\\right)$：$\\dfrac13 + 2 - a = 1$，$a = \\dfrac43$。"
   }
 ]
