@@ -237917,5 +237917,245 @@
       "33"
     ],
     "explanation": "面積一半 ⇔ $\\overline{AP}\\cdot\\overline{AQ} = \\dfrac{10\\cdot9}2 = 45$。\n$\\overline{PQ}^2 = \\overline{AP}^2 + \\overline{AQ}^2 - 2\\cdot45\\cdot\\dfrac38 \\ge 2\\cdot45 - \\dfrac{135}4 = \\dfrac{225}4$，等號在 $\\overline{AP} = \\overline{AQ} = \\sqrt{45} < 9$ 時成立。最小值 $\\dfrac{15}2$。"
+  },
+  {
+    "id": "98-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 數學教科書所附的對數表中，$\\log4.34 = 0.6375$、$\\log4.35 = 0.6385$。根據 $\\log4.34$ 和 $\\log4.35$ 的查表值以內插法求 $\\log4.342$，設求得的值為 $p$，則下列哪一個選項是正確的？",
+    "options": [
+      "$p = \\dfrac12(0.6375 + 0.6385)$",
+      "$p = 0.2\\times0.6375 + 0.8\\times0.6385$",
+      "$p = 0.8\\times0.6375 + 0.2\\times0.6385$",
+      "$p = 0.6375 + 0.002$",
+      "$p = 0.6385 - 0.002$"
+    ],
+    "answerIndex": 2,
+    "explanation": "4.342 在 4.34 與 4.35 之間的 $\\dfrac{2}{10} = 0.2$ 處：$p = 0.6375 + 0.2(0.6385 - 0.6375) = 0.8\\times0.6375 + 0.2\\times0.6385$。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 擲一均勻硬幣，若連續三次出現同一面就停止。設：$a$ 為恰好投擲三次停止的機率；$b$ 為在第一次是反面的情況下，恰好在第四次停止的條件機率；$c$ 為在第一、二次都是反面的情況下，恰好在第五次停止的條件機率。則下列哪一個選項是正確的？",
+    "options": [
+      "$a = b = c$",
+      "$a > b > c$",
+      "$a < b < c$",
+      "$a < b = c$",
+      "$a > b = c$"
+    ],
+    "answerIndex": 4,
+    "explanation": "• $a$：第 2、3 次與第 1 次同面，$\\dfrac14$。\n• $b$：第 1 次反面，第 4 次停 ⇔ 第 2、3、4 次都是正面（若都是反面會在第 3 次就停），$\\dfrac18$。\n• $c$：前兩次反面，第 3 次必須是正面（否則第 3 次就停），再第 4、5 次正面，$\\dfrac18$。\n$a > b = c$。\n\n故選 (E)"
+  },
+  {
+    "id": "98-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 複數 $z_1 = \\cos\\dfrac\\pi4 + i\\sin\\dfrac\\pi4$、$z_2 = \\cos\\dfrac\\pi3 + i\\sin\\dfrac\\pi3$ 與它們的乘積 $z_1z_2$ 在複數平面上對應的點分別為 $P$、$Q$ 與 $R$。則 $\\angle QPR$ 等於下列哪一個選項？",
+    "options": [
+      "$\\dfrac\\pi{12}$",
+      "$\\dfrac\\pi{10}$",
+      "$\\dfrac\\pi9$",
+      "$\\dfrac\\pi8$",
+      "$\\dfrac\\pi6$"
+    ],
+    "answerIndex": 3,
+    "explanation": "$P, Q, R$ 都在單位圓上，輻角分別為 $\\dfrac\\pi4$、$\\dfrac\\pi3$、$\\dfrac{7\\pi}{12}$。$\\angle QPR$ 是圓周角，所對的弧 $QR$（不含 $P$）的圓心角為 $\\dfrac{7\\pi}{12} - \\dfrac\\pi3 = \\dfrac\\pi4$，所以 $\\angle QPR = \\dfrac\\pi8$。\n\n故選 (D)"
+  },
+  {
+    "id": "98-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 設 $a, b$ 為實數。如果空間中某一平面通過 $(a, 0, 0)$、$(0, b, 0)$、$(0, 0, 3)$、$(1, 2, 3)$ 這些點，則下列哪些選項是正確的？",
+    "options": [
+      "$a, b$ 有可能都是正數",
+      "$a, b$ 有可能是一個正數一個負數",
+      "$a, b$ 有可能都是負數",
+      "$a, b$ 有可能只有一個等於 0"
+    ],
+    "answerIndices": [
+      1
+    ],
+    "explanation": "• $a, b$ 都不為 0：平面 $\\dfrac xa + \\dfrac yb + \\dfrac z3 = 1$，代入 $(1, 2, 3)$：$\\dfrac1a + \\dfrac2b = 0$，$b = -2a$，必一正一負。(A)(C) ✗、(B) ✓。\n• 只有 $a = 0$（$b \\ne 0$）：平面含 $(0, 0, 0)$、$(0, b, 0)$、$(0, 0, 3)$，為 $x = 0$，但 $(1, 2, 3)$ 不在其上。只有 $b = 0$ 同理不可能。(D) ✗。\n\n故選 (B)"
+  },
+  {
+    "id": "98-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 在坐標空間中，一正立方體的八個頂點分別為 $(0, 0, 0)$、$(1, 0, 0)$、$(1, 1, 0)$、$(0, 1, 0)$、$(0, 0, 1)$、$(1, 0, 1)$、$(1, 1, 1)$ 與 $(0, 1, 1)$。若 $A$、$B$ 分別為此正立方體兩稜邊的中點，則向量 $\\overrightarrow{AB}$ 可能為下列哪些選項？",
+    "options": [
+      "$(1, 0, 0)$",
+      "$\\left(\\dfrac12, 0, 0\\right)$",
+      "$\\left(\\dfrac12, 0, 1\\right)$",
+      "$\\left(0, -\\dfrac12, -\\dfrac12\\right)$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "稜邊中點恰有一個坐標是 $\\dfrac12$，其餘為 0 或 1。\n• (A) ✓：$\\left(0, \\tfrac12, 0\\right) \\to \\left(1, \\tfrac12, 0\\right)$。\n• (B) ✗：$x$ 坐標差 $\\dfrac12$ 表示 $A$、$B$ 中恰一個的 $x$ 是 $\\dfrac12$，另一點的 $\\dfrac12$ 在 $y$ 或 $z$，但 $y$、$z$ 差為 0，矛盾。\n• (C) ✗：同理，$x$ 差 $\\dfrac12$ 時另一點的 $\\dfrac12$ 只能在 $y$ 或 $z$，$y$ 差為 0 不行，$z$ 差 1 也不行。\n• (D) ✓：$\\left(0, \\tfrac12, 1\\right) \\to \\left(0, 0, \\tfrac12\\right)$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "98-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 設 $y = f(x)$ 是一個實係數四次多項式，其函數圖形在 $(-1, 2)$ 和 $(1, 2)$ 各有一個反曲點，且知在 $(-1, 2)$ 和 $(1, 2)$ 此函數圖形切線的斜率分別為 1 和 $-1$，則下列哪些選項是正確的？",
+    "options": [
+      "$x + 1$ 是 $f''(x)$ 的因式",
+      "$f'(x)$ 的常數項不等於零",
+      "$f'(-x) = -f'(x)$",
+      "$f(x)$ 的首項係數是 1"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "$f''(x) = k(x^2 - 1)$，$f'(x) = k\\left(\\dfrac{x^3}3 - x\\right) + C$。\n$f'(-1) = \\dfrac{2k}3 + C = 1$、$f'(1) = -\\dfrac{2k}3 + C = -1$，得 $C = 0$、$k = \\dfrac32$。\n• (A) ✓。\n• (B) ✗：$C = 0$。\n• (C) ✓：$f'(x) = \\dfrac12x^3 - \\dfrac32x$ 為奇函數。\n• (D) ✗：首項係數 $\\dfrac{k}{12} = \\dfrac18$。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "98-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 已知丟某枚銅板，其出現正面的機率為 $p$，出現反面的機率為 $(1 - p)$，將此枚銅板丟擲 $n$ 次，在丟擲過程中，正面第一次出現時，可得獎金 1 元，正面第二次出現時，可再得獎金 2 元，正面第三次出現時，可再得獎金 3 元，以此類推。試問下列哪些選項是正確的？",
+    "options": [
+      "若 $n$ 次丟擲中出現正面 $k$ 次，總共得到獎金 $\\dfrac12(k^2 - k)$ 元",
+      "丟擲銅板第二次之後，累計得獎金 1 元的機率為 $2(p - p^2)$",
+      "總共得到獎金 2 元的機率為 $\\dfrac{n(n - 1)}2p^2(1 - p)^{n-2}$",
+      "總共得到獎金 $\\dfrac12(n^2 - n)$ 元的機率為 $n(p^{n-1} - p^n)$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "出現 $k$ 次正面得 $1 + 2 + \\cdots + k = \\dfrac{k(k + 1)}2$ 元。\n• (A) ✗。\n• (B) ✓：前兩次恰一次正面，$2p(1 - p)$。\n• (C) ✗：獎金只可能是 0, 1, 3, 6, …，不可能是 2，機率為 0。\n• (D) ✓：$\\dfrac{n(n - 1)}2$ 元 ⇔ 恰 $n - 1$ 次正面，$np^{n-1}(1 - p)$。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "98-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 8,
+    "question": "A. 在 $A$、$B$ 兩支旗竿底端連線段中的某一點測得 $A$ 旗竿頂端的仰角為 $29^\\circ$、$B$ 旗竿頂端的仰角為 $15^\\circ$。在底端連線段中的另一點測得 $A$ 旗竿頂端的仰角為 $26^\\circ$、$B$ 旗竿頂端的仰角為 $19^\\circ$。則 $A$ 旗竿高度和 $B$ 旗竿高度的比值約為 ⑧.⑨（四捨五入到小數點後第一位）。",
+    "svg": "<svg viewBox=\"0 0 354 72\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:424.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"24.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">θ</text><rect x=\"72\" y=\"4\" width=\"70\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"24.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">15°</text><rect x=\"142\" y=\"4\" width=\"70\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"24.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">19°</text><rect x=\"212\" y=\"4\" width=\"70\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"24.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">26°</text><rect x=\"282\" y=\"4\" width=\"70\" height=\"32\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"24.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">29°</text><rect x=\"2\" y=\"36\" width=\"70\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"56.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">cot θ</text><rect x=\"72\" y=\"36\" width=\"70\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"56.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3.73</text><rect x=\"142\" y=\"36\" width=\"70\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"56.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2.90</text><rect x=\"212\" y=\"36\" width=\"70\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"56.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2.05</text><rect x=\"282\" y=\"36\" width=\"70\" height=\"32\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"56.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1.80</text></svg>",
+    "blanks": [
+      "3",
+      "3"
+    ],
+    "blankLabels": [
+      "8",
+      "9"
+    ],
+    "explanation": "設旗竿高 $h_A$、$h_B$，兩竿底距離 $D$。兩測點都在兩竿之間：\n$D = h_A\\cot29^\\circ + h_B\\cot15^\\circ = h_A\\cot26^\\circ + h_B\\cot19^\\circ$。\n$h_A(2.05 - 1.80) = h_B(3.73 - 2.90)$，$\\dfrac{h_A}{h_B} = \\dfrac{0.83}{0.25} = 3.32 \\approx 3.3$。"
+  },
+  {
+    "id": "98-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 8,
+    "question": "B. 對矩陣 $\\begin{pmatrix} 4 & 9 & a \\\\ 3 & 7 & b \\end{pmatrix}$ 作列運算若干次後得到 $\\begin{pmatrix} 1 & 0 & 1 \\\\ 0 & 1 & 1 \\end{pmatrix}$，則 $(a, b) =$ (⑩⑪, ⑫⑬)。",
+    "blanks": [
+      "1",
+      "3",
+      "1",
+      "0"
+    ],
+    "blankLabels": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "explanation": "列運算不改變方程組 $4x + 9y = a$、$3x + 7y = b$ 的解，而結果表示解為 $x = 1$、$y = 1$。所以 $a = 13$、$b = 10$。"
+  },
+  {
+    "id": "98-ast-ma-C",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 8,
+    "question": "C. $\\triangle ABC$ 為邊長為 5 的正三角形，$P$ 點在三角形內部，若線段長度 $\\overline{PB} = 4$ 且 $\\overline{PC} = 3$，則 $\\cos\\angle ABP = 0.$⑭⑮（四捨五入到小數點後第二位，$\\sqrt2$ 的近似值是 1.414，$\\sqrt3$ 的近似值是 1.732）。",
+    "blanks": [
+      "9",
+      "2"
+    ],
+    "blankLabels": [
+      "14",
+      "15"
+    ],
+    "explanation": "$3^2 + 4^2 = 5^2$，$\\angle BPC = 90^\\circ$，$\\cos\\angle PBC = \\dfrac45$、$\\sin\\angle PBC = \\dfrac35$。\n$\\cos\\angle ABP = \\cos(60^\\circ - \\angle PBC) = \\dfrac12\\cdot\\dfrac45 + \\dfrac{\\sqrt3}2\\cdot\\dfrac35 = 0.4 + 0.5196 \\approx 0.92$。"
+  },
+  {
+    "id": "98-ast-ma-non-1",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設 $R$ 代表坐標平面上由下列兩個不等式所定義的區域，$\\begin{cases} x^2 + y^2 \\le 4 \\\\ y \\ge 1 \\end{cases}$，求函數 $x + y$ 在區域 $R$ 上的最大值與最小值。（13 分）",
+    "points": 13,
+    "blanks": [
+      "最大值 $2\\sqrt2$，最小值 $1 - \\sqrt3$"
+    ],
+    "blankLabels": [
+      "最大與最小"
+    ],
+    "explanation": "$R$ 是圓 $x^2 + y^2 = 4$ 在 $y \\ge 1$ 的弓形，邊界為弦 $y = 1$（$-\\sqrt3 \\le x \\le \\sqrt3$）與圓弧 $(2\\cos t, 2\\sin t)$，$30^\\circ \\le t \\le 150^\\circ$。\n• 圓弧上：$x + y = 2\\sqrt2\\sin(t + 45^\\circ)$，$t + 45^\\circ \\in [75^\\circ, 195^\\circ]$，最大 $2\\sqrt2$（$t = 45^\\circ$），最小在 $t = 150^\\circ$：$1 - \\sqrt3$。\n• 弦上：$x + 1$，介於 $1 - \\sqrt3$ 與 $1 + \\sqrt3$（$< 2\\sqrt2$）。\n所以最大值 $2\\sqrt2$（在 $(\\sqrt2, \\sqrt2)$），最小值 $1 - \\sqrt3$（在 $(-\\sqrt3, 1)$）。"
+  },
+  {
+    "id": "98-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設四次多項式 $f(x) = x(1 - x)(1 + x^2)$。\n(1) 選取積分區間 $a \\le x \\le b$，使得定積分 $\\displaystyle\\int_a^b f(x)\\,dx$ 達到最大值，並求此最大值；（7 分）",
+    "points": 7,
+    "blanks": [
+      "區間 $[0, 1]$，最大值 $\\dfrac{13}{60}$"
+    ],
+    "blankLabels": [
+      "區間與最大值"
+    ],
+    "explanation": "$f(x) > 0$ ⇔ $0 < x < 1$，其餘 $f \\le 0$。積分最大時應恰好取 $f \\ge 0$ 的部分：$[a, b] = [0, 1]$。\n$f(x) = x - x^2 + x^3 - x^4$，$\\displaystyle\\int_0^1 f(x)\\,dx = \\dfrac12 - \\dfrac13 + \\dfrac14 - \\dfrac15 = \\dfrac{13}{60}$。"
+  },
+  {
+    "id": "98-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設四次多項式 $f(x) = x(1 - x)(1 + x^2)$。\n(2) 設 $c > 0$，求證 $\\displaystyle\\int_{-c}^c f(x)\\,dx$ 恆為負值。（6 分）",
+    "points": 6,
+    "blanks": [
+      "$-2\\left(\\dfrac{c^3}3 + \\dfrac{c^5}5\\right) < 0$"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "$f(x) = x - x^2 + x^3 - x^4$，奇次項在對稱區間積分為 0：\n$\\displaystyle\\int_{-c}^c f(x)\\,dx = -2\\int_0^c(x^2 + x^4)\\,dx = -2\\left(\\dfrac{c^3}3 + \\dfrac{c^5}5\\right) < 0$。"
   }
 ]
