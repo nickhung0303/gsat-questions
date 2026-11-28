@@ -232279,5 +232279,283 @@
       "證明"
     ],
     "explanation": "$$a_{2n+2} - a_{2n} = \\left(\\frac15\\right)^{2n+2} + \\left(\\frac15\\right)^{2n+1} - \\left(\\frac13\\right)^{2n+1} = \\frac{6}{25}\\left(\\frac15\\right)^{2n} - \\frac13\\left(\\frac13\\right)^{2n}$$\n因 $\\dfrac{6}{25} < \\dfrac13$ 且 $\\left(\\dfrac15\\right)^{2n} \\le \\left(\\dfrac13\\right)^{2n}$，差小於 0。\n所以 $a_0 = 0 > a_2 > a_4 > \\cdots$，嚴格遞減且極限為 $-\\dfrac18$，故對正整數 $n$：$-\\dfrac18 \\le a_{2n} < 0$（嚴格遞減數列的每一項都大於其極限）。"
+  },
+  {
+    "id": "104-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "1. 將正方形 $ABCD$ 的每一條邊各自標上 1、2、3 中的某一個數，使得任兩條相鄰的邊，都標有恰好差 1 的兩個數。滿足這種條件的標示法總共有多少種？",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answerIndex": 3,
+    "explanation": "相鄰兩數差 1，奇偶必交錯：一組對邊同為偶數、另一組對邊同為奇數。偶數只有 2，所以偶數那組對邊都是 2；奇數那組的兩條邊各自可為 1 或 3（都與 2 差 1）。\n• 偶數組是 $\\overline{AB}, \\overline{CD}$ 或 $\\overline{BC}, \\overline{DA}$：2 種。\n• 奇數組兩邊各 2 種：4 種。\n共 $2\\times4 = 8$ 種。\n\n故選 (D)"
+  },
+  {
+    "id": "104-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "2. 坐標平面上，$x$ 坐標與 $y$ 坐標皆為整數的點稱為「格子點」。設 $n$ 為正整數，已知在第一象限且滿足 $x + 2y \\le 2n$ 的格子點 $(x, y)$ 的數目為 $a_n$。則 $\\displaystyle\\lim_{n\\to\\infty}\\frac{a_n}{n^2}$ 的值為下列哪一個選項？",
+    "options": [
+      "0",
+      "1",
+      "$\\dfrac43$",
+      "2",
+      "4"
+    ],
+    "answerIndex": 1,
+    "explanation": "第一象限 $x, y \\ge 1$。$y = k$ 時 $1 \\le x \\le 2n - 2k$，有 $2n - 2k$ 個（$k = 1, \\dots, n - 1$）：\n$a_n = \\displaystyle\\sum_{k=1}^{n-1}(2n - 2k) = n(n - 1)$，$\\dfrac{a_n}{n^2} \\to 1$。\n（也可由三角形面積 $\\dfrac12\\cdot2n\\cdot n = n^2$ 估計。）\n\n故選 (B)"
+  },
+  {
+    "id": "104-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "3. 針對某 50 人的班級調查喝飲料的習慣，發現其中習慣半糖（糖份減半）的有 37 人，而習慣去冰（不加冰塊）的有 28 人。現在若隨機抽問該班一位同學，他喝飲料的習慣是半糖且去冰的機率有可能是下列哪些選項？",
+    "options": [
+      "0.28",
+      "0.46",
+      "0.56",
+      "0.66",
+      "0.74"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "兩者都有的人數介於 $37 + 28 - 50 = 15$ 與 $\\min(37, 28) = 28$ 之間，機率在 0.30～0.56。\n0.46（23 人）與 0.56（28 人）可能；其餘不可能。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "104-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 半導體產業的摩爾定律認為「積體電路板可容納的電晶體數目每兩年增加一倍」。用 $f(t)$ 表示從 $t = 0$ 開始，電晶體數目隨時間 $t$ 變化的函數，並假設 $f(0) = 1000$。下面選項中，請選出可以代表摩爾定律的公式。",
+    "options": [
+      "若 $t$ 以年為單位，則 $f(t) = 1000 + \\dfrac{1000}{2}t$",
+      "若 $t$ 以月為單位，則 $f(t) = 1000 + \\dfrac{1000}{24}t$",
+      "若 $t$ 以年為單位，則 $f(t) = 1000\\cdot(\\sqrt2)^t$",
+      "若 $t$ 以年為單位，則 $\\log f(t) = 3 + \\dfrac{\\log\\left(\\frac{3t}{2} + 1\\right)}{2}$",
+      "若 $t$ 以月為單位，則 $\\log f(t) = 3 + \\dfrac{\\log2}{24}t$"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "每兩年加倍是指數成長：$t$ 以年計 $f(t) = 1000\\cdot2^{t/2} = 1000(\\sqrt2)^t$；以月計 $f(t) = 1000\\cdot2^{t/24}$，取對數 $\\log f = 3 + \\dfrac{\\log2}{24}t$。\n(A)(B) 是線性成長；(D) 不是指數形式。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "104-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 下表是兩年前三種零食分別在兩間超市的單價（單位：元／包），以單價矩陣 $\\begin{bmatrix} 30 & 28 \\\\ 55 & 50 \\\\ 70 & 66 \\end{bmatrix}$ 表示（列依序為蘇打餅、薯片、魷魚絲；行依序為超市甲、超市乙）。如果這兩間超市都以每年 3% 的比例調漲物品的價格，請問下列哪些選項的計算結果可以代表現在這些零食在這兩間超市的單價矩陣？",
+    "options": [
+      "$2\\cdot(1.03)\\cdot\\begin{bmatrix} 30 & 28 \\\\ 55 & 50 \\\\ 70 & 66 \\end{bmatrix}$",
+      "$(1.03)^2\\cdot\\begin{bmatrix} 30 & 28 \\\\ 55 & 50 \\\\ 70 & 66 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 2\\cdot(1.03) & 0 & 0 \\\\ 0 & 2\\cdot(1.03) & 0 \\\\ 0 & 0 & 2\\cdot(1.03) \\end{bmatrix}\\begin{bmatrix} 30 & 28 \\\\ 55 & 50 \\\\ 70 & 66 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1.03 & 0 & 0 \\\\ 0 & 1.03 & 0 \\\\ 0 & 0 & 1.03 \\end{bmatrix}\\begin{bmatrix} 30 & 28 \\\\ 55 & 50 \\\\ 70 & 66 \\end{bmatrix}\\begin{bmatrix} 1.03 & 0 \\\\ 0 & 1.03 \\end{bmatrix}$",
+      "$\\begin{bmatrix} (1.03)^2 & (1.03)^2 & (1.03)^2 \\\\ (1.03)^2 & (1.03)^2 & (1.03)^2 \\\\ (1.03)^2 & (1.03)^2 & (1.03)^2 \\end{bmatrix}\\begin{bmatrix} 30 & 28 \\\\ 55 & 50 \\\\ 70 & 66 \\end{bmatrix}$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "兩年後每個價格都乘以 $(1.03)^2$。\n• (A)(C) 乘的是 $2\\times1.03$，錯誤。\n• (B) 正確。\n• (D) 正確：左右各乘一個 $1.03I$，等於乘 $(1.03)^2$。\n• (E) 錯誤：這個矩陣會把三列相加，每一列都變成三種零食價格總和的倍數。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "104-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 設 $f(x)$ 為一實係數多項式，且 $f(x)$ 除以 $(x - 1)(x - 2)^2$ 的餘式為 $(x - 2)^2 + g(x)$，其中 $g(x)$ 為一次多項式。請選出正確的選項。",
+    "options": [
+      "若知道 $f(1)$ 及 $f(2)$，則可求出 $g(x)$",
+      "$f(x)$ 除以 $(x - 2)$ 的餘式是 $g(2)$",
+      "$f(x)$ 除以 $(x - 1)$ 的餘式是 $g(1)$",
+      "$f(x)$ 除以 $(x - 2)^2$ 的餘式是 $g(x)$",
+      "$f(x)$ 除以 $(x - 1)(x - 2)$ 的餘式是 $x - 2 + g(x)$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "$f(x) = (x - 1)(x - 2)^2q(x) + (x - 2)^2 + g(x)$。\n• (A) 正確：$f(1) = 1 + g(1)$、$f(2) = g(2)$，兩點決定一次式 $g$。\n• (B) 正確。\n• (C) 錯誤：$f(1) = 1 + g(1)$。\n• (D) 正確：前兩項都被 $(x - 2)^2$ 整除，$g$ 為一次，就是餘式。\n• (E) 錯誤：$(x - 2)^2 = (x - 1)(x - 2) - (x - 2)$，餘式為 $2 - x + g(x)$。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "104-ast-mb-07",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 下表是某國在 2009 年至 2015 年間，運動選手的人數統計。關於該國運動選手，請根據這張表選出正確的敘述。",
+    "svg": "<svg viewBox=\"0 0 244 216\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:292.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"21.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">年份</text><rect x=\"82\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"21.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">男生</text><rect x=\"162\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"202\" y=\"21.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">女生</text><rect x=\"2\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"47.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2009</text><rect x=\"82\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"47.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3410</text><rect x=\"162\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"202\" y=\"47.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1950</text><rect x=\"2\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"73.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2010</text><rect x=\"82\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"73.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3420</text><rect x=\"162\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"202\" y=\"73.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2000</text><rect x=\"2\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"99.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2011</text><rect x=\"82\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"99.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3540</text><rect x=\"162\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"202\" y=\"99.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2240</text><rect x=\"2\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"125.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2012</text><rect x=\"82\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"125.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3710</text><rect x=\"162\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"202\" y=\"125.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2370</text><rect x=\"2\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"151.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2013</text><rect x=\"82\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"151.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3830</text><rect x=\"162\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"202\" y=\"151.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2650</text><rect x=\"2\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"177.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2014</text><rect x=\"82\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"177.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3920</text><rect x=\"162\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"202\" y=\"177.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2780</text><rect x=\"2\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"203.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2015</text><rect x=\"82\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"203.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3990</text><rect x=\"162\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"202\" y=\"203.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2860</text></svg>",
+    "options": [
+      "從 2009 年到 2015 年，男運動選手增加的總人數比女運動選手增加的總人數多",
+      "從 2009 年到 2015 年，平均一年增加了 580 名男運動選手",
+      "從 2009 年到 2015 年，男女運動選手人數差距逐年持續縮小",
+      "如果分別計算男女運動選手人數對年份的迴歸直線（最適直線），則男生的直線斜率小於女生的直線斜率",
+      "在 2009 年到 2015 年共 7 年中，全國平均一年有超過 6000 名運動選手"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "• (A) 錯誤：男增 580、女增 910。\n• (B) 錯誤：580 是 6 年的總增加量。\n• (C) 錯誤：差距依序 1460、1420、1300、1340……，2012 年反而變大。\n• (D) 正確：以年份 $-3$～3 計算，男生斜率 $\\dfrac{3030}{28} \\approx 108$，女生 $\\dfrac{4700}{28} \\approx 168$。\n• (E) 正確：男生總和 25820、女生 16850，平均每年 $\\dfrac{42670}{7} \\approx 6096$ 人。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "104-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "A. 若 $a$ 為整數，且 $y = -7x^2 + ax + \\dfrac13$ 的圖形與 $x$ 軸的兩個交點都介於 $x = -1$ 與 $x = 1$ 之間，則滿足這樣條件的 $a$ 有 ⑧⑨ 個。",
+    "blanks": [
+      "1",
+      "3"
+    ],
+    "blankLabels": [
+      "8",
+      "9"
+    ],
+    "explanation": "令 $g(x) = 7x^2 - ax - \\dfrac13$（開口向上），$g(0) = -\\dfrac13 < 0$，兩根必一正一負。兩根都在 $(-1, 1)$ ⇔ $g(-1) > 0$ 且 $g(1) > 0$：\n$\\dfrac{20}{3} + a > 0$、$\\dfrac{20}{3} - a > 0$，$-\\dfrac{20}{3} < a < \\dfrac{20}{3}$，整數 $-6$～6 共 13 個。"
+  },
+  {
+    "id": "104-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "B. 如圖，長方形 $ABCD$ 中 $\\angle CAB = 30^\\circ$，$\\overrightarrow{AC}\\cdot\\overrightarrow{AD} = |\\overrightarrow{AC}|$，則 $\\overrightarrow{AC}\\cdot\\overrightarrow{AB} =$ ⑩⑪。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-mb-B.png\" alt=\"長方形 ABCD，A 左上、B 右上、C 右下、D 左下，對角線 AC\" style=\"width:100%;max-width:150px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "1",
+      "2"
+    ],
+    "blankLabels": [
+      "10",
+      "11"
+    ],
+    "explanation": "$\\overrightarrow{AC}$ 在 $\\overrightarrow{AD}$ 方向的投影就是 $\\overline{AD}$，所以 $\\overrightarrow{AC}\\cdot\\overrightarrow{AD} = \\overline{AD}^2$。$\\overline{AD} = \\overline{BC} = \\overline{AC}\\sin30^\\circ = \\dfrac{\\overline{AC}}{2}$：\n$\\dfrac{\\overline{AC}^2}{4} = \\overline{AC}$，$\\overline{AC} = 4$。\n$\\overrightarrow{AC}\\cdot\\overrightarrow{AB} = \\overline{AB}^2 = (4\\cos30^\\circ)^2 = 12$。"
+  },
+  {
+    "id": "104-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "C. 某校數學教師針對高三學生隨機選出 30 名男學生及 20 名女學生，做新教材適應性的調查，每一位學生都要填答，且只能填答適應或不適應。結果有 35 名學生填答無法適應新教材內容。假設學生性別與適應狀況獨立，請完成下列表格，使其最能符合上述假設：男生（30 人）適應 ⑫ 人、不適應 ⑬⑭ 人；女生（20 人）適應 ⑮ 人、不適應 ⑯⑰ 人。",
+    "blanks": [
+      "9",
+      "2",
+      "1",
+      "6",
+      "1",
+      "4"
+    ],
+    "blankLabels": [
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "explanation": "獨立 ⇒ 男女的不適應比例都等於全體 $\\dfrac{35}{50} = 0.7$：\n男生不適應 21、適應 9；女生不適應 14、適應 6。"
+  },
+  {
+    "id": "104-ast-mb-non-1",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】根據內政部營建署《建築物無障礙設施設計規範》，無障礙通路之設計需符合以下規定：坡道之坡度（高度與水平長度之比值）不得大於 1/12；坡道之起點及終點，應設置長、寬各 150 公分以上之平台（此處的長，指的是水平長度）；坡道的中間應設置適當數量的平台，使得每段坡道的高差不超過 75 公分，且平台的水平長度至少 150 公分；各平台之坡度不得大於 1/50。下圖為側面示意圖。依上述規定，一條升高 2 公尺的無障礙坡道，在無轉彎的條件下，其最小可能的水平長度（含平台）為多少公尺？（12 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-ast-mb-non1.png\" alt=\"無障礙坡道側面示意圖：平台、坡道、平台、坡道、平台\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 12,
+    "blanks": [
+      "28.56 公尺"
+    ],
+    "blankLabels": [
+      "最小水平長度"
+    ],
+    "explanation": "要最短：坡道用最大坡度 $\\dfrac{1}{12}$、平台用最大坡度 $\\dfrac{1}{50}$ 且長度取最小 150 公分（每個平台升高 3 公分）。平台的坡度比坡道小，平台越少越好。\n• 每段坡道最多升 75 公分。$k$ 段坡道需要 $k + 1$ 個平台（頭尾各一、中間 $k - 1$ 個），最多可升 $75k + 3(k + 1)$ 公分。$k = 2$ 時最多 156 $< 200$；$k = 3$ 時最多 237 $\\ge 200$。所以要 3 段坡道、4 個平台。\n• 平台共升 12 公分，其餘 188 公分由坡道提供，坡道水平長 $188\\times12 = 2256$ 公分。\n總長 $2256 + 4\\times150 = 2856$ 公分 $= 28.56$ 公尺。"
+  },
+  {
+    "id": "104-ast-mb-non-2-1",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某航空公司因機械故障而停飛，致使平安旅行社原來預定搭此航空公司班機返台的 25 位旅客，被迫滯留在當地。另外三家航空公司飛往台灣近期的機位已滿，都必須等待，當時有三種方案可以將旅客送回台灣如下表（表中的數據是以每人為單位）。旅行社同意領隊可以使用下列經費來解決此事件：食宿費總共最多 150000 元，轉搭其他航空公司班機的轉機價差總共最多 8000 元。試問在經費允許的條件下，要如何分配採用 A、B、C 這三種方案的人數，才能使全部旅客返回台灣所用的等待總人天數最少？所謂等待總人天數是採用各方案的人數乘以等待的天數之總和。如果領隊規劃 x 人轉搭甲航空公司的班機、y 人轉搭乙航空公司的班機，其餘的旅客轉搭丙航空公司的班機，試回答下列問題。\n(1) 寫出此問題的線性規劃不等式及目標函數。（4 分）",
+    "svg": "<svg viewBox=\"0 0 374 128\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:448.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">方案</text><rect x=\"132\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">食宿費</text><rect x=\"212\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">轉機價差</text><rect x=\"292\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">等待時間</text><rect x=\"2\" y=\"34\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">A 轉搭甲航空</text><rect x=\"132\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4500 元</text><rect x=\"212\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">400 元</text><rect x=\"292\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3 天</text><rect x=\"2\" y=\"64\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">B 轉搭乙航空</text><rect x=\"132\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">5500 元</text><rect x=\"212\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">200 元</text><rect x=\"292\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4 天</text><rect x=\"2\" y=\"94\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">C 轉搭丙航空</text><rect x=\"132\" y=\"94\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">8000 元</text><rect x=\"212\" y=\"94\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0 元</text><rect x=\"292\" y=\"94\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">6 天</text></svg>",
+    "points": 4,
+    "blanks": [
+      "$7x + 5y \\ge 100$，$2x + y \\le 40$，$x + y \\le 25$，$x, y \\ge 0$（整數）",
+      "目標函數 $150 - 3x - 2y$"
+    ],
+    "blankLabels": [
+      "不等式",
+      "目標函數"
+    ],
+    "explanation": "• 食宿：$4500x + 5500y + 8000(25 - x - y) \\le 150000 \\iff 7x + 5y \\ge 100$。\n• 轉機價差：$400x + 200y \\le 8000 \\iff 2x + y \\le 40$。\n• $x + y \\le 25$，$x, y \\ge 0$ 且為整數。\n目標函數（等待總人天數）：$3x + 4y + 6(25 - x - y) = 150 - 3x - 2y$。"
+  },
+  {
+    "id": "104-ast-mb-non-2-2",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某航空公司因機械故障而停飛，致使平安旅行社原來預定搭此航空公司班機返台的 25 位旅客，被迫滯留在當地。另外三家航空公司飛往台灣近期的機位已滿，都必須等待，當時有三種方案可以將旅客送回台灣如下表（表中的數據是以每人為單位）。旅行社同意領隊可以使用下列經費來解決此事件：食宿費總共最多 150000 元，轉搭其他航空公司班機的轉機價差總共最多 8000 元。試問在經費允許的條件下，要如何分配採用 A、B、C 這三種方案的人數，才能使全部旅客返回台灣所用的等待總人天數最少？所謂等待總人天數是採用各方案的人數乘以等待的天數之總和。如果領隊規劃 x 人轉搭甲航空公司的班機、y 人轉搭乙航空公司的班機，其餘的旅客轉搭丙航空公司的班機，試回答下列問題。\n(2) 求可行解區域的所有頂點的坐標。（4 分）",
+    "svg": "<svg viewBox=\"0 0 374 128\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:448.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">方案</text><rect x=\"132\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">食宿費</text><rect x=\"212\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">轉機價差</text><rect x=\"292\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">等待時間</text><rect x=\"2\" y=\"34\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">A 轉搭甲航空</text><rect x=\"132\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4500 元</text><rect x=\"212\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">400 元</text><rect x=\"292\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3 天</text><rect x=\"2\" y=\"64\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">B 轉搭乙航空</text><rect x=\"132\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">5500 元</text><rect x=\"212\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">200 元</text><rect x=\"292\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4 天</text><rect x=\"2\" y=\"94\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">C 轉搭丙航空</text><rect x=\"132\" y=\"94\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">8000 元</text><rect x=\"212\" y=\"94\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0 元</text><rect x=\"292\" y=\"94\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">6 天</text></svg>",
+    "points": 4,
+    "blanks": [
+      "$(0, 20)$、$(0, 25)$、$(15, 10)$、$(20, 0)$、$\\left(\\dfrac{100}{7}, 0\\right)$"
+    ],
+    "blankLabels": [
+      "頂點"
+    ],
+    "explanation": "兩兩聯立邊界：$x = 0$ 與 $7x + 5y = 100$：$(0, 20)$；$x = 0$ 與 $x + y = 25$：$(0, 25)$；$x + y = 25$ 與 $2x + y = 40$：$(15, 10)$；$2x + y = 40$ 與 $y = 0$：$(20, 0)$；$7x + 5y = 100$ 與 $y = 0$：$\\left(\\dfrac{100}{7}, 0\\right)$。"
+  },
+  {
+    "id": "104-ast-mb-non-2-3",
+    "examType": "分科/指考",
+    "year": 104,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某航空公司因機械故障而停飛，致使平安旅行社原來預定搭此航空公司班機返台的 25 位旅客，被迫滯留在當地。另外三家航空公司飛往台灣近期的機位已滿，都必須等待，當時有三種方案可以將旅客送回台灣如下表（表中的數據是以每人為單位）。旅行社同意領隊可以使用下列經費來解決此事件：食宿費總共最多 150000 元，轉搭其他航空公司班機的轉機價差總共最多 8000 元。試問在經費允許的條件下，要如何分配採用 A、B、C 這三種方案的人數，才能使全部旅客返回台灣所用的等待總人天數最少？所謂等待總人天數是採用各方案的人數乘以等待的天數之總和。如果領隊規劃 x 人轉搭甲航空公司的班機、y 人轉搭乙航空公司的班機，其餘的旅客轉搭丙航空公司的班機，試回答下列問題。\n(3) 求全部旅客返回台灣所用的最少等待總人天數。（4 分）",
+    "svg": "<svg viewBox=\"0 0 374 128\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:448.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">方案</text><rect x=\"132\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">食宿費</text><rect x=\"212\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">轉機價差</text><rect x=\"292\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">等待時間</text><rect x=\"2\" y=\"34\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">A 轉搭甲航空</text><rect x=\"132\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4500 元</text><rect x=\"212\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">400 元</text><rect x=\"292\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3 天</text><rect x=\"2\" y=\"64\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">B 轉搭乙航空</text><rect x=\"132\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">5500 元</text><rect x=\"212\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">200 元</text><rect x=\"292\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4 天</text><rect x=\"2\" y=\"94\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">C 轉搭丙航空</text><rect x=\"132\" y=\"94\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">8000 元</text><rect x=\"212\" y=\"94\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0 元</text><rect x=\"292\" y=\"94\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">6 天</text></svg>",
+    "points": 4,
+    "blanks": [
+      "85 人天（x = 15、y = 10，丙航空 0 人）"
+    ],
+    "blankLabels": [
+      "最少等待總人天數"
+    ],
+    "explanation": "頂點代入 $150 - 3x - 2y$：110、100、85、90、$\\dfrac{750}{7}$。最小值 85，在 $(15, 10)$（整數點），即甲 15 人、乙 10 人、丙 0 人。"
   }
 ]
