@@ -261016,5 +261016,912 @@
       2
     ],
     "explanation": "另類全球化不反對全球化，而是要求全球化兼顧勞工權益、環境與永續：要求所有廠商遵守國際勞工公約（甲）、與國際非政府組織合作推動永續發展（丙）。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "109-ast-civ-01",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "近年來，發生在世界各國的許多群眾運動都被稱之為公民不服從。事實上，在民主法治的社會，「公民不服從」有一定的構成要件。據此，下列敘述何者正確？",
+    "options": [
+      "基於良知出發，目的是為實現公民自身的利益",
+      "企圖改變政府違反公平正義的法律或公共政策",
+      "為追求公益抵制不當政策的作為享有法律免責",
+      "原則以和平方式表達訴求，必要可採暴力手段"
+    ],
+    "answerIndex": 1,
+    "explanation": "公民不服從是基於良知、為了公益，以公開、非暴力的方式違反特定法律，目的在改變不公正的法律或政策，並願意承擔法律後果。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-civ-02",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "總人口與人口結構相似的甲、乙兩國，分別訂有育嬰假申請規定，表一為兩國近年來的申請人數統計（單位：千人）。\n\n<svg viewBox=\"0 0 544 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">年度</text><rect x=\"62\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"102\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲國合計</text><rect x=\"142\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲國男性</text><rect x=\"222\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲國女性</text><rect x=\"302\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙國合計</text><rect x=\"382\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙國男性</text><rect x=\"462\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"502\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙國女性</text><rect x=\"2\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2017</text><rect x=\"62\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"102\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28</text><rect x=\"142\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13</text><rect x=\"222\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">15</text><rect x=\"302\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28</text><rect x=\"382\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"462\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"502\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25</text><rect x=\"2\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2018</text><rect x=\"62\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"102\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35</text><rect x=\"142\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">17</text><rect x=\"222\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">18</text><rect x=\"302\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">36</text><rect x=\"382\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"462\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"502\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">31</text><rect x=\"2\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2019</text><rect x=\"62\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"102\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">42</text><rect x=\"142\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">20</text><rect x=\"222\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">22</text><rect x=\"302\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">41</text><rect x=\"382\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"462\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"502\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">33</text></svg>\n\n依據表一，關於甲、乙兩國之育幼與親職體制之比較，下列推論何者最為可能？",
+    "options": [
+      "甲國較為重視透過政府提供親職教育",
+      "甲國較能夠落實育幼勞動公共化政策",
+      "乙國提供給父母的育嬰假福利較優渥",
+      "乙國的家務勞動工作具較大性別差異"
+    ],
+    "answerIndex": 3,
+    "explanation": "兩國申請總數相近，但乙國申請育嬰假的幾乎都是女性（如 2019 年女 33 千、男 8 千），甲國男女相近，顯示乙國育兒等家務勞動較集中在女性身上。表中看不出親職教育、公共化程度或福利高低。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-civ-03",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "我國全民健康保險制度（全民健保）多年來有著高度的政策滿意度，也受到國際肯定，下列關於這項制度的敘述何者正確？",
+    "options": [
+      "全民健保的主要目的在於保障國民的基本生活與健康",
+      "全民健保制度具有社會互助以及風險共同承擔的意義",
+      "全民健保以全民為對象，採被保險人平均付費，具有落實社會公平的作用",
+      "全民健保的保費由被保險人、雇主及各級政府分擔，大致可取得收支平衡"
+    ],
+    "answerIndex": 1,
+    "explanation": "健保屬社會保險，全民共同繳費、分擔疾病風險，具社會互助性質。健保保障的是醫療，不是基本生活；保費依所得計算而非平均付費；健保長期面臨收支失衡。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-civ-04",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "表二呈現某國低收入戶中，部分家庭組織型態在1994年與2010年的占比，其中單親家庭包含父（或母）加未婚子女；核心家庭則包含父母雙親加未婚子女（單位：%）。\n\n<svg viewBox=\"0 0 534 92\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">年度</text><rect x=\"62\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">單身</text><rect x=\"132\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">夫婦兩人</text><rect x=\"212\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">單親家庭</text><rect x=\"292\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">核心家庭</text><rect x=\"372\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">祖孫兩代</text><rect x=\"452\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">混合家庭</text><rect x=\"2\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1994</text><rect x=\"62\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">45.52</text><rect x=\"132\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12.47</text><rect x=\"212\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14.88</text><rect x=\"292\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10.02</text><rect x=\"372\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.44</text><rect x=\"452\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.97</text><rect x=\"2\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2010</text><rect x=\"62\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">37.92</text><rect x=\"132\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.79</text><rect x=\"212\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">29.22</text><rect x=\"292\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14.68</text><rect x=\"372\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.76</text><rect x=\"452\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.66</text></svg>\n\n根據表二資料，下列敘述何者正確？",
+    "options": [
+      "核心家庭是低收入戶家庭中的主要型態",
+      "隔代教養家庭較容易面臨貧窮問題",
+      "低收入戶家庭中單親家庭比例增幅最大",
+      "家庭組織型態不影響貧窮現象變化"
+    ],
+    "answerIndex": 2,
+    "explanation": "單親家庭由 14.88% 增為 29.22%，增加約 14 個百分點，增幅最大。占比最高的是單身；祖孫兩代比例反而下降。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-civ-05",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "聯合國是目前最重要、會員國最多的國際組織，也訂有據以運作的聯合國憲章，但其運作及維護和平的功能卻屢遭質疑。例如：在敘利亞內戰中，美國、英國、法國和俄羅斯等安理會成員國，曾分別支持政府軍和反政府軍；會員國北韓也在中國暗助之下，多次置聯合國的禁令於不顧，進行核武試驗。關於聯合國上述運作及功能的問題，下列詮釋何者最適當？",
+    "options": [
+      "運作問題根源在於會員國未必認同聯合國憲章",
+      "運作的困境在於缺乏合法武力以解決內戰問題",
+      "功能無法發揮係因會員國的國力差距過於懸殊",
+      "功能不彰常與會員國間的利益和資源爭奪有關"
+    ],
+    "answerIndex": 3,
+    "explanation": "安理會常任理事國在敘利亞各自支持不同陣營、中國暗助北韓，都是出於各自的國家利益，使聯合國難以發揮功能。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-civ-06",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "1978年鄧小平提出「對內改革、對外開放」的發展路線，開啟中國四十年來一系列的經濟體制改革與開放。下列何者屬於此一系列的改革開放措施？",
+    "options": [
+      "讓農民擁有生產和分配的自主權",
+      "將農地國有轉變為農民私人所有",
+      "將大型國有企業開放由私人經營",
+      "在各省廣設經濟特區以吸引外資"
+    ],
+    "answerIndex": 0,
+    "explanation": "農村推行家庭聯產承包責任制，農民繳交定額後可自行決定生產與分配。土地仍屬集體所有；大型國企未開放私人經營；經濟特區只設在少數沿海地區。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-civ-07",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "甲涉嫌竊走乙的機車，某日乙看到甲騎行該機車，報警查獲，並被警察帶至派出所作筆錄。下列警察作為，何者符合我國的法律規定？",
+    "options": [
+      "當警察查明甲沒有竊取機車事實，可向法官聲請釋放甲",
+      "警察查明甲確有偷竊機車嫌疑後，可向法院聲請羈押甲",
+      "警察報請檢察官許可後，得向該管法院聲請核發搜索票",
+      "警察於法院審理該案件時，應負甲確有偷竊的舉證責任"
+    ],
+    "answerIndex": 2,
+    "explanation": "司法警察經檢察官許可，可向法院聲請搜索票。查無犯罪時警察可直接釋放；羈押由檢察官聲請；審判中負舉證責任的是檢察官。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-civ-08",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "丙移動丁的摩托車時，被丁看到，大喊捉賊，後來丙被路人扭送警察局。據此，由法律上的意義來看，下列何種情形對丙最有利？",
+    "options": [
+      "丁於警察受理該案件之後，自行向管轄法院提起自訴",
+      "檢察官偵查終結後，因為罪證不足而作成不起訴處分",
+      "檢察官偵查終結後，認為其罪證明確而聲請妥速審判",
+      "檢察官偵查終結後，認為情有可原而作成緩起訴處分"
+    ],
+    "answerIndex": 1,
+    "explanation": "罪證不足而不起訴，案件就此結束且不認定丙有罪，最有利。緩起訴仍認定有犯罪嫌疑並附條件；自訴與起訴都會進入審判。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-civ-09",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "某廠商連續在三天內每日的下午時段，於電視上播放其生產的化妝品廣告，被檢舉影射該化妝品有醫療效果，主管機關經調查後認定廣告內容傷害消費者權益，因此按電視廣告的次數，分別裁處罰鍰，致使該廠商應負擔的罰鍰金額達數千萬元。關於主管機關的裁罰行為，依據國家行政應遵守的法律原則來看，下列評論何者最為正確？",
+    "options": [
+      "主管機關的裁罰目的為維護公益，即使無法律明確依據，亦屬合法處分",
+      "主管機關裁處高額罰鍰，如果能遏止廠商違法，即屬符合比例原則要求",
+      "主管機關如未裁處該廠商與其他違法廠商相同之罰鍰，即違反平等原則",
+      "主管機關裁罰前如給廠商有陳述意見之機會，更符合正當法律程序要求"
+    ],
+    "answerIndex": 3,
+    "explanation": "作成不利處分前給予陳述意見的機會，符合正當法律程序。裁罰須有法律依據；比例原則還要求手段必要且損益相當；平等原則容許依情節差別對待。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-civ-10",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "憲法是國家基本大法，我國為了維護憲法，設置違憲審查制度，以防止國家行為破壞憲法。關於我國違憲審查制度，下列敘述何者正確？",
+    "options": [
+      "為了維護憲法，除大法官外，普通法院之法官也有宣告法律違憲之權限",
+      "為防止法律違憲，我國採用抽象法規審查制度，大法官可宣告法律違憲",
+      "為防止司法干預地方自治，大法官無法接受直轄市政府聲請之釋憲案件",
+      "為維護人權，人民可針對上訴案件同時提起釋憲，大法官不可拒絕審理"
+    ],
+    "answerIndex": 1,
+    "explanation": "我國由大法官集中審查，可就法規本身是否違憲進行抽象審查並宣告違憲。普通法官只能停止審判、聲請釋憲；地方政府可聲請釋憲；人民須在確定終局裁判後才能聲請，且大法官可不受理。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-civ-11",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "多數國家的立法會以年齡大小作為區分民法中的行為能力、刑法中的責任能力之標準，並藉此來區分不同年齡者之行為的法律效果；也有和年齡無關的，像是民法上的權利能力。依照我國法律上的相關規定，表三中的描述何者完全正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-civ-11.png\" alt=\"表三：(A) 10 歲的小學生—民法：獲得了父母的允許，可以將自己的壓歲錢捐贈給慈善機關；刑法：故意打傷了同學，必須負傷害罪的刑事責任，但得減輕其刑。(B) 13 歲的國中生—民法：以父母所給的零用錢付費搭乘公車上學的法律行為有效；刑法：故意偷了同學的手機，不需要負刑事責任。(C) 16 歲的高中生—民法：單獨購買機票出國到歐洲旅遊，不需得到法定代理人的同意；刑法：騎單車不慎撞傷了人，必須負過失傷害罪的刑事責任，但得減輕其刑。(D) 19 歲的大學生—民法：若發生繼承事件時，必須等到成年後才能繼承該遺產；刑法：騎機車不慎撞傷了人，必須負過失傷害罪的刑事責任\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answerIndex": 1,
+    "explanation": "13 歲為限制行為能力人，用零用錢搭公車屬日常生活所需、依其年齡身分所為的行為，有效；未滿 14 歲不罰。(A) 10 歲無行為能力，不能自行捐贈，且未滿 14 歲不罰；(C) 16 歲出國旅遊非日常行為，須法定代理人同意；(D) 權利能力始於出生，未成年也能繼承。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-civ-12",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "2008年間某國法院依據「以眼還眼」的宗教律法，對一名潑酸使人毀容並失明的被告，科處滴酸使之失明的刑罰。不過，在執行之前，因為國際壓力強大而停止。下列關於「以眼還眼」這種刑罰制度的敘述何者正確？",
+    "options": [
+      "「以眼還眼」講求罪犯罪責與刑罰的相當，因而符合司法正義的應報觀",
+      "「以眼還眼」在犯罪率高的時期符合社會需求，因此不會過度侵犯人權",
+      "「以眼還眼」的刑罰在現代法治國家中僅能透過立法的方式承認",
+      "「以眼還眼」違反《公民與政治權利國際公約》禁止酷刑的規定"
+    ],
+    "answerIndex": 3,
+    "explanation": "對受刑人施以殘害肢體的刑罰屬酷刑，為《公民與政治權利國際公約》所禁止；現代法治國家即使立法也不能承認。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-civ-13",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "臺灣的十元商店、日本的百元商店和美國的一元商店，在近年得到不少消費者喜愛。下列何者最不可能是造成此現象的原因？",
+    "options": [
+      "消費大眾預期此類商品仍有降價空間，因此提高該產品之需求量",
+      "廠商重新定位產品市場，發現消費者對這些商品存有不小的需求",
+      "新興國家的勞動力充沛，而且工資低廉，可以提供全球市場低價產品",
+      "廠商盲目擴充產能，但是消費者需求不振，供過於求的情況相當嚴重"
+    ],
+    "answerIndex": 0,
+    "explanation": "若預期未來還會降價，消費者會延後購買，現在的需求反而減少，不會因此更受歡迎。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-civ-14",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "在政府的各項支出中，有些支出有助於提高國內生產毛額（GDP），有些則不會。下列各項政策，何者有助於提高一國的國內生產毛額？",
+    "options": [
+      "刪減失業救濟金額度",
+      "削減政府公債發行量",
+      "建造政府的辦公大樓",
+      "購買外國生產的武器"
+    ],
+    "answerIndex": 2,
+    "explanation": "建造辦公大樓是政府購買國內生產的財貨與勞務，計入 GDP。救濟金是移轉性支付；購買外國武器屬進口，不增加本國 GDP。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-civ-15",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "近年來有許多涉及外部效果的社會議題，例如在農地上的違規工廠、教育資源的投入是否適當等。以下相關敘述，何者正確？",
+    "options": [
+      "違規工廠危害農地具有外部成本，因此會導致這些工廠的產量少於社會的最適數量",
+      "教育資源的投入會產生外部效益，因此會導致這項投入量高於社會的最適投入數量",
+      "違規工廠所生產產品的價格，將比社會福利最大時候的價格高",
+      "教育資源的投入量如果不足，社會福利水準無法達到最佳狀態"
+    ],
+    "answerIndex": 3,
+    "explanation": "教育有外部效益，市場投入量會低於社會最適量，投入不足使社會福利無法最大。外部成本使產量過多、價格過低。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-civ-16",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "臺灣證券交易所編制的股價指數，是臺灣股票市場整體價值變化的參考指標。編制股價指數除需選定基期外，各上市公司股票市價以及股票發行量等，為計算時納入之因素。若當各上市公司之股票市價漲跌幅度一致時，下列上市公司之特性，何者對股價指數的變化影響最明顯？",
+    "options": [
+      "股票發行量愈多者",
+      "股票成交量愈高者",
+      "股東人數愈多者",
+      "發展前景愈佳者"
+    ],
+    "answerIndex": 0,
+    "explanation": "加權股價指數以市值（股價×發行量）加權，漲跌幅相同時，發行量愈多、市值愈大的公司影響愈大。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-civ-17",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "表四為摘錄某全球物價參考網站有關臺灣甲、乙、丙三個城市的整體物價水準（生活成本指數），單身個人在這些城市的每月生活成本（單位為新臺幣），以及不動產價格相對於所得之比例（不動產價格相對所得比）。若儲蓄為薪資扣除生活成本後之剩餘部分，根據表四資料，對每月薪資為新臺幣三萬元之單身個人上班族而言，下列敘述何者正確？\n\n<svg viewBox=\"0 0 514 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\"></text><rect x=\"62\" y=\"4\" width=\"110\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">生活成本指數</text><rect x=\"172\" y=\"4\" width=\"170\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"257\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">單身個人每月生活成本</text><rect x=\"342\" y=\"4\" width=\"170\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"427\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">不動產價格相對所得比</text><rect x=\"2\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲市</text><rect x=\"62\" y=\"32\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">62.81</text><rect x=\"172\" y=\"32\" width=\"170\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"257\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">23,360元</text><rect x=\"342\" y=\"32\" width=\"170\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"427\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">36.89</text><rect x=\"2\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙市</text><rect x=\"62\" y=\"60\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">55.14</text><rect x=\"172\" y=\"60\" width=\"170\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"257\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">20,162元</text><rect x=\"342\" y=\"60\" width=\"170\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"427\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">19.81</text><rect x=\"2\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙市</text><rect x=\"62\" y=\"88\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">60.26</text><rect x=\"172\" y=\"88\" width=\"170\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"257\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">21,472元</text><rect x=\"342\" y=\"88\" width=\"170\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"427\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14.90</text></svg>",
+    "options": [
+      "於甲市生活者之實質所得最高",
+      "於乙市購買不動產的難度最高",
+      "於乙市生活者之每月儲蓄最高",
+      "於丙市居住者之生活成本最高"
+    ],
+    "answerIndex": 2,
+    "explanation": "每月儲蓄 = 30000 − 生活成本：乙市 9838 元最高。甲市物價最高，實質所得最低；房價所得比最高的是甲市；生活成本最高的是甲市。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-civ-18",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "18-19 為題組\n某國是內閣制的國家，其人口結構由甲、乙、丙三個族群組成，主要政黨有社會、自由、保守、綠黨等四黨。表五為該國某年國會大選各黨的得票數及其得票的族群支持分布情形，假定各族群的投票率相當，且該國族群間緊張關係因選舉而升溫，請回答下面兩個問題。\n\n表五（「甲族群」等欄為各黨得票的族群支持分布）\n<svg viewBox=\"0 0 504 176\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">政黨別</text><rect x=\"72\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲族群</text><rect x=\"142\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙族群</text><rect x=\"212\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙族群</text><rect x=\"282\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">總和</text><rect x=\"352\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">得票數</text><rect x=\"432\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">席次率</text><rect x=\"2\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">社會黨</text><rect x=\"72\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">19%</text><rect x=\"142\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13%</text><rect x=\"212\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">68%</text><rect x=\"282\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100%</text><rect x=\"352\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">168萬</text><rect x=\"432\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">17%</text><rect x=\"2\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">自由黨</text><rect x=\"72\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">19%</text><rect x=\"142\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">22%</text><rect x=\"212\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">59%</text><rect x=\"282\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100%</text><rect x=\"352\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">397萬</text><rect x=\"432\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">39%</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">保守黨</text><rect x=\"72\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">55%</text><rect x=\"142\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28%</text><rect x=\"212\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">17%</text><rect x=\"282\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100%</text><rect x=\"352\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">369萬</text><rect x=\"432\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">37%</text><rect x=\"2\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">綠黨</text><rect x=\"72\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">22%</text><rect x=\"142\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">71%</text><rect x=\"212\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7%</text><rect x=\"282\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100%</text><rect x=\"352\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">66萬</text><rect x=\"432\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7%</text><rect x=\"2\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">總計</text><rect x=\"72\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\"></text><rect x=\"142\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\"></text><rect x=\"212\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\"></text><rect x=\"282\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\"></text><rect x=\"352\" y=\"144\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,000萬</text><rect x=\"432\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100%</text></svg>\n\n依據表中資料判斷該國的政黨政治情況，下列推論何者最可能？",
+    "options": [
+      "得票數較低政黨之族群支持較平均",
+      "甲族群投綠黨的人稍多於投社會黨",
+      "較小的兩個族群最支持之政黨相同",
+      "社會黨最主要支持者屬於少數族群"
+    ],
+    "answerIndex": 2,
+    "explanation": "各族群總票數：甲 ≈ $0.19 \\times 168 + 0.19 \\times 397 + 0.55 \\times 369 + 0.22 \\times 66 \\approx 325$ 萬，乙 ≈ 259 萬，丙 ≈ 416 萬，甲、乙是較小的兩族群。甲投給保守黨約 203 萬、乙投給保守黨約 103 萬，都是各自最多的政黨。甲投綠黨約 14.5 萬，少於投社會黨約 32 萬；社會黨的主要支持者是最大的丙族群。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-civ-19",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "18-19 為題組\n某國是內閣制的國家，其人口結構由甲、乙、丙三個族群組成，主要政黨有社會、自由、保守、綠黨等四黨。表五為該國某年國會大選各黨的得票數及其得票的族群支持分布情形，假定各族群的投票率相當，且該國族群間緊張關係因選舉而升溫，請回答下面兩個問題。\n\n表五（「甲族群」等欄為各黨得票的族群支持分布）\n<svg viewBox=\"0 0 504 176\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">政黨別</text><rect x=\"72\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲族群</text><rect x=\"142\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙族群</text><rect x=\"212\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙族群</text><rect x=\"282\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">總和</text><rect x=\"352\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">得票數</text><rect x=\"432\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">席次率</text><rect x=\"2\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">社會黨</text><rect x=\"72\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">19%</text><rect x=\"142\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13%</text><rect x=\"212\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">68%</text><rect x=\"282\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100%</text><rect x=\"352\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">168萬</text><rect x=\"432\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">17%</text><rect x=\"2\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">自由黨</text><rect x=\"72\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">19%</text><rect x=\"142\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">22%</text><rect x=\"212\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">59%</text><rect x=\"282\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100%</text><rect x=\"352\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">397萬</text><rect x=\"432\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">39%</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">保守黨</text><rect x=\"72\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">55%</text><rect x=\"142\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28%</text><rect x=\"212\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">17%</text><rect x=\"282\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100%</text><rect x=\"352\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">369萬</text><rect x=\"432\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">37%</text><rect x=\"2\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">綠黨</text><rect x=\"72\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">22%</text><rect x=\"142\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">71%</text><rect x=\"212\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7%</text><rect x=\"282\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100%</text><rect x=\"352\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">66萬</text><rect x=\"432\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7%</text><rect x=\"2\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">總計</text><rect x=\"72\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\"></text><rect x=\"142\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\"></text><rect x=\"212\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\"></text><rect x=\"282\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\"></text><rect x=\"352\" y=\"144\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,000萬</text><rect x=\"432\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100%</text></svg>\n\n若僅考慮各黨得票率和族群支持分布，下列何者最可能是該國選後的國會政治生態？",
+    "options": [
+      "社會黨與自由黨合作組織聯合內閣",
+      "社會黨與保守黨合作組織聯合內閣",
+      "國內各政黨因族群立場而難以合作",
+      "綠黨將會成為國會生態中關鍵少數"
+    ],
+    "answerIndex": 0,
+    "explanation": "社會黨與自由黨的支持者都以丙族群為主（68%、59%），立場相近，合計席次 56% 過半，最可能組聯合內閣。綠黨只有 7%，無論加入哪方都無法使保守黨（37%）過半，不是關鍵少數。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-civ-20",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "20-21 為題組\n二次大戰期間，德國納粹政權侵占鄰國波蘭，曾在其首都華沙築起圍牆，將猶太人隔離，進行監控並實施勞役制度，因而引起當地一些猶太青年的組織動員、謀劃對德軍各項破壞的暴力反抗行動，但最後失敗了，反抗者不是被逮捕處決，就是自殺犧牲。\n\n下列敘述何者最能說明德國納粹政權對猶太人實施隔離及勞役措施？",
+    "options": [
+      "建構社會安全的體系",
+      "維持族群的生活風格",
+      "實施種族優生與淨化",
+      "塑造文化資本的積累"
+    ],
+    "answerIndex": 2,
+    "explanation": "納粹以種族優越論為基礎，隔離、迫害並滅絕猶太人，以追求所謂的種族「淨化」。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-civ-21",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "20-21 為題組\n二次大戰期間，德國納粹政權侵占鄰國波蘭，曾在其首都華沙築起圍牆，將猶太人隔離，進行監控並實施勞役制度，因而引起當地一些猶太青年的組織動員、謀劃對德軍各項破壞的暴力反抗行動，但最後失敗了，反抗者不是被逮捕處決，就是自殺犧牲。\n\n下列哪個概念最能說明上述猶太青年的反抗活動？",
+    "options": [
+      "社會倡議",
+      "社會運動",
+      "無政府主義",
+      "公民不服從"
+    ],
+    "answerIndex": 1,
+    "explanation": "猶太青年有組織地動員、集體反抗壓迫，屬社會運動。公民不服從必須以非暴力方式進行，題中是暴力反抗。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-civ-22",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "22-23 為題組\n某國為傳統典型內閣制，國會議員共101席，分別屬於6個政黨，政黨的左派（親勞工）與右派（親市場）意識型態主導政策且壁壘分明，長期對勞動權益和社會福利議題爭論不休。國會議員座位的安排係依照政黨意識型態的屬性，以議長所面對的座向為準，其最右側開始分別是極右派、右派、中間偏右、中間偏左、左派、極左派。圖一（由議長對面看過去，左側為左派、右側為右派）各黨席次依序為：甲黨 8 席、乙黨 13 席、丙黨 37 席、丁黨 28 席、戊黨 11 席、己黨 4 席；即甲為極左派、乙為左派、丙為中間偏左、丁為中間偏右、戊為右派、己為極右派。\n\n依據上文資料，在公共政策的制定過程，該國國會運作生態何者最為可能？",
+    "options": [
+      "因應全球貿易戰，丙戊兩黨合作訂定進口民生物資的價格上限",
+      "為免國際移工壓縮工作機會，甲乙丁三黨合作以限制移工人數",
+      "面對國內低迷的就業環境，丙黨和丁黨攜手合作以降低失業率",
+      "意識形態呈現M型雙峰分配，甲己兩黨主導社會福利立法走向"
+    ],
+    "answerIndex": 2,
+    "explanation": "席次集中在中間的丙（37）、丁（28），合計 65 席過半，呈單峰分布，兩個中間政黨合作最可能。丙戊合計 48、甲乙丁合計 49 都未過半；甲、己是兩端的小黨。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-civ-23",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "22-23 為題組\n某國為傳統典型內閣制，國會議員共101席，分別屬於6個政黨，政黨的左派（親勞工）與右派（親市場）意識型態主導政策且壁壘分明，長期對勞動權益和社會福利議題爭論不休。國會議員座位的安排係依照政黨意識型態的屬性，以議長所面對的座向為準，其最右側開始分別是極右派、右派、中間偏右、中間偏左、左派、極左派。圖一（由議長對面看過去，左側為左派、右側為右派）各黨席次依序為：甲黨 8 席、乙黨 13 席、丙黨 37 席、丁黨 28 席、戊黨 11 席、己黨 4 席；即甲為極左派、乙為左派、丙為中間偏左、丁為中間偏右、戊為右派、己為極右派。\n\n依據題文資訊判斷，下列哪種政黨合作最可能主張取消最低工資限制和降低雇主負擔勞工保險比例？",
+    "options": [
+      "丁戊己",
+      "乙丁戊",
+      "乙丙丁",
+      "甲乙丙"
+    ],
+    "answerIndex": 0,
+    "explanation": "取消最低工資、降低雇主負擔是親市場的右派主張，由中間偏右的丁、右派的戊、極右派的己最可能合作提出。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-civ-24",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "24-25 為題組\n我國自1990年代開始啟動憲政改革工程，陸續推動以下數項修憲內容：\n甲：總統由間接選舉改由人民直接選舉\n乙：總統任命行政院長無須經立法院同意\n丙：立法委員選舉改採「單一選區兩票制」\n丁：行政院長有權提請總統解散立法院\n戊：總統之彈劾改由司法院大法官審理\n\n上述修憲工程對我國現行政府體制運作的影響，下列推論何者最適當？",
+    "options": [
+      "總統擁有更堅強的民意基礎支持，行政院長的副署權則產生弱化的效果",
+      "立委候選人必須同時爭取兩張選票的支持才能當選，選舉競爭更為激烈",
+      "行政院長在立法院否決重大政策時可逕行解散國會，藉此有效制衡國會",
+      "司法院擁有總統的彈劾權，對總統產生制衡監督力量可避免其權力過大"
+    ],
+    "answerIndex": 0,
+    "explanation": "總統改為直選，民意基礎增強；且任命行政院長等人事案無須副署，副署權的制衡作用減弱。立委候選人只需爭取區域票；解散立法院須在立法院通過不信任案後；彈劾案由立法院提出、大法官審理。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-civ-25",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "24-25 為題組\n我國自1990年代開始啟動憲政改革工程，陸續推動以下數項修憲內容：\n甲：總統由間接選舉改由人民直接選舉\n乙：總統任命行政院長無須經立法院同意\n丙：立法委員選舉改採「單一選區兩票制」\n丁：行政院長有權提請總統解散立法院\n戊：總統之彈劾改由司法院大法官審理\n\n上述這些制度改革中，何者與我國目前究竟是屬於總統制、內閣制或雙首長制的爭議論點最為相關？",
+    "options": [
+      "甲丙戊",
+      "甲乙丁",
+      "甲乙戊",
+      "乙丙丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "總統直選（甲）、任命行政院長無須立法院同意（乙）、行政院長可提請解散立法院（丁），涉及總統、行政院長與立法院的權力關係，是判斷憲政體制的關鍵。選舉制度（丙）與彈劾審理機關（戊）較無關。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-civ-26",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "26-27 為題組\n依據新聞報導，政府按照勞動基準法（勞基法）規定，針對新聞媒體業進行大規模勞動檢查（勞檢）。檢查後發現，數十家受檢之媒體公司近乎全數違規，近八成的記者遭禁止申報加班、其公司亦未給付加班費或補休，並有濫用責任制、嚴重危害媒體勞工情事，粗估媒體受裁罰總金額達新臺幣一千六百萬元。（註：勞動檢查是指勞動行政機關依法進入工作場所，檢查事業單位有無違反勞動法令之情事。）\n\n關於上述案例所涉及的媒體勞工權益問題，下列敘述何者正確？",
+    "options": [
+      "記者薪水較一般人高，加班為其高薪之義務，不在勞基法保障範圍",
+      "記者得組工會與老闆協商，但為保障民眾權益，罷工須經政府許可",
+      "媒體可主張契約自由，要求政府不應介入其與員工之勞動契約關係",
+      "媒體不得拒絕政府進行勞檢，因政府基於保護勞工可限制私法自治"
+    ],
+    "answerIndex": 3,
+    "explanation": "勞基法是保護勞工的社會立法，國家可依法進入事業單位檢查，限制雇主的契約自由。記者仍受勞基法保障；罷工依法經工會會員投票即可，無須政府許可。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-civ-27",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "26-27 為題組\n依據新聞報導，政府按照勞動基準法（勞基法）規定，針對新聞媒體業進行大規模勞動檢查（勞檢）。檢查後發現，數十家受檢之媒體公司近乎全數違規，近八成的記者遭禁止申報加班、其公司亦未給付加班費或補休，並有濫用責任制、嚴重危害媒體勞工情事，粗估媒體受裁罰總金額達新臺幣一千六百萬元。（註：勞動檢查是指勞動行政機關依法進入工作場所，檢查事業單位有無違反勞動法令之情事。）\n\n上述案例中政府的勞動檢查與裁罰行為，與下列何種法律原則關係最密切？",
+    "options": [
+      "不告不理原則",
+      "罪刑法定原則",
+      "契約自由原則",
+      "依法行政原則"
+    ],
+    "answerIndex": 3,
+    "explanation": "政府依勞基法進行勞檢並裁罰，是行政機關依法律授權行使職權，屬依法行政。裁罰是行政罰而非刑罰。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-civ-28",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "28-29 為題組\n2008年全球金融風暴後，因美國貨幣當局已將利率調降至趨於零之低點，讓傳統以改變利率達到調節經濟之措施無法繼續施展，因此改採量化寬鬆政策，作為提振經濟之措施。此政策由美國貨幣當局買入企業發行的債券開始，當由市場購入企業發行的債券後，等同把資金挹注進入金融體系，提高銀行將資金貸放給企業與個人之意願，以刺激投資與消費，進而達到提振經濟之目標。美國並非量化寬鬆措施的發明者，日本為最早實行量化寬鬆政策的國家。至目前為止，量化寬鬆亦是日本政府採用的政策，例如2019年4月，日本中央銀行就提及考慮採取額外的量化寬鬆措施，此舉讓日本股票市場股價指數在當日出現上揚變化。除日本外，歐洲央行也採量化寬鬆因應金融風暴之衝擊。\n\n下列臺灣歷年曾採行之措施，何者與上述國家所採行之量化寬鬆政策的性質相同？",
+    "options": [
+      "因應1970年代第一次石油危機之衝擊，推動十大建設",
+      "因應2008年全球金融風暴，於2009年對國民發放消費券",
+      "因應2020年疫情影響，以國家安定基金進場股票市場護盤",
+      "因應農曆新年市場對資金的需求，於公開市場買進政府公債"
+    ],
+    "answerIndex": 3,
+    "explanation": "量化寬鬆是央行在市場買入債券、釋出資金，屬貨幣政策；央行在公開市場買進公債性質相同。十大建設、消費券屬財政政策；國安基金護盤是買股票撐盤。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-civ-29",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "28-29 為題組\n2008年全球金融風暴後，因美國貨幣當局已將利率調降至趨於零之低點，讓傳統以改變利率達到調節經濟之措施無法繼續施展，因此改採量化寬鬆政策，作為提振經濟之措施。此政策由美國貨幣當局買入企業發行的債券開始，當由市場購入企業發行的債券後，等同把資金挹注進入金融體系，提高銀行將資金貸放給企業與個人之意願，以刺激投資與消費，進而達到提振經濟之目標。美國並非量化寬鬆措施的發明者，日本為最早實行量化寬鬆政策的國家。至目前為止，量化寬鬆亦是日本政府採用的政策，例如2019年4月，日本中央銀行就提及考慮採取額外的量化寬鬆措施，此舉讓日本股票市場股價指數在當日出現上揚變化。除日本外，歐洲央行也採量化寬鬆因應金融風暴之衝擊。\n\n根據文中對量化寬鬆政策的描述，以下有關此政策的敘述何者正確？",
+    "options": [
+      "量化寬鬆措施將資金挹注進入金融體系，能夠激勵各國股價指數持續上揚",
+      "在量化寬鬆政策影響投資、消費以提振經濟的過程，銀行扮演著重要角色",
+      "只要貨幣政策當局持之以恆，就能透過量化寬鬆政策達到提振經濟的目標",
+      "考量美、日與歐洲等為臺灣重要貿易夥伴，因此行政院也跟進採行此政策"
+    ],
+    "answerIndex": 1,
+    "explanation": "題文指出資金注入後，要靠銀行願意貸放給企業與個人，才能刺激投資與消費。股價不一定持續上揚；政策不保證成功；貨幣政策由央行而非行政院執行。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-civ-30",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "30-31 為題組\n某投資人手中有一百萬元的資金。若將此資金以存款的形式存入銀行，一年後可以有兩萬元的利息；但若將此資金投資購買股票，預期一年後賣出會有三萬元的獲利。經思考後，該投資人決定以手中資金購買股票。而經過一年後賣出股票，該投資人實際獲利為兩萬五千元。\n\n根據以上資料，請問該投資人購買股票的機會成本為多少？",
+    "options": [
+      "兩萬元的利息收入",
+      "賣出股票之三萬元的預期報酬",
+      "賣出股票之兩萬五千元的實際報酬",
+      "兩萬元的利息收入加上賣出股票之三萬元的預期報酬"
+    ],
+    "answerIndex": 0,
+    "explanation": "選擇買股票所放棄的最佳其他選擇是存款，其利息兩萬元就是機會成本。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-civ-31",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "30-31 為題組\n某投資人手中有一百萬元的資金。若將此資金以存款的形式存入銀行，一年後可以有兩萬元的利息；但若將此資金投資購買股票，預期一年後賣出會有三萬元的獲利。經思考後，該投資人決定以手中資金購買股票。而經過一年後賣出股票，該投資人實際獲利為兩萬五千元。\n\n根據以上資料，有關該投資人的理財行為，下列敘述何者正確？",
+    "options": [
+      "賣出股票實際獲利與原先的預期不符，顯示投資股票存在一定的風險",
+      "賣出股票實際獲利高於存款利息收入，顯示投資股票的風險低於存款",
+      "操作股票預期獲利高於存款利息收入，顯示投資股票的獲利總是較高",
+      "若賣出股票實際獲利等於存款利息收入，顯示投資股票之決策是錯的"
+    ],
+    "answerIndex": 0,
+    "explanation": "實際獲利 2.5 萬與預期 3 萬不同，報酬具不確定性，即投資風險。一次獲利較高不代表風險較低或總是較高；決策好壞依當時的資訊判斷，不以事後結果論。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-civ-32",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "32-34 為題組\n某國經濟部長進行施政報告，強調國內生產毛額（GDP）連續成長，國民平均所得上升，勞動參與率持續提升，失業率創新低等數據，藉以顯示施政成效卓著。同一時間，該國某民間倡議組織也公布兩項統計數據加以批評：第一，該國生育率持續下降，而女性在婚後退出勞動市場以承擔家庭照顧工作的比例正逐年攀升。第二，雙薪家庭夫妻分攤家務勞動時間的比例，有男性下降而女性上升的情形。據此，該組織批評政府的施政報告有很大的盲點，缺乏性別主流化觀點，並認為該國政府應該效法經濟合作暨發展組織（OECD）國家，將「托育公共化」列為施政方針，由國家和社會共同承擔生育及教養責任，而非傳統僅由個人或家庭承擔，如此一來不但可以提升女性勞動參與率，出生率也會上升。\n\n該組織第一項數據顯示女性對GDP之貢獻程度並未妥當呈現出來，其理由是GDP在計算時並未包含下列何者？",
+    "options": [
+      "地下經濟",
+      "外部成本與效益",
+      "生活品質之變動",
+      "非市場交易之產出"
+    ],
+    "answerIndex": 3,
+    "explanation": "女性在家照顧家庭的家務勞動沒有經過市場交易，不計入 GDP，因此她們的貢獻被低估。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-civ-33",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "32-34 為題組\n某國經濟部長進行施政報告，強調國內生產毛額（GDP）連續成長，國民平均所得上升，勞動參與率持續提升，失業率創新低等數據，藉以顯示施政成效卓著。同一時間，該國某民間倡議組織也公布兩項統計數據加以批評：第一，該國生育率持續下降，而女性在婚後退出勞動市場以承擔家庭照顧工作的比例正逐年攀升。第二，雙薪家庭夫妻分攤家務勞動時間的比例，有男性下降而女性上升的情形。據此，該組織批評政府的施政報告有很大的盲點，缺乏性別主流化觀點，並認為該國政府應該效法經濟合作暨發展組織（OECD）國家，將「托育公共化」列為施政方針，由國家和社會共同承擔生育及教養責任，而非傳統僅由個人或家庭承擔，如此一來不但可以提升女性勞動參與率，出生率也會上升。\n\n若採納性別主流化觀點，檢視該國勞動參與率和家務勞動相關數據，那麼該組織最可能倡議的政策為何？",
+    "options": [
+      "保障勞動市場中的男女同工同酬",
+      "推動就業父母均享育嬰假之政策",
+      "制訂法令實現就業多元性別平等",
+      "擴大育幼以及照護勞動產業規模"
+    ],
+    "answerIndex": 1,
+    "explanation": "數據顯示家務與照顧責任愈來愈集中在女性。推動父母雙方都能請育嬰假，可促進男性分擔照顧責任，回應性別分工不均的問題。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-civ-34",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "32-34 為題組\n某國經濟部長進行施政報告，強調國內生產毛額（GDP）連續成長，國民平均所得上升，勞動參與率持續提升，失業率創新低等數據，藉以顯示施政成效卓著。同一時間，該國某民間倡議組織也公布兩項統計數據加以批評：第一，該國生育率持續下降，而女性在婚後退出勞動市場以承擔家庭照顧工作的比例正逐年攀升。第二，雙薪家庭夫妻分攤家務勞動時間的比例，有男性下降而女性上升的情形。據此，該組織批評政府的施政報告有很大的盲點，缺乏性別主流化觀點，並認為該國政府應該效法經濟合作暨發展組織（OECD）國家，將「托育公共化」列為施政方針，由國家和社會共同承擔生育及教養責任，而非傳統僅由個人或家庭承擔，如此一來不但可以提升女性勞動參與率，出生率也會上升。\n\n依據題文資訊，若該國政府施政欲回應其民間倡議組織對「托育公共化」的主張，從解決民眾問題與社會重分配的角度切入，下列哪項政策最符合「促進人民福祉與維護公平正義」的統治正當性？",
+    "options": [
+      "收購私立托育機構將其轉型為公立",
+      "降低托育從業門檻並獎助投入產業",
+      "發放育兒家庭托育補助或育兒津貼",
+      "補貼民間托育業者擴大托育的規模"
+    ],
+    "answerIndex": 2,
+    "explanation": "直接發給育兒家庭托育補助或津貼，由國家分擔養育成本，最直接減輕家庭負擔並發揮重分配效果。收購私立機構成本高、侵害業者；降低門檻可能影響托育品質；補貼業者未必讓家庭受惠。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-civ-35",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "35-36 為題組\n根據統計，某國性侵害發生比例明顯高於他國，且受害人中百分之九十為女性。某學者研究發現，該國民眾對性侵案有兩個普遍看法：一、認為性侵害案件的主因應歸責於女性受害人，穿著暴露或言行隨便，引發男性的衝動犯罪而導致；二、不論受害者性別，受害者的家人親友，常認為受害者是家族的恥辱，導致受害者經常不敢聲張，而加害人則經常獲得輕縱。學者因此認為，問題的癥結在於改變特定社會關係結構下所產生的不當價值觀。\n\n該學者根據其研究發現，最可能進一步提出哪項性別平等的主張？",
+    "options": [
+      "僅譴責受害者言行屬不公平的雙重標準，應一併檢討加害者的言行",
+      "男性具資源優勢，且為女性受侵害之加害者，因此社會應予以譴責",
+      "性侵害現象之根源為權力不平等，故應積極改善各項性別權力結構",
+      "女性受害比例較高，說明其體力屬弱勢，因此國家須積極立法保護"
+    ],
+    "answerIndex": 2,
+    "explanation": "學者認為癥結在「特定社會關係結構」下的不當價值觀，即性別權力不平等，因此主張改善性別權力結構。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-civ-36",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "35-36 為題組\n根據統計，某國性侵害發生比例明顯高於他國，且受害人中百分之九十為女性。某學者研究發現，該國民眾對性侵案有兩個普遍看法：一、認為性侵害案件的主因應歸責於女性受害人，穿著暴露或言行隨便，引發男性的衝動犯罪而導致；二、不論受害者性別，受害者的家人親友，常認為受害者是家族的恥辱，導致受害者經常不敢聲張，而加害人則經常獲得輕縱。學者因此認為，問題的癥結在於改變特定社會關係結構下所產生的不當價值觀。\n\n法律的規定彰顯出社會價值觀，因此我國針對性侵害行為的處罰，歷經重要立法修正。下述修正項目，何者最符合該學者的主張？",
+    "options": [
+      "明訂加害人必須接受強制治療與輔導教育，以預防再犯",
+      "修正罪章名，強調性侵害乃損害性自主權而非社會風俗",
+      "大幅提高相關刑責，以昭告社會並形成嚇阻作用",
+      "增列受害人檔案之保密規定，保護其免再次受辱"
+    ],
+    "answerIndex": 1,
+    "explanation": "刑法將「妨害風化罪」改為「妨害性自主罪」，表示性侵害侵害的是個人的性自主權，而不是家族名譽或社會風俗，直接改變「受害者是家族恥辱」的價值觀。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-civ-37",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "37-38 為題組\n某國人民因為飲酒過量導致死亡率過高，加上酒駕肇事傷人情況嚴重，該國為了促進國人身心健康，採取各項抑制酒類產品使用之措施，如對廠商課徵酒類健康福利捐（酒類規費），並以此規費之收入，支應國民健康保險、酒駕防治等費用；要求酒類包裝必須記載警語，警告飲酒之危害；要求除部分公共場所得設置酒吧外，大多數公共場所不得飲酒等措施。\n\n如以我國憲法人權保障之觀點來評論這些措施，下列哪項敘述正確？",
+    "options": [
+      "因酒類危害人體健康，故依法要求酒類包裝記載警語，並未限制人民自由",
+      "透過酒類規費來增加飲酒者消費負擔，係以限制人民財產來追求社會公益",
+      "因酒類會嚴重傷害人民健康，故飲酒者並無飲酒自由，公共場所禁酒合憲",
+      "因修法全面禁止飲酒有助維護人民健康權，因而此一作法並不會侵害人權"
+    ],
+    "answerIndex": 1,
+    "explanation": "規費使飲酒者負擔增加，是為了公共健康而限制人民的財產權。要求記載警語限制了廠商的言論自由；飲酒屬一般行為自由；全面禁酒可能違反比例原則。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-civ-38",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "37-38 為題組\n某國人民因為飲酒過量導致死亡率過高，加上酒駕肇事傷人情況嚴重，該國為了促進國人身心健康，採取各項抑制酒類產品使用之措施，如對廠商課徵酒類健康福利捐（酒類規費），並以此規費之收入，支應國民健康保險、酒駕防治等費用；要求酒類包裝必須記載警語，警告飲酒之危害；要求除部分公共場所得設置酒吧外，大多數公共場所不得飲酒等措施。\n\n若以P代表酒類價格，Q代表酒類交易量，S1、D1為課徵酒類規費前，酒類市場的供給線與需求線，S2、D2為課徵酒類規費後，酒類市場的供給線與需求線。根據題文內容，在偏好不變下，有關課徵酒類規費，對酒類市場供給或需求的影響，下列何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-civ-38.png\" alt=\"四幅供需圖（縱軸 P、橫軸 Q）：(A) 需求線不變（D1＝D2），S2 位在 S1 左上方；(B) 需求線不變（D1＝D2），S2 位在 S1 右下方；(C) 供給線不變（S1＝S2），D2 位在 D1 左下方；(D) S2 在 S1 右方、D2 在 D1 右方，供給與需求都右移\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖(A)",
+      "圖(B)",
+      "圖(C)",
+      "圖(D)"
+    ],
+    "answerIndex": 0,
+    "explanation": "規費向廠商課徵，提高生產成本，供給線左移（S2 在 S1 左上方）；偏好不變，需求線不動。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-civ-39",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "媒體「近用權」的主張，在於平衡媒體與被報導人之間的不平等關係，或平衡主流社會與常被忽略的社會弱勢或多元群體間的資訊不平等問題。下列哪些情境符合「媒體近用權」的概念？",
+    "options": [
+      "某藥房因媒體對其囤積口罩圖謀暴利的報導有誤，請媒體提供公開答辯機會",
+      "偏鄉農地長年受不明來源汙染，農民拍攝影片並利用媒體平臺「爆料」自救",
+      "原住民族部落舉辦傳統祭儀活動，長老請電視臺播放族人所拍攝之活動影片",
+      "某大電子公司辦理年終尾牙，邀請知名演藝人員登臺助興，並請電視臺報導",
+      "電視綜藝節目，由主持人訪問各地特色小吃店，向觀眾推薦並收取廣告費用"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "被報導人要求答辯（A）、弱勢者利用媒體發聲（B）、少數族群使用媒體呈現自己的文化（C），都是近用權。大企業宣傳與收費推薦屬商業行為。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "109-ast-civ-40",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "立法委員和縣市議員分屬我國中央與地方政府的民意代表。有關這兩者的比較，下列敘述哪些正確？",
+    "options": [
+      "選舉制度和任期與總統相同",
+      "應選名額均依人口比例計算",
+      "選上之後兩者都是公職人員",
+      "都具有審議政府預算之職權",
+      "都可對首長提出不信任投票"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "兩者都是民選公職人員（C），也都審議所屬政府的預算（D）。立委、議員選舉制度與總統不同，縣市議員任期 4 年但選制不同；立委不分區與原住民席次不依人口計算；縣市議會不能對縣市長提不信任案。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "109-ast-civ-41",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "甲販賣毒品中被警察發現而以現行犯逮捕。甲向警員提出下列主張，何者屬於甲受現行法律規定保障之權利？",
+    "options": [
+      "甲可以保持緘默，不必違背自己意思而為陳述",
+      "甲可於被逮捕後，得要求選任辯護人到場協助",
+      "甲可要求未著制服警員出示證件表明警察身分",
+      "甲可要求警員公開調查犯罪的相關過程與結果",
+      "甲可要求警員出示拘票，否則不得拘束其自由"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "緘默權（A）、選任辯護人（B）、要求警察表明身分（C，警察職權行使法）都受法律保障。偵查不公開；現行犯任何人都可逕行逮捕，不需拘票。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "109-ast-civ-42",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "甲男與乙女於婚後依民法規定發生一定的權利義務關係，下列關於二人間權利義務內容之敘述何者正確？",
+    "options": [
+      "甲與乙依法須共同居住，除有正當理由，乙必須搬去甲的住所",
+      "為表明已婚的身分，乙須前往戶政事務所改名冠上配偶之姓氏",
+      "雙方未約定財產制，那麼兩人婚後的財產，將由夫妻各自所有",
+      "甲與乙婚後生下小孩，必須由雙方共同約定來決定小孩的姓氏",
+      "若兩人管教子女產生歧見時，為避免無法定奪，應由母親決定"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "未約定時適用法定財產制，婚後財產由夫妻各自所有（C）；子女姓氏由父母書面約定（D）。住所由雙方共同協議；冠姓由當事人自行決定；管教歧見可請求法院依子女最佳利益酌定。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "109-ast-civ-43",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "依據我國國家賠償法，在一定條件下，人民得請求國家賠償。下列何者屬於國家應負賠償責任之案例？",
+    "options": [
+      "國家基於興建道路之必要，徵收私人土地，依法給該地地主土地價金",
+      "消防局未依法定期檢查工廠防火設施，導致失火時人員財物損失慘重",
+      "國家公務員基於私人用途向商店購買文具用品，卻遲未給付文具貨款",
+      "海關扣押貨物未予以妥善保管，致使貨物發霉損壞，造成所有人損失",
+      "因鄉公所未能妥善維護路燈，造成路燈漏電，使附近居民觸電而受傷"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "公務員怠於執行職務（B）、執行職務違法使人民受損（D），以及公有公共設施設置或管理有欠缺（E），都可請求國賠。徵收是合法的損失補償；公務員私人購物屬個人債務。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "109-ast-civ-44",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "具有非敵對性（或稱共享性）之財貨，根據其具備排他性與否，可分為公共財與準公共財。下列是有關這兩種財貨之相關敘述，何者正確？",
+    "options": [
+      "公立大學在校學生住同一宿舍、使用公共衛浴，故學校宿舍是一種公共財",
+      "付費有線電視節目具備非敵對性，但具排他性，故是屬於準公共財的財貨",
+      "廠商不具提供公共財誘因，故政府應扮演生產者角色促進社會利益最大化",
+      "公海漁業資源產權無法確定，故當達到濫捕情況時，此項資源即屬公共財",
+      "我國高速公路屬準公共財，而且在行車流量變多時，便會出現擁擠的現象"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "付費有線電視可共享但能排除不付費者，屬準公共財（B）。公共財無法向使用者收費，廠商不願提供，需由政府提供（C）。高速公路可收費，屬準公共財，車多時會擁擠（E）。宿舍可排他且有敵對性；公海漁業資源具敵對性，屬共有資源。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "109-ast-civ-45",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "表六為臺灣於2007年至2016年間，以教育程度與年齡層等類別，所區分之失業率變化，其中2008年曾發生全球金融風暴，對失業率產生影響。根據表六所作之敘述，以下何者正確？（單位：%）\n\n<svg viewBox=\"0 0 574 316\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">年</text><rect x=\"62\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">國中及以下</text><rect x=\"152\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">高中、高職</text><rect x=\"242\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">大專及以上</text><rect x=\"332\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">15-24歲</text><rect x=\"412\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">25-44歲</text><rect x=\"492\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">45-64歲</text><rect x=\"2\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2007</text><rect x=\"62\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.22</text><rect x=\"152\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.31</text><rect x=\"242\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.00</text><rect x=\"332\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10.65</text><rect x=\"412\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.86</text><rect x=\"492\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.24</text><rect x=\"2\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2008</text><rect x=\"62\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.76</text><rect x=\"152\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.34</text><rect x=\"242\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.21</text><rect x=\"332\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11.81</text><rect x=\"412\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.02</text><rect x=\"492\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.54</text><rect x=\"2\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2009</text><rect x=\"62\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.84</text><rect x=\"152\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.19</text><rect x=\"242\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.57</text><rect x=\"332\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14.49</text><rect x=\"412\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.93</text><rect x=\"492\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.90</text><rect x=\"2\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2010</text><rect x=\"62\" y=\"116\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.83</text><rect x=\"152\" y=\"116\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.58</text><rect x=\"242\" y=\"116\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.12</text><rect x=\"332\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13.09</text><rect x=\"412\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5.35</text><rect x=\"492\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.39</text><rect x=\"2\" y=\"144\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2011</text><rect x=\"62\" y=\"144\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.69</text><rect x=\"152\" y=\"144\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.66</text><rect x=\"242\" y=\"144\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.51</text><rect x=\"332\" y=\"144\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12.47</text><rect x=\"412\" y=\"144\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.46</text><rect x=\"492\" y=\"144\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.64</text><rect x=\"2\" y=\"172\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"190.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2012</text><rect x=\"62\" y=\"172\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"190.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.52</text><rect x=\"152\" y=\"172\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"190.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.22</text><rect x=\"242\" y=\"172\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"190.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.58</text><rect x=\"332\" y=\"172\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"190.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12.66</text><rect x=\"412\" y=\"172\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"190.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.38</text><rect x=\"492\" y=\"172\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"190.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.31</text><rect x=\"2\" y=\"200\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"218.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2013</text><rect x=\"62\" y=\"200\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"218.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.53</text><rect x=\"152\" y=\"200\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"218.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.11</text><rect x=\"242\" y=\"200\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"218.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.50</text><rect x=\"332\" y=\"200\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"218.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13.17</text><rect x=\"412\" y=\"200\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"218.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.27</text><rect x=\"492\" y=\"200\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"218.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.25</text><rect x=\"2\" y=\"228\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"246.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2014</text><rect x=\"62\" y=\"228\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"246.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.20</text><rect x=\"152\" y=\"228\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"246.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.83</text><rect x=\"242\" y=\"228\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"246.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.35</text><rect x=\"332\" y=\"228\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"246.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12.63</text><rect x=\"412\" y=\"228\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"246.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.13</text><rect x=\"492\" y=\"228\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"246.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.09</text><rect x=\"2\" y=\"256\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"274.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2015</text><rect x=\"62\" y=\"256\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"274.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.77</text><rect x=\"152\" y=\"256\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"274.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.83</text><rect x=\"242\" y=\"256\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"274.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.13</text><rect x=\"332\" y=\"256\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"274.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12.05</text><rect x=\"412\" y=\"256\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"274.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.95</text><rect x=\"492\" y=\"256\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"274.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.99</text><rect x=\"2\" y=\"284\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"302.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2016</text><rect x=\"62\" y=\"284\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"302.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.09</text><rect x=\"152\" y=\"284\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"302.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.90</text><rect x=\"242\" y=\"284\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"287\" y=\"302.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.23</text><rect x=\"332\" y=\"284\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"302.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12.12</text><rect x=\"412\" y=\"284\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"302.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.08</text><rect x=\"492\" y=\"284\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"302.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.15</text></svg>",
+    "options": [
+      "不論以何種類別區分，失業率均在2008年全球金融風暴之次年出現上揚",
+      "高學歷有高失業率，2007年後大專及以上學歷的失業率為各學歷中最高",
+      "25-44歲年齡層勞動者的失業率，在金融風暴之後皆呈現逐年下降的現象",
+      "失業率隨年齡層提高而提高，顯示高齡勞動力生產力下滑為造成失業之因",
+      "與2008年相比，2009年教育程度在國中及以下的勞動者，失業率增幅最高"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "2009 年各類別失業率都比 2008 年上升（A）。各學歷中，國中及以下由 3.76% 升到 5.84%，增加 2.08 個百分點、增幅最大（E）。大專以上僅 2012 年後才偶爾最高；25-44 歲在 2016 年回升；失業率是年齡愈高愈低。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "109-ast-civ-46",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "46-47 為題組\n雖然印度憲法（1950年實施）明文廢除約有三千年印度教歷史傳統的「種姓制度」（Caste），規定國家應平等對待所有公民，維護基本權利，禁止種姓歧視。但是直到現在，達利特（Dalitis）仍然是印度社會地位最底層的群體，他們在日常生活中經常受到高階級群體的霸凌與歧視，特別是在鄉村地區。達利特人代代多從事清潔街道、垃圾、糞便、各種死屍等工作，是最貧窮、教育程度最低的一群。他們常被汙名為不潔、汙穢的賤民。至今有些高階者為維護自身的「純淨」與優越，仍對達利特採取限制其居住與活動空間的隔離對待，例如在村落限制其取水點，甚至有些醫生也不願意替他們看診。\n印度政府訂有保護達利特之相關立法，除嚴厲禁止高階對底層階級人民的暴力言行、性侵等罪行外，並實施就學、就業與參政的補救措施，包括提供保障名額，甚至鼓勵跨階級通婚。此外，印度女性勞動參與率特別低，社會地位普遍比男性低落，就連出入公共場合也有人身安全問題，故達利特婦女可謂是底層中之底層。\n近年來，Sakha等以協助底層婦女就業為目的的社會企業，在幾個都會區成立計程車公司，打破以往雇用男性司機的傳統，訓練弱勢背景婦女成為專業駕駛人，並專門服務女性乘客。\n\n根據題文判斷，下列對於印度社會的分析，哪些推論較為適切？",
+    "options": [
+      "如果要完全打破傳統世襲職業、階級與社會隔離，只靠提升底層階級的教育程度仍然不足",
+      "印度的階級問題，主要因為傳統經濟分工以及財富分配不公，所導致的貧富差距過大問題",
+      "傳統文化對於「不潔」的價值聯想，生活空間的隔離安排，使得公民平等的理想難以落實",
+      "雖然憲法廢除賤民階級，但為增進底層民眾社會發展權益，必須明訂底層人民的身分識別",
+      "達利特婦女的社會處境相較於其他階級之婦女，其條件較能夠提升達利特子女的社會流動"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "種姓歧視根植於文化與空間隔離，單靠教育不足（A）；「不潔」的觀念與隔離安排使平等難以實現（C）；保障名額等補救措施須先確認誰是底層（D）。印度階級問題主要源於宗教文化而非單純經濟；達利特婦女是「底層中的底層」，條件最差。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "109-ast-civ-47",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "46-47 為題組\n雖然印度憲法（1950年實施）明文廢除約有三千年印度教歷史傳統的「種姓制度」（Caste），規定國家應平等對待所有公民，維護基本權利，禁止種姓歧視。但是直到現在，達利特（Dalitis）仍然是印度社會地位最底層的群體，他們在日常生活中經常受到高階級群體的霸凌與歧視，特別是在鄉村地區。達利特人代代多從事清潔街道、垃圾、糞便、各種死屍等工作，是最貧窮、教育程度最低的一群。他們常被汙名為不潔、汙穢的賤民。至今有些高階者為維護自身的「純淨」與優越，仍對達利特採取限制其居住與活動空間的隔離對待，例如在村落限制其取水點，甚至有些醫生也不願意替他們看診。\n印度政府訂有保護達利特之相關立法，除嚴厲禁止高階對底層階級人民的暴力言行、性侵等罪行外，並實施就學、就業與參政的補救措施，包括提供保障名額，甚至鼓勵跨階級通婚。此外，印度女性勞動參與率特別低，社會地位普遍比男性低落，就連出入公共場合也有人身安全問題，故達利特婦女可謂是底層中之底層。\n近年來，Sakha等以協助底層婦女就業為目的的社會企業，在幾個都會區成立計程車公司，打破以往雇用男性司機的傳統，訓練弱勢背景婦女成為專業駕駛人，並專門服務女性乘客。\n\n根據題文推論，下列哪些是Sakha希望達成的目的？",
+    "options": [
+      "以商業模式來打破兩性之間的社會隔離及歧視",
+      "改變底層婦女為中高階婦女與家庭工作的傳統",
+      "改變社會大眾對於女性勞動行業的刻板化印象",
+      "提升印度婦女投入勞動市場就業的機會與意願",
+      "提供弱勢家庭脫離貧困及改善社會地位的機會"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "讓女性擔任傳統由男性從事的司機，打破職業刻板印象（C）；提供就業訓練與機會（D）；讓弱勢婦女有收入、改善家庭處境（E）。專門服務女性乘客並非打破兩性隔離；題文未提到底層婦女為中高階家庭工作的傳統。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "109-ast-civ-48",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "48-50 為題組\n某大學生選修「政黨與選舉」的課程，為完成期末報告，他整理某次選舉候選人們提出的高齡政策政見，表七是其中五位候選人的政見：\n\n<svg viewBox=\"0 0 474 176\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">候選人</text><rect x=\"72\" y=\"4\" width=\"400\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">主要政見</text><rect x=\"2\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"72\" y=\"32\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">推動《高齡友善環境法》的立法和政策之制訂</text><rect x=\"2\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"72\" y=\"60\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">規劃高齡族長期照護體系與長期照護保險制度</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"72\" y=\"88\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減免貧苦高齡者健康保險費用並提高醫療補助</text><rect x=\"2\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"72\" y=\"116\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">發放低收入高齡族每人每月生活補助5,000元</text><rect x=\"2\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">戊</text><rect x=\"72\" y=\"144\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">廣設社區長青大學以建立在地化高齡學習體系</text></svg>\n\n上述整理中，哪些候選人的政見是針對社會階層化的議題？",
+    "options": [
+      "候選人甲",
+      "候選人乙",
+      "候選人丙",
+      "候選人丁",
+      "候選人戊"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "社會階層化關注貧富不均。丙減免「貧苦」高齡者保費、丁補助「低收入」高齡族，都以經濟弱勢者為對象。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "109-ast-civ-49",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "48-50 為題組\n某大學生選修「政黨與選舉」的課程，為完成期末報告，他整理某次選舉候選人們提出的高齡政策政見，表七是其中五位候選人的政見：\n\n<svg viewBox=\"0 0 474 176\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">候選人</text><rect x=\"72\" y=\"4\" width=\"400\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">主要政見</text><rect x=\"2\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"72\" y=\"32\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">推動《高齡友善環境法》的立法和政策之制訂</text><rect x=\"2\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"72\" y=\"60\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">規劃高齡族長期照護體系與長期照護保險制度</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"72\" y=\"88\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減免貧苦高齡者健康保險費用並提高醫療補助</text><rect x=\"2\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"72\" y=\"116\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">發放低收入高齡族每人每月生活補助5,000元</text><rect x=\"2\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">戊</text><rect x=\"72\" y=\"144\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">廣設社區長青大學以建立在地化高齡學習體系</text></svg>\n\n上述整理中，哪些候選人的政見比較屬於地方政府政策執行層面的問題？",
+    "options": [
+      "候選人甲",
+      "候選人乙",
+      "候選人丙",
+      "候選人丁",
+      "候選人戊"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "減免保費並提高醫療補助（丙）、發放生活補助（丁）、廣設社區長青大學（戊），都可由地方政府直接執行。制定法律（甲）、建立長照保險制度（乙）屬中央立法與制度規劃。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "109-ast-civ-50",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "48-50 為題組\n某大學生選修「政黨與選舉」的課程，為完成期末報告，他整理某次選舉候選人們提出的高齡政策政見，表七是其中五位候選人的政見：\n\n<svg viewBox=\"0 0 474 176\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">候選人</text><rect x=\"72\" y=\"4\" width=\"400\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">主要政見</text><rect x=\"2\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"72\" y=\"32\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">推動《高齡友善環境法》的立法和政策之制訂</text><rect x=\"2\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"72\" y=\"60\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">規劃高齡族長期照護體系與長期照護保險制度</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"72\" y=\"88\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減免貧苦高齡者健康保險費用並提高醫療補助</text><rect x=\"2\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"72\" y=\"116\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">發放低收入高齡族每人每月生活補助5,000元</text><rect x=\"2\" y=\"144\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">戊</text><rect x=\"72\" y=\"144\" width=\"400\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">廣設社區長青大學以建立在地化高齡學習體系</text></svg>\n\n就政策過程階段而言，上述候選人甲倡議《高齡友善環境法》時所屬的階段，與下列何者屬於相同的階段？",
+    "options": [
+      "禁菸團體陳情要求修法以全面禁菸",
+      "立法委員提案表決所得稅法修正案",
+      "行政院會議討論農田水利法的草案",
+      "機車團體遊行爭取機車行駛蘇花改",
+      "教育部為修訂課綱而進行先導研究"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "候選人倡議立法，是把問題提出、爭取列入政策議程的階段（問題認定與議程設定）。禁菸團體陳情（A）、機車團體遊行爭取（D）同屬此階段。提案表決是政策合法化；行政院討論草案、教育部先導研究屬政策規劃。\n\n故選 (A)(D)"
   }
 ]
