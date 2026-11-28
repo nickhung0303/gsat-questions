@@ -239209,5 +239209,232 @@
       "面積"
     ],
     "explanation": "設三邊 $2k, 3k, 4k$。$\\sin C = \\sqrt{1 - \\dfrac1{16}} = \\dfrac{\\sqrt{15}}4$，面積 $= \\dfrac12\\cdot2k\\cdot3k\\cdot\\dfrac{\\sqrt{15}}4 = \\dfrac{3\\sqrt{15}}4k^2$。\n又面積 $= \\dfrac12\\cdot a\\cdot\\overline{AD} = \\dfrac12\\cdot2k\\cdot6 = 6k$，所以 $k = \\dfrac8{\\sqrt{15}}$，面積 $6k = \\dfrac{48}{\\sqrt{15}} = \\dfrac{16\\sqrt{15}}5$。"
+  },
+  {
+    "id": "97-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "1. 根據一百多年來的氣象紀錄，美國費城年雨量平均值為 41.0 英吋，標準差為 6.1 英吋。今欲將此項統計資料的單位由英制換為公制，請問該城市一百多年來年雨量的標準差最接近下列的哪一個選項？（註：1 英吋等於 25.4 毫米。）",
+    "options": [
+      "0.240 毫米",
+      "1.61 毫米",
+      "6.10 毫米",
+      "155 毫米",
+      "1041 毫米"
+    ],
+    "answerIndex": 3,
+    "explanation": "資料都乘以 25.4，標準差也乘以 25.4：$6.1\\times25.4 = 154.94 \\approx 155$ 毫米。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "2. 兩向量以 $\\vec a$ 和 $\\vec b$ 表示，並以 $\\vec a\\cdot\\vec b$ 表示 $\\vec a$ 和 $\\vec b$ 的內積，以 $|\\vec a|$，$|\\vec b|$ 分別表示 $\\vec a$ 和 $\\vec b$ 的長度，試問下列哪一個選項表示：「三角形兩邊中點的連線段與第三邊平行，且其長度為第三邊之半。」？",
+    "options": [
+      "$\\vec a\\cdot\\vec b = 0$",
+      "$\\dfrac12\\vec a - \\dfrac12\\vec b = \\dfrac12(\\vec a - \\vec b)$",
+      "$\\vec a\\cdot\\vec b \\le |\\vec a||\\vec b|$",
+      "$(\\vec a + \\vec b)\\cdot(\\vec a + \\vec b) + (\\vec a - \\vec b)\\cdot(\\vec a - \\vec b) = 2(\\vec a\\cdot\\vec a + \\vec b\\cdot\\vec b)$",
+      "$|\\vec a + \\vec b| \\le |\\vec a| + |\\vec b|$"
+    ],
+    "answerIndex": 1,
+    "explanation": "以三角形一頂點為起點，兩邊向量 $\\vec a$、$\\vec b$，兩邊中點的連線向量是 $\\dfrac12\\vec a - \\dfrac12\\vec b$，第三邊向量是 $\\vec a - \\vec b$。(B) 正好說兩者平行且長度一半。（(D) 是平行四邊形定理，(E) 是三角不等式。）\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "3. 解下列聯立方程式時，$\\begin{cases} x + 2y = 3 \\\\ 4x - 5y = -1 \\end{cases}$，將相關的係數與常數以矩陣 $A$ 表達如下：$\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & -5 & -1 \\end{pmatrix}$。對矩陣 $A$ 進行高斯消去法的一個步驟：第一列不改變，並將第二列減去第一列的四倍成為新的第二列。試問下列哪一個選項中的矩陣乘積代表對 $A$ 進行上述步驟？",
+    "options": [
+      "$\\begin{pmatrix} -4 & 0 \\\\ 0 & 0 \\end{pmatrix}A$",
+      "$\\begin{pmatrix} 0 & 0 \\\\ -4 & 0 \\end{pmatrix}A$",
+      "$\\begin{pmatrix} 1 & 0 \\\\ -4 & 0 \\end{pmatrix}A$",
+      "$\\begin{pmatrix} 0 & 0 \\\\ -4 & 1 \\end{pmatrix}A$",
+      "$\\begin{pmatrix} 1 & 0 \\\\ -4 & 1 \\end{pmatrix}A$"
+    ],
+    "answerIndex": 4,
+    "explanation": "左乘矩陣的第 $i$ 列決定新第 $i$ 列是舊各列的什麼組合：新第一列 $= 1\\cdot$(第一列)，新第二列 $= -4\\cdot$(第一列) $+ 1\\cdot$(第二列)，即 $\\begin{pmatrix} 1 & 0 \\\\ -4 & 1 \\end{pmatrix}$。\n\n故選 (E)"
+  },
+  {
+    "id": "97-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 有一個不公正的骰子，投擲的時候，二點、三點、四點、五點和六點出現的機率都是 $\\log_{10}\\left(\\dfrac32\\right)$，今以 $a$ 表 $\\log_{10}\\left(\\dfrac32\\right)$，以 $b$ 表投擲的時候一點出現的機率，請選出正確的選項。",
+    "options": [
+      "$a > 0$",
+      "$a > 1$",
+      "$b < \\dfrac16$",
+      "$b < \\log_{10}\\left(\\dfrac43\\right)$",
+      "$a > b$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explanation": "$a = \\log3 - \\log2 \\approx 0.1761$，$b = 1 - 5a = \\log\\dfrac{10}{(1.5)^5} = \\log\\dfrac{10}{7.59375} \\approx \\log1.317 \\approx 0.1195$。\n• (A) ✓。\n• (B) ✗。\n• (C) ✓：$0.1195 < 0.1667$。\n• (D) ✓：$1.317 < 1.333$。\n• (E) ✓。\n\n故選 (A)(C)(D)(E)"
+  },
+  {
+    "id": "97-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 給定二次多項式 $f(x) = x^2 + ax + b$，已知多項式 $x^3 + 3x^2 + 4x + 2$ 除以 $f(x)$ 其餘式為 $3x + 2$，多項式 $x^3 + x^2 - x - 1$ 除以 $f(x)$ 其餘式為 $4x + 1$，請選出正確的選項。",
+    "options": [
+      "$a = 3$",
+      "$b = -1$",
+      "方程式 $f(x) = 0$ 無實根",
+      "$f(x)$ 的極小值為 $\\dfrac54$",
+      "$f(x)$ 除以 $(x + 3)$ 其餘式為 1"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "$f(x)$ 整除 $x^3 + 3x^2 + x = x(x^2 + 3x + 1)$ 與 $x^3 + x^2 - 5x - 2 = (x - 2)(x^2 + 3x + 1)$，所以 $f(x) = x^2 + 3x + 1$。\n• (A) ✓。\n• (B) ✗：$b = 1$。\n• (C) ✗：判別式 $9 - 4 = 5 > 0$。\n• (D) ✗：極小值 $1 - \\dfrac94 = -\\dfrac54$。\n• (E) ✓：$f(-3) = 1$。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "97-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 有四個相異的正整數，由小到大依序為 $k, l, m, n$，其和等於 16，亦即 $0 < k < l < m < n$，$k + l + m + n = 16$。請問單獨再增加下列哪一個選項中的條件，可以保證 $k$ 等於 1？",
+    "options": [
+      "$l$ 是奇數，$m$ 是偶數",
+      "$l, m$ 是偶數",
+      "$k, l, m, n$ 是等差數列",
+      "$l, n$ 是奇數",
+      "$l, m$ 是奇數"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "• (A) ✗：$2, 3, 4, 7$。\n• (B) ✓：若 $k \\ge 2$，$l, m$ 為偶數且 $l \\ge 4$、$m \\ge 6$，$n \\ge m + 1$，和至少 $2 + 4 + 6 + 7 = 19 > 16$。所以 $k = 1$（如 $1, 2, 4, 9$）。\n• (C) ✓：$4k + 6d = 16$，$2k + 3d = 8$，正整數解只有 $k = 1$、$d = 2$。\n• (D) ✗：$2, 3, 4, 7$。\n• (E) ✗：$2, 3, 5, 6$。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "97-ast-mb-07",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 請問對於下列哪些選項，可以找到實數 $a$，使得選項裡面所有的數都同時滿足一元二次不等式 $x^2 + (2 - a)x - 2a < 0$？",
+    "options": [
+      "$-1, 0$",
+      "$1, 2, 3, \\cdots$（所有的正整數）",
+      "$-3, -4, -5, \\cdots$（所有小於 $-2$ 的整數）",
+      "$97, 2008$",
+      "$-\\pi, \\pi$（$\\pi$ 是圓周率）"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "$(x + 2)(x - a) < 0$，解集合是以 $-2$ 與 $a$ 為端點的有界開區間。\n• (A) ✓：取 $a = 1$，解為 $-2 < x < 1$。\n• (B)(C) ✗：有界區間不可能包含無限多個整數。\n• (D) ✓：取 $a = 3000$。\n• (E) ✗：$-\\pi < -2 < \\pi$，但區間的一端是 $-2$，不可能同時含 $-2$ 兩側的數。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "97-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "A. 趙氏與錢氏兩對夫婦、以及孫先生、李先生圍坐一個六人座圓桌吃飯，其中趙先生和孫先生已在兩個相鄰的位子坐定。若限定夫妻不得相鄰，則其他四人就座的方法共有 ⑧⑨ 種。",
+    "blanks": [
+      "1",
+      "0"
+    ],
+    "blankLabels": [
+      "8",
+      "9"
+    ],
+    "explanation": "座位依序為 1（趙先生）、2（孫先生）、3、4、5、6，6 號與 1 號相鄰。趙太太不能坐 6 號；錢氏夫婦不能坐相鄰的 (3,4)、(4,5)、(5,6)。\n錢氏夫婦可坐 (3,5)、(3,6)、(4,6)，各有 2 種左右順序：\n• (3,5)：剩 4、6，趙太太只能坐 4，1 種。\n• (3,6)：剩 4、5，2 種。\n• (4,6)：剩 3、5，2 種。\n共 $2(1 + 2 + 2) = 10$ 種。"
+  },
+  {
+    "id": "97-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "B. 從集合 $\\left\\{\\begin{bmatrix} a & b \\\\ 0 & c \\end{bmatrix}\\,\\middle|\\,a, b, c \\text{ 為 } 0, 1, 2 \\text{ 或 } 3\\right\\}$ 中隨機抽取一個矩陣，其行列式為 0 的機率等於 $\\dfrac{⑩}{⑪⑫}$。（化為最簡分數）",
+    "blanks": [
+      "7",
+      "1",
+      "6"
+    ],
+    "blankLabels": [
+      "10",
+      "11",
+      "12"
+    ],
+    "explanation": "共 $4^3 = 64$ 個矩陣。行列式 $ac = 0$：$(a, c)$ 有 $16 - 9 = 7$ 種，$b$ 任意 4 種，共 28 個。機率 $\\dfrac{28}{64} = \\dfrac7{16}$。"
+  },
+  {
+    "id": "97-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "C. 若三角形 $ABC$ 的 $\\overline{AB} = 8$、$\\overline{AC} = 4\\sqrt5$ 及 $\\cos\\angle BAC = \\dfrac1{\\sqrt5}$，則 $\\sin\\angle ACB = \\dfrac{⑬}{⑭}$。（化為最簡分數）",
+    "blanks": [
+      "4",
+      "5"
+    ],
+    "blankLabels": [
+      "13",
+      "14"
+    ],
+    "explanation": "$\\overline{BC}^2 = 64 + 80 - 2\\cdot8\\cdot4\\sqrt5\\cdot\\dfrac1{\\sqrt5} = 80$，$\\overline{BC} = 4\\sqrt5$。$\\sin A = \\dfrac2{\\sqrt5}$。\n正弦定理：$\\sin C = \\dfrac{\\overline{AB}\\sin A}{\\overline{BC}} = \\dfrac{8\\cdot\\frac2{\\sqrt5}}{4\\sqrt5} = \\dfrac45$。"
+  },
+  {
+    "id": "97-ast-mb-non-1",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標平面上有兩條拋物線，第一條拋物線的頂點在 $(-4, 0)$，焦點在 $(-4, 4)$，第二條拋物線的頂點在 $(4, 4)$，焦點在 $(4, 0)$，求兩條拋物線的交點。（13 分）",
+    "points": 13,
+    "blanks": [
+      "$(4, 4)$ 與 $(-4, 0)$"
+    ],
+    "blankLabels": [
+      "交點"
+    ],
+    "explanation": "第一條開口向上、$c = 4$：$(x + 4)^2 = 16y$；第二條開口向下：$(x - 4)^2 = -16(y - 4)$。\n相加：$(x + 4)^2 + (x - 4)^2 = 64$，$2x^2 + 32 = 64$，$x = \\pm4$。\n$x = 4$：$y = 4$；$x = -4$：$y = 0$。交點 $(4, 4)$、$(-4, 0)$（恰為兩頂點）。"
+  },
+  {
+    "id": "97-ast-mb-non-2",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】建築公司在房市熱絡時推出甲、乙兩型熱門預售屋。企劃部門的規劃如下：甲型屋每棟地價成本為 500 萬元，建築費用為 900 萬元，乙型屋每棟地價成本為 200 萬元，建築費用為 1500 萬元，公司在資金部分限制地價總成本上限為 3500 萬元，所有建築費用的上限為 1 億 2000 萬元；無論甲型或乙型售出，每棟獲利皆為 500 萬元，假設推出的預售屋皆可售出，請問推出甲、乙兩型預售屋各幾棟，公司才可得到最大利潤。（13 分）",
+    "points": 13,
+    "blanks": [
+      "甲型 5 棟、乙型 5 棟"
+    ],
+    "blankLabels": [
+      "棟數"
+    ],
+    "explanation": "設甲 $x$ 棟、乙 $y$ 棟（非負整數）：$500x + 200y \\le 3500$ 即 $5x + 2y \\le 35$；$900x + 1500y \\le 12000$ 即 $3x + 5y \\le 40$。利潤 $500(x + y)$。\n兩直線交於 $(5, 5)$，$x + y = 10$。檢查 $x + y = 11$ 的整數點都不合（例如 $(6, 5)$：$40 > 35$；$(5, 6)$：$45 > 40$），$x + y = 10$ 的其他整數點也不合（$(6, 4)$：$38 > 35$；$(4, 6)$：$42 > 40$）。\n所以甲、乙各 5 棟，利潤 5000 萬元。"
   }
 ]
