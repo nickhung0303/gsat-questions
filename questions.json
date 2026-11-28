@@ -229223,5 +229223,307 @@
       "個數"
     ],
     "explanation": "$f(f(x)) = 0 \\iff f(x) \\in \\{a_1, a_2, a_3\\}$，三組解互不相同，共 $1 + 1 + 3 = 5$ 個。"
+  },
+  {
+    "id": "107-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "1. 已知實係數多項式 $f(x)$ 除以 $x^2 - 14x + 13$ 的餘式為 $ax + b$，且 $f(x)$ 除以 $x - 1$ 的餘式為 4，則 $a + b$ 的值為何？",
+    "options": [
+      "−1",
+      "0",
+      "1",
+      "4",
+      "13"
+    ],
+    "answerIndex": 3,
+    "explanation": "$x^2 - 14x + 13 = (x - 1)(x - 13)$，$f(1) = a + b$，而 $f(1) = 4$，所以 $a + b = 4$。\n\n故選 (D)"
+  },
+  {
+    "id": "107-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "2. 有一配置一輛運貨車之快遞公司，要將貨品運送至 $A, B, C, D, E$ 五個不同地點。已知這五個地點只有下列連絡道路，其所需時間如下表。例如：路線 $A \\leftrightarrow B$ 表示可以由 $A$ 站到 $B$ 站，也可以由 $B$ 站到 $A$ 站，行車時間皆為 1 小時。今有配送任務必須從 $A$ 站出發，最後停留在 $E$ 站，每一站至少經過一次，且路線可以重複，試問至少要花多少小時才能完成任務？",
+    "svg": "<svg viewBox=\"0 0 476 68\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">路線</text><rect x=\"82\" y=\"4\" width=\"56\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"110\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">A↔B</text><rect x=\"138\" y=\"4\" width=\"56\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"166\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">A↔C</text><rect x=\"194\" y=\"4\" width=\"56\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">A↔D</text><rect x=\"250\" y=\"4\" width=\"56\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"278\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">B↔E</text><rect x=\"306\" y=\"4\" width=\"56\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"334\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">C↔D</text><rect x=\"362\" y=\"4\" width=\"56\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"390\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">C↔E</text><rect x=\"418\" y=\"4\" width=\"56\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"446\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">D↔E</text><rect x=\"2\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">行車時間</text><rect x=\"82\" y=\"34\" width=\"56\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"110\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1</text><rect x=\"138\" y=\"34\" width=\"56\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"166\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1</text><rect x=\"194\" y=\"34\" width=\"56\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2</text><rect x=\"250\" y=\"34\" width=\"56\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"278\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">5</text><rect x=\"306\" y=\"34\" width=\"56\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"334\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1</text><rect x=\"362\" y=\"34\" width=\"56\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"390\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1</text><rect x=\"418\" y=\"34\" width=\"56\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"446\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1</text></svg>",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answerIndex": 1,
+    "explanation": "要經過 $B$：$B$ 只連到 $A$（1 小時）與 $E$（5 小時）。最省是先 $A \\to B \\to A$（2 小時），再 $A \\to C \\to D \\to E$（3 小時），共 5 小時。\n若最後才經過 $B$ 走 $B \\to E$ 就要 5 小時，更久；4 小時不可能涵蓋 $B$ 又到 $E$（任何含 $B$ 的路至少 $2 + 2$ 再到 $E$）。\n\n故選 (B)"
+  },
+  {
+    "id": "107-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "3. 設 $a < b < 2^{10}$，其中 $\\log a = 3$。已知利用 $\\log a$、$\\log(2^{10})$ 的值與內插法求得 $\\log b$ 的近似值為 3.0025，試問 $b$ 的值最接近下列哪一個選項？（註：$\\log2 \\approx 0.3010$）",
+    "options": [
+      "1002",
+      "1006",
+      "1010",
+      "1014",
+      "1018"
+    ],
+    "answerIndex": 1,
+    "explanation": "$a = 1000$、$2^{10} = 1024$，$\\log1024 \\approx 3.010$。\n內插：$\\dfrac{b - 1000}{24} = \\dfrac{3.0025 - 3}{3.010 - 3} = \\dfrac14$，$b \\approx 1006$。\n\n故選 (B)"
+  },
+  {
+    "id": "107-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 已知數列 $\\langle a_n\\rangle$、$\\langle b_n\\rangle$、$\\langle c_n\\rangle$、$\\langle d_n\\rangle$、$\\langle e_n\\rangle$ 定義如下：$a_n = (-1)^n$；$b_n = a_n + a_{n+1}$；$c_n = \\left(\\dfrac{-\\sqrt{10}}{3}\\right)^n$；$d_n = \\dfrac13c_n$；$e_n = \\dfrac{1}{c_n}$；其中 $n = 1, 2, 3, \\cdots$。下列選項中，試選出會收斂的無窮級數。",
+    "options": [
+      "$\\displaystyle\\sum_{n=1}^{\\infty}a_n$",
+      "$\\displaystyle\\sum_{n=1}^{\\infty}b_n$",
+      "$\\displaystyle\\sum_{n=1}^{\\infty}c_n$",
+      "$\\displaystyle\\sum_{n=1}^{\\infty}d_n$",
+      "$\\displaystyle\\sum_{n=1}^{\\infty}e_n$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "• (A) 錯誤：部分和在 $-1$、0 之間跳動。\n• (B) 正確：$b_n = (-1)^n + (-1)^{n+1} = 0$，級數和為 0。\n• (C) 錯誤：公比絕對值 $\\dfrac{\\sqrt{10}}{3} > 1$。\n• (D) 錯誤：同 (C)，乘以常數仍發散。\n• (E) 正確：公比 $-\\dfrac{3}{\\sqrt{10}}$，絕對值小於 1。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "107-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 設 $2^x = 3$，$3^y = 4$。試選出正確的選項。（註：$\\log2 \\approx 0.3010$，$\\log3 \\approx 0.4771$）",
+    "options": [
+      "$x < 2$",
+      "$y > \\dfrac32$",
+      "$x < y$",
+      "$xy = 2$",
+      "$x + y < 2\\sqrt2$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "$x = \\dfrac{\\log3}{\\log2} \\approx 1.585$，$y = \\dfrac{2\\log2}{\\log3} \\approx 1.262$。\n• (A) 正確。\n• (B) 錯誤。\n• (C) 錯誤：$x > y$。\n• (D) 正確：$xy = \\dfrac{\\log3}{\\log2}\\cdot\\dfrac{\\log4}{\\log3} = \\log_24 = 2$。\n• (E) 錯誤：算幾不等式 $x + y \\ge 2\\sqrt{xy} = 2\\sqrt2$，且 $x \\ne y$，所以 $x + y > 2\\sqrt2$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "107-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 某經銷商對甲、乙兩款血壓計作品管檢驗，發現從甲款每一批中抽出一個血壓計，其誤差超過 3mmHg（毫米汞柱）及超過 6mmHg 的機率分別為 0.32 及 0.1。從乙款每一批中抽出一個血壓計，其誤差超過 3mmHg 及超過 6mmHg 的機率分別為 0.16 及 0.05。在甲、乙兩款的檢驗是獨立事件的情況下，試選出正確的選項。",
+    "options": [
+      "從甲款中抽出一個血壓計，其誤差超過 3mmHg 但不超過 6mmHg 的機率大於 0.2",
+      "若從待檢驗的甲款血壓計中連續抽兩次，每次抽一個血壓計檢驗後放回，假設這兩次的檢驗是獨立事件，其誤差依次為不超過 3mmHg 及超過 6mmHg 的機率為 0.136",
+      "從甲、乙兩款中各抽出一個血壓計，其誤差都不超過 3mmHg 的機率大於 0.7",
+      "從甲、乙兩款中各抽出一個血壓計，至少有一個誤差不超過 3mmHg 的機率大於 0.84",
+      "從甲、乙兩款中各抽出一個血壓計，兩者誤差的平均超過 3mmHg 的機率小於 $0.32\\times0.16$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "• (A) 正確：$0.32 - 0.1 = 0.22$。\n• (B) 錯誤：$0.68\\times0.1 = 0.068$。\n• (C) 錯誤：$0.68\\times0.84 \\approx 0.571$。\n• (D) 正確：$1 - 0.32\\times0.16 = 0.9488$。\n• (E) 錯誤：兩者都超過 3 時平均必超過 3，此外一個很大、一個不超過 3 也可能平均超過 3，所以機率至少 $0.32\\times0.16$，不會更小。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "107-ast-mb-07",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 保險公司把投保竊盜險的住宅分為 $A$、$B$ 兩級，其所占比率分別為 60%、40%。過去一年 $A$、$B$ 兩級住宅遭竊的比率分別為 15%、5%。據此，公司推估未來一年 $A$、$B$ 兩級住宅被竊的機率分別為 0.15、0.05。今 $A$ 級住宅中的 20% 經過改善，重新推估這些改善過的住宅未來一年被竊的機率會降為 0.03；而其他住宅被竊機率不變。根據以上資料，試選出正確的選項。",
+    "options": [
+      "全體投保的住宅中，過去一年遭竊的比率為 12%",
+      "過去一年遭竊的投保住宅中，$A$ 級所占的比率超過 90%",
+      "推估未來一年，改善過的 $A$ 級住宅的被竊機率為原來的 $\\dfrac15$",
+      "經改善後，推估未來一年被竊機率，全體投保的 $A$ 級住宅會小於全體投保的 $B$ 級住宅",
+      "經改善後，推估未來一年全體投保的住宅被竊機率小於 0.11"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "• (A) 錯誤：$0.6\\times0.15 + 0.4\\times0.05 = 0.11$。\n• (B) 錯誤：$\\dfrac{0.09}{0.11} \\approx 81.8\\%$。\n• (C) 正確：$\\dfrac{0.03}{0.15} = \\dfrac15$。\n• (D) 錯誤：$A$ 級整體 $0.8\\times0.15 + 0.2\\times0.03 = 0.126 > 0.05$。\n• (E) 正確：$0.6\\times0.126 + 0.4\\times0.05 = 0.0956 < 0.11$。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "107-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "A. 地方上張安與李平兩位角逐鄉長，結果張安得票率 55%，李平得票率 45%，由張安勝選。民調機構預測，如果下任鄉長仍由張安與李平兩人競選，選民相同且每一張票都是有效票，則本屆支持張安的選民將有 25% 倒向支持李平，而本屆支持李平的選民將有 10% 倒向支持張安。若描述上述現象的轉移矩陣為 $A$，則行列式 $\\det A$ 的絕對值為 $\\dfrac{⑧⑨}{⑩⑪}$。（請化為最簡分數）",
+    "blanks": [
+      "1",
+      "3",
+      "2",
+      "0"
+    ],
+    "blankLabels": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation": "轉移矩陣（行為本屆、列為下屆）$A = \\begin{bmatrix} 0.75 & 0.1 \\\\ 0.25 & 0.9 \\end{bmatrix}$。\n$\\det A = 0.675 - 0.025 = 0.65 = \\dfrac{13}{20}$（轉置不影響行列式）。"
+  },
+  {
+    "id": "107-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "B. 在坐標平面上的 $\\triangle ABC$ 中，$D$ 為 $\\overline{AB}$ 的中點，且點 $E$ 在射線 $\\overrightarrow{AC}$ 上，滿足 $\\overline{AE} = 3\\overline{AC}$。若向量內積 $\\overrightarrow{AC}\\cdot\\overrightarrow{AD} = 15$，則向量內積 $\\overrightarrow{AB}\\cdot\\overrightarrow{AE} =$ ⑫⑬。",
+    "blanks": [
+      "9",
+      "0"
+    ],
+    "blankLabels": [
+      "12",
+      "13"
+    ],
+    "explanation": "$\\overrightarrow{AD} = \\dfrac12\\overrightarrow{AB}$，$\\overrightarrow{AC}\\cdot\\overrightarrow{AB} = 30$。$\\overrightarrow{AE} = 3\\overrightarrow{AC}$，$\\overrightarrow{AB}\\cdot\\overrightarrow{AE} = 90$。"
+  },
+  {
+    "id": "107-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "C. 有 100 元、200 元、300 元、400 元的紅包袋各一個，由甲、乙、丙三人依序各抽取 1 個紅包袋，抽取後不放回。若每個紅包袋被抽取的機會都相等，則甲、乙、丙三人紅包金額總和的期望值為 ⑭⑮⑯ 元。",
+    "blanks": [
+      "7",
+      "5",
+      "0"
+    ],
+    "blankLabels": [
+      "14",
+      "15",
+      "16"
+    ],
+    "explanation": "每人抽到的金額期望值都是 $\\dfrac{100 + 200 + 300 + 400}{4} = 250$，三人總和 750 元。（或：總額 1000 減去剩下那個的期望值 250。）"
+  },
+  {
+    "id": "107-ast-mb-non-1-1",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】已知實係數二次多項式函數 $y = f(x)$ 滿足 $f(3) = f(-7)$。試回答下列問題。\n(1) 寫出 $y = f(x)$ 圖形的對稱軸方程式。（3 分）",
+    "points": 3,
+    "blanks": [
+      "$x = -2$"
+    ],
+    "blankLabels": [
+      "對稱軸"
+    ],
+    "explanation": "拋物線對稱軸通過等高兩點的中點：$x = \\dfrac{3 + (-7)}{2} = -2$。"
+  },
+  {
+    "id": "107-ast-mb-non-1-2",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】已知實係數二次多項式函數 $y = f(x)$ 滿足 $f(3) = f(-7)$。試回答下列問題。\n(2) 若 $f(x) = a(x - k)^2 + b$，且 $y = f(x)$ 的圖形與 $x$ 軸交於相異兩點，試判斷 $ab$ 乘積的值為正或負，並請說明理由。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$ab < 0$"
+    ],
+    "blankLabels": [
+      "正負"
+    ],
+    "explanation": "頂點 $(k, b)$。與 $x$ 軸交於兩點：開口向上（$a > 0$）時頂點在 $x$ 軸下方（$b < 0$）；開口向下（$a < 0$）時頂點在上方（$b > 0$）。兩者異號，$ab < 0$。"
+  },
+  {
+    "id": "107-ast-mb-non-1-3",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】已知實係數二次多項式函數 $y = f(x)$ 滿足 $f(3) = f(-7)$。試回答下列問題。\n(3) 若方程式 $f(x) = 0$ 有相異實根，試證兩根之積小於 4。（6 分）",
+    "points": 6,
+    "blanks": [
+      "兩根 $-2 \\pm t$（$t \\ne 0$），積 $4 - t^2 < 4$"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "兩根對稱於 $x = -2$，設為 $-2 + t$、$-2 - t$，相異所以 $t \\ne 0$。\n積 $= (-2)^2 - t^2 = 4 - t^2 < 4$。"
+  },
+  {
+    "id": "107-ast-mb-non-2-1",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某車商代理進口兩廠牌汽車，甲廠牌汽車每台成本 100 萬元，此次進口上限 20 台，售出一台淨利潤 11 萬元；乙廠牌汽車每台成本 120 萬元，此次進口上限 30 台，售出一台淨利潤 12 萬元。今車商準備 4400 萬元作為此次汽車進口成本，且保證所進口的車輛必定全部售完。試回答下列問題。\n(1) 寫出此問題的線性規劃不等式及目標函數。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$100x + 120y \\le 4400$，$0 \\le x \\le 20$，$0 \\le y \\le 30$，$x, y$ 為整數",
+      "目標函數 $11x + 12y$"
+    ],
+    "blankLabels": [
+      "限制條件",
+      "目標函數"
+    ],
+    "explanation": "設甲 $x$ 台、乙 $y$ 台：$100x + 120y \\le 4400$（即 $5x + 6y \\le 220$）、$0 \\le x \\le 20$、$0 \\le y \\le 30$，$x, y$ 為非負整數。\n目標函數 $11x + 12y$（萬元）。"
+  },
+  {
+    "id": "107-ast-mb-non-2-2",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某車商代理進口兩廠牌汽車，甲廠牌汽車每台成本 100 萬元，此次進口上限 20 台，售出一台淨利潤 11 萬元；乙廠牌汽車每台成本 120 萬元，此次進口上限 30 台，售出一台淨利潤 12 萬元。今車商準備 4400 萬元作為此次汽車進口成本，且保證所進口的車輛必定全部售完。試回答下列問題。\n(2) 在坐標平面上畫出可行解區域，並以斜線標示該區域。（3 分）",
+    "points": 3,
+    "blanks": [
+      "五邊形，頂點 (0,0)、(20,0)、(20,20)、(8,30)、(0,30)"
+    ],
+    "blankLabels": [
+      "可行解區域"
+    ],
+    "explanation": "$5x + 6y = 220$ 與 $x = 20$ 交於 $(20, 20)$，與 $y = 30$ 交於 $(8, 30)$。\n可行解區域為五邊形，頂點 $(0, 0)$、$(20, 0)$、$(20, 20)$、$(8, 30)$、$(0, 30)$。"
+  },
+  {
+    "id": "107-ast-mb-non-2-3",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某車商代理進口兩廠牌汽車，甲廠牌汽車每台成本 100 萬元，此次進口上限 20 台，售出一台淨利潤 11 萬元；乙廠牌汽車每台成本 120 萬元，此次進口上限 30 台，售出一台淨利潤 12 萬元。今車商準備 4400 萬元作為此次汽車進口成本，且保證所進口的車輛必定全部售完。試回答下列問題。\n(3) 試問車商此次應進口甲、乙兩廠牌汽車各多少台，才能獲得最大利潤？又最大利潤是多少？（6 分）",
+    "points": 6,
+    "blanks": [
+      "甲、乙各 20 台",
+      "最大利潤 460 萬元"
+    ],
+    "blankLabels": [
+      "進口數量",
+      "最大利潤"
+    ],
+    "explanation": "頂點代入 $11x + 12y$：0、220、460、448、360。\n進口甲、乙各 20 台，最大利潤 460 萬元。"
   }
 ]
