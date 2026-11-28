@@ -236937,5 +236937,321 @@
       "32"
     ],
     "explanation": "焦點 $F(0, 2)$、準線 $y = -2$，$d(P, L) = \\overline{PF} + 3$。\n$\\overline{PF} - \\overline{AP} \\le \\overline{AF} = \\dfrac94$，等號在 $A$ 落在 $\\overline{FP}$ 上時成立：取 $P(4, 2)$，$\\overline{PF} = 4$、$\\overline{AP} = \\dfrac74$。\n又 $\\overline{PF} - \\overline{AP} \\ge -\\dfrac94$，所以 $d(P, L) - \\overline{AP}$ 介於 $\\dfrac34$ 與 $\\dfrac{21}4$ 之間，絕對值最大為 $\\dfrac{21}4$。"
+  },
+  {
+    "id": "99-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 向量 $(2, -1)$ 與下列哪一個向量之夾角（介於 $0^\\circ$ 與 $180^\\circ$ 之間）為最小？",
+    "options": [
+      "$(-1, -\\sqrt2)$",
+      "$(-\\sqrt2, 1)$",
+      "$(-1, \\sqrt2)$",
+      "$(1, \\sqrt2)$",
+      "$(\\sqrt2, 1)$"
+    ],
+    "answerIndex": 4,
+    "explanation": "五個向量長度都是 $\\sqrt3$，夾角最小 ⇔ 內積最大。內積依序為 $-2 + \\sqrt2$、$-2\\sqrt2 - 1$、$-2 - \\sqrt2$、$2 - \\sqrt2$、$2\\sqrt2 - 1$，最大是 (E)。\n\n故選 (E)"
+  },
+  {
+    "id": "99-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 不透明箱中置有編號分別為 1、2、3、6、8 的球各一顆。同時自箱中隨機取出三顆球，則此三球編號之和大於 14 的機率為下列哪一個選項？",
+    "options": [
+      "$\\dfrac15$",
+      "$\\dfrac3{10}$",
+      "$\\dfrac25$",
+      "$\\dfrac12$",
+      "$\\dfrac35$"
+    ],
+    "answerIndex": 1,
+    "explanation": "五球總和 20，取出三球的和 $= 20 -$ 留下兩球的和。和 $> 14$ ⇔ 留下兩球的和 $< 6$：$\\{1, 2\\}, \\{1, 3\\}, \\{2, 3\\}$ 共 3 種。機率 $\\dfrac3{10}$。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 考慮矩陣 $A = \\begin{bmatrix} a & b \\\\ c & -a \\end{bmatrix}$，其中 $a$、$b$、$c$ 為實數且行列式 $\\det A = 1$。試問行列式 $\\det(A - A^{-1})$ 之值為下列哪一個選項？",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4",
+      "16"
+    ],
+    "answerIndex": 3,
+    "explanation": "$A^2 = (a^2 + bc)I = -(\\det A)I = -I$，所以 $A^{-1} = -A$。$A - A^{-1} = 2A$，$\\det(2A) = 4\\det A = 4$。\n\n故選 (D)"
+  },
+  {
+    "id": "99-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "4. 設 $f(x)$ 為實係數三次多項式，右圖所示為函數 $y = f(x)$ 的圖形，其中 $(5, f(5))$ 為反曲點。試問 $f(x)$ 的導函數 $f'(x)$ 可能為下列哪一個選項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-ma-04.png\" alt=\"遞增的三次函數圖形，x = 5 處為反曲點\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$(x - 5)^2 - 1$",
+      "$(x - 5)^2 + 1$",
+      "$(x - 5)^2$",
+      "$-(x - 5)^2 + 1$",
+      "$-(x - 5)^2 - 1$"
+    ],
+    "answerIndex": 1,
+    "explanation": "圖形一路遞增，反曲點處斜率仍為正（不是水平切線），所以 $f'(x) > 0$ 恆成立，且 $f'$ 在 $x = 5$ 有最小值。只有 $(x - 5)^2 + 1$ 符合。\n\n故選 (B)"
+  },
+  {
+    "id": "99-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "5. 將函數 $y = 3\\sin x - \\cos x$、$y = \\sin(2x) + 3\\cos(2x)$、$y = 2\\sin x + 2\\cos x$ 的圖形繪於同一坐標平面上，其與 $x$ 軸的相關位置如下圖。試問圖中的圖形 $y = f(x)$、$y = g(x)$、$y = h(x)$ 所代表的函數應為下列哪一個選項？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/99-ast-ma-05.png\" alt=\"三條波形曲線 f、g、h 與 x 軸\" style=\"width:100%;max-width:480px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$f(x) = 3\\sin x - \\cos x$、$g(x) = \\sin(2x) + 3\\cos(2x)$、$h(x) = 2\\sin x + 2\\cos x$",
+      "$f(x) = 3\\sin x - \\cos x$、$h(x) = \\sin(2x) + 3\\cos(2x)$、$g(x) = 2\\sin x + 2\\cos x$",
+      "$g(x) = 3\\sin x - \\cos x$、$f(x) = \\sin(2x) + 3\\cos(2x)$、$h(x) = 2\\sin x + 2\\cos x$",
+      "$g(x) = 3\\sin x - \\cos x$、$h(x) = \\sin(2x) + 3\\cos(2x)$、$f(x) = 2\\sin x + 2\\cos x$",
+      "$h(x) = 3\\sin x - \\cos x$、$f(x) = \\sin(2x) + 3\\cos(2x)$、$g(x) = 2\\sin x + 2\\cos x$"
+    ],
+    "answerIndex": 2,
+    "explanation": "• 圖中振動最快（週期最短）的是 $f$，對應週期 $\\pi$ 的 $\\sin2x + 3\\cos2x$。\n• 另兩條週期 $2\\pi$（圖中未標出 $y$ 軸，要用相對位置判斷）：$2\\sin x + 2\\cos x = 2\\sqrt2\\sin(x + 45^\\circ)$，$3\\sin x - \\cos x = \\sqrt{10}\\sin(x - 18.4^\\circ)$，後者的圖形是前者向右平移約 $63^\\circ$（不到四分之一週期），振幅也稍大。\n圖中 $h$ 由下往上穿過 $x$ 軸之後，稍右方 $g$ 才往上穿過 $x$ 軸，且 $g$ 的波峰稍高，所以 $h = 2\\sin x + 2\\cos x$、$g = 3\\sin x - \\cos x$。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 設 $a$、$b$、$c$ 分別為函數 $f(x) = x + \\dfrac2x$、$g(x) = x^2 + \\dfrac2{x^2}$、$h(x) = \\sqrt{x^2 + \\dfrac2{x^2}}$ 在 $x$ 為任意正實數時的最小值。試問下列哪些選項是正確的？",
+    "options": [
+      "$b = a^2$",
+      "$c = 2^{\\frac34}$",
+      "$f(x) + g(x)$ 在 $x$ 為任意正實數時的最小值為 $a + b$",
+      "$g(x) + h(x)$ 在 $x$ 為任意正實數時的最小值為 $b + c$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "算幾不等式：$a = 2\\sqrt2$（$x = \\sqrt2$ 時），$b = 2\\sqrt2$（$x^2 = \\sqrt2$ 時），$c = \\sqrt b = 2^{\\frac34}$。\n• (A) ✗：$a^2 = 8$。\n• (B) ✓。\n• (C) ✗：$f$、$g$ 的最小值發生在不同的 $x$，和的最小值大於 $a + b$。\n• (D) ✓：$g$、$h$ 都在 $x^2 = \\sqrt2$ 時最小。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "99-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 設 $a$ 為一正實數且滿足 $a^{\\sqrt3} = \\sqrt3$。試問下列哪些選項是正確的？",
+    "options": [
+      "$a^3 = 3$",
+      "$\\log_{\\sqrt3}a = \\sqrt3$",
+      "$a > 1$",
+      "$a < 3^{\\frac14}$"
+    ],
+    "answerIndices": [
+      2
+    ],
+    "explanation": "$a = 3^{\\frac1{2\\sqrt3}}$，指數 $\\dfrac1{2\\sqrt3} \\approx 0.289$。\n• (A) ✗：$a^3 = 3^{\\frac{\\sqrt3}2}$。\n• (B) ✗：$\\log_{\\sqrt3}a = \\dfrac{1/(2\\sqrt3)}{1/2} = \\dfrac1{\\sqrt3}$。\n• (C) ✓。\n• (D) ✗：$0.289 > 0.25$，$a > 3^{\\frac14}$。\n\n故選 (C)"
+  },
+  {
+    "id": "99-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "A. 當 $n$ 為正整數時，令 $x = a_n$、$y = b_n$、$z = c_n$ 為三元一次聯立方程組 $\\begin{cases} x + y + z = 0 \\\\ x + 2y + 3z = 0 \\\\ -2nx + ny + 3z = 8n \\end{cases}$ 之唯一解，則 $\\displaystyle\\lim_{n\\to\\infty}a_n =$ ⑧⑨。",
+    "blanks": [
+      "-",
+      "2"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "2"
+      ]
+    ],
+    "blankLabels": [
+      "8",
+      "9"
+    ],
+    "explanation": "前兩式相減：$y = -2z$，$x = z$。代入第三式：$-2nz - 2nz + 3z = 8n$，$z = \\dfrac{8n}{3 - 4n}$。\n$a_n = \\dfrac{8n}{3 - 4n} \\to -2$。"
+  },
+  {
+    "id": "99-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "B. 已知多項式 $f(x)$ 滿足 $f''(x) = 8x + 11$，且 $y = f(x)$ 在 $x = 1$ 有局部極值，則 $f'(0) =$ ⑩⑪⑫。",
+    "blanks": [
+      "-",
+      "1",
+      "5"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "1"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "blankLabels": [
+      "10",
+      "11",
+      "12"
+    ],
+    "explanation": "$f'(x) = 4x^2 + 11x + k$，$f'(1) = 15 + k = 0$，$k = -15$。$f'(0) = -15$。"
+  },
+  {
+    "id": "99-ast-ma-C",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "C. 在 $\\triangle ABC$ 中，已知 $\\overline{AB} = 5$，$\\cos\\angle ABC = -\\dfrac35$，且其外接圓半徑為 $\\dfrac{13}2$，則 $\\sin\\angle BAC = \\dfrac{⑬⑭}{⑮⑯}$。（化成最簡分數）",
+    "blanks": [
+      "3",
+      "3",
+      "6",
+      "5"
+    ],
+    "blankLabels": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "explanation": "$\\sin C = \\dfrac{\\overline{AB}}{2R} = \\dfrac5{13}$；$B$ 為鈍角，$C$ 為銳角，$\\cos C = \\dfrac{12}{13}$。$\\sin B = \\dfrac45$。\n$\\sin A = \\sin(B + C) = \\dfrac45\\cdot\\dfrac{12}{13} + \\left(-\\dfrac35\\right)\\dfrac5{13} = \\dfrac{33}{65}$。"
+  },
+  {
+    "id": "99-ast-ma-D",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "D. 一個抽獎活動依排隊順序抽獎，輪到抽獎的人有一次抽獎機會，抽獎方式為丟擲一枚公正銅板，正面為中獎，反面為沒中獎。獎品有三份，活動直到三份獎品都被抽中為止。則在排第四位的人可以抽獎的情況下，排第五位的人可以抽獎的條件機率為 $\\dfrac{⑰⑱}{⑲⑳}$。（化成最簡分數）",
+    "blanks": [
+      "1",
+      "1",
+      "1",
+      "4"
+    ],
+    "blankLabels": [
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "explanation": "第四位能抽 ⇔ 前三人未全中：$1 - \\dfrac18 = \\dfrac78$。\n第五位能抽 ⇔ 前四人中獎少於 3 次：$1 - \\dfrac{\\binom43 + \\binom44}{16} = \\dfrac{11}{16}$。\n所求 $\\dfrac{11/16}{7/8} = \\dfrac{11}{14}$。"
+  },
+  {
+    "id": "99-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設 $f(x) = ax^3 + bx^2 + cx + d$ 為實係數三次多項式。已知原點 $(0, 0)$ 為函數 $y = f(x)$ 的圖形之反曲點，且此圖形在原點的切線為 $y = -x$。\n(1) 試求 $b$、$c$、$d$。（5 分）",
+    "points": 5,
+    "blanks": [
+      "$b = 0$，$c = -1$，$d = 0$"
+    ],
+    "blankLabels": [
+      "b, c, d"
+    ],
+    "explanation": "$f(0) = d = 0$；$f''(0) = 2b = 0$；切線斜率 $f'(0) = c = -1$。"
+  },
+  {
+    "id": "99-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設 $f(x) = ax^3 + bx^2 + cx + d$ 為實係數三次多項式。已知原點 $(0, 0)$ 為函數 $y = f(x)$ 的圖形之反曲點，且此圖形在原點的切線為 $y = -x$。\n(2) 若 $a > 0$ 且 $y = f(x)$ 的圖形與直線 $y = 0$ 所圍的有界區域面積為 2，試求 $a$。（8 分）",
+    "points": 8,
+    "blanks": [
+      "$a = \\dfrac14$"
+    ],
+    "blankLabels": [
+      "a"
+    ],
+    "explanation": "$f(x) = ax^3 - x = x(ax^2 - 1)$，與 $x$ 軸交於 $0, \\pm\\dfrac1{\\sqrt a}$，圖形對稱於原點。\n面積 $= 2\\displaystyle\\int_0^{1/\\sqrt a}(x - ax^3)\\,dx = 2\\left(\\dfrac1{2a} - \\dfrac1{4a}\\right) = \\dfrac1{2a} = 2$，$a = \\dfrac14$。"
+  },
+  {
+    "id": "99-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $S: x^2 + y^2 + z^2 = 54$ 為坐標空間中一球面；$L$ 為坐標空間中通過點 $P(0, -6, 9)$ 且方向向量為 $(1, 4, -2)$ 的直線。\n(1) 試求 $L$ 與 $S$ 的所有交點之坐標。（5 分）",
+    "points": 5,
+    "blanks": [
+      "$(1, -2, 7)$ 與 $(3, 6, 3)$"
+    ],
+    "blankLabels": [
+      "交點"
+    ],
+    "explanation": "$L$：$(t, -6 + 4t, 9 - 2t)$。代入：$t^2 + (4t - 6)^2 + (9 - 2t)^2 = 54$，$21t^2 - 84t + 63 = 0$，$t = 1$ 或 3。"
+  },
+  {
+    "id": "99-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $S: x^2 + y^2 + z^2 = 54$ 為坐標空間中一球面；$L$ 為坐標空間中通過點 $P(0, -6, 9)$ 且方向向量為 $(1, 4, -2)$ 的直線。\n(2) 在所有包含 $L$ 的平面與 $S$ 相交所得之圓中，面積**最大**值為何？（2 分）",
+    "points": 2,
+    "blanks": [
+      "$54\\pi$"
+    ],
+    "blankLabels": [
+      "最大面積"
+    ],
+    "explanation": "包含 $L$ 且通過球心 $O$ 的平面截出大圓，半徑平方 54，面積 $54\\pi$。"
+  },
+  {
+    "id": "99-ast-ma-non-2-3",
+    "examType": "分科/指考",
+    "year": 99,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $S: x^2 + y^2 + z^2 = 54$ 為坐標空間中一球面；$L$ 為坐標空間中通過點 $P(0, -6, 9)$ 且方向向量為 $(1, 4, -2)$ 的直線。\n(3) 在所有包含 $L$ 的平面中，與 $S$ 相交所得之圓面積**最小**者，其平面方程式為何？（6 分）",
+    "points": 6,
+    "blanks": [
+      "$2x + 2y + 5z = 33$"
+    ],
+    "blankLabels": [
+      "平面"
+    ],
+    "explanation": "截圓都通過 (1) 的兩交點，最小的圓以兩交點連線為直徑，此時平面離球心最遠，法向量為 $O$ 到 $L$ 的垂足方向。\n垂足 $M$：$(t, -6 + 4t, 9 - 2t)\\cdot(1, 4, -2) = 21t - 42 = 0$，$t = 2$，$M(2, 2, 5)$。\n平面 $2x + 2y + 5z = 4 + 4 + 25 = 33$。"
   }
 ]
