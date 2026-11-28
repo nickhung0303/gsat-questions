@@ -241467,5 +241467,410 @@
       "最佳解"
     ],
     "explanation": "可行區域的頂點：$(0, 42)$、$(6, 21)$（$7x + 2y = 84$ 與 $3x + 2y = 60$ 的交點）、$(18, 3)$（$3x + 2y = 60$ 與 $x + 2y = 24$ 的交點）、$(24, 0)$。\n成本 $5x + 4y$：168、114、102、120。最小為 $x = 18$、$y = 3$ 時的 102 元。"
+  },
+  {
+    "id": "94-gsat-math-01",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "points": 5,
+    "question": "1. 試問整數 43659 共有多少個不同的質因數？",
+    "options": [
+      "1 個",
+      "2 個",
+      "3 個",
+      "4 個",
+      "5 個"
+    ],
+    "answerIndex": 2,
+    "explanation": "$43659 = 3^4\\times539 = 3^4\\times7^2\\times11$，質因數 3、7、11，共 3 個。\n\n故選 (C)"
+  },
+  {
+    "id": "94-gsat-math-02",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "points": 5,
+    "question": "2. 利用公式 $1^3 + 2^3 + \\cdots + n^3 = \\left(\\dfrac{n(n + 1)}2\\right)^2$，可計算出 $(11)^3 + (12)^3 + \\cdots + (20)^3$ 之值為",
+    "options": [
+      "41075",
+      "41095",
+      "41115",
+      "41135",
+      "41155"
+    ],
+    "answerIndex": 0,
+    "explanation": "$210^2 - 55^2 = 44100 - 3025 = 41075$。\n\n故選 (A)"
+  },
+  {
+    "id": "94-gsat-math-03",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "points": 5,
+    "question": "3. 台北銀行最早發行的樂透彩（俗稱小樂透）的玩法是「42 選 6」：購買者從 01～42 中任選六個號碼，當這六個號碼與開出的六個號碼完全相同（不計次序）時即得頭獎；台北銀行曾考慮改發行「39 選 5」的小小樂透：購買者從 01～39 中任選五個號碼，如果這五個號碼與開出的五個號碼完全相同（不計次序）則得頭獎。假設原來的小樂透中頭獎的機率是 $R$，而曾考慮發行的小小樂透中頭獎的機率是 $r$。試問比值 $\\dfrac rR$ 最接近下列哪個選項？",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9",
+      "11"
+    ],
+    "answerIndex": 3,
+    "explanation": "$\\dfrac rR = \\dfrac{\\binom{42}6}{\\binom{39}5} = \\dfrac{42\\cdot41\\cdot40\\cdot39\\cdot38\\cdot37/720}{39\\cdot38\\cdot37\\cdot36\\cdot35/120} = \\dfrac{42\\cdot41\\cdot40}{6\\cdot36\\cdot35} \\approx 9.1$。\n\n故選 (D)"
+  },
+  {
+    "id": "94-gsat-math-04",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "points": 5,
+    "question": "4. 設 $a, b$ 為正實數，已知 $\\log_7a = 11$，$\\log_7b = 13$；試問 $\\log_7(a + b)$ 之值最接近下列哪個選項？",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "23",
+      "24"
+    ],
+    "answerIndex": 1,
+    "explanation": "$a + b = 7^{11}(1 + 49) = 50\\times7^{11}$，$\\log_7(a + b) = 11 + \\log_750 \\approx 11 + 2.01 = 13.01$。\n\n故選 (B)"
+  },
+  {
+    "id": "94-gsat-math-05",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "points": 5,
+    "question": "5. 某校高一第一次段考數學成績不太理想，多數同學成績偏低；考慮到可能是同學們適應不良所致，數學老師決定將每人的原始成績取平方根後再乘以 10 作為正式紀錄的成績。今隨機抽選 100 位同學，發現調整後的成績其平均為 65 分，標準差為 15 分；試問這 100 位同學未調整前的成績之平均 $M$ 介於哪兩個連續正整數之間？",
+    "options": [
+      "$40 \\le M < 41$",
+      "$41 \\le M < 42$",
+      "$42 \\le M < 43$",
+      "$43 \\le M < 44$",
+      "$44 \\le M < 45$"
+    ],
+    "answerIndex": 4,
+    "explanation": "調整後 $y = 10\\sqrt x$，原始成績 $x = \\dfrac{y^2}{100}$，所以 $M = \\dfrac{\\overline{y^2}}{100}$。\n$\\overline{y^2} = \\bar y^2 + S^2 = 4225 + 225 = 4450$（若標準差以 $n - 1$ 計，$\\overline{y^2} = 4225 + 225\\times\\dfrac{99}{100} \\approx 4447.8$），$M \\approx 44.5$。\n\n故選 (E)"
+  },
+  {
+    "id": "94-gsat-math-06",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "6. 如右圖所示，兩射線 $OA$ 與 $OB$ 交於 $O$ 點，試問下列選項中哪些向量的終點會落在陰影區域內？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-gsat-math-06.png\" alt=\"兩射線 OA、OB 與線段 AB 外側的陰影區域\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\overrightarrow{OA} + 2\\overrightarrow{OB}$",
+      "$\\dfrac34\\overrightarrow{OA} + \\dfrac13\\overrightarrow{OB}$",
+      "$\\dfrac34\\overrightarrow{OA} - \\dfrac13\\overrightarrow{OB}$",
+      "$\\dfrac34\\overrightarrow{OA} + \\dfrac15\\overrightarrow{OB}$",
+      "$\\dfrac34\\overrightarrow{OA} - \\dfrac15\\overrightarrow{OB}$"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "陰影區域是 $\\angle AOB$ 內、直線 $AB$ 外側的部分，即 $x\\overrightarrow{OA} + y\\overrightarrow{OB}$ 且 $x \\ge 0$、$y \\ge 0$、$x + y \\ge 1$。\n• (A) ✓：$1 + 2 \\ge 1$。\n• (B) ✓：$\\dfrac34 + \\dfrac13 = \\dfrac{13}{12} \\ge 1$。\n• (C)(E) ✗：係數為負，在角外。\n• (D) ✗：$\\dfrac34 + \\dfrac15 = \\dfrac{19}{20} < 1$。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "94-gsat-math-07",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "7. 如右圖所示，坐標平面上一鳶形 $ABCD$，其中 $A, C$ 在 $y$-軸上，$B, D$ 在 $x$-軸上，且 $\\overline{AB} = \\overline{AD} = 2$，$\\overline{BC} = \\overline{CD} = 4$，$\\overline{AC} = 5$。令 $m_{AB}$、$m_{BC}$、$m_{CD}$、$m_{DA}$ 分別表直線 $AB$、$BC$、$CD$、$DA$ 之斜率。試問以下哪些敘述成立？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-gsat-math-07.png\" alt=\"鳶形 ABCD，A、C 在 y 軸上，B、D 在 x 軸上\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此四數值中以 $m_{AB}$ 為最大",
+      "此四數值中以 $m_{BC}$ 為最小",
+      "$m_{BC} = -m_{CD}$",
+      "$m_{AB}\\times m_{BC} = -1$",
+      "$m_{CD} + m_{DA} > 0$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "設 $A(0, a)$、$C(0, -c)$、$B(-b, 0)$、$D(b, 0)$，$a + c = 5$，$a^2 + b^2 = 4$，$c^2 + b^2 = 16$。得 $c - a = \\dfrac{12}5$，$a = 1.3$、$c = 3.7$。\n$m_{AB} = \\dfrac ab$、$m_{BC} = -\\dfrac cb$、$m_{CD} = \\dfrac cb$、$m_{DA} = -\\dfrac ab$。\n• (A) ✗：最大是 $m_{CD}$。\n• (B) ✓。\n• (C) ✓。\n• (D) ✗：$4 + 16 \\ne 25$，$\\angle ABC$ 不是直角（乘積 $-\\dfrac{ac}{b^2} \\approx -2.08$）。\n• (E) ✓：$\\dfrac{c - a}b > 0$。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "94-gsat-math-08",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 假設坐標空間中三相異平面 $E_1$、$E_2$、$E_3$ 皆通過 $(-1, 2, 0)$ 與 $(3, 0, 2)$ 兩點，試問以下哪些點也同時在此三平面上？",
+    "options": [
+      "$(2, 2, 2)$",
+      "$(1, 1, 1)$",
+      "$(4, -2, 2)$",
+      "$(-2, 4, 0)$",
+      "$(-5, -4, -2)$"
+    ],
+    "answerIndices": [
+      1
+    ],
+    "explanation": "三相異平面的公共部分就是過這兩點的直線：$(-1 + 2t, 2 - t, t)$。\n只有 $(1, 1, 1)$（$t = 1$）在直線上；其他點代入後坐標不一致。\n\n故選 (B)"
+  },
+  {
+    "id": "94-gsat-math-09",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 若 $0 < \\theta < \\dfrac\\pi4$，試問以下哪些選項恆成立？",
+    "options": [
+      "$\\sin\\theta < \\cos\\theta$",
+      "$\\tan\\theta < \\sin\\theta$",
+      "$\\cos\\theta < \\tan\\theta$",
+      "$\\sin2\\theta < \\cos2\\theta$",
+      "$\\tan\\dfrac\\theta2 < \\dfrac12\\tan\\theta$"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "• (A) ✓。\n• (B) ✗：$\\tan\\theta = \\dfrac{\\sin\\theta}{\\cos\\theta} > \\sin\\theta$。\n• (C) ✗：$\\theta$ 很小時 $\\cos\\theta \\approx 1 > \\tan\\theta$。\n• (D) ✗：只在 $\\theta < \\dfrac\\pi8$ 時成立。\n• (E) ✓：令 $t = \\tan\\dfrac\\theta2 \\in (0, 1)$，$\\tan\\theta = \\dfrac{2t}{1 - t^2} > 2t$。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "94-gsat-math-10",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 設 $F_1$ 與 $F_2$ 為坐標平面上雙曲線 $\\Gamma: \\dfrac{x^2}9 - \\dfrac{y^2}{16} = 1$ 的兩個焦點，$P$ 為 $\\Gamma$ 上一點，使得此三點構成一等腰三角形。試問以下哪些值可能是這些等腰三角形的周長？",
+    "options": [
+      "20",
+      "24",
+      "28",
+      "32",
+      "36"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "$a = 3$、$c = 5$，$\\overline{F_1F_2} = 10$，$|\\overline{PF_1} - \\overline{PF_2}| = 6$，所以兩腰不能是 $\\overline{PF_1}$、$\\overline{PF_2}$。\n只能 $\\overline{PF_1} = 10$（或 $\\overline{PF_2} = 10$），另一邊為 4 或 16：周長 $10 + 10 + 4 = 24$ 或 $10 + 10 + 16 = 36$。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "94-gsat-math-11",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 設 $S$ 為空間中一球面，$\\overline{AB}$ 為其一直徑，且 $\\overline{AB} = 10$。若 $P$ 為空間中一點，使得 $\\overline{PA} + \\overline{PB} = 14$，則 $P$ 點的位置可能落在哪裡？",
+    "options": [
+      "線段 $\\overline{AB}$ 上",
+      "直線 $AB$ 上，但不在線段 $\\overline{AB}$ 上",
+      "球面 $S$ 上",
+      "球 $S$ 的內部，但不在線段 $\\overline{AB}$ 上",
+      "球 $S$ 的外部，但不在直線 $AB$ 上"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "$P$ 在以 $A, B$ 為焦點、長軸 14 的旋轉橢球面上。\n• (A) ✗：線段上 $\\overline{PA} + \\overline{PB} = 10$。\n• (B) ✓：長軸端點在直線 $AB$ 上、線段外。\n• (C) ✓：球面上 $\\overline{PA}^2 + \\overline{PB}^2 = 100$，與和 14 聯立得 $\\{6, 8\\}$。\n• (D) ✓：球面上 $\\overline{PA} + \\overline{PB}$ 最大為 $10\\sqrt2 \\approx 14.1 > 14$，橢球面有部分在球內。\n• (E) ✓：如短軸端點附近。\n\n故選 (B)(C)(D)(E)"
+  },
+  {
+    "id": "94-gsat-math-A",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 若多項式 $x^2 + x + 2$ 能整除 $x^5 + x^4 + x^3 + px^2 + 2x + q$，則 $p =$ ⑫，$q =$ ⑬。",
+    "blanks": [
+      "3",
+      "8"
+    ],
+    "blankLabels": [
+      "12",
+      "13"
+    ],
+    "explanation": "設商 $x^3 + ax^2 + bx + c$，展開比較：$a + 1 = 1$、$b + a + 2 = 1$、$c + 2b = 2$，得 $a = 0$、$b = -1$、$c = 4$。\n$p = c + b + 2a = 3$，$q = 2c = 8$。"
+  },
+  {
+    "id": "94-gsat-math-B",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 在坐標平面上，正方形 $ABCD$ 的四個頂點坐標分別為 $A(0, 1)$，$B(0, 0)$，$C(1, 0)$，$D(1, 1)$。設 $P$ 為正方形 $ABCD$ 內部的一點，若 $\\triangle PDA$ 與 $\\triangle PBC$ 的面積比為 1 : 2，且 $\\triangle PAB$ 與 $\\triangle PCD$ 的面積比為 2 : 3，則 $P$ 點的坐標為 $\\left(\\dfrac{⑭}{⑮}, \\dfrac{⑯}{⑰}\\right)$。（化成最簡分數）",
+    "blanks": [
+      "2",
+      "5",
+      "2",
+      "3"
+    ],
+    "blankLabels": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "explanation": "設 $P(x, y)$。$\\triangle PDA$、$\\triangle PBC$ 的高分別為 $1 - y$、$y$：$(1 - y) : y = 1 : 2$，$y = \\dfrac23$。\n$\\triangle PAB$、$\\triangle PCD$ 的高分別為 $x$、$1 - x$：$x : (1 - x) = 2 : 3$，$x = \\dfrac25$。"
+  },
+  {
+    "id": "94-gsat-math-C",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 在數線上有一個運動物體從原點出發，在此數線上跳動，每次向正方向或負方向跳 1 個單位，跳動過程可重複經過任何一點。若經過 6 次跳動後運動物體落在點 +4 處，則此運動物體共有 ⑱ 種不同的跳動方法。",
+    "blanks": [
+      "6"
+    ],
+    "blankLabels": [
+      "18"
+    ],
+    "explanation": "正跳 5 次、負跳 1 次：$\\dbinom61 = 6$ 種。"
+  },
+  {
+    "id": "94-gsat-math-D",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "D. 設複數 $z = 1 - i$；若 $1 + z + z^2 + \\cdots + z^9 = a + bi$，其中 $a, b$ 為實數，則 $a =$ ⑲⑳，$b =$ ㉑㉒。",
+    "blanks": [
+      "3",
+      "2",
+      "-",
+      "1"
+    ],
+    "acceptedBlanks": [
+      [
+        "3"
+      ],
+      [
+        "2"
+      ],
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "1"
+      ]
+    ],
+    "blankLabels": [
+      "19",
+      "20",
+      "21",
+      "22"
+    ],
+    "explanation": "$z^2 = -2i$，$z^{10} = (-2i)^5 = -32i$。和 $= \\dfrac{1 - z^{10}}{1 - z} = \\dfrac{1 + 32i}{i} = 32 - i$。"
+  },
+  {
+    "id": "94-gsat-math-E",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "E. 設 $O$ 為坐標平面上的原點，$P$ 點坐標為 $(2, 1)$；若 $A$、$B$ 分別是正 $x$-軸及正 $y$-軸上的點，使得 $\\overrightarrow{PA}\\perp\\overrightarrow{PB}$，則 $\\triangle OAB$ 面積的最大可能值為 $\\dfrac{㉓㉔}{㉕㉖}$。（化成最簡分數）",
+    "blanks": [
+      "2",
+      "5",
+      "1",
+      "6"
+    ],
+    "blankLabels": [
+      "23",
+      "24",
+      "25",
+      "26"
+    ],
+    "explanation": "$A(a, 0)$、$B(0, b)$：$(a - 2, -1)\\cdot(-2, b - 1) = 0$，$b = 5 - 2a$（$0 < a < \\dfrac52$）。\n面積 $\\dfrac{a(5 - 2a)}2$，在 $a = \\dfrac54$ 時最大，為 $\\dfrac{25}{16}$。"
+  },
+  {
+    "id": "94-gsat-math-F",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "F. 如右圖所示，在 $\\triangle ABC$ 中，$\\angle BAC$ 的平分線 $AD$ 交對邊 $\\overline{BC}$ 於 $D$；已知 $\\overline{BD} = 3$，$\\overline{DC} = 6$，且 $\\overline{AB} = \\overline{AD}$，則 $\\cos\\angle BAD$ 之值為 $\\dfrac{㉗}{㉘}$。（化成最簡分數）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-gsat-math-F.png\" alt=\"△ABC 與角平分線 AD\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "3",
+      "4"
+    ],
+    "blankLabels": [
+      "27",
+      "28"
+    ],
+    "explanation": "角平分線定理：$\\overline{AC} = 2\\overline{AB}$。設 $\\overline{AB} = \\overline{AD} = x$，由角平分線長公式 $\\overline{AD}^2 = \\overline{AB}\\cdot\\overline{AC} - \\overline{BD}\\cdot\\overline{DC}$：$x^2 = 2x^2 - 18$，$x^2 = 18$。\n$\\triangle ABD$ 中：$9 = 18 + 18 - 36\\cos\\angle BAD$，$\\cos\\angle BAD = \\dfrac34$。"
+  },
+  {
+    "id": "94-gsat-math-G",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "G. 在坐標平面上，過 $F(1, 0)$ 的直線交拋物線 $\\Gamma: y^2 = 4x$ 於 $P$、$Q$ 兩點，其中 $P$ 在上半平面，且知 $2\\overline{PF} = 3\\overline{QF}$，則 $P$ 點的 $x$-坐標為 $\\dfrac{㉙}{㉚}$。（化成最簡分數）",
+    "blanks": [
+      "3",
+      "2"
+    ],
+    "blankLabels": [
+      "29",
+      "30"
+    ],
+    "explanation": "焦點弦性質：$\\dfrac1{\\overline{PF}} + \\dfrac1{\\overline{QF}} = 1$（$y^2 = 4x$ 的正焦弦半長為 2）。$\\overline{QF} = \\dfrac23\\overline{PF}$：$\\dfrac1{\\overline{PF}}\\left(1 + \\dfrac32\\right) = 1$，$\\overline{PF} = \\dfrac52$。\n$\\overline{PF} = x_P + 1$，$x_P = \\dfrac32$。"
+  },
+  {
+    "id": "94-gsat-math-H",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "H. 設 $x$ 為一正實數且滿足 $x\\cdot3^x = 3^{18}$；若 $x$ 落在連續正整數 $k$ 與 $k + 1$ 之間，則 $k =$ ㉛㉜。",
+    "blanks": [
+      "1",
+      "5"
+    ],
+    "blankLabels": [
+      "31",
+      "32"
+    ],
+    "explanation": "取 $\\log_3$：$x + \\log_3x = 18$，左邊遞增。$x = 15$：$15 + \\log_315 \\approx 17.46 < 18$；$x = 16$：$16 + \\log_316 \\approx 18.52 > 18$。所以 $15 < x < 16$。"
+  },
+  {
+    "id": "94-gsat-math-I",
+    "examType": "學測",
+    "year": 94,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "I. 如右圖所示，$ABCD\\text{-}EFGH$ 為邊長等於 1 之正立方體。若 $P$ 點在立方體之內部且滿足 $\\overrightarrow{AP} = \\dfrac34\\overrightarrow{AB} + \\dfrac12\\overrightarrow{AD} + \\dfrac23\\overrightarrow{AE}$，則 $P$ 點至直線 $AB$ 之距離為 $\\dfrac{㉝}{㉞}$。（化成最簡分數）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/94-gsat-math-I.png\" alt=\"正立方體 ABCD-EFGH 與內部一點 P\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "5",
+      "6"
+    ],
+    "blankLabels": [
+      "33",
+      "34"
+    ],
+    "explanation": "以 $A$ 為原點，$\\overrightarrow{AB}, \\overrightarrow{AD}, \\overrightarrow{AE}$ 為三軸：$P\\left(\\dfrac34, \\dfrac12, \\dfrac23\\right)$。到 $AB$（第一軸）的距離 $\\sqrt{\\dfrac14 + \\dfrac49} = \\dfrac56$。"
   }
 ]
