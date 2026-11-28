@@ -238951,5 +238951,263 @@
       "43"
     ],
     "explanation": "圓心 $(7, 1)$ 到準線距離 12、$(-2, 13)$ 到準線距離 3，所以焦點 $F$ 到兩圓心的距離分別為 12、3，$F$ 同時在兩圓上。\n兩圓心距 $\\sqrt{81 + 144} = 15 = 12 + 3$，兩圓外切，唯一公共點即切點：$F = (7, 1) + \\dfrac{12}{15}(-9, 12) = \\left(-\\dfrac15, \\dfrac{53}5\\right)$。"
+  },
+  {
+    "id": "97-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 已知正整數 $n$ 可以寫成兩個整數的平方和。試問 $n$ 除以 8 的餘數**不可能**為以下哪一選項？",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "answerIndex": 4,
+    "explanation": "整數平方除以 8 的餘數只有 0、1、4。兩個相加的餘數可能是 0, 1, 2, 4, 5（$4 + 4 = 8 \\equiv 0$），不可能是 6。\n\n故選 (E)"
+  },
+  {
+    "id": "97-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 在與水平面成 $10^\\circ$ 的東西向山坡上，鉛直（即與水平面垂直）立起一根旗竿。當陽光從正西方以俯角 $60^\\circ$ 平行投射在山坡上時，旗竿的影子長為 11 公尺，如下圖所示（其中箭頭表示陽光投射的方向，而粗黑線段表示旗竿的影子）。試問旗竿的長度最接近以下哪一選項？\n參考數值：$\\sin10^\\circ \\approx 0.174$，$\\sin20^\\circ \\approx 0.342$，$\\cos10^\\circ \\approx 0.985$，$\\cos20^\\circ \\approx 0.940$，$\\sqrt3 \\approx 1.732$。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-ma-02.png\" alt=\"東西向 10° 山坡上的鉛直旗竿，陽光由西以俯角 60° 照射，影子落在坡上\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "19.1 公尺",
+      "19.8 公尺",
+      "20.7 公尺",
+      "21.1 公尺",
+      "21.7 公尺"
+    ],
+    "answerIndex": 2,
+    "explanation": "旗竿底 $P$、頂 $T$、影子端點 $S$（在 $P$ 的東方坡上）。\n• $\\angle TPS$：旗竿鉛直，坡面往東升 $10^\\circ$，夾角 $90^\\circ - 10^\\circ = 80^\\circ$。\n• $\\angle TSP$：光線與水平夾 $60^\\circ$，坡面與水平夾 $10^\\circ$，兩者在 $S$ 的夾角 $60^\\circ + 10^\\circ = 70^\\circ$。\n• $\\angle PTS = 30^\\circ$。\n正弦定理：$\\overline{PT} = \\dfrac{11\\sin70^\\circ}{\\sin30^\\circ} = 22\\cos20^\\circ \\approx 22\\times0.940 = 20.68$。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "3. 設 $A$ 為坐標平面上代表旋轉某個角度的二階方陣，且已知 $A^6 = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix}$。試問 $A$ 可能是以下哪些選項中的方陣？",
+    "options": [
+      "$\\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}$",
+      "$\\begin{bmatrix} \\frac12 & -\\frac{\\sqrt3}2 \\\\ \\frac{\\sqrt3}2 & \\frac12 \\end{bmatrix}$",
+      "$\\begin{bmatrix} \\frac{\\sqrt3}2 & -\\frac12 \\\\ \\frac12 & \\frac{\\sqrt3}2 \\end{bmatrix}$",
+      "$\\begin{bmatrix} \\cos\\frac{5\\pi}3 & -\\sin\\frac{5\\pi}3 \\\\ \\sin\\frac{5\\pi}3 & \\cos\\frac{5\\pi}3 \\end{bmatrix}$",
+      "$\\begin{bmatrix} \\cos\\frac{5\\pi}6 & \\sin\\frac{5\\pi}6 \\\\ -\\sin\\frac{5\\pi}6 & \\cos\\frac{5\\pi}6 \\end{bmatrix}$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "旋轉 $\\theta$ 的 6 次方是旋轉 $6\\theta$，要等於旋轉 $\\pi$：$\\theta = \\dfrac\\pi6 + \\dfrac{k\\pi}3$，即 $\\dfrac\\pi6, \\dfrac\\pi2, \\dfrac{5\\pi}6, \\dfrac{7\\pi}6, \\dfrac{3\\pi}2, \\dfrac{11\\pi}6$。\n• (A) $\\dfrac\\pi2$ ✓。\n• (B) $\\dfrac\\pi3$ ✗。\n• (C) $\\dfrac\\pi6$ ✓。\n• (D) $\\dfrac{5\\pi}3$ ✗。\n• (E) 旋轉 $-\\dfrac{5\\pi}6 \\equiv \\dfrac{7\\pi}6$ ✓。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "97-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 甲、乙、丙三人參加一投擲公正銅板的遊戲，每一局三人各擲銅板 1 次；在某局中，當有一人投擲結果與其他二人不同時，此人就出局且遊戲終止；否則就進入下一局，並依前述規則繼續進行，直到有人出局為止。試問下列哪些選項是正確的？",
+    "options": [
+      "第一局甲就出局的機率是 $\\dfrac13$",
+      "第一局就有人出局的機率是 $\\dfrac12$",
+      "第三局才有人出局的機率是 $\\dfrac3{64}$",
+      "已知到第十局才有人出局，則甲出局的機率是 $\\dfrac13$",
+      "該遊戲在終止前，至少玩了六局的機率大於 $\\dfrac1{1000}$"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "每局三人結果相同（全正或全反）的機率 $\\dfrac28 = \\dfrac14$，有人出局的機率 $\\dfrac34$。\n• (A) ✗：甲與另兩人不同：2 種，$\\dfrac28 = \\dfrac14$。\n• (B) ✗：$\\dfrac34$。\n• (C) ✓：$\\left(\\dfrac14\\right)^2\\cdot\\dfrac34 = \\dfrac3{64}$。\n• (D) ✓：三人地位對稱。\n• (E) ✗：前五局都沒人出局：$\\left(\\dfrac14\\right)^5 = \\dfrac1{1024} < \\dfrac1{1000}$。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "97-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 某人進行一實驗來確定某運動之距離 $d$ 與時間 $t$ 的平方或立方成正比，所得數據如下表。為探索該運動的距離與時間之關係，令 $x = \\log_2t$，$y = \\log_2d$，即將上述的數據 $(t, d)$ 分別取以 2 為底的對數變換，例如：$(2, 53.65)$ 變換後成為 $(1, 5.74)$。已知變換後的數據 $(x_1, y_1), (x_2, y_2), \\cdots, (x_9, y_9)$ 之散佈圖及以最小平方法所求得變數 $y$ 對變數 $x$ 的最適合直線（或稱迴歸直線）為 $y = a + bx$，如下圖所示。試問下列哪些選項是正確的？",
+    "svg": "<svg viewBox=\"0 0 526 68\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"23\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">時間 t (秒)</text><rect x=\"92\" y=\"4\" width=\"48\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"116\" y=\"23\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">0.25</text><rect x=\"140\" y=\"4\" width=\"48\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"164\" y=\"23\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">0.5</text><rect x=\"188\" y=\"4\" width=\"48\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"23\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">0.75</text><rect x=\"236\" y=\"4\" width=\"48\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"260\" y=\"23\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">1</text><rect x=\"284\" y=\"4\" width=\"48\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"308\" y=\"23\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">1.25</text><rect x=\"332\" y=\"4\" width=\"48\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"356\" y=\"23\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">1.5</text><rect x=\"380\" y=\"4\" width=\"48\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"404\" y=\"23\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">1.75</text><rect x=\"428\" y=\"4\" width=\"48\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"23\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">2</text><rect x=\"476\" y=\"4\" width=\"48\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"500\" y=\"23\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">2.25</text><rect x=\"2\" y=\"34\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"53\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">距離 d (呎)</text><rect x=\"92\" y=\"34\" width=\"48\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"116\" y=\"53\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">0.95</text><rect x=\"140\" y=\"34\" width=\"48\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"164\" y=\"53\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">3.69</text><rect x=\"188\" y=\"34\" width=\"48\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"53\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">9.71</text><rect x=\"236\" y=\"34\" width=\"48\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"260\" y=\"53\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">14.88</text><rect x=\"284\" y=\"34\" width=\"48\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"308\" y=\"53\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">22.32</text><rect x=\"332\" y=\"34\" width=\"48\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"356\" y=\"53\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">39.34</text><rect x=\"380\" y=\"34\" width=\"48\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"404\" y=\"53\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">48.68</text><rect x=\"428\" y=\"34\" width=\"48\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"53\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">53.65</text><rect x=\"476\" y=\"34\" width=\"48\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"500\" y=\"53\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">71.79</text></svg><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-ma-05.png\" alt=\"變換後的散佈圖與迴歸直線，直線約過 (−2, 0) 與 (0, 3.9)\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "若 $d = 14.88$，則 $3 < \\log_2d < 4$",
+      "$x$ 與 $y$ 的相關係數小於 0.2",
+      "由上圖可以觀察出 $b > 2.5$",
+      "由上圖可以觀察出 $a > 2$",
+      "由上圖可以確定此運動之距離與時間的立方約略成正比"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "• (A) ✓：$8 < 14.88 < 16$。\n• (B) ✗：點幾乎落在一條上升直線上，相關係數接近 1。\n• (C) ✗：直線約過 $(-2, 0)$ 與 $(0, 3.9)$，斜率約 2。\n• (D) ✓：$y$ 截距約 3.9。\n• (E) ✗：$\\log_2d = a + b\\log_2t$ ⇒ $d = 2^a t^b$，$b \\approx 2$，與時間的平方成正比。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "97-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 設 $n$ 為正整數，方程式 $x^2 - 2x - n = 0$ 的兩根為 $a_n$ 與 $b_n$，且 $a_n > b_n$。試問下列哪些選項是正確的？",
+    "options": [
+      "$a_n > 0$ 對所有 $n$ 皆成立",
+      "$a_n + b_n = 2$ 對所有 $n$ 皆成立",
+      "$b_{n+1} > b_n$ 對所有 $n$ 皆成立",
+      "$\\displaystyle\\lim_{n\\to\\infty}\\dfrac{a_na_{n+1}}n = 1$",
+      "$\\displaystyle\\lim_{n\\to\\infty}\\dfrac{a_n - b_n}{\\sqrt n} = 2$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explanation": "$a_n = 1 + \\sqrt{n + 1}$，$b_n = 1 - \\sqrt{n + 1}$。\n• (A) ✓。\n• (B) ✓。\n• (C) ✗：$b_n$ 遞減。\n• (D) ✓：$\\dfrac{(1 + \\sqrt{n + 1})(1 + \\sqrt{n + 2})}n \\to 1$。\n• (E) ✓：$\\dfrac{2\\sqrt{n + 1}}{\\sqrt n} \\to 2$。\n\n故選 (A)(B)(D)(E)"
+  },
+  {
+    "id": "97-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 設 $f'(x)$ 表示實係數多項式函數 $f(x)$ 的導函數，已知 $y = f'(x)$ 的圖形是一個通過點 $(1, 0)$ 和點 $(2, 0)$ 且開口向上的拋物線。試問下列哪些選項是正確的？",
+    "options": [
+      "$f(x)$ 一定是三次多項式",
+      "$f(x)$ 在 $1 < x < 2$ 的範圍內必為遞增",
+      "$f(x)$ 一定恰有兩個極值",
+      "$f(x) = 0$ 一定有三個實根",
+      "$f(x) = 0$ 在 $1 \\le x \\le 2$ 的範圍內一定有實根"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "$f'(x) = k(x - 1)(x - 2)$，$k > 0$。\n• (A) ✓：$f'$ 是二次，$f$ 是三次。\n• (B) ✗：$1 < x < 2$ 時 $f' < 0$，遞減。\n• (C) ✓：$x = 1$ 極大、$x = 2$ 極小。\n• (D)(E) ✗：常數項任意，圖形可上下平移。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "97-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 在坐標平面上，設拋物線 $\\Gamma$ 通過點 $(8, 4)$，且其對稱軸為直線 $x - 2 = 0$。試問下列哪些選項是正確的？",
+    "options": [
+      "若拋物線 $\\Gamma$ 的頂點坐標為 $(2, 1)$，則其焦點坐標必為 $(2, 4)$",
+      "若拋物線 $\\Gamma$ 的焦點坐標為 $(2, 12)$，則其頂點坐標必為 $(2, 3)$",
+      "若拋物線 $\\Gamma$ 也通過點 $(10, 11)$，則其準線方程式必為 $y + 6 = 0$",
+      "直線 $x - 2 = 0$ 上每個點都可能是拋物線 $\\Gamma$ 的頂點",
+      "直線 $x - 2 = 0$ 上每個點都可能是拋物線 $\\Gamma$ 的焦點"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "設 $(x - 2)^2 = 4c(y - k)$，頂點 $(2, k)$、焦點 $(2, k + c)$。過 $(8, 4)$：$36 = 4c(4 - k)$。\n• (A) ✓：$k = 1$，$c = 3$，焦點 $(2, 4)$。\n• (B) ✗：$c = 12 - k$，$(12 - k)(4 - k) = 9$，$k = 3$ 或 13，頂點也可能是 $(2, 13)$。\n• (C) ✓：$36 = 4c(4 - k)$、$64 = 4c(11 - k)$，解得 $k = -5$、$c = 1$，準線 $y = k - c = -6$。\n• (D) ✗：頂點 $(2, 4)$ 時 $36 = 0$ 不可能。\n• (E) ✓：任取焦點 $F(2, f)$，令 $r = \\sqrt{36 + (4 - f)^2}$，取準線 $y = 4 - r$（或 $4 + r$）即可使 $(8, 4)$ 在拋物線上。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "97-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "A. 用大小一樣的鋼珠可以排成正三角形、正方形與正五邊形陣列，其排列的規律如下圖所示。已知 $m$ 個鋼珠恰好可以排成每邊 $n$ 個鋼珠的正三角形陣列與正方形陣列各一個；且知若用這 $m$ 個鋼珠去排成每邊 $n$ 個鋼珠的正五邊形陣列時，就會多出 9 個鋼珠。則 $n =$ ⑨，$m =$ ⑩⑪⑫。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-ma-A.png\" alt=\"每邊 1 到 4 個鋼珠的正三角形、正方形、正五邊形陣列\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "9",
+      "1",
+      "2",
+      "6"
+    ],
+    "blankLabels": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "explanation": "每邊 $n$ 個：正三角形 $\\dfrac{n(n + 1)}2$、正方形 $n^2$、正五邊形 $\\dfrac{n(3n - 1)}2$（1, 5, 12, 22, …）。\n$m = \\dfrac{n(n + 1)}2 + n^2 = \\dfrac{3n^2 + n}2$，$m - \\dfrac{3n^2 - n}2 = n = 9$。$m = \\dfrac{243 + 9}2 = 126$。"
+  },
+  {
+    "id": "97-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "B. 若空間中一球面 $S$ 與兩平面 $z = 4$ 及 $z = 8$ 相交的圓面積皆為 $36\\pi$，則 $S$ 與平面 $z = 7$ 相交的圓面積為 ⑬⑭ $\\pi$。",
+    "blanks": [
+      "3",
+      "9"
+    ],
+    "blankLabels": [
+      "13",
+      "14"
+    ],
+    "explanation": "兩截圓一樣大，球心在 $z = 6$；半徑平方 $36 + 2^2 = 40$。平面 $z = 7$ 距球心 1，截圓半徑平方 $40 - 1 = 39$，面積 $39\\pi$。"
+  },
+  {
+    "id": "97-ast-ma-non-1",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設 $p(x)$ 為三次實係數多項式函數，其圖形通過 $(1, 3)$、$(-1, 5)$ 兩點。若 $p(x)$ 的圖形在點 $(1, 3)$ 的切線斜率為 7，而在點 $(-1, 5)$ 的切線斜率為 $-5$，試求 $p(x)$。（12 分）",
+    "points": 12,
+    "blanks": [
+      "$p(x) = x^3 + 3x^2 - 2x + 1$"
+    ],
+    "blankLabels": [
+      "p(x)"
+    ],
+    "explanation": "設 $p(x) = ax^3 + bx^2 + cx + d$：\n$a + b + c + d = 3$，$-a + b - c + d = 5$，$3a + 2b + c = 7$，$3a - 2b + c = -5$。\n後兩式：$b = 3$、$3a + c = 1$；前兩式：$a + c = -1$、$b + d = 4$。得 $a = 1$、$c = -2$、$d = 1$。"
+  },
+  {
+    "id": "97-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $\\triangle ABC$ 的三高分別為 $\\overline{AD} = 6$、$\\overline{BE} = 4$、$\\overline{CF} = 3$。\n(1) 試證：$\\triangle ABC$ 是一鈍角三角形。（6 分）",
+    "points": 6,
+    "blanks": [
+      "$a : b : c = 2 : 3 : 4$，$\\cos C = -\\dfrac14 < 0$"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "設面積 $\\Delta$，$a = \\dfrac{2\\Delta}6$、$b = \\dfrac{2\\Delta}4$、$c = \\dfrac{2\\Delta}3$，$a : b : c = \\dfrac16 : \\dfrac14 : \\dfrac13 = 2 : 3 : 4$。\n最大角 $C$：$\\cos C = \\dfrac{4 + 9 - 16}{2\\cdot2\\cdot3} = -\\dfrac14 < 0$，為鈍角。"
+  },
+  {
+    "id": "97-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $\\triangle ABC$ 的三高分別為 $\\overline{AD} = 6$、$\\overline{BE} = 4$、$\\overline{CF} = 3$。\n(2) 試求 $\\triangle ABC$ 的面積。（8 分）",
+    "points": 8,
+    "blanks": [
+      "$\\dfrac{16\\sqrt{15}}5$"
+    ],
+    "blankLabels": [
+      "面積"
+    ],
+    "explanation": "設三邊 $2k, 3k, 4k$。$\\sin C = \\sqrt{1 - \\dfrac1{16}} = \\dfrac{\\sqrt{15}}4$，面積 $= \\dfrac12\\cdot2k\\cdot3k\\cdot\\dfrac{\\sqrt{15}}4 = \\dfrac{3\\sqrt{15}}4k^2$。\n又面積 $= \\dfrac12\\cdot a\\cdot\\overline{AD} = \\dfrac12\\cdot2k\\cdot6 = 6k$，所以 $k = \\dfrac8{\\sqrt{15}}$，面積 $6k = \\dfrac{48}{\\sqrt{15}} = \\dfrac{16\\sqrt{15}}5$。"
   }
 ]
