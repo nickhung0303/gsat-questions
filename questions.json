@@ -228865,5 +228865,363 @@
       "最大淨利潤"
     ],
     "explanation": "頂點代入 $2.3x + 5y$：$(0, 0)$：0；$(200, 0)$：460；$(120, 40)$：476；$(0, 90)$：450。\n訂購重機 120 部、汽車 40 部，最大淨利潤 476 萬元。"
+  },
+  {
+    "id": "107-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 設 $A$ 為 $3\\times3$ 矩陣，且對任意實數 $a, b, c$，$A\\begin{bmatrix} a \\\\ b \\\\ c \\end{bmatrix} = \\begin{bmatrix} b \\\\ c \\\\ a \\end{bmatrix}$ 均成立。試問矩陣 $A^2\\begin{bmatrix} 1 \\\\ 0 \\\\ -1 \\end{bmatrix}$ 為何？",
+    "options": [
+      "$\\begin{bmatrix} 0 \\\\ 1 \\\\ 1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} -1 \\\\ 1 \\\\ 0 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 \\\\ 0 \\\\ 1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 0 \\\\ 1 \\\\ -1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} -1 \\\\ 0 \\\\ 1 \\end{bmatrix}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "$A$ 把 $(a, b, c)$ 變成 $(b, c, a)$，再作用一次變成 $(c, a, b)$。\n$A^2(1, 0, -1) = (-1, 1, 0)$。\n\n故選 (B)"
+  },
+  {
+    "id": "107-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 坐標平面上，考慮 $A(2, 3)$ 與 $B(-1, 3)$ 兩點，並設 $O$ 為原點。令 $E$ 為滿足 $\\overrightarrow{OP} = a\\overrightarrow{OA} + b\\overrightarrow{OB}$ 的所有點 $P$ 所形成的區域，其中 $-1 \\le a \\le 1$，$0 \\le b \\le 4$。考慮函數 $f(x) = x^2 + 5$，試問當限定 $x$ 為區域 $E$ 中的點 $P(x, y)$ 的橫坐標時，$f(x)$ 的最大值為何？",
+    "options": [
+      "5",
+      "9",
+      "30",
+      "41",
+      "54"
+    ],
+    "answerIndex": 3,
+    "explanation": "$x = 2a - b$，$a \\in [-1, 1]$、$b \\in [0, 4]$，所以 $x \\in [-6, 2]$。\n$f(x) = x^2 + 5$ 在 $x = -6$ 最大：$36 + 5 = 41$。\n\n故選 (D)"
+  },
+  {
+    "id": "107-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 某零售商店販賣「熊大」與「皮卡丘」兩種玩偶，其進貨來源有 $A, B, C$ 三家廠商。已知此零售商店從每家廠商進貨的玩偶總數相同，且三家廠商製作的每一種玩偶外觀也一樣，而從 $A, B, C$ 這三家廠商進貨的玩偶中，「皮卡丘」所占的比例分別為 $\\dfrac14$、$\\dfrac25$、$\\dfrac12$。阿德從這家零售商店隨機挑選一隻「皮卡丘」送給小安作為生日禮物，試問此「皮卡丘」出自 $C$ 廠商的機率為何？",
+    "options": [
+      "$\\dfrac13$",
+      "$\\dfrac25$",
+      "$\\dfrac{10}{23}$",
+      "$\\dfrac{10}{19}$",
+      "$\\dfrac59$"
+    ],
+    "answerIndex": 2,
+    "explanation": "三家進貨量相同，皮卡丘數量比 $\\dfrac14 : \\dfrac25 : \\dfrac12 = 5 : 8 : 10$。\n出自 $C$ 的機率 $= \\dfrac{10}{23}$。\n\n故選 (C)"
+  },
+  {
+    "id": "107-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 設 $f(x) = -x^2 + 499$，且 $A = \\displaystyle\\int_0^{10}f(x)\\,dx$、$B = \\displaystyle\\sum_{n=0}^{9}f(n)$、$C = \\displaystyle\\sum_{n=1}^{10}f(n)$、$D = \\displaystyle\\sum_{n=0}^{9}\\frac{f(n) + f(n + 1)}{2}$。試選出正確的選項。",
+    "options": [
+      "$A$ 表示在坐標平面上函數 $y = -x^2 + 499$ 的圖形與直線 $y = 0$、$x = 0$、$x = 10$ 所圍成的有界區域的面積",
+      "$B < C$",
+      "$B < A$",
+      "$C < D$",
+      "$A < D$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "在 $[0, 10]$ 上 $f(x) \\ge 399 > 0$，遞減且凹口向下。\n• (A) 正確：$f > 0$，積分即面積。\n• (B) 錯誤：$B$ 是左端點和、$C$ 是右端點和，遞減時 $B > C$。\n• (C) 錯誤：遞減時左端點和大於積分，$B > A$。\n• (D) 正確：$D = \\dfrac{B + C}{2} > C$。\n• (E) 錯誤：$D$ 是梯形法；凹口向下時弦在圖形下方，梯形面積小於積分，$D < A$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "107-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 坐標平面上，已知直線 $L$ 與函數 $y = \\log_2x$ 的圖形有兩個交點 $P(a, b)$、$Q(c, d)$，且 $\\overline{PQ}$ 的中點在 $x$ 軸上。試選出正確的選項。",
+    "options": [
+      "$L$ 的斜率大於 0",
+      "$bd = -1$",
+      "$ac = 1$",
+      "$L$ 的 $y$ 截距大於 $-1$",
+      "$L$ 的 $x$ 截距大於 1"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "中點在 $x$ 軸：$b + d = \\log_2a + \\log_2c = 0$，$ac = 1$。設 $a = 2^t$、$c = 2^{-t}$（$t > 0$），$b = t$、$d = -t$。\n• (A) 正確：斜率 $\\dfrac{2t}{2^t - 2^{-t}} > 0$。\n• (B) 錯誤：$bd = -t^2$，不一定是 $-1$。\n• (C) 正確。\n• (D) 錯誤：$L$ 過中點 $\\left(\\dfrac{2^t + 2^{-t}}{2}, 0\\right)$，$y$ 截距 $= -t\\cdot\\dfrac{2^t + 2^{-t}}{2^t - 2^{-t}}$。$t \\to 0$ 時趨近 $-\\dfrac{1}{\\ln2} \\approx -1.44$，且 $t$ 越大越小，恆小於 $-1$。\n• (E) 正確：$x$ 截距是中點的 $x$ 坐標 $\\dfrac{a + c}{2} > \\sqrt{ac} = 1$。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "107-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 坐標空間中，有 $\\vec a$、$\\vec b$、$\\vec c$、$\\vec d$ 四個向量，滿足外積 $\\vec a\\times\\vec b = \\vec c$，$\\vec a\\times\\vec c = \\vec d$，且 $\\vec a$、$\\vec b$、$\\vec c$ 的向量長度均為 4。設向量 $\\vec a$ 與 $\\vec b$ 的夾角為 $\\theta$（其中 $0 \\le \\theta \\le \\pi$），試選出正確的選項。",
+    "options": [
+      "$\\cos\\theta = \\dfrac14$",
+      "$\\vec a$、$\\vec b$、$\\vec c$ 所張出的平行六面體的體積為 16",
+      "$\\vec a$、$\\vec c$、$\\vec d$ 兩兩互相垂直",
+      "$\\vec d$ 的長度等於 4",
+      "$\\vec b$ 與 $\\vec d$ 的夾角等於 $\\theta$"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "• (A) 錯誤：$|\\vec a\\times\\vec b| = 16\\sin\\theta = 4$，$\\sin\\theta = \\dfrac14$，$\\cos\\theta = \\pm\\dfrac{\\sqrt{15}}{4}$。\n• (B) 正確：體積 $|(\\vec a\\times\\vec b)\\cdot\\vec c| = |\\vec c|^2 = 16$。\n• (C) 正確：$\\vec c \\perp \\vec a$；$\\vec d = \\vec a\\times\\vec c$ 垂直 $\\vec a$ 與 $\\vec c$。\n• (D) 錯誤：$|\\vec d| = 4\\cdot4\\sin90^\\circ = 16$。\n• (E) 錯誤：$\\vec d = \\vec a\\times(\\vec a\\times\\vec b) = (\\vec a\\cdot\\vec b)\\vec a - 16\\vec b$，$\\vec b\\cdot\\vec d = (\\vec a\\cdot\\vec b)^2 - 256 = -256\\sin^2\\theta = -16$，夾角餘弦 $= \\dfrac{-16}{4\\cdot16} = -\\dfrac14 \\ne \\cos\\theta$。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "107-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 設 $O$ 為複數平面上的原點，並令點 $A, B$ 分別代表複數 $z_1, z_2$，且滿足 $|z_1| = 2$，$|z_2| = 3$，$|z_2 - z_1| = \\sqrt5$。若 $\\dfrac{z_2}{z_1} = a + bi$，其中 $a, b$ 為實數，$i = \\sqrt{-1}$。試選出正確的選項。",
+    "options": [
+      "$\\cos\\angle AOB = \\dfrac23$",
+      "$|z_2 + z_1| = \\sqrt{23}$",
+      "$a > 0$",
+      "$b > 0$",
+      "設點 $C$ 代表 $\\dfrac{z_2}{z_1}$，則 $\\angle BOC$ 可能等於 $\\dfrac{\\pi}{2}$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "• (A) 正確：$\\cos\\angle AOB = \\dfrac{4 + 9 - 5}{2\\cdot2\\cdot3} = \\dfrac23$。\n• (B) 錯誤：平行四邊形定律 $|z_1 + z_2|^2 = 2(4 + 9) - 5 = 21$。\n• (C) 正確：$\\dfrac{z_2}{z_1}$ 的絕對值 $\\dfrac32$、輻角為 $\\pm\\angle AOB$，$a = \\dfrac32\\cdot\\dfrac23 = 1 > 0$。\n• (D) 錯誤：$b$ 的正負取決於旋轉方向，不確定。\n• (E) 正確：$\\arg C - \\arg B = -\\arg z_1$，例如 $z_1 = 2i$ 時 $\\angle BOC = \\dfrac{\\pi}{2}$。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "107-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 設 $f(x)$ 為一定義在非零實數上的實數值函數。已知極限 $\\displaystyle\\lim_{x\\to0}f(x)\\frac{|x|}{x}$ 存在，試選出正確的選項。",
+    "options": [
+      "$\\displaystyle\\lim_{x\\to0}\\left(\\frac{x}{|x|}\\right)^2$ 存在",
+      "$\\displaystyle\\lim_{x\\to0}f(x)\\frac{x}{|x|}$ 存在",
+      "$\\displaystyle\\lim_{x\\to0}\\big(f(x) + 1\\big)\\frac{x}{|x|}$ 存在",
+      "$\\displaystyle\\lim_{x\\to0}f(x)$ 存在",
+      "$\\displaystyle\\lim_{x\\to0}f(x)^2$ 存在"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "令 $s(x) = \\dfrac{|x|}{x} = \\dfrac{x}{|x|}$（$x > 0$ 為 1、$x < 0$ 為 $-1$），已知 $g = f\\cdot s$ 有極限 $L$。\n• (A) 正確：$s^2 = 1$。\n• (B) 正確：$\\dfrac{x}{|x|} = \\dfrac{|x|}{x}$，就是同一個極限。\n• (C) 錯誤：$= g + s$，而 $s$ 沒有極限。\n• (D) 錯誤：$f = g\\cdot s$，$L \\ne 0$ 時左右極限為 $-L$ 與 $L$（例如 $f = s$）。\n• (E) 正確：$f^2 = g^2 \\to L^2$。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "107-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "A. 坐標平面上，已知圓 $C$ 通過點 $P(0, -5)$，其圓心在 $x = 2$ 上。若圓 $C$ 截 $x$ 軸所成之弦長為 6，則其半徑為 $\\sqrt{⑨⑩}$。（化成最簡根式）",
+    "blanks": [
+      "1",
+      "3"
+    ],
+    "blankLabels": [
+      "9",
+      "10"
+    ],
+    "explanation": "圓心 $(2, k)$：弦長 6 ⇒ $r^2 = k^2 + 9$；過 $P$ ⇒ $r^2 = 4 + (k + 5)^2$。\n相等得 $10k = -20$，$k = -2$，$r^2 = 13$，$r = \\sqrt{13}$。"
+  },
+  {
+    "id": "107-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "B. 假設某棒球隊在任一局發生失誤的機率都等於 $p$（其中 $0 < p < 1$），且各局之間發生失誤與否互相獨立。令隨機變數 $X$ 代表一場比賽 9 局中出現失誤的局數，且令 $p_k$ 代表 9 局中恰有 $k$ 局出現失誤的機率 $P(X = k)$。已知 $p_4 + p_5 = \\dfrac{45}{8}p_6$，則該球隊在一場 9 局的比賽中出現失誤局數的期望值為 $\\dfrac{⑪⑫}{⑬}$。（化成最簡分數）",
+    "blanks": [
+      "1",
+      "8",
+      "5"
+    ],
+    "blankLabels": [
+      "11",
+      "12",
+      "13"
+    ],
+    "explanation": "令 $q = 1 - p$。$p_4 + p_5 = 126p^4q^5 + 126p^5q^4 = 126p^4q^4$，$p_6 = 84p^6q^3$。\n$126p^4q^4 = \\dfrac{45}{8}\\cdot84p^6q^3 \\Rightarrow q = \\dfrac{15}{4}p^2 \\Rightarrow 15p^2 + 4p - 4 = 0$，$p = \\dfrac25$。\n期望值 $9p = \\dfrac{18}{5}$。"
+  },
+  {
+    "id": "107-ast-ma-C",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "C. 設 $A, B, C, D$ 為圓上的相異四點。已知圓的半徑為 $\\dfrac72$，$\\overline{AB} = 5$，兩線段 $\\overline{AC}$ 與 $\\overline{BD}$ 互相垂直，如圖所示（此為示意圖，非依實際比例）。則 $\\overline{CD}$ 的長度為 $⑭\\sqrt{⑮}$。（化成最簡根式）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/107-ast-ma-C.png\" alt=\"圓上四點 A、B、C、D，AC 與 BD 互相垂直\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "2",
+      "6"
+    ],
+    "blankLabels": [
+      "14",
+      "15"
+    ],
+    "explanation": "設 $\\overline{AC}$、$\\overline{BD}$ 交於 $P$ 且互相垂直，則 $\\angle ADB + \\angle DAC = 90^\\circ$。由正弦定理 $\\overline{AB} = 2R\\sin\\angle ADB$、$\\overline{CD} = 2R\\sin\\angle DAC = 2R\\cos\\angle ADB$，所以\n$$\\overline{AB}^2 + \\overline{CD}^2 = (2R)^2 = 49 \\implies \\overline{CD} = \\sqrt{24} = 2\\sqrt6$$"
+  },
+  {
+    "id": "107-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標空間中有一個正立方體 ABCDEFGH，如圖所示（此為示意圖），試回答下列問題。\n(1) 試證明 $A$ 點到平面 $BDE$ 的距離是對角線 $\\overline{AG}$ 長度的三分之一。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/107-ast-ma-non1.png\" alt=\"正立方體 ABCDEFGH，A、B、C、D 在底面，E、F、G、H 在頂面\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "blanks": [
+      "取 $A$ 為原點、邊長 $a$：平面 $BDE$ 為 $x + y + z = a$，距離 $\\dfrac{a}{\\sqrt3} = \\dfrac13\\cdot\\sqrt3a$"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "設邊長 $a$，以 $A$ 為原點，$\\overrightarrow{AB}, \\overrightarrow{AD}, \\overrightarrow{AE}$ 為三軸：$B(a,0,0)$、$D(0,a,0)$、$E(0,0,a)$、$G(a,a,a)$。\n平面 $BDE$：$x + y + z = a$，$A$ 到它的距離 $\\dfrac{a}{\\sqrt3}$；而 $\\overline{AG} = \\sqrt3a$。$\\dfrac{a}{\\sqrt3} = \\dfrac13\\cdot\\sqrt3a$，得證。"
+  },
+  {
+    "id": "107-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標空間中有一個正立方體 ABCDEFGH，如圖所示（此為示意圖），試回答下列問題。\n(2) 試證明向量 $\\overrightarrow{AG}$ 與平面 $BDE$ 垂直。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/107-ast-ma-non1.png\" alt=\"正立方體 ABCDEFGH，A、B、C、D 在底面，E、F、G、H 在頂面\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "$\\overrightarrow{AG} = (a, a, a)$ 平行平面 $BDE$ 的法向量 $(1, 1, 1)$"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "承 (1)，$\\overrightarrow{AG} = (a, a, a)$ 與平面 $x + y + z = a$ 的法向量 $(1, 1, 1)$ 平行，所以垂直該平面。"
+  },
+  {
+    "id": "107-ast-ma-non-1-3",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標空間中有一個正立方體 ABCDEFGH，如圖所示（此為示意圖），試回答下列問題。\n(3) 如果知道平面 $BDE$ 的方程式為 $2x + 2y - z = -7$，且 $A$ 點坐標為 $(2, 2, 6)$，試求出 $A$ 點到平面 $BDE$ 的距離。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/107-ast-ma-non1.png\" alt=\"正立方體 ABCDEFGH，A、B、C、D 在底面，E、F、G、H 在頂面\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "3"
+    ],
+    "blankLabels": [
+      "距離"
+    ],
+    "explanation": "$\\dfrac{|4 + 4 - 6 + 7|}{\\sqrt{4 + 4 + 1}} = \\dfrac93 = 3$。"
+  },
+  {
+    "id": "107-ast-ma-non-1-4",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標空間中有一個正立方體 ABCDEFGH，如圖所示（此為示意圖），試回答下列問題。\n(4) 承 (3)，試求出 $G$ 點的坐標。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/107-ast-ma-non1.png\" alt=\"正立方體 ABCDEFGH，A、B、C、D 在底面，E、F、G、H 在頂面\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "blanks": [
+      "$G(-4, -4, 9)$"
+    ],
+    "blankLabels": [
+      "G"
+    ],
+    "explanation": "$\\overline{AG} = 3\\times3 = 9$，方向沿平面法向量且朝向平面：$A$ 代入 $2x + 2y - z$ 得 $2 > -7$，所以往 $-(2, 2, -1)$ 方向。\n$G = (2, 2, 6) + 9\\cdot\\dfrac{(-2, -2, 1)}{3} = (-4, -4, 9)$。"
+  },
+  {
+    "id": "107-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】考慮三次多項式 $f(x) = -x^3 - 3x^2 + 3$。試回答下列問題。\n(1) 在坐標平面上，試描繪 $y = f(x)$ 的函數圖形，並標示極值所在點之坐標。（4 分）",
+    "points": 4,
+    "blanks": [
+      "極小值點 (−2, −1)",
+      "極大值點 (0, 3)"
+    ],
+    "blankLabels": [
+      "極小",
+      "極大"
+    ],
+    "explanation": "$f'(x) = -3x^2 - 6x = -3x(x + 2)$：$x < -2$ 遞減、$-2 < x < 0$ 遞增、$x > 0$ 遞減。\n極小值 $f(-2) = -1$，極大值 $f(0) = 3$；首項係數為負，左上到右下。"
+  },
+  {
+    "id": "107-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】考慮三次多項式 $f(x) = -x^3 - 3x^2 + 3$。試回答下列問題。\n(2) 令 $f(x) = 0$ 的實根為 $a_1, a_2, a_3$，其中 $a_1 < a_2 < a_3$。試求 $a_1, a_2, a_3$ 分別在哪兩個相鄰整數之間。（2 分）",
+    "points": 2,
+    "blanks": [
+      "$-3 < a_1 < -2$、$-2 < a_2 < -1$、$0 < a_3 < 1$"
+    ],
+    "blankLabels": [
+      "範圍"
+    ],
+    "explanation": "$f(-3) = 3$、$f(-2) = -1$、$f(-1) = 1$、$f(0) = 3$、$f(1) = -1$，由勘根定理：$a_1 \\in (-3, -2)$、$a_2 \\in (-2, -1)$、$a_3 \\in (0, 1)$。"
+  },
+  {
+    "id": "107-ast-ma-non-2-3",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】考慮三次多項式 $f(x) = -x^3 - 3x^2 + 3$。試回答下列問題。\n(3) 承 (2)，試說明 $f(x) = a_1$、$f(x) = a_2$、$f(x) = a_3$ 各有幾個相異實根。（4 分）",
+    "points": 4,
+    "blanks": [
+      "各有 1、1、3 個"
+    ],
+    "blankLabels": [
+      "個數"
+    ],
+    "explanation": "水平線 $y = k$ 與圖形的交點數：$k < -1$ 或 $k > 3$ 時 1 個，$-1 < k < 3$ 時 3 個。\n$a_1, a_2 < -1$，各 1 個；$-1 < a_3 < 3$，3 個。"
+  },
+  {
+    "id": "107-ast-ma-non-2-4",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】考慮三次多項式 $f(x) = -x^3 - 3x^2 + 3$。試回答下列問題。\n(4) 試求 $f(f(x)) = 0$ 有幾個相異實根（註：$f(f(x)) = -(f(x))^3 - 3(f(x))^2 + 3$）。（2 分）",
+    "points": 2,
+    "blanks": [
+      "5 個"
+    ],
+    "blankLabels": [
+      "個數"
+    ],
+    "explanation": "$f(f(x)) = 0 \\iff f(x) \\in \\{a_1, a_2, a_3\\}$，三組解互不相同，共 $1 + 1 + 3 = 5$ 個。"
   }
 ]
