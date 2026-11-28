@@ -227560,5 +227560,329 @@
       "向量 AC"
     ],
     "explanation": "$L_3$ 斜率 3，設 $\\overrightarrow{AC} = t(1, 3)$。$\\overrightarrow{AB}\\cdot\\overrightarrow{AC} = t(-2\\sqrt5 + 3\\sqrt5) = \\sqrt5\\,t = 25$，$t = 5\\sqrt5$。\n$\\overrightarrow{AC} = (5\\sqrt5, 15\\sqrt5)$。"
+  },
+  {
+    "id": "109m-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 考慮兩個函數 $f(x) = \\begin{cases} 1 + x, & x \\le 1 \\\\ 1, & x > 1 \\end{cases}$、$g(x) = \\begin{cases} 1, & x \\le 1 \\\\ 3 - x, & x > 1 \\end{cases}$。關於函數的極限，試選出正確的選項。",
+    "options": [
+      "$\\displaystyle\\lim_{x\\to1}f(x)$ 存在、$\\displaystyle\\lim_{x\\to1}g(x)$ 存在、$\\displaystyle\\lim_{x\\to1}\\big(f(x) + g(x)\\big)$ 存在",
+      "$\\displaystyle\\lim_{x\\to1}f(x)$ 存在、$\\displaystyle\\lim_{x\\to1}g(x)$ 不存在、$\\displaystyle\\lim_{x\\to1}\\big(f(x) + g(x)\\big)$ 不存在",
+      "$\\displaystyle\\lim_{x\\to1}f(x)$ 不存在、$\\displaystyle\\lim_{x\\to1}g(x)$ 存在、$\\displaystyle\\lim_{x\\to1}\\big(f(x) + g(x)\\big)$ 不存在",
+      "$\\displaystyle\\lim_{x\\to1}f(x)$ 不存在、$\\displaystyle\\lim_{x\\to1}g(x)$ 不存在、$\\displaystyle\\lim_{x\\to1}\\big(f(x) + g(x)\\big)$ 存在",
+      "$\\displaystyle\\lim_{x\\to1}f(x)$ 不存在、$\\displaystyle\\lim_{x\\to1}g(x)$ 不存在、$\\displaystyle\\lim_{x\\to1}\\big(f(x) + g(x)\\big)$ 不存在"
+    ],
+    "answerIndex": 3,
+    "explanation": "• $f$：左極限 2、右極限 1，不存在。\n• $g$：左極限 1、右極限 2，不存在。\n• $f + g$：左極限 3、右極限 3，存在。\n\n故選 (D)"
+  },
+  {
+    "id": "109m-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 某質點在數線上移動，已知其位置坐標為 $s(t) = \\displaystyle\\int_0^t(-x^2 + 6x)\\,dx$，其中 $t$ 表時間且 $0 \\le t \\le 10$。若此質點的速度在時段 $0 \\le t < a$ 遞增，且在時段 $a < t \\le 10$ 遞減，試選出正確的 $a$ 值。",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answerIndex": 0,
+    "explanation": "速度 $v(t) = s'(t) = -t^2 + 6t$，$v'(t) = -2t + 6$：$t < 3$ 遞增、$t > 3$ 遞減，$a = 3$。\n\n故選 (A)"
+  },
+  {
+    "id": "109m-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 在坐標平面上，其 $x$ 坐標與 $y$ 坐標都是整數的點稱為「格子點」。試問滿足方程式 $\\log_2(x - 1) = \\log_4(25 - y^2)$ 的格子點 $(x, y)$ 共有幾個？",
+    "options": [
+      "4 個",
+      "5 個",
+      "6 個",
+      "8 個",
+      "12 個"
+    ],
+    "answerIndex": 1,
+    "explanation": "$\\log_4(25 - y^2) = \\log_2\\sqrt{25 - y^2}$，所以 $x - 1 = \\sqrt{25 - y^2}$，即 $(x - 1)^2 + y^2 = 25$ 且 $x - 1 > 0$。\n整數解：$x - 1 = 5, y = 0$；$x - 1 = 4, y = \\pm3$；$x - 1 = 3, y = \\pm4$，共 5 個。\n\n故選 (B)"
+  },
+  {
+    "id": "109m-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 設二階方陣 $M$ 為在坐標平面上定義的線性變換，$O$ 為原點。已知 $M$ 可將不共線的三點 $O$、$A$、$B$ 映射至不共線的三點 $O$、$A'$、$B'$，試選出正確的選項。",
+    "options": [
+      "$M$ 為可逆矩陣",
+      "若 $M$ 將點 $C$ 映射至點 $C'$ 且 $\\overrightarrow{OC} = 2\\overrightarrow{OA} + 3\\overrightarrow{OB}$，則 $\\overrightarrow{OC'} = 2\\overrightarrow{OA'} + 3\\overrightarrow{OB'}$",
+      "$\\angle AOB = \\angle A'OB'$",
+      "$\\overline{OA} : \\overline{OB} = \\overline{OA'} : \\overline{OB'}$",
+      "$\\triangle OA'B'$ 的面積 $= \\triangle OAB$ 的面積 $\\times|\\det(M)|$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "• (A) 正確：兩個不平行的向量映成不平行的向量，$\\det M \\ne 0$。\n• (B) 正確：線性變換保持線性組合。\n• (C)(D) 錯誤：一般線性變換不保持角度與長度比（例如 $M = \\begin{bmatrix} 2 & 0 \\\\ 0 & 1 \\end{bmatrix}$）。\n• (E) 正確：面積縮放倍率為 $|\\det M|$。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "109m-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 下列選項中，試選出與 $\\cos\\dfrac{\\pi}{7} + i\\sin\\dfrac{\\pi}{7}$ 相乘之後會得到實數的選項。（註：$i = \\sqrt{-1}$）",
+    "options": [
+      "$\\cos\\dfrac{\\pi}{7} + i\\sin\\dfrac{\\pi}{7}$",
+      "$\\cos\\dfrac{\\pi}{7} - i\\sin\\dfrac{\\pi}{7}$",
+      "$-\\sin\\dfrac{5\\pi}{14} + i\\cos\\dfrac{5\\pi}{14}$",
+      "$\\sin\\dfrac{\\pi}{7} + i\\cos\\dfrac{\\pi}{7}$",
+      "$\\sin\\dfrac{\\pi}{7} - i\\cos\\dfrac{\\pi}{7}$"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "乘積為實數 ⇔ 另一數的輻角 $\\equiv -\\dfrac{\\pi}{7}$（模 $\\pi$）。\n• (A) 輻角 $\\dfrac{\\pi}{7}$，乘積輻角 $\\dfrac{2\\pi}{7}$，錯誤。\n• (B) 輻角 $-\\dfrac{\\pi}{7}$，乘積為 1，正確。\n• (C) $= \\cos\\left(\\dfrac{\\pi}{2} + \\dfrac{5\\pi}{14}\\right) + i\\sin\\left(\\dfrac{\\pi}{2} + \\dfrac{5\\pi}{14}\\right)$，輻角 $\\dfrac{6\\pi}{7}$，乘積輻角 $\\pi$，為 $-1$，正確。\n• (D) 輻角 $\\dfrac{\\pi}{2} - \\dfrac{\\pi}{7} = \\dfrac{5\\pi}{14}$，乘積輻角 $\\dfrac{\\pi}{2}$（純虛數），錯誤。\n• (E) 輻角 $\\dfrac{\\pi}{7} - \\dfrac{\\pi}{2} = -\\dfrac{5\\pi}{14}$，乘積輻角 $-\\dfrac{3\\pi}{14}$，錯誤。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "109m-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 持續投擲一枚公正骰子，在過程中若出現連續兩次點數的和為 7 時，就停止投擲。例如：若前兩次投擲分別出現點數 1、4，點數和不等於 7，所以繼續投擲；若第三次投出點數 3，因為第二次與第三次點數和為 7，所以此時即停止投擲。關於此機率事件，試選出正確的選項。",
+    "options": [
+      "在第一次投擲的點數為 6 的情況下，總共投擲兩次就停的機率為 $\\dfrac16$",
+      "總共投擲兩次就停止的機率為 $\\dfrac16$",
+      "在第一次投擲的點數為 5 的情況下，總共投擲三次恰好停止的機率為 $\\dfrac16$",
+      "總共投擲三次恰好停止的機率大於 $\\dfrac16$",
+      "至少投擲三次才停止的機率為 $\\dfrac12$"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "不論前一次是幾點，下一次湊成 7 的機率都是 $\\dfrac16$。\n• (A) 正確：第二次要擲 1。\n• (B) 正確：任何第一次，第二次湊 7 的機率 $\\dfrac16$。\n• (C) 錯誤：第二次不能湊 7（$\\dfrac56$），第三次要湊 7（$\\dfrac16$）：$\\dfrac{5}{36}$。\n• (D) 錯誤：$\\dfrac56\\cdot\\dfrac16 = \\dfrac{5}{36} < \\dfrac16$。\n• (E) 錯誤：$1 - \\dfrac16 = \\dfrac56$。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "109m-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 關於非常數的實係數多項式函數 $f(x)$，試選出正確的選項。",
+    "options": [
+      "若 $f(1)f(2) < 0$，則存在 $c \\in (1, 2)$ 滿足 $f(c) = 0$",
+      "若 $f(1)f(2) > 0$，則對任意的 $c \\in (1, 2)$，$f(c) \\ne 0$ 均成立",
+      "若 $f(1)f(2)f(3) < 0$，則存在 $c \\in (1, 3)$ 滿足 $f(c) = 0$",
+      "若 $\\left(\\displaystyle\\int_0^1 f(x)\\,dx\\right)\\left(\\displaystyle\\int_0^2 f(x)\\,dx\\right) < 0$，則存在 $c \\in (1, 2)$ 滿足 $\\displaystyle\\int_0^c f(x)\\,dx = 0$",
+      "若 $\\displaystyle\\int_1^2 f(x)\\,dx = 0$，則 $f(1)f(2) < 0$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "• (A) 正確：勘根定理。\n• (B) 錯誤：例如 $f(x) = (x - 1.5)^2 - 0.01$，$f(1), f(2) > 0$，但中間有根。\n• (C) 錯誤：三個值都為負時乘積也為負，例如 $f(x) = -1 - x^2$ 沒有實根。\n• (D) 正確：$F(c) = \\displaystyle\\int_0^c f$ 連續，$F(1)F(2) < 0$，由勘根定理存在 $c \\in (1, 2)$ 使 $F(c) = 0$。\n• (E) 錯誤：例如 $f(x) = (x - 1)(x - 2) + \\dfrac16$，$\\displaystyle\\int_1^2 f = -\\dfrac16 + \\dfrac16 = 0$，但 $f(1) = f(2) = \\dfrac16$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "109m-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 設 $a, b, c$ 為三實數，且 $a > b > c$。已知 $2^a, 2^b, 2^c$ 三數依序成等差數列。試選出正確的選項。",
+    "options": [
+      "$a, b, c$ 三數依序成等比數列",
+      "$2^{a+100}, 2^{b+100}, 2^{c+100}$ 三數依序成等差數列",
+      "$4^a, 4^b, 4^c$ 三數依序成等差數列",
+      "$a < b + 1$",
+      "$b \\ge \\dfrac{a + c}{2}$"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "$2\\cdot2^b = 2^a + 2^c$。\n• (A) 錯誤：沒有理由成立（例如 $a = 2$、$c = 0$，$b = \\log_2\\dfrac52$）。\n• (B) 正確：每項乘以 $2^{100}$ 仍為等差。\n• (C) 錯誤：令 $x = 2^a$、$z = 2^c$，$2\\cdot4^b = \\dfrac{(x + z)^2}{2} < x^2 + z^2$（$x \\ne z$）。\n• (D) 正確：$2^{b+1} = 2^a + 2^c > 2^a$。\n• (E) 正確：算幾不等式 $2^b = \\dfrac{2^a + 2^c}{2} \\ge \\sqrt{2^a2^c} = 2^{\\frac{a+c}{2}}$。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "109m-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "A. 不透明箱內有 4 顆紅球，8 顆藍球與 13 顆白球。隨機同時抽取 2 球（每顆球被抽到的機率相等），若抽出的兩球同色，可得獎金 450 元；若抽出的兩球異色，可得獎金 75 元。則隨機同時抽取 2 球的獎金期望值為 ⑨⑩⑪ 元。",
+    "blanks": [
+      "2",
+      "1",
+      "5"
+    ],
+    "blankLabels": [
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation": "$\\dbinom{25}{2} = 300$；同色 $\\dbinom42 + \\dbinom82 + \\dbinom{13}{2} = 6 + 28 + 78 = 112$，異色 188。\n期望值 $= \\dfrac{112\\times450 + 188\\times75}{300} = \\dfrac{50400 + 14100}{300} = 215$ 元。"
+  },
+  {
+    "id": "109m-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "B. 在坐標平面上，一圓心在 $y$ 軸正向上的圓，與直線 $y = mx$ 相切，其中 $m > 0$。若此圓圓心與 $x$ 軸的距離和切點與 $x$ 軸的距離之比值為 5，則 $m = \\dfrac{⑫}{⑬}$。（化成最簡分數）",
+    "blanks": [
+      "1",
+      "2"
+    ],
+    "blankLabels": [
+      "12",
+      "13"
+    ],
+    "explanation": "圓心 $(0, k)$，切點是圓心在直線上的投影：$\\dfrac{k\\,m}{1 + m^2}(1, m)$，其 $y$ 坐標 $\\dfrac{km^2}{1 + m^2}$。\n比值 $\\dfrac{1 + m^2}{m^2} = 5$，$m^2 = \\dfrac14$，$m = \\dfrac12$。"
+  },
+  {
+    "id": "109m-ast-ma-C",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "C. 等腰三角形 $ABC$ 中，令 $\\theta = \\angle BAC$。若 $\\overline{AB}^2 = \\overline{AC}^2 = \\overline{BC} = \\sin\\theta$，則三角形 $ABC$ 的面積為 $\\dfrac{⑭}{⑮⑯}$。（化成最簡分數）",
+    "blanks": [
+      "8",
+      "2",
+      "5"
+    ],
+    "blankLabels": [
+      "14",
+      "15",
+      "16"
+    ],
+    "explanation": "設 $\\overline{AB}^2 = \\overline{AC}^2 = \\overline{BC} = s$（$s = \\sin\\theta$）。餘弦定理：$\\overline{BC}^2 = 2s - 2s\\cos\\theta$，即 $\\sin^2\\theta = 2\\sin\\theta(1 - \\cos\\theta)$，$\\sin\\theta = 2(1 - \\cos\\theta)$。\n半角：$2\\sin\\dfrac\\theta2\\cos\\dfrac\\theta2 = 4\\sin^2\\dfrac\\theta2$，$\\tan\\dfrac\\theta2 = \\dfrac12$，$\\sin\\theta = \\dfrac{2\\cdot\\frac12}{1 + \\frac14} = \\dfrac45$。\n面積 $= \\dfrac12\\,\\overline{AB}\\cdot\\overline{AC}\\sin\\theta = \\dfrac12\\sin^2\\theta = \\dfrac{8}{25}$。"
+  },
+  {
+    "id": "109m-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標空間中，設 $E$ 為過原點且由向量 $\\vec u = (2, 0, 1)$、$\\vec v = (0, 1, 1)$ 所張出的平面。將空間中兩點 $A$、$B$ 垂直投影到平面 $E$ 上，所得投影點依序為 $A'$、$B'$ 兩點。已知 $\\overrightarrow{AB}\\cdot\\vec u = 5$、$\\overrightarrow{AB}\\cdot\\vec v = 2$，試回答下列問題。\n(1) 若平面 $E$ 方程式為 $x + by + cz = d$，試求實數 $b, c, d$ 之值。（4 分）",
+    "points": 4,
+    "blanks": [
+      "b = 2",
+      "c = −2",
+      "d = 0"
+    ],
+    "blankLabels": [
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "法向量 $\\vec u\\times\\vec v = (-1, -2, 2)$，過原點：$x + 2y - 2z = 0$。$b = 2$、$c = -2$、$d = 0$。"
+  },
+  {
+    "id": "109m-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標空間中，設 $E$ 為過原點且由向量 $\\vec u = (2, 0, 1)$、$\\vec v = (0, 1, 1)$ 所張出的平面。將空間中兩點 $A$、$B$ 垂直投影到平面 $E$ 上，所得投影點依序為 $A'$、$B'$ 兩點。已知 $\\overrightarrow{AB}\\cdot\\vec u = 5$、$\\overrightarrow{AB}\\cdot\\vec v = 2$，試回答下列問題。\n(2) 試證明 $\\overrightarrow{A'B'}\\cdot\\vec u = \\overrightarrow{AB}\\cdot\\vec u$。（2 分）",
+    "points": 2,
+    "blanks": [
+      "$\\overrightarrow{A'A}$、$\\overrightarrow{BB'}$ 都垂直 $E$，與 $\\vec u$ 垂直"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "$\\overrightarrow{A'B'} = \\overrightarrow{A'A} + \\overrightarrow{AB} + \\overrightarrow{BB'}$。$\\overrightarrow{A'A}$、$\\overrightarrow{BB'}$ 都垂直平面 $E$，而 $\\vec u$ 在 $E$ 上，所以它們與 $\\vec u$ 的內積為 0，得 $\\overrightarrow{A'B'}\\cdot\\vec u = \\overrightarrow{AB}\\cdot\\vec u$。"
+  },
+  {
+    "id": "109m-ast-ma-non-1-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標空間中，設 $E$ 為過原點且由向量 $\\vec u = (2, 0, 1)$、$\\vec v = (0, 1, 1)$ 所張出的平面。將空間中兩點 $A$、$B$ 垂直投影到平面 $E$ 上，所得投影點依序為 $A'$、$B'$ 兩點。已知 $\\overrightarrow{AB}\\cdot\\vec u = 5$、$\\overrightarrow{AB}\\cdot\\vec v = 2$，試回答下列問題。\n(3) 若 $\\overrightarrow{A'B'} = \\alpha\\vec u + \\beta\\vec v$，試求實數 $\\alpha, \\beta$ 之值。（6 分）",
+    "points": 6,
+    "blanks": [
+      "$\\alpha = \\dfrac89$",
+      "$\\beta = \\dfrac59$"
+    ],
+    "blankLabels": [
+      "α",
+      "β"
+    ],
+    "explanation": "同 (2)，$\\overrightarrow{A'B'}\\cdot\\vec u = 5$、$\\overrightarrow{A'B'}\\cdot\\vec v = 2$。又 $\\vec u\\cdot\\vec u = 5$、$\\vec v\\cdot\\vec v = 2$、$\\vec u\\cdot\\vec v = 1$：\n$5\\alpha + \\beta = 5$、$\\alpha + 2\\beta = 2$，解得 $\\alpha = \\dfrac89$、$\\beta = \\dfrac59$。"
+  },
+  {
+    "id": "109m-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $f(x) = x^3 + bx^2 + cx + d$ 為三次實係數多項式函數。已知 $f'(x)$ 是 $f(x)$ 的因式，試回答下列問題。\n(1) 若 $f(x) = \\dfrac13f'(x)(x + k)$，其中 $k$ 為實數，試求出 $b$（以 $k$ 的數學式表示）。（4 分）",
+    "points": 4,
+    "blanks": [
+      "b = 3k"
+    ],
+    "blankLabels": [
+      "b"
+    ],
+    "explanation": "$\\dfrac13(3x^2 + 2bx + c)(x + k) = x^3 + \\left(\\dfrac23b + k\\right)x^2 + \\cdots$，比較 $x^2$ 係數：$b = \\dfrac23b + k$，$b = 3k$。"
+  },
+  {
+    "id": "109m-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $f(x) = x^3 + bx^2 + cx + d$ 為三次實係數多項式函數。已知 $f'(x)$ 是 $f(x)$ 的因式，試回答下列問題。\n(2) 試證明 $f'(x) = 0$ 有重根。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$f(x) = (x + k)^3$，$f'(x) = 3(x + k)^2$"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "$f'$ 是 $f$ 的因式且 $f$ 的首項係數 1、$f'$ 的首項係數 3，所以 $f = \\dfrac13f'(x)(x + k)$。比較其他係數（$b = 3k$ 代入）得 $c = 3k^2$、$d = k^3$，$f(x) = (x + k)^3$，$f'(x) = 3(x + k)^2$ 有重根 $-k$。"
+  },
+  {
+    "id": "109m-ast-ma-non-2-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $f(x) = x^3 + bx^2 + cx + d$ 為三次實係數多項式函數。已知 $f'(x)$ 是 $f(x)$ 的因式，試回答下列問題。\n(3) 若知 $f(-1) = 0$，試求積分 $\\displaystyle\\int_0^1 f(x)\\,dx$ 之值。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$\\dfrac{15}{4}$"
+    ],
+    "blankLabels": [
+      "積分值"
+    ],
+    "explanation": "$f(-1) = (k - 1)^3 = 0$，$k = 1$，$f(x) = (x + 1)^3$。\n$\\displaystyle\\int_0^1(x + 1)^3dx = \\left[\\frac{(x + 1)^4}{4}\\right]_0^1 = \\frac{16 - 1}{4} = \\frac{15}{4}$。"
   }
 ]
