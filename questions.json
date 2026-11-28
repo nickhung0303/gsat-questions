@@ -231531,5 +231531,406 @@
       "最大利潤"
     ],
     "explanation": "設平地 $x$、山坡地 $y$ 單位：$30x + 20y \\le 80$（$3x + 2y \\le 8$）、$40x + 50y \\le 130$（$4x + 5y \\le 13$）、$x, y \\ge 0$；目標 $120x + 90y$。\n頂點 $(0, 0)$、$\\left(\\dfrac83, 0\\right)$、$(2, 1)$、$\\left(0, \\dfrac{13}{5}\\right)$，目標值 0、320、330、234。\n租平地 2 單位、山坡地 1 單位，最大利潤 330 萬元。"
+  },
+  {
+    "id": "104-gsat-math-01",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "points": 5,
+    "question": "1. 每週同一時間點記錄某植物的成長高度，連續五週的數據為 $a_1 = 1, a_2 = 2, a_3 = 6, a_4 = 15, a_5 = 31$。請問此成長高度數列滿足下列選項中哪一個式子？",
+    "options": [
+      "$a_{t+1} = 3a_t - 1$，$t = 1, 2, 3, 4$",
+      "$a_t = t!$，$t = 1, 2, 3, 4, 5$",
+      "$a_{t+1} = a_t + t^2$，$t = 1, 2, 3, 4$",
+      "$a_t = 2^t - 1$，$t = 1, 2, 3, 4, 5$",
+      "$a_{t+1} = ta_t + 1$，$t = 1, 2, 3, 4$"
+    ],
+    "answerIndex": 2,
+    "explanation": "相鄰差為 1、4、9、16，恰為 $t^2$：$a_{t+1} = a_t + t^2$。\n其他選項：(A) $3\\cdot2 - 1 = 5 \\ne 6$；(B) $3! = 6$ 但 $4! = 24$；(D) $a_1 = 1$、$a_2 = 3$；(E) $2\\cdot2 + 1 = 5 \\ne 6$。\n\n故選 (C)"
+  },
+  {
+    "id": "104-gsat-math-02",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "points": 5,
+    "question": "2. 第 1 天獲得 1 元、第 2 天獲得 2 元、第 3 天獲得 4 元、第 4 天獲得 8 元、依此每天所獲得的錢為前一天的兩倍，如此進行到第 30 天，試問這 30 天所獲得的錢，總數最接近下列哪一個選項？",
+    "options": [
+      "10,000 元",
+      "1,000,000 元",
+      "100,000,000 元",
+      "1,000,000,000 元",
+      "1,000,000,000,000 元"
+    ],
+    "answerIndex": 3,
+    "explanation": "總數 $2^{30} - 1$，$2^{10} = 1024 \\approx 10^3$，$2^{30} \\approx 1.07\\times10^9$。\n\n故選 (D)"
+  },
+  {
+    "id": "104-gsat-math-03",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "points": 5,
+    "question": "3. 有兩組供機器運作的配件 $A$、$B$，其單獨發生故障的機率分別為 0.1、0.15。只有當 $A, B$ 都發生故障時，此機器才無法運作。$A$、$B$ 兩配件若用串接方式，前面故障會導致後面故障，但若後面故障則不會影響前面的故障情形；若用並列方式，則故障情形互不影響。若考慮以下三種情形：（一）將 $B$ 串接於 $A$ 之後；（二）將 $A$ 串接於 $B$ 之後；（三）將 $A, B$ 獨立並列。在情況（一）、（二）、（三）之下，機器無法運作的機率分別為 $p_1$、$p_2$、$p_3$。請選出正確的選項。",
+    "options": [
+      "$p_1 > p_2 > p_3$",
+      "$p_2 > p_1 > p_3$",
+      "$p_3 > p_2 > p_1$",
+      "$p_3 > p_1 > p_2$",
+      "$p_1 = p_2 > p_3$"
+    ],
+    "answerIndex": 1,
+    "explanation": "• （一）$A$ 在前：$A$ 故障必帶動 $B$ 故障，兩者都故障 ⇔ $A$ 故障，$p_1 = 0.1$。\n• （二）$B$ 在前：同理 $p_2 = 0.15$。\n• （三）獨立：$p_3 = 0.1\\times0.15 = 0.015$。\n$p_2 > p_1 > p_3$。\n\n故選 (B)"
+  },
+  {
+    "id": "104-gsat-math-04",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "points": 5,
+    "question": "4. 一線性規劃問題的可行解區域為坐標平面上的正八邊形 $ABCDEFGH$ 及其內部，如右圖。已知目標函數 $ax + by + 3$（其中 $a, b$ 為實數）的最大值只發生在 $B$ 點。請問當目標函數改為 $3 - bx - ay$ 時，最大值會發生在下列哪一點？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-gsat-math-04.png\" alt=\"正八邊形 ABCDEFGH，H、A 在底邊，B、C 在右邊，D、E 在頂邊，F、G 在左邊\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answerIndex": 0,
+    "explanation": "以正八邊形中心為原點看方向（平移只改變常數）：各頂點方向為 $A$：$-67.5^\\circ$、$B$：$-22.5^\\circ$、$C$：$22.5^\\circ$、$D$：$67.5^\\circ$……\n• $ax + by$ 只在 $B$ 取最大值，向量 $(a, b)$ 的方向角 $\\varphi$ 必在 $(-45^\\circ, 0^\\circ)$ 之間。\n• $3 - bx - ay$ 最大 ⇔ $(-b, -a)\\cdot(x, y)$ 最大。$(-b, -a)$ 的方向角為 $-90^\\circ - \\varphi$，落在 $(-90^\\circ, -45^\\circ)$。\n• 方向角在 $(-90^\\circ, -45^\\circ)$ 時，最遠的頂點是 $A$（$-67.5^\\circ$）。\n\n故選 (A)"
+  },
+  {
+    "id": "104-gsat-math-05",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "5. 小明參加某次路跑 10 公里組的比賽，下表為小明手錶所記錄之各公里的完成時間、平均心率及步數。在這 10 公里的比賽過程，請依據上述數據，選出正確的選項。",
+    "svg": "<svg viewBox=\"0 0 354 294\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:424.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"90\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"21.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"92\" y=\"4\" width=\"90\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"21.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">完成時間</text><rect x=\"182\" y=\"4\" width=\"90\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"21.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">平均心率</text><rect x=\"272\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"21.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">步數</text><rect x=\"2\" y=\"30\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"47.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">第一公里</text><rect x=\"92\" y=\"30\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"47.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">5:00</text><rect x=\"182\" y=\"30\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"47.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">161</text><rect x=\"272\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"47.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">990</text><rect x=\"2\" y=\"56\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"73.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">第二公里</text><rect x=\"92\" y=\"56\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"73.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4:50</text><rect x=\"182\" y=\"56\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"73.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">162</text><rect x=\"272\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"73.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1000</text><rect x=\"2\" y=\"82\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"99.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">第三公里</text><rect x=\"92\" y=\"82\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"99.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4:50</text><rect x=\"182\" y=\"82\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"99.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">165</text><rect x=\"272\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"99.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1005</text><rect x=\"2\" y=\"108\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"125.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">第四公里</text><rect x=\"92\" y=\"108\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"125.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4:55</text><rect x=\"182\" y=\"108\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"125.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">162</text><rect x=\"272\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"125.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">995</text><rect x=\"2\" y=\"134\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"151.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">第五公里</text><rect x=\"92\" y=\"134\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"151.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4:40</text><rect x=\"182\" y=\"134\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"151.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">171</text><rect x=\"272\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"151.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1015</text><rect x=\"2\" y=\"160\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"177.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">第六公里</text><rect x=\"92\" y=\"160\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"177.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4:41</text><rect x=\"182\" y=\"160\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"177.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">170</text><rect x=\"272\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"177.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1005</text><rect x=\"2\" y=\"186\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"203.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">第七公里</text><rect x=\"92\" y=\"186\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"203.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4:35</text><rect x=\"182\" y=\"186\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"203.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">173</text><rect x=\"272\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"203.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1050</text><rect x=\"2\" y=\"212\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"229.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">第八公里</text><rect x=\"92\" y=\"212\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"229.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4:35</text><rect x=\"182\" y=\"212\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"229.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">181</text><rect x=\"272\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"229.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1050</text><rect x=\"2\" y=\"238\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"255.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">第九公里</text><rect x=\"92\" y=\"238\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"255.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4:40</text><rect x=\"182\" y=\"238\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"255.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">171</text><rect x=\"272\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"255.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1050</text><rect x=\"2\" y=\"264\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"281.6666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">第十公里</text><rect x=\"92\" y=\"264\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"137\" y=\"281.6666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">4:34</text><rect x=\"182\" y=\"264\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"227\" y=\"281.6666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">188</text><rect x=\"272\" y=\"264\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"281.6666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1100</text></svg>",
+    "options": [
+      "由每公里的平均心率得知小明最高心率為 188",
+      "小明此次路跑，每步距離的平均小於 1 公尺",
+      "每公里完成時間和每公里平均心率的相關係數為正相關",
+      "每公里步數和每公里平均心率的相關係數為正相關",
+      "每公里完成時間和每公里步數的相關係數為負相關"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "• (A) 錯誤：188 是第十公里的「平均」心率，瞬間最高心率可能更高。\n• (B) 正確：總步數 10260，$\\dfrac{10000}{10260} < 1$ 公尺。\n• (C) 錯誤：時間越短心率越高，為負相關。\n• (D) 正確：步數多時心率也高。\n• (E) 正確：步數多（步頻快）時完成時間短。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "104-gsat-math-06",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "6. 設 $f(x)$ 是首項係數為 1 的實係數二次多項式。請選出正確的選項。",
+    "options": [
+      "若 $f(2) = 0$，則 $x - 2$ 可整除 $f(x)$",
+      "若 $f(2) = 0$，則 $f(x)$ 為整係數多項式",
+      "若 $f(\\sqrt2) = 0$，則 $f(-\\sqrt2) = 0$",
+      "若 $f(2i) = 0$，則 $f(-2i) = 0$",
+      "若 $f(2i) = 0$，則 $f(x)$ 為整係數多項式"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "• (A) 正確：因式定理。\n• (B) 錯誤：例如 $(x - 2)(x - \\sqrt3)$。\n• (C) 錯誤：例如 $(x - \\sqrt2)(x - 1)$；只有有理係數才保證 $\\pm\\sqrt2$ 成對。\n• (D) 正確：實係數，虛根共軛成對。\n• (E) 正確：$f(x) = (x - 2i)(x + 2i) = x^2 + 4$。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "104-gsat-math-07",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "7. 坐標平面上，在函數圖形 $y = 2^x$ 上，標示 $A$、$B$、$C$、$D$ 四個點，其 $x$ 坐標分別為 $-1$、0、1、2。請選出正確的選項。",
+    "options": [
+      "點 $B$ 落在直線 $AC$ 下方",
+      "在直線 $AB$、直線 $BC$、直線 $CD$ 中，以直線 $CD$ 的斜率最大",
+      "$A$、$B$、$C$、$D$ 四個點，以點 $B$ 最靠近 $x$ 軸",
+      "直線 $y = 2x$ 與 $y = 2^x$ 的圖形有兩個交點",
+      "點 $A$ 與點 $C$ 對稱於 $y$ 軸"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "$A\\left(-1, \\dfrac12\\right)$、$B(0, 1)$、$C(1, 2)$、$D(2, 4)$。\n• (A) 正確：直線 $AC$ 在 $x = 0$ 時 $y = \\dfrac54 > 1$（指數函數凹口向上）。\n• (B) 正確：斜率 $\\dfrac12$、1、2。\n• (C) 錯誤：$A$ 的 $y$ 坐標 $\\dfrac12$ 最小。\n• (D) 正確：$x = 1$、$x = 2$ 兩交點。\n• (E) 錯誤：$y$ 坐標不同。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "104-gsat-math-08",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 坐標平面上有一雙曲線，其漸近線為 $x - y = 0$ 和 $x + y = 0$。關於此雙曲線的性質，請選出正確的選項。",
+    "options": [
+      "此雙曲線的方程式為 $\\dfrac{x^2}{r^2} - \\dfrac{y^2}{r^2} = 1$ 或 $\\dfrac{x^2}{r^2} - \\dfrac{y^2}{r^2} = -1$，其中 $r$ 為非零實數",
+      "此雙曲線的貫軸長等於共軛軸長",
+      "若點 $(a, b)$ 為此雙曲線在第一象限上一點，則當 $a > 1000$ 時，$|a - b| < 1$",
+      "若點 $(a, b)$、$(a', b')$ 為此雙曲線在第一象限上兩點且 $a < a'$，則 $b < b'$",
+      "此雙曲線同時對稱於 $x$ 軸與 $y$ 軸"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explanation": "• (A) 正確：漸近線為 $y = \\pm x$ 的雙曲線（中心在原點）為 $x^2 - y^2 = \\pm r^2$。\n• (B) 正確：$a = b = |r|$。\n• (C) 錯誤：$|a - b| = \\dfrac{r^2}{a + b}$，$r$ 很大時（例如 $r = 10^4$、$a = 10^4 + 1$）$|a - b|$ 很大。\n• (D) 正確：在第一象限，兩種雙曲線的那一支都是 $y$ 隨 $x$ 遞增。\n• (E) 正確。\n\n故選 (A)(B)(D)(E)"
+  },
+  {
+    "id": "104-gsat-math-09",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 如圖，以 $M$ 為圓心、$\\overline{MA} = 8$ 為半徑畫圓，$\\overline{AE}$ 為該圓的直徑，$B$、$C$、$D$ 三點皆在圓上，且 $\\overline{AB} = \\overline{BC} = \\overline{CD} = \\overline{DE}$。若 $\\overrightarrow{MD} = 8(\\cos(\\theta + 90^\\circ), \\sin(\\theta + 90^\\circ))$。請選出正確的選項。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-gsat-math-09.png\" alt=\"半圓上依序 A、B、C、D、E，AE 為直徑，M 為圓心\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\overrightarrow{MA} = 8(\\cos\\theta, \\sin\\theta)$",
+      "$\\overrightarrow{MC} = 8(\\cos(\\theta + 45^\\circ), \\sin(\\theta + 45^\\circ))$",
+      "（內積）$\\overrightarrow{MA}\\cdot\\overrightarrow{MA} = 8$",
+      "（內積）$\\overrightarrow{MB}\\cdot\\overrightarrow{MD} = 0$",
+      "$\\overrightarrow{BD} = 8(\\cos\\theta + \\cos(\\theta + 90^\\circ), \\sin\\theta + \\sin(\\theta + 90^\\circ))$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "四段等弦，每段圓心角 $45^\\circ$。由 $A$ 逆時針：$\\overrightarrow{MA}$、$\\overrightarrow{MB}$、$\\overrightarrow{MC}$、$\\overrightarrow{MD}$ 的角度依序相差 $45^\\circ$，$\\overrightarrow{MD}$ 為 $\\theta + 90^\\circ$，所以 $\\overrightarrow{MC}$ 為 $\\theta + 45^\\circ$、$\\overrightarrow{MB}$ 為 $\\theta$、$\\overrightarrow{MA}$ 為 $\\theta - 45^\\circ$。\n• (A) 錯誤。(B) 正確。\n• (C) 錯誤：$|\\overrightarrow{MA}|^2 = 64$。\n• (D) 正確：夾角 $90^\\circ$。\n• (E) 錯誤：$\\overrightarrow{BD} = \\overrightarrow{MD} - \\overrightarrow{MB}$，應為相減。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "104-gsat-math-10",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 某一班共有 45 人，問卷調查有手機與平板電腦的人數。從統計資料顯示此班有 35 人有手機，而有 24 人有平板電腦。設：A 為同時有手機與平板電腦的人數；B 為有手機，但沒有平板電腦的人數；C 為沒有手機，但有平板電腦的人數；D 為沒有手機，也沒有平板電腦的人數。請選出恆成立的不等式選項。",
+    "options": [
+      "A > B",
+      "A > C",
+      "B > C",
+      "B > D",
+      "C > D"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "$A + B = 35$、$A + C = 24$、$C + D = 10$，且 $A \\ge 35 + 24 - 45 = 14$，$C \\le 10$。\n• (A) 錯誤：$A = 14$ 時 $B = 21$。\n• (B) 正確：$C = 24 - A \\le 10 < 14 \\le A$。\n• (C) 正確：$B - C = 11$。\n• (D) 正確：$B = 11 + C$、$D = 10 - C$，$B - D = 1 + 2C > 0$。\n• (E) 錯誤：$C$ 可為 0～10，$C - D = 2C - 10$ 不恆正。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "104-gsat-math-A",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 如圖，老王在平地點 $A$ 測得遠方山頂點 $P$ 的仰角為 $13^\\circ$。老王朝著山的方向前進 37 公丈後來到點 $B$，再測得山頂點 $P$ 的仰角為 $15^\\circ$。則山高約為 ⑪⑫ 公丈。（四捨五入至個位數，$\\tan13^\\circ \\approx 0.231$，$\\tan15^\\circ \\approx 0.268$）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-gsat-math-A.png\" alt=\"從 A 測得仰角 13°，前進 37 到 B 測得仰角 15°\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "6",
+      "2"
+    ],
+    "blankLabels": [
+      "11",
+      "12"
+    ],
+    "explanation": "設 $B$ 到山腳 $x$：$h = 0.268x = 0.231(x + 37)$，$0.037x = 8.547$，$x = 231$。\n$h = 0.268\\times231 \\approx 61.9$，約 62 公丈。"
+  },
+  {
+    "id": "104-gsat-math-B",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 不透明袋中有 3 白 3 紅共 6 個球，球大小形狀相同，僅顏色相異。甲、乙、丙、丁、戊 5 人依甲第一、乙第二、……、戊第五的次序，從袋中各取一球，取後不放回。試問在甲、乙取出不同色球的條件下，戊取得紅球的機率為 $\\dfrac{⑬}{⑭}$。（化為最簡分數）",
+    "blanks": [
+      "1",
+      "2"
+    ],
+    "blankLabels": [
+      "13",
+      "14"
+    ],
+    "explanation": "甲、乙取走一白一紅後，剩 2 白 2 紅，戊取到的球在這 4 顆中等可能，紅球機率 $\\dfrac12$。"
+  },
+  {
+    "id": "104-gsat-math-C",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 小燦預定在陽台上種植玫瑰、百合、菊花和向日葵等四種盆栽。如果陽台上的空間最多能種 8 盆，可以不必擺滿，並且每種花至少一盆，則小燦買盆栽的方法共有 ⑮⑯ 種。",
+    "blanks": [
+      "7",
+      "0"
+    ],
+    "blankLabels": [
+      "15",
+      "16"
+    ],
+    "explanation": "共 $n$ 盆（$4 \\le n \\le 8$）、每種至少一盆的方法數 $\\dbinom{n - 1}{3}$：1、4、10、20、35，合計 70。"
+  },
+  {
+    "id": "104-gsat-math-D",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "D. 平面 $x - y + z = 0$ 與三平面 $x = 2$，$x - y = -2$，$x + y = 2$ 分別相交所得的三直線可圍成一個三角形。此三角形之周長化成最簡根式，可表為 $a\\sqrt b + c\\sqrt d$，其中 $a, b, c, d$ 為正整數且 $b < d$，則 $a =$ ⑰，$b =$ ⑱，$c =$ ⑲，$d =$ ⑳。",
+    "blanks": [
+      "6",
+      "2",
+      "2",
+      "6"
+    ],
+    "blankLabels": [
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "explanation": "三頂點（兩兩聯立，且 $z = y - x$）：$(2, 4, 2)$、$(2, 0, -2)$、$(0, 2, 2)$。\n三邊：$\\sqrt{0 + 16 + 16} = 4\\sqrt2$、$\\sqrt{4 + 4 + 0} = 2\\sqrt2$、$\\sqrt{4 + 4 + 16} = 2\\sqrt6$。\n周長 $6\\sqrt2 + 2\\sqrt6$。"
+  },
+  {
+    "id": "104-gsat-math-E",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "E. 坐標平面上，直線 $L_1$ 與 $L_2$ 的方程式分別為 $x + 2y = 0$ 與 $3x - 5y = 0$。為了確定平面上某一定點 $P$ 的坐標，從 $L_1$ 上的一點 $Q_1$ 偵測得向量 $\\overrightarrow{Q_1P} = (-7, 9)$，再從 $L_2$ 上的點 $Q_2$ 偵測得向量 $\\overrightarrow{Q_2P} = (-6, -8)$，則 $P$ 點的坐標為 (㉑, ㉒)。",
+    "blanks": [
+      "9",
+      "1"
+    ],
+    "blankLabels": [
+      "21",
+      "22"
+    ],
+    "explanation": "設 $P(p, q)$：$Q_1 = (p + 7, q - 9)$ 在 $L_1$ 上：$p + 2q = 11$；$Q_2 = (p + 6, q + 8)$ 在 $L_2$ 上：$3p - 5q = 22$。\n解得 $q = 1$、$p = 9$。"
+  },
+  {
+    "id": "104-gsat-math-F",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "F. 小華準備向銀行貸款 3 百萬元當做創業基金，其年利率為 3%，約定三年期滿一次還清貸款的本利和。銀行貸款一般以複利（每年複利一次）計息還款，但給小華創業優惠改以單利計息還款。試問在此優惠下，小華在三年期滿還款時可以比一般複利計息少繳 ㉓㉔㉕㉖ 元。",
+    "blanks": [
+      "8",
+      "1",
+      "8",
+      "1"
+    ],
+    "blankLabels": [
+      "23",
+      "24",
+      "25",
+      "26"
+    ],
+    "explanation": "複利 $3000000\\times1.03^3 = 3000000\\times1.092727 = 3278181$；單利 $3000000\\times1.09 = 3270000$。\n差 8181 元。"
+  },
+  {
+    "id": "104-gsat-math-G",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "G. 某一公司，有 A、B、C 三個營業據點，開始時各有 36 位營業員，為了讓營業員了解各據點業務狀況，所以進行兩次調動。每次調動都是：將當時 A 據點營業員中的 1/6 調到 B 據點、1/6 調到 C 據點；將當時 B 據點營業員中的 1/6 調到 A 據點、1/3 調到 C 據點；將當時 C 據點營業員中的 1/6 調到 A 據點、1/6 調到 B 據點。則兩次的調動後，C 據點有 ㉗㉘ 位營業員。",
+    "blanks": [
+      "4",
+      "4"
+    ],
+    "blankLabels": [
+      "27",
+      "28"
+    ],
+    "explanation": "每次：A 留 $\\dfrac23$、B 留 $\\dfrac12$、C 留 $\\dfrac23$。\n第一次：A $= 24 + 6 + 6 = 36$；B $= 6 + 18 + 6 = 30$；C $= 6 + 12 + 24 = 42$。\n第二次：C $= \\dfrac{36}{6} + \\dfrac{30}{3} + \\dfrac{2}{3}\\times42 = 6 + 10 + 28 = 44$。"
+  },
+  {
+    "id": "104-gsat-math-H",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "H. 有一底面為正方形的四角錐，其展開圖如下圖所示，其中兩側面的三角形邊長為 3, 4, 5，則此角錐的體積為 $\\dfrac{㉙㉚\\sqrt{㉛}}{3}$。（化為最簡根式）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-gsat-math-H.png\" alt=\"四角錐展開圖：正方形底邊長 4，上下兩側面為 3、4、5 的直角三角形\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "1",
+      "6",
+      "5"
+    ],
+    "blankLabels": [
+      "29",
+      "30",
+      "31"
+    ],
+    "explanation": "底面正方形邊長 4。上、下兩個側面為 3-4-5 直角三角形，邊長 3 的側稜都接在左邊兩個頂點，所以頂點 $P$ 到左側兩頂點距離 3、到右側兩頂點距離 5。\n設左上 $(0, 0, 0)$、右上 $(4, 0, 0)$、左下 $(0, 4, 0)$，由對稱 $P = (x, 2, h)$：$x^2 + 4 + h^2 = 9$、$(x - 4)^2 + 4 + h^2 = 25$，得 $x = 0$、$h = \\sqrt5$。\n體積 $= \\dfrac13\\cdot16\\cdot\\sqrt5 = \\dfrac{16\\sqrt5}{3}$。"
+  },
+  {
+    "id": "104-gsat-math-I",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "I. 在空間中，一個斜面的「坡度」定義為斜面與水平面夾角 $\\theta$ 的正切值 $\\tan\\theta$。若一金字塔（底部為一正方形，四個斜面為等腰三角形）的每一個斜面的坡度皆為 $\\dfrac25$，如圖。則相鄰斜面的夾角的餘弦函數的絕對值為 $\\dfrac{㉜㉝}{㉞㉟}$。（化為最簡分數）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-gsat-math-I.png\" alt=\"正四角錐金字塔示意圖\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "2",
+      "5",
+      "2",
+      "9"
+    ],
+    "blankLabels": [
+      "32",
+      "33",
+      "34",
+      "35"
+    ],
+    "explanation": "設底面中心為原點、邊長 $2a$、高 $h = \\dfrac25a$。相鄰兩斜面的法向量 $(h, 0, a)$、$(0, h, a)$：\n$$|\\cos| = \\frac{a^2}{h^2 + a^2} = \\frac{1}{\\frac{4}{25} + 1} = \\frac{25}{29}$$"
+  },
+  {
+    "id": "104-gsat-math-J",
+    "examType": "學測",
+    "year": 104,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "J. 下圖為汽車迴轉示意圖。汽車迴轉時，將方向盤轉動到極限，以低速讓汽車進行轉向圓周運動，汽車轉向時所形成的圓周的半徑就是迴轉半徑，如圖中的 $\\overline{BC}$ 即是。已知在低速前進時，圖中 $A$ 處的輪胎行進方向與 $\\overline{AC}$ 垂直，$B$ 處的輪胎行進方向與 $\\overline{BC}$ 垂直。在圖中，已知軸距 $\\overline{AB}$ 為 2.85 公尺，方向盤轉到極限時，輪子方向偏了 28 度，試問此車的迴轉半徑 $\\overline{BC}$ 為 ㊱.㊲ 公尺。（小數點後第一位以下四捨五入，$\\sin28^\\circ \\approx 0.4695$，$\\cos28^\\circ \\approx 0.8829$）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/104-gsat-math-J.png\" alt=\"汽車迴轉示意圖：後輪 A、前輪 B 偏轉 28°，迴轉中心 C\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "6",
+      "1"
+    ],
+    "blankLabels": [
+      "36",
+      "37"
+    ],
+    "explanation": "$\\overline{AC} \\perp \\overline{AB}$（後輪方向沿車身）。前輪轉了 $28^\\circ$，$\\overline{BC}$ 與前輪方向垂直，所以 $\\angle ACB = 28^\\circ$。\n直角三角形 $ABC$ 中 $\\sin28^\\circ = \\dfrac{\\overline{AB}}{\\overline{BC}}$，$\\overline{BC} = \\dfrac{2.85}{0.4695} \\approx 6.07$，約 6.1 公尺。"
   }
 ]
