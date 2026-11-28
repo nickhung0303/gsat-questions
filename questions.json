@@ -223450,5 +223450,391 @@
       "國家與理由"
     ],
     "explanation": "【參考答案】選擇一個國家，例如埃及、巴基斯坦（2 分）。理由須說明人口呈沿「線」（如道路、鐵路、河流）分布，或病媒蚊沿「線」（如河流沿岸濕地等）孳生（2 分）。\\n\\n埃及大部分是沙漠，人口與聚落集中在尼羅河沿岸，斑蚊也在河岸的水域、濕地孳生，病患會沿著尼羅河呈線狀分布；巴基斯坦的人口也集中在印度河沿岸。"
+  },
+  {
+    "id": "115-gsat-mathB-01",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "points": 5,
+    "question": "1. 當標準值為 95，試選出有幾個整數 $N$ 與標準值的誤差百分比 $\\dfrac{|N - 95|}{95}\\times100\\%$ 小於 5%。",
+    "options": [
+      "4 個",
+      "5 個",
+      "8 個",
+      "9 個",
+      "10 個"
+    ],
+    "answerIndex": 3,
+    "explanation": "$\\dfrac{|N - 95|}{95} < 0.05 \\iff |N - 95| < 4.75 \\iff 90.25 < N < 99.75$。\n整數 $N = 91, 92, \\dots, 99$，共 9 個。\n\n故選 (D)"
+  },
+  {
+    "id": "115-gsat-mathB-02",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "points": 5,
+    "question": "2. 以計算機的自然對數按鍵 ln（即 $\\ln x = \\log_e x$）估算連續複利本利和 $100e^{\\frac{3n}{100}} = 135$ 所需期數 $n$，試選出等於 $n$ 的選項。",
+    "options": [
+      "$\\dfrac{3}{100}\\ln(135 - 100)$",
+      "$\\dfrac{100}{3}\\ln(135 - 100)$",
+      "$\\dfrac{135}{100}\\ln\\left(\\dfrac{3}{100}\\right)$",
+      "$\\dfrac{3}{100}\\ln\\left(\\dfrac{135}{100}\\right)$",
+      "$\\dfrac{100}{3}\\ln\\left(\\dfrac{135}{100}\\right)$"
+    ],
+    "answerIndex": 4,
+    "explanation": "$e^{\\frac{3n}{100}} = \\dfrac{135}{100}$，兩邊取自然對數：$\\dfrac{3n}{100} = \\ln\\dfrac{135}{100}$，\n$$n = \\frac{100}{3}\\ln\\left(\\frac{135}{100}\\right)$$\n\n故選 (E)"
+  },
+  {
+    "id": "115-gsat-mathB-03",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "points": 5,
+    "question": "3. 已知實數二階方陣 $A$ 滿足 $A\\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} 0 \\\\ 1 \\end{bmatrix}$ 以及 $A\\begin{bmatrix} 1 \\\\ -1 \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix}$。試選出 $A$ 的反方陣。",
+    "options": [
+      "$\\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 & 1 \\\\ -1 & 1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 & 1 \\\\ 1 & -1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 & \\frac12 \\\\ -\\frac12 & 1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 & -\\frac12 \\\\ \\frac12 & 1 \\end{bmatrix}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "兩式合併：$A\\begin{bmatrix} 1 & 1 \\\\ 1 & -1 \\end{bmatrix} = \\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}$。\n反方陣把右邊送回左邊：$A^{-1}\\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix} = \\begin{bmatrix} 1 & 1 \\\\ 1 & -1 \\end{bmatrix}$，而 $\\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}^{-1}$ 就是自己，\n$$A^{-1} = \\begin{bmatrix} 1 & 1 \\\\ 1 & -1 \\end{bmatrix}\\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix} = \\begin{bmatrix} 1 & 1 \\\\ -1 & 1 \\end{bmatrix}$$\n（驗算：$A^{-1}\\begin{bmatrix} 0 \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix}$ ✓）\n\n故選 (B)"
+  },
+  {
+    "id": "115-gsat-mathB-04",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "points": 5,
+    "question": "4. 電腦程式模擬在太平洋等速航行的甲、乙兩艘船。甲船沿著北緯 60 度向西航行，乙船沿著赤道向東航行。在某一時間點甲船在西經 169 度、乙船在東經 140 度，試選出當甲船到達東經 171 度時，乙船在東經幾度。",
+    "options": [
+      "120 度",
+      "130 度",
+      "150 度",
+      "160 度",
+      "180 度"
+    ],
+    "answerIndex": 2,
+    "explanation": "• 甲船由西經 169° 向西越過 180° 經線到東經 171°，經度改變 $11^\\circ + 9^\\circ = 20^\\circ$。\n• 北緯 60° 的緯線圈半徑是赤道的 $\\cos60^\\circ = \\dfrac12$，所以甲船走的距離等於赤道上 $10^\\circ$ 的弧長。\n• 兩船等速，乙船沿赤道向東走 $10^\\circ$：東經 $140^\\circ + 10^\\circ = 150^\\circ$。\n\n故選 (C)"
+  },
+  {
+    "id": "115-gsat-mathB-05",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "points": 5,
+    "question": "5. 某人購買公益彩券，第一次以 $N$ 元為投注金額。之後每次要投注時，先將前次投注金額增加一半設為預定金額。如果預定金額大於 $2N$ 元，則將預定金額減少一半投注；否則就以預定金額投注。前四次投注紀錄如下表。試選出此人第七次的投注金額為多少元。",
+    "svg": "<svg viewBox=\"0 0 454 98\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:544.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"132\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">第一次</text><rect x=\"212\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">第二次</text><rect x=\"292\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">第三次</text><rect x=\"372\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">第四次</text><rect x=\"2\" y=\"34\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">預定金額（元）</text><rect x=\"132\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">—</text><rect x=\"212\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3N/2</text><rect x=\"292\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">9N/4</text><rect x=\"372\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">27N/16</text><rect x=\"2\" y=\"64\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">投注金額（元）</text><rect x=\"132\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">N</text><rect x=\"212\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3N/2</text><rect x=\"292\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">9N/8</text><rect x=\"372\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">27N/16</text></svg>",
+    "options": [
+      "$\\dfrac{3^6}{2^6}N$",
+      "$\\dfrac{3^6}{2^8}N$",
+      "$\\dfrac{3^6}{2^9}N$",
+      "$\\dfrac{3^7}{2^7}N$",
+      "$\\dfrac{3^7}{2^{10}}N$"
+    ],
+    "answerIndex": 2,
+    "explanation": "每次預定金額 = 前次投注 $\\times\\dfrac32$，超過 $2N$ 才減半。\n• 第五次：預定 $\\dfrac{27}{16}\\cdot\\dfrac32 = \\dfrac{81}{32}N \\approx 2.53N > 2N$，投注 $\\dfrac{81}{64}N$。\n• 第六次：預定 $\\dfrac{243}{128}N \\approx 1.90N \\le 2N$，投注 $\\dfrac{243}{128}N$。\n• 第七次：預定 $\\dfrac{729}{256}N \\approx 2.85N > 2N$，投注 $\\dfrac{729}{512}N = \\dfrac{3^6}{2^9}N$。\n\n故選 (C)"
+  },
+  {
+    "id": "115-gsat-mathB-06",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "points": 5,
+    "question": "6. 各國沿岸的「領海基線」其外側距離基線十二浬間之海域，為該國之「領海」。在以浬為單位的坐標平面上，某國有一部分的領海基線為直線 $L: 4x + 3y - 12 = 0$ 上的某一線段，且 $(5, 5)$ 位於該領海基線的內側，如圖所示。試選出該段領海在 $L$ 與下列哪一條直線之間。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-gsat-mathB-06.png\" alt=\"領海位於領海基線不含 (5,5) 的一側\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$4x + 3y + 48 = 0$",
+      "$4x + 3y + 18 = 0$",
+      "$4x + 3y = 0$",
+      "$4x + 3y - 24 = 0$",
+      "$4x + 3y - 72 = 0$"
+    ],
+    "answerIndex": 0,
+    "explanation": "所求直線與 $L$ 平行、距離 12，且在 $(5, 5)$ 的另一側。\n• $(5, 5)$ 代入 $4x + 3y - 12$ 得 $23 > 0$，所以領海在 $4x + 3y - 12 < 0$ 這一側。\n• 距離 12：$\\dfrac{|c - (-12)|}{5} = 12$，在負側取 $4x + 3y - 12 = -60$，即 $4x + 3y + 48 = 0$。\n\n故選 (A)"
+  },
+  {
+    "id": "115-gsat-mathB-07",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "points": 5,
+    "question": "7. 有 A、B、C 三種福袋各一個，其中 A、B、C 中獎的機率分別為 $\\dfrac34$、$\\dfrac23$、$\\dfrac12$，且不同福袋中獎與否互不影響。設在福袋 A 中獎的條件下，至少有兩個福袋中獎的機率為 $p$，且設在至少有兩個福袋中獎的條件下，福袋 A 中獎的機率為 $q$。試選出 $\\dfrac pq$ 之值。",
+    "options": [
+      "$\\dfrac{11}{18}$",
+      "$\\dfrac{17}{18}$",
+      "1",
+      "$\\dfrac{18}{17}$",
+      "$\\dfrac{18}{11}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "• A 中獎時，只要 B、C 至少一個中獎：$p = 1 - \\dfrac13\\cdot\\dfrac12 = \\dfrac56$。\n• 至少兩個中獎：$P(AB\\bar C) + P(A\\bar BC) + P(\\bar ABC) + P(ABC) = \\dfrac14 + \\dfrac18 + \\dfrac1{12} + \\dfrac14 = \\dfrac{17}{24}$。\n• A 中獎且至少兩個中獎：$\\dfrac34\\cdot\\dfrac56 = \\dfrac58$，所以 $q = \\dfrac{5/8}{17/24} = \\dfrac{15}{17}$。\n$$\\frac pq = \\frac56\\cdot\\frac{17}{15} = \\frac{17}{18}$$\n\n故選 (B)"
+  },
+  {
+    "id": "115-gsat-mathB-08",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 試選出與函數 $y = 3\\sin\\left(\\dfrac{\\pi}{5}x + \\pi\\right) + 3$ 在每個實數 $x$ 所得函數值皆相同的函數。",
+    "options": [
+      "$y = 6\\sin\\left(\\dfrac{\\pi}{5}x\\right) + 3$",
+      "$y = 3\\sin\\left(\\left(\\dfrac{\\pi}{5} + 2\\pi\\right)x + \\pi\\right) + 3$",
+      "$y = 3\\sin\\left(\\dfrac{\\pi}{5}x - \\pi\\right) + 3$",
+      "$y = -3\\sin\\left(\\dfrac{\\pi}{5}x\\right) - 3$",
+      "$y = -3\\sin\\left(\\dfrac{\\pi}{5}x\\right) + 3$"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "$\\sin(\\theta + \\pi) = -\\sin\\theta$，所以原函數 $= -3\\sin\\left(\\dfrac{\\pi}{5}x\\right) + 3$。\n• (A) 錯誤：振幅不同。\n• (B) 錯誤：$2\\pi$ 加在 $x$ 的係數上，週期改變，不是加在相位。例如 $x = 1$ 時兩者不同。\n• (C) 正確：$\\sin(\\theta - \\pi) = -\\sin\\theta$。\n• (D) 錯誤：常數項是 $-3$。\n• (E) 正確：就是化簡後的式子。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "115-gsat-mathB-09",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 設 $f(x) = (1 - x)(2 - x)^2(4 + x)$。試選出正確的選項。",
+    "options": [
+      "$f(x)$ 除以 $(1 - x)(2 - x)(4 + x)$ 的餘式為 $-x + 2$",
+      "若將 $f(x)$ 表為 $a(x - 2)^4 + b(x - 2)^3 + c(x - 2)^2$，則 $c = -6$",
+      "$f(x) > 0$ 的解區間為 $(-4, 2)$",
+      "$\\dfrac{f(2026)}{f(-2022)} > 1$",
+      "$f(2026) > f(-2022)$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "• (A) 錯誤：$f(x) = [(1 - x)(2 - x)(4 + x)](2 - x)$，整除，餘式為 0。\n• (B) 正確：令 $t = x - 2$，$f = (-1 - t)\\,t^2\\,(t + 6) = -t^4 - 7t^3 - 6t^2$，$c = -6$。\n• (C) 錯誤：$(2 - x)^2 \\ge 0$，且 $x = 2$ 時為 0；$(1 - x)(4 + x) > 0 \\iff -4 < x < 1$。解為 $(-4, 1)$。\n• (D) 正確：$f(2026) = (-2025)(2024)^2(2030) < 0$，$f(-2022) = (2023)(2024)^2(-2018) < 0$，比值為正且 $\\dfrac{2025\\times2030}{2023\\times2018} > 1$。\n• (E) 錯誤：兩者皆負，且 $|f(2026)| > |f(-2022)|$，所以 $f(2026) < f(-2022)$。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "115-gsat-mathB-10",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 某研究探討昆蟲的身長與其體內兩種養分 A、B 濃度的關係。研究中蒐集某種昆蟲，測得牠們身長與體內 A 濃度的數據如下表。已知每隻昆蟲體內的 B 濃度均為 A 濃度的 0.5 倍。試選出正確的選項。",
+    "svg": "<svg viewBox=\"0 0 414 98\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:496.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"82\" y=\"4\" width=\"100\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">平均數</text><rect x=\"182\" y=\"4\" width=\"130\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">變異數</text><rect x=\"312\" y=\"4\" width=\"100\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"362\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">相關係數</text><rect x=\"2\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">身長</text><rect x=\"82\" y=\"34\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">65 單位</text><rect x=\"182\" y=\"34\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100 平方單位</text><rect x=\"312\" y=\"34\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"362\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.75</text><rect x=\"2\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">A 濃度</text><rect x=\"82\" y=\"64\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">50 單位</text><rect x=\"182\" y=\"64\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">225 平方單位</text><rect x=\"312\" y=\"64\" width=\"100\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"362\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.75</text></svg>",
+    "options": [
+      "B 濃度的標準差為 $\\dfrac{15}{2}$ 單位",
+      "若身長的中位數為 65 單位，則 B 濃度的中位數為 25 單位",
+      "B 濃度與 A 濃度的相關係數為 0.5",
+      "若找到一身長為 65 單位的昆蟲，利用 A 濃度對身長的迴歸直線（最適直線）預測，其體內 A 濃度為 50 單位",
+      "B 濃度 (Y) 對身長 (X) 的迴歸直線斜率為 $\\dfrac12$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "$\\sigma_{\\text{身長}} = 10$，$\\sigma_A = 15$，$B = 0.5A$。\n• (A) 正確：$\\sigma_B = 0.5 \\times 15 = \\dfrac{15}{2}$。\n• (B) 錯誤：身長的中位數與 B 濃度的中位數沒有對應關係（身長與 A 濃度並非完全線性）。\n• (C) 錯誤：$B$ 是 $A$ 的正倍數，相關係數為 1。\n• (D) 正確：迴歸直線必過 $(\\mu_X, \\mu_Y) = (65, 50)$。\n• (E) 錯誤：斜率 $= r\\dfrac{\\sigma_B}{\\sigma_X} = 0.75\\times\\dfrac{7.5}{10} = 0.5625$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "115-gsat-mathB-11",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 有一立燈為了採光，採用兩個可以替換的大、小燈罩。兩燈罩皆為直圓錐面的一部分，裝在燈上其軸線位置相同、燈源皆在頂點，且大燈罩照射在地面上的光線範圍大於小燈罩的光線範圍，如圖所示。令大、小燈罩在地面上所成的光線邊緣分別為圓錐曲線 $\\Gamma$、$\\gamma$ 的一部分。試選出正確的選項。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-gsat-mathB-11.png\" alt=\"立燈：頂點、小燈罩、大燈罩共用一條軸線，照向地面\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "如果 $\\Gamma$ 是橢圓，則 $\\gamma$ 是拋物線",
+      "如果 $\\Gamma$ 是拋物線，則 $\\gamma$ 是橢圓",
+      "如果 $\\Gamma$ 是雙曲線，則 $\\gamma$ 是拋物線",
+      "如果 $\\gamma$ 是拋物線，則 $\\Gamma$ 是拋物線",
+      "如果 $\\gamma$ 是雙曲線，則 $\\Gamma$ 是雙曲線"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "設地面與軸線夾角為 $\\theta$（固定），小、大燈罩的半頂角為 $\\alpha < \\beta$。截痕：$\\theta >$ 半頂角為橢圓，$=$ 為拋物線，$<$ 為雙曲線。\n• (A) 錯誤：$\\Gamma$ 橢圓表示 $\\theta > \\beta > \\alpha$，$\\gamma$ 也是橢圓。\n• (B) 正確：$\\theta = \\beta > \\alpha$，$\\gamma$ 是橢圓。\n• (C) 錯誤：$\\theta < \\beta$ 時 $\\theta$ 與 $\\alpha$ 的大小不確定，$\\gamma$ 不一定是拋物線。\n• (D) 錯誤：$\\theta = \\alpha < \\beta$，$\\Gamma$ 是雙曲線。\n• (E) 正確：$\\theta < \\alpha < \\beta$，$\\Gamma$ 也是雙曲線。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "115-gsat-mathB-12",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 有兩容器，A 瓶內有含糖 100 公克的紅茶 1000 毫升，B 瓶內有不含糖的紅茶 500 毫升。用以下方式稀釋 A 瓶的甜度：將 A 瓶混合均勻後，倒出 500 毫升至 B 瓶，再將 B 瓶混合均勻後，倒 500 毫升回 A 瓶，稱此為一次稀釋。重複此稀釋動作，令第 $n$ 次稀釋完，A 瓶的含糖量為 $a_n$ 公克。試選出正確的選項。",
+    "options": [
+      "$a_1 = 75$",
+      "第 $n$ 次稀釋完，B 瓶的含糖量為 $50 - \\dfrac12a_n$ 公克",
+      "$a_{n+1} = \\dfrac12a_n + \\dfrac12\\left(100 - \\dfrac12a_n\\right)$",
+      "可找到實數 $c$ 滿足數列 $\\langle a_n - c\\rangle$ 為公比是 $\\dfrac14$ 的等比數列",
+      "第 100 次稀釋完，A 瓶的含糖量小於 60 公克"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "每次稀釋後 A 瓶 1000 毫升、B 瓶 500 毫升，總糖量恆為 100 公克。\n• (A) 正確：倒出一半，A 剩 50 克，B 有 50 克（1000 毫升）；倒回一半 25 克，$a_1 = 75$。\n• (B) 錯誤：B 瓶含糖量為 $100 - a_n$（例如 $n = 1$ 時為 25，不是 12.5）。\n• (C) 正確：A 倒出 $\\dfrac{a_n}{2}$ 後剩 $\\dfrac{a_n}{2}$；B 變成 $100 - \\dfrac{a_n}{2}$，倒回一半。\n• (D) 正確：$a_{n+1} = \\dfrac14a_n + 50$，取 $c = \\dfrac{200}{3}$，得 $a_{n+1} - c = \\dfrac14(a_n - c)$。\n• (E) 錯誤：$a_n = \\dfrac{200}{3} + \\left(75 - \\dfrac{200}{3}\\right)\\left(\\dfrac14\\right)^{n-1} > \\dfrac{200}{3} > 60$。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "115-gsat-mathB-13",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "13. 坐標平面上，$L_1$ 為通過原點 $O$ 且斜角為 $75^\\circ$ 的直線；$L_2$ 為通過點 $(-20, 0)$ 且斜角為 $30^\\circ$ 的直線，如圖所示。則 $L_1$、$L_2$ 的交點到原點的距離為 ⑬-1 ⑬-2。（四捨五入至整數）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-gsat-mathB-13.png\" alt=\"L2 過 (-20,0)、L1 過原點，兩線相交於 x 軸上方\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "1",
+      "4"
+    ],
+    "blankLabels": [
+      "13-1",
+      "13-2"
+    ],
+    "explanation": "令 $B(-20, 0)$、交點 $P$。在 $\\triangle BOP$ 中：$\\angle B = 30^\\circ$，$\\angle O = 180^\\circ - 75^\\circ = 105^\\circ$，所以 $\\angle P = 45^\\circ$。\n正弦定理：$\\dfrac{\\overline{OP}}{\\sin30^\\circ} = \\dfrac{20}{\\sin45^\\circ}$，\n$$\\overline{OP} = \\frac{20\\cdot\\frac12}{\\frac{\\sqrt2}{2}} = 10\\sqrt2 \\approx 14.14$$\n答：14"
+  },
+  {
+    "id": "115-gsat-mathB-14",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "14. 將 1, 2, 3, 4, 5, 6, 7 七個數字排成一個七位數。若要求排出的數字 3, 4 相鄰、5, 6 相鄰以及 6, 7 相鄰，則共可排出 ⑭-1 ⑭-2 個七位數。",
+    "blanks": [
+      "9",
+      "6"
+    ],
+    "blankLabels": [
+      "14-1",
+      "14-2"
+    ],
+    "explanation": "• 3、4 綁成一組：內部 2 種排法。\n• 5、6 相鄰且 6、7 相鄰：6 必在 5、7 中間，成 567 或 765，2 種。\n• 把 [34]、[567]、1、2 共 4 個單位排列：$4! = 24$。\n共 $24 \\times 2 \\times 2 = 96$ 個。"
+  },
+  {
+    "id": "115-gsat-mathB-15",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "15. 某校健康檢查：全體學生中有近視的占 $\\dfrac12$、有蛀牙的占 $\\dfrac13$。設 $p$ 為全體學生中無近視且無蛀牙的學生所占比例。將部分資料依所占比例以列聯表呈現如下。已知有近視的學生中，有蛀牙的占少數；有蛀牙的學生中，有近視的占多數。則 $p$ 的範圍為 $\\dfrac{⑮\\text{-}1}{⑮\\text{-}2} < p < \\dfrac{⑮\\text{-}3}{⑮\\text{-}4\\ ⑮\\text{-}5}$。（化為最簡分數）",
+    "svg": "<svg viewBox=\"0 0 334 128\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:400.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"92\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">有近視</text><rect x=\"172\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">無近視</text><rect x=\"252\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">總和</text><rect x=\"2\" y=\"34\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">有蛀牙</text><rect x=\"92\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"172\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"252\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1/3</text><rect x=\"2\" y=\"64\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">無蛀牙</text><rect x=\"92\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"172\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">p</text><rect x=\"252\" y=\"64\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2/3</text><rect x=\"2\" y=\"94\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">總和</text><rect x=\"92\" y=\"94\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1/2</text><rect x=\"172\" y=\"94\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1/2</text><rect x=\"252\" y=\"94\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1</text></svg>",
+    "blanks": [
+      "1",
+      "3",
+      "5",
+      "1",
+      "2"
+    ],
+    "blankLabels": [
+      "15-1",
+      "15-2",
+      "15-3",
+      "15-4",
+      "15-5"
+    ],
+    "explanation": "設「有近視且有蛀牙」占 $x$。\n• 有近視中蛀牙占少數：$\\dfrac{x}{1/2} < \\dfrac12 \\Rightarrow x < \\dfrac14$。\n• 有蛀牙中近視占多數：$\\dfrac{x}{1/3} > \\dfrac12 \\Rightarrow x > \\dfrac16$。\n• 無近視有蛀牙 $= \\dfrac13 - x$，所以 $p = \\dfrac12 - \\left(\\dfrac13 - x\\right) = \\dfrac16 + x$。\n$$\\frac13 < p < \\frac{5}{12}$$"
+  },
+  {
+    "id": "115-gsat-mathB-16",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "16. 坐標平面上，$L$ 為一次函數 $y = f(x)$ 的圖形，$\\Gamma$ 為二次函數 $y = g(x)$ 的圖形。已知 $L$ 與 $\\Gamma$ 交於 $(1, 0)$、$(5, 4)$ 兩點，且點 $(2, 2)$ 在 $\\Gamma$ 上。則 $g(x) - f(x)$ 的最大值為 $\\dfrac{⑯\\text{-}1}{⑯\\text{-}2}$。（化為最簡分數）",
+    "blanks": [
+      "4",
+      "3"
+    ],
+    "blankLabels": [
+      "16-1",
+      "16-2"
+    ],
+    "explanation": "• $f$ 過 $(1, 0)$、$(5, 4)$：$f(x) = x - 1$。\n• $h(x) = g(x) - f(x)$ 是二次函數，且 $h(1) = h(5) = 0$，所以 $h(x) = k(x - 1)(x - 5)$。\n• $h(2) = 2 - 1 = 1 = k(1)(-3)$，$k = -\\dfrac13$。\n• 頂點在 $x = 3$：$h(3) = -\\dfrac13(2)(-2) = \\dfrac43$，為最大值。"
+  },
+  {
+    "id": "115-gsat-mathB-17",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 5,
+    "question": "17. 利用單點透視法將坐標空間的點繪製在畫布的坐標平面上。已知（一）空間中與 $y$ 軸平行的直線，在畫布上的消失點為 $(0, 15)$；（二）空間中與 $z$ 軸平行的直線，在畫布上都與 $y$ 軸平行。若點 $(0, 0, 0)$、$(3, 4, 0)$、$(3, 0, 3)$ 繪在畫布上分別為 $(0, 0)$、$\\left(\\dfrac{13}{5}, 2\\right)$、$(3, 3)$，則點 $(3, 4, 3)$ 繪在畫布上的 $y$ 坐標為 $\\dfrac{⑰\\text{-}1\\ ⑰\\text{-}2}{⑰\\text{-}3}$。（化為最簡分數）（註：右圖為三點 $(3, 4, 0)$、$(3, 0, 3)$、$(3, 4, 3)$ 於坐標空間的位置關係）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-gsat-mathB-17.png\" alt=\"長方體上的點 (3,0,3)、(3,4,3)、(3,4,0)\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "2",
+      "3",
+      "5"
+    ],
+    "blankLabels": [
+      "17-1",
+      "17-2",
+      "17-3"
+    ],
+    "explanation": "單點透視：空間點 $(x, y, z)$ 先看它在 $y = 0$ 平面上的位置 $(x, z)$（由 $(3, 0, 3) \\to (3, 3)$ 可知 $y = 0$ 時畫布坐標就是 $(x, z)$），再沿著與 $y$ 軸平行的直線往消失點 $V(0, 15)$ 縮，縮的比例只跟 $y$ 有關。\n• $(3, 4, 0)$：從 $(3, 0)$ 往 $V$ 縮，$V + t\\big((3, 0) - V\\big) = (3t,\\ 15 - 15t) = \\left(\\dfrac{13}{5}, 2\\right)$，得 $t = \\dfrac{13}{15}$（$y = 4$ 時的比例）。\n• $(3, 4, 3)$：從 $(3, 3)$ 用同一比例：$y$ 坐標 $= 15 + \\dfrac{13}{15}(3 - 15) = 15 - \\dfrac{52}{5} = \\dfrac{23}{5}$。\n（$x$ 坐標也是 $\\dfrac{13}{5}$，與 $(3, 4, 0)$ 的像在同一條鉛直線上，符合條件（二）。）"
+  },
+  {
+    "id": "115-gsat-mathB-18",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "points": 3,
+    "question": "【第 18-20 題為題組】有一張星軌照片，照片中的星星各自繞著以北極星為圓心且以逆時鐘方向旋轉 $90^\\circ$ 角所畫出的圓弧軌跡。在此照片所設的坐標平面上令北極星為點 $P$。已知甲星軌跡的起點、終點坐標分別為 $(8, 0)$、$(0, 0)$，軌跡如圖所示。根據上述，試回答下列問題。\n18. 試選出甲星軌跡的起點與終點連線線段的中垂線方程式。（單選題，3 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-gsat-mathB-18.png\" alt=\"甲星以 P 為圓心逆時鐘旋轉 90 度，由 (8,0) 到 (0,0) 的圓弧軌跡\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$x = 4$",
+      "$y = 4$",
+      "$y = x - 4$",
+      "$y = -x + 4$",
+      "$y = 4x$"
+    ],
+    "answerIndex": 0,
+    "explanation": "起點 $(8, 0)$、終點 $(0, 0)$ 在 $x$ 軸上，中點 $(4, 0)$，中垂線為鉛直線 $x = 4$。\n\n故選 (A)"
+  },
+  {
+    "id": "115-gsat-mathB-19",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 18-20 題為題組】有一張星軌照片，照片中的星星各自繞著以北極星為圓心且以逆時鐘方向旋轉 $90^\\circ$ 角所畫出的圓弧軌跡。在此照片所設的坐標平面上令北極星為點 $P$。已知甲星軌跡的起點、終點坐標分別為 $(8, 0)$、$(0, 0)$，軌跡如圖所示。根據上述，試回答下列問題。\n19. 令 $L$ 為通過點 $(8, 0)$ 且斜率為 1 的直線。試說明點 $P$ 在 $L$ 上，並求甲星軌跡所在的圓方程式。（非選擇題，6 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-gsat-mathB-18.png\" alt=\"甲星以 P 為圓心逆時鐘旋轉 90 度，由 (8,0) 到 (0,0) 的圓弧軌跡\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "selfGrade": true,
+    "blanks": [
+      "$P(4, -4)$ 在 $L: y = x - 8$ 上；圓：$(x - 4)^2 + (y + 4)^2 = 32$"
+    ],
+    "blankLabels": [
+      "說明與圓方程式"
+    ],
+    "explanation": "設 $A(8, 0)$、$O(0, 0)$。\n• $P$ 到起點、終點等距，所以 $P$ 在中垂線 $x = 4$ 上；又 $\\angle APO = 90^\\circ$ 且 $\\overline{PA} = \\overline{PO}$，$\\triangle OPA$ 是等腰直角三角形，$\\angle PAO = 45^\\circ$。\n• 由 $(8, 0)$ 逆時鐘轉到 $(0, 0)$、弧在 $x$ 軸上方，圓心在下方：$P(4, -4)$。\n• 直線 $PA$ 斜率 $\\dfrac{0 - (-4)}{8 - 4} = 1$ 且過 $(8, 0)$，所以 $P$ 在 $L: y = x - 8$ 上。\n• 半徑 $\\overline{PO} = \\sqrt{16 + 16} = 4\\sqrt2$，圓方程式 $(x - 4)^2 + (y + 4)^2 = 32$。"
+  },
+  {
+    "id": "115-gsat-mathB-20",
+    "examType": "學測",
+    "year": 115,
+    "subject": "數學B",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 18-20 題為題組】有一張星軌照片，照片中的星星各自繞著以北極星為圓心且以逆時鐘方向旋轉 $90^\\circ$ 角所畫出的圓弧軌跡。在此照片所設的坐標平面上令北極星為點 $P$。已知甲星軌跡的起點、終點坐標分別為 $(8, 0)$、$(0, 0)$，軌跡如圖所示。根據上述，試回答下列問題。\n20. 已知照片中乙星軌跡的起點 $Q$ 坐標為 $(2, 8)$。令 $R$ 為其軌跡終點，試求 $\\overrightarrow{PR}$ 以及點 $R$ 的坐標。（非選擇題，6 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/115-gsat-mathB-18.png\" alt=\"甲星以 P 為圓心逆時鐘旋轉 90 度，由 (8,0) 到 (0,0) 的圓弧軌跡\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "selfGrade": true,
+    "blanks": [
+      "$\\overrightarrow{PR} = (-12, -2)$",
+      "$R(-8, -6)$"
+    ],
+    "blankLabels": [
+      "向量 PR",
+      "點 R"
+    ],
+    "explanation": "• $\\overrightarrow{PQ} = (2 - 4,\\ 8 - (-4)) = (-2, 12)$。\n• 逆時鐘旋轉 $90^\\circ$：$(a, b) \\to (-b, a)$，得 $\\overrightarrow{PR} = (-12, -2)$。\n• $R = P + \\overrightarrow{PR} = (4 - 12,\\ -4 - 2) = (-8, -6)$。"
   }
 ]
