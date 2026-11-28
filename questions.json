@@ -240423,5 +240423,403 @@
       "證明"
     ],
     "explanation": "展開：$(x + a)^2(x + b) = x^3 + (2a + b)x^2 + (a^2 + 2ab)x + a^2b$。\n比較係數：$2a + b = 0$，$b = -2a$；$r = a^2 + 2ab = -3a^2$；$s = a^2b = -2a^3$。\n$a \\ne 0$（否則 $b = 0 = a$，與相異矛盾），所以 $r \\ne 0$，且 $\\dfrac sr = \\dfrac{-2a^3}{-3a^2} = \\dfrac{2a}3$，$a = \\dfrac{3s}{2r}$ 為有理數，$b = -2a$ 也是有理數。"
+  },
+  {
+    "id": "95-gsat-math-01",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "points": 5,
+    "question": "1. 設一元二次整係數方程式 $ax^2 + bx + c = 0$ 有一根為 $4 + 3i$。若將此方程式的兩根與原點在複數平面上標出，則此三點所圍成的三角形面積為",
+    "options": [
+      "5",
+      "6",
+      "12",
+      "16",
+      "24"
+    ],
+    "answerIndex": 2,
+    "explanation": "整係數 ⇒ 另一根 $4 - 3i$。三點 $(0, 0)$、$(4, 3)$、$(4, -3)$，底 6、高 4，面積 12。\n\n故選 (C)"
+  },
+  {
+    "id": "95-gsat-math-02",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "points": 5,
+    "question": "2. 在右圖的棋盤方格中，隨機任意取兩個格子。選出的兩個格子不在同行（有無同列無所謂）的機率為",
+    "svg": "<svg viewBox=\"0 0 148 96\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:177.6px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"36\" height=\"22\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"20\" y=\"19\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"38\" y=\"4\" width=\"36\" height=\"22\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"56\" y=\"19\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"74\" y=\"4\" width=\"36\" height=\"22\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"19\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"110\" y=\"4\" width=\"36\" height=\"22\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"128\" y=\"19\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"2\" y=\"26\" width=\"36\" height=\"22\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"20\" y=\"41\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"38\" y=\"26\" width=\"36\" height=\"22\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"56\" y=\"41\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"74\" y=\"26\" width=\"36\" height=\"22\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"41\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"110\" y=\"26\" width=\"36\" height=\"22\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"128\" y=\"41\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"2\" y=\"48\" width=\"36\" height=\"22\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"20\" y=\"63\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"38\" y=\"48\" width=\"36\" height=\"22\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"56\" y=\"63\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"74\" y=\"48\" width=\"36\" height=\"22\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"63\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"110\" y=\"48\" width=\"36\" height=\"22\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"128\" y=\"63\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"2\" y=\"70\" width=\"36\" height=\"22\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"20\" y=\"85\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"38\" y=\"70\" width=\"36\" height=\"22\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"56\" y=\"85\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"74\" y=\"70\" width=\"36\" height=\"22\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"85\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"110\" y=\"70\" width=\"36\" height=\"22\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"128\" y=\"85\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\"></text></svg>",
+    "options": [
+      "$\\dfrac1{20}$",
+      "$\\dfrac14$",
+      "$\\dfrac34$",
+      "$\\dfrac35$",
+      "$\\dfrac45$"
+    ],
+    "answerIndex": 4,
+    "explanation": "棋盤為 4 列 4 行共 16 格，取兩格 $\\dbinom{16}2 = 120$ 種；同一行 $4\\times\\dbinom42 = 24$ 種。所求 $1 - \\dfrac{24}{120} = \\dfrac45$。\n\n故選 (E)"
+  },
+  {
+    "id": "95-gsat-math-03",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "points": 5,
+    "question": "3. 右圖是由三個直角三角形堆疊而成的圖形，且 $\\overline{OD} = 8$。問：直角三角形 $OAB$ 的高 $\\overline{AB}$ 為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-math-03.png\" alt=\"三個直角三角形 OAB、OBC、OCD 堆疊，∠AOB = ∠BOC = 15°，∠COD = 30°，OD = 8\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1",
+      "$\\sqrt6 - \\sqrt2$",
+      "$\\sqrt7 - 1$",
+      "$\\sqrt3$",
+      "2"
+    ],
+    "answerIndex": 3,
+    "explanation": "$\\overline{OC} = 8\\cos30^\\circ = 4\\sqrt3$，$\\overline{OB} = \\overline{OC}\\cos15^\\circ$，$\\overline{AB} = \\overline{OB}\\sin15^\\circ = 4\\sqrt3\\sin15^\\circ\\cos15^\\circ = 2\\sqrt3\\sin30^\\circ = \\sqrt3$。\n\n故選 (D)"
+  },
+  {
+    "id": "95-gsat-math-04",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "points": 5,
+    "question": "4. 下列哪一個數值最接近 $\\sqrt2$？",
+    "options": [
+      "$\\sqrt3\\cos44^\\circ + \\sin44^\\circ$",
+      "$\\sqrt3\\cos54^\\circ + \\sin54^\\circ$",
+      "$\\sqrt3\\cos64^\\circ + \\sin64^\\circ$",
+      "$\\sqrt3\\cos74^\\circ + \\sin74^\\circ$",
+      "$\\sqrt3\\cos84^\\circ + \\sin84^\\circ$"
+    ],
+    "answerIndex": 3,
+    "explanation": "$\\sqrt3\\cos\\theta + \\sin\\theta = 2\\sin(\\theta + 60^\\circ)$。等於 $\\sqrt2$ 時 $\\sin(\\theta + 60^\\circ) = \\dfrac{\\sqrt2}2$，在選項範圍內 $\\theta + 60^\\circ = 135^\\circ$，$\\theta = 75^\\circ$，最接近 $74^\\circ$。\n\n故選 (D)"
+  },
+  {
+    "id": "95-gsat-math-05",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "points": 5,
+    "question": "5. 在養分充足的情況下，細菌的數量會以指數函數的方式成長，假設細菌 $A$ 的數量每兩個小時可以成長為兩倍，細菌 $B$ 的數量每三個小時可以成長為三倍。若養分充足且一開始兩種細菌的數量相等，則大約幾小時後細菌 $B$ 的數量除以細菌 $A$ 的數量最接近 10？",
+    "options": [
+      "24 小時",
+      "48 小時",
+      "69 小時",
+      "96 小時",
+      "117 小時"
+    ],
+    "answerIndex": 4,
+    "explanation": "$\\dfrac{3^{t/3}}{2^{t/2}} = 10$，$t\\left(\\dfrac{\\log3}3 - \\dfrac{\\log2}2\\right) = 1$，$t(0.15903 - 0.15051) = 1$，$t \\approx 117$。\n\n故選 (E)"
+  },
+  {
+    "id": "95-gsat-math-06",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "6. 假設 $a, b, c$ 是三個正整數。若 25 是 $a, b$ 的最大公因數，且 3, 4, 14 都是 $b, c$ 的公因數，則下列何者正確？",
+    "options": [
+      "$c$ 一定可以被 56 整除",
+      "$b \\ge 2100$",
+      "若 $a \\le 100$，則 $a = 25$",
+      "$a, b, c$ 三個數的最大公因數是 25 的因數",
+      "$a, b, c$ 三個數的最小公倍數大於或等於 $25\\times3\\times4\\times14$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "$[3, 4, 14] = 84$，所以 $84 \\mid b$、$84 \\mid c$；又 $25 \\mid b$，$b$ 是 $[25, 84] = 2100$ 的倍數。\n• (A) ✗：如 $c = 84$。\n• (B) ✓。\n• (C) ✓：$a$ 是 25 的倍數且 $\\le 100$；$a = 50, 75, 100$ 時與 $b$（含因數 2、3、4）的公因數會大於 25。\n• (D) ✓：$(a, b, c)$ 整除 $(a, b) = 25$。\n• (E) ✗：如 $a = 25$、$b = 2100$、$c = 84$，最小公倍數 2100 < 4200。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "95-gsat-math-07",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "7. 考慮坐標平面上所有滿足 $\\sqrt{(x - 2)^2 + y^2} + \\sqrt{(x - 2)^2 + (y + 4)^2} = 10$ 的點 $(x, y)$ 所成的圖形，下列敘述何者正確？",
+    "options": [
+      "此圖形為一橢圓",
+      "此圖形為一雙曲線",
+      "此圖形的中心在 $(2, -2)$",
+      "此圖形對稱於 $x - 2 = 0$",
+      "此圖形有一頂點 $(2, 3)$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explanation": "到兩焦點 $(2, 0)$、$(2, -4)$ 的距離和為 $10 > 4$，是橢圓，中心 $(2, -2)$，長軸在 $x = 2$ 上，$a = 5$，長軸頂點 $(2, 3)$、$(2, -7)$。\n\n故選 (A)(C)(D)(E)"
+  },
+  {
+    "id": "95-gsat-math-08",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 假設實數 $a_1, a_2, a_3, a_4$ 是一個等差數列，且滿足 $0 < a_1 < 2$ 及 $a_3 = 4$。若定義 $b_n = 2^{a_n}$，則以下哪些選項是對的？",
+    "options": [
+      "$b_1, b_2, b_3, b_4$ 是一個等比數列",
+      "$b_1 < b_2$",
+      "$b_2 > 4$",
+      "$b_4 > 32$",
+      "$b_2\\times b_4 = 256$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "公差 $d = \\dfrac{4 - a_1}2 \\in (1, 2)$。\n• (A) ✓：公比 $2^d$。\n• (B) ✓：$d > 0$。\n• (C) ✓：$a_2 = 4 - d > 2$。\n• (D) ✓：$a_4 = 4 + d > 5$。\n• (E) ✓：$2^{a_2 + a_4} = 2^{2a_3} = 256$。\n\n故選 (A)(B)(C)(D)(E)"
+  },
+  {
+    "id": "95-gsat-math-09",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 學生練習計算三次多項式 $f(x)$ 除以一次多項式 $g(x)$ 的餘式。已知 $f(x)$ 的三次項係數為 3，一次項係數為 2。甲生在計算時把 $f(x)$ 的三次項係數錯看成 2（其它係數沒看錯），乙生在計算時把 $f(x)$ 的一次項係數錯看成 $-2$（其它係數沒看錯）。而甲生和乙生算出來的餘式剛好一樣。試問 $g(x)$ 可能等於以下哪些一次式？",
+    "options": [
+      "$x$",
+      "$x - 1$",
+      "$x - 2$",
+      "$x + 1$",
+      "$x + 2$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "甲算的是 $f(x) - x^3$，乙算的是 $f(x) - 4x$。設 $g(x) = x - r$，餘式相等：$f(r) - r^3 = f(r) - 4r$，$r^3 = 4r$，$r = 0, \\pm2$。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "95-gsat-math-10",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 下圖是根據 100 名婦女的體重所作出的直方圖（圖中百分比數字代表各體重區間的相對次數，其中各區間不包含左端點而包含右端點）。該 100 名婦女體重的平均數為 55 公斤，標準差為 12.5 公斤。曲線 N 代表一常態分佈，其平均數與標準差與樣本值相同。在此樣本中，若定義「體重過重」的標準為體重超過樣本平均數 2 個標準差以上（即體重超過 80 公斤以上），則下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-math-10.png\" alt=\"體重直方圖：35–45 公斤 20%、45–55 公斤 33%、55–65 公斤 24%、65–75 公斤 12%、75–85 公斤 6%、85–95 公斤 5%，並疊上常態曲線 N\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "曲線 N（常態分佈）中，在 55 公斤以上所佔的比例約為 50%",
+      "曲線 N（常態分佈）中，在 80 公斤以上所佔的比例約為 2.5%",
+      "該樣本中，體重的中位數大於 55 公斤",
+      "該樣本中，體重的第一四分位數大於 45 公斤",
+      "該樣本中，「體重過重」（體重超過 80 公斤以上）的比例大於或等於 5%"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explanation": "• (A) ✓：常態分佈對稱於平均數。\n• (B) ✓：80 是 $\\mu + 2\\sigma$，約 $\\dfrac{1 - 0.95}2 = 2.5\\%$。\n• (C) ✗：55 公斤以下已有 $20\\% + 33\\% = 53\\%$，中位數在 45–55 之間。\n• (D) ✓：45 公斤以下只有 20%，第 25 百分位在 45 以上。\n• (E) ✓：85–95 公斤的 5% 都超過 80，再加上 75–85 中的一部分。\n\n故選 (A)(B)(D)(E)"
+  },
+  {
+    "id": "95-gsat-math-11",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 將正整數 18 分解成兩個正整數的乘積有 $1\\times18$，$2\\times9$，$3\\times6$ 三種，又 $3\\times6$ 是這三種分解中，兩數的差最小的，我們稱 $3\\times6$ 為 18 的最佳分解。當 $p\\times q$（$p \\le q$）是正整數 $n$ 的最佳分解時，我們規定函數 $F(n) = \\dfrac pq$，例如 $F(18) = \\dfrac36 = \\dfrac12$。下列有關函數 $F(n)$ 的敘述，何者正確？",
+    "options": [
+      "$F(4) = 1$",
+      "$F(24) = \\dfrac38$",
+      "$F(27) = \\dfrac13$",
+      "若 $n$ 是一個質數，則 $F(n) = \\dfrac1n$",
+      "若 $n$ 是一個完全平方數，則 $F(n) = 1$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explanation": "• (A) ✓：$2\\times2$。\n• (B) ✗：最佳分解 $4\\times6$，$F(24) = \\dfrac23$。\n• (C) ✓：$3\\times9$。\n• (D) ✓：只有 $1\\times n$。\n• (E) ✓：$\\sqrt n\\times\\sqrt n$。\n\n故選 (A)(C)(D)(E)"
+  },
+  {
+    "id": "95-gsat-math-A",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 抽樣調查某地區 1000 個有兩個小孩的家庭，得到如下數據，其中（男，女）代表第一個小孩是男孩而第二個小孩是女生的家庭，餘類推。由此數據可估計該地區有兩個小孩家庭的男、女孩性別比約為 ⑫⑬⑭ : 100（四捨五入至整數位）。",
+    "svg": "<svg viewBox=\"0 0 264 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:316.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">家庭別</text><rect x=\"132\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">家庭數</text><rect x=\"2\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">（男，男）</text><rect x=\"132\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">261</text><rect x=\"2\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">（男，女）</text><rect x=\"132\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">249</text><rect x=\"2\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">（女，男）</text><rect x=\"132\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"106.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">255</text><rect x=\"2\" y=\"116\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"67\" y=\"134.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">（女，女）</text><rect x=\"132\" y=\"116\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"134.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">235</text></svg>",
+    "blanks": [
+      "1",
+      "0",
+      "5"
+    ],
+    "blankLabels": [
+      "12",
+      "13",
+      "14"
+    ],
+    "explanation": "男孩 $2\\times261 + 249 + 255 = 1026$，女孩 $249 + 255 + 2\\times235 = 974$。$\\dfrac{1026}{974}\\times100 \\approx 105.3$，約 105 : 100。"
+  },
+  {
+    "id": "95-gsat-math-B",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 下圖為一正立方體，若 $M$ 在線段 $\\overline{AB}$ 上，$\\overline{BM} = 2\\overline{AM}$，$N$ 為線段 $\\overline{BC}$ 之中點，則 $\\cos\\angle MON = \\dfrac{⑰}{⑮⑯}\\sqrt{10}$。（分數要化成最簡分數）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-math-B.png\" alt=\"正立方體，A、B、C 在上底面，O 在 A 的正下方\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "1",
+      "5",
+      "4"
+    ],
+    "blankLabels": [
+      "15",
+      "16",
+      "17"
+    ],
+    "explanation": "設邊長 3，$O$ 為原點，$A(0, 0, 3)$、$B(3, 0, 3)$、$C(3, 3, 3)$。$M(1, 0, 3)$、$N\\left(3, \\dfrac32, 3\\right)$。\n$\\overrightarrow{OM}\\cdot\\overrightarrow{ON} = 3 + 9 = 12$，$|\\overrightarrow{OM}| = \\sqrt{10}$，$|\\overrightarrow{ON}| = \\sqrt{9 + \\dfrac94 + 9} = \\dfrac92$。\n$\\cos\\angle MON = \\dfrac{12}{\\frac92\\sqrt{10}} = \\dfrac8{3\\sqrt{10}} = \\dfrac4{15}\\sqrt{10}$。"
+  },
+  {
+    "id": "95-gsat-math-C",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 給定平面上三點 $(-6, -2)$，$(2, -1)$，$(1, 2)$。若有第四點和此三點形成一菱形（四邊長皆相等），則第四點的坐標為 (⑱, ⑲)。",
+    "blanks": [
+      "9",
+      "3"
+    ],
+    "blankLabels": [
+      "18",
+      "19"
+    ],
+    "explanation": "設 $P(-6, -2)$、$Q(2, -1)$、$R(1, 2)$：$\\overline{PQ} = \\overline{PR} = \\sqrt{65}$，$\\overline{QR} = \\sqrt{10}$。$P$ 為頂點、$\\overline{PQ}$、$\\overline{PR}$ 為兩鄰邊，第四點 $= Q + R - P = (9, 3)$。"
+  },
+  {
+    "id": "95-gsat-math-D",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "D. 如圖所示，$ABCD$ 為圓內接四邊形：若 $\\angle DBC = 30^\\circ$，$\\angle ABD = 45^\\circ$，$\\overline{CD} = 6$，則線段 $\\overline{AD} = \\sqrt{⑳㉑}$。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-math-D.png\" alt=\"圓內接四邊形 ABCD 與對角線\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "7",
+      "2"
+    ],
+    "blankLabels": [
+      "20",
+      "21"
+    ],
+    "explanation": "正弦定理（同一外接圓）：$2R = \\dfrac{\\overline{CD}}{\\sin\\angle DBC} = 12$，$\\overline{AD} = 2R\\sin\\angle ABD = 12\\cdot\\dfrac{\\sqrt2}2 = 6\\sqrt2 = \\sqrt{72}$。"
+  },
+  {
+    "id": "95-gsat-math-E",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "E. 新新鞋店為與同業進行促銷戰，推出「第二雙不用錢——買一送一」的活動。該鞋店共有八款鞋可供選擇，其價格如下表。規定所送的鞋之價格一定少於所買的價格（例如：買一個「丁」款鞋，可送甲、乙兩款鞋之一）。若有一位新新鞋店的顧客買一送一，則該顧客所帶走的兩雙鞋，其搭配方法一共有 ㉒㉓ 種。",
+    "svg": "<svg viewBox=\"0 0 460 64\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:552px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"56\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">款式</text><rect x=\"58\" y=\"4\" width=\"50\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"83\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"108\" y=\"4\" width=\"50\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"133\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"158\" y=\"4\" width=\"50\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"183\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"208\" y=\"4\" width=\"50\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"233\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"258\" y=\"4\" width=\"50\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"283\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">戊</text><rect x=\"308\" y=\"4\" width=\"50\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"333\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">己</text><rect x=\"358\" y=\"4\" width=\"50\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"383\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">庚</text><rect x=\"408\" y=\"4\" width=\"50\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"433\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">辛</text><rect x=\"2\" y=\"32\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">價格</text><rect x=\"58\" y=\"32\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"83\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">670</text><rect x=\"108\" y=\"32\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"133\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">670</text><rect x=\"158\" y=\"32\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"183\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">700</text><rect x=\"208\" y=\"32\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"233\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">700</text><rect x=\"258\" y=\"32\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"283\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">700</text><rect x=\"308\" y=\"32\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"333\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">800</text><rect x=\"358\" y=\"32\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"383\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">800</text><rect x=\"408\" y=\"32\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"433\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">800</text></svg>",
+    "blanks": [
+      "2",
+      "1"
+    ],
+    "blankLabels": [
+      "22",
+      "23"
+    ],
+    "explanation": "670 元 2 款、700 元 3 款、800 元 3 款。\n買 700 送 670：$3\\times2 = 6$；買 800 送 670：$3\\times2 = 6$；買 800 送 700：$3\\times3 = 9$。共 21 種。"
+  },
+  {
+    "id": "95-gsat-math-F",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "F. 某地共有 9 個電視頻道，將其分配給 3 個新聞台、4 個綜藝台及 2 個體育台共三種類型。若同類型電視台的頻道要相鄰，而且前兩個頻道保留給體育台，則頻道的分配方式共有 ㉔㉕㉖ 種。",
+    "blanks": [
+      "5",
+      "7",
+      "6"
+    ],
+    "blankLabels": [
+      "24",
+      "25",
+      "26"
+    ],
+    "explanation": "體育台占前兩個頻道：$2! = 2$。其餘 7 個頻道中，新聞與綜藝兩區塊的先後 2 種，區塊內排列 $3!\\times4!$。共 $2\\times2\\times6\\times24 = 576$ 種。"
+  },
+  {
+    "id": "95-gsat-math-G",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "G. 用黑、白兩種顏色的正方形地磚依照如下的規律拼成若干圖形：拼第 95 個圖需用到 ㉗㉘㉙ 塊白色地磚。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-gsat-math-G.png\" alt=\"第 1、2、3 個圖：3 列地磚，中間列每隔一塊為黑色\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "4",
+      "7",
+      "8"
+    ],
+    "blankLabels": [
+      "27",
+      "28",
+      "29"
+    ],
+    "explanation": "第 $n$ 個圖是 3 列、每列 $2n + 1$ 塊，其中黑色 $n$ 塊。白色 $3(2n + 1) - n = 5n + 3$，$n = 95$ 時為 478。"
+  },
+  {
+    "id": "95-gsat-math-H",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "H. 在三角形 $ABC$ 中，若 $D$ 點在 $\\overline{BC}$ 邊上，且 $\\overline{AB} = 7$，$\\overline{AC} = 13$，$\\overline{BD} = 7$，$\\overline{CD} = 8$，則 $\\overline{AD} =$ ㉚。",
+    "blanks": [
+      "7"
+    ],
+    "blankLabels": [
+      "30"
+    ],
+    "explanation": "$\\overline{BC} = 15$。$\\cos B = \\dfrac{49 + 225 - 169}{2\\cdot7\\cdot15} = \\dfrac{105}{210} = \\dfrac12$，$B = 60^\\circ$。\n$\\triangle ABD$ 中 $\\overline{AB} = \\overline{BD} = 7$、夾角 $60^\\circ$，為正三角形，$\\overline{AD} = 7$。"
+  },
+  {
+    "id": "95-gsat-math-I",
+    "examType": "學測",
+    "year": 95,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "I. 設 $A(0, 0)$，$B(10, 0)$，$C(10, 6)$，$D(0, 6)$ 為坐標平面上的四個點。如果直線 $y = m(x - 7) + 4$ 將四邊形 $ABCD$ 分成面積相等的兩塊，那麼 $m = \\dfrac{㉜}{㉛}$（化成最簡分數）。",
+    "blanks": [
+      "2",
+      "1"
+    ],
+    "blankLabels": [
+      "31",
+      "32"
+    ],
+    "explanation": "把矩形分成等面積兩塊的直線必通過中心 $(5, 3)$：$3 = m(5 - 7) + 4$，$m = \\dfrac12$。（分母 ㉛ 填 2，分子 ㉜ 填 1。）"
   }
 ]
