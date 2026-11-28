@@ -225866,5 +225866,333 @@
       "P"
     ],
     "explanation": "• $P'$：$\\Gamma'$ 令 $y = 0$，$40x^2 = 180$，$P'\\left(\\dfrac{3\\sqrt2}{2}, 0\\right)$。\n• 旋轉把 $\\Gamma$ 的長軸（$y$ 軸）轉到 $\\Gamma'$ 的長軸：$(0, 1)$ 轉 $\\theta$ 得 $(-\\sin\\theta, \\cos\\theta) = \\left(-\\dfrac{\\sqrt5}{3}, \\dfrac23\\right)$（$0 < \\theta < \\pi$ 需 $\\sin\\theta > 0$），$\\cos\\theta = \\dfrac23$、$\\sin\\theta = \\dfrac{\\sqrt5}{3}$。\n• $P$ 是 $P'$ 反向旋轉 $\\theta$：\n$$P = \\begin{bmatrix} \\frac23 & \\frac{\\sqrt5}{3} \\\\ -\\frac{\\sqrt5}{3} & \\frac23 \\end{bmatrix}\\begin{bmatrix} \\frac{3\\sqrt2}{2} \\\\ 0 \\end{bmatrix} = \\left(\\sqrt2, -\\frac{\\sqrt{10}}{2}\\right)$$\n（驗算：$\\Gamma: \\dfrac{x^2}{4} + \\dfrac{y^2}{5} = 1$，$\\dfrac24 + \\dfrac{10/4}{5} = 1$ ✓）"
+  },
+  {
+    "id": "111-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 設 $a_1, a_2, a_3, a_4$ 是首項為 10、公比是 10 的等比數列。令 $b = \\displaystyle\\sum_{n=1}^{3}\\log_{a_n}a_{n+1}$，試選出正確的選項。",
+    "options": [
+      "$2 < b \\le 3$",
+      "$3 < b \\le 4$",
+      "$4 < b \\le 5$",
+      "$5 < b \\le 6$",
+      "$6 < b \\le 7$"
+    ],
+    "answerIndex": 2,
+    "explanation": "$a_n = 10^n$，$\\log_{a_n}a_{n+1} = \\dfrac{n + 1}{n}$。\n$b = 2 + \\dfrac32 + \\dfrac43 = \\dfrac{29}{6} \\approx 4.83$。\n\n故選 (C)"
+  },
+  {
+    "id": "111-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 設 $c$ 為實數使得三元一次方程組 $\\begin{cases} x - y + z = 0 \\\\ 2x + cy + 3z = 1 \\\\ 3x - 3y + cz = 0 \\end{cases}$ 無解。試選出 $c$ 之值。",
+    "options": [
+      "−3",
+      "−2",
+      "0",
+      "2",
+      "3"
+    ],
+    "answerIndex": 1,
+    "explanation": "無解時係數行列式為 0：\n$$\\begin{vmatrix} 1 & -1 & 1 \\\\ 2 & c & 3 \\\\ 3 & -3 & c \\end{vmatrix} = c^2 - c - 6 = (c - 3)(c + 2) = 0$$\n• $c = 3$：第三式是第一式的 3 倍，方程組有無限多解。\n• $c = -2$：第一式 $\\times3$ 減第三式得 $z = 0$、$x = y$，代入第二式得 $0 = 1$，無解。\n\n故選 (B)"
+  },
+  {
+    "id": "111-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 坐標空間中 $O$ 為原點，點 $P$ 在第一卦限且 $\\overline{OP} = 1$。已知直線 $OP$ 與 $x$ 軸有一夾角為 $45^\\circ$，且 $P$ 點到 $y$ 軸的距離為 $\\dfrac{\\sqrt6}{3}$。試選出點 $P$ 的 $z$ 坐標。",
+    "options": [
+      "$\\dfrac12$",
+      "$\\dfrac{\\sqrt2}{4}$",
+      "$\\dfrac{\\sqrt3}{3}$",
+      "$\\dfrac{\\sqrt6}{6}$",
+      "$\\dfrac{\\sqrt3}{6}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "$P(x, y, z)$ 為單位向量，與 $x$ 軸夾 $45^\\circ$：$x = \\cos45^\\circ = \\dfrac{\\sqrt2}{2}$。\n到 $y$ 軸的距離 $\\sqrt{x^2 + z^2} = \\dfrac{\\sqrt6}{3}$：$z^2 = \\dfrac23 - \\dfrac12 = \\dfrac16$，$z = \\dfrac{\\sqrt6}{6}$。\n\n故選 (D)"
+  },
+  {
+    "id": "111-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 設多項式 $f(x) = x^3 + 2x^2 - 2x + k$、$g(x) = x^2 + ax + 1$，其中 $k, a$ 為實數。已知 $g(x)$ 整除 $f(x)$，且方程式 $g(x) = 0$ 有虛根。試選出為方程式 $f(x) = 0$ 的根之選項。",
+    "options": [
+      "−3",
+      "0",
+      "1",
+      "$\\dfrac{1 + \\sqrt{-3}}{2}$",
+      "$\\dfrac{3 + \\sqrt{-5}}{2}$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "設 $f(x) = (x^2 + ax + 1)(x + m)$，比較係數：$a + m = 2$、$1 + am = -2$、$m = k$。\n$a, m$ 是 $t^2 - 2t - 3 = 0$ 的兩根，$\\{a, m\\} = \\{3, -1\\}$。$g$ 有虛根需 $a^2 < 4$，所以 $a = -1$、$m = 3$。\n$f(x) = (x^2 - x + 1)(x + 3)$，根為 $-3$、$\\dfrac{1 \\pm \\sqrt{-3}}{2}$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "111-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 坐標平面上有一圖形 $\\Gamma$，其方程式為 $(x - 1)^2 + (y - 1)^2 = 101$。試選出正確的選項。",
+    "options": [
+      "$\\Gamma$ 與 $x$ 軸負向、$y$ 軸負向分別交於 $(-9, 0)$、$(0, -9)$",
+      "$\\Gamma$ 上 $x$ 坐標最大的點是點 $(11, 0)$",
+      "$\\Gamma$ 上的點與原點距離的最大值為 $\\sqrt2 + \\sqrt{101}$",
+      "$\\Gamma$ 在第三象限的點之極坐標可用 $[9, \\theta]$ 表示，其中 $\\pi < \\theta < \\dfrac32\\pi$",
+      "$\\Gamma$ 經旋轉線性變換後，其圖形仍可用一個不含 $xy$ 項的二元二次方程式表示"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "圓心 $C(1, 1)$、半徑 $\\sqrt{101}$。\n• (A) 正確：$y = 0$ 時 $(x - 1)^2 = 100$，$x = -9$（或 11）；同理 $(0, -9)$。\n• (B) 錯誤：$x$ 最大是 $1 + \\sqrt{101} > 11$。\n• (C) 正確：最遠距離 $= \\overline{OC} + r = \\sqrt2 + \\sqrt{101}$。\n• (D) 錯誤：第三象限的點到原點距離介於 $\\sqrt{101} - \\sqrt2 \\approx 8.64$ 與 9 之間，不全是 9。\n• (E) 正確：旋轉後仍是同半徑的圓，方程式 $(x - h)^2 + (y - k)^2 = 101$ 不含 $xy$ 項。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "111-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 假設 2 階方陣 $\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$ 所代表的線性變換將坐標平面上三點 $O(0, 0)$、$A(1, 0)$、$B(0, 1)$ 分別映射到 $O(0, 0)$、$A'(3, \\sqrt3)$、$B'(-\\sqrt3, 3)$，並將與原點距離為 1 的點 $C(x, y)$ 映射到點 $C'(x', y')$。試選出正確的選項。",
+    "options": [
+      "行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} = 6$",
+      "$\\overline{OC'} = 2\\sqrt3$",
+      "$\\overrightarrow{OC}$ 和 $\\overrightarrow{OC'}$ 的夾角為 $60^\\circ$",
+      "有可能 $y = y'$",
+      "若 $x < y$ 則 $x' < y'$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "矩陣 $\\begin{bmatrix} 3 & -\\sqrt3 \\\\ \\sqrt3 & 3 \\end{bmatrix} = 2\\sqrt3\\begin{bmatrix} \\cos30^\\circ & -\\sin30^\\circ \\\\ \\sin30^\\circ & \\cos30^\\circ \\end{bmatrix}$，是旋轉 $30^\\circ$ 再放大 $2\\sqrt3$ 倍。\n• (A) 錯誤：$9 + 3 = 12$。\n• (B) 正確：$|OC| = 1$，放大後 $2\\sqrt3$。\n• (C) 錯誤：夾角 $30^\\circ$。\n• (D) 正確：$y' = \\sqrt3x + 3y = y \\iff \\sqrt3x + 2y = 0$，此直線與單位圓有交點。\n• (E) 錯誤：$x' - y' = (3 - \\sqrt3)x - (3 + \\sqrt3)y$。例如 $(x, y) \\approx (-0.85, -0.53)$（$x < y$）時 $x' - y' \\approx -1.08 + 2.51 > 0$。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "111-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 假設 $A, B$ 為一拋物線 $\\Gamma$ 上兩點且其連線段通過 $\\Gamma$ 的焦點 $F$。設 $A, F, B$ 在 $\\Gamma$ 之準線上的投影分別為 $A', F', B'$。試選出等於 $\\dfrac{\\overline{A'F'}}{\\overline{A'A}}$ 的選項。（注意：此示意圖僅說明各點的相關位置，各點間距離關係並不正確）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-ma-07.png\" alt=\"拋物線、焦點 F、準線上的投影 A′、F′、B′ 與角 1 到 5\" style=\"width:100%;max-width:250px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\tan\\angle1$，其中 $\\angle1 = \\angle A'F'A$",
+      "$\\sin\\angle2$，其中 $\\angle2 = \\angle AF'F$",
+      "$\\sin\\angle3$，其中 $\\angle3 = \\angle A'AF$",
+      "$\\cos\\angle4$，其中 $\\angle4 = \\angle F'FB$",
+      "$\\tan\\angle5$，其中 $\\angle5 = \\angle FF'B$"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "設 $\\Gamma: y^2 = 4px$，焦點 $F(p, 0)$，準線 $x = -p$，$F'(-p, 0)$。令 $A(x_A, y_A)$（$y_A > 0$），則 $\\overline{A'F'} = y_A$、$\\overline{A'A} = x_A + p = \\overline{AF}$，所求 $= \\dfrac{y_A}{x_A + p}$。\n• (A) 錯誤：$\\tan\\angle1 = \\dfrac{\\overline{A'A}}{\\overline{A'F'}}$，是倒數。\n• (C) 正確：$\\angle3$ 是水平線 $\\overline{AA'}$ 與 $\\overline{AF}$ 的夾角，$\\overrightarrow{AF}$ 的鉛直分量長為 $y_A$，所以 $\\sin\\angle3 = \\dfrac{y_A}{\\overline{AF}} = \\dfrac{y_A}{x_A + p}$。\n• (E) 正確：$\\tan\\angle5 = \\dfrac{\\overline{B'F'}}{\\overline{B'B}} = \\dfrac{|y_B|}{x_B + p}$。焦弦滿足 $y_Ay_B = -4p^2$，代入 $x = \\dfrac{y^2}{4p}$ 化簡得 $\\dfrac{|y_B|}{x_B + p} = \\dfrac{4py_A}{y_A^2 + 4p^2} = \\dfrac{y_A}{x_A + p}$。\n• (B)(D) 一般不相等。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "111-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 假設兩數列 $\\langle a_n\\rangle$、$\\langle b_n\\rangle$，對所有正整數 $n$ 都滿足 $b_n + \\dfrac{4n - 1}{n} < a_n < 3b_n$。已知 $\\displaystyle\\lim_{n\\to\\infty}a_n = 6$，試選出正確的選項。",
+    "options": [
+      "$b_n < 6 - \\dfrac{4n - 1}{n}$",
+      "$b_n > \\dfrac{4n - 1}{2n}$",
+      "數列 $\\langle b_n\\rangle$ 有可能發散",
+      "$a_{10000} < 6.1$",
+      "$a_{10000} > 5.9$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "• (A) 錯誤：$b_n < a_n - \\dfrac{4n - 1}{n}$，但 $a_n$ 不一定小於 6。\n• (B) 正確：$b_n + \\dfrac{4n - 1}{n} < 3b_n$，得 $b_n > \\dfrac{4n - 1}{2n}$。\n• (C) 錯誤：$\\dfrac{4n - 1}{2n} < b_n < a_n - \\dfrac{4n - 1}{n}$，兩邊都趨近 2，由夾擠定理 $b_n \\to 2$。\n• (D) 錯誤：條件只給下界，單一項可以很大，例如 $n = 10000$ 時取 $b = 3$、$a = 8$ 也滿足不等式。\n• (E) 正確：$a_n > b_n + \\dfrac{4n - 1}{n} > \\dfrac{3(4n - 1)}{2n} = 6 - \\dfrac{3}{2n}$，$a_{10000} > 5.9998$。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "111-ast-ma-09",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "9. 大吉百貨春節期間準備許多紅包讓顧客抽籤得紅包，並宣稱活動會一直持續到送出所有的紅包。抽籤的籤筒內有 5 支籤、其中只有 1 支籤有標示「大吉」，且每支籤被抽中的機會均等。每位顧客從籤筒中抽取一支籤記錄後，將籤放回籤筒再抽下一回，最多抽取 3 回。當抽取過程中出現連續兩回抽中「大吉」，則該顧客停止抽籤並得到紅包。我們可將每位顧客抽籤是否得到紅包視為一次伯努力試驗。設整個活動第一個得到紅包的顧客是第 $X$ 位抽籤的顧客，並以 $E(X)$ 表示隨機變數 $X$ 的期望值，則 $E(X) =$ ⑨-1 ⑨-2。（四捨五入到整數位）",
+    "blanks": [
+      "1",
+      "4"
+    ],
+    "blankLabels": [
+      "9-1",
+      "9-2"
+    ],
+    "explanation": "一位顧客得紅包：第 1、2 回都大吉 $\\dfrac{1}{25}$，或第 1 回不是、第 2、3 回都是 $\\dfrac45\\cdot\\dfrac{1}{25} = \\dfrac{4}{125}$。\n$p = \\dfrac{5}{125} + \\dfrac{4}{125} = \\dfrac{9}{125}$。\n$X$ 為幾何分配，$E(X) = \\dfrac1p = \\dfrac{125}{9} \\approx 13.9$，四捨五入得 14。"
+  },
+  {
+    "id": "111-ast-ma-10",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "10. 老師要求班上學藝安排在下週一、二、三、四這 4 天，發完國、英、數、社、自共 5 張複習卷，每天至少發其中一科的卷子給同學帶回家練習，隔天繳交。由於週二有國、英兩門課，國文老師要求國文的卷子一定要在週一發出以便檢討；而英文老師因為當天另有指派作業，所以要求英文的卷子不要在週二發出。依此要求，學藝共有 ⑩-1 ⑩-2 種安排方式。",
+    "blanks": [
+      "4",
+      "2"
+    ],
+    "blankLabels": [
+      "10-1",
+      "10-2"
+    ],
+    "explanation": "5 張卷子分到 4 天且每天至少一張：映成函數有 $4^5 - 4\\cdot3^5 + 6\\cdot2^5 - 4 = 240$ 種，國文固定週一佔其中 $\\dfrac14$，共 60 種。\n扣掉英文在週二的情形：國→一、英→二，其餘 3 張要讓週三、週四都有：$4^3 - 2\\cdot3^3 + 2^3 = 18$。\n$60 - 18 = 42$。"
+  },
+  {
+    "id": "111-ast-ma-11",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "11. 在複數平面上，複數 $z$ 在第一象限且滿足 $|z| = 1$ 以及 $\\left|\\dfrac{-3 + 4i}{5} - z^3\\right| = \\left|\\dfrac{-3 + 4i}{5} - z\\right|$，其中 $i = \\sqrt{-1}$。若 $z$ 的實部為 $a$、虛部為 $b$，則 $a = \\dfrac{\\sqrt{⑪\\text{-}1}}{⑪\\text{-}2}$、$b = \\dfrac{⑪\\text{-}3\\sqrt{⑪\\text{-}4}}{⑪\\text{-}5}$。（化為最簡根式）",
+    "blanks": [
+      "5",
+      "5",
+      "2",
+      "5",
+      "5"
+    ],
+    "blankLabels": [
+      "11-1",
+      "11-2",
+      "11-3",
+      "11-4",
+      "11-5"
+    ],
+    "explanation": "$w = \\dfrac{-3 + 4i}{5}$、$z$、$z^3$ 都在單位圓上，$z^3$ 與 $z$ 到 $w$ 等距，所以 $z^3 = z$ 或兩者對稱於 $w$ 的方向。\n• $z^3 = z$ 得 $z = \\pm1$，不在第一象限。\n• 對稱：$3\\theta + \\theta \\equiv 2\\varphi$（模 $2\\pi$），$\\varphi = \\arg w$（$\\cos\\varphi = -\\dfrac35$）。$\\theta = \\dfrac{\\varphi}{2} + \\dfrac{k\\pi}{2}$，在第一象限取 $\\theta = \\dfrac{\\varphi}{2}$。\n$$a = \\cos\\frac{\\varphi}{2} = \\sqrt{\\frac{1 - 3/5}{2}} = \\frac{\\sqrt5}{5},\\quad b = \\sin\\frac{\\varphi}{2} = \\sqrt{\\frac{1 + 3/5}{2}} = \\frac{2\\sqrt5}{5}$$"
+  },
+  {
+    "id": "111-ast-ma-12",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 2,
+    "question": "【第 12-14 題為題組】有一積木（如圖），其中 $ACFD$ 和 $ABED$ 是兩個全等的等腰梯形，$BCFE$ 是一個矩形。設 $A$ 點在直線 $BC$ 的投影為 $M$ 且在平面 $BCFE$ 的投影為 $P$。已知 $\\overline{AD} = 30$、$\\overline{CF} = 40$、$\\overline{AP} = 15$ 且 $\\overline{BC} = 10$。將平面 $BCFE$ 置於水平桌面上，且將與 $BCFE$ 平行的平面稱為水平面。試回答下列問題。\n12. 利用 $\\overline{AD}$ 在平面 $BCFE$ 的投影長為 30，可得 $\\tan\\angle AMP =$ ⑫。（選填題，2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-ma-12.png\" alt=\"積木：上方稜線 AD，底面矩形 BCFE，M 在 BC 上\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "3"
+    ],
+    "blankLabels": [
+      "12"
+    ],
+    "explanation": "$\\overline{AD}$ 平行底面，投影長仍為 30。等腰梯形 $ACFD$ 的兩腰對稱，$\\overline{CF} = 40$，所以 $A$ 的投影 $P$ 與 $\\overline{BC}$ 的水平距離 $\\overline{PM} = \\dfrac{40 - 30}{2} = 5$（三垂線定理：$\\overline{PM} \\perp \\overline{BC}$）。\n$\\tan\\angle AMP = \\dfrac{\\overline{AP}}{\\overline{PM}} = \\dfrac{15}{5} = 3$。"
+  },
+  {
+    "id": "111-ast-ma-13",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 4,
+    "question": "【第 12-14 題為題組】有一積木（如圖），其中 $ACFD$ 和 $ABED$ 是兩個全等的等腰梯形，$BCFE$ 是一個矩形。設 $A$ 點在直線 $BC$ 的投影為 $M$ 且在平面 $BCFE$ 的投影為 $P$。已知 $\\overline{AD} = 30$、$\\overline{CF} = 40$、$\\overline{AP} = 15$ 且 $\\overline{BC} = 10$。將平面 $BCFE$ 置於水平桌面上，且將與 $BCFE$ 平行的平面稱為水平面。試回答下列問題。\n13. 令 $Q$ 為 $\\overline{FC}$ 上一點，滿足 $\\overrightarrow{AQ}$ 與 $\\overrightarrow{DF}$ 平行。利用 $\\triangle ABC$、$\\triangle ACQ$ 為全等三角形，證明若水平面 $W$ 介於 $A, P$ 之間且與 $A$ 的距離為 $x$，則 $W$ 與此積木所截的矩形區域之面積為 $20x + \\dfrac49x^2$。（非選擇題，4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-ma-12.png\" alt=\"積木：上方稜線 AD，底面矩形 BCFE，M 在 BC 上\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "selfGrade": true,
+    "blanks": [
+      "截面寬 $\\dfrac{2x}{3}$、長 $30 + \\dfrac{2x}{3}$，面積 $20x + \\dfrac49x^2$"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "積木頂端是稜線 $\\overline{AD}$（長 30），底面是 $10\\times40$ 的矩形，高 15。\n• $\\overrightarrow{AQ} \\parallel \\overrightarrow{DF}$，$ADFQ$ 為平行四邊形，$\\overline{FQ} = 30$、$\\overline{CQ} = 40 - 30 = 10 = \\overline{BC}$；兩梯形全等，$\\overline{AQ} = \\overline{DF} = \\overline{AB}$，又 $\\overline{AC}$ 共用，所以 $\\triangle ACQ \\cong \\triangle ABC$，且兩者的高都是 $\\overline{AP} = 15$。\n• 寬（$BC$ 方向）：水平面 $W$ 截 $\\triangle ABC$ 的線段，與 $\\overline{BC}$ 的比為 $\\dfrac{x}{15}$，寬 $= \\dfrac{2x}{3}$。\n• 長（$CF$ 方向）：截面的長 = 截 $\\triangle ACQ$ 所得線段 + 截平行四邊形 $ADFQ$ 所得的 30。由全等，前者也是 $\\dfrac{2x}{3}$，長 $= 30 + \\dfrac{2x}{3}$。\n面積 $= \\dfrac{2x}{3}\\left(30 + \\dfrac{2x}{3}\\right) = 20x + \\dfrac49x^2$。"
+  },
+  {
+    "id": "111-ast-ma-14",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 12-14 題為題組】有一積木（如圖），其中 $ACFD$ 和 $ABED$ 是兩個全等的等腰梯形，$BCFE$ 是一個矩形。設 $A$ 點在直線 $BC$ 的投影為 $M$ 且在平面 $BCFE$ 的投影為 $P$。已知 $\\overline{AD} = 30$、$\\overline{CF} = 40$、$\\overline{AP} = 15$ 且 $\\overline{BC} = 10$。將平面 $BCFE$ 置於水平桌面上，且將與 $BCFE$ 平行的平面稱為水平面。試回答下列問題。\n14. 將線段 $\\overline{AP}$ 的 $n$ 等分點沿著向量 $\\overrightarrow{AP}$ 的方向依序設為 $A = P_0, P_1, \\dots, P_{n-1}, P_n = P$。在每一個分段 $\\overline{P_{k-1}P_k}$，考慮以通過 $P_k$ 的水平面與此積木所截的矩形為底、$\\overline{P_{k-1}P_k}$ 為高，所形成的長方體。請利用此切片方法寫下估計此積木體積的黎曼和（不需化簡），且以定積分形式表示此積木的體積並求其值。（非選擇題，6 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/111-ast-ma-12.png\" alt=\"積木：上方稜線 AD，底面矩形 BCFE，M 在 BC 上\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "selfGrade": true,
+    "blanks": [
+      "$\\displaystyle\\sum_{k=1}^{n}\\left[20\\cdot\\frac{15k}{n} + \\frac49\\left(\\frac{15k}{n}\\right)^2\\right]\\frac{15}{n}$",
+      "$\\displaystyle\\int_0^{15}\\left(20x + \\frac49x^2\\right)dx = 2750$"
+    ],
+    "blankLabels": [
+      "黎曼和",
+      "定積分與體積"
+    ],
+    "explanation": "$\\overline{P_0P_k} = \\dfrac{15k}{n}$，第 $k$ 片底面積 $20\\cdot\\dfrac{15k}{n} + \\dfrac49\\left(\\dfrac{15k}{n}\\right)^2$，高 $\\dfrac{15}{n}$。\n黎曼和 $\\displaystyle\\sum_{k=1}^{n}\\left[20\\cdot\\frac{15k}{n} + \\frac49\\left(\\frac{15k}{n}\\right)^2\\right]\\frac{15}{n}$。\n體積 $= \\displaystyle\\int_0^{15}\\left(20x + \\frac49x^2\\right)dx = \\left[10x^2 + \\frac{4}{27}x^3\\right]_0^{15} = 2250 + 500 = 2750$。"
+  },
+  {
+    "id": "111-ast-ma-15",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 4,
+    "question": "【第 15-17 題為題組】考慮坐標平面上之向量 $\\vec a$、$\\vec b$ 滿足 $|\\vec a| + |\\vec b| = 9$ 以及 $|\\vec a - \\vec b| = 7$。若令 $|\\vec a| = x$，其中 $1 < x < 8$，且令 $\\vec a$、$\\vec b$ 的夾角為 $\\theta$，則利用向量 $\\vec a$、$\\vec b$、$\\vec a - \\vec b$ 所形成的三角形，可將 $\\cos\\theta$ 以 $x$ 表示成 $\\dfrac{c}{9x - x^2} + d$，其中 $c$、$d$ 為常數且 $c > 0$。令此表示式為 $f(x)$，且其定義域為 $\\{x \\mid 1 < x < 8\\}$。試回答下列問題。\n15. 求 $f(x)$ 及其導函數。（非選擇題，4 分）",
+    "selfGrade": true,
+    "blanks": [
+      "$f(x) = \\dfrac{16}{9x - x^2} - 1$",
+      "$f'(x) = \\dfrac{-16(9 - 2x)}{(9x - x^2)^2}$"
+    ],
+    "blankLabels": [
+      "f(x)",
+      "f'(x)"
+    ],
+    "explanation": "三角形三邊 $x$、$9 - x$、7，由餘弦定理\n$$\\cos\\theta = \\frac{x^2 + (9 - x)^2 - 49}{2x(9 - x)} = \\frac{2(x^2 - 9x + 16)}{2(9x - x^2)} = \\frac{16}{9x - x^2} - 1$$\n$f'(x) = \\dfrac{-16(9 - 2x)}{(9x - x^2)^2}$。"
+  },
+  {
+    "id": "111-ast-ma-16",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 4,
+    "question": "【第 15-17 題為題組】考慮坐標平面上之向量 $\\vec a$、$\\vec b$ 滿足 $|\\vec a| + |\\vec b| = 9$ 以及 $|\\vec a - \\vec b| = 7$。若令 $|\\vec a| = x$，其中 $1 < x < 8$，且令 $\\vec a$、$\\vec b$ 的夾角為 $\\theta$，則利用向量 $\\vec a$、$\\vec b$、$\\vec a - \\vec b$ 所形成的三角形，可將 $\\cos\\theta$ 以 $x$ 表示成 $\\dfrac{c}{9x - x^2} + d$，其中 $c$、$d$ 為常數且 $c > 0$。令此表示式為 $f(x)$，且其定義域為 $\\{x \\mid 1 < x < 8\\}$。試回答下列問題。\n16. 說明 $f(x)$ 在定義域中遞增、遞減的情況。並說明 $x$ 為多少時 $\\vec a$、$\\vec b$ 的夾角 $\\theta$ 最大。（非選擇題，4 分）",
+    "selfGrade": true,
+    "blanks": [
+      "$1 < x < \\dfrac92$ 遞減，$\\dfrac92 < x < 8$ 遞增",
+      "$x = \\dfrac92$ 時 $\\theta$ 最大"
+    ],
+    "blankLabels": [
+      "增減",
+      "夾角最大"
+    ],
+    "explanation": "$f'(x)$ 的正負由 $-(9 - 2x)$ 決定：$1 < x < \\dfrac92$ 時 $f' < 0$ 遞減；$\\dfrac92 < x < 8$ 時 $f' > 0$ 遞增。\n$x = \\dfrac92$ 時 $\\cos\\theta$ 最小，$\\theta$ 最大（$\\cos$ 在 $[0, \\pi]$ 遞減）。"
+  },
+  {
+    "id": "111-ast-ma-17",
+    "examType": "分科/指考",
+    "year": 111,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 4,
+    "question": "【第 15-17 題為題組】考慮坐標平面上之向量 $\\vec a$、$\\vec b$ 滿足 $|\\vec a| + |\\vec b| = 9$ 以及 $|\\vec a - \\vec b| = 7$。若令 $|\\vec a| = x$，其中 $1 < x < 8$，且令 $\\vec a$、$\\vec b$ 的夾角為 $\\theta$，則利用向量 $\\vec a$、$\\vec b$、$\\vec a - \\vec b$ 所形成的三角形，可將 $\\cos\\theta$ 以 $x$ 表示成 $\\dfrac{c}{9x - x^2} + d$，其中 $c$、$d$ 為常數且 $c > 0$。令此表示式為 $f(x)$，且其定義域為 $\\{x \\mid 1 < x < 8\\}$。試回答下列問題。\n17. 利用 $f(x)$ 的一次估計（一次近似），求當 $x = 4.96$ 時，$\\cos\\theta$ 約為多少？（非選擇題，4 分）",
+    "selfGrade": true,
+    "blanks": [
+      "約 −0.2016"
+    ],
+    "blankLabels": [
+      "cosθ"
+    ],
+    "explanation": "取容易計算的 $x = 5$：$f(5) = \\dfrac{16}{20} - 1 = -0.2$，$f'(5) = \\dfrac{-16(-1)}{400} = 0.04$。\n$f(4.96) \\approx f(5) + f'(5)(4.96 - 5) = -0.2 - 0.0016 = -0.2016$。"
   }
 ]
