@@ -257573,5 +257573,873 @@
       "產業發展方向"
     ],
     "explanation": "機械電機與精密儀器需要大量資本與技術投入，顯示臺灣產業朝資本、技術密集的方向升級。"
+  },
+  {
+    "id": "93m-ast-geo-01",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-2 為題組\n紐西蘭的北島和南島分別擁有壯麗與多樣的地形，不僅為熱門電影「魔戒」的拍攝地點，也為紐西蘭帶來觀光熱潮。請問：\n\n電影中拯救「中土世界」的方法是將魔戒丟入「末日火山」的岩漿中，該外景選在紐西蘭最高的活火山，要造訪這個外景應到圖1中的哪個位置？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-01.png\" alt=\"圖1 紐西蘭地圖：甲在北島北部；乙在北島中部；丙在南島東岸中部的平原；丁在南島西南部山區\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "紐西蘭最高的活火山是北島中部的魯阿佩胡火山，在乙。\n\n故選 (B)"
+  },
+  {
+    "id": "93m-ast-geo-02",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-2 為題組\n紐西蘭的北島和南島分別擁有壯麗與多樣的地形，不僅為熱門電影「魔戒」的拍攝地點，也為紐西蘭帶來觀光熱潮。請問：\n\n電影中的「洛汗國」需要廣闊的平原地景，外景選在紐西蘭最肥沃、也是其穀倉的大平原。請問該外景應在圖1哪個位置？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-01.png\" alt=\"圖1 紐西蘭地圖：甲在北島北部；乙在北島中部；丙在南島東岸中部的平原；丁在南島西南部山區\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "紐西蘭最大的平原是南島東岸的坎特伯里平原，是主要的穀物產區，在丙。\n\n故選 (C)"
+  },
+  {
+    "id": "93m-ast-geo-03",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "3-4 為題組\n星羅棋布的島嶼、綿延的海岸線與豐碩的古文明，為希臘經濟發展重要的基石。請問：\n\n希臘自古漁業發達，如今海產卻需要進口。地中海東部海洋資源枯竭的主要原因：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-03.png\" alt=\"圖2 希臘地圖：甲在北部內陸（馬其頓一帶）；乙在東北方愛琴海島嶼（小亞細亞西岸外）；丙在西部愛奧尼亞海沿岸；丁在中部東南、阿提卡半島一帶\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "工業污染",
+      "聖嬰現象",
+      "過度捕撈",
+      "戰亂頻繁"
+    ],
+    "answerIndex": 2,
+    "explanation": "地中海為半封閉海，營養鹽少、漁產本就有限，長期過度捕撈使資源枯竭。\n\n故選 (C)"
+  },
+  {
+    "id": "93m-ast-geo-04",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "3-4 為題組\n星羅棋布的島嶼、綿延的海岸線與豐碩的古文明，為希臘經濟發展重要的基石。請問：\n\n2004年奧運在雅典舉行，運動員與遊客在參賽與觀賽之餘，尚可走訪各地名勝古蹟。請問雅典位於圖2何處？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-03.png\" alt=\"圖2 希臘地圖：甲在北部內陸（馬其頓一帶）；乙在東北方愛琴海島嶼（小亞細亞西岸外）；丙在西部愛奧尼亞海沿岸；丁在中部東南、阿提卡半島一帶\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "雅典位於希臘中部東南的阿提卡半島，在丁。\n\n故選 (D)"
+  },
+  {
+    "id": "93m-ast-geo-05",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "5-6 為題組\n非洲第三世界國家企圖效法亞洲、拉丁美洲國家的經濟轉型經驗，卻成效有限。專家認為：非洲國家的貧窮，實深受國際經濟全球化的影響。請問：\n\n在經濟全球化之下，非洲國家的工業常具有下列哪些特性？甲、工業支持農業的發展；乙、工業技術升級不易；丙、高度依賴國外資金；丁、以出口導向來縮小區域差異；戊、以進口替代來賺取外匯",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "丁戊"
+    ],
+    "answerIndex": 1,
+    "explanation": "非洲工業多為外資經營的初級加工業，技術升級不易（乙）、高度依賴外資（丙）。進口替代是為了減少進口、節省外匯，而非賺取外匯。\n\n故選 (B)"
+  },
+  {
+    "id": "93m-ast-geo-06",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "5-6 為題組\n非洲第三世界國家企圖效法亞洲、拉丁美洲國家的經濟轉型經驗，卻成效有限。專家認為：非洲國家的貧窮，實深受國際經濟全球化的影響。請問：\n\n下列何者最可以解釋全球化使非洲第三世界國家的貧窮問題更加突顯：甲、當地的農礦資源多以未加工或低度加工的形式輸出；乙、當地的傳統糧食生產因跨國企業的發展而大幅提昇；丙、跨國企業在當地的產業經營方式促使農地兼併普遍；丁、跨國企業在當地的商業化的農業經營使得風險降低",
+    "options": [
+      "甲丙",
+      "甲丁",
+      "乙丙",
+      "乙丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "原料低價輸出、附加價值留在國外（甲）；跨國企業兼併農地發展栽培業，小農失去土地（丙）。跨國企業擠壓傳統糧食生產，單一作物也提高風險。\n\n故選 (A)"
+  },
+  {
+    "id": "93m-ast-geo-07",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "7-8 為題組\n美國墨西哥灣沿海及密西西比河下游三角洲地區，氣候暖濕，表土之下多屬黏土層，適合稻作栽培；當地農業不僅專業化，且投入大量專用機械和灌溉成本，農民不輕易轉業，並積極維護其利益，使得稻米持續是美國與開發中國家互動的籌碼。請問：\n\n上文所說的稻米生產區最接近美國哪一傳統農業地帶？",
+    "options": [
+      "酪農帶",
+      "玉米帶",
+      "小麥帶",
+      "棉花帶"
+    ],
+    "answerIndex": 3,
+    "explanation": "墨西哥灣沿海與密西西比河下游屬美國南部的棉花帶。\n\n故選 (D)"
+  },
+  {
+    "id": "93m-ast-geo-08",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "7-8 為題組\n美國墨西哥灣沿海及密西西比河下游三角洲地區，氣候暖濕，表土之下多屬黏土層，適合稻作栽培；當地農業不僅專業化，且投入大量專用機械和灌溉成本，農民不輕易轉業，並積極維護其利益，使得稻米持續是美國與開發中國家互動的籌碼。請問：\n\n今日美國稻作持續大規模生產的重要原因？甲、外交政策的需求；乙、交通運輸條件的便捷；丙、稻農團體對國會的壓力；丁、可減少環境生態的衝擊；戊、大量固定成本的投入",
+    "options": [
+      "甲乙丁",
+      "甲丙戊",
+      "乙丙戊",
+      "乙丙丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "稻米是美國與開發中國家互動的籌碼（甲），稻農積極維護利益、遊說國會（丙），且已投入大量機械與灌溉成本，不易轉業（戊）。\n\n故選 (B)"
+  },
+  {
+    "id": "93m-ast-geo-09",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "9-10 為題組\n中南美洲國家在殖民帝國的影響，與殖民母國互動頻繁，目前許多國家呈現依賴經濟狀況，貧窮與貧富不均的現象普遍。請問：\n\n下列哪一組合最能表現中南美洲依賴經濟的特色？甲、區域發展多在反吸退化階段；乙、產業技術高度發展；丙、農作多為經濟作物；丁、傳統農業發展多有工業支援；戊、首要型都市是普遍現象",
+    "options": [
+      "甲丙丁",
+      "乙丁戊",
+      "甲丙戊",
+      "甲乙丙"
+    ],
+    "answerIndex": 2,
+    "explanation": "資源與人口被核心都市吸走，邊陲地區退化（甲）；農業以外銷經濟作物為主（丙）；首要型都市普遍（戊）。產業技術落後，傳統農業缺乏工業支援。\n\n故選 (C)"
+  },
+  {
+    "id": "93m-ast-geo-10",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "9-10 為題組\n中南美洲國家在殖民帝國的影響，與殖民母國互動頻繁，目前許多國家呈現依賴經濟狀況，貧窮與貧富不均的現象普遍。請問：\n\n拉丁美洲國家的貧富不均問題與下列哪些最相關：甲、宗教、語言複雜；乙、農地面積不足；丙、單一作物的農業；丁、跨國企業的經營；戊、資源分布不均；己、人口分布不均",
+    "options": [
+      "甲乙丙",
+      "乙戊己",
+      "丙丁戊",
+      "甲丁己"
+    ],
+    "answerIndex": 2,
+    "explanation": "單一作物栽培業（丙）由跨國企業經營（丁），利潤集中於少數人；資源分布不均（戊）擴大區域與階層差距。拉丁美洲宗教以天主教為主，語言較單純；農地並不缺，而是分配不均。\n\n故選 (C)"
+  },
+  {
+    "id": "93m-ast-geo-11",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "11-12 為題組\n福建德化近年全縣有陶瓷企業1100多家，從業人員8萬多人，形成了傳統瓷雕、西洋工藝瓷、日用瓷三大陶瓷產品體系，2003年被選為中國瓷都；面對瓷都地位能否保住，江西景德鎮決定對陶瓷業實施一系列改革，以期在短時間內可以重振往昔盛況。請問：\n\n近年德化陶瓷業的成就，與下列哪一項最有關係？",
+    "options": [
+      "大企業經營體制",
+      "海外市場廣大",
+      "航空運輸便捷",
+      "資源豐富"
+    ],
+    "answerIndex": 1,
+    "explanation": "德化發展西洋工藝瓷等外銷產品，靠廣大的海外市場成長。題幹提到有 1100 多家企業，多為中小企業，不是大企業體制。\n\n故選 (B)"
+  },
+  {
+    "id": "93m-ast-geo-12",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "11-12 為題組\n福建德化近年全縣有陶瓷企業1100多家，從業人員8萬多人，形成了傳統瓷雕、西洋工藝瓷、日用瓷三大陶瓷產品體系，2003年被選為中國瓷都；面對瓷都地位能否保住，江西景德鎮決定對陶瓷業實施一系列改革，以期在短時間內可以重振往昔盛況。請問：\n\n景德鎮陶瓷業為因應他地挑戰，下列哪一發展方向可加速其改革？",
+    "options": [
+      "淡化品牌意識，提高市場佔有率",
+      "遵循古法製程，發揚傳統藝術",
+      "培養大規模生產能力，提高產量",
+      "發展民營經濟，打破國有壟斷"
+    ],
+    "answerIndex": 3,
+    "explanation": "景德鎮陶瓷業長期以國營企業為主，效率低落；開放民營、引入競爭，才能加速改革。\n\n故選 (D)"
+  },
+  {
+    "id": "93m-ast-geo-13",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-14 為題組\n解釋今日高科技產業（如積體電路與液晶面板）的區位要素，應加上產品生命週期、技術創新，並配合全球分工或區域分化的概念。請問：\n\n在高度全球分工的情形下，一區域內的技術創新對該區域整體的影響不包含：",
+    "options": [
+      "改變區域經濟結盟的國家組成",
+      "改變區域的經濟競爭力",
+      "改變生產活動的空間聚集",
+      "改變產業分工的狀況"
+    ],
+    "answerIndex": 0,
+    "explanation": "技術創新會提升競爭力、改變產業聚集與分工，但區域經濟結盟的成員是政治協商的結果，不會因技術創新而改變。\n\n故選 (A)"
+  },
+  {
+    "id": "93m-ast-geo-14",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-14 為題組\n解釋今日高科技產業（如積體電路與液晶面板）的區位要素，應加上產品生命週期、技術創新，並配合全球分工或區域分化的概念。請問：\n\n目前台灣在全球高科技產業分工的最主要優勢為：",
+    "options": [
+      "市場",
+      "政治",
+      "技術",
+      "資金"
+    ],
+    "answerIndex": 2,
+    "explanation": "臺灣在晶圓代工、面板等的製程技術領先，是在全球分工中的主要優勢。\n\n故選 (C)"
+  },
+  {
+    "id": "93m-ast-geo-15",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "15-16 為題組\n台灣每年的水資源總量約641億m³，而利用到的總水量約為207億m³，為達到台灣整體水資源的最適當利用，水利單位應隨時代的變遷，檢討各種用水需求的供水方案。請問：\n\n目前台灣的工業用水，主要由下列哪種水源供應？",
+    "options": [
+      "水庫",
+      "地下水",
+      "下游築堰引水",
+      "水田灌溉尾水"
+    ],
+    "answerIndex": 1,
+    "explanation": "臺灣工業用水有相當大比例來自自行抽取的地下水，這也是西南沿海地層下陷的原因之一。\n\n故選 (B)"
+  },
+  {
+    "id": "93m-ast-geo-16",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "15-16 為題組\n台灣每年的水資源總量約641億m³，而利用到的總水量約為207億m³，為達到台灣整體水資源的最適當利用，水利單位應隨時代的變遷，檢討各種用水需求的供水方案。請問：\n\n為有效運用有限的水資源，近年來政府有「水田轉作」之議。若目前的水田用水被轉移他用，可能會對環境生態帶來的影響是：甲、加速福壽螺的蔓延；乙、土壤可變得更肥沃；丙、地下水補注量減少；丁、流域內河川洪峰來臨時間縮短；戊、地下水使用量增加",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "丁戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "水田的灌溉水會下滲補注地下水，轉作後補注減少（丙）；水田也有蓄洪滯洪功能，轉作後雨水很快流入河川，洪峰提早到來（丁）。\n\n故選 (C)"
+  },
+  {
+    "id": "93m-ast-geo-17",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "17-18 為題組\n資料一：台灣島地處副熱帶，但高聳的中央山脈，使得植被呈熱帶到寒帶垂直分布的特色，在海拔3500公尺以上中央山脈的高山峰頂，自然植被景觀為高山寒原；但緯度相近的青藏高原在3200-4200公尺間的坡地及谷地，仍多森林。\n資料二：近日敏督利颱風帶來的豪大雨重創台灣中南部，大量土石流從山區沖刷而下，不少巨大木頭隨著潮流被沖到北台灣的岸上，但民眾不可隨便撿拾，以免觸法。請問：\n\n臺灣中央山脈3500公尺以上的自然植被景觀，主要環境因子的正確組合是：甲、日照強烈；乙、地勢陡峻；丙、風力強勁；丁、空氣稀薄；戊、土層淺薄；己、土壤水缺乏",
+    "options": [
+      "甲乙丙丁",
+      "甲丁戊己",
+      "乙丙丁戊",
+      "乙丙戊己"
+    ],
+    "answerIndex": 3,
+    "explanation": "臺灣高山峰頂坡陡（乙）、風強（丙）、土層淺薄（戊），雨水很快流失、土壤保水差（己），樹木難以生長，只能形成高山寒原。青藏高原同樣空氣稀薄、日照強，仍有森林，可見甲、丁不是主因。\n\n故選 (D)"
+  },
+  {
+    "id": "93m-ast-geo-18",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "17-18 為題組\n資料一：台灣島地處副熱帶，但高聳的中央山脈，使得植被呈熱帶到寒帶垂直分布的特色，在海拔3500公尺以上中央山脈的高山峰頂，自然植被景觀為高山寒原；但緯度相近的青藏高原在3200-4200公尺間的坡地及谷地，仍多森林。\n資料二：近日敏督利颱風帶來的豪大雨重創台灣中南部，大量土石流從山區沖刷而下，不少巨大木頭隨著潮流被沖到北台灣的岸上，但民眾不可隨便撿拾，以免觸法。請問：\n\n繼九二一地震後，近日七二洪災又重創台灣中部山區，此一現象與下列哪些因素有關？甲、國有林被盜伐；乙、地震後崩塌地增多；丙、政府未投入復建工程；丁、林木種類單一；戊、氣象資料未及早公告",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "丁戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "盜伐使山坡失去植被保護（甲，大量漂流木即為證據）；九二一地震造成大量鬆動土石與崩塌地（乙），豪雨時形成土石流。\n\n故選 (A)"
+  },
+  {
+    "id": "93m-ast-geo-19",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "19-20 為題組\n為了要有效利用且合理分配國土資源，政府依目的及範圍的不同，訂定了區域計畫、都市計畫、地方生活圈等等。請問：\n\n下列有關區域計畫的敘述，哪些是正確的？甲、台灣有北中南東西等五個區域計畫；乙、中部區域計畫所涵蓋的面積最廣；丙、區域計劃係根據國土綜合開發計畫而設；丁、區域計畫以均衡區域發展為目的",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "甲丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "區域計畫上承國土綜合開發計畫（丙），目的在均衡區域發展（丁）。臺灣只有北、中、南、東四個區域計畫，面積最大的是東部區域。\n\n故選 (C)"
+  },
+  {
+    "id": "93m-ast-geo-20",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "19-20 為題組\n為了要有效利用且合理分配國土資源，政府依目的及範圍的不同，訂定了區域計畫、都市計畫、地方生活圈等等。請問：\n\n下列有關地方生活圈的敘述，哪些是正確的？甲、地方生活圈的規畫係包含在縣市綜合開發計畫之內；乙、地方生活圈的目的是在減緩人口向大都會區聚集的現象；丙、地方生活圈包含了都會生活圈與一般生活圈(包含離島)；丁、地方生活圈的規畫主要是依據邱念圈的理論而設計出",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "甲丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "生活圈建設在各地區提供完整的生活機能，減緩人口向大都會集中（乙）；全臺分為都會生活圈與一般生活圈（含離島）（丙）。生活圈依中地理論規劃，屬國土層級的計畫。\n\n故選 (B)"
+  },
+  {
+    "id": "93m-ast-geo-21",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-22 為題組\n聯合國預估2050年人口成長率如下：全球以非洲最高，中部非洲為193%，西非是142%，然而南部非洲卻為−22％；亞洲成長率是105%，然東亞地區則僅增加5%。請問：\n\n導致東亞人口成長率預估遠低於亞洲整體人口成長率的最主要原因是：",
+    "options": [
+      "韓國人重個人主義，生育率下降",
+      "日本人口結構老化，死亡率上升",
+      "香港人口大量外移，人口遽減",
+      "中國一胎化政策成功，成長率趨緩"
+    ],
+    "answerIndex": 3,
+    "explanation": "東亞人口以中國占絕大多數，一胎化政策使中國人口成長趨緩，主導了東亞的低成長率。\n\n故選 (D)"
+  },
+  {
+    "id": "93m-ast-geo-22",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-22 為題組\n聯合國預估2050年人口成長率如下：全球以非洲最高，中部非洲為193%，西非是142%，然而南部非洲卻為−22％；亞洲成長率是105%，然東亞地區則僅增加5%。請問：\n\n南部非洲人口預測的增加較其他非洲地區緩慢的主要原因是：",
+    "options": [
+      "愛滋病導致出生率降低",
+      "愛滋病導致死亡率增加",
+      "戰亂使社會增加率降低",
+      "工業化促使出生率降低"
+    ],
+    "answerIndex": 1,
+    "explanation": "南部非洲（南非、波札那等）愛滋病感染率全球最高，大量青壯人口死亡，使人口成長轉為負值。\n\n故選 (B)"
+  },
+  {
+    "id": "93m-ast-geo-23",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "23-24 為題組\n不同民族的對立，常是造成國家內部動亂或國際紛爭的主要原因。請問：\n\n下列哪些動亂，主要是由於居住境內的不同民族交戰所造成？甲、1998年印尼蘇哈托總統被迫下台；乙、1998年剛果民主共和國的反政府內戰；丙、1999年科索沃屠殺事件；丁、2001年阿富汗塔利班政權瓦解；戊、2004年哈瑪斯組織領導者被刺事件",
+    "options": [
+      "甲乙丙",
+      "甲丁戊",
+      "丙丁戊",
+      "乙丙戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "剛果內戰牽涉境內圖西族等不同民族（乙）；科索沃是塞爾維亞人與阿爾巴尼亞人衝突（丙）；哈瑪斯領袖遇刺屬以色列與巴勒斯坦的衝突（戊）。蘇哈托下台源於金融危機與民主運動；塔利班瓦解是美國出兵。\n\n故選 (D)"
+  },
+  {
+    "id": "93m-ast-geo-24",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "23-24 為題組\n不同民族的對立，常是造成國家內部動亂或國際紛爭的主要原因。請問：\n\n民族在追求獨立自主的過程中，也會引起國際紛爭。某一民族的處境如下：人口總數估計約兩千萬人，但地圖上無此國家；居住在多國邊界的山岳地帶，為多國境內的少數民族；宗教屬伊斯蘭教遜尼派；語言屬印歐語系的一支；獨立運動遭各國政府軍鎮壓，美國曾給予軍事援助。請問該民族是：",
+    "options": [
+      "亞美尼亞人",
+      "巴勒斯坦人",
+      "庫德族人",
+      "車臣人"
+    ],
+    "answerIndex": 2,
+    "explanation": "庫德族分布在土耳其、伊拉克、伊朗、敘利亞交界山區，是沒有國家的最大民族，信仰遜尼派、說印歐語系的庫德語。亞美尼亞人已有國家且信仰基督教；巴勒斯坦人說閃語系阿拉伯語。\n\n故選 (C)"
+  },
+  {
+    "id": "93m-ast-geo-25",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "25-26 為題組\n某都市位於北半球溫帶氣候區，圖3是該都市在某年最熱月及最冷月的逐日最高溫及最低溫的分布圖。請問：\n\n此都市最可能是：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-25.png\" alt=\"圖3 某都市一月與七月逐日氣溫（1～31 日）：七月的曲線在約 12～23℃ 間上下鋸齒擺動，多數日子最高溫約 19～21℃、最低溫約 12～14℃；一月的曲線在約 −3～8℃ 間擺動，多在 2～7℃\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "溫哥華",
+      "上海",
+      "多倫多",
+      "巴西里亞"
+    ],
+    "answerIndex": 0,
+    "explanation": "七月氣溫只在 12～23℃，夏季涼爽；一月多在 0℃ 以上，冬季溫和，年溫差小，是溫帶海洋性氣候的溫哥華。上海夏季炎熱；多倫多冬季嚴寒；巴西里亞在南半球熱帶。\n\n故選 (A)"
+  },
+  {
+    "id": "93m-ast-geo-26",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "25-26 為題組\n某都市位於北半球溫帶氣候區，圖3是該都市在某年最熱月及最冷月的逐日最高溫及最低溫的分布圖。請問：\n\n圖3中最熱月的平均日溫差約為：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-25.png\" alt=\"圖3 某都市一月與七月逐日氣溫（1～31 日）：七月的曲線在約 12～23℃ 間上下鋸齒擺動，多數日子最高溫約 19～21℃、最低溫約 12～14℃；一月的曲線在約 −3～8℃ 間擺動，多在 2～7℃\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "17℃",
+      "12℃",
+      "7℃",
+      "3℃"
+    ],
+    "answerIndex": 2,
+    "explanation": "七月逐日最高溫多在 19～21℃，最低溫多在 12～14℃，平均日溫差約 7℃。\n\n故選 (C)"
+  },
+  {
+    "id": "93m-ast-geo-27",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-28 為題組\n灰化土(灰壤)為寒帶針葉林地區代表性的土壤。請問：\n\n灰化土由表土至底土間的土色順序是：",
+    "options": [
+      "黑→灰白→暗紅棕或黃棕",
+      "暗紅棕或黃棕→灰白→黑",
+      "黑→暗紅棕或黃棕→灰白",
+      "暗紅棕或黃棕→黑→灰白"
+    ],
+    "answerIndex": 0,
+    "explanation": "最上層是落葉堆積的黑色腐植層；其下是鐵、鋁被淋溶走的灰白色淋溶層；再下是鐵、鋁沉積的暗紅棕或黃棕色澱積層。\n\n故選 (A)"
+  },
+  {
+    "id": "93m-ast-geo-28",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-28 為題組\n灰化土(灰壤)為寒帶針葉林地區代表性的土壤。請問：\n\n灰化土因灰白色土層而得名，此層形成原因是：",
+    "options": [
+      "氣溫低故土壤礦物質分解慢",
+      "落葉分解形成有機酸的淋溶作用",
+      "土壤週期性凍結使土色變淺",
+      "底層土壤積水缺氧的還原作用"
+    ],
+    "answerIndex": 1,
+    "explanation": "針葉分解產生有機酸，酸性溶液把表層的鐵、鋁等淋溶到下層，只留下灰白色的石英砂。\n\n故選 (B)"
+  },
+  {
+    "id": "93m-ast-geo-29",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "29-30 為題組\n英國曾於1967年爆發口蹄疫，疫情侷限在以第一宗案例為中心的西南部；最近一次大流行發生於2001年，高峰期出現在3月下旬到4月初。圖4是2001年高峰期間，發生案例空間擴散的三個階段。請問：\n\n對於圖4口蹄疫案例空間擴散，下列哪兩項為正確的解讀？甲、在第I階段已廣泛分布；乙、第II階段明顯呈現主核心和次核心的模式；丙、倫敦附近為案例分布的主核心區；丁、案例分布模式的轉變主要發生在四月",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-29.png\" alt=\"圖4 英格蘭與威爾斯口蹄疫案例分布（圓大小代表案例數 1～600）：I（3 月 2 日）只有零星小點散布各地；II（3 月 30 日）北部（英格蘭西北，坎布里亞一帶）出現最大的圓，西南部（德文郡一帶）也有大圓，其餘為小圓；III（4 月 20 日）北部與西南部的圓更大，中部與威爾斯邊界也增加不少中型圓；倫敦附近幾乎沒有案例\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙",
+      "甲丁",
+      "乙丙",
+      "丙丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "第 I 階段已有零星案例散布全國各地（甲）；第 II 階段北部形成最大的主核心，西南部為次核心（乙）。倫敦附近案例很少；分布模式在 3 月就已轉變。\n\n故選 (A)"
+  },
+  {
+    "id": "93m-ast-geo-30",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "29-30 為題組\n英國曾於1967年爆發口蹄疫，疫情侷限在以第一宗案例為中心的西南部；最近一次大流行發生於2001年，高峰期出現在3月下旬到4月初。圖4是2001年高峰期間，發生案例空間擴散的三個階段。請問：\n\n英國2001年口蹄疫大流行的空間擴散模式與規模，研究人員認為與該國近三十餘年農業發展的趨勢有密切關係。請問下列哪兩項因素的影響最為直接？甲、食物供給系統的全球化趨勢日增；乙、農業由勞力密集逐漸轉變成資本密集；丙、農場以規模經濟豢養大量牲畜；丁、牲畜交易所跨越的距離明顯增長",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-29.png\" alt=\"圖4 英格蘭與威爾斯口蹄疫案例分布（圓大小代表案例數 1～600）：I（3 月 2 日）只有零星小點散布各地；II（3 月 30 日）北部（英格蘭西北，坎布里亞一帶）出現最大的圓，西南部（德文郡一帶）也有大圓，其餘為小圓；III（4 月 20 日）北部與西南部的圓更大，中部與威爾斯邊界也增加不少中型圓；倫敦附近幾乎沒有案例\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙",
+      "甲丁",
+      "乙丙",
+      "丙丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "大規模飼養使一處感染就波及大量牲畜（規模大，丙）；牲畜長距離交易運送，使疫情迅速擴散到全國各地（擴散模式，丁）。\n\n故選 (D)"
+  },
+  {
+    "id": "93m-ast-geo-31",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "31-32 為題組\n利用次數分配曲線圖可觀察事件發生次數的分配特性。圖5及圖6均為次數分配曲線圖。請問：\n\n「近年這條河川愈來愈難治理，水庫經常缺水，但鬧大洪水的日子也比以前增加了。」若X變數為日逕流量，上述日逕流量次數分配的變化應接近於：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-31.png\" alt=\"圖5、圖6 次數分配曲線（橫軸 X、縱軸次數）：圖5 中乙曲線高而窄，甲曲線低而寬，兩者平均值相同；圖6 中丁、丙兩曲線形狀相近，丁的峰在左（X 較小），丙的峰在右（X 較大）\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲→乙",
+      "乙→甲",
+      "丙→丁",
+      "丁→丙"
+    ],
+    "answerIndex": 1,
+    "explanation": "缺水（逕流量很小）與大洪水（逕流量很大）的日子都增加，代表分布兩端變多、更分散，由高而窄的乙變成低而寬的甲。\n\n故選 (B)"
+  },
+  {
+    "id": "93m-ast-geo-32",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "31-32 為題組\n利用次數分配曲線圖可觀察事件發生次數的分配特性。圖5及圖6均為次數分配曲線圖。請問：\n\n「近年地震出現的次數雖然沒有增加，但地震威力卻比以前厲害呢！」若X變數為地震規模，上述地震規模次數分配的變化應接近於：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-31.png\" alt=\"圖5、圖6 次數分配曲線（橫軸 X、縱軸次數）：圖5 中乙曲線高而窄，甲曲線低而寬，兩者平均值相同；圖6 中丁、丙兩曲線形狀相近，丁的峰在左（X 較小），丙的峰在右（X 較大）\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲→乙",
+      "乙→甲",
+      "丙→丁",
+      "丁→丙"
+    ],
+    "answerIndex": 3,
+    "explanation": "次數不變（曲線形狀相同），但規模變大，整條分布向右移動，由丁變成丙。\n\n故選 (D)"
+  },
+  {
+    "id": "93m-ast-geo-33",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "33-34 為題組\n圖7為2002年10月30日由衛星所拍攝義大利西西里島某災害發生後第4天的影像，圖8為該地區的等高線圖，表1為四種衛星的資料特性。請問：\n\n針對此災害，義大利政府應採取下列哪項應變措施？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-33.png\" alt=\"圖7 西西里島東北部衛星影像：一道寬大的灰白色煙柱由島上東部的山峰向東南方飄出，橫越海面；圖8 西西里島等高線圖：東部有一座等高線密集、呈同心圓的高山（埃特納火山）\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "緊急疏散附近居民",
+      "對災害源進行空中滅火",
+      "立即關閉製造污染之設施",
+      "宣導附近居民緊閉門窗減少外出"
+    ],
+    "answerIndex": 0,
+    "explanation": "影像中的煙柱來自西西里島東部的埃特納火山（2002 年 10 月噴發），熔岩與火山灰威脅附近聚落，應緊急疏散居民。\n\n故選 (A)"
+  },
+  {
+    "id": "93m-ast-geo-34",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "33-34 為題組\n圖7為2002年10月30日由衛星所拍攝義大利西西里島某災害發生後第4天的影像，圖8為該地區的等高線圖，表1為四種衛星的資料特性。請問：\n\n<svg viewBox=\"0 0 314 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:376.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">衛星</text><rect x=\"72\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">空間解析度</text><rect x=\"192\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">時間解析度</text><rect x=\"2\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"72\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1000m</text><rect x=\"192\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">16天</text><rect x=\"2\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"72\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">36m</text><rect x=\"192\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">24天</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"72\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">30m</text><rect x=\"192\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">16天</text><rect x=\"2\" y=\"116\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"72\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"132\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1000m</text><rect x=\"192\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2天</text></svg>\n註：空間解析度代表衛星每一個像元涵蓋地面範圍的邊長；時間解析度代表衛星對地面同一地點進行重覆觀測所需的時間。\n\n依據表1，若要監測此災害的動態變化，應選用哪種衛星資料較合適？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-33.png\" alt=\"圖7 西西里島東北部衛星影像：一道寬大的灰白色煙柱由島上東部的山峰向東南方飄出，橫越海面；圖8 西西里島等高線圖：東部有一座等高線密集、呈同心圓的高山（埃特納火山）\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "監測火山噴發的動態需要頻繁重複觀測；火山灰範圍很大，1000 m 的解析度已足夠。丁每 2 天觀測一次，最合適。\n\n故選 (D)"
+  },
+  {
+    "id": "93m-ast-geo-35",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "35-36 為題組\n河川等級的第1級河川為該集水區內最源頭的支流；兩條第1級河川匯流，則形成第2級河川；兩條第2級河川匯流，形成第3級河川，其他等級依此類推。圖9表示甲、乙兩個集水區內河川等級和各等級河川平均坡度的關係。請問：\n\n河川等級與平均坡度呈迴歸關係，下列何者正確？甲、平均坡度為自變數，河川等級為應變數；乙、甲集水區迴歸線的截距較乙集水區的大；丙、甲集水區平均坡度預測值和觀察值間的誤差較乙的大；丁、甲集水區第3級河川平均坡度的預測值高於觀察值；戊、甲集水區河川等級與平均坡度間的相關程度較乙的高",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-35.png\" alt=\"圖9 河川等級（橫軸 1～5）與平均坡度（縱軸，對數刻度 0.002～2.0）：甲集水區的點約為 0.6（1 級）、0.33（2 級）、0.38（3 級）、0.18（4 級）、0.14（5 級），迴歸線由約 0.65 緩降到約 0.12，點較分散；乙集水區的點約為 0.18（1 級）、0.09（2 級）、0.025（3 級）、0.011（4 級）、0.005（5 級），迴歸線陡降，點緊貼迴歸線\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "丁戊"
+    ],
+    "answerIndex": 1,
+    "explanation": "河川等級為自變數（橫軸）、坡度為應變數。甲的迴歸線在等級 0 處較高，截距大（乙）；甲的點離迴歸線較遠，誤差大（丙），相關程度反而較低。甲第 3 級的觀察點在迴歸線上方，預測值低於觀察值。\n\n故選 (B)"
+  },
+  {
+    "id": "93m-ast-geo-36",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "35-36 為題組\n河川等級的第1級河川為該集水區內最源頭的支流；兩條第1級河川匯流，則形成第2級河川；兩條第2級河川匯流，形成第3級河川，其他等級依此類推。圖9表示甲、乙兩個集水區內河川等級和各等級河川平均坡度的關係。請問：\n\n關於甲、乙兩集水區的比較，下列敘述何者正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-35.png\" alt=\"圖9 河川等級（橫軸 1～5）與平均坡度（縱軸，對數刻度 0.002～2.0）：甲集水區的點約為 0.6（1 級）、0.33（2 級）、0.38（3 級）、0.18（4 級）、0.14（5 級），迴歸線由約 0.65 緩降到約 0.12，點較分散；乙集水區的點約為 0.18（1 級）、0.09（2 級）、0.025（3 級）、0.011（4 級）、0.005（5 級），迴歸線陡降，點緊貼迴歸線\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲集水區內的河川數量較乙集水區多",
+      "甲集水區的面積較乙集水區小",
+      "甲集水區下游的河床坡度較乙集水區陡",
+      "甲集水區上游的逕流量較乙集水區小"
+    ],
+    "answerIndex": 2,
+    "explanation": "第 4、5 級（下游）河川的平均坡度，甲約 0.14～0.18，乙只有約 0.005～0.01，甲下游較陡。兩區最高都是 5 級，無法判斷河川數量或面積。\n\n故選 (C)"
+  },
+  {
+    "id": "93m-ast-geo-37",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "37-38 為題組\n某地區有四種土地利用類型，其中三種的空間分布如圖10中的灰色區域。請問：\n\n根據圖10，下列那一張圖符合「林地或坡地，且為保育地」的分布條件？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-37.png\" alt=\"圖10 三種土地利用（灰色）：林地為方框中偏左的直立長條；保育地為方框左上到中央的大塊不規則區域；坡地為方框右下角斜向的狹長區域\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-37o.png\" alt=\"(A)～(D) 四幅灰色區域圖：(A) 由上緣往下、位於中央偏左的窄長條，下段略向右彎；(B) 占方框大部分，只缺左上角與左下角；(C) 方框左上部、右側以中線為界的區塊；(D) 中央偏右、由上緣往下的長條，底部向左延伸\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖(A)",
+      "圖(B)",
+      "圖(C)",
+      "圖(D)"
+    ],
+    "answerIndex": 3,
+    "explanation": "先取林地與坡地的聯集（OR），再與保育地取交集（AND），得到的是保育地中屬於林地或坡地的部分，對照四圖為 (D)。\n\n故選 (D)"
+  },
+  {
+    "id": "93m-ast-geo-38",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "37-38 為題組\n某地區有四種土地利用類型，其中三種的空間分布如圖10中的灰色區域。請問：\n\n某公司要興建一個觀光飯店，下列那一用地最能達到國土保安且面積又較大？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-37.png\" alt=\"圖10 三種土地利用（灰色）：林地為方框中偏左的直立長條；保育地為方框左上到中央的大塊不規則區域；坡地為方框右下角斜向的狹長區域\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-geo-38o.png\" alt=\"(A)～(D) 四幅灰色區域圖：(A) 方框左下角的區塊；(B) 方框左上角的小區塊；(C) 方框中央的小塊；(D) 方框右上角邊緣的小區塊\" style=\"width:100%;max-width:520px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖(A)",
+      "圖(B)",
+      "圖(C)",
+      "圖(D)"
+    ],
+    "answerIndex": 0,
+    "explanation": "為了國土保安，應避開林地、保育地與坡地，選擇三者都不涵蓋的土地；四個選項中符合條件且面積較大的是 (A)。\n\n故選 (A)"
+  },
+  {
+    "id": "93m-ast-geo-non-1-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、根據聯合國統計，2000年二氧化碳排放量前10名的國家如表2（單位：千mt）。\n\n<svg viewBox=\"0 0 554 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">國家</text><rect x=\"72\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">美國</text><rect x=\"168\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">中國</text><rect x=\"264\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">俄羅斯</text><rect x=\"360\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">日本</text><rect x=\"456\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">印度</text><rect x=\"2\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">排放量</text><rect x=\"72\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5,478,051</text><rect x=\"168\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3,348,099</text><rect x=\"264\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,495,920</text><rect x=\"360\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,230,831</text><rect x=\"456\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,025,566</text><rect x=\"2\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">國家</text><rect x=\"72\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">德國</text><rect x=\"168\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">英國</text><rect x=\"264\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">加拿大</text><rect x=\"360\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">義大利</text><rect x=\"456\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">南韓</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">排放量</text><rect x=\"72\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">886,161</text><rect x=\"168\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">546,390</text><rect x=\"264\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">529,431</text><rect x=\"360\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">459,461</text><rect x=\"456\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">427,599</text></svg>\n\n1. 表2中，二氧化碳平均每人排放量(a)最高和(b)最低的兩個國家分別為？（2 分，順序不可顛倒、答案完整才給分）",
+    "blanks": [
+      "美國",
+      "印度"
+    ],
+    "blankLabels": [
+      "(a) 最高",
+      "(b) 最低"
+    ],
+    "explanation": "以 2000 年人口估算：美國約 2.8 億人，每人約 19.5 公噸，最高（加拿大約 3100 萬人，每人約 17 公噸，次之）；印度約 10 億人，每人約 1 公噸，最低（中國約 12.6 億人，每人約 2.7 公噸）。"
+  },
+  {
+    "id": "93m-ast-geo-non-1-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、根據聯合國統計，2000年二氧化碳排放量前10名的國家如表2（單位：千mt）。\n\n<svg viewBox=\"0 0 554 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">國家</text><rect x=\"72\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">美國</text><rect x=\"168\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">中國</text><rect x=\"264\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">俄羅斯</text><rect x=\"360\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">日本</text><rect x=\"456\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">印度</text><rect x=\"2\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">排放量</text><rect x=\"72\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5,478,051</text><rect x=\"168\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3,348,099</text><rect x=\"264\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,495,920</text><rect x=\"360\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,230,831</text><rect x=\"456\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,025,566</text><rect x=\"2\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">國家</text><rect x=\"72\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">德國</text><rect x=\"168\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">英國</text><rect x=\"264\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">加拿大</text><rect x=\"360\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">義大利</text><rect x=\"456\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">南韓</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">排放量</text><rect x=\"72\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">886,161</text><rect x=\"168\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">546,390</text><rect x=\"264\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">529,431</text><rect x=\"360\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">459,461</text><rect x=\"456\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">427,599</text></svg>\n\n2. 同為工業先進國家，但法國的二氧化碳平均每人排放量卻遠低於德國與英國，以能源生產的角度分析，其主要原因為何？（2 分）",
+    "blanks": [
+      "核能發電比例高（少用火力發電）"
+    ],
+    "blankLabels": [
+      "主要原因"
+    ],
+    "explanation": "法國約七成以上電力來自核能，燃燒化石燃料的火力發電比例低；德、英仍大量使用燃煤發電。"
+  },
+  {
+    "id": "93m-ast-geo-non-1-3",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、根據聯合國統計，2000年二氧化碳排放量前10名的國家如表2（單位：千mt）。\n\n<svg viewBox=\"0 0 554 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">國家</text><rect x=\"72\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">美國</text><rect x=\"168\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">中國</text><rect x=\"264\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">俄羅斯</text><rect x=\"360\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">日本</text><rect x=\"456\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">印度</text><rect x=\"2\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">排放量</text><rect x=\"72\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5,478,051</text><rect x=\"168\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3,348,099</text><rect x=\"264\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,495,920</text><rect x=\"360\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,230,831</text><rect x=\"456\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,025,566</text><rect x=\"2\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">國家</text><rect x=\"72\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">德國</text><rect x=\"168\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">英國</text><rect x=\"264\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">加拿大</text><rect x=\"360\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">義大利</text><rect x=\"456\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">南韓</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">排放量</text><rect x=\"72\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">886,161</text><rect x=\"168\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">546,390</text><rect x=\"264\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">529,431</text><rect x=\"360\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">459,461</text><rect x=\"456\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">427,599</text></svg>\n\n3. 大氣中二氧化碳等溫室效應氣體會對長波輻射中部份波長產生吸收的現象稱為？（2 分）",
+    "blanks": [
+      "溫室效應"
+    ],
+    "blankLabels": [
+      "名稱"
+    ],
+    "explanation": "溫室氣體吸收地表放出的長波輻射，再向下輻射使地表增溫，稱為溫室效應。"
+  },
+  {
+    "id": "93m-ast-geo-non-1-4",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、根據聯合國統計，2000年二氧化碳排放量前10名的國家如表2（單位：千mt）。\n\n<svg viewBox=\"0 0 554 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">國家</text><rect x=\"72\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">美國</text><rect x=\"168\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">中國</text><rect x=\"264\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">俄羅斯</text><rect x=\"360\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">日本</text><rect x=\"456\" y=\"4\" width=\"96\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">印度</text><rect x=\"2\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">排放量</text><rect x=\"72\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5,478,051</text><rect x=\"168\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3,348,099</text><rect x=\"264\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,495,920</text><rect x=\"360\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,230,831</text><rect x=\"456\" y=\"32\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,025,566</text><rect x=\"2\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">國家</text><rect x=\"72\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">德國</text><rect x=\"168\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">英國</text><rect x=\"264\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">加拿大</text><rect x=\"360\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">義大利</text><rect x=\"456\" y=\"60\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">南韓</text><rect x=\"2\" y=\"88\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">排放量</text><rect x=\"72\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"120\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">886,161</text><rect x=\"168\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"216\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">546,390</text><rect x=\"264\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"312\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">529,431</text><rect x=\"360\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"408\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">459,461</text><rect x=\"456\" y=\"88\" width=\"96\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"504\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">427,599</text></svg>\n\n4. 1997年聯合國環境規劃總署在日本召開會議，要求世界各國減少二氧化碳排放量，使其到2010年比1990年減少5.2%，目前已獲歐盟、中國和日本及其他上百個國家同意簽署，這項重要國際協議的名稱為？（2 分）",
+    "blanks": [
+      "京都議定書"
+    ],
+    "blankLabels": [
+      "協議名稱"
+    ],
+    "explanation": "1997 年在日本京都通過的《京都議定書》。"
+  },
+  {
+    "id": "93m-ast-geo-non-2-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、2002年台灣成為WTO的一員，加入WTO對臺灣經濟影響匪淺。就農業而言，具有國際優勢的產品將有機會擴大海外市場，但是傳統作物勢必受到不少負面衝擊！\n\n1. WTO在全球能被普遍接受主要是因為什麼樣的經濟原則？（2 分）",
+    "blanks": [
+      "自由貿易（貿易自由化）"
+    ],
+    "blankLabels": [
+      "經濟原則"
+    ],
+    "explanation": "WTO 以降低關稅、消除貿易障礙的自由貿易為核心原則。"
+  },
+  {
+    "id": "93m-ast-geo-non-2-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、2002年台灣成為WTO的一員，加入WTO對臺灣經濟影響匪淺。就農業而言，具有國際優勢的產品將有機會擴大海外市場，但是傳統作物勢必受到不少負面衝擊！\n\n2. 各國為因應WTO的衝擊，思考自身產業的自然與人文條件，而生產、交換對本國較有利的產品，這是依循什麼經濟原則？（2 分）",
+    "blanks": [
+      "比較利益"
+    ],
+    "blankLabels": [
+      "經濟原則"
+    ],
+    "explanation": "各國專門生產相對成本較低的產品，再彼此交換，是比較利益原則。"
+  },
+  {
+    "id": "93m-ast-geo-non-2-3",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、2002年台灣成為WTO的一員，加入WTO對臺灣經濟影響匪淺。就農業而言，具有國際優勢的產品將有機會擴大海外市場，但是傳統作物勢必受到不少負面衝擊！\n\n3. 加入WTO可能為台灣的部分農產品帶來利益，這是什麼原因所致？（2 分）",
+    "blanks": [
+      "具比較利益（國際競爭優勢）的農產品，因各國降低關稅、開放市場而得以擴大外銷"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "會員國彼此降低關稅、開放市場，臺灣具國際優勢的農產品（如蘭花、部分水果、水產品）可擴大海外市場。"
+  },
+  {
+    "id": "93m-ast-geo-non-2-4",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、2002年台灣成為WTO的一員，加入WTO對臺灣經濟影響匪淺。就農業而言，具有國際優勢的產品將有機會擴大海外市場，但是傳統作物勢必受到不少負面衝擊！\n\n4. 加入WTO之後，較不具競爭力的農業地區，可以發展什麼類型的農業，來利用其農地？（2 分）",
+    "blanks": [
+      "休閒（觀光）農業"
+    ],
+    "blankLabels": [
+      "農業類型"
+    ],
+    "explanation": "將農地轉為結合體驗、觀光、教育的休閒農業，提高附加價值（也可發展精緻農業、有機農業）。"
+  },
+  {
+    "id": "93m-ast-geo-non-3-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、下列三個報導是有關中國華北地區抽取地下水所產生的一系列環境問題。\n資料一：1996年末，河北、河南、山東三省及北京、天津兩直轄市共有水井360萬口，在1997年，就有近十萬口的水井喪失使用價值而被廢棄。為了補充水源，又新挖掘22萬口水井。\n資料二：近年來，華北地區的大都市常出現圍牆倒塌、建築物地基流失、房屋龜裂傾斜、地下管線破損，以及地表也出現許多裂縫的怪現象。\n報導三：「天津市有一怪，地下水可以醃鹹菜！」天津市的土壤鹽鹼化十分嚴重，鹽化土壤占全市總土地面積的38.9％。\n\n1. 為什麼抽取地下水會造成十萬口水井喪失使用價值？（2 分）",
+    "blanks": [
+      "超抽使地下水位持續下降，水井抽不到水（乾涸）"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "抽水量大於補注量，地下水位不斷下降，原本的井深已達不到含水層，只好廢棄再挖新井。"
+  },
+  {
+    "id": "93m-ast-geo-non-3-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、下列三個報導是有關中國華北地區抽取地下水所產生的一系列環境問題。\n資料一：1996年末，河北、河南、山東三省及北京、天津兩直轄市共有水井360萬口，在1997年，就有近十萬口的水井喪失使用價值而被廢棄。為了補充水源，又新挖掘22萬口水井。\n資料二：近年來，華北地區的大都市常出現圍牆倒塌、建築物地基流失、房屋龜裂傾斜、地下管線破損，以及地表也出現許多裂縫的怪現象。\n報導三：「天津市有一怪，地下水可以醃鹹菜！」天津市的土壤鹽鹼化十分嚴重，鹽化土壤占全市總土地面積的38.9％。\n\n2. 為什麼抽取地下水會造成上述建築物等的毀損？（2 分）",
+    "blanks": [
+      "地層下陷"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "含水層的水被抽走後，土層壓密，地面下陷且下陷不均，造成地基流失、建物龜裂傾斜與地裂。"
+  },
+  {
+    "id": "93m-ast-geo-non-3-3",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、下列三個報導是有關中國華北地區抽取地下水所產生的一系列環境問題。\n資料一：1996年末，河北、河南、山東三省及北京、天津兩直轄市共有水井360萬口，在1997年，就有近十萬口的水井喪失使用價值而被廢棄。為了補充水源，又新挖掘22萬口水井。\n資料二：近年來，華北地區的大都市常出現圍牆倒塌、建築物地基流失、房屋龜裂傾斜、地下管線破損，以及地表也出現許多裂縫的怪現象。\n報導三：「天津市有一怪，地下水可以醃鹹菜！」天津市的土壤鹽鹼化十分嚴重，鹽化土壤占全市總土地面積的38.9％。\n\n3. 為什麼抽取地下水會使天津土壤的鹽鹼化日趨嚴重？（2 分）",
+    "blanks": [
+      "海水入侵（地下水鹽化）"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "天津濱臨渤海，地下水位下降後海水向內陸滲入含水層，地下水變鹹，用來灌溉便使土壤鹽化。"
+  },
+  {
+    "id": "93m-ast-geo-non-3-4",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、下列三個報導是有關中國華北地區抽取地下水所產生的一系列環境問題。\n資料一：1996年末，河北、河南、山東三省及北京、天津兩直轄市共有水井360萬口，在1997年，就有近十萬口的水井喪失使用價值而被廢棄。為了補充水源，又新挖掘22萬口水井。\n資料二：近年來，華北地區的大都市常出現圍牆倒塌、建築物地基流失、房屋龜裂傾斜、地下管線破損，以及地表也出現許多裂縫的怪現象。\n報導三：「天津市有一怪，地下水可以醃鹹菜！」天津市的土壤鹽鹼化十分嚴重，鹽化土壤占全市總土地面積的38.9％。\n\n4. 中國正進行哪項全國性的水利工程計畫，來改善上述環境問題？（2 分）",
+    "blanks": [
+      "南水北調"
+    ],
+    "blankLabels": [
+      "工程計畫"
+    ],
+    "explanation": "南水北調工程把長江流域的水分東、中、西三線調往缺水的華北與西北。"
   }
 ]
