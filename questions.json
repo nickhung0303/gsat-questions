@@ -244846,5 +244846,399 @@
       "32"
     ],
     "explanation": "正立方體切掉四個角落的三角錐（每個體積 $\\dfrac13\\cdot\\dfrac12\\cdot1 = \\dfrac16$），剩下 $1 - 4\\times\\dfrac16 = \\dfrac13$。"
+  },
+  {
+    "id": "92m-gsat-math-01",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "points": 5,
+    "question": "1. 若六位數 $\\overline{92a92b}$ 可被 9 整除，則 $a + b$ 之值可能為",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "answerIndex": 2,
+    "explanation": "數字和 $22 + a + b$ 須為 9 的倍數，$a + b = 5$ 或 14。選項中只有 5。\n\n故選 (C)"
+  },
+  {
+    "id": "92m-gsat-math-02",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "points": 5,
+    "question": "2. 如右圖，$OABCDE$ 為坐標平面上一正六邊形，其中 $O$ 為原點，$A$ 點坐標為 $(2, 0)$，則向量 $\\overrightarrow{DE}$ 之坐標表法為",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92m-gsat-math-02.png\" alt=\"正六邊形 OABCDE，O 為原點、A(2, 0)，D 在 y 軸上\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$(1, \\sqrt3)$",
+      "$(-1, -\\sqrt3)$",
+      "$(\\sqrt3, 1)$",
+      "$(-\\sqrt3, -1)$",
+      "$(-1, \\sqrt3)$"
+    ],
+    "answerIndex": 1,
+    "explanation": "邊長 2，$D(0, 2\\sqrt3)$、$E(-1, \\sqrt3)$，$\\overrightarrow{DE} = (-1, -\\sqrt3)$。（也可看出 $\\overrightarrow{DE} = -\\overrightarrow{AB}$，$\\overrightarrow{AB} = (1, \\sqrt3)$。）\n\n故選 (B)"
+  },
+  {
+    "id": "92m-gsat-math-03",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "points": 5,
+    "question": "3. 下列選項當中何者的值最大？",
+    "options": [
+      "$\\sin20^\\circ\\cos20^\\circ$",
+      "$\\sin35^\\circ\\cos35^\\circ$",
+      "$\\sin50^\\circ\\cos50^\\circ$",
+      "$\\sin65^\\circ\\cos65^\\circ$",
+      "$\\sin80^\\circ\\cos80^\\circ$"
+    ],
+    "answerIndex": 2,
+    "explanation": "$\\sin\\theta\\cos\\theta = \\dfrac12\\sin2\\theta$，$2\\theta$ 依序為 $40^\\circ, 70^\\circ, 100^\\circ, 130^\\circ, 160^\\circ$，最接近 $90^\\circ$ 的是 $100^\\circ$。\n\n故選 (C)"
+  },
+  {
+    "id": "92m-gsat-math-04",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "points": 5,
+    "question": "4. 試問有多少個正整數 $n$ 滿足 $100 \\le (1.5)^n \\le 500$？",
+    "options": [
+      "3 個",
+      "4 個",
+      "5 個",
+      "6 個",
+      "7 個"
+    ],
+    "answerIndex": 1,
+    "explanation": "$\\log1.5 = 0.4771 - 0.3010 = 0.1761$。$2 \\le 0.1761n \\le 2.699$，$11.4 \\le n \\le 15.3$，$n = 12, 13, 14, 15$，共 4 個。\n\n故選 (B)"
+  },
+  {
+    "id": "92m-gsat-math-05",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "points": 5,
+    "question": "5. 某君在一廣場上從某一點出發，先往東北方前進 50 公尺後轉往正西方向行進，一段時間後測得原出發點在他的南偏東 $60^\\circ$ 方向；則此時他距原出發點大約",
+    "options": [
+      "35 公尺",
+      "43 公尺",
+      "50 公尺",
+      "71 公尺",
+      "87 公尺"
+    ],
+    "answerIndex": 3,
+    "explanation": "走完東北方 50 公尺後在出發點北方 $25\\sqrt2$ 處（也偏東 $25\\sqrt2$）。往西走後高度不變，出發點在他的南偏東 $60^\\circ$：南北距離 $25\\sqrt2$，所求距離 $\\dfrac{25\\sqrt2}{\\cos60^\\circ} = 50\\sqrt2 \\approx 71$ 公尺。\n\n故選 (D)"
+  },
+  {
+    "id": "92m-gsat-math-06",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "points": 5,
+    "question": "6. 設坐標空間的原點為 $O$，點 $P$ 的坐標為 $(3, 4, 7)$。若 $Q$ 點在 $xy$-平面上移動，問 $Q$ 點為下列選項中哪一點時，$\\angle POQ$ 最小？",
+    "options": [
+      "$(3, 3, 0)$",
+      "$(3, 4, 0)$",
+      "$(4, 3, 0)$",
+      "$(5, 12, 0)$",
+      "$(12, 5, 0)$"
+    ],
+    "answerIndex": 1,
+    "explanation": "$\\angle POQ$ 只跟 $\\overrightarrow{OQ}$ 的方向有關。$xy$ 平面上與 $\\overrightarrow{OP}$ 夾角最小的方向是 $\\overrightarrow{OP}$ 的投影 $(3, 4, 0)$ 的方向。\n\n故選 (B)"
+  },
+  {
+    "id": "92m-gsat-math-07",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "points": 5,
+    "question": "7. 如右圖，複數 $z$ 在平面上對應的點 $P$ 在單位圓 $O$ 的外部，問複數 $\\dfrac1z$ 對應的點大概是哪一點？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/92m-gsat-math-07.png\" alt=\"單位圓與點 P(z) 在第一象限圓外；A 在第一象限圓內、B 在第三象限圓外、C 在第三象限圓內、D 在第四象限圓內、E 在第四象限圓外\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answerIndex": 3,
+    "explanation": "$\\dfrac1z = \\dfrac{\\bar z}{|z|^2}$：輻角變號（對 $x$ 軸鏡射到第四象限），長度變成 $\\dfrac1{|z|} < 1$（在單位圓內）。對應 D。\n\n故選 (D)"
+  },
+  {
+    "id": "92m-gsat-math-08",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 空間中兩相異球面的交集可能是",
+    "options": [
+      "空集合",
+      "一點",
+      "兩點",
+      "一圓",
+      "兩圓"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "兩相異球面相離或內含時無交點、相切時一點、相交時交成一圓。不可能只有兩點或兩個圓。\n\n故選 (A)(B)(D)"
+  },
+  {
+    "id": "92m-gsat-math-09",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 已知坐標平面上一拋物線 $C$ 之對稱軸與坐標軸平行，且 $C$ 通過 $(-1, 6)$ 與 $(3, 6)$ 兩點，試問下列哪些敘述是正確的？",
+    "options": [
+      "$C$ 與 $x$-軸必相交",
+      "$C$ 與 $y$-軸必相交",
+      "如果 $C$ 通過 $(2, 5)$，則可找到實數 $r \\ne 2$ 而 $C$ 也通過 $(r, 5)$",
+      "如果 $C$ 通過 $(4, 8)$，則可找到實數 $s \\ne 8$ 而 $C$ 也通過 $(4, s)$",
+      "如果 $C$ 通過 $(0, 3)$，則 $C$ 的頂點之 $y$-坐標為 2"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "對稱軸若水平，同一個 $y$ 只對應一個 $x$，不可能過 $(-1, 6)$、$(3, 6)$；所以對稱軸鉛直，為 $x = 1$：$y = a(x - 1)^2 + k$。\n• (A) ✗：如 $y = (x - 1)^2 + 2$。\n• (B) ✓：$y$ 是 $x$ 的函數，$x = 0$ 一定有值。\n• (C) ✓：對稱點 $(0, 5)$。\n• (D) ✗：$x = 4$ 只對應一個 $y$。\n• (E) ✓：$a + k = 3$、$4a + k = 6$，$a = 1$、$k = 2$。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "92m-gsat-math-10",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 關於三次多項式 $f(x) = x^3 - 6x^2 + 1$，試問下列哪些敘述是正確的？",
+    "options": [
+      "$f(x) = 0$ 有實根落在 0 與 1 之間",
+      "$f(x) = 0$ 有實根大於 1",
+      "$f(x) = 0$ 有實根小於 $-1$",
+      "$f(x) = 0$ 有實根也有虛根",
+      "$f(x) = 10$ 有實數解"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "$f(-1) = -6$、$f(0) = 1$、$f(1) = -4$、$f(5) = -24$、$f(6) = 1$。三個實根分別在 $(-1, 0)$、$(0, 1)$、$(5, 6)$。\n(A)(B) ✓；(C) ✗（$x < -1$ 時 $f < -6$）；(D) ✗（三根皆實）；(E) ✓（三次方程式必有實根）。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "92m-gsat-math-11",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 考慮坐標空間中三平面 $x + 2y - 3z = 1$，$x + 3y - 2z = -1$ 及 $x + by + cz = 1$（$b, c$ 為實數），試問下列哪些敘述是正確的？",
+    "options": [
+      "當 $b = 1, c = 1$ 時，三平面沒有共同交點",
+      "當 $b = -1, c = 1$ 時，三平面恰交於一點",
+      "當 $b = 4, c = -1$ 時，三平面恰交於一點",
+      "當 $b = 1, c = -4$ 時，三平面恰交於一直線",
+      "當 $b = 2, c = -3$ 時，三平面恰交於一直線"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "前兩平面交線：方向 $(1, 2, -3)\\times(1, 3, -2) = (5, -1, 1)$，過 $(5, -2, 0)$。第三平面法向量 $(1, b, c)$ 與方向的內積 $5 - b + c$：不為 0 則恰交一點；為 0 時看 $(5, -2, 0)$ 是否在平面上。\n• (A) ✗：內積 5，交於一點。\n• (B) ✓：內積 7。\n• (C) ✗：內積 0，$5 - 8 = -3 \\ne 1$，沒有交點。\n• (D) ✗：內積 0，$5 - 2 = 3 \\ne 1$，沒有交點。\n• (E) ✓：第三平面與第一平面相同，交於一直線。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "92m-gsat-math-12",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 九十一學年度指定科目考試約有 5 萬 4 千名考生報考「數學甲」，考生得分情形（由低至高）如下表，第一列為得分範圍（均含下限不含上限），第二列為得分在該區間之人數佔全體考生之百分比。試問下列有關該次考試考生得分之敘述有哪些是正確的？",
+    "svg": "<svg viewBox=\"0 0 608 64\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">0~10</text><rect x=\"62\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">10~20</text><rect x=\"122\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"152\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">20~30</text><rect x=\"182\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">30~40</text><rect x=\"242\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">40~50</text><rect x=\"302\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">50~60</text><rect x=\"362\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">60~70</text><rect x=\"422\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">70~80</text><rect x=\"482\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">80~90</text><rect x=\"542\" y=\"4\" width=\"64\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"574\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">90~100</text><rect x=\"2\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10.45</text><rect x=\"62\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">8.18</text><rect x=\"122\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"152\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">11.85</text><rect x=\"182\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"212\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">14.96</text><rect x=\"242\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">16.0</text><rect x=\"302\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">15.28</text><rect x=\"362\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10.81</text><rect x=\"422\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">7.06</text><rect x=\"482\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">3.84</text><rect x=\"542\" y=\"32\" width=\"64\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"574\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">1.57</text></svg>",
+    "options": [
+      "全體考生得分之中位數在 40 分（含）與 50 分（不含）之間",
+      "全體考生得分（由低至高）之第一四分位數在 20 分（含）與 30 分（不含）之間",
+      "全體考生得分（由低至高）之第三四分位數在 50 分（含）與 60 分（不含）之間",
+      "不到三成的考生得分少於 30 分",
+      "如果將得分 ≥ 60 分看成及格，則有四成以上的考生成績及格"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "累積百分比：未滿 10 分 10.45、未滿 20 分 18.63、未滿 30 分 30.48、未滿 40 分 45.44、未滿 50 分 61.44、未滿 60 分 76.72。\n• (A) ✓：50% 落在 40～50。\n• (B) ✓：25% 落在 20～30。\n• (C) ✓：75% 落在 50～60。\n• (D) ✗：30.48% 超過三成。\n• (E) ✗：60 分以上只有 23.28%。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "92m-gsat-math-A",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 某高中高三學生依選考類組分成三班，各班學生人數分別為 40, 25, 35 人，第一次段考數學科各班老師算出該班平均成績分別為 69, 78, 74 分，則這次考試全年級的平均成績是 ⑬⑭ 分。（計算到整數為止，小數點以後四捨五入。）",
+    "blanks": [
+      "7",
+      "3"
+    ],
+    "blankLabels": [
+      "13",
+      "14"
+    ],
+    "explanation": "$\\dfrac{40\\times69 + 25\\times78 + 35\\times74}{100} = \\dfrac{2760 + 1950 + 2590}{100} = 73$。"
+  },
+  {
+    "id": "92m-gsat-math-B",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 設多項式 $(x + 1)^6$ 除以 $x^2 + 1$ 的餘式為 $ax + b$，則 $a =$ ⑮⑯，$b =$ ⑰。",
+    "blanks": [
+      "-",
+      "8",
+      "0"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "8"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "blankLabels": [
+      "15",
+      "16",
+      "17"
+    ],
+    "explanation": "代 $x = i$：$(1 + i)^6 = (2i)^3 = -8i = ai + b$，$a = -8$、$b = 0$。"
+  },
+  {
+    "id": "92m-gsat-math-C",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 解方程式 $\\log_3x^7 + \\log_{\\frac13}x = 24$，得 $x =$ ⑱⑲。",
+    "blanks": [
+      "8",
+      "1"
+    ],
+    "blankLabels": [
+      "18",
+      "19"
+    ],
+    "explanation": "$7\\log_3x - \\log_3x = 6\\log_3x = 24$，$\\log_3x = 4$，$x = 81$。"
+  },
+  {
+    "id": "92m-gsat-math-D",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "D. 試問不等式 $(x^2 - 4x + 2)(2x - 5)(2x - 37) \\le 0$ 有多少個整數解？答：⑳㉑ 個。",
+    "blanks": [
+      "1",
+      "7"
+    ],
+    "blankLabels": [
+      "20",
+      "21"
+    ],
+    "explanation": "根依序為 $2 - \\sqrt2 \\approx 0.59$、$2.5$、$2 + \\sqrt2 \\approx 3.41$、$18.5$，四次式首項為正，$\\le 0$ 的範圍是 $[0.59, 2.5]\\cup[3.41, 18.5]$。整數 1、2 與 4～18，共 $2 + 15 = 17$ 個。"
+  },
+  {
+    "id": "92m-gsat-math-E",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "E. 有一正四面體的公正骰子，四面點數分別為 1, 2, 3, 4。將骰子丟三次，底面的點數分別為 $a, b, c$，則這三個數可作為三角形三邊長的機率是 $\\dfrac{㉒㉓}{㉔㉕}$。（化成最簡分數）",
+    "blanks": [
+      "1",
+      "7",
+      "3",
+      "2"
+    ],
+    "blankLabels": [
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "explanation": "共 64 種。依最大邊分類（排序後 $x \\le y \\le z$，需 $x + y > z$），可成三角形的有：\n(1,1,1)、(1,2,2)、(2,2,2)、(1,3,3)、(2,2,3)、(2,3,3)、(3,3,3)、(1,4,4)、(2,3,4)、(2,4,4)、(3,3,4)、(3,4,4)、(4,4,4)。\n換成有序的次數：$1 + 3 + 1 + 3 + 3 + 3 + 1 + 3 + 6 + 3 + 3 + 3 + 1 = 34$，機率 $\\dfrac{34}{64} = \\dfrac{17}{32}$。"
+  },
+  {
+    "id": "92m-gsat-math-F",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "F. 設 $P$ 為橢圓 $\\Gamma: \\dfrac{x^2}{25} + \\dfrac{y^2}9 = 1$ 上的一點且位在上半平面。若 $F_1$、$F_2$ 為 $\\Gamma$ 之焦點，且 $\\angle F_1PF_2$ 為直角，則 $P$ 點的 $y$-坐標為 $\\dfrac{㉖}{㉗}$。（化成最簡分數）",
+    "blanks": [
+      "9",
+      "4"
+    ],
+    "blankLabels": [
+      "26",
+      "27"
+    ],
+    "explanation": "$c = 4$，直角頂點 $P$ 在以 $\\overline{F_1F_2}$ 為直徑的圓 $x^2 + y^2 = 16$ 上。代入：$\\dfrac{16 - y^2}{25} + \\dfrac{y^2}9 = 1$，$16y^2 = 81$，$y = \\dfrac94$。"
+  },
+  {
+    "id": "92m-gsat-math-G",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "G. 設 $(a, b)$ 為二次曲線 $x^2 + y^2 - 6x - 2y + 9 = 0$ 上的點，則 $a^2 + b^2 - 2b$ 的最大值為 ㉘㉙。",
+    "blanks": [
+      "1",
+      "5"
+    ],
+    "blankLabels": [
+      "28",
+      "29"
+    ],
+    "explanation": "曲線為圓 $(x - 3)^2 + (y - 1)^2 = 1$。$a^2 + (b - 1)^2 - 1$ 是點到 $(0, 1)$ 距離的平方減 1；最大距離為 $3 + 1 = 4$，最大值 $16 - 1 = 15$。"
+  },
+  {
+    "id": "92m-gsat-math-H",
+    "examType": "學測",
+    "year": 92,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "H. 在坐標平面上，一道光線通過原點 $O$ 後，沿著 $y$-軸射向直線 $L: y = \\dfrac12x + 1$，碰到直線 $L$ 後，假設光線依光學原理（入射角等於反射角）反射後通過 $x$-軸上的 $R$ 點，則 $R$ 點的 $x$-坐標為 $\\dfrac{㉚}{㉛}$。（化成最簡分數）",
+    "blanks": [
+      "4",
+      "3"
+    ],
+    "blankLabels": [
+      "30",
+      "31"
+    ],
+    "explanation": "光線在 $(0, 1)$ 碰到 $L$。$L$ 的單位方向 $\\vec u = \\dfrac{(2, 1)}{\\sqrt5}$，入射方向 $\\vec d = (0, 1)$，反射方向 $2(\\vec d\\cdot\\vec u)\\vec u - \\vec d = \\left(\\dfrac45, -\\dfrac35\\right)$。\n從 $(0, 1)$ 沿 $(4, -3)$ 走到 $y = 0$：$t = \\dfrac13$，$x = \\dfrac43$。"
   }
 ]
