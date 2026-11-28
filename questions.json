@@ -231240,5 +231240,296 @@
       "最小值"
     ],
     "explanation": "$G'(x) = f(x) = -12x(x - 2)^2 + 12 = -12(x - 1)(x^2 - 3x + 1)$，零點 $1$、$\\dfrac{3 \\pm \\sqrt5}{2}$；在 $[0, 2]$ 內有 $\\dfrac{3 - \\sqrt5}{2}$ 與 1。\n$G$ 在 $\\left[0, \\dfrac{3 - \\sqrt5}{2}\\right]$ 遞增、$\\left[\\dfrac{3 - \\sqrt5}{2}, 1\\right]$ 遞減、$[1, 2]$ 遞增，最小值為 $G(0)$ 或 $G(1)$。\n$G(1) - G(0) = \\displaystyle\\int_0^1(-12t^3 + 48t^2 - 48t + 12)\\,dt = -3 + 16 - 24 + 12 = 1 > 0$，所以最小值 $G(0) = 0$。"
+  },
+  {
+    "id": "105-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "1. 下列哪一個選項是方程式 $7x^5 - 2x^4 + 14x^3 - 4x^2 + 7x - 2 = 0$ 的根？",
+    "options": [
+      "−1",
+      "$\\dfrac17$",
+      "$-\\dfrac17$",
+      "$\\dfrac27$",
+      "$-\\dfrac27$"
+    ],
+    "answerIndex": 3,
+    "explanation": "分組：$x^4(7x - 2) + 2x^2(7x - 2) + (7x - 2) = (7x - 2)(x^2 + 1)^2$，實根只有 $\\dfrac27$。\n\n故選 (D)"
+  },
+  {
+    "id": "105-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "2. 考慮有理數 $\\dfrac nm$，其中 $m$、$n$ 為正整數且 $1 \\le mn \\le 8$。則這樣的數值（例如 $\\dfrac12$ 與 $\\dfrac24$ 同值，只算一個）共有幾個？",
+    "options": [
+      "14 個",
+      "15 個",
+      "16 個",
+      "17 個",
+      "18 個"
+    ],
+    "answerIndex": 3,
+    "explanation": "約分後分子分母乘積只會變小，所以只要數最簡分數 $\\dfrac pq$ 中 $pq \\le 8$ 的個數：\n$pq = 1$：1 個；$pq = 2, 3, 4, 5, 7, 8$ 各 2 個（$1\\times k$ 與 $k\\times1$；4、8 的 $2\\times2$、$2\\times4$ 不是最簡）；$pq = 6$：$\\dfrac16, \\dfrac61, \\dfrac23, \\dfrac32$ 共 4 個。\n$1 + 2\\times6 + 4 = 17$。\n\n故選 (D)"
+  },
+  {
+    "id": "105-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "3. 坐標平面上有兩向量 $\\vec u = (5, 10)$，$\\vec v = (-4, 2)$。請問下列哪一個向量的長度最大？",
+    "options": [
+      "$-3\\vec u$",
+      "$6\\vec v$",
+      "$-2\\vec u - 5\\vec v$",
+      "$2\\vec u - 5\\vec v$",
+      "$\\vec u + 7\\vec v$"
+    ],
+    "answerIndex": 0,
+    "explanation": "$\\vec u\\cdot\\vec v = 0$，$|\\vec u|^2 = 125$、$|\\vec v|^2 = 20$，所以 $|a\\vec u + b\\vec v|^2 = 125a^2 + 20b^2$：\n(A) 1125；(B) 720；(C)(D) $500 + 500 = 1000$；(E) $125 + 980 = 1105$。最大是 (A)。\n\n故選 (A)"
+  },
+  {
+    "id": "105-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 設 $f(x)$ 為一未知的實係數多項式，但知道 $f(x)$ 除以 $(x - 5)(x - 6)^2$ 的餘式為 $5x^2 + 6x + 7$。根據上述所給條件，請選出正確的選項。",
+    "options": [
+      "可求出 $f(0)$ 之值",
+      "可求出 $f(11)$ 之值",
+      "可求出 $f(x)$ 除以 $(x - 5)^2$ 的餘式",
+      "可求出 $f(x)$ 除以 $(x - 6)^2$ 的餘式",
+      "可求出 $f(x)$ 除以 $(x - 5)(x - 6)$ 的餘式"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "$f(x) = (x - 5)(x - 6)^2q(x) + 5x^2 + 6x + 7$，$q$ 未知。\n• (A)(B) 錯誤：$x = 0$、11 時 $q$ 的項不為 0。\n• (C) 錯誤：$(x - 5)^2$ 不整除 $(x - 5)(x - 6)^2$。\n• (D)(E) 正確：除式都整除 $(x - 5)(x - 6)^2$，只需拿 $5x^2 + 6x + 7$ 去除即可。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "105-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 甲先生、乙先生、丙先生、丁先生四位男士以及 $A$ 小姐、$B$ 小姐、$C$ 小姐、$D$ 小姐四位女士想要混搭兩部計程車，每車載有四名乘客。已知：（一）甲先生與 $A$ 小姐同車；（二）乙先生與 $B$ 小姐同車；（三）$C$ 小姐與 $D$ 小姐不同車。請選出正確的選項。",
+    "options": [
+      "$A$ 小姐與 $D$ 小姐必不同車",
+      "甲先生與 $B$ 小姐必不同車",
+      "乙先生與丙先生必同車",
+      "如果乙先生與丁先生同車，則丙先生與 $B$ 小姐必同車",
+      "如果 $D$ 小姐與乙先生同車，則 $C$ 小姐與 $A$ 小姐必同車"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "若甲、$A$、乙、$B$ 同車，另一車是丙、丁、$C$、$D$，違反（三）。所以一車有甲、$A$，另一車有乙、$B$，再各分到 $C/D$ 之一與丙/丁之一。\n• (A) 錯誤：$D$ 可以和 $A$ 同車。\n• (B) 正確。\n• (C) 錯誤：丙可以和甲同車。\n• (D) 錯誤：丁與乙同車時，丙在甲那車，與 $B$ 不同車。\n• (E) 正確：$D$ 在乙那車，$C$ 就在甲、$A$ 那車。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "105-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 設 $a = 10^{1 - \\frac{\\sqrt2}{2}}$，$b = a^{\\sqrt2}$。請選出正確的選項。",
+    "options": [
+      "$1 < a$",
+      "$a < \\sqrt3$",
+      "$a^2 < b^{\\sqrt3}$",
+      "$10^{0.4} < b < 10^{0.5}$",
+      "$(ab)^{\\sqrt2} < 10$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "$\\log a = 1 - \\dfrac{\\sqrt2}{2} \\approx 0.293$，$\\log b = \\sqrt2 - 1 \\approx 0.414$。\n• (A) 正確。\n• (B) 錯誤：$\\log\\sqrt3 \\approx 0.239 < 0.293$。\n• (C) 正確：$0.586 < \\sqrt3\\times0.414 \\approx 0.717$。\n• (D) 正確。\n• (E) 錯誤：$\\log(ab)^{\\sqrt2} = \\sqrt2\\left(\\dfrac{\\sqrt2}{2}\\right) = 1$，等於 10。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "105-ast-mb-07",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 坐標平面上 $O$ 為原點，$P$ 點坐標為 $(1, 0)$，直線 $L$ 的方程式為 $x - 2y = -4$。請選出正確的選項。",
+    "options": [
+      "在直線 $L$ 上可以找到一點 $A$，滿足向量 $\\overrightarrow{OP}$ 與 $\\overrightarrow{OA}$ 平行",
+      "在直線 $L$ 上可以找到一點 $B$，滿足向量 $\\overrightarrow{OP}$ 與 $\\overrightarrow{OB}$ 垂直",
+      "在直線 $L$ 上可以找到一點 $C$，滿足向量 $\\overrightarrow{OC}$ 與 $\\overrightarrow{PC}$ 垂直",
+      "在直線 $L$ 上可以找到一點 $D$，滿足 $\\overline{PD} = 2$",
+      "在直線 $L$ 上可以找到一點 $E$，滿足 $\\triangle EOP$ 為等腰三角形"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "• (A) 正確：$A(-4, 0)$。\n• (B) 正確：$B(0, 2)$。\n• (C) 錯誤：$C$ 要在以 $\\overline{OP}$ 為直徑的圓上（圓心 $\\left(\\dfrac12, 0\\right)$、半徑 $\\dfrac12$），圓心到 $L$ 的距離 $\\dfrac{4.5}{\\sqrt5} > \\dfrac12$，不相交。\n• (D) 錯誤：$P$ 到 $L$ 的距離 $\\sqrt5 > 2$。\n• (E) 正確：例如 $\\overline{OP}$ 的中垂線 $x = \\dfrac12$ 與 $L$ 的交點，$\\overline{EO} = \\overline{EP}$。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "105-ast-mb-08",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 某社區有一千位居民，其個人月所得少於 10,000 元者占 30%，介於 10,000 元及 20,000 元間者占 10%，介於 20,000 元及 40,000 元間者占 30%，介於 40,000 元及 80,000 元間者占 30%。請選出正確的選項。",
+    "options": [
+      "該社區個人月所得的中位數介於 20,000 元及 40,000 元間",
+      "使用簡單隨機抽樣自該社區中抽出一位居民，其個人月所得在上述的四個區間中，以介於 10,000 元及 20,000 元間的機率最低",
+      "該社區的個人月所得平均，不可能高過 40,000 元",
+      "該社區的個人月所得平均，不可能低過該社區的個人月所得中位數",
+      "若該社區新搬入一位居民，其月所得為 200,000 元，則該社區的個人月所得平均將增加，但增加量不會多過 200 元"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "• (A) 正確：累積 30%、40%、70%，第 500 人落在 20,000～40,000。\n• (B) 正確：10%。\n• (C) 錯誤：各區間都取上限時平均約 $0.3\\times10000 + 0.1\\times20000 + 0.3\\times40000 + 0.3\\times80000 = 41000$，可能超過 40,000。\n• (D) 錯誤：各區間取下限時平均約 19,000，可低於中位數（至少 20,000）。\n• (E) 正確：增加量 $= \\dfrac{200000 - \\mu}{1001}$，$0 < \\mu < 80000$，所以介於 0 與 $\\dfrac{200000}{1001} < 200$ 之間。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "105-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "A. 不透明袋中有三顆白球及三顆紅球。從袋中每次取出一球依序置於桌面，每次每顆球被取出的機率相同。全部取出後，前三顆球中有相鄰兩球同為白球的機率為 $\\dfrac{⑨}{⑩⑪}$。（請化為最簡分數）",
+    "blanks": [
+      "7",
+      "2",
+      "0"
+    ],
+    "blankLabels": [
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation": "顏色排列共 $\\dbinom63 = 20$ 種，等可能。前三顆有相鄰白白：白白白（後面紅紅紅，1 種）、白白紅（後三顆 1 白 2 紅，3 種）、紅白白（3 種），共 7 種。\n機率 $\\dfrac{7}{20}$。"
+  },
+  {
+    "id": "105-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "B. 設 $x, c$ 為實數，方陣 $A = \\begin{bmatrix} 3 & 2 \\\\ -2 & x \\end{bmatrix}$、$B = \\begin{bmatrix} 3 & -2 \\\\ 2 & x \\end{bmatrix}$。已知 $A$ 的反方陣恰好是 $B$ 的 $c$ 倍（其中 $c \\ne 0$），則數對 $(x, c) = \\left(⑫, \\dfrac{⑬}{⑭⑮}\\right)$。（請化為最簡分數）",
+    "blanks": [
+      "3",
+      "1",
+      "1",
+      "3"
+    ],
+    "blankLabels": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "explanation": "$A^{-1} = \\dfrac{1}{3x + 4}\\begin{bmatrix} x & -2 \\\\ 2 & 3 \\end{bmatrix} = c\\begin{bmatrix} 3 & -2 \\\\ 2 & x \\end{bmatrix}$。\n比較右上：$c = \\dfrac{1}{3x + 4}$；比較左上：$x = 3$。$c = \\dfrac{1}{13}$。"
+  },
+  {
+    "id": "105-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 6,
+    "question": "C. 設 $\\langle a_n\\rangle$ 為一等差數列。已知 $a_2 + a_4 + a_6 = 186$，$a_3 + a_7 = 110$。令 $s_n = a_1 + a_2 + \\cdots + a_n$。則極限 $\\displaystyle\\lim_{n\\to\\infty}\\frac{s_n}{n^2} = \\dfrac{⑯⑰}{⑱}$。（請化為最簡分數）",
+    "blanks": [
+      "-",
+      "7",
+      "2"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "7"
+      ],
+      [
+        "2"
+      ]
+    ],
+    "blankLabels": [
+      "16",
+      "17",
+      "18"
+    ],
+    "explanation": "$3a_4 = 186$，$a_4 = 62$；$2a_5 = 110$，$a_5 = 55$；公差 $d = -7$。\n$s_n = na_1 + \\dfrac{n(n - 1)}{2}d$，$\\dfrac{s_n}{n^2} \\to \\dfrac d2 = -\\dfrac72$。"
+  },
+  {
+    "id": "105-ast-mb-non-1-1",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設隨機變數 $X$ 表示投擲一不公正骰子出現的點數，$P(X = k)$ 表示隨機變數 $X$ 取值為 $k$ 的機率。已知 $X$ 的機率分布如下表（$x, y$ 為未知常數），又知 $X$ 的期望值等於 3。試回答下列問題。\n(1) 試求 $x, y$ 之值。（6 分）",
+    "svg": "<svg viewBox=\"0 0 394 68\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:472.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">k</text><rect x=\"92\" y=\"4\" width=\"50\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">1</text><rect x=\"142\" y=\"4\" width=\"50\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">2</text><rect x=\"192\" y=\"4\" width=\"50\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">3</text><rect x=\"242\" y=\"4\" width=\"50\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">4</text><rect x=\"292\" y=\"4\" width=\"50\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">5</text><rect x=\"342\" y=\"4\" width=\"50\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"367\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">6</text><rect x=\"2\" y=\"34\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">P(X = k)</text><rect x=\"92\" y=\"34\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">x</text><rect x=\"142\" y=\"34\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">y</text><rect x=\"192\" y=\"34\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">y</text><rect x=\"242\" y=\"34\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">x</text><rect x=\"292\" y=\"34\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">y</text><rect x=\"342\" y=\"34\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"367\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">y</text></svg>",
+    "points": 6,
+    "blanks": [
+      "$x = \\dfrac13$",
+      "$y = \\dfrac{1}{12}$"
+    ],
+    "blankLabels": [
+      "x",
+      "y"
+    ],
+    "explanation": "機率和：$2x + 4y = 1$；期望值：$x(1 + 4) + y(2 + 3 + 5 + 6) = 5x + 16y = 3$。\n解得 $y = \\dfrac{1}{12}$、$x = \\dfrac13$。"
+  },
+  {
+    "id": "105-ast-mb-non-1-2",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設隨機變數 $X$ 表示投擲一不公正骰子出現的點數，$P(X = k)$ 表示隨機變數 $X$ 取值為 $k$ 的機率。已知 $X$ 的機率分布如下表（$x, y$ 為未知常數），又知 $X$ 的期望值等於 3。試回答下列問題。\n(2) 投擲此骰子兩次，試求點數和為 3 的機率。（6 分）",
+    "svg": "<svg viewBox=\"0 0 394 68\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:472.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"90\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">k</text><rect x=\"92\" y=\"4\" width=\"50\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">1</text><rect x=\"142\" y=\"4\" width=\"50\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">2</text><rect x=\"192\" y=\"4\" width=\"50\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">3</text><rect x=\"242\" y=\"4\" width=\"50\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">4</text><rect x=\"292\" y=\"4\" width=\"50\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">5</text><rect x=\"342\" y=\"4\" width=\"50\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"367\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">6</text><rect x=\"2\" y=\"34\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">P(X = k)</text><rect x=\"92\" y=\"34\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">x</text><rect x=\"142\" y=\"34\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">y</text><rect x=\"192\" y=\"34\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">y</text><rect x=\"242\" y=\"34\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"267\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">x</text><rect x=\"292\" y=\"34\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"317\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">y</text><rect x=\"342\" y=\"34\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"367\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">y</text></svg>",
+    "points": 6,
+    "blanks": [
+      "$\\dfrac{1}{18}$"
+    ],
+    "blankLabels": [
+      "機率"
+    ],
+    "explanation": "和為 3：$(1, 2)$ 或 $(2, 1)$，機率 $2xy = 2\\cdot\\dfrac13\\cdot\\dfrac{1}{12} = \\dfrac{1}{18}$。"
+  },
+  {
+    "id": "105-ast-mb-non-2",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某農業公司計畫向政府承租一筆平地和一筆山坡地，分別種植平地作物 A 和山坡地作物 B。已知平地每一單位面積的年租金是 30 萬元，山坡地每一單位面積的年租金是 20 萬元；公司一年能夠提供土地租金的上限是 80 萬元。平地作物 A 的種植成本每單位面積一年是 40 萬元，山坡地作物 B 的種植成本每單位面積一年是 50 萬元；公司一年能夠提供種植成本的上限是 130 萬元。每年收成後，作物 A 每單位面積的利潤是 120 萬元，作物 B 每單位面積的利潤是 90 萬元。請問公司一年應租平地和山坡地各多少單位面積，收成後可以獲得最大利潤？又此時的最大利潤為何？（12 分）（註：所租土地的面積並不限制一定要是整數單位。）",
+    "points": 12,
+    "blanks": [
+      "平地 2 單位、山坡地 1 單位",
+      "最大利潤 330 萬元"
+    ],
+    "blankLabels": [
+      "承租面積",
+      "最大利潤"
+    ],
+    "explanation": "設平地 $x$、山坡地 $y$ 單位：$30x + 20y \\le 80$（$3x + 2y \\le 8$）、$40x + 50y \\le 130$（$4x + 5y \\le 13$）、$x, y \\ge 0$；目標 $120x + 90y$。\n頂點 $(0, 0)$、$\\left(\\dfrac83, 0\\right)$、$(2, 1)$、$\\left(0, \\dfrac{13}{5}\\right)$，目標值 0、320、330、234。\n租平地 2 單位、山坡地 1 單位，最大利潤 330 萬元。"
   }
 ]
