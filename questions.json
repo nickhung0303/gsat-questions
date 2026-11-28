@@ -230915,5 +230915,330 @@
       "31"
     ],
     "explanation": "以 $\\overrightarrow{AB}, \\overrightarrow{AD}, \\overrightarrow{AE}$ 為坐標：$B(1, 0, 0)$、$D(0, 1, 0)$、$G(1, 1, 1)$。\n平面 $BDG$ 的法向量 $(D - B)\\times(G - B) = (-1, 1, 0)\\times(0, 1, 1) = (1, 1, -1)$，方程式 $x + y - z = 1$。\n$P\\left(\\dfrac13, 2, a\\right)$：$\\dfrac13 + 2 - a = 1$，$a = \\dfrac43$。"
+  },
+  {
+    "id": "105-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 請問下列選項中哪一個數值 $a$ 會使得 $x$ 的方程式 $\\log a - \\log x = \\log(a - x)$ 有兩相異實數解？",
+    "options": [
+      "$a = 1$",
+      "$a = 2$",
+      "$a = 3$",
+      "$a = 4$",
+      "$a = 5$"
+    ],
+    "answerIndex": 4,
+    "explanation": "需 $0 < x < a$，且 $\\dfrac ax = a - x \\iff x^2 - ax + a = 0$。\n兩相異實根：$a^2 - 4a > 0$，$a > 4$；此時兩根和 $a$、積 $a$ 皆正，且都小於 $a$。只有 $a = 5$。\n\n故選 (E)"
+  },
+  {
+    "id": "105-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 下列哪一個選項的數值最接近 $\\cos(2.6\\pi)$？",
+    "options": [
+      "$\\sin(2.6\\pi)$",
+      "$\\tan(2.6\\pi)$",
+      "$\\cot(2.6\\pi)$",
+      "$\\sec(2.6\\pi)$",
+      "$\\csc(2.6\\pi)$"
+    ],
+    "answerIndex": 2,
+    "explanation": "$2.6\\pi$ 與 $108^\\circ$ 同界：$\\cos108^\\circ \\approx -0.309$、$\\sin \\approx 0.951$。\n$\\tan \\approx -3.08$、$\\cot \\approx -0.325$、$\\sec \\approx -3.24$、$\\csc \\approx 1.05$。最接近的是 $\\cot$。\n\n故選 (C)"
+  },
+  {
+    "id": "105-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 假設三角形 $ABC$ 的三邊長分別為 $\\overline{AB} = 5$、$\\overline{BC} = 8$、$\\overline{AC} = 6$。請選出和向量 $\\overrightarrow{AB}$ 的內積為最大的選項。",
+    "options": [
+      "$\\overrightarrow{AC}$",
+      "$\\overrightarrow{CA}$",
+      "$\\overrightarrow{BC}$",
+      "$\\overrightarrow{CB}$",
+      "$\\overrightarrow{AB}$"
+    ],
+    "answerIndex": 3,
+    "explanation": "$\\overrightarrow{AB}\\cdot\\overrightarrow{AC} = \\dfrac{25 + 36 - 64}{2} = -\\dfrac32$。\n• $\\overrightarrow{CA}$：$\\dfrac32$。\n• $\\overrightarrow{BC} = \\overrightarrow{AC} - \\overrightarrow{AB}$：$-\\dfrac32 - 25 = -26.5$；$\\overrightarrow{CB}$：26.5。\n• $\\overrightarrow{AB}$：25。\n最大是 $\\overrightarrow{CB}$。\n\n故選 (D)"
+  },
+  {
+    "id": "105-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "4. 假設 $a, b$ 皆為非零實數，且坐標平面上二次函數 $y = ax^2 + bx$ 與一次函數 $y = ax + b$ 的圖形相切。請選出切點所在位置為下列哪一個選項。",
+    "options": [
+      "在 $x$ 軸上",
+      "在 $y$ 軸上",
+      "在第一象限",
+      "在第四象限",
+      "當 $a > 0$ 時，在第一象限；當 $a < 0$ 時，在第四象限"
+    ],
+    "answerIndex": 0,
+    "explanation": "$ax^2 + bx - ax - b = (x - 1)(ax + b) = 0$。相切表示重根：$-\\dfrac ba = 1$，$b = -a$。\n切點 $x = 1$，$y = a + b = 0$，在 $x$ 軸上。\n\n故選 (A)"
+  },
+  {
+    "id": "105-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 在坐標空間中，點 $P(2, 2, 1)$ 是平面 $E$ 上距離原點 $O(0, 0, 0)$ 最近的點。請選出正確的選項。",
+    "options": [
+      "向量 $\\vec v = (1, -1, 0)$ 為平面 $E$ 的法向量",
+      "點 $P$ 也是平面 $E$ 上距離點 $(4, 4, 2)$ 最近的點",
+      "點 $(0, 0, 9)$ 在平面 $E$ 上",
+      "點 $(2, 2, -8)$ 到平面 $E$ 的距離為 9",
+      "通過原點和點 $(2, 2, -8)$ 的直線與平面 $E$ 會相交"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "$\\overrightarrow{OP}$ 垂直 $E$：$E: 2x + 2y + z = 9$。\n• (A) 錯誤：法向量平行 $(2, 2, 1)$。\n• (B) 正確：$(4, 4, 2)$ 也在直線 $OP$ 上，它在 $E$ 上的垂足仍是 $P$。\n• (C) 正確：$0 + 0 + 9 = 9$。\n• (D) 錯誤：$\\dfrac{|4 + 4 - 8 - 9|}{3} = 3$。\n• (E) 錯誤：方向 $(2, 2, -8)\\cdot(2, 2, 1) = 0$，直線平行 $E$，且原點不在 $E$ 上。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "105-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 坐標平面上一矩形，其頂點分別為 $A(3, -2)$、$B(3, 2)$、$C(-3, 2)$、$D(-3, -2)$。設二階方陣 $M$ 為在坐標平面上定義的線性變換，可將 $A$ 映射到 $B$ 且將 $B$ 映射到 $C$。請選出正確的選項。",
+    "options": [
+      "$M$ 定義的線性變換是鏡射變換",
+      "$M\\begin{bmatrix} 3 & 3 \\\\ -2 & 2 \\end{bmatrix} = \\begin{bmatrix} 3 & -3 \\\\ 2 & 2 \\end{bmatrix}$",
+      "$M$ 定義的線性變換將 $C$ 映射到 $D$ 且將 $D$ 映射到 $A$",
+      "$M$ 的行列式值為 $-1$",
+      "$M^3 = -M$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "(B) 就是題意（兩行分別為 $A \\to B$、$B \\to C$）。解得 $M = \\begin{bmatrix} 0 & -\\frac32 \\\\ \\frac23 & 0 \\end{bmatrix}$。\n• (A) 錯誤：$\\det M = 1$，不是鏡射。\n• (B) 正確。\n• (C) 正確：$M(-3, 2) = (-3, -2)$、$M(-3, -2) = (3, -2)$。\n• (D) 錯誤：$\\det M = 1$。\n• (E) 正確：$M^2 = -I$，$M^3 = -M$。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "105-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 在實數線上，動點 $A$ 從原點開始往正向移動，動點 $B$ 從 8 的位置開始往負向移動。兩個動點每一秒移動一次，已知第一秒 $A$、$B$ 移動的距離分別為 1、4，且 $A$、$B$ 每次移動的距離分別為其前一次移動距離的 $\\dfrac12$ 倍、$\\dfrac13$ 倍。令 $c_n$ 為第 $n$ 秒時 $A$、$B$ 的中點位置。請選出正確選項。",
+    "options": [
+      "$c_1 = \\dfrac52$",
+      "$c_2 > c_1$",
+      "數列 $\\langle c_{n+1} - c_n\\rangle$ 是一個等比數列",
+      "$\\displaystyle\\lim_{n\\to\\infty}c_n = 2$",
+      "$c_{1000} > 2$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "$A_n = 2\\left(1 - 2^{-n}\\right)$，$B_n = 8 - 6\\left(1 - 3^{-n}\\right) = 2 + 6\\cdot3^{-n}$，$c_n = 2 + 3^{1-n} - 2^{-n}$。\n• (A) 正確：$c_1 = \\dfrac{1 + 4}{2}$。\n• (B) 錯誤：$c_2 = 2 + \\dfrac13 - \\dfrac14 = \\dfrac{25}{12} < \\dfrac52$。\n• (C) 錯誤：$c_{n+1} - c_n = 2^{-n-1} - 2\\cdot3^{-n}$，兩個不同公比的等比數列相加，不是等比。\n• (D) 正確。\n• (E) 錯誤：$n$ 很大時 $2^{-n}$ 遠大於 $3^{1-n}$，$c_{1000} < 2$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "105-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "A. 投擲一枚均勻銅板 8 次。在最初兩次的投擲中曾經出現過正面的條件下，8 次投擲中恰好出現 3 次正面的條件機率為 $\\dfrac{⑧}{⑨⑩}$。（化成最簡分數）",
+    "blanks": [
+      "3",
+      "1",
+      "6"
+    ],
+    "blankLabels": [
+      "8",
+      "9",
+      "10"
+    ],
+    "explanation": "條件機率 $\\dfrac34$。同時發生：前兩次正正，後 6 次 1 正：6 種；前兩次一正一反（2 種），後 6 次 2 正：15 種，共 $6 + 30 = 36$ 種，機率 $\\dfrac{36}{256}$。\n所求 $= \\dfrac{36/256}{3/4} = \\dfrac{3}{16}$。"
+  },
+  {
+    "id": "105-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "B. 設 $\\vec u = (1, 2, 3)$、$\\vec v = (1, 0, -1)$、$\\vec w = (x, y, z)$ 為空間中三個向量，且向量 $\\vec w$ 與向量 $\\vec u\\times\\vec v$ 平行。若行列式 $\\begin{vmatrix} 1 & 2 & 3 \\\\ 1 & 0 & -1 \\\\ x & y & z \\end{vmatrix} = -12$，則 $\\vec w =$ (⑪, ⑫⑬, ⑭)。",
+    "blanks": [
+      "1",
+      "-",
+      "2",
+      "1"
+    ],
+    "acceptedBlanks": [
+      [
+        "1"
+      ],
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "2"
+      ],
+      [
+        "1"
+      ]
+    ],
+    "blankLabels": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "explanation": "$\\vec u\\times\\vec v = (-2, 4, -2)$。行列式 $= (\\vec u\\times\\vec v)\\cdot\\vec w$，設 $\\vec w = t(1, -2, 1)$：$(-2, 4, -2)\\cdot t(1, -2, 1) = -12t = -12$，$t = 1$。$\\vec w = (1, -2, 1)$。"
+  },
+  {
+    "id": "105-ast-ma-C",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "C. 在所有滿足 $z - \\bar z = -3i$ 的複數 $z$ 中（其中 $\\bar z$ 為 $z$ 的共軛複數，$i = \\sqrt{-1}$），$|\\sqrt7 + 8i - z|$ 的最小值為 $\\dfrac{⑮⑯}{⑰}$。（化成最簡分數）",
+    "blanks": [
+      "1",
+      "9",
+      "2"
+    ],
+    "blankLabels": [
+      "15",
+      "16",
+      "17"
+    ],
+    "explanation": "$z - \\bar z = 2i\\,\\mathrm{Im}(z) = -3i$，$z$ 在直線 $y = -\\dfrac32$ 上。點 $(\\sqrt7, 8)$ 到此直線的距離 $8 + \\dfrac32 = \\dfrac{19}{2}$。"
+  },
+  {
+    "id": "105-ast-ma-D",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "D. 一圓盤分成標有數字 0、1 的兩區域，且圓盤上有一可轉動的指針。已知每次轉動指針後，前後兩次指針停在同一區域的機率為 $\\dfrac14$，而停在不同區域的機率為 $\\dfrac34$。遊戲規則為連續轉動指針三次，計算指針在這三次所停區域的標號數字之和。若遊戲前指針的位置停在標號數字為 1 的區域，則此遊戲的期望值為 $\\dfrac{⑱⑲}{⑳㉑}$。（化成最簡分數）",
+    "blanks": [
+      "2",
+      "1",
+      "1",
+      "6"
+    ],
+    "blankLabels": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "explanation": "設第 $k$ 次停在 1 的機率 $p_k$，$p_0 = 1$，$p_{k+1} = \\dfrac14p_k + \\dfrac34(1 - p_k) = \\dfrac34 - \\dfrac12p_k$。\n$p_1 = \\dfrac14$、$p_2 = \\dfrac58$、$p_3 = \\dfrac{7}{16}$。期望值 $= p_1 + p_2 + p_3 = \\dfrac{21}{16}$。"
+  },
+  {
+    "id": "105-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】如圖，已知圓 $O$ 與直線 $BC$、直線 $AC$、直線 $AB$ 均相切，且分別相切於 $D$、$E$、$F$。又 $\\overline{BC} = 4$，$\\overline{AC} = 5$，$\\overline{AB} = 6$。試回答下列問題。\n(1) 假設 $\\overline{BF} = x$，試利用 $x$ 分別表示 $\\overline{BD}$，$\\overline{CD}$ 以及 $\\overline{AE}$，並求出 $x$ 之值。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-ma-non1.png\" alt=\"圓 O 在三角形 ABC 外側，切 BC 於 D、切 AC 延長線於 E、切 AB 延長線於 F\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "blanks": [
+      "$\\overline{BD} = x$，$\\overline{CD} = 4 - x$，$\\overline{AE} = 9 - x$",
+      "$x = \\dfrac32$"
+    ],
+    "blankLabels": [
+      "表示式",
+      "x"
+    ],
+    "explanation": "切線長相等：$\\overline{BD} = \\overline{BF} = x$，$\\overline{CE} = \\overline{CD} = 4 - x$，$\\overline{AE} = \\overline{AC} + \\overline{CE} = 9 - x$。\n又 $\\overline{AE} = \\overline{AF} = 6 + x$，所以 $9 - x = 6 + x$，$x = \\dfrac32$。"
+  },
+  {
+    "id": "105-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】如圖，已知圓 $O$ 與直線 $BC$、直線 $AC$、直線 $AB$ 均相切，且分別相切於 $D$、$E$、$F$。又 $\\overline{BC} = 4$，$\\overline{AC} = 5$，$\\overline{AB} = 6$。試回答下列問題。\n(2) 若將 $\\overrightarrow{AD}$ 表示成 $\\alpha\\overrightarrow{AB} + \\beta\\overrightarrow{AC}$，則 $\\alpha, \\beta$ 之值為何？（5 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/105-ast-ma-non1.png\" alt=\"圓 O 在三角形 ABC 外側，切 BC 於 D、切 AC 延長線於 E、切 AB 延長線於 F\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 5,
+    "blanks": [
+      "$\\alpha = \\dfrac58$",
+      "$\\beta = \\dfrac38$"
+    ],
+    "blankLabels": [
+      "α",
+      "β"
+    ],
+    "explanation": "$\\overline{BD} = \\dfrac32$、$\\overline{DC} = \\dfrac52$，$D$ 把 $\\overline{BC}$ 分成 $3 : 5$：\n$\\overrightarrow{AD} = \\dfrac58\\overrightarrow{AB} + \\dfrac38\\overrightarrow{AC}$。"
+  },
+  {
+    "id": "105-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設三次實係數多項式 $f(x)$ 的最高次項係數為 $a$。已知在 $0 \\le x \\le 3$ 的範圍中，$f(x)$ 的最大值 12 發生在 $x = 0, x = 2$ 兩處。另一多項式 $G(x)$ 滿足 $G(0) = 0$，以及對任意實數 $s, r$（$s \\le r$），$\\displaystyle\\int_s^r f(t)\\,dt = G(r) - G(s)$ 恆成立，且函數 $y = G(x)$ 在 $x = 1$ 處有（相對）極值。試回答下列問題。\n(1) 試描繪 $y = f(x)$ 在 $0 \\le x \\le 3$ 的範圍中可能的圖形，在圖上標示 $(0, f(0))$、$(2, f(2))$，並由此說明 $a$ 為正或負。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$a < 0$"
+    ],
+    "blankLabels": [
+      "a 的正負"
+    ],
+    "explanation": "$x = 2$ 不是端點，最大值發生在此表示是相對極大值；又 $f(0) = f(2) = 12$，圖形從 $(0, 12)$ 先下降到極小值，再上升到 $(2, 12)$ 的極大值，然後下降。\n三次函數「先極小、後極大」，右邊趨向 $-\\infty$，所以 $a < 0$。"
+  },
+  {
+    "id": "105-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設三次實係數多項式 $f(x)$ 的最高次項係數為 $a$。已知在 $0 \\le x \\le 3$ 的範圍中，$f(x)$ 的最大值 12 發生在 $x = 0, x = 2$ 兩處。另一多項式 $G(x)$ 滿足 $G(0) = 0$，以及對任意實數 $s, r$（$s \\le r$），$\\displaystyle\\int_s^r f(t)\\,dt = G(r) - G(s)$ 恆成立，且函數 $y = G(x)$ 在 $x = 1$ 處有（相對）極值。試回答下列問題。\n(2) 試求方程式 $f(x) - 12 = 0$ 的實數解（如有重根須標示），並利用 $y = G(x)$ 在 $x = 1$ 處有極值，求 $a$ 之值。（5 分）",
+    "points": 5,
+    "blanks": [
+      "$x = 0$、$x = 2$（二重根）",
+      "$a = -12$"
+    ],
+    "blankLabels": [
+      "實數解",
+      "a"
+    ],
+    "explanation": "$f(0) = f(2) = 12$ 且 $x = 2$ 是極值點（$f'(2) = 0$），所以 $f(x) - 12 = ax(x - 2)^2$，解為 0 與二重根 2。\n$G' = f$，$G$ 在 $x = 1$ 有極值：$f(1) = 0$，$a + 12 = 0$，$a = -12$。"
+  },
+  {
+    "id": "105-ast-ma-non-2-3",
+    "examType": "分科/指考",
+    "year": 105,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設三次實係數多項式 $f(x)$ 的最高次項係數為 $a$。已知在 $0 \\le x \\le 3$ 的範圍中，$f(x)$ 的最大值 12 發生在 $x = 0, x = 2$ 兩處。另一多項式 $G(x)$ 滿足 $G(0) = 0$，以及對任意實數 $s, r$（$s \\le r$），$\\displaystyle\\int_s^r f(t)\\,dt = G(r) - G(s)$ 恆成立，且函數 $y = G(x)$ 在 $x = 1$ 處有（相對）極值。試回答下列問題。\n(3) 在 $0 \\le x \\le 2$ 的範圍中，求 $G(x)$ 之最小值。（6 分）",
+    "points": 6,
+    "blanks": [
+      "0"
+    ],
+    "blankLabels": [
+      "最小值"
+    ],
+    "explanation": "$G'(x) = f(x) = -12x(x - 2)^2 + 12 = -12(x - 1)(x^2 - 3x + 1)$，零點 $1$、$\\dfrac{3 \\pm \\sqrt5}{2}$；在 $[0, 2]$ 內有 $\\dfrac{3 - \\sqrt5}{2}$ 與 1。\n$G$ 在 $\\left[0, \\dfrac{3 - \\sqrt5}{2}\\right]$ 遞增、$\\left[\\dfrac{3 - \\sqrt5}{2}, 1\\right]$ 遞減、$[1, 2]$ 遞增，最小值為 $G(0)$ 或 $G(1)$。\n$G(1) - G(0) = \\displaystyle\\int_0^1(-12t^3 + 48t^2 - 48t + 12)\\,dt = -3 + 16 - 24 + 12 = 1 > 0$，所以最小值 $G(0) = 0$。"
   }
 ]
