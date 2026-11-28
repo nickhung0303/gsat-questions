@@ -252536,5 +252536,879 @@
       "河川"
     ],
     "explanation": "埃及亞斯文高壩完工後，灌溉渠道遍布，水流緩慢，血吸蟲的中間宿主釘螺大量繁殖，血吸蟲病擴散。"
+  },
+  {
+    "id": "98-ast-geo-01",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "相對於美國－墨西哥、以色列－巴勒斯坦邊界興建阻止人民自由往來的「界牆」，下列哪些國家之間已撤除邊境管制，人民可以自由往來？",
+    "options": [
+      "土耳其、法國、德國、義大利",
+      "冰島、丹麥、挪威、瑞典",
+      "瑞士、瑞典、愛爾蘭、保加利亞",
+      "匈牙利、羅馬尼亞、捷克、塞爾維亞"
+    ],
+    "answerIndex": 1,
+    "explanation": "冰島、丹麥、挪威、瑞典都是申根區成員，彼此取消邊境檢查。土耳其、塞爾維亞不是申根國；愛爾蘭、保加利亞（當時）也不在申根區內。\n\n故選 (B)"
+  },
+  {
+    "id": "98-ast-geo-02",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "國內部分產業在國際市場上面臨區域的貿易整合危機，例如台灣石化業部分產品在2008年已被中國課徵6.5％的反傾銷稅，但隨著中國於2010年加入某區域組織生效後，該組織內成員國輸往中國的相關產品的關稅會降至0。因台灣尚未加入該組織，使得台灣的石化、機械及汽車等產業在銷往該組織的成員國時，均會受到差異關稅的影響。請問這個區域結盟組織是：",
+    "options": [
+      "歐盟",
+      "亞太經濟合作組織",
+      "東協加一",
+      "經濟合作與發展組織"
+    ],
+    "answerIndex": 2,
+    "explanation": "2010 年生效的「東協－中國自由貿易區」（東協加一），區內大部分產品關稅降為 0。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-geo-03",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "某高中舉辦分組地理考察活動，各組同學進行實察的過程中，需要處理的工作項目包括：（甲）繪製地圖、統計圖表等展現資料；（乙）利用相機與GPS或地圖作紀錄；（丙）規畫實察路線；（丁）蒐集、整理考察地區的文獻和圖片。試問其工作項目的先後步驟為何？",
+    "options": [
+      "甲乙丙丁",
+      "乙甲丁丙",
+      "丙丁甲乙",
+      "丁丙乙甲"
+    ],
+    "answerIndex": 3,
+    "explanation": "先蒐集文獻（丁），再規劃路線（丙），實地考察記錄（乙），最後繪圖整理呈現（甲）。\n\n故選 (D)"
+  },
+  {
+    "id": "98-ast-geo-04",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "試由圖1判別2008年中國從事何種產業的人口所得偏低的問題最嚴重？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-04.png\" alt=\"圖1 2008 年中國就業人口與 GDP 結構：就業人口中農業約 43%、工業約 17%、服務業約 40%；GDP 中農業約 10%、工業約 50%、服務業約 40%\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "第一級產業",
+      "第二級產業",
+      "第三級產業",
+      "第四級產業"
+    ],
+    "answerIndex": 0,
+    "explanation": "農業就業人口約占四成多，但農業產值只占 GDP 約 10%，平均每人產值最低，所得偏低最嚴重。\n\n故選 (A)"
+  },
+  {
+    "id": "98-ast-geo-05",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "2008年年底，聯合國「糧食暨農業組織」警告，許多較富裕國家如南韓、杜拜等的政府與企業，為確保長期的糧食供給安全，正大舉租用甚至收購開發中國家的農地。請問是這些國家的哪種國內因素，導致作出這樣的決策？",
+    "options": [
+      "農民人口增加",
+      "農民人口的老化",
+      "飲食習慣的改變",
+      "可耕地的開發已近飽和"
+    ],
+    "answerIndex": 3,
+    "explanation": "南韓山多平原少，杜拜位於沙漠，本國可耕地已開發殆盡，無法再增產，只好到海外取得農地。\n\n故選 (D)"
+  },
+  {
+    "id": "98-ast-geo-06",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "「1990年代全球金融自由化，已開發國家的過剩資金，長期大量流向新興工業化國家尋找獲利機會。但自2008年金融海嘯襲捲全球，已開發國家的跨國公司、銀行及投資機構為提高資金的流動性，弭平虧損，紛紛將海外子公司的獲利或資產變現匯回母國」。請問當資金大量回流已開發國家時，對新興工業化國家的金融層面會帶來甚麼影響？甲、貨幣貶值；乙、貨幣升值；丙、資產的市場價格下跌；丁、資產的市場價格上升",
+    "options": [
+      "甲丙",
+      "乙丁",
+      "乙丙",
+      "甲丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "外資大量撤出，賣出本國貨幣換成外幣，造成貨幣貶值（甲）；大量拋售股票、房地產，資產價格下跌（丙）。\n\n故選 (A)"
+  },
+  {
+    "id": "98-ast-geo-07",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖2為某地的氣候水平衡圖，該地的自然景觀最可能是下列哪種類型？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-07.png\" alt=\"圖2 氣候水平衡圖（年雨量 319.3 mm、年均溫 27.4℃）：月均溫 22～33℃；月雨量只在 7～9 月較多（8 月約 120 mm），其餘月份接近 0；月可能蒸發散量 70～190 mm，全年都高於雨量\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "沙漠",
+      "草原",
+      "莽原",
+      "季風林"
+    ],
+    "answerIndex": 0,
+    "explanation": "年雨量只有 319 mm，年均溫 27.4℃，各月可能蒸發散量遠大於雨量，全年缺水，是熱帶沙漠。\n\n故選 (A)"
+  },
+  {
+    "id": "98-ast-geo-08",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "在永續利用原則下，人類使用的水資源量受限於各種水體的儲存量，及此儲存量循環更新的時間。如更新時間愈快，可循環利用的水量就愈多。表1為全球淡水量的部分數據，請問在人類每年合理開發利用下，可以從以下哪種水資源獲得最多的淡水？",
+    "svg": "<svg viewBox=\"0 0 514 92\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"140\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">水體</text><rect x=\"142\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"202\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">固態水（冰雪）</text><rect x=\"262\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"307\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">地下水</text><rect x=\"352\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">湖泊</text><rect x=\"432\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">河水</text><rect x=\"2\" y=\"32\" width=\"140\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">儲存量（10³ km³）</text><rect x=\"142\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"202\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">24,230</text><rect x=\"262\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"307\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10,100</text><rect x=\"352\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">91</text><rect x=\"432\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.2</text><rect x=\"2\" y=\"60\" width=\"140\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">循環更新時間</text><rect x=\"142\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"202\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9,700 年</text><rect x=\"262\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"307\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">840 年</text><rect x=\"352\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">17 年</text><rect x=\"432\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">16 天</text></svg>",
+    "options": [
+      "冰川",
+      "地下水",
+      "湖泊",
+      "河水"
+    ],
+    "answerIndex": 3,
+    "explanation": "每年可永續利用量 ≈ 儲存量 ÷ 更新時間：冰川 $24230 / 9700 \\approx 2.5$、地下水 $10100 / 840 \\approx 12$、湖泊 $91 / 17 \\approx 5.4$、河水 $1.2 \\div \\dfrac{16}{365} \\approx 27$（$10^3\\,km^3$／年），河水最多。\n\n故選 (D)"
+  },
+  {
+    "id": "98-ast-geo-09",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "土壤顆粒在風或水等外營力作用下從地面被移除的現象稱為「土壤侵蝕」。土壤侵蝕的程度與土壤本身的特性、外營力作用的方式和大小、植被狀況以及人為活動等因素有關。長期而言，在具有相似的地質及地形條件且未經人為干擾的狀況下，位於下列哪個氣候區的集水區所產生之年平均土壤侵蝕量最可能居於首位？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-09.png\" alt=\"四個氣候圖：(A) 全年 25℃ 左右，各月雨量 50～280 mm 皆多；(B) 5～20℃，各月雨量 40～70 mm 平均；(C) 23～35℃，雨量集中在 6～9 月（最多約 130 mm），其餘月份幾乎無雨；(D) −30～18℃，雨量少，夏季較多約 100 mm\" style=\"width:100%;max-width:620px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answerIndex": 2,
+    "explanation": "(C) 全年高溫、雨量集中在短短幾個月（乾溼季分明），乾季長使植被稀疏，雨季的集中豪雨直接沖刷裸露地表，侵蝕量最大。(A) 全年多雨、植被茂密能保護土壤；(B) 溫和、雨量平均；(D) 寒冷少雨、外營力弱。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-geo-10",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "10-12 為題組\n1990年代始，印尼經濟快速發展，但環境問題隨之凸顯，其中又以空氣污染最為嚴重。自90年代末期迄今，空氣污染問題不僅影響航海與航空運輸，也損害居民的健康。此外，煙霾常隨著盛行風吹往北方，致使鄰近國家亦深受空氣污染之苦。請問：\n\n下列各項產業活動中，何者與印尼近年來飽受空氣汙染所苦一事的關聯性最「小」？",
+    "options": [
+      "採挖錫礦",
+      "擴大耕地",
+      "種植油棕",
+      "砍伐森林"
+    ],
+    "answerIndex": 0,
+    "explanation": "印尼煙霾主要來自以火燒方式清除雨林、開墾耕地與油棕園。採錫礦與燒林無關。\n\n故選 (A)"
+  },
+  {
+    "id": "98-ast-geo-11",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "10-12 為題組\n1990年代始，印尼經濟快速發展，但環境問題隨之凸顯，其中又以空氣污染最為嚴重。自90年代末期迄今，空氣污染問題不僅影響航海與航空運輸，也損害居民的健康。此外，煙霾常隨著盛行風吹往北方，致使鄰近國家亦深受空氣污染之苦。請問：\n\n印尼（特別是蘇門答臘島）的空氣污染災害，在下列哪些月份對馬來西亞與新加坡的影響最大？",
+    "options": [
+      "4－5月",
+      "6－9月",
+      "10－11月",
+      "12－翌年3月"
+    ],
+    "answerIndex": 1,
+    "explanation": "6～9 月是北半球夏季，東南亞吹西南季風，蘇門答臘的煙霾隨風吹向東北方的馬來西亞、新加坡；這段時間也是蘇門答臘的乾季，燒墾最盛。\n\n故選 (B)"
+  },
+  {
+    "id": "98-ast-geo-12",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "10-12 為題組\n1990年代始，印尼經濟快速發展，但環境問題隨之凸顯，其中又以空氣污染最為嚴重。自90年代末期迄今，空氣污染問題不僅影響航海與航空運輸，也損害居民的健康。此外，煙霾常隨著盛行風吹往北方，致使鄰近國家亦深受空氣污染之苦。請問：\n\n當蘇門答臘發生嚴重空氣污染，通過下列哪個國際海峽的船隻，必須有導航設備才可航行？",
+    "options": [
+      "巴士海峽",
+      "巽他海峽",
+      "對馬海峽",
+      "麻六甲海峽"
+    ],
+    "answerIndex": 3,
+    "explanation": "麻六甲海峽位於蘇門答臘與馬來半島之間，煙霾飄向東北時首當其衝，能見度極低。巽他海峽在蘇門答臘南端，位於上風處。\n\n故選 (D)"
+  },
+  {
+    "id": "98-ast-geo-13",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-14 為題組\n台灣沿海地名中有「岬」、「頭」、「鼻」、「角」者甚多，例如「野柳岬」、「貓鼻頭」、「鵝鑾鼻」、「富貴角」等。請問：\n\n所謂「岬」、「頭」、「鼻」、「角」者，一般是指以下何種地形？",
+    "options": [
+      "海岸線呈內凹的一個灣",
+      "被海水淹沒的海岸谷地",
+      "和岸線平行的一道沙脊",
+      "海岸線向海突出的濱岸"
+    ],
+    "answerIndex": 3,
+    "explanation": "岬、鼻、角、頭都是指向海突出的陸地（岬角）。\n\n故選 (D)"
+  },
+  {
+    "id": "98-ast-geo-14",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-14 為題組\n台灣沿海地名中有「岬」、「頭」、「鼻」、「角」者甚多，例如「野柳岬」、「貓鼻頭」、「鵝鑾鼻」、「富貴角」等。請問：\n\n這種「岬」、「頭」、「鼻」、「角」的地形景觀，有何環境重要功能？",
+    "options": [
+      "常做為貨物運輸港口",
+      "常成為海岸防衛的戰略要地",
+      "常成為海灘旅遊勝地",
+      "常成為生態多樣的自然棲地"
+    ],
+    "answerIndex": 1,
+    "explanation": "岬角向海突出，視野開闊、可監控兩側海域與航道，自古常設砲台、燈塔或軍事設施，是海岸防衛的戰略要地（如鵝鑾鼻、富貴角）。岬角風浪大，不利建港；海灘多在灣澳。\n\n故選 (B)"
+  },
+  {
+    "id": "98-ast-geo-15",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "15-16 為題組\n近年全球環境變遷，中國大陸西北土地沙漠化情況嚴重，致使台灣地區每逢冬春之交，常見沙塵暴災害。台灣近年在颱風來臨前或東北季風盛行期間，也常出現地區性的沙塵事件。請問：\n\n中國西北土地沙漠化的原因，可能與哪些自然和人文條件最直接相關？甲、氣候長期乾旱缺水；乙、長期灌溉土壤鹽化；丙、開闢農田灌溉渠道；丁、開闢道路交通網絡；戊、擴大牲畜放牧範圍",
+    "options": [
+      "甲乙丙",
+      "乙丙丁",
+      "甲乙戊",
+      "甲丁戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "自然因素：長期乾旱（甲）；人為因素：不當灌溉造成土壤鹽化（乙）、過度放牧（戊），使植被退化、土地沙漠化。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-geo-16",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "15-16 為題組\n近年全球環境變遷，中國大陸西北土地沙漠化情況嚴重，致使台灣地區每逢冬春之交，常見沙塵暴災害。台灣近年在颱風來臨前或東北季風盛行期間，也常出現地區性的沙塵事件。請問：\n\n上述台灣的地區性沙塵事件，最可能發生在何種環境？",
+    "options": [
+      "平原耕作地",
+      "山區崩塌地",
+      "河口灘地",
+      "沼澤灘地"
+    ],
+    "answerIndex": 2,
+    "explanation": "颱風來臨前與東北季風期間是乾季，河川水位低，河口、河床裸露大片乾燥的細沙，強風吹起形成揚塵（如濁水溪口）。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-geo-17",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "17-19 為題組\n結合地理資訊技術的無線計程車派遣系統，將大幅度地改善計程車營運的效率。圖3為某顧客叫車時各計程車的分布位置及其交通路網資訊，「甲」至「戊」為計程車編號，數字為道路的代碼，表2為交通路網的屬性資訊。請問：\n\n利用地理資訊系統的路網分析功能，哪輛計程車距離顧客叫車地點不到四百公尺？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-17.png\" alt=\"圖3 計程車與路網：顧客叫車地點★位於道路 1、2、3、4 的交會點；甲在道路 1 西端；乙在道路 3 西南端；丙在道路 5、6、9 交會處；丁在道路 10 的南端；戊在醫院旁，位於道路 6、7 的東北端；道路 9 由丙向東接到道路 4、7、8 的交會點，道路 8 再向下接道路 2 東端\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><svg viewBox=\"0 0 414 272\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:496.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">代碼</text><rect x=\"62\" y=\"4\" width=\"110\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">長度（公尺）</text><rect x=\"172\" y=\"4\" width=\"130\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">通過時間（分鐘）</text><rect x=\"302\" y=\"4\" width=\"110\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">名稱</text><rect x=\"2\" y=\"28\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"62\" y=\"28\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">390</text><rect x=\"172\" y=\"28\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"302\" y=\"28\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中華西路</text><rect x=\"2\" y=\"52\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"62\" y=\"52\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">231</text><rect x=\"172\" y=\"52\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"302\" y=\"52\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中華東路</text><rect x=\"2\" y=\"76\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"62\" y=\"76\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">580</text><rect x=\"172\" y=\"76\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"302\" y=\"76\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中正路一段</text><rect x=\"2\" y=\"100\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"62\" y=\"100\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">300</text><rect x=\"172\" y=\"100\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"302\" y=\"100\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中正路二段</text><rect x=\"2\" y=\"124\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"62\" y=\"124\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">200</text><rect x=\"172\" y=\"124\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"302\" y=\"124\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">仁愛路二段</text><rect x=\"2\" y=\"148\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"62\" y=\"148\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">550</text><rect x=\"172\" y=\"148\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"302\" y=\"148\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">仁愛路三段</text><rect x=\"2\" y=\"172\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"62\" y=\"172\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">400</text><rect x=\"172\" y=\"172\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"302\" y=\"172\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中山路一段</text><rect x=\"2\" y=\"196\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"62\" y=\"196\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"172\" y=\"196\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"302\" y=\"196\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中山路二段</text><rect x=\"2\" y=\"220\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"62\" y=\"220\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">420</text><rect x=\"172\" y=\"220\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"302\" y=\"220\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">新興路</text><rect x=\"2\" y=\"244\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10</text><rect x=\"62\" y=\"244\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">250</text><rect x=\"172\" y=\"244\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"302\" y=\"244\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">大有街</text></svg>",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "甲經道路 1（中華西路）到叫車地點只有 390 公尺。乙經道路 3 要 580 公尺；丙、丁的路線都超過 400 公尺。\n\n故選 (A)"
+  },
+  {
+    "id": "98-ast-geo-18",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "17-19 為題組\n結合地理資訊技術的無線計程車派遣系統，將大幅度地改善計程車營運的效率。圖3為某顧客叫車時各計程車的分布位置及其交通路網資訊，「甲」至「戊」為計程車編號，數字為道路的代碼，表2為交通路網的屬性資訊。請問：\n\n經由地理資訊系統的最佳路徑分析，派遣哪輛計程車到顧客叫車地點所花時間最久？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-17.png\" alt=\"圖3 計程車與路網：顧客叫車地點★位於道路 1、2、3、4 的交會點；甲在道路 1 西端；乙在道路 3 西南端；丙在道路 5、6、9 交會處；丁在道路 10 的南端；戊在醫院旁，位於道路 6、7 的東北端；道路 9 由丙向東接到道路 4、7、8 的交會點，道路 8 再向下接道路 2 東端\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><svg viewBox=\"0 0 414 272\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:496.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">代碼</text><rect x=\"62\" y=\"4\" width=\"110\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">長度（公尺）</text><rect x=\"172\" y=\"4\" width=\"130\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">通過時間（分鐘）</text><rect x=\"302\" y=\"4\" width=\"110\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">名稱</text><rect x=\"2\" y=\"28\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"62\" y=\"28\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">390</text><rect x=\"172\" y=\"28\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"302\" y=\"28\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中華西路</text><rect x=\"2\" y=\"52\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"62\" y=\"52\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">231</text><rect x=\"172\" y=\"52\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"302\" y=\"52\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中華東路</text><rect x=\"2\" y=\"76\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"62\" y=\"76\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">580</text><rect x=\"172\" y=\"76\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"302\" y=\"76\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中正路一段</text><rect x=\"2\" y=\"100\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"62\" y=\"100\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">300</text><rect x=\"172\" y=\"100\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"302\" y=\"100\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中正路二段</text><rect x=\"2\" y=\"124\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"62\" y=\"124\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">200</text><rect x=\"172\" y=\"124\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"302\" y=\"124\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">仁愛路二段</text><rect x=\"2\" y=\"148\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"62\" y=\"148\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">550</text><rect x=\"172\" y=\"148\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"302\" y=\"148\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">仁愛路三段</text><rect x=\"2\" y=\"172\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"62\" y=\"172\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">400</text><rect x=\"172\" y=\"172\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"302\" y=\"172\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中山路一段</text><rect x=\"2\" y=\"196\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"62\" y=\"196\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"172\" y=\"196\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"302\" y=\"196\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中山路二段</text><rect x=\"2\" y=\"220\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"62\" y=\"220\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">420</text><rect x=\"172\" y=\"220\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"302\" y=\"220\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">新興路</text><rect x=\"2\" y=\"244\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10</text><rect x=\"62\" y=\"244\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">250</text><rect x=\"172\" y=\"244\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"302\" y=\"244\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">大有街</text></svg>",
+    "options": [
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "各車最快路徑：乙 道路 3 = 5 分；丙 道路 9 → 8 → 2 = 1 + 2 + 2 = 5 分；戊 道路 7 → 8 → 2 = 2 + 2 + 2 = 6 分；丁 道路 10 → 2 = 5 + 2 = 7 分，最久。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-geo-19",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "17-19 為題組\n結合地理資訊技術的無線計程車派遣系統，將大幅度地改善計程車營運的效率。圖3為某顧客叫車時各計程車的分布位置及其交通路網資訊，「甲」至「戊」為計程車編號，數字為道路的代碼，表2為交通路網的屬性資訊。請問：\n\n如果顧客叫車地點現場發生緊急事故，有傷者需要緊急運送至編號「戊」所在地的醫院，請問經由下列哪一派遣路線最快到達醫院？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-17.png\" alt=\"圖3 計程車與路網：顧客叫車地點★位於道路 1、2、3、4 的交會點；甲在道路 1 西端；乙在道路 3 西南端；丙在道路 5、6、9 交會處；丁在道路 10 的南端；戊在醫院旁，位於道路 6、7 的東北端；道路 9 由丙向東接到道路 4、7、8 的交會點，道路 8 再向下接道路 2 東端\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><svg viewBox=\"0 0 414 272\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:496.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">代碼</text><rect x=\"62\" y=\"4\" width=\"110\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">長度（公尺）</text><rect x=\"172\" y=\"4\" width=\"130\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">通過時間（分鐘）</text><rect x=\"302\" y=\"4\" width=\"110\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">名稱</text><rect x=\"2\" y=\"28\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"62\" y=\"28\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">390</text><rect x=\"172\" y=\"28\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"302\" y=\"28\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中華西路</text><rect x=\"2\" y=\"52\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"62\" y=\"52\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">231</text><rect x=\"172\" y=\"52\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"302\" y=\"52\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中華東路</text><rect x=\"2\" y=\"76\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"62\" y=\"76\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">580</text><rect x=\"172\" y=\"76\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"302\" y=\"76\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中正路一段</text><rect x=\"2\" y=\"100\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"62\" y=\"100\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">300</text><rect x=\"172\" y=\"100\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"302\" y=\"100\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中正路二段</text><rect x=\"2\" y=\"124\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"62\" y=\"124\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">200</text><rect x=\"172\" y=\"124\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"302\" y=\"124\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">仁愛路二段</text><rect x=\"2\" y=\"148\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"62\" y=\"148\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">550</text><rect x=\"172\" y=\"148\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"302\" y=\"148\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">仁愛路三段</text><rect x=\"2\" y=\"172\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"62\" y=\"172\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">400</text><rect x=\"172\" y=\"172\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"302\" y=\"172\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中山路一段</text><rect x=\"2\" y=\"196\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"62\" y=\"196\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"172\" y=\"196\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"302\" y=\"196\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中山路二段</text><rect x=\"2\" y=\"220\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"62\" y=\"220\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">420</text><rect x=\"172\" y=\"220\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"302\" y=\"220\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"236.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">新興路</text><rect x=\"2\" y=\"244\" width=\"60\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10</text><rect x=\"62\" y=\"244\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"117\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">250</text><rect x=\"172\" y=\"244\" width=\"130\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"302\" y=\"244\" width=\"110\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"357\" y=\"260.3333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">大有街</text></svg>",
+    "options": [
+      "派遣「甲」計程車直行中華西路、中華東路轉中山路至醫院",
+      "派遣「乙」計程車直行中正路一段轉中華東路再直行中山路至醫院",
+      "派遣「丁」計程車沿大有街，來回中華東路轉中山路至醫院",
+      "派遣「戊」計程車直行中山路轉中華東路，再沿原路線返回"
+    ],
+    "answerIndex": 1,
+    "explanation": "叫車地點到醫院最快是 2 → 8 → 7 = 6 分。\n(A) 甲：7 + 6 = 13 分。(B) 乙：5 + 6 = 11 分。(C) 丁：先到現場 7 分，再 6 分，共 13 分。(D) 戊：來回 6 + 6 = 12 分。最快是 (B)。\n\n故選 (B)"
+  },
+  {
+    "id": "98-ast-geo-20",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "20-21 為題組\n「違建」的貧民區是中南美洲很多大都市長久存在的地景，並且這種土地利用的方式在很多都市還在擴張之中。學界對此的意見頗為兩極，一派認為「貧民區」是這些都市很多問題的根源，一派認為「貧民區」就是這些都市解決其問題的方式。請問：\n\n「貧民區」對這些國家帶來的「正向」的影響是：甲、提高都市就業機會；乙、增加農民脫離凋蔽農村的機會；丙、利於M型社會的發展；丁、為大量都市居民提供居所；戊、勞工失業沒有收入時，也不致流離失所",
+    "options": [
+      "甲乙丙",
+      "乙丙丁",
+      "甲丙戊",
+      "乙丁戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "貧民區提供鄉村移民落腳之處（乙），為大量都市居民解決居住問題（丁），失業時也還有棲身之所（戊）。貧民區本身不創造就業；M 型社會是貧富差距擴大，並非正向影響。\n\n故選 (D)"
+  },
+  {
+    "id": "98-ast-geo-21",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "20-21 為題組\n「違建」的貧民區是中南美洲很多大都市長久存在的地景，並且這種土地利用的方式在很多都市還在擴張之中。學界對此的意見頗為兩極，一派認為「貧民區」是這些都市很多問題的根源，一派認為「貧民區」就是這些都市解決其問題的方式。請問：\n\n「貧民區」對這些國家帶來的「負面」影響是：甲、疾病與罪惡的溫床；乙、加速都市人口老化；丙、成為政治與社會動亂的根源；丁、非法佔據都市土地，阻礙都市的發展；戊、提供大量基礎設施形成政府的財政負擔",
+    "options": [
+      "甲乙丁",
+      "乙丙戊",
+      "甲丙丁",
+      "丙丁戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "貧民區環境衛生差、治安不佳（甲），容易引發社會動亂（丙），非法占地妨礙都市計畫（丁）。移入的多是年輕人，不會加速老化；貧民區的特徵正是缺乏基礎設施。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-geo-22",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "22-24 為題組\n表3為四個國家在同一年度中的糧食作物生產的統計表。請問：\n\n甲乙兩國如要改善農業的經營，所應致力的發展方向應是：",
+    "svg": "<svg viewBox=\"0 0 534 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"210\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">糧食作物生產統計</text><rect x=\"212\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"292\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"372\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"452\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"2\" y=\"32\" width=\"210\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">每公頃肥料使用量（公斤）</text><rect x=\"212\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">108.8</text><rect x=\"292\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">53.7</text><rect x=\"372\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">250.8</text><rect x=\"452\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">191.9</text><rect x=\"2\" y=\"60\" width=\"210\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">每公頃收穫量（公斤）</text><rect x=\"212\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,956</text><rect x=\"292\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">977</text><rect x=\"372\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2,495</text><rect x=\"452\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3,150</text><rect x=\"2\" y=\"88\" width=\"210\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">平均每人收穫量（公噸）</text><rect x=\"212\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">121.7</text><rect x=\"292\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">140.6</text><rect x=\"372\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.1</text><rect x=\"452\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">79.2</text><rect x=\"2\" y=\"116\" width=\"210\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">平均每人耕地面積（公頃）</text><rect x=\"212\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">145.6</text><rect x=\"292\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">186.6</text><rect x=\"372\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.1</text><rect x=\"452\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">37.9</text></svg>",
+    "options": [
+      "小農場制",
+      "精緻農業",
+      "提高每人產量",
+      "提高單位面積產量"
+    ],
+    "answerIndex": 3,
+    "explanation": "甲、乙每人耕地與每人收穫量都很高，但每公頃收穫量偏低（粗放經營），應致力提高單位面積產量。\n\n故選 (D)"
+  },
+  {
+    "id": "98-ast-geo-23",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "22-24 為題組\n表3為四個國家在同一年度中的糧食作物生產的統計表。請問：\n\n最可能是大規模生產穀物的國家為：",
+    "svg": "<svg viewBox=\"0 0 534 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"210\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">糧食作物生產統計</text><rect x=\"212\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"292\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"372\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"452\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"2\" y=\"32\" width=\"210\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">每公頃肥料使用量（公斤）</text><rect x=\"212\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">108.8</text><rect x=\"292\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">53.7</text><rect x=\"372\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">250.8</text><rect x=\"452\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">191.9</text><rect x=\"2\" y=\"60\" width=\"210\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">每公頃收穫量（公斤）</text><rect x=\"212\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,956</text><rect x=\"292\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">977</text><rect x=\"372\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2,495</text><rect x=\"452\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3,150</text><rect x=\"2\" y=\"88\" width=\"210\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">平均每人收穫量（公噸）</text><rect x=\"212\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">121.7</text><rect x=\"292\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">140.6</text><rect x=\"372\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.1</text><rect x=\"452\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">79.2</text><rect x=\"2\" y=\"116\" width=\"210\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">平均每人耕地面積（公頃）</text><rect x=\"212\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">145.6</text><rect x=\"292\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">186.6</text><rect x=\"372\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.1</text><rect x=\"452\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">37.9</text></svg>",
+    "options": [
+      "甲乙",
+      "丙丁",
+      "乙丁",
+      "甲丙"
+    ],
+    "answerIndex": 0,
+    "explanation": "甲、乙每人耕地 145～187 公頃、每人收穫量 120～140 公噸，是大規模機械化生產的國家（如澳洲、加拿大）。\n\n故選 (A)"
+  },
+  {
+    "id": "98-ast-geo-24",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "22-24 為題組\n表3為四個國家在同一年度中的糧食作物生產的統計表。請問：\n\n丙丁兩國的農業特性應是：",
+    "svg": "<svg viewBox=\"0 0 534 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"210\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">糧食作物生產統計</text><rect x=\"212\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"292\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"372\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"452\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"2\" y=\"32\" width=\"210\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">每公頃肥料使用量（公斤）</text><rect x=\"212\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">108.8</text><rect x=\"292\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">53.7</text><rect x=\"372\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">250.8</text><rect x=\"452\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">191.9</text><rect x=\"2\" y=\"60\" width=\"210\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">每公頃收穫量（公斤）</text><rect x=\"212\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,956</text><rect x=\"292\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">977</text><rect x=\"372\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2,495</text><rect x=\"452\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3,150</text><rect x=\"2\" y=\"88\" width=\"210\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">平均每人收穫量（公噸）</text><rect x=\"212\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">121.7</text><rect x=\"292\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">140.6</text><rect x=\"372\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.1</text><rect x=\"452\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">79.2</text><rect x=\"2\" y=\"116\" width=\"210\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">平均每人耕地面積（公頃）</text><rect x=\"212\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"252\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">145.6</text><rect x=\"292\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">186.6</text><rect x=\"372\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"412\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.1</text><rect x=\"452\" y=\"116\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"492\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">37.9</text></svg>",
+    "options": [
+      "單位面積收穫量低",
+      "平均每人收穫量高",
+      "農業集約化程度高",
+      "農場平均耕地面積大"
+    ],
+    "answerIndex": 2,
+    "explanation": "丙、丁每公頃施肥多、單位面積產量高，每人耕地較小，屬於集約化經營。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-geo-25",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "25-26 為題組\n都市不同社區的發展程度或機能的差異，反映在社區人口遷移的結構上，圖4為某都會社區在某年的分齡人口移出、移入數量的統計圖。請問：\n\n據圖4資料研判，該社區最應該增加哪種職業人力？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-25.png\" alt=\"圖4 社區分齡人口移出（淺色）與移入（深色）人數：5-14 歲 移出約 20、移入約 400；15-24 歲 移出約 60、移入約 450；25-44 歲 移出約 50、移入約 500；45-59 歲 移出約 40、移入約 300；60 歲以上 移出約 250、移入約 200\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "醫療看護",
+      "高科技人才",
+      "建築工人",
+      "幼稚園老師"
+    ],
+    "answerIndex": 3,
+    "explanation": "大量移入的是 25～44 歲的青壯年與 5～14 歲的兒童，是年輕家庭遷入，學齡前與學齡兒童增加，需要更多幼兒教育人力。\n\n故選 (D)"
+  },
+  {
+    "id": "98-ast-geo-26",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "25-26 為題組\n都市不同社區的發展程度或機能的差異，反映在社區人口遷移的結構上，圖4為某都會社區在某年的分齡人口移出、移入數量的統計圖。請問：\n\n從社區分齡人口的移出、移入狀況看，該社區最可能屬都市地域中的下列哪區？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-25.png\" alt=\"圖4 社區分齡人口移出（淺色）與移入（深色）人數：5-14 歲 移出約 20、移入約 400；15-24 歲 移出約 60、移入約 450；25-44 歲 移出約 50、移入約 500；45-59 歲 移出約 40、移入約 300；60 歲以上 移出約 250、移入約 200\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "郊區",
+      "工業區",
+      "行政區",
+      "中心商業區"
+    ],
+    "answerIndex": 0,
+    "explanation": "年輕家庭帶著小孩大量遷入，是郊區新興住宅區的典型（都市郊區化）。\n\n故選 (A)"
+  },
+  {
+    "id": "98-ast-geo-27",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-29 為題組\n中國勞動力約是美國、歐盟、日本勞工總和的二倍，因此中國成為世界工廠。但過去幾年外商開始抱怨勞力短缺、工資上漲過快，至2008年金融海嘯，經濟衰退，問題才暫告減緩。請問：\n\n中國農業勞動力約佔總勞動力的24%，然而已發展國家約僅佔3%。如果要自農業部門釋放更多的勞動力到工業部門，則中國的農業將會朝向下列何種方式發展？",
+    "options": [
+      "機械化",
+      "精緻農業",
+      "休閒農業",
+      "集體農場"
+    ],
+    "answerIndex": 0,
+    "explanation": "以機械取代人力，才能減少農業所需的勞動力，釋放人力到工業部門。\n\n故選 (A)"
+  },
+  {
+    "id": "98-ast-geo-28",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-29 為題組\n中國勞動力約是美國、歐盟、日本勞工總和的二倍，因此中國成為世界工廠。但過去幾年外商開始抱怨勞力短缺、工資上漲過快，至2008年金融海嘯，經濟衰退，問題才暫告減緩。請問：\n\n中國20至29歲的勞動力已由1990年的2.33億減到2005年的1.65億。這是因為下列哪種人口現象的影響所致？",
+    "options": [
+      "人口老化",
+      "人口移出",
+      "出生率下降",
+      "死亡率提高"
+    ],
+    "answerIndex": 2,
+    "explanation": "2005 年 20～29 歲的人出生於 1976～1985 年，正是一胎化與晚婚晚育政策推行、出生率大幅下降的時期。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-geo-29",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-29 為題組\n中國勞動力約是美國、歐盟、日本勞工總和的二倍，因此中國成為世界工廠。但過去幾年外商開始抱怨勞力短缺、工資上漲過快，至2008年金融海嘯，經濟衰退，問題才暫告減緩。請問：\n\n為因應勞工成本的上揚，某出口導向廠商計畫將沿海工廠的員工由26萬人降至10萬人，將生產基地轉向內陸地區，但此廠商的工廠區位轉移的計畫所面臨的最大問題應是？",
+    "options": [
+      "資金",
+      "土地",
+      "勞動力",
+      "交通運輸"
+    ],
+    "answerIndex": 3,
+    "explanation": "出口導向的工廠需要把原料、零件運進來，再把產品運到沿海港口出口。內陸距海遠、運輸設施較差，交通運輸成本與時間是最大問題。\n\n故選 (D)"
+  },
+  {
+    "id": "98-ast-geo-30",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-32 為題組\n2008年，台北縣大漢溪三鶯橋下的原住民違建戶在社運團體聲援下前往縣政府，抗議縣府曾允諾於原住民族新部落規畫興建完成前，暫緩拆除，但如今卻要執行拆除，要求縣府讓他們就地合法居住。水利局則表示，該違建區位於河川地，依法無法讓原住民就地居住，縣府多次協調違建戶搬遷到蓋好的原住民文化部落大樓，並規畫在部落原址闢建農耕專用園區，提供原住民耕地，以保有傳統文化，但現有居民不願搬進部落大樓，將繼續溝通協調。請問：\n\n原住民由原鄉遷移至都市後，為什麼明知危險仍然選擇居住在三鶯橋下行水區的聚落？甲、社區的認同感；乙、居住空間較貼近大自然；丙、都市房價過高；丁、較佳的社會福利；戊、交通較為便捷",
+    "options": [
+      "甲乙丙",
+      "丙丁戊",
+      "甲乙丁",
+      "乙丙戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "族人聚居形成部落，有社區認同（甲）；河岸環境貼近原鄉的自然生活（乙）；都市房價太高負擔不起（丙）。\n\n故選 (A)"
+  },
+  {
+    "id": "98-ast-geo-31",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-32 為題組\n2008年，台北縣大漢溪三鶯橋下的原住民違建戶在社運團體聲援下前往縣政府，抗議縣府曾允諾於原住民族新部落規畫興建完成前，暫緩拆除，但如今卻要執行拆除，要求縣府讓他們就地合法居住。水利局則表示，該違建區位於河川地，依法無法讓原住民就地居住，縣府多次協調違建戶搬遷到蓋好的原住民文化部落大樓，並規畫在部落原址闢建農耕專用園區，提供原住民耕地，以保有傳統文化，但現有居民不願搬進部落大樓，將繼續溝通協調。請問：\n\n有關原住民遷至都市的現象，解釋正確的是：甲、原住民在原鄉謀生不易，屬於拉力；乙、大都市生活條件優良形成拉力；丙、城市有較好工作機會形成推力；丁、子女在都市能有更好發展屬於拉力；戊、文化與語言因素使原住民在都市謀生困難屬於中間障礙",
+    "options": [
+      "甲乙丙",
+      "甲丙丁",
+      "乙丁戊",
+      "乙丙戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "都市生活條件好（乙）、子女發展較好（丁）是拉力；文化語言差異是遷移過程的中間障礙（戊）。原鄉謀生不易是推力；都市工作機會是拉力。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-geo-32",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-32 為題組\n2008年，台北縣大漢溪三鶯橋下的原住民違建戶在社運團體聲援下前往縣政府，抗議縣府曾允諾於原住民族新部落規畫興建完成前，暫緩拆除，但如今卻要執行拆除，要求縣府讓他們就地合法居住。水利局則表示，該違建區位於河川地，依法無法讓原住民就地居住，縣府多次協調違建戶搬遷到蓋好的原住民文化部落大樓，並規畫在部落原址闢建農耕專用園區，提供原住民耕地，以保有傳統文化，但現有居民不願搬進部落大樓，將繼續溝通協調。請問：\n\n下列是社區規畫師在部落進行調查時，所記錄的各方對部落拆除事件的議論，其中哪項是正確的？",
+    "options": [
+      "當遇到河川地被佔用的問題時，可透過計畫變更方式重劃行水區來解決此問題",
+      "靠近行水區之農耕專用園區接近水源，可以種植水稻，有利維繫原住民傳統文化",
+      "即使這些原住民來自不同的原鄉，但共同的命運使得三鶯橋下的聚落成為一個社區",
+      "上述爭議包含河川治理與都市原住民生存權利，而這兩項議題的孰輕孰重宜用投票決定"
+    ],
+    "answerIndex": 2,
+    "explanation": "社區不一定由同鄉組成，居民因共同處境而產生互動與認同，就能形成社區。行水區關係防洪安全，不能任意變更；原住民傳統多為旱作，不是水稻；涉及安全與人權的議題不宜以投票決定輕重。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-geo-33",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "33-34 為題組\n台北橋位於淡水河最狹之處，建於清領末期，以連絡當時已日見繁榮、住商密集的三重埔與台北大稻埕（圖5）。淡水河防洪計畫的規畫設計採用200年洪水頻率，則大漢溪、新店溪流入的設計洪峰流量分別為13,200、10,300CMS，但據估算台北橋在堤防完工後最多只能通過14,300CMS，遂形成水流瓶頸，洪流會受阻迴堵。請問：\n\n在淡水河防洪規畫中，是以下列哪種方案來解決台北橋的洪流瓶頸問題？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-33.png\" alt=\"圖5 1960 年代淡水河下游流域圖：大漢溪與新店溪在盆地匯流成淡水河向北流，台北橋位於三重埔與大稻埕之間河道最窄處；五股、社子、關渡位於下游；兩側斜線部分為海拔 20 公尺以上區域\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此河段堤防加高以攔堵洪水",
+      "此河段上游側闢建分洪道，以疏導洪峰流量",
+      "台北橋引道加長，堤線後移、拓寬河道，以紓緩瓶頸",
+      "關渡、五股與社子北部限建，闢為洪水管制區以滯洪"
+    ],
+    "answerIndex": 1,
+    "explanation": "在台北橋上游開闢二重疏洪道，把大漢溪的部分洪水分流，經五股直接排往下游，台北橋河段的流量就不會超過容量。\n\n故選 (B)"
+  },
+  {
+    "id": "98-ast-geo-34",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "33-34 為題組\n台北橋位於淡水河最狹之處，建於清領末期，以連絡當時已日見繁榮、住商密集的三重埔與台北大稻埕（圖5）。淡水河防洪計畫的規畫設計採用200年洪水頻率，則大漢溪、新店溪流入的設計洪峰流量分別為13,200、10,300CMS，但據估算台北橋在堤防完工後最多只能通過14,300CMS，遂形成水流瓶頸，洪流會受阻迴堵。請問：\n\n河道若能加以濬深，洪流瓶頸即可解決，但台北橋段位於盆地區，下列哪種作用會使河道的疏濬功能無從發揮？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-33.png\" alt=\"圖5 1960 年代淡水河下游流域圖：大漢溪與新店溪在盆地匯流成淡水河向北流，台北橋位於三重埔與大稻埕之間河道最窄處；五股、社子、關渡位於下游；兩側斜線部分為海拔 20 公尺以上區域\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "襲奪",
+      "堆積",
+      "回春",
+      "侵蝕"
+    ],
+    "answerIndex": 1,
+    "explanation": "盆地內地勢平緩、流速慢，上游帶來的泥沙不斷堆積，疏濬後很快又淤積。\n\n故選 (B)"
+  },
+  {
+    "id": "98-ast-geo-35",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "35-36 為題組\n現在很多工業產品已從傳統單一工廠內的生產線延伸為跨國生產鏈的國際分工。請問：\n\n國際分工的生產模式對生產鏈所連結的各國或地區帶來的影響是：",
+    "options": [
+      "各國製造業的產值是以產品最終在何地組成來統計",
+      "各國製造業的產值是以產品的本地附加價值來統計",
+      "製造業者致力增加在生產鏈中所佔的產品重量比重",
+      "製造業者致力增加在生產鏈中所投入的勞動力比重"
+    ],
+    "answerIndex": 1,
+    "explanation": "跨國分工下，產品在各地經不同階段加工，各國的產值應以在本地增加的附加價值計算。業者追求的是提高附加價值，而非重量或勞力比重。\n\n故選 (B)"
+  },
+  {
+    "id": "98-ast-geo-36",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "35-36 為題組\n現在很多工業產品已從傳統單一工廠內的生產線延伸為跨國生產鏈的國際分工。請問：\n\n跨國生產鏈的組成會隨時間而變化，其連結的國家或地區並非固定不變。生產環節在地理上的變動主要是受下列哪種區位因子變化的影響：",
+    "options": [
+      "區位擴散",
+      "區位聚集",
+      "比較利益",
+      "推拉因素"
+    ],
+    "answerIndex": 2,
+    "explanation": "各地的工資、技術、市場等條件會改變，比較利益隨之變動，生產環節就移往當下最有利的地方。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-geo-37",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "37-38 為題組\n台灣地區都市地價昂貴，許多市民未經主管建築機關審查許可取得執照，即擅自在建築物頂樓違章加蓋，容易造成各種都市問題。請問：\n\n在建築物頂樓加蓋違建物，對都市所可能帶來的不良影響包括：甲、景觀天際線的破壞；乙、違反容積率限制；丙、降低土地的價值；丁、違反建蔽率限制；戊、增加對逃生、消防等公共設施的負擔",
+    "options": [
+      "甲乙丙",
+      "甲丙丁",
+      "甲乙戊",
+      "乙丁戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "頂樓加蓋破壞天際線（甲）、增加樓地板面積而超出容積率（乙）、阻礙屋頂避難逃生並增加公共設施負擔（戊）。頂樓加蓋不改變建築基地的覆蓋面積，與建蔽率無關。\n\n故選 (C)"
+  },
+  {
+    "id": "98-ast-geo-38",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "37-38 為題組\n台灣地區都市地價昂貴，許多市民未經主管建築機關審查許可取得執照，即擅自在建築物頂樓違章加蓋，容易造成各種都市問題。請問：\n\n舊社區的老舊公寓，較易出現加蓋違建，這種現象最能以下列哪種都市發展的概念來解釋？",
+    "options": [
+      "都市擴張",
+      "社區營造",
+      "鄰避現象",
+      "土地使用分區"
+    ],
+    "answerIndex": 0,
+    "explanation": "都市人口增加、空間需求擴張，地價昂貴，居民只好往上加蓋增加居住空間，是都市擴張壓力的表現（垂直擴張）。\n\n故選 (A)"
+  },
+  {
+    "id": "98-ast-geo-39",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "39-40 為題組\n台灣很多勞力密集型產業因大量外移而沒落，但彰化縣社頭鄉的織襪工業並未大量外移，反而是以維持其家庭外包的生產方式繼續留駐而成為當地的產業特色。請問：\n\n社頭織襪業以「家庭即工廠」的家庭代工，來取代工廠的一貫化作業方式，具有哪些經營上的優勢？甲、降低廠房、機器等固定成本；乙、可快速反應市場變化，更新產品設計；丙、工資可壓低至接近中國的工資水平；丁、使生產更具彈性，小量和量大的訂單均可承接；戊、原料、半成品與產品間的運輸成本可以降低",
+    "options": [
+      "甲乙丁",
+      "乙丙戊",
+      "丙丁戊",
+      "甲丁戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "分散給家庭代工，不必投資大型廠房（甲）；彈性調整生產線，快速因應流行（乙）；訂單大小都可分包承接（丁）。臺灣工資無法降到中國的水準；分散生產反而增加運輸。\n\n故選 (A)"
+  },
+  {
+    "id": "98-ast-geo-40",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "39-40 為題組\n台灣很多勞力密集型產業因大量外移而沒落，但彰化縣社頭鄉的織襪工業並未大量外移，反而是以維持其家庭外包的生產方式繼續留駐而成為當地的產業特色。請問：\n\n台灣的織襪業在面臨國際激烈的競爭下，很多原設於高雄、苗栗、台北的織襪廠都將工廠遷移至社頭鄉或鄰近鄉鎮來繼續生產。請問這些廠商的區位轉移是因為下列哪種經濟效益所致？",
+    "options": [
+      "地方經濟",
+      "聚集經濟",
+      "區域經濟",
+      "全球化經濟"
+    ],
+    "answerIndex": 1,
+    "explanation": "社頭聚集大量織襪廠、代工家庭、原料商與技術人力，共享供應鏈與資訊，降低成本，是聚集經濟。\n\n故選 (B)"
+  },
+  {
+    "id": "98-ast-geo-non-1-1",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、台灣山區近年每逢颱風豪雨，土石流災害頻傳。土石流災害防治的首要工作就是判識具土石流潛勢的溪流，圖6是某防災中心所建立的判識準則，用以劃定土石流危險區。若危險區內有保全對象，則進一步規畫逃生路線（如圖7），實施防災教育宣導，以減少災害所帶來的損失。\n\n1. 圖6中按甲、乙、丙、丁順序填入的判別字（是或否）應為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non1a.png\" alt=\"圖6 土石流潛勢判識流程：地形圖 → 溪床坡度＞15 度？是 → 集水面積＞3 公頃？（甲）→ 高敏感區；溪床坡度＞10 度且集水面積＞3 公頃 → 航照、衛星影像驗證及地質特性 → 有崩塌地、扇狀地或其他土石流特徵？（丙）→ 高敏感區，（丁）→ 低敏感區；坡度不足則為非敏感區（乙處為「否」的分支）\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non1b.png\" alt=\"圖7 土石流潛勢溪流出口的聚落照片：保全對象 A 位於溪流旁，標示三條逃生路線：X 往右側沿溪流下游方向、Y 往下方、Z 往左側離開溪流方向\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "是、否、是、否"
+    ],
+    "blankLabels": [
+      "判別字"
+    ],
+    "explanation": "甲：坡度＞15 度且集水面積＞3 公頃為「是」→ 高敏感區；乙：不符合條件的「否」分支轉入航照驗證；丙：有崩塌地等土石流特徵「是」→ 高敏感區；丁：「否」→ 低敏感區。"
+  },
+  {
+    "id": "98-ast-geo-non-1-2",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、台灣山區近年每逢颱風豪雨，土石流災害頻傳。土石流災害防治的首要工作就是判識具土石流潛勢的溪流，圖6是某防災中心所建立的判識準則，用以劃定土石流危險區。若危險區內有保全對象，則進一步規畫逃生路線（如圖7），實施防災教育宣導，以減少災害所帶來的損失。\n\n2. 圖6中，檢視集水區範圍內有否崩塌地存在，為何是判識土石流潛勢的敏感程度的依據之一？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non1a.png\" alt=\"圖6 土石流潛勢判識流程：地形圖 → 溪床坡度＞15 度？是 → 集水面積＞3 公頃？（甲）→ 高敏感區；溪床坡度＞10 度且集水面積＞3 公頃 → 航照、衛星影像驗證及地質特性 → 有崩塌地、扇狀地或其他土石流特徵？（丙）→ 高敏感區，（丁）→ 低敏感區；坡度不足則為非敏感區（乙處為「否」的分支）\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non1b.png\" alt=\"圖7 土石流潛勢溪流出口的聚落照片：保全對象 A 位於溪流旁，標示三條逃生路線：X 往右側沿溪流下游方向、Y 往下方、Z 往左側離開溪流方向\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "崩塌地會影響土石供給量（是土石來源區）"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "土石流需要大量鬆散的土石，集水區內有崩塌地表示土石來源充足，發生土石流的潛勢較高。"
+  },
+  {
+    "id": "98-ast-geo-non-1-3",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、台灣山區近年每逢颱風豪雨，土石流災害頻傳。土石流災害防治的首要工作就是判識具土石流潛勢的溪流，圖6是某防災中心所建立的判識準則，用以劃定土石流危險區。若危險區內有保全對象，則進一步規畫逃生路線（如圖7），實施防災教育宣導，以減少災害所帶來的損失。\n\n3. 圖6中，為什麼溪床坡度10度以下，會判識為土石流非敏感區？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non1a.png\" alt=\"圖6 土石流潛勢判識流程：地形圖 → 溪床坡度＞15 度？是 → 集水面積＞3 公頃？（甲）→ 高敏感區；溪床坡度＞10 度且集水面積＞3 公頃 → 航照、衛星影像驗證及地質特性 → 有崩塌地、扇狀地或其他土石流特徵？（丙）→ 高敏感區，（丁）→ 低敏感區；坡度不足則為非敏感區（乙處為「否」的分支）\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non1b.png\" alt=\"圖7 土石流潛勢溪流出口的聚落照片：保全對象 A 位於溪流旁，標示三條逃生路線：X 往右側沿溪流下游方向、Y 往下方、Z 往左側離開溪流方向\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "坡度緩，溪床物質不易移動（是土石堆積區）"
+    ],
+    "blankLabels": [
+      "原因"
+    ],
+    "explanation": "坡度太緩，重力分力小，土石不易起動，反而是土石流減速堆積的地方。"
+  },
+  {
+    "id": "98-ast-geo-non-1-4",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、台灣山區近年每逢颱風豪雨，土石流災害頻傳。土石流災害防治的首要工作就是判識具土石流潛勢的溪流，圖6是某防災中心所建立的判識準則，用以劃定土石流危險區。若危險區內有保全對象，則進一步規畫逃生路線（如圖7），實施防災教育宣導，以減少災害所帶來的損失。\n\n4. 圖7中若保全對象A有三條可能逃生路線（X、Y、Z），何者較佳？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non1a.png\" alt=\"圖6 土石流潛勢判識流程：地形圖 → 溪床坡度＞15 度？是 → 集水面積＞3 公頃？（甲）→ 高敏感區；溪床坡度＞10 度且集水面積＞3 公頃 → 航照、衛星影像驗證及地質特性 → 有崩塌地、扇狀地或其他土石流特徵？（丙）→ 高敏感區，（丁）→ 低敏感區；坡度不足則為非敏感區（乙處為「否」的分支）\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non1b.png\" alt=\"圖7 土石流潛勢溪流出口的聚落照片：保全對象 A 位於溪流旁，標示三條逃生路線：X 往右側沿溪流下游方向、Y 往下方、Z 往左側離開溪流方向\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "X 路線"
+    ],
+    "blankLabels": [
+      "路線"
+    ],
+    "explanation": "逃生應往與土石流流動方向垂直、遠離溪道的方向，且不可往下游跑。依圖7，X 路線離開溪流、往溪流側方的高處避難最安全。"
+  },
+  {
+    "id": "98-ast-geo-non-1-5",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、台灣山區近年每逢颱風豪雨，土石流災害頻傳。土石流災害防治的首要工作就是判識具土石流潛勢的溪流，圖6是某防災中心所建立的判識準則，用以劃定土石流危險區。若危險區內有保全對象，則進一步規畫逃生路線（如圖7），實施防災教育宣導，以減少災害所帶來的損失。\n\n5. 如果你有某土石流潛勢溪流的災害危險區圖和附近住屋位置分布圖，地理資訊系統的何種分析功能可以幫助你來決定危險區內是否有保全對象？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non1a.png\" alt=\"圖6 土石流潛勢判識流程：地形圖 → 溪床坡度＞15 度？是 → 集水面積＞3 公頃？（甲）→ 高敏感區；溪床坡度＞10 度且集水面積＞3 公頃 → 航照、衛星影像驗證及地質特性 → 有崩塌地、扇狀地或其他土石流特徵？（丙）→ 高敏感區，（丁）→ 低敏感區；坡度不足則為非敏感區（乙處為「否」的分支）\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non1b.png\" alt=\"圖7 土石流潛勢溪流出口的聚落照片：保全對象 A 位於溪流旁，標示三條逃生路線：X 往右側沿溪流下游方向、Y 往下方、Z 往左側離開溪流方向\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "疊圖分析（套疊、空間查詢）"
+    ],
+    "blankLabels": [
+      "分析功能"
+    ],
+    "explanation": "將危險區圖層與住屋分布圖層套疊，即可查出落在危險區內的住屋。"
+  },
+  {
+    "id": "98-ast-geo-non-2-1",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、南亞的孟加拉由於區域環境的特性，人民的生活深受週期性洪氾所影響。農民長期適應當地變動的水量與氣溫條件下，發展出三季栽培的稻株：冬稻（boro），夏稻（aus），秋稻（aman）（圖8）。\n\n1. 孟加拉的國土主要是透過何種地形作用所形成？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non2.png\" alt=\"圖8 孟加拉不同淹水深度土地的稻作曆：雨季約 4～10 月，季節性氾濫在 7～9 月最深；高地與中高地種植冬稻（12～4 月）、夏稻（4～6 月，生長期最短）、移栽秋稻（7～11 月）；中低地種撒播秋稻；低地種深水秋稻；窪地經常淹水，只種冬稻\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "（河流）堆積作用"
+    ],
+    "blankLabels": [
+      "地形作用"
+    ],
+    "explanation": "孟加拉位於恆河與布拉馬普得拉河下游，國土大多是河流堆積形成的三角洲沖積平原。"
+  },
+  {
+    "id": "98-ast-geo-non-2-2",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、南亞的孟加拉由於區域環境的特性，人民的生活深受週期性洪氾所影響。農民長期適應當地變動的水量與氣溫條件下，發展出三季栽培的稻株：冬稻（boro），夏稻（aus），秋稻（aman）（圖8）。\n\n2. 是甚麼自然環境特性，使孟加拉出現週期性的洪氾現象？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non2.png\" alt=\"圖8 孟加拉不同淹水深度土地的稻作曆：雨季約 4～10 月，季節性氾濫在 7～9 月最深；高地與中高地種植冬稻（12～4 月）、夏稻（4～6 月，生長期最短）、移栽秋稻（7～11 月）；中低地種撒播秋稻；低地種深水秋稻；窪地經常淹水，只種冬稻\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "（熱帶）季風氣候，夏雨冬乾"
+    ],
+    "blankLabels": [
+      "自然環境特性"
+    ],
+    "explanation": "夏季西南季風帶來豐沛降雨，加上上游喜馬拉雅山融雪，河水暴漲；地勢又低平，每年雨季週期性氾濫。"
+  },
+  {
+    "id": "98-ast-geo-non-2-3",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、南亞的孟加拉由於區域環境的特性，人民的生活深受週期性洪氾所影響。農民長期適應當地變動的水量與氣溫條件下，發展出三季栽培的稻株：冬稻（boro），夏稻（aus），秋稻（aman）（圖8）。\n\n3. 孟加拉所發展的各種稻米品種中，哪類的生長期最短，屬於早熟型的稻種？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non2.png\" alt=\"圖8 孟加拉不同淹水深度土地的稻作曆：雨季約 4～10 月，季節性氾濫在 7～9 月最深；高地與中高地種植冬稻（12～4 月）、夏稻（4～6 月，生長期最短）、移栽秋稻（7～11 月）；中低地種撒播秋稻；低地種深水秋稻；窪地經常淹水，只種冬稻\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "夏稻（aus）"
+    ],
+    "blankLabels": [
+      "稻種"
+    ],
+    "explanation": "由圖8，夏稻的生長期只有約 4～6 月兩三個月，最短，可在洪水來臨前收成。"
+  },
+  {
+    "id": "98-ast-geo-non-2-4",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、南亞的孟加拉由於區域環境的特性，人民的生活深受週期性洪氾所影響。農民長期適應當地變動的水量與氣溫條件下，發展出三季栽培的稻株：冬稻（boro），夏稻（aus），秋稻（aman）（圖8）。\n\n4. 綠色革命所開發的雜交高產品種稻米，如要成功在孟加拉擴大耕作面積，並延伸至雨季，取代原來的秋稻（aman），成為二穫的稻作品種，在稻作農業系統中應推動的人文投入是甚麼？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non2.png\" alt=\"圖8 孟加拉不同淹水深度土地的稻作曆：雨季約 4～10 月，季節性氾濫在 7～9 月最深；高地與中高地種植冬稻（12～4 月）、夏稻（4～6 月，生長期最短）、移栽秋稻（7～11 月）；中低地種撒播秋稻；低地種深水秋稻；窪地經常淹水，只種冬稻\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "水利工程（防洪、排水工程）"
+    ],
+    "blankLabels": [
+      "人文投入"
+    ],
+    "explanation": "高產品種植株矮、不耐深水，雨季時必須有堤防、排水等水利設施控制水位，才能在原本會淹水的季節種植。"
+  },
+  {
+    "id": "98-ast-geo-non-2-5",
+    "examType": "分科/指考",
+    "year": 98,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、南亞的孟加拉由於區域環境的特性，人民的生活深受週期性洪氾所影響。農民長期適應當地變動的水量與氣溫條件下，發展出三季栽培的稻株：冬稻（boro），夏稻（aus），秋稻（aman）（圖8）。\n\n5. 試指出哪種全球環境變遷，會使孟加拉的淹水問題益形嚴重？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-ast-geo-non2.png\" alt=\"圖8 孟加拉不同淹水深度土地的稻作曆：雨季約 4～10 月，季節性氾濫在 7～9 月最深；高地與中高地種植冬稻（12～4 月）、夏稻（4～6 月，生長期最短）、移栽秋稻（7～11 月）；中低地種撒播秋稻；低地種深水秋稻；窪地經常淹水，只種冬稻\" style=\"width:100%;max-width:440px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "全球暖化（海平面上升）"
+    ],
+    "blankLabels": [
+      "環境變遷"
+    ],
+    "explanation": "全球暖化使海平面上升，低平的三角洲更易被海水淹沒、排水更困難；冰河融化也增加河川流量。"
   }
 ]
