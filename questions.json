@@ -228568,5 +228568,302 @@
       "證明"
     ],
     "explanation": "令 $G(a) = \\displaystyle\\int_0^a f = a^4 - a^3 + a^2 - a$，$G(1) = 0$，$G' = f$。\n$f'(x) = 12x^2 - 6x + 2$ 的判別式 $36 - 96 < 0$，$f' > 0$，$f$ 遞增；$f(1) = 2 > 0$，所以 $a > 1$ 時 $G' > 0$，$G$ 嚴格遞增且 $G(a) \\to \\infty$。\n由勘根定理與單調性，恰有一個 $a > 1$ 使 $G(a) = 1$。"
+  },
+  {
+    "id": "108-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "1. 設 $a$、$b$ 為循環小數，$a = 0.\\overline{12}$、$b = 0.\\overline{01}$。則 $a - b$ 的值是下列哪一個選項？",
+    "options": [
+      "0.11",
+      "0.1111",
+      "$\\dfrac19$",
+      "$\\dfrac{10}{99}$",
+      "$\\dfrac{100}{999}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "$a = \\dfrac{12}{99}$、$b = \\dfrac{1}{99}$，$a - b = \\dfrac{11}{99} = \\dfrac19$。（0.11、0.1111 都是有限小數，不等於 $0.\\overline{1}$。）\n\n故選 (C)"
+  },
+  {
+    "id": "108-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "2. 坐標平面上，直線 $y = 2x$ 與直線 $y = -3x + 5$ 將坐標平面分割成四個區域。試問下列哪一個選項中的點會和點 $(1, 1)$ 在同一個區域？",
+    "options": [
+      "(20, −56)",
+      "(13, −33)",
+      "(−1, 1)",
+      "(−15, −29)",
+      "(−20, −29)"
+    ],
+    "answerIndex": 0,
+    "explanation": "$(1, 1)$ 代入：$y - 2x = -1 < 0$，$y + 3x - 5 = -1 < 0$。找兩式都為負的點：\n• $(20, -56)$：$-96 < 0$、$-1 < 0$ ✓。\n• $(13, -33)$：$y + 3x - 5 = 1 > 0$；$(-1, 1)$：$y - 2x = 3 > 0$；$(-15, -29)$：$y - 2x = 1 > 0$；$(-20, -29)$：$y - 2x = 11 > 0$。\n\n故選 (A)"
+  },
+  {
+    "id": "108-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "3. 若向量 $\\vec A = (a_1, a_2)$，向量 $\\vec B = (b_1, b_2)$，且內積 $\\vec A\\cdot\\vec B = 1$，則矩陣乘積 $\\begin{bmatrix} a_1 & a_2 \\\\ a_1 & a_2 \\end{bmatrix}\\begin{bmatrix} b_1 \\\\ b_2 \\end{bmatrix}$ 等於下列哪一個選項？",
+    "options": [
+      "$\\begin{bmatrix} 1 & 1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 2 & 2 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 2 \\\\ 2 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 & 1 \\\\ 1 & 1 \\end{bmatrix}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "$2\\times2$ 乘 $2\\times1$ 得 $2\\times1$，兩列都是 $a_1b_1 + a_2b_2 = 1$，結果 $\\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix}$。\n\n故選 (C)"
+  },
+  {
+    "id": "108-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 已知正整數 $a$ 與正整數 $b$ 的乘積是 11 位數，而 $a$ 除以 $b$ 的商之整數部分是 2 位數，則 $a$ 可能為幾位數？",
+    "options": [
+      "5 位數",
+      "6 位數",
+      "7 位數",
+      "8 位數",
+      "9 位數"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "$10^{10} \\le ab < 10^{11}$，$10 \\le \\dfrac ab < 100$，相乘得 $10^{11} \\le a^2 < 10^{13}$，$10^{5.5} \\le a < 10^{6.5}$。\n$a$ 介於約 316228 與 3162278 之間，可能是 6 位數或 7 位數（例如 $a = 400000$、$b = 25000$；$a = 2000000$、$b = 100000$）。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "108-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 考慮如下的九宮格：編號 1、3、7、9 的四格稱為「角」，編號 2、4、6、8 的四格稱為「邊」，而編號 5 的格子稱為「中心」。在此九格中放入 5 個○及 4 個✕的記號，每一格只能放入一個○或一個✕，且任一行（例如位置 1、4、7）、任一列（例如位置 4、5、6）、以及任一對角線（對角線是指位置 1、5、9 或位置 3、5、7）的三個記號不能完全相同（例如位置 1、5、9 不能全為○或全為✕）。試選出正確的選項。",
+    "svg": "<svg viewBox=\"0 0 136 128\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:163.2px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"44\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"24\" y=\"29.333333333333332\" fill=\"#ffeb3b\" font-size=\"16\" text-anchor=\"middle\">1</text><rect x=\"46\" y=\"4\" width=\"44\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"68\" y=\"29.333333333333332\" fill=\"#ffeb3b\" font-size=\"16\" text-anchor=\"middle\">2</text><rect x=\"90\" y=\"4\" width=\"44\" height=\"40\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"29.333333333333332\" fill=\"#ffeb3b\" font-size=\"16\" text-anchor=\"middle\">3</text><rect x=\"2\" y=\"44\" width=\"44\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"24\" y=\"69.33333333333333\" fill=\"#ffffff\" font-size=\"16\" text-anchor=\"middle\">4</text><rect x=\"46\" y=\"44\" width=\"44\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"68\" y=\"69.33333333333333\" fill=\"#ffffff\" font-size=\"16\" text-anchor=\"middle\">5</text><rect x=\"90\" y=\"44\" width=\"44\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"69.33333333333333\" fill=\"#ffffff\" font-size=\"16\" text-anchor=\"middle\">6</text><rect x=\"2\" y=\"84\" width=\"44\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"24\" y=\"109.33333333333333\" fill=\"#ffffff\" font-size=\"16\" text-anchor=\"middle\">7</text><rect x=\"46\" y=\"84\" width=\"44\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"68\" y=\"109.33333333333333\" fill=\"#ffffff\" font-size=\"16\" text-anchor=\"middle\">8</text><rect x=\"90\" y=\"84\" width=\"44\" height=\"40\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"109.33333333333333\" fill=\"#ffffff\" font-size=\"16\" text-anchor=\"middle\">9</text></svg>",
+    "options": [
+      "若在中心放○，則可能有三個○放在邊上",
+      "若在中心放○，則一定恰有兩個○放在角上",
+      "若在中心放✕，則一定恰有兩個✕放在角上",
+      "中心放○的方法共有 8 種",
+      "中心放✕的方法共有 4 種"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "中心放○時，兩條對角線不能全○：(1, 9) 至多一個○、(3, 7) 至多一個○；中間行、列不能全○：(2, 8) 至多一個、(4, 6) 至多一個。其餘 4 個○只能每組恰一個。\n• (A) 錯誤：邊上至多 2 個○。\n• (B) 正確：角上恰 2 個○。\n• (D) 正確：4 組各選一格放○，共 16 種。還要排除外圍某一邊（例如 1、2、3）全○的情形；這時對面一邊（7、8、9）剛好全✕。某一邊全○需該邊三格都選○，剩下一組任選，每邊 2 種、四邊共 8 種且互不重疊。$16 - 8 = 8$ 種。\n• (C) 錯誤：中心放✕時，外圍 3 個✕同樣每組至多一個。例如✕在 2、4、9（角上只有 1 個✕）或在 1、3、8（角上 2 個✕）都合法。\n• (E) 錯誤：上面兩種排法各自旋轉就有 8 種以上，不只 4 種。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "108-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 某商店出售 10 種不同款式的公仔。今甲、乙、丙三人都各自收集公仔。試選出正確的選項。",
+    "options": [
+      "若甲、乙兩人各自收集 6 款公仔，則他們兩人合起來一定會收集到這 10 款不同的公仔",
+      "若甲、乙兩人各自收集 7 款公仔，則至少有 4 款公仔是兩人都擁有",
+      "若甲、乙、丙三人各自收集 6 款公仔，則至少有 1 款公仔是三人都擁有",
+      "若甲、乙、丙三人各自收集 7 款公仔，則至少有 2 款公仔是三人都擁有",
+      "若甲、乙、丙三人各自收集 8 款公仔，則至少有 4 款公仔是三人都擁有"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "• (A) 錯誤：兩人可以收集一樣的 6 款。\n• (B) 正確：$|A\\cap B| \\ge 7 + 7 - 10 = 4$。\n• (C) 錯誤：$6\\times3 = 18 \\le 2\\times10$，可以讓每款最多兩人擁有。\n• (D) 錯誤：每款「缺少的人數」總和 $= 3\\times10 - 21 = 9$，最多讓 9 款各缺一人，只保證 1 款三人都有。\n• (E) 正確：缺少總數 $30 - 24 = 6$，至多 6 款有人缺，至少 4 款三人都有。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "108-ast-mb-07",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 某甲上班可採全程步行或全程騎腳踏車兩種方式通勤，其中步行的通勤時間為 60 分鐘，騎腳踏車的通勤時間以整數計時為 $T$ 分鐘。其中 $30 \\le T \\le 40$，且 $T$ 分為五個區間，其出現在各區間的機率如下表。例如：騎腳踏車通勤時間 $T$ 滿足區間 $32 \\le T < 34$ 的機率為 0.2。假設甲每天通勤時間互相獨立。根據上述資料，試選出正確選項。",
+    "svg": "<svg viewBox=\"0 0 524 68\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">通勤時間</text><rect x=\"82\" y=\"4\" width=\"88\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"126\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">30≤T&lt;32</text><rect x=\"170\" y=\"4\" width=\"88\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"214\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">32≤T&lt;34</text><rect x=\"258\" y=\"4\" width=\"88\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"302\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">34≤T&lt;36</text><rect x=\"346\" y=\"4\" width=\"88\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"390\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">36≤T&lt;38</text><rect x=\"434\" y=\"4\" width=\"88\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"478\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">38≤T≤40</text><rect x=\"2\" y=\"34\" width=\"80\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">機率</text><rect x=\"82\" y=\"34\" width=\"88\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"126\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.1</text><rect x=\"170\" y=\"34\" width=\"88\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"214\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.2</text><rect x=\"258\" y=\"34\" width=\"88\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"302\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.4</text><rect x=\"346\" y=\"34\" width=\"88\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"390\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.2</text><rect x=\"434\" y=\"34\" width=\"88\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"478\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.1</text></svg>",
+    "options": [
+      "若甲某一天騎腳踏車上班，則其通勤時間少於 35 分鐘的機率是 0.5",
+      "若甲某五天皆騎腳踏車上班，則這五天上班的通勤總時間一定會少於四天騎腳踏車另一天步行的通勤總時間",
+      "若甲某五天上班的通勤總時間為 250 分鐘，則這五天中甲一定是三天步行，兩天騎腳踏車",
+      "若甲每天投擲一公正銅板來決定步行或騎腳踏車上班，正面則步行，反面則騎腳踏車，則甲兩天的通勤總時間至少 90 分鐘的機率是 0.75",
+      "若甲有兩天皆騎腳踏車上班，則甲這兩天的通勤總時間至少為 76 分鐘的機率是 0.01"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "• (A) 錯誤：$T < 35$ 包含 $34$ 分，但表中只給 $34 \\le T < 36$ 的合計 0.4，無法拆開。\n• (B) 錯誤：五天騎車最多 200 分，四天騎車加一天步行最少 $120 + 60 = 180$ 分，不一定較少。\n• (C) 正確：$k$ 天步行時總時間在 $60k + 30(5 - k)$ 與 $60k + 40(5 - k)$ 之間：$k = 2$ 最多 240、$k = 4$ 最少 270，只有 $k = 3$（$240$～$260$）可能為 250。\n• (D) 正確：兩天都騎車最多 80 分；只要有一天步行就至少 90 分。機率 $1 - \\dfrac14 = 0.75$。\n• (E) 錯誤：例如 36 分 + 40 分也可達 76 分，不只兩天都在 $38 \\le T \\le 40$（$0.1^2 = 0.01$）的情形。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "108-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "A. 從三位數中任選一數，寫成 $a\\times10^2 + b\\times10 + c$，其中 $a$ 是 1 到 9 的整數，$b$ 和 $c$ 都是 0 到 9 的整數，則 $a + b + c = 9$ 的機率為 $\\dfrac{⑧}{⑨⑩}$。（請化成最簡分數）",
+    "blanks": [
+      "1",
+      "2",
+      "0"
+    ],
+    "blankLabels": [
+      "8",
+      "9",
+      "10"
+    ],
+    "explanation": "三位數共 900 個。令 $a' = a - 1 \\ge 0$，$a' + b + c = 8$ 的非負整數解 $\\dbinom{10}{2} = 45$（各數都不超過 9）。\n機率 $\\dfrac{45}{900} = \\dfrac{1}{20}$。"
+  },
+  {
+    "id": "108-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "B. 已知實係數多項式 $f(x)$ 除以 $x^2 + 2$ 的餘式為 $x + 1$。若 $xf(x)$ 除以 $x^2 + 2$ 的餘式為 $ax + b$，則數對 $(a, b) =$ (⑪, ⑫⑬)。",
+    "blanks": [
+      "1",
+      "-",
+      "2"
+    ],
+    "acceptedBlanks": [
+      [
+        "1"
+      ],
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "2"
+      ]
+    ],
+    "blankLabels": [
+      "11",
+      "12",
+      "13"
+    ],
+    "explanation": "$f = (x^2 + 2)q + x + 1$，$xf = (x^2 + 2)xq + x^2 + x = (x^2 + 2)(xq + 1) + x - 2$。\n餘式 $x - 2$，$(a, b) = (1, -2)$。"
+  },
+  {
+    "id": "108-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "C. 某遊戲的規則為同時擲兩顆公正骰子一次，若兩顆點數和為 6 或者至少有一顆點數為 6，即可獲得獎金 36 元，否則沒有獎金，則這個遊戲獎金的期望值為 ⑭⑮ 元。",
+    "blanks": [
+      "1",
+      "6"
+    ],
+    "blankLabels": [
+      "14",
+      "15"
+    ],
+    "explanation": "點數和為 6 有 5 種；至少一顆 6 有 11 種；兩者不重疊（有 6 時和至少 7）。\n獲獎機率 $\\dfrac{16}{36}$，期望值 $36\\times\\dfrac{16}{36} = 16$ 元。"
+  },
+  {
+    "id": "108-ast-mb-non-1-1",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】考慮坐標平面上相異五點 $O$、$A$、$B$、$C$、$D$。已知向量 $\\overrightarrow{OC} = 3\\overrightarrow{OA}$，$\\overrightarrow{OD} = 3\\overrightarrow{OB}$，且向量 $\\overrightarrow{AB}$ 的坐標表示為 $\\overrightarrow{AB} = (3, -4)$，試回答下列問題。\n(1) 試以坐標表示向量 $\\overrightarrow{DC}$。（5 分）",
+    "points": 5,
+    "blanks": [
+      "$\\overrightarrow{DC} = (-9, 12)$"
+    ],
+    "blankLabels": [
+      "向量 DC"
+    ],
+    "explanation": "$\\overrightarrow{DC} = \\overrightarrow{OC} - \\overrightarrow{OD} = 3(\\overrightarrow{OA} - \\overrightarrow{OB}) = 3\\overrightarrow{BA} = -3(3, -4) = (-9, 12)$。"
+  },
+  {
+    "id": "108-ast-mb-non-1-2",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】考慮坐標平面上相異五點 $O$、$A$、$B$、$C$、$D$。已知向量 $\\overrightarrow{OC} = 3\\overrightarrow{OA}$，$\\overrightarrow{OD} = 3\\overrightarrow{OB}$，且向量 $\\overrightarrow{AB}$ 的坐標表示為 $\\overrightarrow{AB} = (3, -4)$，試回答下列問題。\n(2) 若 $\\overrightarrow{OA} = (1, 2)$，試利用二階行列式與面積的關係，求 $\\triangle OCD$ 的面積。（8 分）",
+    "points": 8,
+    "blanks": [
+      "45"
+    ],
+    "blankLabels": [
+      "面積"
+    ],
+    "explanation": "$\\overrightarrow{OB} = \\overrightarrow{OA} + \\overrightarrow{AB} = (4, -2)$，$\\overrightarrow{OC} = (3, 6)$、$\\overrightarrow{OD} = (12, -6)$。\n$$\\triangle OCD = \\frac12\\left|\\det\\begin{bmatrix} 3 & 6 \\\\ 12 & -6 \\end{bmatrix}\\right| = \\frac12|-18 - 72| = 45$$"
+  },
+  {
+    "id": "108-ast-mb-non-2-1",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某運輸公司欲向一汽機車製造商訂購一批重型機車（簡稱重機）和汽車。其訂購費用為重機一部 25 萬元及汽車一部 60 萬元，訂購經費上限是 5400 萬元。另此運輸公司共有 100 格停車位，每格停車位恰可停放兩部重機或是停放一部汽車。而此運輸公司每銷售 1 部重機可得淨利潤 2.3 萬元（即 2 萬 3 千元），銷售 1 部汽車則可得淨利潤 5 萬元，並假設此運輸公司可將其所訂購之重機及汽車全數銷售完畢。此運輸公司希望能在訂購經費的上限和停車位之限制下獲得最大的淨利潤。試回答下列問題。\n(1) 試寫出此問題之線性規劃不等式及目標函數。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$25x + 60y \\le 5400$，$x + 2y \\le 200$，$x, y \\ge 0$ 且為整數",
+      "目標函數 $2.3x + 5y$"
+    ],
+    "blankLabels": [
+      "限制條件",
+      "目標函數"
+    ],
+    "explanation": "設重機 $x$ 部、汽車 $y$ 部：\n• 經費：$25x + 60y \\le 5400$（即 $5x + 12y \\le 1080$）。\n• 停車位：$\\dfrac x2 + y \\le 100$（即 $x + 2y \\le 200$）。\n• $x, y \\ge 0$ 且為整數。\n目標函數（淨利潤，萬元）：$2.3x + 5y$。"
+  },
+  {
+    "id": "108-ast-mb-non-2-2",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某運輸公司欲向一汽機車製造商訂購一批重型機車（簡稱重機）和汽車。其訂購費用為重機一部 25 萬元及汽車一部 60 萬元，訂購經費上限是 5400 萬元。另此運輸公司共有 100 格停車位，每格停車位恰可停放兩部重機或是停放一部汽車。而此運輸公司每銷售 1 部重機可得淨利潤 2.3 萬元（即 2 萬 3 千元），銷售 1 部汽車則可得淨利潤 5 萬元，並假設此運輸公司可將其所訂購之重機及汽車全數銷售完畢。此運輸公司希望能在訂購經費的上限和停車位之限制下獲得最大的淨利潤。試回答下列問題。\n(2) 在坐標平面上畫出可行解區域，並以斜線標示該區域。（3 分）",
+    "points": 3,
+    "blanks": [
+      "四邊形，頂點 (0,0)、(200,0)、(120,40)、(0,90)"
+    ],
+    "blankLabels": [
+      "可行解區域"
+    ],
+    "explanation": "兩條直線 $25x + 60y = 5400$ 與 $x + 2y = 200$ 交於 $(120, 40)$。可行解區域為四邊形，頂點 $(0, 0)$、$(200, 0)$、$(120, 40)$、$(0, 90)$。"
+  },
+  {
+    "id": "108-ast-mb-non-2-3",
+    "examType": "分科/指考",
+    "year": 108,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某運輸公司欲向一汽機車製造商訂購一批重型機車（簡稱重機）和汽車。其訂購費用為重機一部 25 萬元及汽車一部 60 萬元，訂購經費上限是 5400 萬元。另此運輸公司共有 100 格停車位，每格停車位恰可停放兩部重機或是停放一部汽車。而此運輸公司每銷售 1 部重機可得淨利潤 2.3 萬元（即 2 萬 3 千元），銷售 1 部汽車則可得淨利潤 5 萬元，並假設此運輸公司可將其所訂購之重機及汽車全數銷售完畢。此運輸公司希望能在訂購經費的上限和停車位之限制下獲得最大的淨利潤。試回答下列問題。\n(3) 此運輸公司應訂購重機、汽車各多少部才能獲得最大的淨利潤？此最大淨利潤為何？（6 分）",
+    "points": 6,
+    "blanks": [
+      "重機 120 部、汽車 40 部",
+      "最大淨利潤 476 萬元"
+    ],
+    "blankLabels": [
+      "訂購數量",
+      "最大淨利潤"
+    ],
+    "explanation": "頂點代入 $2.3x + 5y$：$(0, 0)$：0；$(200, 0)$：460；$(120, 40)$：476；$(0, 90)$：450。\n訂購重機 120 部、汽車 40 部，最大淨利潤 476 萬元。"
   }
 ]
