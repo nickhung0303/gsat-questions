@@ -249065,5 +249065,845 @@
       "依據"
     ],
     "explanation": "E4 一格內教堂最密集。每個教區只有一座教堂，教堂多表示教區小而密、人口集中，最可能是全郡的行政與經濟中心（德倫市）。"
+  },
+  {
+    "id": "102-ast-geo-01",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "在民國99年的《國土空間發展策略計畫》中，主張將原來由臺北市、新北市與基隆市構成的區域生活圈擴大，進一步納入宜蘭縣。此一主張最可能和下列哪項因素造成的空間關連改變有關？",
+    "options": [
+      "知識經濟",
+      "交通革新",
+      "工業連鎖",
+      "人口轉型"
+    ],
+    "answerIndex": 1,
+    "explanation": "2006 年北宜高速公路（雪山隧道）通車，臺北到宜蘭的時間大幅縮短，兩地往來密切，所以把宜蘭納入北部生活圈，是交通革新造成的空間關連改變。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-geo-02",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "土壤的發育是土質、氣候、水文、地形、植生等環境要素綜合作用的結果。其中黑鈣土分布的地理環境，最可能具有下列哪兩項特色？甲、夏暖冬冷，草類一歲一枯榮；乙、全年氣候溫和，草類終年繁茂；丙、年雨量略少於年可能蒸發散量；丁、土壤透水性差，降雨聚積於表土；戊、坡度較大，有利於雨季時的排水。",
+    "options": [
+      "甲丙",
+      "甲戊",
+      "乙丁",
+      "乙戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "黑鈣土分布於溫帶半乾燥草原：夏暖冬冷，草類每年枯死後提供大量腐植質（甲）；雨量略少於蒸發量，淋溶作用弱，鈣質留在土層中（丙）。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-geo-03",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "進行地理實察，若欲使用全球衛星定位系統（GPS）進行位置測定，下列何種環境條件最可能影響訊號接收而「無法」定位？",
+    "options": [
+      "星空籠罩的平原",
+      "森林茂密的山谷",
+      "雲霧繚繞的山峰",
+      "風勢強勁的台地"
+    ],
+    "answerIndex": 1,
+    "explanation": "GPS 需要同時接收多顆衛星的訊號。山谷兩側山壁與茂密林冠會遮蔽天空，收不到足夠衛星而無法定位；雲霧對訊號影響很小。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-geo-04",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "表(一)為臺灣本島六座國家公園管理處的橫麥卡托投影二度分帶座標。其中哪三個國家公園園區內有照片(一)中野生動物的活動？",
+    "svg": "<svg viewBox=\"0 0 274 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:328.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"50\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"21.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"52\" y=\"4\" width=\"110\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"21.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">X 座標</text><rect x=\"162\" y=\"4\" width=\"110\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"21.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">Y 座標</text><rect x=\"2\" y=\"30\" width=\"50\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"47.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">甲</text><rect x=\"52\" y=\"30\" width=\"110\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"47.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">305216</text><rect x=\"162\" y=\"30\" width=\"110\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"47.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2783145</text><rect x=\"2\" y=\"56\" width=\"50\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"73.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">乙</text><rect x=\"52\" y=\"56\" width=\"110\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"73.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">227404</text><rect x=\"162\" y=\"56\" width=\"110\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"73.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2427884</text><rect x=\"2\" y=\"82\" width=\"50\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"99.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">丙</text><rect x=\"52\" y=\"82\" width=\"110\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"99.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">163091</text><rect x=\"162\" y=\"82\" width=\"110\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"99.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2543768</text><rect x=\"2\" y=\"108\" width=\"50\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"125.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">丁</text><rect x=\"52\" y=\"108\" width=\"110\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"125.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">237676</text><rect x=\"162\" y=\"108\" width=\"110\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"125.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2704896</text><rect x=\"2\" y=\"134\" width=\"50\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"151.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">戊</text><rect x=\"52\" y=\"134\" width=\"110\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"151.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">234746</text><rect x=\"162\" y=\"134\" width=\"110\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"151.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2634355</text><rect x=\"2\" y=\"160\" width=\"50\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"177.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">己</text><rect x=\"52\" y=\"160\" width=\"110\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"177.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">313167</text><rect x=\"162\" y=\"160\" width=\"110\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"217\" y=\"177.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">2672604</text></svg><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-04.png\" alt=\"照片(一) 兩隻胸前有 V 字白色斑紋的黑熊\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙丙",
+      "乙丙丁",
+      "丙丁戊",
+      "丁戊己"
+    ],
+    "answerIndex": 3,
+    "explanation": "照片是臺灣黑熊，棲息於中高海拔山區。依座標：甲在北部近海（陽明山）、乙在最南端（墾丁）、丙在西南沿海（台江），丁（雪霸）、戊（玉山）、己（太魯閣）都是高山型國家公園，有黑熊活動。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-geo-05",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "近年來，一些國家因人口結構快速轉變，使工作年齡人口相較於受撫養人口快速成長，且受過良好教育，將有利於經濟發展，成為「人口機會窗」。人口機會窗通常出現在人口轉型階段的哪個階段？",
+    "options": [
+      "高穩定階段",
+      "低穩定階段",
+      "早期擴張階段",
+      "晚期擴張階段"
+    ],
+    "answerIndex": 3,
+    "explanation": "晚期擴張階段出生率快速下降，幼年人口減少，而先前出生的大量人口進入工作年齡，老年人口尚不多，扶養比最低，形成人口紅利（機會窗）。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-geo-06",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "我國是世界重要的面板製造地，國內面板產業的上、下游廠商，主要分布於科學工業園區及其周圍地區，因此能夠有效降低上、下游廠商間的交易成本，強化臺灣面板生產的競爭力。此種產業發展現象，最適合以下列哪兩個概念加以說明？甲、垂直分工；乙、水平分工；丙、工業慣性；丁、聚集經濟。",
+    "options": [
+      "甲乙",
+      "甲丁",
+      "乙丙",
+      "丙丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "上下游廠商分工生產是垂直分工；集中在園區附近降低交易成本，是聚集經濟。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-geo-07",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "2013年，臺灣經濟部曾赴美國「灣區」(The Bay Area)進行招商，邀請海外科技公司、企業到臺灣投資，強調「臺灣非常注重智慧財產權，尤其科技業有著便捷的產業供應鏈，是研發、創新最好的地方。」臺灣經濟部招商的地點，最可能位於下列哪個都會帶內？",
+    "options": [
+      "達拉斯－休士頓都會帶",
+      "芝加哥－匹茲堡都會帶",
+      "舊金山－聖地牙哥都會帶",
+      "波士頓－華盛頓特區都會帶"
+    ],
+    "answerIndex": 2,
+    "explanation": "「灣區」指舊金山灣區，包含矽谷，屬於美國西岸的舊金山－聖地牙哥都會帶。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-geo-08",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "美國甲公司研發的平板電腦問世後，在全球造成搶購風潮，生產線不及出貨的消息時有所聞。臺灣某消費者在甲公司的網路商店訂購了一台平板電腦，幾天後，他利用該網路商店的貨件追蹤查詢功能，得到表(二)的結果（運送編號：541368169，出貨日期：07 Feb 2011，目的地：臺灣臺北）。下列哪個說法最可解釋表(二)的現象？",
+    "svg": "<svg viewBox=\"0 0 454 216\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:544.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"120\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"62\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">日期</text><rect x=\"122\" y=\"4\" width=\"90\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">時間</text><rect x=\"212\" y=\"4\" width=\"100\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">地點</text><rect x=\"312\" y=\"4\" width=\"140\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"382\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">貨件狀態</text><rect x=\"2\" y=\"30\" width=\"120\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"62\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">07 Feb 2011</text><rect x=\"122\" y=\"30\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">18:20:01</text><rect x=\"212\" y=\"30\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中國成都</text><rect x=\"312\" y=\"30\" width=\"140\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"382\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">出貨</text><rect x=\"2\" y=\"56\" width=\"120\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"62\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">07 Feb 2011</text><rect x=\"122\" y=\"56\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">20:23:22</text><rect x=\"212\" y=\"56\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中國成都</text><rect x=\"312\" y=\"56\" width=\"140\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"382\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">轉運中</text><rect x=\"2\" y=\"82\" width=\"120\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"62\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">08 Feb 2011</text><rect x=\"122\" y=\"82\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">23:38:00</text><rect x=\"212\" y=\"82\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">香港</text><rect x=\"312\" y=\"82\" width=\"140\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"382\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">轉運站收件</text><rect x=\"2\" y=\"108\" width=\"120\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"62\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">09 Feb 2011</text><rect x=\"122\" y=\"108\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">03:53:21</text><rect x=\"212\" y=\"108\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">香港</text><rect x=\"312\" y=\"108\" width=\"140\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"382\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">轉運中</text><rect x=\"2\" y=\"134\" width=\"120\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"62\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10 Feb 2011</text><rect x=\"122\" y=\"134\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">09:21:14</text><rect x=\"212\" y=\"134\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">桃園-海關</text><rect x=\"312\" y=\"134\" width=\"140\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"382\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">等待入關檢查</text><rect x=\"2\" y=\"160\" width=\"120\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"62\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">10 Feb 2011</text><rect x=\"122\" y=\"160\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">16:15:35</text><rect x=\"212\" y=\"160\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">桃園-海關</text><rect x=\"312\" y=\"160\" width=\"140\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"382\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">海關檢查結束</text><rect x=\"2\" y=\"186\" width=\"120\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"62\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11 Feb 2011</text><rect x=\"122\" y=\"186\" width=\"90\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">07:12:26</text><rect x=\"212\" y=\"186\" width=\"100\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">臺北</text><rect x=\"312\" y=\"186\" width=\"140\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"382\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">轉運中</text></svg>",
+    "options": [
+      "重視產品技術研發",
+      "降低物流運輸成本",
+      "趨向產品的標準化",
+      "減少資金流通障礙"
+    ],
+    "answerIndex": 1,
+    "explanation": "產品直接由中國的組裝廠出貨，經香港轉運中心集中轉運到各地，可節省先運回美國再轉寄的物流時間與成本。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-geo-09",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "中國避免油輪通過麻六甲海峽時遭受到安全威脅，因此和那個陸上鄰國合作，建立經由該國海港通往中國的油管？",
+    "options": [
+      "緬甸",
+      "越南",
+      "寮國",
+      "泰國"
+    ],
+    "answerIndex": 0,
+    "explanation": "中緬油氣管道由緬甸西岸皎漂港經緬甸境內通往雲南昆明，原油可從印度洋直接上岸，避開麻六甲海峽。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-geo-10",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "2006年，非洲綠色革命聯盟成立，其宗旨為促進水利設施、改良土壤品質、研發適應非洲氣候的種子，並提供農民更良好的訓練，以增加糧食作物生產，解決非洲飢餓問題。該組織在非洲的農業地區推動綠色革命，需要克服下列哪項問題？",
+    "options": [
+      "非洲境內降水量少，蒸發量大，灌溉水源不易取得",
+      "非洲農村勞力不足，無法採取精耕技術的農作方式",
+      "非洲居民大多貧窮，通常缺乏現金購買種子和肥料",
+      "跨國企業壟斷非洲農業生產，導致糧食大量地出口"
+    ],
+    "answerIndex": 2,
+    "explanation": "綠色革命依賴改良種子、化肥、農藥等資本投入，非洲小農普遍貧窮、缺乏資金購買，是推動的最大障礙。非洲並非全部乾燥；農村勞力並不缺乏。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-geo-11",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "在歐洲人抵達美洲之前，美洲已有發展數千年的文明。下列哪個文明發源於如照片(二)所代表的自然景觀帶中？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-11.png\" alt=\"照片(二) 高大茂密、層次豐富的熱帶雨林\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "印加文化",
+      "馬雅文化",
+      "伊努特文化",
+      "阿茲特克文化"
+    ],
+    "answerIndex": 1,
+    "explanation": "照片是高大茂密的熱帶雨林。馬雅文明發源於猶加敦半島與瓜地馬拉的熱帶雨林；印加在安地斯高原、阿茲特克在墨西哥高原、伊努特在北極地區。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-geo-12",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "表(三)是中國某都市1982-2010年幼年人口與老年人口分別佔總人口比例（%）的變遷。影響該都市2000年後老年人口比變遷的原因，與下列哪種現象關係最密切？",
+    "svg": "<svg viewBox=\"0 0 474 92\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"110\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"57\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\"></text><rect x=\"112\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"157\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">1982 年</text><rect x=\"202\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">1990 年</text><rect x=\"292\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"337\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">2000 年</text><rect x=\"382\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"427\" y=\"22.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">2010 年</text><rect x=\"2\" y=\"32\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"57\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">幼年人口比</text><rect x=\"112\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"157\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">18.2</text><rect x=\"202\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">18.2</text><rect x=\"292\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"337\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">12.3</text><rect x=\"382\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"427\" y=\"50.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">8.6</text><rect x=\"2\" y=\"60\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"57\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">老年人口比</text><rect x=\"112\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"157\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">7.4</text><rect x=\"202\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">9.4</text><rect x=\"292\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"337\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">11.5</text><rect x=\"382\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"427\" y=\"78.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">10.1</text></svg>",
+    "options": [
+      "人口政策強調晚婚與晚育",
+      "人口成長出現少子化現象",
+      "人口戶籍受城鄉分離限制",
+      "人口大量移入至都市地區"
+    ],
+    "answerIndex": 3,
+    "explanation": "2000 年後幼年人口比持續下降，老年人口比卻由 11.5% 降為 10.1%。老年人口比下降，最可能是大量青壯年人口移入都市，使老年人口所占比例被稀釋。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-geo-13",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "近年來，一些國家開發生質能源以替代石化燃料。其中美國與巴西，分別以哪種作物作為產製生質能源的主要原料？",
+    "options": [
+      "玉米、甘蔗",
+      "大豆、甘蔗",
+      "大豆、小麥",
+      "玉米、小麥"
+    ],
+    "answerIndex": 0,
+    "explanation": "美國以玉米生產生質酒精；巴西以甘蔗生產生質酒精。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-geo-14",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖(一)中的方塊，表示各種塊體崩壞的特性。其中哪個方塊最能夠呈現土石流的特性？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-14.png\" alt=\"圖(一) 塊體崩壞特性（縱軸含水量、橫軸移動速度由 0.1 mm/年 到 100 m/秒）：甲 含水量中、速度極慢；乙 含水量中高、速度慢到中；丙 含水量中低、速度中到快；丁 含水量最高、速度快（約 1～10 m/秒）；戊 含水量最低、速度最快\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "土石流是含大量水分的土石混合體，沿溝谷快速流動，含水量高、移動速度快（每秒公尺級），即右上角的丁。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-geo-15",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "某國家為天然氣輸出大國，2009年冬天因與鄰國的糾紛，切斷了天然氣的供應，導致東歐和中歐十多個國家在寒冬時節無暖氣可用，該國將能源做為政治談判的工具，遭致了國際社會的嚴重批評。這個國家最可能為下列何者？",
+    "options": [
+      "挪威",
+      "哈薩克",
+      "土耳其",
+      "俄羅斯"
+    ],
+    "answerIndex": 3,
+    "explanation": "2009 年 1 月俄羅斯與烏克蘭的天然氣價格糾紛，俄國切斷經烏克蘭輸往歐洲的天然氣，東歐、中歐多國斷氣。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-geo-16",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1950-1990年代，臺灣西南部沿海地區許多居民罹患烏腳病，此種疾病的發生與當地居民的生活環境有關。但在下列哪項措施實行後，烏腳病的發生率即顯著降低？",
+    "options": [
+      "大量噴灑除蟲藥劑",
+      "掃除易積水的容器",
+      "提高自來水普及率",
+      "接種新型抗菌疫苗"
+    ],
+    "answerIndex": 2,
+    "explanation": "烏腳病與飲用含砷的深井地下水有關。自來水普及後，居民不再飲用井水，發生率大幅下降。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-geo-17",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "17-18 為題組\n圖(二)是透過GIS工具，將某地區一次森林大火事件T0至T3等四個時間的衛星影像，加以分析繪製成的「森林大火延燒示意圖」；圖右的資料則是該地區的甲、乙、丙、丁、戊等小區，在T0至T3等四個時間的森林燃燒狀況。請問：\n\n圖(二)的繪製，主要利用下列哪種GIS的分析功能？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-17.png\" alt=\"圖(二) 森林大火延燒示意圖：圖分為甲（左下空白）、乙（點狀）、丙（直線條紋）、丁（橫線條紋）、戊（左上空白）五區；圖例：空白 0000、點狀 0111、直條紋 0011、橫條紋 0001（T0～T3，0 未燃燒、1 燃燒）\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "疊圖分析",
+      "地勢分析",
+      "路網分析",
+      "環域分析"
+    ],
+    "answerIndex": 0,
+    "explanation": "把 T0～T3 四個時間的燃燒範圍圖層相疊，得出各區域被燒的時間順序，是疊圖分析。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-geo-18",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "17-18 為題組\n圖(二)是透過GIS工具，將某地區一次森林大火事件T0至T3等四個時間的衛星影像，加以分析繪製成的「森林大火延燒示意圖」；圖右的資料則是該地區的甲、乙、丙、丁、戊等小區，在T0至T3等四個時間的森林燃燒狀況。請問：\n\n從該地區森林大火延燒的情形，下列何者推論最為合理？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-17.png\" alt=\"圖(二) 森林大火延燒示意圖：圖分為甲（左下空白）、乙（點狀）、丙（直線條紋）、丁（橫線條紋）、戊（左上空白）五區；圖例：空白 0000、點狀 0111、直條紋 0011、橫條紋 0001（T0～T3，0 未燃燒、1 燃燒）\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "丁區的大火延燒時間最久",
+      "丙區的樹種比戊區易燃",
+      "森林大火延燒到T3時即結束",
+      "甲區可能是湖泊或岩石裸露區"
+    ],
+    "answerIndex": 3,
+    "explanation": "甲區始終未燃燒，且被已燃燒的乙、丙包圍，最可能是沒有可燃物的湖泊或裸岩區。\n(A) 乙區從 T1 就開始燒，最久。(B) 戊區也未燒，不能比較樹種。(C) 丁區 T3 才剛起火，無法判斷是否結束。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-geo-19",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "19-20 為題組\n《世界是平的(The world is flat)》一書指出：「只要有寬頻，只要有雄心，不管你在哪裡，都不會被邊緣化，競爭的立足點變平等了。」；「小時候我常聽爸媽說：『兒子啊，乖乖把飯吃完，因為中國跟印度的小孩沒飯吃』。現在我則說：『女兒啊，乖乖把書唸完，因為中國跟印度的小孩正等著搶你的飯碗』」。請問：\n\n上述書籍所提到的南亞國家，因具有下列哪兩項優越區位條件，使得近來成為許多科技產業的外包工作地點？甲、豐富農礦資源；乙、鄰近先進國家；丙、消費人口眾多；丁、英語為官方語言；戊、高素質人力資源。",
+    "options": [
+      "甲乙",
+      "甲戊",
+      "丙丁",
+      "丁戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "印度通行英語，且有大量受過高等教育、薪資相對低的理工人才，成為軟體、客服等外包的重要地點。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-geo-20",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "19-20 為題組\n《世界是平的(The world is flat)》一書指出：「只要有寬頻，只要有雄心，不管你在哪裡，都不會被邊緣化，競爭的立足點變平等了。」；「小時候我常聽爸媽說：『兒子啊，乖乖把飯吃完，因為中國跟印度的小孩沒飯吃』。現在我則說：『女兒啊，乖乖把書唸完，因為中國跟印度的小孩正等著搶你的飯碗』」。請問：\n\n上述書籍所陳述的兩段內容，最能夠反映出下列哪種全球現象？",
+    "options": [
+      "在全球經濟架構下，中國因寬頻使用有限，使經濟發展趨向邊緣化",
+      "在全球環境尺度下，陸地起伏相對不明顯，所以可被視為是平坦的",
+      "在全球國際分工下，各地經貿關係的密切，使個人或企業競爭激烈",
+      "在全球暖化影響下，海水上升將淹沒耕地，導致各國面臨糧食危機"
+    ],
+    "answerIndex": 2,
+    "explanation": "網路使全球分工更容易，工作可以外包到任何地方，各國人才在同一平台上競爭，競爭更加激烈。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-geo-21",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-22 為題組\n近年來，新加坡積極招募海外的國際勞工至該國工作，至2012年，新加坡約3.35百萬的勞工人口中，國際勞工比例即高達38%，這些國際勞工除受雇於工商企業、建築業外，亦包含一般家庭的幫傭。至於國際勞工的來源，除了鄰近的甲國外，主要來自下列三大來源區：(1)北亞來源區：香港、澳門、韓國、臺灣；(2)非傳統來源區：印度、斯里蘭卡、泰國、孟加拉、緬甸及菲律賓；(3)中國。請問：\n\n新加坡國際勞工比例高達38%，主要與該國下列的哪項特徵關係最密切？",
+    "options": [
+      "國際資金流通的快速",
+      "港口轉運貿易的盛行",
+      "人口自然增加的滑落",
+      "觀光旅遊產值的增加"
+    ],
+    "answerIndex": 2,
+    "explanation": "新加坡生育率極低，人口自然增加率下滑，本國勞動力不足，必須大量引進外籍勞工。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-geo-22",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-22 為題組\n近年來，新加坡積極招募海外的國際勞工至該國工作，至2012年，新加坡約3.35百萬的勞工人口中，國際勞工比例即高達38%，這些國際勞工除受雇於工商企業、建築業外，亦包含一般家庭的幫傭。至於國際勞工的來源，除了鄰近的甲國外，主要來自下列三大來源區：(1)北亞來源區：香港、澳門、韓國、臺灣；(2)非傳統來源區：印度、斯里蘭卡、泰國、孟加拉、緬甸及菲律賓；(3)中國。請問：\n\n新加坡國際勞工來源國之一的甲國，其農業經營最可能具有下列哪項特色？",
+    "options": [
+      "進行大規模、專業化的單一作物耕種",
+      "圈養牲畜，以乳製品供應鄰近大都市",
+      "多採用機械化耕作，單位面積產量小",
+      "日照強烈、降雨不多，相當重視灌溉"
+    ],
+    "answerIndex": 0,
+    "explanation": "鄰近新加坡的甲國是馬來西亞，有大規模的油棕、橡膠等熱帶栽培業，專業化種植單一作物。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-geo-23",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "23-24 為題組\n某人利用全球淹水模擬網站，並在不考慮排水系統條件下，進行海平面上升十公尺後，蘭陽平原的淹水範圍模擬。圖(三)即為截取蘭陽平原內宜蘭市一帶的淹水範圍模擬圖，深色色塊為模擬後的淹水範圍。請問：\n\n某人在進行模擬後，發現沿著目前蘭陽平原的海岸線，會出現一條細長的未淹沒帶。這個未淹沒帶最有可能是下列何種地形景觀？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-23.png\" alt=\"圖(三) 宜蘭市一帶的淹水模擬圖：道路地圖上覆蓋由許多方形網格組成的深色淹水範圍\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "海階",
+      "沙丘",
+      "海蝕平台",
+      "濱外沙洲"
+    ],
+    "answerIndex": 1,
+    "explanation": "蘭陽平原海岸是沙岸，沿海有連綿的海岸沙丘，地勢較內側高，海平面上升時形成細長的未淹沒帶。濱外沙洲在海中；海階、海蝕平台出現在岩岸。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-geo-24",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "23-24 為題組\n某人利用全球淹水模擬網站，並在不考慮排水系統條件下，進行海平面上升十公尺後，蘭陽平原的淹水範圍模擬。圖(三)即為截取蘭陽平原內宜蘭市一帶的淹水範圍模擬圖，深色色塊為模擬後的淹水範圍。請問：\n\n圖(三)展現的地理資訊，具有下列哪兩項特徵？甲、圖上地名與淹水範圍屬空間資料；乙、淹水模擬以地勢分析的方式取得；丙、模擬結果可以展現海拔相對高低；丁、圖中的淹水範圍以向量模式儲存。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-23.png\" alt=\"圖(三) 宜蘭市一帶的淹水模擬圖：道路地圖上覆蓋由許多方形網格組成的深色淹水範圍\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙",
+      "甲丁",
+      "乙丙",
+      "丙丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "淹水模擬是以數值地形資料判斷哪些地方低於上升後的海面（地勢分析，乙），淹沒與否也反映出海拔的相對高低（丙）。地名屬屬性資料；淹水範圍呈方形網格，是網格（raster）模式。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-geo-25",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "25-26 為題組\n某西非國家在法國殖民以前，主要有兩種人口︰農民和游牧者。農民居住在降水豐沛的南部，游牧者則居住在乾溼分明的北部，以飼養牛隻為主，並從事北非和撒哈拉以南地區的商品貿易。法國殖民後，在殖民地引進符合國際市場需求的農業活動，導致跨越撒哈拉的貿易逐漸被人們放棄；當游牧者不再處於市場體系之中，他們只好更集約、更頻繁地使用土地進行放牧。請問：\n\n該國在法國殖民以前，其游牧民族所進行的貿易活動，最可能將北非的何種作物賣給南部的農民？",
+    "options": [
+      "椰棗",
+      "玉米",
+      "稻米",
+      "香蕉"
+    ],
+    "answerIndex": 0,
+    "explanation": "北非沙漠綠洲的特產是椰棗，經跨撒哈拉貿易向南運銷。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-geo-26",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "25-26 為題組\n某西非國家在法國殖民以前，主要有兩種人口︰農民和游牧者。農民居住在降水豐沛的南部，游牧者則居住在乾溼分明的北部，以飼養牛隻為主，並從事北非和撒哈拉以南地區的商品貿易。法國殖民後，在殖民地引進符合國際市場需求的農業活動，導致跨越撒哈拉的貿易逐漸被人們放棄；當游牧者不再處於市場體系之中，他們只好更集約、更頻繁地使用土地進行放牧。請問：\n\n法國殖民該國後，最可能導致該國北部出現下列哪些變化？甲、水土資源減少；乙、氣溫上升加速；丙、生態印跡變大；丁、雨林面積縮減。",
+    "options": [
+      "甲乙",
+      "甲丙",
+      "乙丁",
+      "丙丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "游牧者更集約、頻繁地放牧，造成過度放牧，草原退化、水土流失（甲），對土地的需求超過環境負荷，生態印跡變大（丙）。北部是乾溼分明的莽原，沒有雨林。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-geo-27",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-29 為題組\n表(四)是1893-2010年，臺灣北、中、南、東四大區域人口佔臺灣總人口比例（%）的時空變化資料表。請問：\n\n表(四)中的哪個區域，2010年的都市化程度最高？",
+    "svg": "<svg viewBox=\"0 0 394 224\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:472.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">年代</text><rect x=\"72\" y=\"4\" width=\"80\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"152\" y=\"4\" width=\"80\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"232\" y=\"4\" width=\"80\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"312\" y=\"4\" width=\"80\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"2\" y=\"28\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1893</text><rect x=\"72\" y=\"28\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">43.23</text><rect x=\"152\" y=\"28\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.23</text><rect x=\"232\" y=\"28\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">30.13</text><rect x=\"312\" y=\"28\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">26.41</text><rect x=\"2\" y=\"52\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1905</text><rect x=\"72\" y=\"52\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35.96</text><rect x=\"152\" y=\"52\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.65</text><rect x=\"232\" y=\"52\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">30.40</text><rect x=\"312\" y=\"52\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32.00</text><rect x=\"2\" y=\"76\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1925</text><rect x=\"72\" y=\"76\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32.83</text><rect x=\"152\" y=\"76\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.55</text><rect x=\"232\" y=\"76\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">31.09</text><rect x=\"312\" y=\"76\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">33.53</text><rect x=\"2\" y=\"100\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1965</text><rect x=\"72\" y=\"100\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32.85</text><rect x=\"152\" y=\"100\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.42</text><rect x=\"232\" y=\"100\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32.91</text><rect x=\"312\" y=\"100\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">29.82</text><rect x=\"2\" y=\"124\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1985</text><rect x=\"72\" y=\"124\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">30.37</text><rect x=\"152\" y=\"124\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.31</text><rect x=\"232\" y=\"124\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40.79</text><rect x=\"312\" y=\"124\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.53</text><rect x=\"2\" y=\"148\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1995</text><rect x=\"72\" y=\"148\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">29.28</text><rect x=\"152\" y=\"148\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.88</text><rect x=\"232\" y=\"148\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">42.46</text><rect x=\"312\" y=\"148\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.38</text><rect x=\"2\" y=\"172\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2001</text><rect x=\"72\" y=\"172\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28.71</text><rect x=\"152\" y=\"172\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.68</text><rect x=\"232\" y=\"172\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">43.35</text><rect x=\"312\" y=\"172\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.27</text><rect x=\"2\" y=\"196\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2010</text><rect x=\"72\" y=\"196\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28.01</text><rect x=\"152\" y=\"196\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.49</text><rect x=\"232\" y=\"196\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">44.46</text><rect x=\"312\" y=\"196\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.04</text></svg>",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "丙的人口比例由約 30% 持續上升到 44%，是工商業與人口集中的北部區域，都市化程度最高。甲早期最多、逐漸下降是南部；丁約 25% 是中部；乙最少是東部。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-geo-28",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-29 為題組\n表(四)是1893-2010年，臺灣北、中、南、東四大區域人口佔臺灣總人口比例（%）的時空變化資料表。請問：\n\n乙區在1960年代以後呈現出的人口比例變遷過程，最適合以下列哪項因素來解釋其成因？",
+    "svg": "<svg viewBox=\"0 0 394 224\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:472.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">年代</text><rect x=\"72\" y=\"4\" width=\"80\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"152\" y=\"4\" width=\"80\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"232\" y=\"4\" width=\"80\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"312\" y=\"4\" width=\"80\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"2\" y=\"28\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1893</text><rect x=\"72\" y=\"28\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">43.23</text><rect x=\"152\" y=\"28\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.23</text><rect x=\"232\" y=\"28\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">30.13</text><rect x=\"312\" y=\"28\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">26.41</text><rect x=\"2\" y=\"52\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1905</text><rect x=\"72\" y=\"52\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35.96</text><rect x=\"152\" y=\"52\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.65</text><rect x=\"232\" y=\"52\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">30.40</text><rect x=\"312\" y=\"52\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32.00</text><rect x=\"2\" y=\"76\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1925</text><rect x=\"72\" y=\"76\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32.83</text><rect x=\"152\" y=\"76\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.55</text><rect x=\"232\" y=\"76\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">31.09</text><rect x=\"312\" y=\"76\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">33.53</text><rect x=\"2\" y=\"100\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1965</text><rect x=\"72\" y=\"100\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32.85</text><rect x=\"152\" y=\"100\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.42</text><rect x=\"232\" y=\"100\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32.91</text><rect x=\"312\" y=\"100\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">29.82</text><rect x=\"2\" y=\"124\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1985</text><rect x=\"72\" y=\"124\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">30.37</text><rect x=\"152\" y=\"124\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.31</text><rect x=\"232\" y=\"124\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40.79</text><rect x=\"312\" y=\"124\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.53</text><rect x=\"2\" y=\"148\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1995</text><rect x=\"72\" y=\"148\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">29.28</text><rect x=\"152\" y=\"148\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.88</text><rect x=\"232\" y=\"148\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">42.46</text><rect x=\"312\" y=\"148\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.38</text><rect x=\"2\" y=\"172\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2001</text><rect x=\"72\" y=\"172\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28.71</text><rect x=\"152\" y=\"172\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.68</text><rect x=\"232\" y=\"172\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">43.35</text><rect x=\"312\" y=\"172\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.27</text><rect x=\"2\" y=\"196\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2010</text><rect x=\"72\" y=\"196\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28.01</text><rect x=\"152\" y=\"196\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.49</text><rect x=\"232\" y=\"196\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">44.46</text><rect x=\"312\" y=\"196\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.04</text></svg>",
+    "options": [
+      "人口高齡化",
+      "泡沫化經濟",
+      "貿易自由化",
+      "工業化社會"
+    ],
+    "answerIndex": 3,
+    "explanation": "1960 年代以後臺灣進入工業化社會，工廠與就業機會集中在西部都市，東部青壯人口大量外移，人口比例由 4.42% 逐年下降。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-geo-29",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-29 為題組\n表(四)是1893-2010年，臺灣北、中、南、東四大區域人口佔臺灣總人口比例（%）的時空變化資料表。請問：\n\n臺灣國家公園的標誌是根據各園區具有的資源特色為主要設計理念。圖(四)為某處國家公園的標誌，該國家公園位於表(四)中的哪個區域？",
+    "svg": "<svg viewBox=\"0 0 394 224\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:472.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">年代</text><rect x=\"72\" y=\"4\" width=\"80\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"152\" y=\"4\" width=\"80\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"232\" y=\"4\" width=\"80\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"312\" y=\"4\" width=\"80\" height=\"24\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"20.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"2\" y=\"28\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1893</text><rect x=\"72\" y=\"28\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">43.23</text><rect x=\"152\" y=\"28\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.23</text><rect x=\"232\" y=\"28\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">30.13</text><rect x=\"312\" y=\"28\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"44.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">26.41</text><rect x=\"2\" y=\"52\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1905</text><rect x=\"72\" y=\"52\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35.96</text><rect x=\"152\" y=\"52\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.65</text><rect x=\"232\" y=\"52\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">30.40</text><rect x=\"312\" y=\"52\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"68.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32.00</text><rect x=\"2\" y=\"76\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1925</text><rect x=\"72\" y=\"76\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32.83</text><rect x=\"152\" y=\"76\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.55</text><rect x=\"232\" y=\"76\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">31.09</text><rect x=\"312\" y=\"76\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"92.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">33.53</text><rect x=\"2\" y=\"100\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1965</text><rect x=\"72\" y=\"100\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32.85</text><rect x=\"152\" y=\"100\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.42</text><rect x=\"232\" y=\"100\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32.91</text><rect x=\"312\" y=\"100\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"116.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">29.82</text><rect x=\"2\" y=\"124\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1985</text><rect x=\"72\" y=\"124\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">30.37</text><rect x=\"152\" y=\"124\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.31</text><rect x=\"232\" y=\"124\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40.79</text><rect x=\"312\" y=\"124\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"140.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.53</text><rect x=\"2\" y=\"148\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1995</text><rect x=\"72\" y=\"148\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">29.28</text><rect x=\"152\" y=\"148\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.88</text><rect x=\"232\" y=\"148\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">42.46</text><rect x=\"312\" y=\"148\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"164.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.38</text><rect x=\"2\" y=\"172\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2001</text><rect x=\"72\" y=\"172\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28.71</text><rect x=\"152\" y=\"172\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.68</text><rect x=\"232\" y=\"172\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">43.35</text><rect x=\"312\" y=\"172\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"188.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.27</text><rect x=\"2\" y=\"196\" width=\"70\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2010</text><rect x=\"72\" y=\"196\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28.01</text><rect x=\"152\" y=\"196\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.49</text><rect x=\"232\" y=\"196\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">44.46</text><rect x=\"312\" y=\"196\" width=\"80\" height=\"24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"212.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25.04</text></svg><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-29.png\" alt=\"圖(四) 圓形國家公園標誌：一隻長嘴水鳥站在帆船上\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "標誌中有黑面琵鷺與古帆船，是台江國家公園（臺南），位於南部區域，即甲。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-geo-30",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-32 為題組\n福菜是苗栗縣公館鄉居民的傳統食物，其製作通常是在二期稻作收割後，於田裏栽種芥菜，經60幾天生長後，採收醃製而成。2009年，公館鄉舉辦了第一屆的福菜文化節，邀請鄉內小朋友體驗採福菜、曬福菜活動，小朋友興奮地抱起一棵棵福菜，在田裡鋪成臺灣的圖案。請問：\n\n若將臺灣居民分為四大族群時，文中舉辦福菜文化節的縣份，主要的居住族群為何？",
+    "options": [
+      "原住民",
+      "新住民",
+      "閩南人",
+      "客家人"
+    ],
+    "answerIndex": 3,
+    "explanation": "苗栗縣是客家人比例最高的縣，福菜也是客家醃漬食品。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-geo-31",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-32 為題組\n福菜是苗栗縣公館鄉居民的傳統食物，其製作通常是在二期稻作收割後，於田裏栽種芥菜，經60幾天生長後，採收醃製而成。2009年，公館鄉舉辦了第一屆的福菜文化節，邀請鄉內小朋友體驗採福菜、曬福菜活動，小朋友興奮地抱起一棵棵福菜，在田裡鋪成臺灣的圖案。請問：\n\n文中採福菜、曬福菜活動的設計目的，最適合用下列哪個概念解釋？",
+    "options": [
+      "地方感",
+      "精緻農業",
+      "環境倫理",
+      "地景多樣性"
+    ],
+    "answerIndex": 0,
+    "explanation": "讓鄉內小朋友親身參與傳統飲食的製作，並把福菜鋪成臺灣圖案，是培養對家鄉文化的認同，即地方感。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-geo-32",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-32 為題組\n福菜是苗栗縣公館鄉居民的傳統食物，其製作通常是在二期稻作收割後，於田裏栽種芥菜，經60幾天生長後，採收醃製而成。2009年，公館鄉舉辦了第一屆的福菜文化節，邀請鄉內小朋友體驗採福菜、曬福菜活動，小朋友興奮地抱起一棵棵福菜，在田裡鋪成臺灣的圖案。請問：\n\n福菜文化節的承辦單位，最擔心遇到下列哪種天候，導致活動的舉辦受到影響？",
+    "options": [
+      "梅雨導致霪雨綿綿",
+      "西南氣流引來暴風雨",
+      "冷鋒過境夾帶細雨",
+      "熱力對流帶來大雷雨"
+    ],
+    "answerIndex": 2,
+    "explanation": "二期稻作收割後種芥菜，再經 60 多天採收，時間約在冬季，曬福菜最怕冬季冷鋒過境帶來的陰雨。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-geo-33",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "33-35 為題組\n圖(五)是中國某都市1961至1990年的平均逐月氣候水平衡圖。圖中的可能蒸發散量，是指在給予充分的水分條件下，地表可以產生的最大蒸發散量。請問：\n\n該都市最可能是下列何者？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-33.png\" alt=\"圖(五) 氣候水平衡圖：月均溫（淺色曲線）1 月約 −4℃、7 月約 26℃；月雨量（點線）集中在 7～8 月約 160～170 mm，春秋迅速減少，冬季幾乎為 0；月可能蒸發散量（實線）在 1～2 月約 0，4 月約 50、5 月約 100，夏季最高約 160 mm，10 月約 50\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "廣州",
+      "上海",
+      "北京",
+      "烏魯木齊"
+    ],
+    "answerIndex": 2,
+    "explanation": "1 月均溫在 0℃ 以下、7 月約 26℃，雨量集中在夏季、冬春乾燥，是溫帶季風氣候的華北，即北京。烏魯木齊雨量更少。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-geo-34",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "33-35 為題組\n圖(五)是中國某都市1961至1990年的平均逐月氣候水平衡圖。圖中的可能蒸發散量，是指在給予充分的水分條件下，地表可以產生的最大蒸發散量。請問：\n\n依照天文季節的分法，冬季為12-2月，春、夏、秋三季則各依序類推3個月。根據圖(五)，以水平衡的觀點，推論該都市在下列哪些季節的缺水現象最為嚴重？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-33.png\" alt=\"圖(五) 氣候水平衡圖：月均溫（淺色曲線）1 月約 −4℃、7 月約 26℃；月雨量（點線）集中在 7～8 月約 160～170 mm，春秋迅速減少，冬季幾乎為 0；月可能蒸發散量（實線）在 1～2 月約 0，4 月約 50、5 月約 100，夏季最高約 160 mm，10 月約 50\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "春秋",
+      "夏秋",
+      "夏冬",
+      "冬春"
+    ],
+    "answerIndex": 0,
+    "explanation": "可能蒸發散量大於雨量時缺水，兩者差距愈大愈缺水。冬季氣溫在 0℃ 上下，可能蒸發散量接近 0，缺口小；夏季雨量多，與蒸發散量相當。春季氣溫回升、蒸發散量快速增加但雨量仍少；秋季雨量已驟減而蒸發散量仍高，春秋兩季缺口最大。\n\n故選 (A)"
+  },
+  {
+    "id": "102-ast-geo-35",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "33-35 為題組\n圖(五)是中國某都市1961至1990年的平均逐月氣候水平衡圖。圖中的可能蒸發散量，是指在給予充分的水分條件下，地表可以產生的最大蒸發散量。請問：\n\n從圖(五)中的曲線來看，該都市逐月可能蒸發散量的變化，具有下列哪兩項特點？甲、月雨量愈多，可能蒸發散量愈高；乙、月均溫愈高，可能蒸發散量愈高；丙、夏季雨量充足，植物蒸發散量少；丁、氣溫在0℃以下，可能蒸發散量為0。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-33.png\" alt=\"圖(五) 氣候水平衡圖：月均溫（淺色曲線）1 月約 −4℃、7 月約 26℃；月雨量（點線）集中在 7～8 月約 160～170 mm，春秋迅速減少，冬季幾乎為 0；月可能蒸發散量（實線）在 1～2 月約 0，4 月約 50、5 月約 100，夏季最高約 160 mm，10 月約 50\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲丙",
+      "甲丁",
+      "乙丙",
+      "乙丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "可能蒸發散量隨氣溫起伏（乙），1～2 月氣溫低於 0℃ 時為 0（丁）。可能蒸發散量是假設水分充足，與雨量無關。\n\n故選 (D)"
+  },
+  {
+    "id": "102-ast-geo-36",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n歐債危機的出現，最早可追溯至2009年12月，希臘因欠下鉅額公債，導致債信被信用評等公司降級，2010-2011年，愛爾蘭、葡萄牙、義大利與西班牙也出現類似狀況，全球各國才驚覺這是一場連鎖危機。造成各國債務飆高的原因，一般認為包括了下列幾項。請問：\n第一項：歐元採統一匯率與利率，這些體質弱的赤字國無法以貶值促進出口，也無法降息來吸引投資。\n第二項：赤字國多屬過度消費國，部份國家則以此契機輸入產品至赤字國，賺取外匯後，又買進赤字國公債。\n第三項：因應2008年美國金融海嘯帶來的衝擊，各國政府提高紓困金額、失業津貼補助，加強政府支出以提振景氣。\n第四項：希臘政府支出浮濫，管控不佳。愛、西、葡政府則是處理銀行因房地產市場崩盤所衍生的債務問題，導致支出大幅增加。\n\n圖(六)是綜合世界部分國家農業經營特色，所劃分而成的四種農業型態，包括亞洲型、歐洲型、非洲型、新大陸型（北美洲與大洋洲）。文中債務問題嚴重的國家，其農業經營最可能是圖(六)中的哪個型態？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-36.png\" alt=\"圖(六) 農業型態分布圖（橫軸：平均每公頃土地穀物生產量，縱軸：平均每個農民穀物生產量，對數尺度）：甲每農民產量高（約 30～200 噸）、每公頃產量中低；乙每農民與每公頃產量都高；丙每公頃產量高、每農民產量低；丁兩者都低\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "希臘、愛爾蘭、葡萄牙、義大利、西班牙屬歐洲型農業：資本、技術投入多，每公頃產量與每個農民產量都高，即乙。甲每農民產量高但每公頃產量較低是新大陸型；丙是亞洲型；丁是非洲型。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-geo-37",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n歐債危機的出現，最早可追溯至2009年12月，希臘因欠下鉅額公債，導致債信被信用評等公司降級，2010-2011年，愛爾蘭、葡萄牙、義大利與西班牙也出現類似狀況，全球各國才驚覺這是一場連鎖危機。造成各國債務飆高的原因，一般認為包括了下列幾項。請問：\n第一項：歐元採統一匯率與利率，這些體質弱的赤字國無法以貶值促進出口，也無法降息來吸引投資。\n第二項：赤字國多屬過度消費國，部份國家則以此契機輸入產品至赤字國，賺取外匯後，又買進赤字國公債。\n第三項：因應2008年美國金融海嘯帶來的衝擊，各國政府提高紓困金額、失業津貼補助，加強政府支出以提振景氣。\n第四項：希臘政府支出浮濫，管控不佳。愛、西、葡政府則是處理銀行因房地產市場崩盤所衍生的債務問題，導致支出大幅增加。\n\n這些國家債務問題嚴重的原因，主要與下列哪種現象有關？",
+    "options": [
+      "全球在地化",
+      "區域專業化",
+      "金融全球化",
+      "社會資訊化"
+    ],
+    "answerIndex": 2,
+    "explanation": "統一貨幣、各國互購公債、美國金融海嘯的衝擊擴散到歐洲，都是資金跨國流動密切的金融全球化現象。\n\n故選 (C)"
+  },
+  {
+    "id": "102-ast-geo-38",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n歐債危機的出現，最早可追溯至2009年12月，希臘因欠下鉅額公債，導致債信被信用評等公司降級，2010-2011年，愛爾蘭、葡萄牙、義大利與西班牙也出現類似狀況，全球各國才驚覺這是一場連鎖危機。造成各國債務飆高的原因，一般認為包括了下列幾項。請問：\n第一項：歐元採統一匯率與利率，這些體質弱的赤字國無法以貶值促進出口，也無法降息來吸引投資。\n第二項：赤字國多屬過度消費國，部份國家則以此契機輸入產品至赤字國，賺取外匯後，又買進赤字國公債。\n第三項：因應2008年美國金融海嘯帶來的衝擊，各國政府提高紓困金額、失業津貼補助，加強政府支出以提振景氣。\n第四項：希臘政府支出浮濫，管控不佳。愛、西、葡政府則是處理銀行因房地產市場崩盤所衍生的債務問題，導致支出大幅增加。\n\n部分學者認為臺灣也是歐債危機的間接推手之一，而臺灣也將承擔歐債危機的部分後果。其所持看法的依據，與上述引發歐債危機的哪項原因關係最為密切？",
+    "options": [
+      "第一項",
+      "第二項",
+      "第三項",
+      "第四項"
+    ],
+    "answerIndex": 1,
+    "explanation": "臺灣等出口國把產品賣到赤字國賺取外匯，再用外匯買進赤字國公債，助長其過度消費與舉債；一旦違約，臺灣持有的債券也會受損。\n\n故選 (B)"
+  },
+  {
+    "id": "102-ast-geo-non-1-1",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、1976年以後，臺灣茶葉生產發生變革，由於當時工業發展導致農村勞力不足，造成製茶成本過高，茶葉外銷數量逐漸萎縮；之後政府積極舉辦製茶比賽，將茶葉評等分級計價，部份茶農也兼營家庭式小茶廠，提升製茶技術，並以品牌化的小包裝直接銷售給消費者，促使內銷市場的成長，如位於濁水溪以南、斗六丘陵東側的南投鹿谷即為當時著名的凍頂烏龍茶產區。至20世紀末期，臺灣「即飲茶」產品興起，隨著市場的擴大，本土茶廠產量不足，臺灣企業遂至國外設廠生產茶葉，運回臺灣製成茶產品。\n\n1. 1960年代，因為臺灣工業進入到哪個發展階段，導致之後農村勞力不足，臺灣茶葉生產發生變革？（2 分）",
+    "blanks": [
+      "出口擴張"
+    ],
+    "blankLabels": [
+      "工業發展階段"
+    ],
+    "explanation": "1960 年代臺灣設立加工出口區，發展勞力密集的出口導向工業（出口擴張期），農村青壯人口大量流向工廠。"
+  },
+  {
+    "id": "102-ast-geo-non-1-2",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、1976年以後，臺灣茶葉生產發生變革，由於當時工業發展導致農村勞力不足，造成製茶成本過高，茶葉外銷數量逐漸萎縮；之後政府積極舉辦製茶比賽，將茶葉評等分級計價，部份茶農也兼營家庭式小茶廠，提升製茶技術，並以品牌化的小包裝直接銷售給消費者，促使內銷市場的成長，如位於濁水溪以南、斗六丘陵東側的南投鹿谷即為當時著名的凍頂烏龍茶產區。至20世紀末期，臺灣「即飲茶」產品興起，隨著市場的擴大，本土茶廠產量不足，臺灣企業遂至國外設廠生產茶葉，運回臺灣製成茶產品。\n\n2. 臺灣茶葉轉變為以內銷為主後，傳統茶業經營也逐漸「轉型」為何種農業經營類型？（2 分）",
+    "blanks": [
+      "精緻農業"
+    ],
+    "blankLabels": [
+      "農業經營類型"
+    ],
+    "explanation": "提升製茶技術、分級計價、品牌化小包裝直接銷售，是講求品質與高附加價值的精緻農業。"
+  },
+  {
+    "id": "102-ast-geo-non-1-3",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、1976年以後，臺灣茶葉生產發生變革，由於當時工業發展導致農村勞力不足，造成製茶成本過高，茶葉外銷數量逐漸萎縮；之後政府積極舉辦製茶比賽，將茶葉評等分級計價，部份茶農也兼營家庭式小茶廠，提升製茶技術，並以品牌化的小包裝直接銷售給消費者，促使內銷市場的成長，如位於濁水溪以南、斗六丘陵東側的南投鹿谷即為當時著名的凍頂烏龍茶產區。至20世紀末期，臺灣「即飲茶」產品興起，隨著市場的擴大，本土茶廠產量不足，臺灣企業遂至國外設廠生產茶葉，運回臺灣製成茶產品。\n\n3. 凍頂烏龍茶的茶產區，主要位於臺灣五大山脈中的哪個山脈？（2 分）",
+    "blanks": [
+      "阿里山山脈"
+    ],
+    "blankLabels": [
+      "山脈"
+    ],
+    "explanation": "南投鹿谷位於濁水溪以南、斗六丘陵東側，屬阿里山山脈北段。"
+  },
+  {
+    "id": "102-ast-geo-non-1-4",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、1976年以後，臺灣茶葉生產發生變革，由於當時工業發展導致農村勞力不足，造成製茶成本過高，茶葉外銷數量逐漸萎縮；之後政府積極舉辦製茶比賽，將茶葉評等分級計價，部份茶農也兼營家庭式小茶廠，提升製茶技術，並以品牌化的小包裝直接銷售給消費者，促使內銷市場的成長，如位於濁水溪以南、斗六丘陵東側的南投鹿谷即為當時著名的凍頂烏龍茶產區。至20世紀末期，臺灣「即飲茶」產品興起，隨著市場的擴大，本土茶廠產量不足，臺灣企業遂至國外設廠生產茶葉，運回臺灣製成茶產品。\n\n4. 上述臺灣茶廠設立的區位選擇過程，最適合以何種區位空間變遷的概念解釋？（2 分）",
+    "blanks": [
+      "區位擴散"
+    ],
+    "blankLabels": [
+      "概念"
+    ],
+    "explanation": "臺灣本土仍有茶廠生產，再到國外增設茶廠，生產區位向外擴展，是區位擴散（而非整體移轉）。"
+  },
+  {
+    "id": "102-ast-geo-non-2-1",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、十九世紀法國作家Jules Verne曾撰寫一部冒險小說《環遊世界八十天》，書中主角Phileas Fogg由倫敦出發東行，跨越了歐、非、亞、北美各洲，最終回到倫敦，完成環遊世界一周的壯舉。圖(七)為書中主角Fogg行經之路線（甲～庚為都市）。\n\n1. 圖(八)所代表的文化景觀，在圖(七)的哪兩個都市中最常見到？（請寫代號，兩個答案全對才給分）（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-non2.png\" alt=\"圖(七) 世界地圖上的環球路線：甲為倫敦，向東經乙（蘇伊士附近）、丙（印度）、丁、戊（東亞沿海），橫越太平洋到己（舊金山），再經庚（美國東部）返回；圖(八) 有圓頂與尖塔、頂端飾以新月的清真寺剪影\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "乙、丙"
+    ],
+    "blankLabels": [
+      "都市代號"
+    ],
+    "explanation": "圖(八)是伊斯蘭教清真寺。乙位於中東（蘇伊士一帶），丙位於印度（孟買一帶有大量穆斯林），最常見到清真寺。"
+  },
+  {
+    "id": "102-ast-geo-non-2-2",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、十九世紀法國作家Jules Verne曾撰寫一部冒險小說《環遊世界八十天》，書中主角Phileas Fogg由倫敦出發東行，跨越了歐、非、亞、北美各洲，最終回到倫敦，完成環遊世界一周的壯舉。圖(七)為書中主角Fogg行經之路線（甲～庚為都市）。\n\n2. 書中提及Fogg在丁戊兩地的後半段船程是順流而行，航行速度快。這丁戊兩地的後半段航程主要沿著哪股洋流行進？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-non2.png\" alt=\"圖(七) 世界地圖上的環球路線：甲為倫敦，向東經乙（蘇伊士附近）、丙（印度）、丁、戊（東亞沿海），橫越太平洋到己（舊金山），再經庚（美國東部）返回；圖(八) 有圓頂與尖塔、頂端飾以新月的清真寺剪影\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "黑潮（北太平洋暖流）"
+    ],
+    "blankLabels": [
+      "洋流"
+    ],
+    "explanation": "由東南亞沿東亞海岸北上，順著由南向北流的黑潮暖流前進。"
+  },
+  {
+    "id": "102-ast-geo-non-2-3",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "fill",
+    "points": 4,
+    "selfGrade": true,
+    "question": "二、十九世紀法國作家Jules Verne曾撰寫一部冒險小說《環遊世界八十天》，書中主角Phileas Fogg由倫敦出發東行，跨越了歐、非、亞、北美各洲，最終回到倫敦，完成環遊世界一周的壯舉。圖(七)為書中主角Fogg行經之路線（甲～庚為都市）。\n\n3. Fogg在印度的旅程中，主要行經了哪兩類的自然景觀帶？（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-ast-geo-non2.png\" alt=\"圖(七) 世界地圖上的環球路線：甲為倫敦，向東經乙（蘇伊士附近）、丙（印度）、丁、戊（東亞沿海），橫越太平洋到己（舊金山），再經庚（美國東部）返回；圖(八) 有圓頂與尖塔、頂端飾以新月的清真寺剪影\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "熱帶雨林（季風雨林）、熱帶莽原"
+    ],
+    "blankLabels": [
+      "自然景觀帶"
+    ],
+    "explanation": "Fogg 由孟買橫越印度到加爾各答：印度屬熱帶季風氣候，沿海與東部雨量多為季風雨林，德干高原內陸乾季明顯為熱帶莽原。"
+  },
+  {
+    "id": "102-ast-geo-non-3-1",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、表(五)為2011年亞洲、非洲、歐洲、美洲、大洋洲等五大洲的八種作物種植面積資料（單位：千公頃）。\n\n1. 表中哪個代號所代表的大洲，其陸地範圍僅限於北半球？（2 分）",
+    "svg": "<svg viewBox=\"0 0 664 164\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">大洲代號</text><rect x=\"82\" y=\"4\" width=\"60\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">咖啡</text><rect x=\"142\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">玉米</text><rect x=\"212\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">馬鈴薯</text><rect x=\"282\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">稻米</text><rect x=\"362\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">小米</text><rect x=\"432\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">塊莖作物</text><rect x=\"512\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">小麥</text><rect x=\"592\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">可可豆</text><rect x=\"2\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"82\" y=\"30\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0</text><rect x=\"142\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">16451</text><rect x=\"212\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6140</text><rect x=\"282\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">725</text><rect x=\"362\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">838</text><rect x=\"432\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"512\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">59566</text><rect x=\"592\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0</text><rect x=\"2\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"82\" y=\"56\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">56</text><rect x=\"142\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">86</text><rect x=\"212\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">43</text><rect x=\"282\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">80</text><rect x=\"362\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">38</text><rect x=\"432\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32</text><rect x=\"512\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13554</text><rect x=\"592\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">145</text><rect x=\"2\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"82\" y=\"82\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5474</text><rect x=\"142\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">64501</text><rect x=\"212\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1634</text><rect x=\"282\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6880</text><rect x=\"362\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">143</text><rect x=\"432\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">128</text><rect x=\"512\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35976</text><rect x=\"592\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1602</text><rect x=\"2\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"82\" y=\"108\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2376</text><rect x=\"142\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">34550</text><rect x=\"212\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1883</text><rect x=\"282\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11169</text><rect x=\"362\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">18469</text><rect x=\"432\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">940</text><rect x=\"512\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8996</text><rect x=\"592\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6487</text><rect x=\"2\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">戊</text><rect x=\"82\" y=\"134\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2570</text><rect x=\"142\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">54810</text><rect x=\"212\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9548</text><rect x=\"282\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">145270</text><rect x=\"362\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12442</text><rect x=\"432\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">182</text><rect x=\"512\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">102293</text><rect x=\"592\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1769</text></svg>",
+    "blanks": [
+      "甲"
+    ],
+    "blankLabels": [
+      "大洲代號"
+    ],
+    "explanation": "歐洲完全位於北半球。甲沒有咖啡、可可等熱帶作物，小麥、馬鈴薯面積大，是歐洲。"
+  },
+  {
+    "id": "102-ast-geo-non-3-2",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、表(五)為2011年亞洲、非洲、歐洲、美洲、大洋洲等五大洲的八種作物種植面積資料（單位：千公頃）。\n\n2. 表中乙大洲的小麥，以該大洲的哪個國家境內種植面積最廣？（2 分）",
+    "svg": "<svg viewBox=\"0 0 664 164\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">大洲代號</text><rect x=\"82\" y=\"4\" width=\"60\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">咖啡</text><rect x=\"142\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">玉米</text><rect x=\"212\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">馬鈴薯</text><rect x=\"282\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">稻米</text><rect x=\"362\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">小米</text><rect x=\"432\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">塊莖作物</text><rect x=\"512\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">小麥</text><rect x=\"592\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">可可豆</text><rect x=\"2\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"82\" y=\"30\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0</text><rect x=\"142\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">16451</text><rect x=\"212\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6140</text><rect x=\"282\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">725</text><rect x=\"362\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">838</text><rect x=\"432\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"512\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">59566</text><rect x=\"592\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0</text><rect x=\"2\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"82\" y=\"56\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">56</text><rect x=\"142\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">86</text><rect x=\"212\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">43</text><rect x=\"282\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">80</text><rect x=\"362\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">38</text><rect x=\"432\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32</text><rect x=\"512\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13554</text><rect x=\"592\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">145</text><rect x=\"2\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"82\" y=\"82\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5474</text><rect x=\"142\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">64501</text><rect x=\"212\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1634</text><rect x=\"282\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6880</text><rect x=\"362\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">143</text><rect x=\"432\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">128</text><rect x=\"512\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35976</text><rect x=\"592\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1602</text><rect x=\"2\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"82\" y=\"108\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2376</text><rect x=\"142\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">34550</text><rect x=\"212\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1883</text><rect x=\"282\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11169</text><rect x=\"362\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">18469</text><rect x=\"432\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">940</text><rect x=\"512\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8996</text><rect x=\"592\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6487</text><rect x=\"2\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">戊</text><rect x=\"82\" y=\"134\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2570</text><rect x=\"142\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">54810</text><rect x=\"212\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9548</text><rect x=\"282\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">145270</text><rect x=\"362\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12442</text><rect x=\"432\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">182</text><rect x=\"512\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">102293</text><rect x=\"592\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1769</text></svg>",
+    "blanks": [
+      "澳洲（澳大利亞）"
+    ],
+    "blankLabels": [
+      "國家"
+    ],
+    "explanation": "乙各作物面積都小、只有小麥多，是大洋洲；小麥主要種在澳洲東南部與西南部的小麥帶。"
+  },
+  {
+    "id": "102-ast-geo-non-3-3",
+    "examType": "分科/指考",
+    "year": 102,
+    "subject": "地理",
+    "type": "fill",
+    "points": 4,
+    "selfGrade": true,
+    "question": "三、表(五)為2011年亞洲、非洲、歐洲、美洲、大洋洲等五大洲的八種作物種植面積資料（單位：千公頃）。\n\n3. 表中哪個代號為非洲？（2 分）並說明你選擇該代號為非洲的一項理由？（2 分）（說明理由時，並非呈現作物種植面積的數據大小，而是指造成該種植面積數據大小的原因；另外，多寫有誤時則不給分）",
+    "svg": "<svg viewBox=\"0 0 664 164\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">大洲代號</text><rect x=\"82\" y=\"4\" width=\"60\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">咖啡</text><rect x=\"142\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">玉米</text><rect x=\"212\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">馬鈴薯</text><rect x=\"282\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">稻米</text><rect x=\"362\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">小米</text><rect x=\"432\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">塊莖作物</text><rect x=\"512\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">小麥</text><rect x=\"592\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">可可豆</text><rect x=\"2\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"82\" y=\"30\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0</text><rect x=\"142\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">16451</text><rect x=\"212\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6140</text><rect x=\"282\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">725</text><rect x=\"362\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">838</text><rect x=\"432\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"512\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">59566</text><rect x=\"592\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0</text><rect x=\"2\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"82\" y=\"56\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">56</text><rect x=\"142\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">86</text><rect x=\"212\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">43</text><rect x=\"282\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">80</text><rect x=\"362\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">38</text><rect x=\"432\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">32</text><rect x=\"512\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">13554</text><rect x=\"592\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">145</text><rect x=\"2\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"82\" y=\"82\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5474</text><rect x=\"142\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">64501</text><rect x=\"212\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1634</text><rect x=\"282\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6880</text><rect x=\"362\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">143</text><rect x=\"432\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">128</text><rect x=\"512\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35976</text><rect x=\"592\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1602</text><rect x=\"2\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"82\" y=\"108\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2376</text><rect x=\"142\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">34550</text><rect x=\"212\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1883</text><rect x=\"282\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">11169</text><rect x=\"362\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">18469</text><rect x=\"432\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">940</text><rect x=\"512\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8996</text><rect x=\"592\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6487</text><rect x=\"2\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">戊</text><rect x=\"82\" y=\"134\" width=\"60\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2570</text><rect x=\"142\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"177\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">54810</text><rect x=\"212\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9548</text><rect x=\"282\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">145270</text><rect x=\"362\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"397\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">12442</text><rect x=\"432\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"472\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">182</text><rect x=\"512\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"552\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">102293</text><rect x=\"592\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"627\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1769</text></svg>",
+    "blanks": [
+      "丁",
+      "非洲殖民地式經濟色彩濃厚，可可等熱帶栽培作物種植面積名列前茅（或：乾溼季分明，小米、塊莖等耐旱作物面積最大；或：居民以塊莖作物、玉米為主食）"
+    ],
+    "blankLabels": [
+      "代號",
+      "理由"
+    ],
+    "explanation": "丁的可可、小米、塊莖作物面積都是各洲最大，是非洲。理由可任選一項：\n• 殖民地式經濟，熱帶栽培業（可可）發達。\n• 大部分地區乾溼季分明，耐旱的小米、塊莖作物種植多。\n• 居民以塊莖作物、玉米為主食。"
   }
 ]
