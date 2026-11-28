@@ -255079,5 +255079,831 @@
       "特徵二"
     ],
     "explanation": "臺灣山高地狹，河川短小、坡度陡，水流湍急，降雨很快就流入海中，難以蓄留利用。"
+  },
+  {
+    "id": "95-ast-geo-01",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-2 為題組\n物種多樣性是生態保育的重要目標，但過去數十年來，許多物種在數量上快速縮減，甚至瀕臨滅絕；也有些外來種快速繁殖，危害當地農作。請問：\n\n非洲象總數從1970年的250萬頭，驟減至目前的30萬頭左右，其主要原因為何？甲、棲地面積縮減；乙、人類非法獵殺；丙、外來物種侵入；丁、全球氣候變遷",
+    "options": [
+      "甲丙",
+      "乙丁",
+      "甲乙",
+      "丙丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "人口增加、農地開墾使大象棲地縮小（甲），盜獵象牙使數量銳減（乙）。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-geo-02",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-2 為題組\n物種多樣性是生態保育的重要目標，但過去數十年來，許多物種在數量上快速縮減，甚至瀕臨滅絕；也有些外來種快速繁殖，危害當地農作。請問：\n\n福壽螺原產於南美洲，二十幾年前以金寶螺之名引進台灣養殖，供為食用，但因口感不佳，遭業者棄置於排水溝或灌溉渠道中，而此環境正好適合牠的生存和繁殖，於是成為強勢物種，危害其他農作物的生長。福壽螺對台灣何種作物危害最深？",
+    "options": [
+      "甘藷",
+      "水稻",
+      "甘蔗",
+      "玉米"
+    ],
+    "answerIndex": 1,
+    "explanation": "福壽螺生活在水田與灌溉渠道中，啃食水稻秧苗，危害最深。其餘是旱作。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-geo-03",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "3-4 為題組\n台灣南部某化工廠位在溪流的出海口附近，二十幾年前關廠時，曾將大量化工產品封存在廠區內，但未做好管理和環境監測。廠區的土壤近年檢測出含有戴奧辛，附近居民體內也發現該種毒物。請問：\n\n該地土壤中的戴奧辛進入人體的過程與下列何種現象關係最密切？",
+    "options": [
+      "水循環",
+      "潮汐變化",
+      "侵蝕輪迴",
+      "大氣環流"
+    ],
+    "answerIndex": 0,
+    "explanation": "戴奧辛隨雨水逕流與地下水進入溪流、魚塭與近海，經魚貝類累積再被人食用，與水循環關係最密切。\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-geo-04",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "3-4 為題組\n台灣南部某化工廠位在溪流的出海口附近，二十幾年前關廠時，曾將大量化工產品封存在廠區內，但未做好管理和環境監測。廠區的土壤近年檢測出含有戴奧辛，附近居民體內也發現該種毒物。請問：\n\n若以污染擴散的概念來思考，上述污染案例的整治，以下列何者最為適當？",
+    "options": [
+      "在受污染廠區地表鋪設柏油加以覆蓋",
+      "抽取大量海水沖刷以稀釋污染物濃度",
+      "長時期封閉廠區讓天然雨水稀釋污染",
+      "全面挖除被污染土壤以水泥貯槽暫存"
+    ],
+    "answerIndex": 3,
+    "explanation": "戴奧辛難以分解，沖刷或稀釋只會讓污染擴散。將污染土壤挖除並封存，才能阻斷擴散途徑；覆蓋柏油無法阻止地下水帶走污染。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-geo-05",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "5-6 為題組\n南投陳有蘭溪流經中央山脈，沿岸有許多沖積扇，因其地形坡度相對平緩，有耕地與聚落座落其間。請問：\n\n下列有關沖積扇地形之成因及特徵的敘述，哪些是正確的？甲、河流堆積作用所形成的地形；乙、扇面的坡度一般要比三角洲來得平緩；丙、扇緣地帶常是湧泉出現的地點；丁、沖積扇上的河流可能因分流而呈網狀水系",
+    "options": [
+      "甲乙丙",
+      "甲乙丁",
+      "甲丙丁",
+      "乙丙丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "沖積扇是河流出山口後流速驟減堆積而成（甲）；扇頂伏流的水在扇端湧出成湧泉（丙）；河道常分歧成網狀（丁）。沖積扇坡度比三角洲陡。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-geo-06",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "5-6 為題組\n南投陳有蘭溪流經中央山脈，沿岸有許多沖積扇，因其地形坡度相對平緩，有耕地與聚落座落其間。請問：\n\n新中橫公路開闢後，這裡的菓園和房舍災害頻傳。在沖積扇堆積區最常見哪種自然災害？",
+    "options": [
+      "土石流",
+      "土壤潛移",
+      "落石",
+      "洪患"
+    ],
+    "answerIndex": 0,
+    "explanation": "沖積扇本身就是山區土石沖出谷口堆積的地方；道路開發擾動坡地後，豪雨時土石流沿溪谷衝出，堆積區首當其衝。\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-geo-07",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "7-8 為題組\n大氣平流層的底部有一層臭氧層可以阻隔95%以上來自太陽輻射的紫外線，但在1980年代以後，科學家們觀測到南極上空在春天到初夏時會有臭氧耗損，臭氧層變薄的情形，俗稱臭氧洞。相對地在北極上空的臭氧洞則較不明顯，這是因為南極地區冬天的氣溫遠較北極地區寒冷所致。南極的最暖月約−30°C，最冷月約−60°C，而北極的最暖月約0°C，最冷月約−40°C。請問：\n\n南極發生臭氧洞的時間是每年的幾月？",
+    "options": [
+      "3～6月",
+      "6～9月",
+      "9～12月",
+      "12～3月"
+    ],
+    "answerIndex": 2,
+    "explanation": "題幹說臭氧洞出現在南極「春天到初夏」，南半球春季是 9～11 月，初夏為 12 月。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-geo-08",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "7-8 為題組\n大氣平流層的底部有一層臭氧層可以阻隔95%以上來自太陽輻射的紫外線，但在1980年代以後，科學家們觀測到南極上空在春天到初夏時會有臭氧耗損，臭氧層變薄的情形，俗稱臭氧洞。相對地在北極上空的臭氧洞則較不明顯，這是因為南極地區冬天的氣溫遠較北極地區寒冷所致。南極的最暖月約−30°C，最冷月約−60°C，而北極的最暖月約0°C，最冷月約−40°C。請問：\n\n影響南北極地區氣溫不同的最主要因素為何？",
+    "options": [
+      "海陸差異",
+      "海水溫度",
+      "行星風系的季移",
+      "太陽輻射強度"
+    ],
+    "answerIndex": 0,
+    "explanation": "南極是覆蓋厚冰的大陸，北極是被大陸環繞的海洋。海水比熱大，可調節氣溫，所以北極比南極暖。兩極緯度相同，太陽輻射條件相近。\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-geo-09",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "9-10 為題組\n圖1是台灣某河口三角洲的衛星影像，河口北側的一個小潟湖(L)，因海堤的興築而切成兩半，造就了一個較隱蔽安全的環境，每年有全球過半的黑面琵鷺來此棲息度冬，人們可以透過望遠鏡看到黑面琵鷺站在水中覓食或休息。請問：\n\n圖1中的河流甲是指台灣的哪一河流？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-09.png\" alt=\"圖1 臺灣西南部某河口三角洲衛星影像：河流甲由東向西南入海，河口北側有被海堤切成兩半的小潟湖 L，周圍是大片方格狀魚塭\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "高屏溪",
+      "淡水河",
+      "大肚溪(烏溪)",
+      "曾文溪"
+    ],
+    "answerIndex": 3,
+    "explanation": "黑面琵鷺度冬地在臺南七股，位於曾文溪口北岸的潟湖與魚塭區。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-geo-10",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "9-10 為題組\n圖1是台灣某河口三角洲的衛星影像，河口北側的一個小潟湖(L)，因海堤的興築而切成兩半，造就了一個較隱蔽安全的環境，每年有全球過半的黑面琵鷺來此棲息度冬，人們可以透過望遠鏡看到黑面琵鷺站在水中覓食或休息。請問：\n\n該地區具備下列哪些環境條件而成為吸引黑面琵鷺度冬的棲地？甲、棲地和周邊覓食區食物充裕；乙、棲地為潟湖具阻絕天敵之效；丙、四周有海堤或塭堤提供避風；丁、周邊沒有農漁業活動干擾；戊、有茂密紅樹林供其棲息",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-09.png\" alt=\"圖1 臺灣西南部某河口三角洲衛星影像：河流甲由東向西南入海，河口北側有被海堤切成兩半的小潟湖 L，周圍是大片方格狀魚塭\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙丙",
+      "甲乙丁",
+      "甲丁戊",
+      "丙丁戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "河口與魚塭魚蝦多，食物充裕（甲）；潟湖水域隔絕天敵（乙）；海堤、塭堤可避風（丙）。周邊正是魚塭密布的漁業區；黑面琵鷺在淺水灘地覓食，不靠紅樹林棲息。\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-geo-11",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "11-12 為題組\n北美洲在最近一次的冰期有9%的陸地被冰層所覆蓋。當冰河因全球氣溫上升而逐漸消融時，其搬運的土石碎屑也因堆積而形成各種冰河堆積地形。圖2是美國紐約州威斯波特附近冰河堆積區的地形圖，等高線間距為20呎。請問：\n\n該區最可能是何種冰河堆積地形？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-11.png\" alt=\"圖2 冰河堆積區等高線圖（等高線間距 20 呎，指北朝上）：許多橢圓形小丘成群分布，長軸都呈西北—東南走向；每個小丘西北端等高線較密（較陡）、東南端較疏（較緩）\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "端磧",
+      "鼓丘",
+      "外洗扇",
+      "外洗平原"
+    ],
+    "answerIndex": 1,
+    "explanation": "許多長軸方向一致的橢圓形小丘成群分布，是冰河底部堆積物被冰河塑造成的鼓丘。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-geo-12",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "11-12 為題組\n北美洲在最近一次的冰期有9%的陸地被冰層所覆蓋。當冰河因全球氣溫上升而逐漸消融時，其搬運的土石碎屑也因堆積而形成各種冰河堆積地形。圖2是美國紐約州威斯波特附近冰河堆積區的地形圖，等高線間距為20呎。請問：\n\n這種地形可供辨認當年冰河流動的方向。圖中所顯示的冰河流動方向為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-11.png\" alt=\"圖2 冰河堆積區等高線圖（等高線間距 20 呎，指北朝上）：許多橢圓形小丘成群分布，長軸都呈西北—東南走向；每個小丘西北端等高線較密（較陡）、東南端較疏（較緩）\" style=\"width:100%;max-width:280px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "東南→西北",
+      "西南→東北",
+      "西北→東南",
+      "東北→西南"
+    ],
+    "answerIndex": 2,
+    "explanation": "鼓丘長軸平行於冰河流向，迎冰面（上游端）較陡、背冰面（下游端）緩而尖長。圖中小丘長軸呈西北—東南向，西北端較陡，所以冰河由西北流向東南。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-geo-13",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-15 為題組\n美國東岸北卡州的哈特勒斯角燈塔在1870年完工時，其座標為北緯35度15分14秒，西經75度30分56秒，當時距海岸線約884公尺，但因海岸線往內陸後退，至1990年時海浪已威脅燈塔的安全。管理機構於是在1999年將燈塔往內陸搬遷，新地點的座標為北緯35度15分2秒，西經75度31分44秒。請問：\n\n燈塔大約是朝哪個方向遷移？",
+    "options": [
+      "西南",
+      "東南",
+      "西北",
+      "東北"
+    ],
+    "answerIndex": 0,
+    "explanation": "新址緯度由 15 分 14 秒減為 15 分 2 秒（往南），經度由西經 30 分 56 秒增為 31 分 44 秒（往西），所以往西南遷移。\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-geo-14",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-15 為題組\n美國東岸北卡州的哈特勒斯角燈塔在1870年完工時，其座標為北緯35度15分14秒，西經75度30分56秒，當時距海岸線約884公尺，但因海岸線往內陸後退，至1990年時海浪已威脅燈塔的安全。管理機構於是在1999年將燈塔往內陸搬遷，新地點的座標為北緯35度15分2秒，西經75度31分44秒。請問：\n\n從1870年到1990年間，海岸線每年平均後退的速率大約是多少公尺？",
+    "options": [
+      "2～3",
+      "7～8",
+      "12～13",
+      "17～18"
+    ],
+    "answerIndex": 1,
+    "explanation": "120 年間後退約 884 公尺，$884 \\div 120 \\approx 7.4$ 公尺／年。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-geo-15",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "13-15 為題組\n美國東岸北卡州的哈特勒斯角燈塔在1870年完工時，其座標為北緯35度15分14秒，西經75度30分56秒，當時距海岸線約884公尺，但因海岸線往內陸後退，至1990年時海浪已威脅燈塔的安全。管理機構於是在1999年將燈塔往內陸搬遷，新地點的座標為北緯35度15分2秒，西經75度31分44秒。請問：\n\n假設這段海岸線後退的原因單純為海水面上升，且原燈塔設立位置往外海方向的坡降維持1：2500，則1870年到1990年間，海水面每一百年平均上升速率大約是多少公分？",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "answerIndex": 2,
+    "explanation": "水平後退 884 公尺，坡降 1：2500，海面上升 $884 \\div 2500 \\approx 0.354$ 公尺 = 35.4 公分（120 年），每百年約 $35.4 \\times \\frac{100}{120} \\approx 29.5$ 公分。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-geo-16",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "16-18 為題組\n圖3為溫帶地區四個測站的氣候資料，圖中的點符號代表各站每月的氣溫及雨量值，每站各點的連線可顯示所在地區全年的氣溫及雨量的變化，不同的氣候類型在氣候圖上會有特定的分布型態。請問：\n\n溫帶海洋性氣候最可能分布於下列哪地？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-16.png\" alt=\"圖3 四測站月均溫（橫軸 −20～30℃）與月雨量（縱軸 0～120 mm）圖：甲由（約 10℃，70 mm）延伸到（約 27℃，5 mm），氣溫愈高雨量愈少；乙集中在 5～15℃、雨量 80～110 mm；丙約 −10～18℃，雨量 35～95 mm，夏季雨量較多；丁約 −13～25℃，雨量 10～35 mm\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "溫帶海洋性氣候冬暖夏涼、全年有雨。乙的月均溫在 5～15℃，月雨量全年都在 80 mm 以上，最符合。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-geo-17",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "16-18 為題組\n圖3為溫帶地區四個測站的氣候資料，圖中的點符號代表各站每月的氣溫及雨量值，每站各點的連線可顯示所在地區全年的氣溫及雨量的變化，不同的氣候類型在氣候圖上會有特定的分布型態。請問：\n\n「該地的土壤顏色較淡，鹽類豐富，表層含有機質，土色近淡棕色，愈向下層土色就愈淺淡」。此段文字最有可能是描述下列何地的土壤？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-16.png\" alt=\"圖3 四測站月均溫（橫軸 −20～30℃）與月雨量（縱軸 0～120 mm）圖：甲由（約 10℃，70 mm）延伸到（約 27℃，5 mm），氣溫愈高雨量愈少；乙集中在 5～15℃、雨量 80～110 mm；丙約 −10～18℃，雨量 35～95 mm，夏季雨量較多；丁約 −13～25℃，雨量 10～35 mm\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "雨量少、淋溶弱，鹽類累積、有機質少、土色淡，是溫帶半乾燥草原的栗鈣土、棕鈣土。丁全年雨量少（月雨量 10～35 mm）、冬冷夏熱，屬溫帶乾燥氣候。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-geo-18",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "16-18 為題組\n圖3為溫帶地區四個測站的氣候資料，圖中的點符號代表各站每月的氣溫及雨量值，每站各點的連線可顯示所在地區全年的氣溫及雨量的變化，不同的氣候類型在氣候圖上會有特定的分布型態。請問：\n\n下列哪項敘述最能說明甲地的自然植被特性？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-16.png\" alt=\"圖3 四測站月均溫（橫軸 −20～30℃）與月雨量（縱軸 0～120 mm）圖：甲由（約 10℃，70 mm）延伸到（約 27℃，5 mm），氣溫愈高雨量愈少；乙集中在 5～15℃、雨量 80～110 mm；丙約 −10～18℃，雨量 35～95 mm，夏季雨量較多；丁約 −13～25℃，雨量 10～35 mm\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "草類為主，連綿成片，樹木罕見",
+      "葉片呈針狀，樹種單純，四時常綠，冬不落葉",
+      "葉片比較大，且薄而柔軟，夏季枝葉繁茂，冬季落葉",
+      "葉片小且硬，多有蠟質或茸毛，樹皮較厚，能適應乾熱旱季，樹木終年常綠"
+    ],
+    "answerIndex": 3,
+    "explanation": "甲氣溫最高的月份雨量最少，是夏乾冬雨的地中海型氣候，植被為硬葉常綠林。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-geo-19",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "19-20 為題組\n城鄉統合起來形成區域。優質的區域發展必須能促進城鄉的良性互動、均衡發展，使城鄉間在政治、經濟、社會層面上互利分工，構成伙伴的關係。請問：\n\n下列台灣的哪些措施能促進城鄉互動、均衡城鄉的發展？甲、地方道路的鋪建；乙、通訊網絡的建構；丙、重工業區的設置；丁、高速公路的開闢；戊、一鄉一特色的產業發展",
+    "options": [
+      "丙丁戊",
+      "甲丙戊",
+      "甲乙戊",
+      "乙丙丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "地方道路連通城鄉（甲）、通訊網絡縮短資訊落差（乙）、一鄉一特色帶動鄉村產業（戊）。重工業區、高速公路主要服務都市與大型產業，未必均衡城鄉。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-geo-20",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "19-20 為題組\n城鄉統合起來形成區域。優質的區域發展必須能促進城鄉的良性互動、均衡發展，使城鄉間在政治、經濟、社會層面上互利分工，構成伙伴的關係。請問：\n\n很多開發中國家的主要都市規模很大，這些都市中心地區的公共設施及景觀常不比已開發國家遜色，但在都市邊緣常有從鄉村移入的人口聚集，形成龐大違建區。這種現象是因為這些國家在規劃區域發展時，城鄉之間的資源分配出現以下哪種狀況所致？",
+    "options": [
+      "資源分配集中於鄉村",
+      "資源集中於全國性的基礎建設",
+      "資源平均分配於鄉村和都市",
+      "資源集中分配於重要都市"
+    ],
+    "answerIndex": 3,
+    "explanation": "資源集中在少數大都市（首要都市），鄉村發展落後，鄉村人口大量湧入都市，在邊緣形成貧民窟。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-geo-21",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-22 為題組\n依據聯合國的人口統計資料，可發現第二次世界大戰後，各地人口急增，但都市化程度高低不一(圖4)。請問：\n\n圖中甲、乙、丙、丁依序是哪四個地區？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-21.png\" alt=\"圖4 都市人口百分比（1950～2005）：甲由約 65% 升到約 81%，始終最高；乙由約 27% 急升到約 65%；世界由約 29% 升到約 48%；丙由約 15% 升到約 43%；丁由約 5% 升到約 27%，始終最低\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "南歐、北非、南美、南非",
+      "南歐、南美、北非、南非",
+      "西歐、西亞、東南亞、東非",
+      "西歐、東南亞、西亞、東非"
+    ],
+    "answerIndex": 2,
+    "explanation": "甲早已高度都市化，是西歐；乙戰後快速上升，是石油帶動的西亞；丙中低程度，是東南亞；丁最低，是東非。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-geo-22",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-22 為題組\n依據聯合國的人口統計資料，可發現第二次世界大戰後，各地人口急增，但都市化程度高低不一(圖4)。請問：\n\n西亞都市化程度的變化與下列何者關係最密切？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-21.png\" alt=\"圖4 都市人口百分比（1950～2005）：甲由約 65% 升到約 81%，始終最高；乙由約 27% 急升到約 65%；世界由約 29% 升到約 48%；丙由約 15% 升到約 43%；丁由約 5% 升到約 27%，始終最低\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "農村勞動力不足，引進外勞",
+      "廉價農產品進口，促成農業轉型",
+      "實施耕者有其田，提升農民經濟生活",
+      "石油帶動經濟發展，大量國外人口移入"
+    ],
+    "answerIndex": 3,
+    "explanation": "西亞產油國靠石油收入快速建設都市，並吸引大量外籍勞工移入都市，都市化程度急速上升。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-geo-23",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "23-25 為題組\n表1為近年中國、印度、俄羅斯、巴西的基本資料。請問：\n\n<svg viewBox=\"0 0 554 176\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"190\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">國家</text><rect x=\"192\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"282\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"372\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"417\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"462\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"507\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"2\" y=\"32\" width=\"190\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">人口數（千人）</text><rect x=\"192\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">186,405</text><rect x=\"282\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,103,371</text><rect x=\"372\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"417\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">143,202</text><rect x=\"462\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"507\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1,315,844</text><rect x=\"2\" y=\"60\" width=\"190\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">五歲以下兒童死亡率（‰）</text><rect x=\"192\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35</text><rect x=\"282\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">87</text><rect x=\"372\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"417\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">21</text><rect x=\"462\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"507\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">37</text><rect x=\"2\" y=\"88\" width=\"190\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">面積（平方公里）</text><rect x=\"192\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">850萬</text><rect x=\"282\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">330萬</text><rect x=\"372\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"417\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1710萬</text><rect x=\"462\" y=\"88\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"507\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">960萬</text><rect x=\"2\" y=\"116\" width=\"190\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">國內生產毛額（美元）</text><rect x=\"192\" y=\"116\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">5057億</text><rect x=\"282\" y=\"116\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6006億</text><rect x=\"372\" y=\"116\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"417\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4301億</text><rect x=\"462\" y=\"116\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"507\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1.4兆</text><rect x=\"2\" y=\"144\" width=\"190\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">國外直接投資（美元）</text><rect x=\"192\" y=\"144\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"237\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">101億</text><rect x=\"282\" y=\"144\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"327\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">43億</text><rect x=\"372\" y=\"144\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"417\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">80億</text><rect x=\"462\" y=\"144\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"507\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">535億</text></svg>\n\n表1中的甲、乙、丙、丁依序是哪些國家？",
+    "options": [
+      "巴西、印度、俄羅斯、中國",
+      "印度、俄羅斯、中國、巴西",
+      "中國、巴西、印度、俄羅斯",
+      "俄羅斯、印度、巴西、中國"
+    ],
+    "answerIndex": 0,
+    "explanation": "丁人口最多、外資最多，是中國；乙人口第二、兒童死亡率最高，是印度；丙面積最大，是俄羅斯；甲面積 850 萬平方公里，是巴西。\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-geo-24",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "23-25 為題組\n表1為近年中國、印度、俄羅斯、巴西的基本資料。請問：\n\n最近我國政府積極鼓勵國內產業進駐印度，尤其以邦加羅(Bangalore)的工業園區最受矚目。若以自然災害的角度來考量設廠區位，邦加羅較圖5中M城更具有下列哪項顯著優勢？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-24.png\" alt=\"圖5 印度地圖：M 城位於東北部恆河三角洲附近的沿海（加爾各答）；邦加羅位於南部德干高原上\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "山崩較少",
+      "沙暴較少",
+      "洪患較少",
+      "土石流較少"
+    ],
+    "answerIndex": 2,
+    "explanation": "M 城（加爾各答）位於恆河三角洲低地，季風雨與熱帶氣旋常造成洪水；邦加羅位在德干高原上，地勢高，洪患較少。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-geo-25",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "23-25 為題組\n表1為近年中國、印度、俄羅斯、巴西的基本資料。請問：\n\n當前許多國家致力於區域結盟來擴大經濟實力。中國亟欲參與哪個國際組織的運作，以加速中國西南地區的發展？",
+    "options": [
+      "亞太經濟合作會議",
+      "歐洲聯盟",
+      "東南亞國協",
+      "世界貿易組織"
+    ],
+    "answerIndex": 2,
+    "explanation": "中國西南（雲南、廣西）與東南亞相鄰，參與東協合作（東協加一自由貿易區）可帶動西南地區發展。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-geo-26",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "26-27 為題組\n台灣自1970年代後，由於快速工業化與都市化，使耕地面積與作物種植面積產生變化。表2為1999年與2004年全台及各區作物種植總面積、耕地總面積及複種指數（面積單位：千公頃；「種植」為作物種植總面積，「耕地」為耕地總面積，「複種」為複種指數 %）。說明：同一年在同一塊農地上種植二次或以上稱為複種；複種指數是將作物種植總面積除以耕地總面積，再乘以100。請問：\n\n<svg viewBox=\"0 0 516 176\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"56\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">地區</text><rect x=\"58\" y=\"4\" width=\"76\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"96\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">種植1999</text><rect x=\"134\" y=\"4\" width=\"76\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">種植2004</text><rect x=\"210\" y=\"4\" width=\"76\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"248\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">耕地1999</text><rect x=\"286\" y=\"4\" width=\"76\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"324\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">耕地2004</text><rect x=\"362\" y=\"4\" width=\"76\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"400\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">複種1999</text><rect x=\"438\" y=\"4\" width=\"76\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"476\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">複種2004</text><rect x=\"2\" y=\"32\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">全台</text><rect x=\"58\" y=\"32\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"96\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">931</text><rect x=\"134\" y=\"32\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">737</text><rect x=\"210\" y=\"32\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"248\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">855</text><rect x=\"286\" y=\"32\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"324\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">836</text><rect x=\"362\" y=\"32\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"400\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">108.8</text><rect x=\"438\" y=\"32\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"476\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">88.2</text><rect x=\"2\" y=\"60\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"58\" y=\"60\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"96\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">343</text><rect x=\"134\" y=\"60\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">266</text><rect x=\"210\" y=\"60\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"248\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">312</text><rect x=\"286\" y=\"60\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"324\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">306</text><rect x=\"362\" y=\"60\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"400\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">109.4</text><rect x=\"438\" y=\"60\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"476\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">86.9</text><rect x=\"2\" y=\"88\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"58\" y=\"88\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"96\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">72</text><rect x=\"134\" y=\"88\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">63</text><rect x=\"210\" y=\"88\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"248\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">94</text><rect x=\"286\" y=\"88\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"324\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">94</text><rect x=\"362\" y=\"88\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"400\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">76.6</text><rect x=\"438\" y=\"88\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"476\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">67.0</text><rect x=\"2\" y=\"116\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"58\" y=\"116\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"96\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">147</text><rect x=\"134\" y=\"116\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">88</text><rect x=\"210\" y=\"116\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"248\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">175</text><rect x=\"286\" y=\"116\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"324\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">171</text><rect x=\"362\" y=\"116\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"400\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">84.0</text><rect x=\"438\" y=\"116\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"476\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">51.5</text><rect x=\"2\" y=\"144\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"58\" y=\"144\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"96\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">367</text><rect x=\"134\" y=\"144\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">319</text><rect x=\"210\" y=\"144\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"248\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">273</text><rect x=\"286\" y=\"144\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"324\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">265</text><rect x=\"362\" y=\"144\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"400\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">134.4</text><rect x=\"438\" y=\"144\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"476\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">120.4</text></svg>\n\n表中數據顯示1999與2004年間台灣各區農地利用變遷，其共同特性是：",
+    "options": [
+      "農地廢耕、休耕是各地區普遍現象",
+      "農民多將耕地改種為多年生作物",
+      "各地區耕地大量被改為非農業用地",
+      "各地區的農地經營集約度均下降"
+    ],
+    "answerIndex": 3,
+    "explanation": "各區複種指數都下降，表示同一塊地種植的次數減少，經營集約度降低。乙的作物種植面積仍小於耕地且耕地不變，耕地減少的幅度也都很小，不是「大量」變更。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-geo-27",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "26-27 為題組\n台灣自1970年代後，由於快速工業化與都市化，使耕地面積與作物種植面積產生變化。表2為1999年與2004年全台及各區作物種植總面積、耕地總面積及複種指數（面積單位：千公頃；「種植」為作物種植總面積，「耕地」為耕地總面積，「複種」為複種指數 %）。說明：同一年在同一塊農地上種植二次或以上稱為複種；複種指數是將作物種植總面積除以耕地總面積，再乘以100。請問：\n\n<svg viewBox=\"0 0 516 176\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"56\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">地區</text><rect x=\"58\" y=\"4\" width=\"76\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"96\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">種植1999</text><rect x=\"134\" y=\"4\" width=\"76\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">種植2004</text><rect x=\"210\" y=\"4\" width=\"76\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"248\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">耕地1999</text><rect x=\"286\" y=\"4\" width=\"76\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"324\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">耕地2004</text><rect x=\"362\" y=\"4\" width=\"76\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"400\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">複種1999</text><rect x=\"438\" y=\"4\" width=\"76\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"476\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">複種2004</text><rect x=\"2\" y=\"32\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">全台</text><rect x=\"58\" y=\"32\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"96\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">931</text><rect x=\"134\" y=\"32\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">737</text><rect x=\"210\" y=\"32\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"248\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">855</text><rect x=\"286\" y=\"32\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"324\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">836</text><rect x=\"362\" y=\"32\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"400\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">108.8</text><rect x=\"438\" y=\"32\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"476\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">88.2</text><rect x=\"2\" y=\"60\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"58\" y=\"60\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"96\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">343</text><rect x=\"134\" y=\"60\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">266</text><rect x=\"210\" y=\"60\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"248\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">312</text><rect x=\"286\" y=\"60\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"324\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">306</text><rect x=\"362\" y=\"60\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"400\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">109.4</text><rect x=\"438\" y=\"60\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"476\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">86.9</text><rect x=\"2\" y=\"88\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"58\" y=\"88\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"96\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">72</text><rect x=\"134\" y=\"88\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">63</text><rect x=\"210\" y=\"88\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"248\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">94</text><rect x=\"286\" y=\"88\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"324\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">94</text><rect x=\"362\" y=\"88\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"400\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">76.6</text><rect x=\"438\" y=\"88\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"476\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">67.0</text><rect x=\"2\" y=\"116\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"58\" y=\"116\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"96\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">147</text><rect x=\"134\" y=\"116\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">88</text><rect x=\"210\" y=\"116\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"248\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">175</text><rect x=\"286\" y=\"116\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"324\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">171</text><rect x=\"362\" y=\"116\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"400\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">84.0</text><rect x=\"438\" y=\"116\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"476\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">51.5</text><rect x=\"2\" y=\"144\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"30\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"58\" y=\"144\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"96\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">367</text><rect x=\"134\" y=\"144\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"172\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">319</text><rect x=\"210\" y=\"144\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"248\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">273</text><rect x=\"286\" y=\"144\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"324\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">265</text><rect x=\"362\" y=\"144\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"400\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">134.4</text><rect x=\"438\" y=\"144\" width=\"76\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"476\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">120.4</text></svg>\n\n表中何者為台灣北部的農業土地利用數據？",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "北部工商業發達、農業兼業化，複種指數低且下降最多（84.0→51.5），耕地面積又比東部（乙）大，是丙。丁複種指數最高，是南部；甲面積大、複種指數約 100，是中部。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-geo-28",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "28-29 為題組\n由於生產垂直分工及運輸通訊技術進步，使產業可利用不同國家的地理條件，發展專業化生產，促使國際間產生既競爭又合作的經濟關係。請問：\n\n國內某食用油製造廠商在十多年前就跨足海外，於中國深圳建立有專屬碼頭的大花生油廠，在中國、越南等地投資種植花生以掌握製油原料。不過因農產品生產具季節性，為穩定原料能全年供應，數年後該公司還可能到下列哪國成立新的花生生產基地？",
+    "options": [
+      "墨西哥",
+      "阿根廷",
+      "巴基斯坦",
+      "印度"
+    ],
+    "answerIndex": 1,
+    "explanation": "中國、越南在北半球，要錯開收穫季節應選南半球國家，阿根廷是南半球的花生產地。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-geo-29",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "28-29 為題組\n由於生產垂直分工及運輸通訊技術進步，使產業可利用不同國家的地理條件，發展專業化生產，促使國際間產生既競爭又合作的經濟關係。請問：\n\n近年美國製造業大舉關閉國內工廠，將生產基地遷移至國外，使製造業從業人員大批失業，例如2000年至2003年間，製造業失業人數增加了260%，但是2003年的製造業產值仍比2001年略有成長。製造業產值之所以仍有成長應與下列何者關聯最密切？",
+    "options": [
+      "國內供應減少，產品單價提高",
+      "從業員工數減少，人事費用降低",
+      "同業競爭減少，訂單金額增加",
+      "產業升級，勞動生產力提高"
+    ],
+    "answerIndex": 3,
+    "explanation": "低階生產外移，留在國內的是高附加價值產業，自動化提高每位勞工的產值，所以員工減少而產值仍成長。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-geo-30",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-31 為題組\n在自給自足的傳統農村，農民在選擇作物時，首先考慮的是能否保障最低收穫，免於饑饉；其次才是追求較多的產量，以改善生活。請問：\n\n非洲撒赫耳地區的傳統農業不依賴灌溉，僅待天雨；同一塊農地在除草後，會先後混種多種作物，有時可達二十多種，包括多種豆類、瓜類、根莖類和穀類作物。這些作物的生長期長短不一，收穫量也有高低，有淺根的、也有深根的，有需水分較多的、也有耐旱的。這樣的作物組合，主要是為適應哪項氣候環境？",
+    "options": [
+      "熱而乾的旱季",
+      "晝夜溫差大",
+      "降雨集中的夏季",
+      "年雨量變率大"
+    ],
+    "answerIndex": 3,
+    "explanation": "混種需水量與生長期各不相同的作物，是為了在雨量多寡難以預測的情況下分散風險：雨多時喜水作物豐收，雨少時耐旱作物仍有收成。這適應的是年雨量變率大。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-geo-31",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-31 為題組\n在自給自足的傳統農村，農民在選擇作物時，首先考慮的是能否保障最低收穫，免於饑饉；其次才是追求較多的產量，以改善生活。請問：\n\n「在中國北方灌溉系統不發達的地區，主要作物是小米，雖然小米在正常年份的單位面積產量略少，但因其耐旱可在旱年時也能有所收穫，但其它作物則可能會粒穀無收」。根據上述說法，這些地區小米與其它作物個別的單位面積產量的次數分配曲線最接近於下列哪幅圖？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-31.png\" alt=\"四幅單位面積產量（橫軸）—年數（縱軸）次數分配圖：(A) 小米曲線高而窄、位置偏右（產量較高），其他作物曲線低而寬、偏左；(B) 其他作物曲線高而窄、偏左，小米曲線低而寬、偏右；(C) 其他作物曲線高而窄、偏右，小米曲線低而寬、偏左；(D) 小米曲線高而窄、位置略偏左（平均產量略低），其他作物曲線低而寬、偏右，左端延伸到接近零產量\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖(A)",
+      "圖(B)",
+      "圖(C)",
+      "圖(D)"
+    ],
+    "answerIndex": 3,
+    "explanation": "小米產量穩定，分布集中（曲線高而窄），平均略低（略偏左）；其他作物正常年產量較高（偏右），但旱年可能無收，分布分散且左端延伸到接近零（曲線低而寬）。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-geo-32",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "32-33 為題組\nGIS網格資料結構與矩陣結構相似，具運算的效率性，普遍用於GIS空間分析。請問：\n\n下列GIS向量資料與網格資料的轉換關係哪些正確？甲、土壤；乙、人口數；丙、人口密度；丁、稻米單位產量",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-32.png\" alt=\"四組向量轉網格示意：甲 土壤—向量為 I、II 兩區，網格為 I II / I II；乙 人口數—向量兩區分別為 100、200，網格為 100 200 / 100 200；丙 人口密度—向量兩區 100、200，網格為 100 200 / 100 200；丁 稻米單位產量—向量兩區 100、200，網格為 50 100 / 50 100\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙",
+      "乙丁",
+      "甲丙",
+      "丙丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "土壤類別、人口密度、單位產量都是「每單位面積」的屬性，切成網格後數值不變，所以甲、丙正確，丁不應減半。人口數是總量，區域分成兩格時應分攤（例如 50、100），乙沿用原值會使總數加倍，錯誤。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-geo-33",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "32-33 為題組\nGIS網格資料結構與矩陣結構相似，具運算的效率性，普遍用於GIS空間分析。請問：\n\n表3網格資料I中的甲、乙、丙、丁是四塊土地的代碼，網格資料II中的M為新建捷運站位置，網格資料III為目前地價，如果地價隨著離捷運站的距離而變化，計算式為：新地價＝原地價×(1＋1/距離)。假設相鄰方格距離為1，斜角方格距離為1.4，則捷運站完工後，何處地價最高？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-33.png\" alt=\"表3 三個 4×4 網格：I 中甲在第 2 列第 2 行、乙在第 2 列第 3 行、丙在第 3 列第 2 行、丁在第 3 列第 3 行；II 中 M 在第 1 列第 2、4 行與第 4 列第 2、4 行；III 地價逐列為 10 10 20 15／15 10 20 15／15 15 10 15／15 15 15 20\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "原地價：甲 10、乙 20、丙 15、丁 10。以最近的捷運站計算：甲距 1，$10 \\times 2 = 20$；乙斜角 1.4，$20 \\times (1 + \\frac{1}{1.4}) \\approx 34.3$；丙距 1，$15 \\times 2 = 30$；丁斜角 1.4，$10 \\times 1.71 \\approx 17.1$。乙最高。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-geo-34",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "34-35 為題組\n圖6為某年台灣北部新婚的外籍新娘原居地的圓餅地圖。請問：\n\n從地圖上所提供的資訊，新婚外籍新娘的分布，下列敘述哪個正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-34.png\" alt=\"圖6 臺灣北部各縣市新婚外籍新娘圓餅圖（圓面積表示人數，淺色為大陸新娘、深色為其他國籍新娘）：台北縣的圓最大，桃園縣次之，台北市第三；基隆市圓小；新竹縣、苗栗縣、宜蘭縣的圓小且大小相近、多為大陸新娘；新竹市的圓最小\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "台北市的大陸新娘最多",
+      "桃園縣與苗栗縣的大陸新娘數目大約相同",
+      "宜蘭縣與新竹縣的大陸新娘數目大約相同",
+      "基隆市的大陸新娘數目比台北縣多"
+    ],
+    "answerIndex": 2,
+    "explanation": "宜蘭縣與新竹縣的圓大小相近，淺色（大陸新娘）比例也相近，數目大約相同。台北縣的圓最大，大陸新娘最多；桃園縣比苗栗縣大得多。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-geo-35",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "34-35 為題組\n圖6為某年台灣北部新婚的外籍新娘原居地的圓餅地圖。請問：\n\n哪個縣市的新婚外籍新娘數目最少？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-34.png\" alt=\"圖6 臺灣北部各縣市新婚外籍新娘圓餅圖（圓面積表示人數，淺色為大陸新娘、深色為其他國籍新娘）：台北縣的圓最大，桃園縣次之，台北市第三；基隆市圓小；新竹縣、苗栗縣、宜蘭縣的圓小且大小相近、多為大陸新娘；新竹市的圓最小\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "台北市",
+      "新竹市",
+      "宜蘭縣",
+      "桃園縣"
+    ],
+    "answerIndex": 1,
+    "explanation": "新竹市的圓最小。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-geo-36",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n2005年油價飆漲，美國希望石油輸出國家組織(OPEC)採取措施支持世界經濟的增長，圖7為近年美國輕原油期貨價格圖。請問：\n\n圖中甲處的油價高峰與下列哪一因素有關？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-36.png\" alt=\"圖7 美國輕原油期貨價格（2003 年 9 月～2006 年，美元／桶）：由約 30 美元逐步上升；甲標在 2005 年 9 月前後一個近 70 美元的尖峰；之後回落，2006 年中再升到約 70 美元以上\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "石油生產國家缺少資金與勞力",
+      "自然災害毀損美國的煉油設備",
+      "石油輸出國發生大地震與風暴",
+      "美洲新興國家經濟成長太快速"
+    ],
+    "answerIndex": 1,
+    "explanation": "2005 年 8 月底卡崔娜颶風重創墨西哥灣沿岸，美國的煉油廠與油田設施受損，油價飆到近 70 美元。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-geo-37",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n2005年油價飆漲，美國希望石油輸出國家組織(OPEC)採取措施支持世界經濟的增長，圖7為近年美國輕原油期貨價格圖。請問：\n\n下列何者為OPEC成員國？",
+    "options": [
+      "挪威、巴西、澳洲",
+      "敘利亞、黎巴嫩、俄羅斯",
+      "南非、印度、墨西哥",
+      "奈及利亞、伊朗、委內瑞拉"
+    ],
+    "answerIndex": 3,
+    "explanation": "奈及利亞、伊朗、委內瑞拉都是 OPEC 成員。挪威、俄羅斯、墨西哥雖產油但不是成員。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-geo-38",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n2005年油價飆漲，美國希望石油輸出國家組織(OPEC)採取措施支持世界經濟的增長，圖7為近年美國輕原油期貨價格圖。請問：\n\n基於國際油價居高不下，近來一些石化業者想到中國大陸設置輕油裂解廠，主要是考量中國大陸擁有哪些條件？甲、原料產量豐富；乙、消費市場廣大；丙、外籍勞工充足；丁、環保限制較少",
+    "options": [
+      "甲丙",
+      "乙丁",
+      "甲丁",
+      "乙丙"
+    ],
+    "answerIndex": 1,
+    "explanation": "中國石化產品需求龐大（乙），且當時環保法規較寬鬆，輕油裂解廠容易設立（丁）。中國原油須大量進口，也不靠外籍勞工。\n\n故選 (B)"
+  },
+  {
+    "id": "95-ast-geo-39",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "39-40 為題組\n圖8是二萬五千分之一地形圖。請問：\n\n小明看著前方座標為(256500,2748150)的山頭。他以目視法估計山頭約在其北偏東30度，且距離1公里處。小明可能站在地圖上的哪個地點？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-39.png\" alt=\"圖8 二萬五千分之一地形圖（座標方格每格 1 公里）：縱線 256、257，橫線 2747、2748；甲位於 256 縱線稍東、2747 橫線上方約 0.3 公里處；乙在 256 縱線西側稍北；丙在甲東方約 0.5 公里；丁在 256 縱線西方約 0.5 公里\" style=\"width:100%;max-width:400px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "由山頭往回推：小明在山頭的南偏西 30°、1 公里處。東西方向 $256500 - 1000 \\sin 30^\\circ = 256000$，南北方向 $2748150 - 1000 \\cos 30^\\circ \\approx 2747284$，即 256 縱線上、2747 橫線北方約 0.3 公里處，是甲。\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-geo-40",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "39-40 為題組\n圖8是二萬五千分之一地形圖。請問：\n\n圖9是某山頭的等高線圖。下列何者是圖上橫虛線ab的地形剖面？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-40a.png\" alt=\"圖9 某山頭等高線圖：虛線由 a（東南）越過山頂到 b（西北）；山頂靠近 a 側，a 側等高線密集、b 側較疏\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-40.png\" alt=\"四個 ab 剖面：(A) 山頂偏 a 側，a 側坡較陡、b 側坡較緩；(B) 山頂偏 b 側，a 側較緩、b 側較陡；(C) 有兩個峰頂；(D) 山頂在中央，兩側坡度對稱\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "圖(A)",
+      "圖(B)",
+      "圖(C)",
+      "圖(D)"
+    ],
+    "answerIndex": 0,
+    "explanation": "虛線只越過一個山頂，且山頂靠近 a 端：a 側等高線密集，坡較陡；b 側等高線較疏，坡較緩。符合 (A)。\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-geo-non-1-1",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "fill",
+    "points": 6,
+    "selfGrade": true,
+    "question": "一、某學者前往中國西部半乾燥地區進行農村研究，在其日記中記載著某段訪談：「雖是多放羊、多種了地，但是開放前多生了的娃兒，如今年年鬧著分房、分地，大夥還是一個勁地窮。臘月天、新春頭，暖坑的煤球還不行痛快地買，大鍋灶只好挪動牛糞和禾稈對付著，這麼著開春撒田的大肥也就更稀鬆了，土不肥收成就不會好到那去，如今糧不夠也不作興搞運動，去開那石頭沙子地了，那可是折騰人哪；還有牛羊總不能餓著，屋角的株稈明擺著就是不夠，想捱到草苗透青怕是沒指望了，總不成到時任著羊兒扒雪囓根？這可是咱們的命根哪！或許領導也聽著了，下莊裏來說甚麼東北的豆子積滯，要撥些到各鄉來，這下可好了，牲口可不會餓著了」。依據上述，可將該地「人口－生活能源－沙漠化」的關聯整理為圖10。\n\n1. 請針對方格(B)、(J)、(M)分別寫出適當的詞句。（6 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-non1.png\" alt=\"圖10 流程圖：A 人口增加 → B（空格）→ C 平均收入減少 → D 購煤能力下降；A → E 能源消費量增加；D、E → F 株稈燃料量增加、G 柴薪耗量增加、H 燒煤量增加、I 燒畜糞量增加；F → J（空格）→ L 草地超限放牧；G → O 林木減少；I → K 農田施肥量減少 → M（空格）→ N 荒地開墾農地增加；L、O、N → P 沙漠化擴大，P 再回饋到 J、M\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "平均每人耕地減少",
+      "牧草減少",
+      "單位面積農產量下降"
+    ],
+    "blankLabels": [
+      "B",
+      "J",
+      "M"
+    ],
+    "explanation": "B：人口增加、年年「分房、分地」，每人分到的耕地變少，所以平均收入減少。J：株稈拿去當燃料，牲畜的飼料（牧草）不足，只好超限放牧。M：畜糞拿去燒，農田施肥減少，「土不肥收成就不會好」，單位面積產量下降，只好開墾荒地。"
+  },
+  {
+    "id": "95-ast-geo-non-1-2",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、某學者前往中國西部半乾燥地區進行農村研究，在其日記中記載著某段訪談：「雖是多放羊、多種了地，但是開放前多生了的娃兒，如今年年鬧著分房、分地，大夥還是一個勁地窮。臘月天、新春頭，暖坑的煤球還不行痛快地買，大鍋灶只好挪動牛糞和禾稈對付著，這麼著開春撒田的大肥也就更稀鬆了，土不肥收成就不會好到那去，如今糧不夠也不作興搞運動，去開那石頭沙子地了，那可是折騰人哪；還有牛羊總不能餓著，屋角的株稈明擺著就是不夠，想捱到草苗透青怕是沒指望了，總不成到時任著羊兒扒雪囓根？這可是咱們的命根哪！或許領導也聽著了，下莊裏來說甚麼東北的豆子積滯，要撥些到各鄉來，這下可好了，牲口可不會餓著了」。依據上述，可將該地「人口－生活能源－沙漠化」的關聯整理為圖10。\n\n2. 根據上文，該地為維持牧地生產力，解決方格(L)草地超限放牧所導致的環境問題，政府想到什麼因應方法？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-non1.png\" alt=\"圖10 流程圖：A 人口增加 → B（空格）→ C 平均收入減少 → D 購煤能力下降；A → E 能源消費量增加；D、E → F 株稈燃料量增加、G 柴薪耗量增加、H 燒煤量增加、I 燒畜糞量增加；F → J（空格）→ L 草地超限放牧；G → O 林木減少；I → K 農田施肥量減少 → M（空格）→ N 荒地開墾農地增加；L、O、N → P 沙漠化擴大，P 再回饋到 J、M\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "從東北輸入（調撥）豆子做為飼料"
+    ],
+    "blankLabels": [
+      "方法"
+    ],
+    "explanation": "文中「東北的豆子積滯，要撥些到各鄉來……牲口可不會餓著了」，即由東北調入豆子當飼料，減輕草地負擔。"
+  },
+  {
+    "id": "95-ast-geo-non-1-3",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、某學者前往中國西部半乾燥地區進行農村研究，在其日記中記載著某段訪談：「雖是多放羊、多種了地，但是開放前多生了的娃兒，如今年年鬧著分房、分地，大夥還是一個勁地窮。臘月天、新春頭，暖坑的煤球還不行痛快地買，大鍋灶只好挪動牛糞和禾稈對付著，這麼著開春撒田的大肥也就更稀鬆了，土不肥收成就不會好到那去，如今糧不夠也不作興搞運動，去開那石頭沙子地了，那可是折騰人哪；還有牛羊總不能餓著，屋角的株稈明擺著就是不夠，想捱到草苗透青怕是沒指望了，總不成到時任著羊兒扒雪囓根？這可是咱們的命根哪！或許領導也聽著了，下莊裏來說甚麼東北的豆子積滯，要撥些到各鄉來，這下可好了，牲口可不會餓著了」。依據上述，可將該地「人口－生活能源－沙漠化」的關聯整理為圖10。\n\n3. 中國政府為減緩方格(A)人口增加所帶來的衝擊，曾嚴格推行何種人口政策？（2 分）",
+    "blanks": [
+      "一胎化政策"
+    ],
+    "blankLabels": [
+      "人口政策"
+    ],
+    "explanation": "中國自 1980 年前後嚴格推行「一胎化」（獨生子女）政策。"
+  },
+  {
+    "id": "95-ast-geo-non-2-1",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、英國為工業革命的先驅，其工業化帶動歐洲的經濟發展，進而改變世界的經濟版圖。二次大戰後，一些傳統的工業都市面臨產業調整的問題，例如昔日有「霧都」之稱的英國都市，工業曾相當發達，但至今許多人仍對1952年12月連日黃霧彌漫的災難記憶猶新，加上工廠設備老舊，所以1970年代以後當局加快產業改造，城內許多工廠或關閉或外遷，騰出來的地方，成為文化事業中心、博物館、新興產業基地、新建住宅區或公園等，並積極培訓人才。\n\n1. 英國工業革命的發生與該國哪一種礦產資源最有關係？（2 分）",
+    "blanks": [
+      "煤礦"
+    ],
+    "blankLabels": [
+      "礦產"
+    ],
+    "explanation": "蒸汽機以煤為燃料，英國豐富的煤礦是工業革命的基礎。"
+  },
+  {
+    "id": "95-ast-geo-non-2-2",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、英國為工業革命的先驅，其工業化帶動歐洲的經濟發展，進而改變世界的經濟版圖。二次大戰後，一些傳統的工業都市面臨產業調整的問題，例如昔日有「霧都」之稱的英國都市，工業曾相當發達，但至今許多人仍對1952年12月連日黃霧彌漫的災難記憶猶新，加上工廠設備老舊，所以1970年代以後當局加快產業改造，城內許多工廠或關閉或外遷，騰出來的地方，成為文化事業中心、博物館、新興產業基地、新建住宅區或公園等，並積極培訓人才。\n\n2. 「霧都」位於圖11中何處？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/95-ast-geo-non2.png\" alt=\"圖11 英國與愛爾蘭地圖：甲在蘇格蘭中部（格拉斯哥一帶）；乙在愛爾蘭東岸（都柏林）；丙在英格蘭中北部（本寧山脈附近）；丁在英格蘭東南部（倫敦）\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "丁"
+    ],
+    "blankLabels": [
+      "位置"
+    ],
+    "explanation": "「霧都」是倫敦，1952 年 12 月發生倫敦煙霧事件；倫敦在英格蘭東南部，即丁。"
+  },
+  {
+    "id": "95-ast-geo-non-2-3",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "fill",
+    "points": 4,
+    "selfGrade": true,
+    "question": "二、英國為工業革命的先驅，其工業化帶動歐洲的經濟發展，進而改變世界的經濟版圖。二次大戰後，一些傳統的工業都市面臨產業調整的問題，例如昔日有「霧都」之稱的英國都市，工業曾相當發達，但至今許多人仍對1952年12月連日黃霧彌漫的災難記憶猶新，加上工廠設備老舊，所以1970年代以後當局加快產業改造，城內許多工廠或關閉或外遷，騰出來的地方，成為文化事業中心、博物館、新興產業基地、新建住宅區或公園等，並積極培訓人才。\n\n3. 二次大戰後，促使「霧都」傳統產業轉型有哪兩項重要原因？（4 分）",
+    "blanks": [
+      "環境污染",
+      "工業區（工廠設備）老化"
+    ],
+    "blankLabels": [
+      "原因一",
+      "原因二"
+    ],
+    "explanation": "題幹提到 1952 年的黃霧災難（環境污染）與「工廠設備老舊」（工業區老化）。"
+  },
+  {
+    "id": "95-ast-geo-non-2-4",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、英國為工業革命的先驅，其工業化帶動歐洲的經濟發展，進而改變世界的經濟版圖。二次大戰後，一些傳統的工業都市面臨產業調整的問題，例如昔日有「霧都」之稱的英國都市，工業曾相當發達，但至今許多人仍對1952年12月連日黃霧彌漫的災難記憶猶新，加上工廠設備老舊，所以1970年代以後當局加快產業改造，城內許多工廠或關閉或外遷，騰出來的地方，成為文化事業中心、博物館、新興產業基地、新建住宅區或公園等，並積極培訓人才。\n\n4. 在部門轉移過程中，該市產業轉移至哪個部門？（2 分）",
+    "blanks": [
+      "第三級產業部門"
+    ],
+    "blankLabels": [
+      "產業部門"
+    ],
+    "explanation": "工廠關閉後改為文化事業、博物館、新興產業、住宅與公園，並培訓人才，由第二級產業轉為第三級（服務業）部門。"
   }
 ]
