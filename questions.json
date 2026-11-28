@@ -229525,5 +229525,403 @@
       "最大利潤"
     ],
     "explanation": "頂點代入 $11x + 12y$：0、220、460、448、360。\n進口甲、乙各 20 台，最大利潤 460 萬元。"
+  },
+  {
+    "id": "106-gsat-math-01",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "points": 5,
+    "question": "1. 已知某校老師玩過「寶可夢」的比率為 $r_1$，而學生玩過的比率為 $r_2$，其中 $r_1 \\ne r_2$。由下列選項中的資訊，請選出可以判定全校師生玩過「寶可夢」的比率之選項。",
+    "options": [
+      "全校老師與學生比率",
+      "全校老師人數",
+      "全校學生人數",
+      "全校師生人數",
+      "全校師生玩過「寶可夢」人數"
+    ],
+    "answerIndex": 0,
+    "explanation": "設老師 $T$ 人、學生 $S$ 人，全校比率 $= \\dfrac{r_1T + r_2S}{T + S} = \\dfrac{r_1\\frac TS + r_2}{\\frac TS + 1}$，只需要知道 $T : S$。\n其他選項單獨都無法決定比例（例如只知總人數或只知玩過人數）。\n\n故選 (A)"
+  },
+  {
+    "id": "106-gsat-math-02",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "points": 5,
+    "question": "2. 某個手機程式，每次點擊螢幕上的數 $a$ 後，螢幕上的數會變成 $a^2$。當一開始時螢幕上的數 $b$ 為正且連續點擊螢幕三次後，螢幕上的數接近 $81^3$。試問實數 $b$ 最接近下列哪一個選項？",
+    "options": [
+      "1.7",
+      "3",
+      "5.2",
+      "9",
+      "81"
+    ],
+    "answerIndex": 2,
+    "explanation": "點三次得 $b^8 = 81^3 = 3^{12}$，$b = 3^{1.5} = 3\\sqrt3 \\approx 5.196$。\n\n故選 (C)"
+  },
+  {
+    "id": "106-gsat-math-03",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "points": 5,
+    "question": "3. 設 $\\Gamma: \\dfrac{y^2}{a^2} - \\dfrac{x^2}{b^2} = 1$ 為坐標平面上一雙曲線，且其通過第一象限的漸近線為 $\\ell$。考慮動點 $(t, t^2)$，從時間 $t = 0$ 時出發。當 $t > 0$ 時，請選出正確的選項。",
+    "options": [
+      "此動點不會碰到 $\\Gamma$，也不會碰到 $\\ell$",
+      "此動點會碰到 $\\Gamma$，但不會碰到 $\\ell$",
+      "此動點會碰到 $\\ell$，但不會碰到 $\\Gamma$",
+      "此動點會先碰到 $\\Gamma$，再碰到 $\\ell$",
+      "此動點會先碰到 $\\ell$，再碰到 $\\Gamma$"
+    ],
+    "answerIndex": 4,
+    "explanation": "動點在拋物線 $y = x^2$ 上；$\\ell: y = \\dfrac abx$；$\\Gamma$ 的上半支在第一象限位於 $\\ell$ 的上方，且 $y \\ge a > 0$。\n• $t$ 很小時，$t^2$ 在 $\\ell$ 與 $\\Gamma$ 的下方。\n• $t = \\dfrac ab$ 時碰到 $\\ell$；之後拋物線成長比直線快，而 $\\Gamma$ 漸近於 $\\ell$，所以拋物線後來會超過 $\\Gamma$，必再碰到 $\\Gamma$。\n因 $\\Gamma$ 在 $\\ell$ 上方，先碰到 $\\ell$。\n\n故選 (E)"
+  },
+  {
+    "id": "106-gsat-math-04",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "points": 5,
+    "question": "4. 在右下圖的正立方體上有兩質點分別自頂點 $A, C$ 同時出發，各自以等速直線運動分別向頂點 $B, D$ 前進，且在 1 秒後分別同時到達 $B, D$。請選出這段時間兩質點距離關係的正確選項。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-gsat-math-04.png\" alt=\"正立方體，A、B、C 在底面，D 在 C 正上方\" style=\"width:100%;max-width:170px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "兩質點的距離固定不變",
+      "兩質點的距離越來越小",
+      "兩質點的距離越來越大",
+      "在 $\\dfrac12$ 秒時兩質點的距離最小",
+      "在 $\\dfrac12$ 秒時兩質點的距離最大"
+    ],
+    "answerIndex": 3,
+    "explanation": "設邊長 1：$A(0,0,0)$、$B(1,0,0)$、$C(1,1,0)$、$D(1,1,1)$。\n$t$ 秒時兩點為 $(t, 0, 0)$、$(1, 1, t)$，距離$^2 = (1 - t)^2 + 1 + t^2 = 2t^2 - 2t + 2$，在 $t = \\dfrac12$ 最小。\n\n故選 (D)"
+  },
+  {
+    "id": "106-gsat-math-05",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "points": 5,
+    "question": "5. 下圖是某城市在 2016 年的各月最低溫（橫軸 $x$）與最高溫（縱軸 $y$）的散佈圖。今以溫差（最高溫減最低溫）為橫軸且最高溫為縱軸重新繪製一散佈圖。試依此選出正確的選項。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-gsat-math-05.png\" alt=\"12 個月的最低溫與最高溫散佈圖，點幾乎排成一條上升直線\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "最高溫與溫差為正相關，且它們的相關性比最高溫與最低溫的相關性強",
+      "最高溫與溫差為正相關，且它們的相關性比最高溫與最低溫的相關性弱",
+      "最高溫與溫差為負相關，且它們的相關性比最高溫與最低溫的相關性強",
+      "最高溫與溫差為負相關，且它們的相關性比最高溫與最低溫的相關性弱",
+      "最高溫與溫差為零相關"
+    ],
+    "answerIndex": 3,
+    "explanation": "由圖讀出溫差：冬季（最低溫 $-12$ 到 $-8$）約 13～17 度，夏季（最低溫 15～20）約 7～8 度。最高溫越高，溫差越小，為負相關。\n原圖的點幾乎在一條直線上（相關係數接近 1），新圖的點較分散，相關性較弱。\n\n故選 (D)"
+  },
+  {
+    "id": "106-gsat-math-06",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "points": 5,
+    "question": "6. 試問有多少個實數 $x$ 滿足 $\\dfrac{\\pi}{2} \\le x \\le \\dfrac{3\\pi}{2}$ 且 $\\cos x^\\circ \\le \\cos x$？",
+    "options": [
+      "0 個",
+      "1 個",
+      "2 個",
+      "4 個",
+      "無窮多個"
+    ],
+    "answerIndex": 0,
+    "explanation": "$x \\in \\left[\\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}\\right]$ 時 $\\cos x \\le 0$；而 $x^\\circ$ 只有約 $1.6^\\circ$～$4.7^\\circ$，$\\cos x^\\circ > 0$。\n所以 $\\cos x^\\circ > \\cos x$ 恆成立，沒有解。\n\n故選 (A)"
+  },
+  {
+    "id": "106-gsat-math-07",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "points": 5,
+    "question": "7. 小明想要安排從星期一到星期五共五天的午餐計畫。他的餐點共有四種選擇：牛肉麵、大滷麵、咖哩飯及排骨飯。小明想要依據下列兩原則來安排他的午餐：（甲）每天只選一種餐點但這五天中每一種餐點至少各點一次；（乙）連續兩天的餐點不能重複且不連續兩天吃麵食。根據上述原則，小明這五天共有幾種不同的午餐計畫？",
+    "options": [
+      "52",
+      "60",
+      "68",
+      "76",
+      "84"
+    ],
+    "answerIndex": 1,
+    "explanation": "麵食日不能相鄰，且兩種麵都要出現：麵食 2 天或 3 天。\n• 3 天麵（一、三、五）：兩種麵都要出現 $2^3 - 2 = 6$；二、四吃飯且兩種飯都要出現 2 種。共 12。\n• 2 天麵：不相鄰的位置 6 組，兩種麵排列 2 種；剩下 3 天吃飯，相鄰兩天不能同飯且兩種都要出現：\n　{一,三}→ 二、四、五：4；{一,四}→ 二、三、五：4；{一,五}→ 二、三、四：2；{二,四}→ 一、三、五：6；{二,五}→ 一、三、四：4；{三,五}→ 一、二、四：4。合計 24，乘 2 得 48。\n共 $12 + 48 = 60$。\n\n故選 (B)"
+  },
+  {
+    "id": "106-gsat-math-08",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 設 $m, n$ 為小於或等於 4 的相異正整數且 $a, b$ 為非零實數。已知函數 $f(x) = ax^m$ 與函數 $g(x) = bx^n$ 的圖形恰有 3 個相異交點，請選出可能的選項。",
+    "options": [
+      "$m, n$ 皆為偶數且 $a, b$ 同號",
+      "$m, n$ 皆為偶數且 $a, b$ 異號",
+      "$m, n$ 皆為奇數且 $a, b$ 同號",
+      "$m, n$ 皆為奇數且 $a, b$ 異號",
+      "$m, n$ 為一奇一偶"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "設 $m > n$：$ax^m = bx^n \\iff x^n(ax^{m-n} - b) = 0$。$x = 0$ 是一個交點，另外需 $x^{m-n} = \\dfrac ba$ 有兩個非零實根，必須 $m - n$ 為偶數且 $\\dfrac ba > 0$。\n即 $m, n$ 同奇偶且 $a, b$ 同號：例如 $m = 4, n = 2$（選項 A）或 $m = 3, n = 1$（選項 C）。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "106-gsat-math-09",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 設 $\\Gamma$ 為坐標平面上的圓，點 $(0, 0)$ 在 $\\Gamma$ 的外部且點 $(2, 6)$ 在 $\\Gamma$ 的內部。請選出正確的選項。",
+    "options": [
+      "$\\Gamma$ 的圓心不可能在第二象限",
+      "$\\Gamma$ 的圓心可能在第三象限且此時 $\\Gamma$ 的半徑必定大於 10",
+      "$\\Gamma$ 的圓心可能在第一象限且此時 $\\Gamma$ 的半徑必定小於 10",
+      "$\\Gamma$ 的圓心可能在 $x$ 軸上且此時圓心的 $x$ 坐標必定小於 10",
+      "$\\Gamma$ 的圓心可能在第四象限且此時 $\\Gamma$ 的半徑必定大於 10"
+    ],
+    "answerIndices": [
+      4
+    ],
+    "explanation": "圓心 $(h, k)$ 到 $(2, 6)$ 比到原點近：$(h - 2)^2 + (k - 6)^2 < h^2 + k^2 \\iff h + 3k > 10$，且半徑介於兩距離之間。\n• (A) 錯誤：例如圓心 $(-1, 5)$。\n• (B) 錯誤：第三象限 $h, k < 0$，不可能 $h + 3k > 10$。\n• (C) 錯誤：圓心可以很遠，例如 $(100, 100)$，半徑大於 10。\n• (D) 錯誤：$k = 0$ 時需 $h > 10$。\n• (E) 正確：$k < 0$ 時 $h > 10 - 3k > 10$，半徑 $> \\sqrt{(h - 2)^2 + (k - 6)^2} > \\sqrt{8^2 + 6^2} = 10$。\n\n故選 (E)"
+  },
+  {
+    "id": "106-gsat-math-10",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 坐標空間中有三直線 $L_1: \\dfrac{x - 1}{2} = \\dfrac{y + 1}{2} = \\dfrac z1$，$L_2: \\begin{cases} x - 2y + 2z = -4 \\\\ x + y - 4z = 5 \\end{cases}$，$L_3: \\begin{cases} x = -t \\\\ y = -2 - t \\\\ z = 4 + 4t \\end{cases}$，$t$ 為實數。請選出正確的選項。",
+    "options": [
+      "$L_1$ 與 $L_2$ 的方向向量互相垂直",
+      "$L_1$ 與 $L_3$ 的方向向量互相垂直",
+      "有一個平面同時包含 $L_1$ 與 $L_2$",
+      "有一個平面同時包含 $L_1$ 與 $L_3$",
+      "有一個平面同時包含 $L_2$ 與 $L_3$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "方向：$L_1$ 為 $(2, 2, 1)$；$L_2$ 為 $(1, -2, 2)\\times(1, 1, -4) = (6, 6, 3) \\parallel (2, 2, 1)$；$L_3$ 為 $(-1, -1, 4)$。\n• (A) 錯誤：$L_1 \\parallel L_2$。\n• (B) 正確：$(2, 2, 1)\\cdot(-1, -1, 4) = 0$。\n• (C) 正確：兩平行線必共平面。\n• (D) 正確：$L_1$ 上 $(1 + 2s, -1 + 2s, s)$ 與 $L_3$ 聯立得 $s = 0$、$t = -1$，交於 $(1, -1, 0)$。\n• (E) 錯誤：$L_3$ 代入 $L_2$ 的兩個方程式分別得 $t = -\\dfrac{16}{9}$、$t = -\\dfrac{23}{18}$，不相交；又不平行，為歪斜線。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "106-gsat-math-11",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 最近數學家發現一種新的可以無縫密舖平面的凸五邊形 $ABCDE$，其示意圖如下。關於這五邊形，請選出正確的選項。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-gsat-math-11.png\" alt=\"五邊形 ABCDE：AB = √6+√2、BC = 2、CD = 4、DE = 2、EA = 2，∠E = 90°、∠A = 105°\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\overline{AD} = 2\\sqrt2$",
+      "$\\angle DAB = 45^\\circ$",
+      "$\\overline{BD} = 2\\sqrt6$",
+      "$\\angle ABD = 45^\\circ$",
+      "$\\triangle BCD$ 的面積為 $2\\sqrt2$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "• (A) 正確：$\\triangle ADE$ 為等腰直角三角形，$\\overline{AD} = 2\\sqrt2$，$\\angle EAD = 45^\\circ$。\n• (B) 錯誤：$\\angle DAB = 105^\\circ - 45^\\circ = 60^\\circ$。\n• (C) 錯誤：$\\overline{BD}^2 = (\\sqrt6 + \\sqrt2)^2 + 8 - 2(\\sqrt6 + \\sqrt2)(2\\sqrt2)\\cdot\\dfrac12 = 8 + 4\\sqrt3 + 8 - 4\\sqrt3 - 4 = 12$，$\\overline{BD} = 2\\sqrt3$。\n• (D) 正確：正弦定理 $\\sin\\angle ABD = \\dfrac{2\\sqrt2\\sin60^\\circ}{2\\sqrt3} = \\dfrac{\\sqrt2}{2}$，且另兩角和為 $120^\\circ$，所以 $\\angle ABD = 45^\\circ$。\n• (E) 錯誤：$2^2 + (2\\sqrt3)^2 = 16 = 4^2$，$\\angle CBD = 90^\\circ$，面積 $= \\dfrac12\\cdot2\\cdot2\\sqrt3 = 2\\sqrt3$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "106-gsat-math-12",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 某班級 50 位學生，段考國文、英文、數學及格的人數分別為 45、39、34 人，且英文及格的學生國文也都及格。現假設數學和英文皆及格的有 $x$ 人，數學及格但英文不及格的有 $y$ 人。請選出正確的選項。",
+    "options": [
+      "$x + y = 39$",
+      "$y \\le 11$",
+      "三科中至少有一科不及格的學生有 $39 - x + y$ 人",
+      "三科中至少有一科不及格的學生最少有 11 人",
+      "三科中至少有一科不及格的學生最多有 27 人"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "• (A) 錯誤：$x + y$ = 數學及格人數 34。\n• (B) 正確：英文不及格只有 11 人。\n• (C) 錯誤：英文及格者國文都及格，三科全及格 = 數學與英文都及格 = $x$，所求為 $50 - x$。\n• (D) 錯誤：$x \\le 34$，最少 $50 - 34 = 16$ 人。\n• (E) 正確：$y \\le 11$，$x \\ge 23$，最多 $50 - 23 = 27$ 人。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "106-gsat-math-13",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "13. 空間中有一四面體 $ABCD$。假設 $\\overrightarrow{AD}$ 分別與 $\\overrightarrow{AB}$ 和 $\\overrightarrow{AC}$ 垂直，請選出正確的選項。",
+    "options": [
+      "$\\overrightarrow{DB}\\cdot\\overrightarrow{DC} = \\overline{DA}^2 - \\overrightarrow{AB}\\cdot\\overrightarrow{AC}$",
+      "若 $\\angle BAC$ 是直角，則 $\\angle BDC$ 是直角",
+      "若 $\\angle BAC$ 是銳角，則 $\\angle BDC$ 是銳角",
+      "若 $\\angle BAC$ 是鈍角，則 $\\angle BDC$ 是鈍角",
+      "若 $\\overline{AB} < \\overline{DA}$ 且 $\\overline{AC} < \\overline{DA}$，則 $\\angle BDC$ 是銳角"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "$\\overrightarrow{DB}\\cdot\\overrightarrow{DC} = (\\overrightarrow{AB} - \\overrightarrow{AD})\\cdot(\\overrightarrow{AC} - \\overrightarrow{AD}) = \\overrightarrow{AB}\\cdot\\overrightarrow{AC} + \\overline{AD}^2$。\n• (A) 錯誤：應為加號。\n• (B) 錯誤：$\\overrightarrow{AB}\\cdot\\overrightarrow{AC} = 0$ 時內積為 $\\overline{AD}^2 > 0$，銳角。\n• (C) 正確：兩項都為正。\n• (D) 錯誤：$\\overrightarrow{AB}\\cdot\\overrightarrow{AC} < 0$ 但可能小於 $\\overline{AD}^2$。\n• (E) 正確：$|\\overrightarrow{AB}\\cdot\\overrightarrow{AC}| \\le \\overline{AB}\\,\\overline{AC} < \\overline{AD}^2$，內積為正。\n\n故選 (C)(E)"
+  },
+  {
+    "id": "106-gsat-math-A",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 遞迴數列 $\\langle a_n\\rangle$ 滿足 $a_n = a_{n-1} + f(n - 2)$，其中 $n \\ge 2$ 且 $f(x)$ 為二次多項式。若 $a_1 = 1, a_2 = 2, a_3 = 5, a_4 = 12$，則 $a_5 =$ ⑭⑮。",
+    "blanks": [
+      "2",
+      "5"
+    ],
+    "blankLabels": [
+      "14",
+      "15"
+    ],
+    "explanation": "$f(0) = 1$、$f(1) = 3$、$f(2) = 7$。二次多項式的二階差固定：差為 2、4，下一個差 6，$f(3) = 13$。\n$a_5 = 12 + 13 = 25$。"
+  },
+  {
+    "id": "106-gsat-math-B",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 在坐標平面上，$\\triangle ABC$ 內有一點 $P$ 滿足 $\\overrightarrow{AP} = \\left(\\dfrac43, \\dfrac56\\right)$ 及 $\\overrightarrow{AP} = \\dfrac12\\overrightarrow{AB} + \\dfrac15\\overrightarrow{AC}$。若 $A, P$ 連線交 $\\overline{BC}$ 於 $M$，則 $\\overrightarrow{AM} = \\left(\\dfrac{⑯⑰}{⑱⑲}, \\dfrac{⑳㉑}{㉒㉓}\\right)$。（化成最簡分數）",
+    "blanks": [
+      "4",
+      "0",
+      "2",
+      "1",
+      "2",
+      "5",
+      "2",
+      "1"
+    ],
+    "blankLabels": [
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "explanation": "$\\overrightarrow{AM} = k\\overrightarrow{AP} = \\dfrac k2\\overrightarrow{AB} + \\dfrac k5\\overrightarrow{AC}$，$M$ 在 $\\overline{BC}$ 上：$\\dfrac k2 + \\dfrac k5 = 1$，$k = \\dfrac{10}{7}$。\n$\\overrightarrow{AM} = \\dfrac{10}{7}\\left(\\dfrac43, \\dfrac56\\right) = \\left(\\dfrac{40}{21}, \\dfrac{25}{21}\\right)$。"
+  },
+  {
+    "id": "106-gsat-math-C",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 若 $a$ 為正整數且方程式 $5x^3 + (a + 4)x^2 + ax + 1 = 0$ 的根都是有理根，則 $a =$ ㉔。",
+    "blanks": [
+      "7"
+    ],
+    "blankLabels": [
+      "24"
+    ],
+    "explanation": "$x = -1$ 代入：$-5 + a + 4 - a + 1 = 0$，所以 $5x^3 + (a + 4)x^2 + ax + 1 = (x + 1)(5x^2 + (a - 1)x + 1)$。\n二次式有理根 ⇔ 判別式 $(a - 1)^2 - 20 = m^2$ 為完全平方：$(a - 1 - m)(a - 1 + m) = 20$，兩因數同奇偶，只有 $2\\times10$，得 $a - 1 = 6$，$a = 7$。"
+  },
+  {
+    "id": "106-gsat-math-D",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "D. 設 $a_1, a_2, \\dots, a_9$ 為等差數列且 $k$ 為實數。若方程組 $\\begin{cases} a_1x - a_2y + 2a_3z = k + 1 \\\\ a_4x - a_5y + 2a_6z = -k - 5 \\\\ a_7x - a_8y + 2a_9z = k + 9 \\end{cases}$ 有解，則 $k =$ ㉕㉖。",
+    "blanks": [
+      "-",
+      "5"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "blankLabels": [
+      "25",
+      "26"
+    ],
+    "explanation": "等差數列使係數的第二列恰為第一、三列的平均（各係數都相差 $3d$）。若方程組有解，常數項也必須滿足同樣關係：\n$$\\frac{(k + 1) + (k + 9)}{2} = -k - 5 \\implies k + 5 = -k - 5 \\implies k = -5$$"
+  },
+  {
+    "id": "106-gsat-math-E",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "E. 設 $a, b, x$ 皆為正整數且滿足 $a \\le x \\le b$ 及 $b - a = 3$。若用內插法從 $\\log a, \\log b$ 求得 $\\log x$ 的近似值為 $\\log x \\approx \\dfrac13\\log a + \\dfrac23\\log b = \\dfrac13(1 + 2\\log3 - \\log2) + \\dfrac23(4\\log2 + \\log3)$，則 $x$ 的值為 ㉗㉘。",
+    "blanks": [
+      "4",
+      "7"
+    ],
+    "blankLabels": [
+      "27",
+      "28"
+    ],
+    "explanation": "$\\log a = 1 + 2\\log3 - \\log2 = \\log\\dfrac{90}{2} = \\log45$，$\\log b = \\log(16\\times3) = \\log48$，$b - a = 3$ ✓。\n內插權重 $\\dfrac23$ 給 $b$：$x = a + \\dfrac23(b - a) = 45 + 2 = 47$。"
+  },
+  {
+    "id": "106-gsat-math-F",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "F. 一隻青蛙位於坐標平面的原點，每步隨機朝上、下、左、右跳一單位長，總共跳了四步。青蛙跳了四步後恰回到原點的機率為 $\\dfrac{㉙}{㉚㉛}$。（化成最簡分數）",
+    "blanks": [
+      "9",
+      "6",
+      "4"
+    ],
+    "blankLabels": [
+      "29",
+      "30",
+      "31"
+    ],
+    "explanation": "上下各 $k$ 步、左右各 $2 - k$ 步：\n$k = 0$：$\\dfrac{4!}{2!2!} = 6$；$k = 1$：$4! = 24$；$k = 2$：6。共 36 種，總數 $4^4 = 256$。\n機率 $\\dfrac{36}{256} = \\dfrac{9}{64}$。"
+  },
+  {
+    "id": "106-gsat-math-G",
+    "examType": "學測",
+    "year": 106,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "G. 地面上甲、乙兩人從同一地點同時開始移動。甲以每秒 4 公尺向東等速移動，乙以每秒 3 公尺向北等速移動。在移動不久之後，他們互望的視線被一圓柱體建築物阻擋了 6 秒後才又相見。此圓柱體建築物底圓的直徑為 ㉜㉝.㉞ 公尺。",
+    "blanks": [
+      "1",
+      "4",
+      "4"
+    ],
+    "blankLabels": [
+      "32",
+      "33",
+      "34"
+    ],
+    "explanation": "$t$ 秒時兩人在 $(4t, 0)$、$(0, 3t)$，視線所在直線 $3x + 4y = 12t$。這些直線互相平行，與出發點的距離 $\\dfrac{12t}{5} = 2.4t$，以每秒 2.4 公尺平移。\n視線被擋住的時間就是平移掃過圓柱底圓直徑的時間：直徑 $= 2.4\\times6 = 14.4$ 公尺。"
   }
 ]
