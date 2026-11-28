@@ -253410,5 +253410,886 @@
       "環境變遷"
     ],
     "explanation": "全球暖化使海平面上升，低平的三角洲更易被海水淹沒、排水更困難；冰河融化也增加河川流量。"
+  },
+  {
+    "id": "97-ast-geo-01",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-3 為題組\n根據海岸的成因與特徵，可將台灣海岸分為如圖1所示甲、乙、丙、丁四段。請問：\n\n「站在此地向海眺望，可見灘地寬闊，遠處白浪條條，近岸地帶則蚵架、魚塭廣布」。上述文句所描述的景觀最可能出現在哪段海岸？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-01.png\" alt=\"圖1 臺灣海岸分段：甲為北部淡水河口到三貂角；乙為東部三貂角到大武；丙為南端大武到楓港（恆春半島）；丁為西部楓港到淡水河口\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "寬闊灘地、外海沙洲激起的白浪、蚵架與魚塭，是西部沙岸（丁）的典型景觀。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-geo-02",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-3 為題組\n根據海岸的成因與特徵，可將台灣海岸分為如圖1所示甲、乙、丙、丁四段。請問：\n\n哪段海岸地形的特徵與中國東南丘陵區的谷灣式海岸最相似？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-01.png\" alt=\"圖1 臺灣海岸分段：甲為北部淡水河口到三貂角；乙為東部三貂角到大武；丙為南端大武到楓港（恆春半島）；丁為西部楓港到淡水河口\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "北部海岸（甲）是山地丘陵與海岸斜交，岬灣交錯，海岸線曲折，與谷灣式海岸相似。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-geo-03",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "1-3 為題組\n根據海岸的成因與特徵，可將台灣海岸分為如圖1所示甲、乙、丙、丁四段。請問：\n\n乙段和丙段海岸分別有海階與珊瑚礁台地的分布，根據這樣的地形證據，可以判斷這兩段海岸都具有下列哪種海岸地形作用的特徵？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-01.png\" alt=\"圖1 臺灣海岸分段：甲為北部淡水河口到三貂角；乙為東部三貂角到大武；丙為南端大武到楓港（恆春半島）；丁為西部楓港到淡水河口\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "侵蝕大於堆積",
+      "堆積大於侵蝕",
+      "陸地相對下降",
+      "陸地相對上升"
+    ],
+    "answerIndex": 3,
+    "explanation": "海階是過去的海蝕平台被抬升；珊瑚礁台地是海中的珊瑚礁露出海面，都表示陸地相對上升。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-geo-04",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "4-5 為題組\n圖2是某地的等高線地形圖。圖中最粗線內的範圍在圖面上的面積約為6平方公分，而其實際地表面積約為15,000平方公尺。請問：\n\n這幅圖的比例尺與下列何者最接近？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-04.png\" alt=\"圖2 等高線地形圖：中央為封閉的小山丘（丙在頂部附近），最粗的等高線圍出山頂範圍；乙位於山丘東側等高線密集的陡坡；甲在左上方、丁在左下方景觀步道旁\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1：1,000",
+      "1：5,000",
+      "1：25,000",
+      "1：50,000"
+    ],
+    "answerIndex": 1,
+    "explanation": "面積比 $= \\dfrac{15000\\,m^2}{6\\,cm^2} = \\dfrac{1.5\\times10^8\\,cm^2}{6\\,cm^2} = 2.5\\times10^7$，長度比為其平方根 $5000$，約 1：5,000。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-geo-05",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "4-5 為題組\n圖2是某地的等高線地形圖。圖中最粗線內的範圍在圖面上的面積約為6平方公分，而其實際地表面積約為15,000平方公尺。請問：\n\n圖中乙地最可能遭受哪種地形災害？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-04.png\" alt=\"圖2 等高線地形圖：中央為封閉的小山丘（丙在頂部附近），最粗的等高線圍出山頂範圍；乙位於山丘東側等高線密集的陡坡；甲在左上方、丁在左下方景觀步道旁\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "山崩",
+      "土石流",
+      "洪水",
+      "地層下陷"
+    ],
+    "answerIndex": 0,
+    "explanation": "乙位於山丘邊緣等高線最密集的陡坡上，最可能發生山崩。土石流需在溪谷中發生；洪水、地層下陷多發生在低平地區。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-geo-06",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "6-7 為題組\n近年在黃土高原推動坡地「退耕還草」、「退耕還林」，使土地利用發生變化。請問：\n\n原來栽種糧食的耕地陸續退耕下，對當地的農業經營會帶來哪些影響？甲、經濟作物增加；乙、趨向機械化；丙、更趨市場性；丁、趨於自給自足",
+    "options": [
+      "甲丁",
+      "乙丙",
+      "甲丙",
+      "乙丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "糧食耕地減少後，農民改種果樹、牧草、經濟林等經濟作物（甲），產品以出售為主，更趨向市場性（丙）。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-geo-07",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "6-7 為題組\n近年在黃土高原推動坡地「退耕還草」、「退耕還林」，使土地利用發生變化。請問：\n\n將坡地「退耕還草」、「退耕還林」，會導致該區生態環境發生哪些明顯變化？甲、河川淤沙減少；乙、物種數增加；丙、蒸發散量減少；丁、洪水流量增加；戊、塵土飛揚加劇",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "甲丙",
+      "丁戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "植被恢復能減少水土流失，河川淤沙減少（甲）；棲地增加，生物多樣性提高（乙）。植物增加會使蒸發散量增加、洪峰減小、揚塵減少。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-geo-08",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "8-10 為題組\n印度半島氣候受季風影響，降水分布甚不平均。東北部山區年雨量高達3,000mm以上；西北部為乾旱區，年雨量250mm以下；最南端為熱帶雨林區，年雨量2,500mm左右。大部分地區夏季來得早，全年最高溫出現在夏至前。表1為印度半島某都市的氣候資料表（月均溫與月雨量，1971-2000）。請問：\n\n對於印度半島氣候的描述，下列哪兩項是正確的？甲、3-5月日照強烈；乙、6-9月雲量多；丙、10-12月溼度大；丁、1-2月吹西南季風",
+    "svg": "<svg viewBox=\"0 0 716 92\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">月份</text><rect x=\"82\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"105\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">一</text><rect x=\"128\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"151\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">二</text><rect x=\"174\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">三</text><rect x=\"220\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"243\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">四</text><rect x=\"266\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"289\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">五</text><rect x=\"312\" y=\"4\" width=\"52\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"338\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">六</text><rect x=\"364\" y=\"4\" width=\"52\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"390\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">七</text><rect x=\"416\" y=\"4\" width=\"52\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"442\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">八</text><rect x=\"468\" y=\"4\" width=\"52\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"494\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">九</text><rect x=\"520\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"543\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">十</text><rect x=\"566\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"589\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">十一</text><rect x=\"612\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"635\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">十二</text><rect x=\"658\" y=\"4\" width=\"56\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"686\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">年</text><rect x=\"2\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">氣溫(℃)</text><rect x=\"82\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"105\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">24.5</text><rect x=\"128\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"151\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">24.8</text><rect x=\"174\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">26.9</text><rect x=\"220\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"243\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">28.6</text><rect x=\"266\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"289\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">30.1</text><rect x=\"312\" y=\"32\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"338\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">29.1</text><rect x=\"364\" y=\"32\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"390\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">27.7</text><rect x=\"416\" y=\"32\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"442\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">27.3</text><rect x=\"468\" y=\"32\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"494\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">27.7</text><rect x=\"520\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"543\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">28.7</text><rect x=\"566\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"589\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">28.0</text><rect x=\"612\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"635\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">26.2</text><rect x=\"658\" y=\"32\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"686\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">27.5</text><rect x=\"2\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">雨量(mm)</text><rect x=\"82\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"105\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">0.8</text><rect x=\"128\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"151\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">0.8</text><rect x=\"174\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">0.3</text><rect x=\"220\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"243\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">1.6</text><rect x=\"266\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"289\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">8.9</text><rect x=\"312\" y=\"60\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"338\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">581.3</text><rect x=\"364\" y=\"60\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"390\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">701.0</text><rect x=\"416\" y=\"60\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"442\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">459.4</text><rect x=\"468\" y=\"60\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"494\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">268.8</text><rect x=\"520\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"543\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">55.5</text><rect x=\"566\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"589\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">16.3</text><rect x=\"612\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"635\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">4.3</text><rect x=\"658\" y=\"60\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"686\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">2099.0</text></svg>",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "甲丁"
+    ],
+    "answerIndex": 0,
+    "explanation": "3～5 月雨季未到，晴朗少雲、日照強烈，是最熱的季節（甲）；6～9 月西南季風帶來大量降雨，雲量多（乙）。10～12 月以後轉為乾季；1～2 月吹東北季風。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-geo-09",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "8-10 為題組\n印度半島氣候受季風影響，降水分布甚不平均。東北部山區年雨量高達3,000mm以上；西北部為乾旱區，年雨量250mm以下；最南端為熱帶雨林區，年雨量2,500mm左右。大部分地區夏季來得早，全年最高溫出現在夏至前。表1為印度半島某都市的氣候資料表（月均溫與月雨量，1971-2000）。請問：\n\n表1為下列哪個城市的氣候資料？",
+    "svg": "<svg viewBox=\"0 0 716 92\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">月份</text><rect x=\"82\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"105\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">一</text><rect x=\"128\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"151\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">二</text><rect x=\"174\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">三</text><rect x=\"220\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"243\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">四</text><rect x=\"266\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"289\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">五</text><rect x=\"312\" y=\"4\" width=\"52\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"338\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">六</text><rect x=\"364\" y=\"4\" width=\"52\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"390\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">七</text><rect x=\"416\" y=\"4\" width=\"52\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"442\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">八</text><rect x=\"468\" y=\"4\" width=\"52\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"494\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">九</text><rect x=\"520\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"543\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">十</text><rect x=\"566\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"589\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">十一</text><rect x=\"612\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"635\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">十二</text><rect x=\"658\" y=\"4\" width=\"56\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"686\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">年</text><rect x=\"2\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">氣溫(℃)</text><rect x=\"82\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"105\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">24.5</text><rect x=\"128\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"151\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">24.8</text><rect x=\"174\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">26.9</text><rect x=\"220\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"243\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">28.6</text><rect x=\"266\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"289\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">30.1</text><rect x=\"312\" y=\"32\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"338\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">29.1</text><rect x=\"364\" y=\"32\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"390\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">27.7</text><rect x=\"416\" y=\"32\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"442\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">27.3</text><rect x=\"468\" y=\"32\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"494\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">27.7</text><rect x=\"520\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"543\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">28.7</text><rect x=\"566\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"589\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">28.0</text><rect x=\"612\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"635\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">26.2</text><rect x=\"658\" y=\"32\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"686\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">27.5</text><rect x=\"2\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">雨量(mm)</text><rect x=\"82\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"105\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">0.8</text><rect x=\"128\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"151\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">0.8</text><rect x=\"174\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"197\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">0.3</text><rect x=\"220\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"243\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">1.6</text><rect x=\"266\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"289\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">8.9</text><rect x=\"312\" y=\"60\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"338\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">581.3</text><rect x=\"364\" y=\"60\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"390\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">701.0</text><rect x=\"416\" y=\"60\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"442\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">459.4</text><rect x=\"468\" y=\"60\" width=\"52\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"494\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">268.8</text><rect x=\"520\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"543\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">55.5</text><rect x=\"566\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"589\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">16.3</text><rect x=\"612\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"635\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">4.3</text><rect x=\"658\" y=\"60\" width=\"56\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"686\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">2099.0</text></svg>",
+    "options": [
+      "喀拉蚩（24.5°N，67.0°E）",
+      "可倫坡（6.6°N，79.5°E）",
+      "孟買（18.6°N，72.5°E）",
+      "乞拉朋吉（25.4°N，91.4°E）"
+    ],
+    "answerIndex": 2,
+    "explanation": "年雨量約 2100 mm，集中在 6～9 月，冬春幾乎無雨，年均溫 27.5℃、5 月最熱，是西岸迎西南季風的孟買。喀拉蚩雨量很少；可倫坡全年多雨；乞拉朋吉年雨量超過 10000 mm。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-geo-10",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "8-10 為題組\n印度半島氣候受季風影響，降水分布甚不平均。東北部山區年雨量高達3,000mm以上；西北部為乾旱區，年雨量250mm以下；最南端為熱帶雨林區，年雨量2,500mm左右。大部分地區夏季來得早，全年最高溫出現在夏至前。表1為印度半島某都市的氣候資料表（月均溫與月雨量，1971-2000）。請問：\n\n印度西北部氣候乾旱的最主要原因是：",
+    "options": [
+      "高山屏障",
+      "沿海有深層湧昇流",
+      "深處內陸",
+      "終年受大陸氣團影響"
+    ],
+    "answerIndex": 3,
+    "explanation": "印度西北部（塔爾沙漠）位於副熱帶，西南季風勢力微弱、難以到達，大部分時間受乾燥的大陸氣團控制，因而乾旱。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-geo-11",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "11-13 為題組\n人們在選擇工作及居住地時多受就業機會、治安、文化生活及自然環境等所影響。圖3是針對美國大學生的居住及工作地選擇，抽樣調查結果所繪製的「偏好指數」空間分布圖。請問：\n\n圖3中哪個區域因受惠於資訊業等高科技產業的發展與聚集，加上氣候宜人，成為美國大學生心目中最偏好的居住及工作地之一？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-11.png\" alt=\"圖3 美國大學生居住及工作地偏好指數分布圖（顏色愈深偏好愈高）：子在西北角（華盛頓州）、丑在加州北部沿海（舊金山灣區，深色）、寅在加州南部、卯在北部大平原（淺色，偏好低）、辰在中部山區、巳在南部墨西哥灣沿岸、午在五大湖區、未在東南部內陸、申在佛羅里達半島西南、戌在佛羅里達南端、酉在東北部、亥在東部大西洋沿岸\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "子",
+      "丑",
+      "午",
+      "亥"
+    ],
+    "answerIndex": 1,
+    "explanation": "丑是舊金山灣區（矽谷），資訊產業聚集，地中海型氣候溫和宜人。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-geo-12",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "11-13 為題組\n人們在選擇工作及居住地時多受就業機會、治安、文化生活及自然環境等所影響。圖3是針對美國大學生的居住及工作地選擇，抽樣調查結果所繪製的「偏好指數」空間分布圖。請問：\n\n卯區成為「偏好指數」偏低的區域，最主要是受制於哪兩個地理因素？甲、冬季氣候乾冷；乙、區域經濟以農牧業為主；丙、人口密度較高；丁、位於活火山及地震帶上；戊、傳統老舊工業區",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-11.png\" alt=\"圖3 美國大學生居住及工作地偏好指數分布圖（顏色愈深偏好愈高）：子在西北角（華盛頓州）、丑在加州北部沿海（舊金山灣區，深色）、寅在加州南部、卯在北部大平原（淺色，偏好低）、辰在中部山區、巳在南部墨西哥灣沿岸、午在五大湖區、未在東南部內陸、申在佛羅里達半島西南、戌在佛羅里達南端、酉在東北部、亥在東部大西洋沿岸\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "丁戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "卯是北部大平原（北達科他、蒙大拿一帶），冬季酷寒乾冷（甲），經濟以小麥、畜牧為主，就業機會少（乙）。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-geo-13",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "11-13 為題組\n人們在選擇工作及居住地時多受就業機會、治安、文化生活及自然環境等所影響。圖3是針對美國大學生的居住及工作地選擇，抽樣調查結果所繪製的「偏好指數」空間分布圖。請問：\n\n美國某都市雖然風光明媚，觀光休憩設施完善，是退休老年人選擇居住的首選都市之一，使老年人口比例偏高（見圖4），但對受訪的大學生而言，僅為中等偏好的居住及工作都市。這個都市最可能位在下列哪區？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-11.png\" alt=\"圖3 美國大學生居住及工作地偏好指數分布圖\" style=\"width:100%;max-width:380px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-13.png\" alt=\"圖4 人口金字塔：60～80 歲的老年人口比例特別高，年輕人口比例低\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "辰",
+      "巳",
+      "申",
+      "未"
+    ],
+    "answerIndex": 2,
+    "explanation": "佛羅里達州氣候溫暖、海灘觀光發達，是美國退休人士的首選，申位於佛羅里達。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-geo-14",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "14-16 為題組\n表2為2005年某五國發展程度六項指標的資料。請問：\n\n表中資料顯示哪兩項指標間的相關程度最強？",
+    "svg": "<svg viewBox=\"0 0 754 176\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"50\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">國家</text><rect x=\"52\" y=\"4\" width=\"110\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">總人口數（百萬）</text><rect x=\"162\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">面積（千平方公里）</text><rect x=\"282\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">最大都市人口（千人）</text><rect x=\"412\" y=\"4\" width=\"110\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">鄉村人口比例（%）</text><rect x=\"522\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">每人國民所得（美元）</text><rect x=\"652\" y=\"4\" width=\"100\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">嬰兒死亡率（‰）</text><rect x=\"2\" y=\"32\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">甲</text><rect x=\"52\" y=\"32\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">20.3</text><rect x=\"162\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">7687</text><rect x=\"282\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">4296</text><rect x=\"412\" y=\"32\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">12</text><rect x=\"522\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">33120</text><rect x=\"652\" y=\"32\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">5</text><rect x=\"2\" y=\"60\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">乙</text><rect x=\"52\" y=\"60\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">296.9</text><rect x=\"162\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">9631</text><rect x=\"282\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">18500</text><rect x=\"412\" y=\"60\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">19</text><rect x=\"522\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">43560</text><rect x=\"652\" y=\"60\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">6</text><rect x=\"2\" y=\"88\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">丙</text><rect x=\"52\" y=\"88\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">22.3</text><rect x=\"162\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">36</text><rect x=\"282\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">2630</text><rect x=\"412\" y=\"88\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">22</text><rect x=\"522\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">16291</text><rect x=\"652\" y=\"88\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">5</text><rect x=\"2\" y=\"116\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">丁</text><rect x=\"52\" y=\"116\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">83.1</text><rect x=\"162\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">300</text><rect x=\"282\" y=\"116\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10941</text><rect x=\"412\" y=\"116\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">37</text><rect x=\"522\" y=\"116\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">1290</text><rect x=\"652\" y=\"116\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">25</text><rect x=\"2\" y=\"144\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">戊</text><rect x=\"52\" y=\"144\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">28.8</text><rect x=\"162\" y=\"144\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">236</text><rect x=\"282\" y=\"144\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">1296</text><rect x=\"412\" y=\"144\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">87</text><rect x=\"522\" y=\"144\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">280</text><rect x=\"652\" y=\"144\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">79</text></svg>",
+    "options": [
+      "面積與最大都市人口",
+      "每人國民所得與嬰兒死亡率",
+      "總人口與嬰兒死亡率",
+      "最大都市人口與每人國民所得"
+    ],
+    "answerIndex": 1,
+    "explanation": "每人國民所得愈高，嬰兒死亡率愈低（甲乙丙 5～6‰，丁 25‰，戊 79‰），呈明顯負相關。其他兩兩之間沒有一致的關係。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-geo-15",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "14-16 為題組\n表2為2005年某五國發展程度六項指標的資料。請問：\n\n根據表2資料哪國的都市體系最可能出現首要型？",
+    "svg": "<svg viewBox=\"0 0 754 176\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"50\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">國家</text><rect x=\"52\" y=\"4\" width=\"110\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">總人口數（百萬）</text><rect x=\"162\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">面積（千平方公里）</text><rect x=\"282\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">最大都市人口（千人）</text><rect x=\"412\" y=\"4\" width=\"110\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">鄉村人口比例（%）</text><rect x=\"522\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">每人國民所得（美元）</text><rect x=\"652\" y=\"4\" width=\"100\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">嬰兒死亡率（‰）</text><rect x=\"2\" y=\"32\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">甲</text><rect x=\"52\" y=\"32\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">20.3</text><rect x=\"162\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">7687</text><rect x=\"282\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">4296</text><rect x=\"412\" y=\"32\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">12</text><rect x=\"522\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">33120</text><rect x=\"652\" y=\"32\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">5</text><rect x=\"2\" y=\"60\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">乙</text><rect x=\"52\" y=\"60\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">296.9</text><rect x=\"162\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">9631</text><rect x=\"282\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">18500</text><rect x=\"412\" y=\"60\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">19</text><rect x=\"522\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">43560</text><rect x=\"652\" y=\"60\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">6</text><rect x=\"2\" y=\"88\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">丙</text><rect x=\"52\" y=\"88\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">22.3</text><rect x=\"162\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">36</text><rect x=\"282\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">2630</text><rect x=\"412\" y=\"88\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">22</text><rect x=\"522\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">16291</text><rect x=\"652\" y=\"88\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">5</text><rect x=\"2\" y=\"116\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">丁</text><rect x=\"52\" y=\"116\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">83.1</text><rect x=\"162\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">300</text><rect x=\"282\" y=\"116\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10941</text><rect x=\"412\" y=\"116\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">37</text><rect x=\"522\" y=\"116\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">1290</text><rect x=\"652\" y=\"116\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">25</text><rect x=\"2\" y=\"144\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">戊</text><rect x=\"52\" y=\"144\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">28.8</text><rect x=\"162\" y=\"144\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">236</text><rect x=\"282\" y=\"144\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">1296</text><rect x=\"412\" y=\"144\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">87</text><rect x=\"522\" y=\"144\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">280</text><rect x=\"652\" y=\"144\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">79</text></svg>",
+    "options": [
+      "甲",
+      "乙",
+      "丁",
+      "戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "戊每人所得只有 280 美元、鄉村人口占 87%，是低度發展國家，都市人口少，卻集中在最大都市（1296 千人約占都市人口的三分之一以上），容易形成首要型都市。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-geo-16",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "14-16 為題組\n表2為2005年某五國發展程度六項指標的資料。請問：\n\n丙最可能是下列哪個地區的國家？",
+    "svg": "<svg viewBox=\"0 0 754 176\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"50\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">國家</text><rect x=\"52\" y=\"4\" width=\"110\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">總人口數（百萬）</text><rect x=\"162\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">面積（千平方公里）</text><rect x=\"282\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">最大都市人口（千人）</text><rect x=\"412\" y=\"4\" width=\"110\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">鄉村人口比例（%）</text><rect x=\"522\" y=\"4\" width=\"130\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">每人國民所得（美元）</text><rect x=\"652\" y=\"4\" width=\"100\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">嬰兒死亡率（‰）</text><rect x=\"2\" y=\"32\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">甲</text><rect x=\"52\" y=\"32\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">20.3</text><rect x=\"162\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">7687</text><rect x=\"282\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">4296</text><rect x=\"412\" y=\"32\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">12</text><rect x=\"522\" y=\"32\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">33120</text><rect x=\"652\" y=\"32\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">5</text><rect x=\"2\" y=\"60\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">乙</text><rect x=\"52\" y=\"60\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">296.9</text><rect x=\"162\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">9631</text><rect x=\"282\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">18500</text><rect x=\"412\" y=\"60\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">19</text><rect x=\"522\" y=\"60\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">43560</text><rect x=\"652\" y=\"60\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">6</text><rect x=\"2\" y=\"88\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">丙</text><rect x=\"52\" y=\"88\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">22.3</text><rect x=\"162\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">36</text><rect x=\"282\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">2630</text><rect x=\"412\" y=\"88\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">22</text><rect x=\"522\" y=\"88\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">16291</text><rect x=\"652\" y=\"88\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">5</text><rect x=\"2\" y=\"116\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">丁</text><rect x=\"52\" y=\"116\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">83.1</text><rect x=\"162\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">300</text><rect x=\"282\" y=\"116\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10941</text><rect x=\"412\" y=\"116\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">37</text><rect x=\"522\" y=\"116\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">1290</text><rect x=\"652\" y=\"116\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"134\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">25</text><rect x=\"2\" y=\"144\" width=\"50\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"27\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">戊</text><rect x=\"52\" y=\"144\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"107\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">28.8</text><rect x=\"162\" y=\"144\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">236</text><rect x=\"282\" y=\"144\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"347\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">1296</text><rect x=\"412\" y=\"144\" width=\"110\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"467\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">87</text><rect x=\"522\" y=\"144\" width=\"130\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"587\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">280</text><rect x=\"652\" y=\"144\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"702\" y=\"162\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">79</text></svg>",
+    "options": [
+      "東亞",
+      "中東",
+      "東非",
+      "東歐"
+    ],
+    "answerIndex": 0,
+    "explanation": "人口 2230 萬、面積 3.6 萬平方公里、每人所得約 1.6 萬美元，與臺灣相符，位於東亞。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-geo-17",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "17-19 為題組\n有位水土保持學家在某山坡地設立六個位置相鄰的小試驗場，以模擬降水的方式，觀測土壤流失量與地表覆蓋狀況的關聯性。此六個試驗場的坡度、坡長相近，底岩均為透水性甚差的岩層。表3是這六個試驗場的土壤質地與某次降水土壤流失量的資料。請問：\n\n圖5是土壤質地的三角形圖。試據以判別甲試驗場的土壤屬下列哪種土壤質地類型？",
+    "svg": "<svg viewBox=\"0 0 604 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"240\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">試驗場</text><rect x=\"242\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"302\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"362\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"422\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"482\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">戊</text><rect x=\"542\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">己</text><rect x=\"2\" y=\"32\" width=\"240\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">砂粒(%)</text><rect x=\"242\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40</text><rect x=\"302\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">45</text><rect x=\"362\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">61</text><rect x=\"422\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">78</text><rect x=\"482\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14</text><rect x=\"542\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28</text><rect x=\"2\" y=\"60\" width=\"240\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">坋粒(%)</text><rect x=\"242\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25</text><rect x=\"302\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">20</text><rect x=\"362\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">21</text><rect x=\"422\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14</text><rect x=\"482\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">19</text><rect x=\"542\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">22</text><rect x=\"2\" y=\"88\" width=\"240\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">黏粒(%)</text><rect x=\"242\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35</text><rect x=\"302\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35</text><rect x=\"362\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">18</text><rect x=\"422\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"482\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">67</text><rect x=\"542\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">50</text><rect x=\"2\" y=\"116\" width=\"240\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">特定降水期間的總土壤流失量(g/m²)</text><rect x=\"242\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">47.3</text><rect x=\"302\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">201.2</text><rect x=\"362\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28.1</text><rect x=\"422\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">15.7</text><rect x=\"482\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">76.9</text><rect x=\"542\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">54.6</text></svg><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-17.png\" alt=\"圖5 土壤質地三角形圖：三邊為黏粒、坋粒、砂粒百分比，分出黏土、砂質黏土、坋質黏土、黏質壤土、砂質黏壤土、坋質黏壤土、壤土、砂質壤土、坋質壤土、壤質砂土、砂土、坋土等類型\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "砂質黏壤土",
+      "黏質壤土",
+      "壤土",
+      "坋質黏壤土"
+    ],
+    "answerIndex": 1,
+    "explanation": "甲為砂粒 40%、坋粒 25%、黏粒 35%，在三角圖中落在「黏質壤土」區（黏粒 27～40%、砂粒 20～45%）。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-geo-18",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "17-19 為題組\n有位水土保持學家在某山坡地設立六個位置相鄰的小試驗場，以模擬降水的方式，觀測土壤流失量與地表覆蓋狀況的關聯性。此六個試驗場的坡度、坡長相近，底岩均為透水性甚差的岩層。表3是這六個試驗場的土壤質地與某次降水土壤流失量的資料。請問：\n\n這六個試驗場設計規劃為下列幾種土地利用，來觀察不同土地利用的水土流失量。乙試驗場最可能屬於哪種土地利用型態？",
+    "svg": "<svg viewBox=\"0 0 604 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"240\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">試驗場</text><rect x=\"242\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"302\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"362\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"422\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"482\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">戊</text><rect x=\"542\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">己</text><rect x=\"2\" y=\"32\" width=\"240\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">砂粒(%)</text><rect x=\"242\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40</text><rect x=\"302\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">45</text><rect x=\"362\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">61</text><rect x=\"422\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">78</text><rect x=\"482\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14</text><rect x=\"542\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28</text><rect x=\"2\" y=\"60\" width=\"240\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">坋粒(%)</text><rect x=\"242\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25</text><rect x=\"302\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">20</text><rect x=\"362\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">21</text><rect x=\"422\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14</text><rect x=\"482\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">19</text><rect x=\"542\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">22</text><rect x=\"2\" y=\"88\" width=\"240\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">黏粒(%)</text><rect x=\"242\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35</text><rect x=\"302\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35</text><rect x=\"362\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">18</text><rect x=\"422\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"482\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">67</text><rect x=\"542\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">50</text><rect x=\"2\" y=\"116\" width=\"240\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">特定降水期間的總土壤流失量(g/m²)</text><rect x=\"242\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">47.3</text><rect x=\"302\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">201.2</text><rect x=\"362\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28.1</text><rect x=\"422\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">15.7</text><rect x=\"482\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">76.9</text><rect x=\"542\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">54.6</text></svg>",
+    "options": [
+      "無植物覆蓋的裸露地",
+      "茂密的林地",
+      "甘蔗枝葉披覆的休耕地",
+      "等高耕作的茶園"
+    ],
+    "answerIndex": 0,
+    "explanation": "乙的土壤質地與甲相近，土壤流失量卻高達 201.2 g/m²，遠高於其他場，表示地表缺乏植物保護，是裸露地。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-geo-19",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "17-19 為題組\n有位水土保持學家在某山坡地設立六個位置相鄰的小試驗場，以模擬降水的方式，觀測土壤流失量與地表覆蓋狀況的關聯性。此六個試驗場的坡度、坡長相近，底岩均為透水性甚差的岩層。表3是這六個試驗場的土壤質地與某次降水土壤流失量的資料。請問：\n\n土壤保水力的高低與「土壤質地」有密切相關。下列哪個試驗場有最佳的土壤保水力？",
+    "svg": "<svg viewBox=\"0 0 604 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"240\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">試驗場</text><rect x=\"242\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"302\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"362\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"422\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"482\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">戊</text><rect x=\"542\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">己</text><rect x=\"2\" y=\"32\" width=\"240\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">砂粒(%)</text><rect x=\"242\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40</text><rect x=\"302\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">45</text><rect x=\"362\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">61</text><rect x=\"422\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">78</text><rect x=\"482\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14</text><rect x=\"542\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28</text><rect x=\"2\" y=\"60\" width=\"240\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">坋粒(%)</text><rect x=\"242\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">25</text><rect x=\"302\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">20</text><rect x=\"362\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">21</text><rect x=\"422\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">14</text><rect x=\"482\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">19</text><rect x=\"542\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">22</text><rect x=\"2\" y=\"88\" width=\"240\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">黏粒(%)</text><rect x=\"242\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35</text><rect x=\"302\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">35</text><rect x=\"362\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">18</text><rect x=\"422\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"482\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">67</text><rect x=\"542\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">50</text><rect x=\"2\" y=\"116\" width=\"240\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"122\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">特定降水期間的總土壤流失量(g/m²)</text><rect x=\"242\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">47.3</text><rect x=\"302\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"332\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">201.2</text><rect x=\"362\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"392\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">28.1</text><rect x=\"422\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">15.7</text><rect x=\"482\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">76.9</text><rect x=\"542\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"572\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">54.6</text></svg>",
+    "options": [
+      "丙",
+      "丁",
+      "戊",
+      "己"
+    ],
+    "answerIndex": 2,
+    "explanation": "黏粒愈多，土壤孔隙愈細、保水力愈好。戊黏粒 67% 最多。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-geo-20",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "20-21 為題組\n2005年台東縣的釋迦種植面積及產量均佔全台的80％左右。釋迦是多年生的果樹，一年可達2到3穫，但對氣溫頗為敏感，低溫範圍為15-25℃，高溫範圍為25-32℃；釋迦果並具有採收後果實不易保鮮、不耐密封包裝、不耐低溫冷藏等特性。請問：\n\n台灣的釋迦生產區位高度集中台東的現象，在產業發展上可稱為：",
+    "options": [
+      "機械化",
+      "專業化",
+      "精緻化",
+      "集約化"
+    ],
+    "answerIndex": 1,
+    "explanation": "某地區集中生產特定產品，是區域專業化。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-geo-21",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "20-21 為題組\n2005年台東縣的釋迦種植面積及產量均佔全台的80％左右。釋迦是多年生的果樹，一年可達2到3穫，但對氣溫頗為敏感，低溫範圍為15-25℃，高溫範圍為25-32℃；釋迦果並具有採收後果實不易保鮮、不耐密封包裝、不耐低溫冷藏等特性。請問：\n\n就釋迦的產銷而言，台東相對於西部地區有哪些較不利的區位條件？甲、地處偏僻栽培技術不易傳播；乙、地處東部冬季氣溫相對偏低；丙、與主要消費地間的易達性低；丁、夏、秋季節好發焚風；戊、人口較少，消費市場較小",
+    "options": [
+      "甲乙丙",
+      "甲丁戊",
+      "乙丙丁",
+      "丙丁戊"
+    ],
+    "answerIndex": 3,
+    "explanation": "臺東距西部大都市遠、交通不便，釋迦又不耐保存（丙）；夏秋易受焚風危害（丁）；本地人口少，市場小（戊）。臺東栽培技術成熟、冬季溫暖，反而適合釋迦生長。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-geo-22",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "22-24 為題組\n美國的都市在20世紀時已高度都市化，都市地區居住密度較高，住商混雜，使都市發展受限，但都市外圍的郊區空間較大，土地價格也較便宜，因此在二次大戰前，漸漸有都市居民選擇搬到郊區居住，形成「郊區化」現象。到60-70年代，郊區化更為普遍，郊區住宅蔓延至原都市行政區界外。這些郊區的社區住商完全分離，居住密度也較低。請問：\n\n下列哪些地景與美國都市的郊區化過程關係較為密切？甲、大眾捷運系統；乙、高速公路；丙、新市鎮中心；丁、購物中心",
+    "options": [
+      "甲丙",
+      "乙丙",
+      "甲丁",
+      "乙丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "美國郊區化依賴私人汽車與高速公路（乙），郊區居民的消費帶動大型購物中心興起（丁）。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-geo-23",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "22-24 為題組\n美國的都市在20世紀時已高度都市化，都市地區居住密度較高，住商混雜，使都市發展受限，但都市外圍的郊區空間較大，土地價格也較便宜，因此在二次大戰前，漸漸有都市居民選擇搬到郊區居住，形成「郊區化」現象。到60-70年代，郊區化更為普遍，郊區住宅蔓延至原都市行政區界外。這些郊區的社區住商完全分離，居住密度也較低。請問：\n\n美國都市的郊區化現象與下列何種居民大量外遷郊區的關係最為密切？",
+    "options": [
+      "鄉村新移入都市者",
+      "勞工階級",
+      "中產階級",
+      "退休人士"
+    ],
+    "answerIndex": 2,
+    "explanation": "有能力購屋、擁有汽車通勤的中產階級，大量遷往郊區獨棟住宅。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-geo-24",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "22-24 為題組\n美國的都市在20世紀時已高度都市化，都市地區居住密度較高，住商混雜，使都市發展受限，但都市外圍的郊區空間較大，土地價格也較便宜，因此在二次大戰前，漸漸有都市居民選擇搬到郊區居住，形成「郊區化」現象。到60-70年代，郊區化更為普遍，郊區住宅蔓延至原都市行政區界外。這些郊區的社區住商完全分離，居住密度也較低。請問：\n\n美國的郊區化現象對都市帶來甚麼影響？甲、老舊城區沒落；乙、通勤交通量減少；丙、CBD的中心性降低；丁、加速都市擴張",
+    "options": [
+      "甲乙",
+      "乙丙",
+      "丙丁",
+      "甲丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "中產階級與商業外移，舊市區衰退（甲）；都市範圍向外蔓延（丁）。通勤交通量反而增加。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-geo-25",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "25-27 為題組\n東亞某跨國企業在100年前僅是地區性代理採購的貿易公司，但隨著該公司商貿管理的革新，現在被譽為以客戶需求為導向、高效率組織和嚴密調度的商貿供應鏈的管理者。請問：\n\n該公司曾承接歐洲某零售百貨公司10,000件成衣訂單，生產流程是從韓國訂購紗線，在台灣紡織及染色，並向日本YKK的中國廠訂購拉鏈，再將布及拉鏈運到泰國縫製為衣服。這個供應鏈中不同地區各產業間的關係，可用下列哪項概念來說明？",
+    "options": [
+      "連鎖型分工",
+      "產業聚集",
+      "規模經濟",
+      "綜合區位"
+    ],
+    "answerIndex": 0,
+    "explanation": "紗線、紡織染色、拉鏈、縫製在不同國家完成，上下游一環扣一環，是連鎖型（垂直）分工。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-geo-26",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "25-27 為題組\n東亞某跨國企業在100年前僅是地區性代理採購的貿易公司，但隨著該公司商貿管理的革新，現在被譽為以客戶需求為導向、高效率組織和嚴密調度的商貿供應鏈的管理者。請問：\n\n該公司所屬連鎖便利商店的經營策略，是設立綜合供應鏈網絡，透過分銷中心將所有供貨商與所有便利商店連繫起來，供應商直接將商品配送到便利商店，以縮短處理時間，達到少量多樣，零庫存的目標。這樣的經營方式，主要是哪項技術的革新所導致？",
+    "options": [
+      "福特化",
+      "機械化",
+      "資訊化",
+      "自動化"
+    ],
+    "answerIndex": 2,
+    "explanation": "即時掌握各店銷售與庫存資料、整合供應商配送，靠的是資訊系統，屬資訊化。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-geo-27",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "25-27 為題組\n東亞某跨國企業在100年前僅是地區性代理採購的貿易公司，但隨著該公司商貿管理的革新，現在被譽為以客戶需求為導向、高效率組織和嚴密調度的商貿供應鏈的管理者。請問：\n\n該公司指稱以都市居民每20,000人可成立一家便利商店來計算，中國有發展20,000家便利商店的潛力。每20,000人可設立一家便利商店的指標，是根據下列哪項概念來訂定的？",
+    "options": [
+      "商閾",
+      "商品圈",
+      "銷售圈",
+      "腹地"
+    ],
+    "answerIndex": 0,
+    "explanation": "維持一家商店營運所需的最低人口數是商閾。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-geo-28",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "28-29 為題組\n小明一家計畫到某風景區旅遊，為方便選擇旅遊地點，小明利用地理資訊系統將區內觀光資源分層顯示如圖6。請問：\n\n森林區內的住宿區是：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-28.png\" alt=\"圖6 湖泊、森林區、住宿區三個圖層\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-28b.png\" alt=\"四個選項（由左至右為 A～D）：(A) 細長彎曲的小區塊；(B) 位於中央偏右、上緣凹凸的區塊；(C) 左側長形區塊；(D) 右側方形區塊\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answerIndex": 1,
+    "explanation": "把住宿區與森林區疊合，取兩者重疊的部分，就是 C 字形住宿區下半段落在森林區內的範圍，形狀對應 (B)。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-geo-29",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "28-29 為題組\n小明一家計畫到某風景區旅遊，為方便選擇旅遊地點，小明利用地理資訊系統將區內觀光資源分層顯示如圖6。請問：\n\n若在湖泊周圍設立50公尺緩衝區，以管制日後的開發活動，需運用哪種GIS的分析方法？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-28.png\" alt=\"圖6 三個圖層：湖泊（中央偏左的一塊水域）、森林區（圖幅下半部，上緣呈波浪狀）、住宿區（圖幅中右側的 C 字形區域）\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "疊圖分析",
+      "視域分析",
+      "環域分析",
+      "查詢分析"
+    ],
+    "answerIndex": 2,
+    "explanation": "以湖泊為中心向外劃出固定距離的範圍，是環域分析（buffer）。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-geo-30",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-31 為題組\n圖7為某地全年逐日逐時平均氣溫（30年平均）的等溫線圖。這種氣候圖與其它氣候圖相較，更能反映與農林生產相關的氣溫分布實況。請問：\n\n該地7月的月均溫約為：",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-30.png\" alt=\"圖7 全年逐日逐時等溫線圖（橫軸 1～12 月、縱軸 0～24 時，單位℃）：冬季（12～2 月）全天約 4～8℃；最高溫的封閉等溫線位在 7 月 14 時左右，約 22℃；7 月清晨約 10℃\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "10℃",
+      "15℃",
+      "20℃",
+      "25℃"
+    ],
+    "answerIndex": 1,
+    "explanation": "7 月一天中最低約 10℃（清晨）、最高約 22℃（午後 14 時），日平均約 15℃。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-geo-31",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-31 為題組\n圖7為某地全年逐日逐時平均氣溫（30年平均）的等溫線圖。這種氣候圖與其它氣候圖相較，更能反映與農林生產相關的氣溫分布實況。請問：\n\n該地最可能屬於下列哪種氣候類型？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-30.png\" alt=\"圖7 全年逐日逐時等溫線圖（橫軸 1～12 月、縱軸 0～24 時，單位℃）：冬季（12～2 月）全天約 4～8℃；最高溫的封閉等溫線位在 7 月 14 時左右，約 22℃；7 月清晨約 10℃\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "溫帶海洋性氣候",
+      "溫帶季風氣候",
+      "溫帶大陸性氣候",
+      "溫帶草原氣候"
+    ],
+    "answerIndex": 0,
+    "explanation": "冬季月均溫約 5℃、7 月約 15℃，年溫差只有約 10℃，冬暖夏涼，是溫帶海洋性氣候。季風、大陸性、草原氣候的冬季都很冷，年溫差較大。\n\n故選 (A)"
+  },
+  {
+    "id": "97-ast-geo-32",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "32-34 為題組\n南島語族是天生的航海高手，擅長以沿岸航行或逐島遷徙方式來往於波濤的海洋，族群也因而遷移、散布於大洋洲諸島，及擴散到大洋洲外的一些島嶼和大陸沿岸。請問：\n\n南島語族傳統上是使用下列哪種交通工具航行於海上？",
+    "options": [
+      "皮筏",
+      "平底船",
+      "木筏",
+      "獨木舟"
+    ],
+    "answerIndex": 3,
+    "explanation": "南島語族以獨木舟（含加裝舷外浮木的邊架艇）航海，如蘭嶼達悟族的拼板舟。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-geo-33",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "32-34 為題組\n南島語族是天生的航海高手，擅長以沿岸航行或逐島遷徙方式來往於波濤的海洋，族群也因而遷移、散布於大洋洲諸島，及擴散到大洋洲外的一些島嶼和大陸沿岸。請問：\n\n台灣原住民共分為13族，其中下列哪族最能保有南島語族的海洋習性，往海裏討生活，自古以來與菲律賓巴丹島來往密切，語言與生活習性也與巴丹島居民相近？",
+    "options": [
+      "布農族",
+      "泰雅族",
+      "達悟族",
+      "鄒族"
+    ],
+    "answerIndex": 2,
+    "explanation": "蘭嶼的達悟族以捕飛魚為生，語言文化與菲律賓巴丹群島居民相近。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-geo-34",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "32-34 為題組\n南島語族是天生的航海高手，擅長以沿岸航行或逐島遷徙方式來往於波濤的海洋，族群也因而遷移、散布於大洋洲諸島，及擴散到大洋洲外的一些島嶼和大陸沿岸。請問：\n\n下列哪個國家或地區，不位於大洋洲，但一般將其劃入南島語族文化圈內？",
+    "options": [
+      "斯里蘭卡",
+      "馬爾地夫",
+      "馬達加斯加",
+      "巴林"
+    ],
+    "answerIndex": 2,
+    "explanation": "南島語族西達非洲東南方的馬達加斯加，當地的馬達加斯加語屬南島語系。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-geo-35",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "35-37 為題組\n圖8是中國各省不同年代生育率分布的盒形圖（Simple Plots）。盒子的底端為第1四分位數，頂端為第3四分位數，盒內的分隔線為中位數，線段向上至最大值，向下至最小值。整體來看，中國育齡婦女的生育率都是持續下降，到90年代後就維持在很低的水平，不過中國各省發展程度有頗大的落差，因此各省間的生育率具有相當的差異。請問：\n\n圖8中哪年各省間生育率的離散程度最大？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-35.png\" alt=\"圖8 中國各省生育率盒形圖（單位：個）：1965 年 中位數約 6，盒 5.5～6.6，全距約 4.3～7.2；1975 年 中位數約 3.4，盒 2.7～4.9，全距約 1.1～6.2，最寬；1985 年 中位數約 2.1，全距約 0.9～3.5；1995、2005 年 中位數約 1.6～1.7，全距約 0.7～2.4\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "1965",
+      "1975",
+      "1985",
+      "2005"
+    ],
+    "answerIndex": 1,
+    "explanation": "1975 年的盒子（四分位距）與全距都最長，各省差異最大。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-geo-36",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "35-37 為題組\n圖8是中國各省不同年代生育率分布的盒形圖（Simple Plots）。盒子的底端為第1四分位數，頂端為第3四分位數，盒內的分隔線為中位數，線段向上至最大值，向下至最小值。整體來看，中國育齡婦女的生育率都是持續下降，到90年代後就維持在很低的水平，不過中國各省發展程度有頗大的落差，因此各省間的生育率具有相當的差異。請問：\n\n中國自70年代後，生育率明顯的下降是因為下列哪項因素所致？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-35.png\" alt=\"圖8 中國各省生育率盒形圖（單位：個）：1965 年 中位數約 6，盒 5.5～6.6，全距約 4.3～7.2；1975 年 中位數約 3.4，盒 2.7～4.9，全距約 1.1～6.2，最寬；1985 年 中位數約 2.1，全距約 0.9～3.5；1995、2005 年 中位數約 1.6～1.7，全距約 0.7～2.4\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "非農人口比例上升",
+      "人口城鄉移動",
+      "人口老化",
+      "人口政策"
+    ],
+    "answerIndex": 3,
+    "explanation": "1970 年代推動「晚、稀、少」節育，1979 年起實施一胎化政策，生育率快速下降。\n\n故選 (D)"
+  },
+  {
+    "id": "97-ast-geo-37",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "35-37 為題組\n圖8是中國各省不同年代生育率分布的盒形圖（Simple Plots）。盒子的底端為第1四分位數，頂端為第3四分位數，盒內的分隔線為中位數，線段向上至最大值，向下至最小值。整體來看，中國育齡婦女的生育率都是持續下降，到90年代後就維持在很低的水平，不過中國各省發展程度有頗大的落差，因此各省間的生育率具有相當的差異。請問：\n\n隨著生育率的明顯下降及維持在低的水平，中國的人口結構因而發生下列哪項改變？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-35.png\" alt=\"圖8 中國各省生育率盒形圖（單位：個）：1965 年 中位數約 6，盒 5.5～6.6，全距約 4.3～7.2；1975 年 中位數約 3.4，盒 2.7～4.9，全距約 1.1～6.2，最寬；1985 年 中位數約 2.1，全距約 0.9～3.5；1995、2005 年 中位數約 1.6～1.7，全距約 0.7～2.4\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "性別比降低",
+      "人口撫養比上升",
+      "老年人口比例增加",
+      "城鎮獨生子女比例降低"
+    ],
+    "answerIndex": 2,
+    "explanation": "出生人數減少，幼年人口比例下降，老年人口比例相對提高，邁向人口老化。\n\n故選 (C)"
+  },
+  {
+    "id": "97-ast-geo-38",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "38-39 為題組\n「這個地方自盤古開天就是風頭水尾之地，連喝的深井水都帶些鹹味。六月天熱似火燒埔，秋風一起，土地就反鹽得無法下種，是十足的鹹分田。無田無園的人，偎著一爿內海，飼魚曝鹽，撐起一家子的生計，這裏的子民都是靠天養的天公囝。」上段文字是描述1980年代台灣南部沿海地區的大地景觀。請問：\n\n該地在過去許多居民罹患烏腳病。這種風土病（地方病）與當地居民哪種生活處境有關？",
+    "options": [
+      "長期食用海產",
+      "長期飲用地下水",
+      "長期曝曬烈日下",
+      "長期食用醃製食品"
+    ],
+    "answerIndex": 1,
+    "explanation": "烏腳病與長期飲用含砷量高的深井地下水有關。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-geo-39",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "38-39 為題組\n「這個地方自盤古開天就是風頭水尾之地，連喝的深井水都帶些鹹味。六月天熱似火燒埔，秋風一起，土地就反鹽得無法下種，是十足的鹹分田。無田無園的人，偎著一爿內海，飼魚曝鹽，撐起一家子的生計，這裏的子民都是靠天養的天公囝。」上段文字是描述1980年代台灣南部沿海地區的大地景觀。請問：\n\n這個地區在秋冬時表土含鹽量上升，夏季則下降。此季變現象與下列何者關係最密切？",
+    "options": [
+      "地形",
+      "降水量",
+      "蒸發散量",
+      "土壤質地"
+    ],
+    "answerIndex": 1,
+    "explanation": "臺灣南部夏雨冬乾：夏季雨多，鹽分被雨水淋洗下滲；秋冬乾季雨少，地下水中的鹽分隨毛細作用上升累積在表土，形成「反鹽」。\n\n故選 (B)"
+  },
+  {
+    "id": "97-ast-geo-non-1-1",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、小明七月下旬去自助旅行，其旅遊日記寫著：「第一天參觀該國首都老市中心（medina）迷路，因為道路狹窄，但卻又四通八達，且往往穿越房屋的前庭後院，真是稀奇！想來是為了擋熱風飛沙，及防衛游牧民族的侵擾吧！隔天參觀西元前九世紀所建迦太基城遺址，以及毀於西元前二世紀的腓尼基人所建城市（cite）的遺址；第三天參觀了建於第二世紀可容納35,000人的圓形劇場（arena）；第四天參觀了始建於第七世紀的清真寺；……」。\n\n1. 小明這次自助旅行所到的是哪個國家或地區？（2 分）",
+    "blanks": [
+      "突尼西亞（北非）"
+    ],
+    "blankLabels": [
+      "國家或地區"
+    ],
+    "explanation": "迦太基城遺址位於突尼西亞首都突尼斯附近，可答突尼西亞或北非。"
+  },
+  {
+    "id": "97-ast-geo-non-1-2",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、小明七月下旬去自助旅行，其旅遊日記寫著：「第一天參觀該國首都老市中心（medina）迷路，因為道路狹窄，但卻又四通八達，且往往穿越房屋的前庭後院，真是稀奇！想來是為了擋熱風飛沙，及防衛游牧民族的侵擾吧！隔天參觀西元前九世紀所建迦太基城遺址，以及毀於西元前二世紀的腓尼基人所建城市（cite）的遺址；第三天參觀了建於第二世紀可容納35,000人的圓形劇場（arena）；第四天參觀了始建於第七世紀的清真寺；……」。\n\n2. 日記所提及的圓形劇場，是哪種文明的典型文化地景？（2 分）",
+    "blanks": [
+      "羅馬文明"
+    ],
+    "blankLabels": [
+      "文明"
+    ],
+    "explanation": "二世紀建造、可容納數萬人的圓形競技場是羅馬帝國的典型建築（如突尼西亞傑姆圓形劇場）。"
+  },
+  {
+    "id": "97-ast-geo-non-1-3",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、小明七月下旬去自助旅行，其旅遊日記寫著：「第一天參觀該國首都老市中心（medina）迷路，因為道路狹窄，但卻又四通八達，且往往穿越房屋的前庭後院，真是稀奇！想來是為了擋熱風飛沙，及防衛游牧民族的侵擾吧！隔天參觀西元前九世紀所建迦太基城遺址，以及毀於西元前二世紀的腓尼基人所建城市（cite）的遺址；第三天參觀了建於第二世紀可容納35,000人的圓形劇場（arena）；第四天參觀了始建於第七世紀的清真寺；……」。\n\n3. 小明在日記中所描述的老市中心（medina）的都市地景，是甚麼民族的傳統都市聚落的典型特色？（2 分）",
+    "blanks": [
+      "阿拉伯民族"
+    ],
+    "blankLabels": [
+      "民族"
+    ],
+    "explanation": "medina 是阿拉伯（伊斯蘭）城市的舊城區，巷道狹窄曲折、建築密集，可遮陽擋風沙並利於防禦。"
+  },
+  {
+    "id": "97-ast-geo-non-2-1",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、人類經濟活動對生態環境的影響已不限於地區性，而是牽一髮而動全身的全球性問題。圖9是幾種全球性生態環境問題的分布圖。\n\n1. 艾尼紐（聖嬰）現象對哪個東南亞國協會員國的氣候影響最為顯著？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-non2.png\" alt=\"圖9 全球生態環境問題分布圖：斜線為聖嬰現象發生海域（赤道太平洋東部到印尼、澳洲北方）；黑色為酸雨嚴重區域（歐洲、北美東部、中國東南部）；深灰色為 A 區（撒哈拉南緣、中亞、蒙古、澳洲內陸、北美西南等乾燥區邊緣）；淺灰斜線為沙漠分布區\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "印度尼西亞"
+    ],
+    "blankLabels": [
+      "國家"
+    ],
+    "explanation": "聖嬰現象發生時，西太平洋的印尼降雨減少、乾旱，森林火災與霾害加劇。東帝汶也在範圍內，但不是東協會員國。"
+  },
+  {
+    "id": "97-ast-geo-non-2-2",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、人類經濟活動對生態環境的影響已不限於地區性，而是牽一髮而動全身的全球性問題。圖9是幾種全球性生態環境問題的分布圖。\n\n2. 穿越北極海是東亞—北美—歐洲海運的捷徑，但目前仍不具商業通航價值。何種全球生態環境的變遷，可使這條捷徑成為具有商業價值的海運航線？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-non2.png\" alt=\"圖9 全球生態環境問題分布圖：斜線為聖嬰現象發生海域（赤道太平洋東部到印尼、澳洲北方）；黑色為酸雨嚴重區域（歐洲、北美東部、中國東南部）；深灰色為 A 區（撒哈拉南緣、中亞、蒙古、澳洲內陸、北美西南等乾燥區邊緣）；淺灰斜線為沙漠分布區\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "全球暖化"
+    ],
+    "blankLabels": [
+      "環境變遷"
+    ],
+    "explanation": "全球暖化使北極海冰融化，夏季無冰期延長，北極航線才有通航價值。"
+  },
+  {
+    "id": "97-ast-geo-non-2-3",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、人類經濟活動對生態環境的影響已不限於地區性，而是牽一髮而動全身的全球性問題。圖9是幾種全球性生態環境問題的分布圖。\n\n3. 目前圖9的A區塊因為氣候的變化，以及人類對土地的過度開發利用，所共同面對的是哪項環境變遷？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-non2.png\" alt=\"圖9 全球生態環境問題分布圖：斜線為聖嬰現象發生海域（赤道太平洋東部到印尼、澳洲北方）；黑色為酸雨嚴重區域（歐洲、北美東部、中國東南部）；深灰色為 A 區（撒哈拉南緣、中亞、蒙古、澳洲內陸、北美西南等乾燥區邊緣）；淺灰斜線為沙漠分布區\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "沙漠化"
+    ],
+    "blankLabels": [
+      "環境變遷"
+    ],
+    "explanation": "A 區位於沙漠周邊的半乾燥地區，氣候乾旱化加上過度放牧、開墾，土地沙漠化。"
+  },
+  {
+    "id": "97-ast-geo-non-2-4",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、人類經濟活動對生態環境的影響已不限於地區性，而是牽一髮而動全身的全球性問題。圖9是幾種全球性生態環境問題的分布圖。\n\n4. 北美東部及歐洲是全球酸雨問題最嚴重的地區，除了導因於歐洲及北美洲的產業高度發展外，並受到哪種全球尺度的風帶影響而更形加劇？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-non2.png\" alt=\"圖9 全球生態環境問題分布圖：斜線為聖嬰現象發生海域（赤道太平洋東部到印尼、澳洲北方）；黑色為酸雨嚴重區域（歐洲、北美東部、中國東南部）；深灰色為 A 區（撒哈拉南緣、中亞、蒙古、澳洲內陸、北美西南等乾燥區邊緣）；淺灰斜線為沙漠分布區\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "西風帶"
+    ],
+    "blankLabels": [
+      "風帶"
+    ],
+    "explanation": "中緯度盛行西風，把北美中西部工業區的污染物吹向東部，把英國、西歐的污染吹向北歐、中歐。"
+  },
+  {
+    "id": "97-ast-geo-non-3-1",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、小明班上選擇南部某農業為主的村落進行鄉土地理實察，所用的實察地圖是該村所在地的等高線地形圖（圖10）。他們乘車到達該農村，下車後舉目所見盡是水田，溝渠縱橫，步行進入村落，但見民居間湧泉處處。村長帶領他們參觀該村的祠堂，見大廳內壁上對聯寫著：「渡江南居鄱陽，由贛入閩汀，族大支繁，蕃衍八閩兩粵；跨海東定瀛島，溯淡抵台鳳，宗茂派盛，廣布三山五鄉。」村中耆老提及當初祖先因受連年災荒的壓迫，不得不渡海來台。\n\n1. 圖10中由甲—乙—丙—丁—戊—庚—辛—壬—癸—甲連線所圍的範圍屬於哪種河流地形？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-non3.png\" alt=\"圖10 等高線地形圖：等高線 10～60 公尺呈同心弧狀向西南展開；甲、乙、丙、癸、壬位於東側山麓（扇頂附近）；丁、戊在北緣與西北；庚在扇面下方較低處（約 10 公尺等高線附近）；己在西南海岸；比例尺 0～2 公里\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "（山麓）沖積扇"
+    ],
+    "blankLabels": [
+      "河流地形"
+    ],
+    "explanation": "等高線以山麓為中心呈同心弧狀向外展開，是河流出山口後堆積形成的沖積扇。"
+  },
+  {
+    "id": "97-ast-geo-non-3-2",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、小明班上選擇南部某農業為主的村落進行鄉土地理實察，所用的實察地圖是該村所在地的等高線地形圖（圖10）。他們乘車到達該農村，下車後舉目所見盡是水田，溝渠縱橫，步行進入村落，但見民居間湧泉處處。村長帶領他們參觀該村的祠堂，見大廳內壁上對聯寫著：「渡江南居鄱陽，由贛入閩汀，族大支繁，蕃衍八閩兩粵；跨海東定瀛島，溯淡抵台鳳，宗茂派盛，廣布三山五鄉。」村中耆老提及當初祖先因受連年災荒的壓迫，不得不渡海來台。\n\n2. 小明所參訪的村落最可能座落於圖10所標甲、丙、丁、庚、辛、壬中的哪個位置？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-non3.png\" alt=\"圖10 等高線地形圖：等高線 10～60 公尺呈同心弧狀向西南展開；甲、乙、丙、癸、壬位於東側山麓（扇頂附近）；丁、戊在北緣與西北；庚在扇面下方較低處（約 10 公尺等高線附近）；己在西南海岸；比例尺 0～2 公里\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "庚"
+    ],
+    "blankLabels": [
+      "位置"
+    ],
+    "explanation": "民居間湧泉處處，表示位於沖積扇的扇端，地下水在此湧出，水田廣布。庚位於扇面下方較低處。"
+  },
+  {
+    "id": "97-ast-geo-non-3-3",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、小明班上選擇南部某農業為主的村落進行鄉土地理實察，所用的實察地圖是該村所在地的等高線地形圖（圖10）。他們乘車到達該農村，下車後舉目所見盡是水田，溝渠縱橫，步行進入村落，但見民居間湧泉處處。村長帶領他們參觀該村的祠堂，見大廳內壁上對聯寫著：「渡江南居鄱陽，由贛入閩汀，族大支繁，蕃衍八閩兩粵；跨海東定瀛島，溯淡抵台鳳，宗茂派盛，廣布三山五鄉。」村中耆老提及當初祖先因受連年災荒的壓迫，不得不渡海來台。\n\n3. 根據對聯所描述，可知該村村人的祖先在渡過長江後、來台前的遷徙路線，依序經過哪三個中國省級行政區？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-non3.png\" alt=\"圖10 等高線地形圖：等高線 10～60 公尺呈同心弧狀向西南展開；甲、乙、丙、癸、壬位於東側山麓（扇頂附近）；丁、戊在北緣與西北；庚在扇面下方較低處（約 10 公尺等高線附近）；己在西南海岸；比例尺 0～2 公里\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "江西→福建→廣東"
+    ],
+    "blankLabels": [
+      "遷徙路線"
+    ],
+    "explanation": "鄱陽、贛在江西；閩汀（汀州）在福建；兩粵指廣東、廣西，渡海來臺前的原鄉多在廣東。"
+  },
+  {
+    "id": "97-ast-geo-non-3-4",
+    "examType": "分科/指考",
+    "year": 97,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、小明班上選擇南部某農業為主的村落進行鄉土地理實察，所用的實察地圖是該村所在地的等高線地形圖（圖10）。他們乘車到達該農村，下車後舉目所見盡是水田，溝渠縱橫，步行進入村落，但見民居間湧泉處處。村長帶領他們參觀該村的祠堂，見大廳內壁上對聯寫著：「渡江南居鄱陽，由贛入閩汀，族大支繁，蕃衍八閩兩粵；跨海東定瀛島，溯淡抵台鳳，宗茂派盛，廣布三山五鄉。」村中耆老提及當初祖先因受連年災荒的壓迫，不得不渡海來台。\n\n4. 該村村人的祖先渡海來台的遷移現象，可由哪種人口理論來詮釋？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/97-ast-geo-non3.png\" alt=\"圖10 等高線地形圖：等高線 10～60 公尺呈同心弧狀向西南展開；甲、乙、丙、癸、壬位於東側山麓（扇頂附近）；丁、戊在北緣與西北；庚在扇面下方較低處（約 10 公尺等高線附近）；己在西南海岸；比例尺 0～2 公里\" style=\"width:100%;max-width:320px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "推拉理論"
+    ],
+    "blankLabels": [
+      "人口理論"
+    ],
+    "explanation": "原鄉連年災荒是推力，臺灣有可開墾的土地是拉力。"
   }
 ]
