@@ -237520,5 +237520,402 @@
       "密碼"
     ],
     "explanation": "$M = \\begin{bmatrix} 5 & -15 \\\\ -10 & 35 \\end{bmatrix}$，$\\det M = 175 - 150 = 25$，$M^{-1} = \\dfrac1{25}\\begin{bmatrix} 35 & 15 \\\\ 10 & 5 \\end{bmatrix}$。\n$\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix} = M^{-1}\\cdot5I = \\dfrac15\\begin{bmatrix} 35 & 15 \\\\ 10 & 5 \\end{bmatrix} = \\begin{bmatrix} 7 & 3 \\\\ 2 & 1 \\end{bmatrix}$，密碼 7321。"
+  },
+  {
+    "id": "98-gsat-math-01",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "points": 5,
+    "question": "1. 數列 $a_1 + 2, \\cdots, a_k + 2k, \\cdots, a_{10} + 20$ 共有十項，且其和為 240，則 $a_1 + \\cdots + a_k + \\cdots + a_{10}$ 之值為",
+    "options": [
+      "31",
+      "120",
+      "130",
+      "185",
+      "218"
+    ],
+    "answerIndex": 2,
+    "explanation": "$2 + 4 + \\cdots + 20 = 110$，所求 $240 - 110 = 130$。\n\n故選 (C)"
+  },
+  {
+    "id": "98-gsat-math-02",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "points": 5,
+    "question": "2. 令 $a = \\cos(\\pi^2)$，試問下列哪一個選項是對的？",
+    "options": [
+      "$a = -1$",
+      "$-1 < a \\le -\\dfrac12$",
+      "$-\\dfrac12 < a \\le 0$",
+      "$0 < a \\le \\dfrac12$",
+      "$\\dfrac12 < a \\le 1$"
+    ],
+    "answerIndex": 1,
+    "explanation": "$\\pi^2 \\approx 9.87$（弧度），$9.87 - 2\\pi \\approx 3.59$，介於 $\\pi$ 與 $\\dfrac{4\\pi}3 \\approx 4.19$ 之間，所以 $-1 < \\cos(\\pi^2) < -\\dfrac12$。\n\n故選 (B)"
+  },
+  {
+    "id": "98-gsat-math-03",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "points": 5,
+    "question": "3. 已知 $f(x)$, $g(x)$ 是兩個實係數多項式，且知 $f(x)$ 除以 $g(x)$ 的餘式為 $x^4 - 1$。試問下列哪一個選項**不可能**是 $f(x)$ 與 $g(x)$ 的公因式？",
+    "options": [
+      "5",
+      "$x - 1$",
+      "$x^2 - 1$",
+      "$x^3 - 1$",
+      "$x^4 - 1$"
+    ],
+    "answerIndex": 3,
+    "explanation": "$f = gq + (x^4 - 1)$，所以 $f$、$g$ 的公因式必整除 $x^4 - 1 = (x - 1)(x + 1)(x^2 + 1)$。\n$x^3 - 1 = (x - 1)(x^2 + x + 1)$ 不整除 $x^4 - 1$，不可能。（常數 5 是任何多項式的因式。）\n\n故選 (D)"
+  },
+  {
+    "id": "98-gsat-math-04",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "points": 5,
+    "question": "4. 甲、乙、丙三所高中的一年級分別有 3、4、5 個班級。從這 12 個班級中隨機選取一班參加國文抽考，再從未被抽中的 11 個班級中隨機選取一班參加英文抽考。則參加抽考的兩個班級在同一所學校的機率最接近以下哪個選項？",
+    "options": [
+      "21%",
+      "23%",
+      "25%",
+      "27%",
+      "29%"
+    ],
+    "answerIndex": 4,
+    "explanation": "$\\dfrac{3\\cdot2 + 4\\cdot3 + 5\\cdot4}{12\\cdot11} = \\dfrac{38}{132} \\approx 28.8\\%$。\n\n故選 (E)"
+  },
+  {
+    "id": "98-gsat-math-05",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "points": 5,
+    "question": "5. 假設甲、乙、丙三鎮兩兩之間的距離皆為 20 公里。兩條筆直的公路交於丁鎮，其中之一通過甲、乙兩鎮而另一通過丙鎮。今在一比例精準的地圖上量得兩公路的夾角為 45°，則丙、丁兩鎮間的距離約為",
+    "options": [
+      "24.5 公里",
+      "25 公里",
+      "25.5 公里",
+      "26 公里",
+      "26.5 公里"
+    ],
+    "answerIndex": 0,
+    "explanation": "丙到直線甲乙的距離是正三角形的高 $10\\sqrt3$。丙丁與甲乙的夾角 $45^\\circ$，丙丁距離 $= \\dfrac{10\\sqrt3}{\\sin45^\\circ} = 10\\sqrt6 \\approx 24.49$。\n\n故選 (A)"
+  },
+  {
+    "id": "98-gsat-math-06",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "points": 5,
+    "question": "6. 試問坐標平面上共有幾條直線，會使得點 $O(0, 0)$ 到此直線之距離為 1，且點 $A(3, 0)$ 到此直線之距離為 2？",
+    "options": [
+      "1 條",
+      "2 條",
+      "3 條",
+      "4 條",
+      "無窮多條"
+    ],
+    "answerIndex": 2,
+    "explanation": "所求直線是圓 $x^2 + y^2 = 1$ 與圓 $(x - 3)^2 + y^2 = 4$ 的公切線。兩圓心距 $3 = 1 + 2$，外切，有 3 條公切線。\n\n故選 (C)"
+  },
+  {
+    "id": "98-gsat-math-07",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "7. 試問下列哪些選項中的數是有理數？",
+    "options": [
+      "3.1416",
+      "$\\sqrt3$",
+      "$\\log_{10}\\sqrt5 + \\log_{10}\\sqrt2$",
+      "$\\dfrac{\\sin15^\\circ}{\\cos15^\\circ} + \\dfrac{\\cos15^\\circ}{\\sin15^\\circ}$",
+      "方程式 $x^3 - 2x^2 + x - 1 = 0$ 的唯一實根"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "• (A) ✓：有限小數。\n• (B) ✗。\n• (C) ✓：$\\log_{10}\\sqrt{10} = \\dfrac12$。\n• (D) ✓：$\\dfrac{1}{\\sin15^\\circ\\cos15^\\circ} = \\dfrac2{\\sin30^\\circ} = 4$。\n• (E) ✗：有理根只可能是 $\\pm1$，代入都不為 0，所以實根是無理數。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "98-gsat-math-08",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 坐標平面上四條直線 $L_1, L_2, L_3, L_4$ 與 $x$ 軸、$y$ 軸及直線 $y = x$ 的相關位置如圖所示，其中 $L_1$ 與 $L_3$ 垂直，而 $L_3$ 與 $L_4$ 平行。設 $L_1, L_2, L_3, L_4$ 的方程式分別為 $y = m_1x$，$y = m_2x$，$y = m_3x$ 以及 $y = m_4x + c$。試問下列哪些選項是正確的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-gsat-math-08.png\" alt=\"L1、L2 斜率為負且很陡，L3、L4 斜率介於 0 與 1\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$m_3 > m_2 > m_1$",
+      "$m_1\\cdot m_4 = -1$",
+      "$m_1 < -1$",
+      "$m_2\\cdot m_3 < -1$",
+      "$c > 0$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "由圖：$L_3$ 在 $y = x$ 下方，$0 < m_3 < 1$；$L_2$ 比 $L_1$ 更陡，$m_2 < m_1 < 0$。\n• (A) ✗：$m_2 < m_1$。\n• (B) ✓：$m_4 = m_3$，$m_1m_3 = -1$。\n• (C) ✓：$m_1 = -\\dfrac1{m_3} < -1$。\n• (D) ✓：$m_2m_3 = \\dfrac{m_2}{m_1}\\cdot m_1m_3 = -\\dfrac{m_2}{m_1}$，而 $\\dfrac{m_2}{m_1} > 1$。\n• (E) ✗：$L_4$ 在 $L_3$ 下方，$y$ 截距 $c < 0$。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "98-gsat-math-09",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 某廠商委託民調機構在甲、乙兩地調查聽過某項產品的居民佔當地居民之百分比（以下簡稱為「知名度」）。結果如下：在 95% 信心水準之下，該產品在甲、乙兩地的知名度之信賴區間分別為 [0.50, 0.58]、[0.08, 0.16]。試問下列哪些選項是正確的？",
+    "options": [
+      "甲地本次的參訪者中，54% 的人聽過該產品",
+      "此次民調在乙地的參訪人數少於在甲地的參訪人數",
+      "此次調查結果可解讀為：甲地全體居民中有一半以上的人聽過該產品的機率大於 95%",
+      "若在乙地以同樣方式進行多次民調，所得知名度有 95% 的機會落在區間 [0.08, 0.16]",
+      "經密集廣告宣傳後，在乙地再次進行民調，並增加參訪人數達原人數的四倍，則在 95% 信心水準之下該產品的知名度之信賴區間寬度會減半（即 0.04）"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "• (A) ✓：區間中點 $\\hat p = 0.54$。\n• (B) ✓：兩地半寬都是 0.04，$n = \\dfrac{\\hat p(1 - \\hat p)}{0.02^2}$：甲 $\\approx 621$，乙 $= \\dfrac{0.12\\times0.88}{0.0004} = 264$。\n• (C)(D) ✗：信心水準是指「用此方法所得區間包含真實比例」的比率，不是這樣解讀。\n• (E) ✗：宣傳後 $\\hat p$ 會改變，寬度不一定剛好減半。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "98-gsat-math-10",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 設 $a, b, c$ 為實數，下列有關線性方程組 $\\begin{cases} x + 2y + az = 1 \\\\ 3x + 4y + bz = -1 \\\\ 2x + 10y + 7z = c \\end{cases}$ 的敘述哪些是正確的？",
+    "options": [
+      "若此線性方程組有解，則必定恰有一組解",
+      "若此線性方程組有解，則 $11a - 3b \\ne 7$",
+      "若此線性方程組有解，則 $c = 14$",
+      "若此線性方程組無解，則 $11a - 3b = 7$",
+      "若此線性方程組無解，則 $c \\ne 14$"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "係數行列式 $\\Delta = 22a - 6b - 14 = 2(11a - 3b - 7)$。又 $11\\times$(第一式) $- 3\\times$(第二式) 的 $x, y$ 係數恰為 $(2, 10)$，常數為 $11 + 3 = 14$。\n• $11a - 3b \\ne 7$：恰一解。\n• $11a - 3b = 7$ 時，第三式左邊恰為第一式的 11 倍減第二式的 3 倍：$c = 14$ 無限多解，$c \\ne 14$ 無解。\n所以 (A)(B)(C) 都不一定；無解時必有 $11a - 3b = 7$ 且 $c \\ne 14$，(D)(E) 正確。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "98-gsat-math-11",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 如圖所示，正立方體 $ABCD\\text{-}EFGH$ 的稜長等於 2（即 $\\overline{AB} = 2$），$K$ 為正方形 $ABCD$ 的中心，$M$、$N$ 分別為線段 $\\overline{BF}$、$\\overline{EF}$ 的中點。試問下列哪些選項是正確的？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/98-gsat-math-11.png\" alt=\"正立方體 ABCD-EFGH 與點 K、M、N\" style=\"width:100%;max-width:220px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\overrightarrow{KM} = \\dfrac12\\overrightarrow{AB} - \\dfrac12\\overrightarrow{AD} + \\dfrac12\\overrightarrow{AE}$",
+      "（內積）$\\overrightarrow{KM}\\cdot\\overrightarrow{AB} = 1$",
+      "$\\overline{KM} = 3$",
+      "$\\triangle KMN$ 為一直角三角形",
+      "$\\triangle KMN$ 之面積為 $\\dfrac{\\sqrt{10}}2$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "令 $\\vec u = \\overrightarrow{AB}$、$\\vec v = \\overrightarrow{AD}$、$\\vec w = \\overrightarrow{AE}$（兩兩垂直、長 2）。\n$K = \\dfrac{\\vec u + \\vec v}2$，$M = \\vec u + \\dfrac{\\vec w}2$，$N = \\vec w + \\dfrac{\\vec u}2$。\n• (A) ✓：$\\overrightarrow{KM} = \\dfrac12\\vec u - \\dfrac12\\vec v + \\dfrac12\\vec w$。\n• (B) ✗：$\\dfrac12\\cdot4 = 2$。\n• (C) ✗：$|\\overrightarrow{KM}| = \\sqrt{1 + 1 + 1} = \\sqrt3$。\n• (D) ✓：$\\overrightarrow{MN} = -\\dfrac12\\vec u + \\dfrac12\\vec w$，$\\overrightarrow{KM}\\cdot\\overrightarrow{MN} = -1 + 1 = 0$，直角在 $M$。\n• (E) ✗：面積 $\\dfrac12\\cdot\\sqrt3\\cdot\\sqrt2 = \\dfrac{\\sqrt6}2$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "98-gsat-math-A",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 從 1 到 100 的正整數中刪去所有的質數、2 的倍數及 3 的倍數之後，剩下最大的數為 ⑫⑬。",
+    "blanks": [
+      "9",
+      "5"
+    ],
+    "blankLabels": [
+      "12",
+      "13"
+    ],
+    "explanation": "由 100 往下：100、98、96 是偶數，99 是 3 的倍數，97 是質數，$95 = 5\\times19$ 留下。"
+  },
+  {
+    "id": "98-gsat-math-B",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 坐標平面上有四點 $O(0, 0)$，$A(-3, -5)$，$B(6, 0)$，$C(x, y)$。今有一質點在 $O$ 點沿 $\\overrightarrow{AO}$ 方向前進 $\\overline{AO}$ 距離後停在 $P$，再沿 $\\overrightarrow{BP}$ 方向前進 $2\\overline{BP}$ 距離後停在 $Q$。假設此質點繼續沿 $\\overrightarrow{CQ}$ 方向前進 $3\\overline{CQ}$ 距離後回到原點 $O$，則 $(x, y) =$ (⑭⑮, ⑯⑰)。",
+    "blanks": [
+      "-",
+      "4",
+      "2",
+      "0"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "4"
+      ],
+      [
+        "2"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "blankLabels": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "explanation": "$P = O + \\overrightarrow{AO} = (3, 5)$。$Q = P + 2\\overrightarrow{BP} = 3P - 2B = (-3, 15)$。\n$O = Q + 3\\overrightarrow{CQ} = 4Q - 3C$，$C = \\dfrac43Q = (-4, 20)$。"
+  },
+  {
+    "id": "98-gsat-math-C",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 抽獎遊戲中，參加者自箱中抽出一球，確定顏色後放回。只有抽得藍色或紅色球者可得消費券，其金額分別為（抽得藍色球者）2000 元、（抽得紅色球者）1000 元。箱中已置有 2 顆藍色球及 5 顆紅色球。在抽出任一球之機率相等的條件下，主辦單位希望參加者所得消費券金額的期望值為 300 元，則主辦單位應於箱內再置入 ⑱⑲ 顆其他顏色的球。",
+    "blanks": [
+      "2",
+      "3"
+    ],
+    "blankLabels": [
+      "18",
+      "19"
+    ],
+    "explanation": "設再放 $n$ 顆：$\\dfrac{2\\times2000 + 5\\times1000}{7 + n} = 300$，$7 + n = 30$，$n = 23$。"
+  },
+  {
+    "id": "98-gsat-math-D",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "D. 坐標平面上有兩條平行直線。它們的 $x$ 截距相差 20，$y$ 截距相差 15。則這兩條平行直線的距離為 ⑳㉑。",
+    "blanks": [
+      "1",
+      "2"
+    ],
+    "blankLabels": [
+      "20",
+      "21"
+    ],
+    "explanation": "設兩直線 $y = mx + k_1$、$y = mx + k_2$：$|k_1 - k_2| = 15$，$x$ 截距差 $\\dfrac{|k_1 - k_2|}{|m|} = 20$，$|m| = \\dfrac34$。\n距離 $\\dfrac{15}{\\sqrt{1 + 9/16}} = \\dfrac{15}{5/4} = 12$。"
+  },
+  {
+    "id": "98-gsat-math-E",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "E. 假設 $\\Gamma_1$ 為坐標平面上一開口向上的拋物線，其對稱軸為 $x = -\\dfrac34$ 且焦距（焦點到頂點的距離）為 $\\dfrac18$。若 $\\Gamma_1$ 與另一拋物線 $\\Gamma_2: y = x^2$ 恰交於一點，則 $\\Gamma_1$ 的頂點之 $y$ 坐標為 $\\dfrac{㉒}{㉓}$。（化成最簡分數）",
+    "blanks": [
+      "9",
+      "8"
+    ],
+    "blankLabels": [
+      "22",
+      "23"
+    ],
+    "explanation": "焦距 $\\dfrac18$：$\\left(x + \\dfrac34\\right)^2 = \\dfrac12(y - k)$，即 $y = 2\\left(x + \\dfrac34\\right)^2 + k$。\n與 $y = x^2$ 聯立：$x^2 + 3x + \\dfrac98 + k = 0$ 恰一解，判別式 $9 - 4\\left(\\dfrac98 + k\\right) = 0$，$k = \\dfrac98$。"
+  },
+  {
+    "id": "98-gsat-math-F",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "F. 某公司為了響應節能減碳政策，決定在五年後將公司該年二氧化碳排放量降為目前排放量的 75%。公司希望每年依固定的比率（當年和前一年排放量的比）逐年減少二氧化碳的排放量。若要達到這項目標，則該公司每年至少要比前一年減少 ㉔.㉕ % 的二氧化碳的排放量。（計算到小數點後第一位，以下四捨五入。）\n（參考：$\\log_{10}2 \\approx 0.3010$，$\\log_{10}3 \\approx 0.4771$；對數表中 $\\log_{10}9.44 \\approx 0.9750$，$\\log_{10}9.45 \\approx 0.9754$）",
+    "blanks": [
+      "5",
+      "6"
+    ],
+    "blankLabels": [
+      "24",
+      "25"
+    ],
+    "explanation": "比率 $r$ 滿足 $r^5 = 0.75$。$\\log r = \\dfrac{\\log3 - 2\\log2 + 0}{5}$，即 $\\dfrac{0.4771 - 0.6020}{5} = -0.0250 = 0.9750 - 1$，$r \\approx 0.944$。\n每年至少減少 $1 - 0.944 = 5.6\\%$。"
+  },
+  {
+    "id": "98-gsat-math-G",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "G. 坐標空間中 $xy$ 平面上有一正方形，其頂點為 $O(0, 0, 0)$，$A(8, 0, 0)$，$B(8, 8, 0)$，$C(0, 8, 0)$。另一點 $P$ 在 $xy$ 平面的上方，且與 $O, A, B, C$ 四點的距離皆等於 6。若 $x + by + cz = d$ 為通過 $A, B, P$ 三點的平面，則 $(b, c, d) =$ (㉖, ㉗, ㉘)。",
+    "blanks": [
+      "0",
+      "2",
+      "8"
+    ],
+    "blankLabels": [
+      "26",
+      "27",
+      "28"
+    ],
+    "explanation": "$P$ 在正方形中心正上方：$P(4, 4, h)$，$16 + 16 + h^2 = 36$，$h = 2$。\n代入：$A$：$8 = d$；$B$：$8 + 8b = 8$，$b = 0$；$P$：$4 + 2c = 8$，$c = 2$。"
+  },
+  {
+    "id": "98-gsat-math-H",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "H. 有一橢圓與一雙曲線有共同的焦點 $F_1$、$F_2$，且雙曲線的貫軸長和橢圓的短軸長相等。設 $P$ 為此橢圓與雙曲線的一個交點，且 $\\overline{PF_1}\\times\\overline{PF_2} = 64$，則 $\\overline{F_1F_2} =$ ㉙㉚。",
+    "blanks": [
+      "1",
+      "6"
+    ],
+    "blankLabels": [
+      "29",
+      "30"
+    ],
+    "explanation": "橢圓 $\\overline{PF_1} + \\overline{PF_2} = 2a$；雙曲線 $|\\overline{PF_1} - \\overline{PF_2}| = 2b$（$b$ 為橢圓短半軸）。\n$\\overline{PF_1}\\cdot\\overline{PF_2} = \\dfrac{(2a)^2 - (2b)^2}4 = a^2 - b^2 = c^2 = 64$，$c = 8$，$\\overline{F_1F_2} = 16$。"
+  },
+  {
+    "id": "98-gsat-math-I",
+    "examType": "學測",
+    "year": 98,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "I. 在 $\\triangle ABC$ 中，$\\overline{AB} = 10$，$\\overline{AC} = 9$，$\\cos\\angle BAC = \\dfrac38$。設點 $P$、$Q$ 分別在邊 $\\overline{AB}$、$\\overline{AC}$ 上使得 $\\triangle APQ$ 之面積為 $\\triangle ABC$ 面積之一半，則 $\\overline{PQ}$ 之最小可能值為 $\\dfrac{㉛㉜}{㉝}$。（化成最簡分數）",
+    "blanks": [
+      "1",
+      "5",
+      "2"
+    ],
+    "blankLabels": [
+      "31",
+      "32",
+      "33"
+    ],
+    "explanation": "面積一半 ⇔ $\\overline{AP}\\cdot\\overline{AQ} = \\dfrac{10\\cdot9}2 = 45$。\n$\\overline{PQ}^2 = \\overline{AP}^2 + \\overline{AQ}^2 - 2\\cdot45\\cdot\\dfrac38 \\ge 2\\cdot45 - \\dfrac{135}4 = \\dfrac{225}4$，等號在 $\\overline{AP} = \\overline{AQ} = \\sqrt{45} < 9$ 時成立。最小值 $\\dfrac{15}2$。"
   }
 ]
