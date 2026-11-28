@@ -227247,5 +227247,318 @@
       "距離"
     ],
     "explanation": "$t = \\dfrac14$：$\\overrightarrow{AQ} = \\left(0, 1, \\dfrac14\\right)$、$\\overrightarrow{AR} = \\left(-1, 0, \\dfrac14\\right)$，$\\overrightarrow{AQ}\\times\\overrightarrow{AR} = \\left(\\dfrac14, -\\dfrac14, 1\\right)$，平行四邊形面積 $= \\sqrt{\\dfrac{1}{16} + \\dfrac{1}{16} + 1} = \\dfrac{3\\sqrt2}{4}$。\n距離 $= \\dfrac{3V}{\\text{底面積}} = \\dfrac{3\\cdot\\frac16}{\\frac{3\\sqrt2}{4}} = \\dfrac{\\sqrt2}{3}$。"
+  },
+  {
+    "id": "109-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "1. 矩陣 $\\begin{bmatrix} -1 & 0 \\\\ 1 & -1 \\end{bmatrix}^5$ 與下列哪一個矩陣相等？",
+    "options": [
+      "$\\begin{bmatrix} -1 & 0 \\\\ -5 & -1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 & 0 \\\\ -5 & 1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} -1 & 5 \\\\ 0 & -1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 & 0 \\\\ 5 & 1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} -1 & 0 \\\\ 5 & -1 \\end{bmatrix}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "令 $N = \\begin{bmatrix} 0 & 0 \\\\ -1 & 0 \\end{bmatrix}$，$N^2 = O$，原矩陣 $= -(I + N)$。\n$(I + N)^5 = I + 5N$（其餘項含 $N^2$ 為零），所以\n$$\\left(-(I + N)\\right)^5 = -(I + 5N) = \\begin{bmatrix} -1 & 0 \\\\ 5 & -1 \\end{bmatrix}$$\n（也可直接算 $M^2 = \\begin{bmatrix} 1 & 0 \\\\ -2 & 1 \\end{bmatrix}$，觀察規律。）\n\n故選 (E)"
+  },
+  {
+    "id": "109-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "2. 某畢業班由 8 位同學負責畢旅規劃，分成 A、B、C 三組，且三組分別由 3 人、3 人、2 人組成。8 位同學每人都會被分配到其中一組，且甲、乙兩位同學一定要在同一組。這 8 位同學總共有幾種分組方式？",
+    "options": [
+      "140 種",
+      "150 種",
+      "160 種",
+      "170 種",
+      "180 種"
+    ],
+    "answerIndex": 0,
+    "explanation": "• 甲乙在 A 組：A 再選 1 人 $\\dbinom61$，B 組 $\\dbinom53$，C 組剩 2 人：$6\\times10 = 60$。\n• 甲乙在 B 組：同理 60。\n• 甲乙在 C 組：A 組 $\\dbinom63 = 20$，B 組剩下：20。\n共 140 種。\n\n故選 (A)"
+  },
+  {
+    "id": "109-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "3. 為了瞭解 IQ 和腦容量是否有關，一項小型研究利用核磁共振測量了 5 個人的腦容量（以 10,000 像素為單位），連同他們的 IQ 列表如下。已知表中的 $X$ 之平均值為 $\\mu_X = 94$，$Y$ 之平均值為 $\\mu_Y = 97$，腦容量 $(X)$ 與 IQ$(Y)$ 的相關係數為 $r_{X,Y}$。根據上述表格，試判斷 $r_{X,Y}$ 的值最可能是下列哪一個選項？",
+    "svg": "<svg viewBox=\"0 0 414 68\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:496.79999999999995px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"110\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"57\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">腦容量 (X)</text><rect x=\"112\" y=\"4\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">90</text><rect x=\"172\" y=\"4\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"202\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">95</text><rect x=\"232\" y=\"4\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">91</text><rect x=\"292\" y=\"4\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">88</text><rect x=\"352\" y=\"4\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"382\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">106</text><rect x=\"2\" y=\"34\" width=\"110\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"57\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">IQ (Y)</text><rect x=\"112\" y=\"34\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"142\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">90</text><rect x=\"172\" y=\"34\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"202\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">100</text><rect x=\"232\" y=\"34\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"262\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">112</text><rect x=\"292\" y=\"34\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"322\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">80</text><rect x=\"352\" y=\"34\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"382\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">103</text></svg>",
+    "options": [
+      "$r_{X,Y} \\le -1$",
+      "$-1 < r_{X,Y} < -0.5$",
+      "$r_{X,Y} = 0$",
+      "$0 < r_{X,Y} < 0.5$",
+      "$r_{X,Y} \\ge 1$"
+    ],
+    "answerIndex": 3,
+    "explanation": "離差：$X$ 為 $-4, 1, -3, -6, 12$；$Y$ 為 $-7, 3, 15, -17, 6$。\n• $\\sum$ 乘積 $= 28 + 3 - 45 + 102 + 72 = 160$。\n• $\\sum dx^2 = 206$，$\\sum dy^2 = 608$。\n$r = \\dfrac{160}{\\sqrt{206\\times608}} \\approx \\dfrac{160}{354} \\approx 0.45$。\n\n故選 (D)"
+  },
+  {
+    "id": "109-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 設 $f(x)$ 為二次實係數多項式函數且 $f(x) = 0$ 沒有實根。試選出正確的選項。",
+    "options": [
+      "$f(0) > 0$",
+      "$f(1)f(2) > 0$",
+      "若 $f(x) - 1 = 0$ 有實根，則 $f(x) - 2 = 0$ 有實根",
+      "若 $f(x) - 1 = 0$ 有重根，則 $f(x) - \\dfrac12 = 0$ 沒有實根",
+      "若 $f(x) - 1 = 0$ 有兩相異實根，則 $f(x) - \\dfrac12 = 0$ 有實根"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "沒有實根表示 $f$ 恆正或恆負。\n• (A) 錯誤：可能恆負。\n• (B) 正確：$f(1)$、$f(2)$ 同號。\n• (C) 正確：$f$ 能等於 1，表示恆正且開口向上（值可到無限大），2 也會被取到。\n• (D) 正確：$f(x) = 1$ 有重根表示最小值為 1，$f \\ge 1$，取不到 $\\dfrac12$。\n• (E) 錯誤：最小值介於 0 與 1 之間，不一定 $\\le \\dfrac12$（例如最小值 0.8）。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "109-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 數列 $a_1, a_2, \\cdots$ 中，其奇數項是一個公比為 $\\dfrac13$ 的等比數列，而偶數項是一個公比為 $\\dfrac12$ 的等比數列，且 $a_1 = 3$，$a_2 = 2$。試選出正確的選項。",
+    "options": [
+      "$a_4 > a_5 > a_6 > a_7$",
+      "$\\dfrac{a_{10}}{a_{11}} > 10$",
+      "$\\displaystyle\\lim_{n\\to\\infty}a_n = 0$",
+      "$\\displaystyle\\lim_{n\\to\\infty}\\frac{a_{n+1}}{a_n} = 0$",
+      "$\\displaystyle\\sum_{n=1}^{100}a_n > 9$"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "奇數項：$3, 1, \\dfrac13, \\dfrac19, \\dots$；偶數項：$2, 1, \\dfrac12, \\dfrac14, \\dots$。\n• (A) 錯誤：$a_5 = \\dfrac13 < a_6 = \\dfrac12$。\n• (B) 正確：$a_{10} = 2\\left(\\dfrac12\\right)^4 = \\dfrac18$，$a_{11} = 3\\left(\\dfrac13\\right)^5 = \\dfrac{1}{81}$，比值 $\\dfrac{81}{8} > 10$。\n• (C) 正確：兩部分都趨近 0。\n• (D) 錯誤：$\\dfrac{a_{2k}}{a_{2k-1}} = \\dfrac{2(1/2)^{k-1}}{3(1/3)^{k-1}} = \\dfrac23\\left(\\dfrac32\\right)^{k-1} \\to \\infty$。\n• (E) 錯誤：奇數項和 $< \\dfrac{3}{1 - 1/3} = 4.5$，偶數項和 $< \\dfrac{2}{1 - 1/2} = 4$，總和 $< 8.5$。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "109-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 有一種在數線上移動一個棋子的遊戲，移動棋子的方式是以投擲一顆公正骰子來決定，其規則如下：（一）當所擲點數為 1 點時，棋子不移動。（二）當所擲點數為 3 或 5 點時，棋子向左（負向）移動「該點數減 1」單位。（三）當所擲點數為偶數時，棋子向右（正向）移動「該點數的一半」單位。第一次擲骰子時，棋子以原點當起點。第二次開始，棋子以前一次棋子所在位置為該次的起點。例如，投擲骰子二次，第一、二次分別擲出點數為 5 點、2 點時，該棋子先向左移動 4 單位至坐標 −4，再向右移動 1 單位至坐標 −3。試選出正確的選項。",
+    "options": [
+      "投擲骰子一次，棋子與原點距離為 2 的機率為 $\\dfrac12$",
+      "投擲骰子一次，棋子的坐標之期望值為 0",
+      "投擲骰子二次，棋子的坐標有可能為 −5",
+      "投擲骰子二次，在所擲兩次之點數和為奇數的情形下，棋子的坐標為正的機率為 $\\dfrac49$",
+      "投擲骰子三次，棋子在原點的機率為 $\\left(\\dfrac16\\right)^3$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "每次移動量：1 點 0、3 點 $-2$、5 點 $-4$、2 點 $+1$、4 點 $+2$、6 點 $+3$。\n• (A) 錯誤：$-2$ 或 $+2$，機率 $\\dfrac26 = \\dfrac13$。\n• (B) 正確：$\\dfrac{0 - 2 - 4 + 1 + 2 + 3}{6} = 0$。\n• (C) 錯誤：兩次移動量相加無法得到 $-5$（$-4$ 需配 $-1$、$-2$ 需配 $-3$，都不存在）。\n• (D) 正確：點數和為奇數 ⇔ 一奇一偶（9 種等可能組合）：奇數點移動 $\\{0, -2, -4\\}$、偶數點移動 $\\{1, 2, 3\\}$，和為正的有 $0 + 1, 0 + 2, 0 + 3, -2 + 3$ 共 4 種，機率 $\\dfrac49$。\n• (E) 錯誤：除了三次都擲 1，還有 $(-2, +1, +1)$、$(-4, +1, +3)$ 等組合，機率大於 $\\left(\\dfrac16\\right)^3$。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "109-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "A. 坐標平面上有一個多邊形區域 $\\Gamma$（含邊界），如圖所示。若 $k > 0$，直線 $7x + 2y = k$ 與兩坐標軸圍成一個三角形區域，使得多邊形區域 $\\Gamma$ 落在此三角形區域（含邊界）內，則最小正實數 $k =$ ⑦⑧。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-mb-A.png\" alt=\"多邊形 Γ 頂點 (0,0)、(0,5)、(1,6)、(4,5)、(6,2)、(4,0)\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "4",
+      "6"
+    ],
+    "blankLabels": [
+      "7",
+      "8"
+    ],
+    "explanation": "$\\Gamma$ 在三角形內 ⇔ 每個頂點都滿足 $7x + 2y \\le k$。各頂點的 $7x + 2y$：$(0, 5)$：10；$(1, 6)$：19；$(4, 5)$：38；$(6, 2)$：46；$(4, 0)$：28。\n最小 $k = 46$。"
+  },
+  {
+    "id": "109-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "B. 若隨機變數 $X$ 的可能值為 1、2、3、4，其出現的機率 $P(X = k)$ 與 $\\dfrac1k$ 成正比，則機率 $P(X = 3)$ 為 $\\dfrac{⑨}{⑩⑪}$。（化為最簡分數）",
+    "blanks": [
+      "4",
+      "2",
+      "5"
+    ],
+    "blankLabels": [
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation": "$P(X = k) = \\dfrac ck$，$c\\left(1 + \\dfrac12 + \\dfrac13 + \\dfrac14\\right) = \\dfrac{25}{12}c = 1$，$c = \\dfrac{12}{25}$。\n$P(X = 3) = \\dfrac{4}{25}$。"
+  },
+  {
+    "id": "109-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "C. 一家公司僅有經理、秘書、業務三位成員，若只有秘書加薪 10%，則全公司薪資總支出增加 3%；若只有業務加薪 20%，則全公司薪資總支出增加 4%。如果只有經理減薪 15%，那麼全公司薪資總支出將減少 ⑫.⑬ %。",
+    "blanks": [
+      "7",
+      "5"
+    ],
+    "blankLabels": [
+      "12",
+      "13"
+    ],
+    "explanation": "設總薪資 $T$：秘書 $0.1s = 0.03T$，$s = 0.3T$；業務 $0.2w = 0.04T$，$w = 0.2T$；經理 $m = 0.5T$。\n經理減薪 15%：減少 $0.15\\times0.5T = 0.075T$，即 7.5%。"
+  },
+  {
+    "id": "109-ast-mb-D",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "D. 坐標平面上有一梯形，四個頂點分別為 $A(0, 0)$、$B(1, 0)$、$P$、$Q$，其中過 $P, Q$ 兩點的直線方程式為 $y = 2x + 4$，下圖為示意圖。若 $Q$ 點的坐標為 $(a, 2a + 4)$，其中實數 $a \\ge 0$，則梯形 $ABPQ$ 的面積為 $\\dfrac{⑭}{⑮}a + ⑯$。（化為最簡分數）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-mb-D.png\" alt=\"梯形 ABPQ：AQ 與 BP 平行，P、Q 在直線 y = 2x + 4 上\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "5",
+      "2",
+      "5"
+    ],
+    "blankLabels": [
+      "14",
+      "15",
+      "16"
+    ],
+    "explanation": "由圖，$\\overline{AQ} \\parallel \\overline{BP}$。設 $\\overrightarrow{BP} = t(a, 2a + 4)$，$P(1 + ta, t(2a + 4))$ 在直線上：$t(2a + 4) = 2(1 + ta) + 4$，$t = \\dfrac32$，$P\\left(1 + \\dfrac32a, 3a + 6\\right)$。\n用鞋帶公式（$A \\to B \\to P \\to Q$）：$\\dfrac12\\big[(3a + 6) + (2a + 4)\\big] = \\dfrac52a + 5$。"
+  },
+  {
+    "id": "109-ast-mb-non-1-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】傳染病在發生初期時，由於大部分人未感染且無抗體，所以總感染人數大都以指數形式成長。在「初始感染人數為 $P_0$，且每位已感染者平均一天會傳染給 $r$ 位未感染者」的前提下，$n$ 天後感染到此疾病的總人數 $P_n$ 可以表示為 $P_n = P_0(1 + r)^n$，其中 $P_0 \\ge 1$ 且 $r > 0$。試回答下列問題。\n(1) 已知 $A = \\dfrac{\\log P_5 - \\log P_2}{3}$，$B = \\dfrac{\\log P_8 - \\log P_6}{2}$，試說明 $A = B$。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$A = B = \\log(1 + r)$"
+    ],
+    "blankLabels": [
+      "說明"
+    ],
+    "explanation": "$\\log P_n = \\log P_0 + n\\log(1 + r)$ 是 $n$ 的一次函數。\n$A = \\dfrac{3\\log(1 + r)}{3} = \\log(1 + r)$，$B = \\dfrac{2\\log(1 + r)}{2} = \\log(1 + r)$，所以 $A = B$。"
+  },
+  {
+    "id": "109-ast-mb-non-1-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】傳染病在發生初期時，由於大部分人未感染且無抗體，所以總感染人數大都以指數形式成長。在「初始感染人數為 $P_0$，且每位已感染者平均一天會傳染給 $r$ 位未感染者」的前提下，$n$ 天後感染到此疾病的總人數 $P_n$ 可以表示為 $P_n = P_0(1 + r)^n$，其中 $P_0 \\ge 1$ 且 $r > 0$。試回答下列問題。\n(2) 已知某傳染病初期符合上述數學模型且每隔 16 天總感染人數會增加為 10 倍，試求 $\\dfrac{P_{20}}{P_{17}}\\times\\dfrac{P_8}{P_6}\\times\\dfrac{P_5}{P_2}$ 的值。（5 分）",
+    "points": 5,
+    "blanks": [
+      "$\\sqrt{10}$"
+    ],
+    "blankLabels": [
+      "值"
+    ],
+    "explanation": "$(1 + r)^{16} = 10$。所求 $= (1 + r)^3(1 + r)^2(1 + r)^3 = (1 + r)^8 = 10^{1/2} = \\sqrt{10}$。"
+  },
+  {
+    "id": "109-ast-mb-non-1-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】傳染病在發生初期時，由於大部分人未感染且無抗體，所以總感染人數大都以指數形式成長。在「初始感染人數為 $P_0$，且每位已感染者平均一天會傳染給 $r$ 位未感染者」的前提下，$n$ 天後感染到此疾病的總人數 $P_n$ 可以表示為 $P_n = P_0(1 + r)^n$，其中 $P_0 \\ge 1$ 且 $r > 0$。試回答下列問題。\n(3) 承 (2)，試求 $\\dfrac{\\log P_{20} - \\log P_{17}}{3}$ 的值。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$\\dfrac{1}{16}$"
+    ],
+    "blankLabels": [
+      "值"
+    ],
+    "explanation": "$= \\log(1 + r) = \\dfrac{1}{16}\\log10 = \\dfrac{1}{16}$。"
+  },
+  {
+    "id": "109-ast-mb-non-2-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】在坐標平面上，兩平行直線 $L_1, L_2$ 的斜率都是 2 且距離為 5，又點 $A(2, -1)$ 是 $L_1$ 在第四象限的一點，點 $B$ 是 $L_2$ 在第二象限的一點且 $\\overline{AB} = 5$。已知直線 $L_3$ 的斜率為 3，通過點 $A$ 且交 $L_2$ 於點 $C$，試回答下列問題。\n(1) 試求直線 $AB$ 的斜率。（2 分）",
+    "points": 2,
+    "blanks": [
+      "$-\\dfrac12$"
+    ],
+    "blankLabels": [
+      "斜率"
+    ],
+    "explanation": "$A$ 在 $L_1$、$B$ 在 $L_2$，$\\overline{AB} = 5$ 恰等於兩平行線距離，所以 $\\overline{AB}$ 垂直兩線，斜率 $-\\dfrac12$。"
+  },
+  {
+    "id": "109-ast-mb-non-2-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】在坐標平面上，兩平行直線 $L_1, L_2$ 的斜率都是 2 且距離為 5，又點 $A(2, -1)$ 是 $L_1$ 在第四象限的一點，點 $B$ 是 $L_2$ 在第二象限的一點且 $\\overline{AB} = 5$。已知直線 $L_3$ 的斜率為 3，通過點 $A$ 且交 $L_2$ 於點 $C$，試回答下列問題。\n(2) 試求向量 $\\overrightarrow{AB}$。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$\\overrightarrow{AB} = (-2\\sqrt5, \\sqrt5)$"
+    ],
+    "blankLabels": [
+      "向量 AB"
+    ],
+    "explanation": "方向 $\\pm\\dfrac{(-2, 1)}{\\sqrt5}$，長 5：$\\overrightarrow{AB} = \\pm(-2\\sqrt5, \\sqrt5)$。\n$B = (2 - 2\\sqrt5, -1 + \\sqrt5)$ 在第二象限（另一個 $(2 + 2\\sqrt5, -1 - \\sqrt5)$ 在第四象限）。$\\overrightarrow{AB} = (-2\\sqrt5, \\sqrt5)$。"
+  },
+  {
+    "id": "109-ast-mb-non-2-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】在坐標平面上，兩平行直線 $L_1, L_2$ 的斜率都是 2 且距離為 5，又點 $A(2, -1)$ 是 $L_1$ 在第四象限的一點，點 $B$ 是 $L_2$ 在第二象限的一點且 $\\overline{AB} = 5$。已知直線 $L_3$ 的斜率為 3，通過點 $A$ 且交 $L_2$ 於點 $C$，試回答下列問題。\n(3) 試求內積 $\\overrightarrow{AB}\\cdot\\overrightarrow{AC}$ 的值。（3 分）",
+    "points": 3,
+    "blanks": [
+      "25"
+    ],
+    "blankLabels": [
+      "內積"
+    ],
+    "explanation": "$C$ 在 $L_2$ 上，$\\overrightarrow{AC}$ 在 $\\overrightarrow{AB}$ 方向（兩線的法向量方向）的投影長就是兩線距離 5，所以 $\\overrightarrow{AB}\\cdot\\overrightarrow{AC} = 5\\times5 = 25$。（也等於 $\\overrightarrow{AB}\\cdot(\\overrightarrow{AB} + \\overrightarrow{BC})$，而 $\\overrightarrow{BC}$ 在 $L_2$ 上與 $\\overrightarrow{AB}$ 垂直。）"
+  },
+  {
+    "id": "109-ast-mb-non-2-4",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】在坐標平面上，兩平行直線 $L_1, L_2$ 的斜率都是 2 且距離為 5，又點 $A(2, -1)$ 是 $L_1$ 在第四象限的一點，點 $B$ 是 $L_2$ 在第二象限的一點且 $\\overline{AB} = 5$。已知直線 $L_3$ 的斜率為 3，通過點 $A$ 且交 $L_2$ 於點 $C$，試回答下列問題。\n(4) 試求向量 $\\overrightarrow{AC}$。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$\\overrightarrow{AC} = (5\\sqrt5, 15\\sqrt5)$"
+    ],
+    "blankLabels": [
+      "向量 AC"
+    ],
+    "explanation": "$L_3$ 斜率 3，設 $\\overrightarrow{AC} = t(1, 3)$。$\\overrightarrow{AB}\\cdot\\overrightarrow{AC} = t(-2\\sqrt5 + 3\\sqrt5) = \\sqrt5\\,t = 25$，$t = 5\\sqrt5$。\n$\\overrightarrow{AC} = (5\\sqrt5, 15\\sqrt5)$。"
   }
 ]
