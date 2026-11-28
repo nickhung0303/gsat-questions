@@ -249905,5 +249905,881 @@
       "理由"
     ],
     "explanation": "丁的可可、小米、塊莖作物面積都是各洲最大，是非洲。理由可任選一項：\n• 殖民地式經濟，熱帶栽培業（可可）發達。\n• 大部分地區乾溼季分明，耐旱的小米、塊莖作物種植多。\n• 居民以塊莖作物、玉米為主食。"
+  },
+  {
+    "id": "101-ast-geo-01",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "自1960年代起，臺灣開始在不同的地區，選擇適合當地生長的作物或牲畜發展農業專業園區。臺灣農業專業園區的興起和發展，與該時期哪項現象的關係最密切？",
+    "options": [
+      "勞力老化",
+      "地層下陷",
+      "土地退化",
+      "交通革新"
+    ],
+    "answerIndex": 3,
+    "explanation": "公路、冷藏運輸等交通改善，使農產品能快速運到遠方市場，各地才能依自然條件專業化生產特定作物或牲畜。\n\n故選 (D)"
+  },
+  {
+    "id": "101-ast-geo-02",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "若全球氣候暖化加劇，則在不考慮其他的因素下，下列哪些地理界線的變化最有可能發生？（甲）高山的森林與草原界線海拔高度上移；（乙）高山雪線的海拔高度下降；（丙）葡萄、橄欖栽培北界向高緯度推移；（丁）稻、麥生長分界向低緯度推移。",
+    "options": [
+      "甲乙",
+      "甲丙",
+      "乙丁",
+      "丙丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "暖化使各種溫度界線往高海拔、高緯度移動：森林線上移（甲）、雪線上升、作物栽培北界北移（丙）、稻麥分界也往高緯移。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-geo-03",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "美國威斯康辛州中南部林地和草原有機質分布的調查顯示：「林地每英畝的有機質總量386噸，其中202噸貯存於林木中；草原每英畝的有機質總量352噸，其中只有7噸貯存於草體」。透過此一資料可獲得下列哪項推論？",
+    "options": [
+      "森林的生態系統較草原脆弱",
+      "森林區的土壤層較草原深厚",
+      "森林的生物總量較草原繁多",
+      "森林區的開發歷史較草原早"
+    ],
+    "answerIndex": 0,
+    "explanation": "森林的有機質一半以上存在林木中，一旦砍伐，養分隨之流失，土壤中留下的有機質少；草原的有機質幾乎都在土壤中，較能保存。所以森林生態系較脆弱。\n\n故選 (A)"
+  },
+  {
+    "id": "101-ast-geo-04",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "圖一為某地的港口形勢圖。港口開築後，圖中甲乙丙丁四處，何處最可能因海岸侵蝕加劇，而需要堆放消波塊以防止海岸後退？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-04.png\" alt=\"圖一 港口形勢圖：沿岸流的主要流向由北向南；河口北岸有甲、乙，港口設在乙南方突出處，港口南方為丙，再往南是另一條河的南岸丁\" style=\"width:100%;max-width:160px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "沿岸流由北向南。港口防波堤攔截了漂沙，堤的上游側（北側）堆積，下游側（南側）漂沙補充減少而侵蝕加劇，即緊鄰港口南方的丙。\n\n故選 (C)"
+  },
+  {
+    "id": "101-ast-geo-05",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "臺灣國家公園的選定，主要參考下列哪幾項條件？（甲）具有特殊景觀，或重要生態系統、生物多樣性棲地者；（乙）具有重要之文化資產及史蹟，其自然及人文環境富有文化教育意義者；（丙）具有地廣人稀之低度開發，保有相對完整之地理環境者；（丁）具有天然育樂資源，風貌特異者。",
+    "options": [
+      "甲乙丙",
+      "甲乙丁",
+      "甲丙丁",
+      "乙丙丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "依《國家公園法》，國家公園選定標準為：特殊景觀或重要生態系（甲）、重要文化資產與史蹟（乙）、天然育樂資源（丁）。地廣人稀不是選定條件。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-geo-06",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "非洲東部在30年來，至少每十年會出現一次飢荒，最近一次是2011年，受災人數高達1240萬，其中以衣索比亞、吉布地、肯亞和索馬利亞等國問題最為嚴重。除了人為因素外，非洲東部飢荒頻率高的現象，和該地哪項氣候特色關係密切？",
+    "options": [
+      "乾濕季節分明",
+      "終年高溫炎熱",
+      "雨量變率較大",
+      "日照時數較少"
+    ],
+    "answerIndex": 2,
+    "explanation": "東非乾燥地區年雨量少且雨量變率大，常出現連續乾旱年，作物歉收、牲畜死亡，導致飢荒週期性發生。\n\n故選 (C)"
+  },
+  {
+    "id": "101-ast-geo-07",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "照片一為臺灣某地的天主堂。該教堂的整體建築風格，最能顯示臺灣的何種人文特色？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-07.png\" alt=\"照片一 天主堂：中式牌樓大門、紅色柱子、石獅，屋頂上立著十字架\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "文化呈多元色彩",
+      "原住民族社眾多",
+      "老年人口比率高",
+      "區域發展不均衡"
+    ],
+    "answerIndex": 0,
+    "explanation": "天主教堂採用中國宮殿式牌樓、紅柱、石獅等傳統建築元素，西方宗教與本土文化融合，顯示臺灣文化的多元。\n\n故選 (A)"
+  },
+  {
+    "id": "101-ast-geo-08",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "8-9 為題組\n2009年，中國人口約13.3億，有6.2億人居住在都市。都市人口中，低收入者約占55%，中等收入者約占37%。據預測，中國都市中等收入的人口比例將逐年增加，2019年可能超過低收入人口比例，2023年前後甚至可能突破50%。請問：\n\n2009年，中國的都市化程度最接近下列哪個數字？",
+    "options": [
+      "6%",
+      "37%",
+      "45%",
+      "55%"
+    ],
+    "answerIndex": 2,
+    "explanation": "都市化程度 $= \\dfrac{6.2}{13.3} \\approx 47\\%$，最接近 45%。\n\n故選 (C)"
+  },
+  {
+    "id": "101-ast-geo-09",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "8-9 為題組\n2009年，中國人口約13.3億，有6.2億人居住在都市。都市人口中，低收入者約占55%，中等收入者約占37%。據預測，中國都市中等收入的人口比例將逐年增加，2019年可能超過低收入人口比例，2023年前後甚至可能突破50%。請問：\n\n「都市人口中，中等收入之比例逐年增加」的預測，可推論中國未來的都市發展會有可能出現下列哪種變化？",
+    "options": [
+      "城鄉關係緊密",
+      "貧富差距縮小",
+      "都市規模擴大",
+      "都市階層複雜"
+    ],
+    "answerIndex": 1,
+    "explanation": "中等收入者增加、低收入者比例下降，所得分配趨於中間，貧富差距縮小。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-geo-10",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "10-11 為題組\n圖二是東亞某日天氣圖，圖中等值線為等壓線，數值單位為百帕（hPa）。請問：\n\n該圖最可能是下列哪個節氣前後某日的天氣圖？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-10.png\" alt=\"圖二 東亞天氣圖：蒙古到華北有中心約 1040 hPa 以上的強大高壓，等壓線密集；一道冷鋒由日本南方經臺灣附近向西南延伸；日本東方海上另有高壓\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "驚蟄（國曆3月6日左右）",
+      "立夏（國曆5月6日左右）",
+      "立秋（國曆8月8日左右）",
+      "寒露（國曆10月8日左右）"
+    ],
+    "answerIndex": 0,
+    "explanation": "蒙古高壓仍然非常強大（1040 hPa 以上），冷鋒南下通過臺灣，是冬末春初的天氣型態，最接近驚蟄。\n\n故選 (A)"
+  },
+  {
+    "id": "101-ast-geo-11",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "10-11 為題組\n圖二是東亞某日天氣圖，圖中等值線為等壓線，數值單位為百帕（hPa）。請問：\n\n根據該天氣圖所提供的資訊，下列哪些最可能是該日氣象報告的內容？（甲）臺灣受西南氣流影響，各地午後會有雷陣雨；（乙）冷鋒正往臺灣接近，未來數日天氣逐漸轉冷；（丙）臺灣各地早晚氣溫偏低，沿海低地慎防寒害；（丁）臺灣海峽東北季風強勁，海面船隻多加注意",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-10.png\" alt=\"圖二 東亞天氣圖：蒙古到華北有中心約 1040 hPa 以上的強大高壓，等壓線密集；一道冷鋒由日本南方經臺灣附近向西南延伸；日本東方海上另有高壓\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙",
+      "甲丁",
+      "乙丙",
+      "丙丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "冷鋒已通過臺灣、大陸冷氣團籠罩，氣溫偏低（丙）；高壓東南側等壓線密集，臺灣海峽東北季風強勁（丁）。冷鋒已經通過，不是「正在接近」。\n\n故選 (D)"
+  },
+  {
+    "id": "101-ast-geo-12",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "12-13 為題組\n照片二是某地的地形景觀。請問：\n\n該種地形景觀的塑造，和下列哪種地形作用的關係最密切？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-12.png\" alt=\"照片二 平坦地面上散布著許多被侵蝕成奇形怪狀的淺色岩塊\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "堆積作用",
+      "風化作用",
+      "崩壞作用",
+      "岩溶作用"
+    ],
+    "answerIndex": 1,
+    "explanation": "照片是乾燥區的風蝕地形（如石灰岩被差異風化與風蝕成蕈狀岩、殘丘）。乾燥地區日夜溫差大，物理風化旺盛，岩石崩解後再經風力吹蝕塑造。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-geo-13",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "12-13 為題組\n照片二是某地的地形景觀。請問：\n\n該種地形景觀在下列哪些環境中最容易出現？（甲）位居信風帶背風側；（乙）沿海有寒、暖流交會；（丙）曾遭大陸冰河長期覆蓋；（丁）終年受副熱帶高壓籠罩；（戊）深居內陸，周圍又有高山屏障；（己）夏熱冬暖、年溫差不大，夏乾冬雨。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-12.png\" alt=\"照片二 平坦地面上散布著許多被侵蝕成奇形怪狀的淺色岩塊\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙丁",
+      "甲丁戊",
+      "乙丙己",
+      "丙戊己"
+    ],
+    "answerIndex": 1,
+    "explanation": "乾燥沙漠形成的條件：位於信風帶背風側（甲）、副熱帶高壓籠罩（丁）、深居內陸又有高山阻擋水氣（戊）。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-geo-14",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "14-15 為題組\n北美洲的人口約占全球5%，二氧化碳排放量卻超過全球25%。二氧化碳排放量高居不下的原因有二：其一、龐大的用電需求，每年燃燒化石燃料發電而排放的二氧化碳，占總排放量40%以上；其二、各種運輸工具燃燒大量汽油，排放的二氧化碳，也占總排放量的26%左右。請問：\n\n北美洲用電需求龐大，與下列哪項區域特色的關連性最密切？",
+    "options": [
+      "區域發展不均，居民貧富差距大",
+      "工商業高度發展，都市化程度高",
+      "農場規模大，作物商品化程度高",
+      "文化包容色彩強，多元人口移入"
+    ],
+    "answerIndex": 1,
+    "explanation": "工商業發達、都市化程度高，產業與生活用電量都大。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-geo-15",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "14-15 為題組\n北美洲的人口約占全球5%，二氧化碳排放量卻超過全球25%。二氧化碳排放量高居不下的原因有二：其一、龐大的用電需求，每年燃燒化石燃料發電而排放的二氧化碳，占總排放量40%以上；其二、各種運輸工具燃燒大量汽油，排放的二氧化碳，也占總排放量的26%左右。請問：\n\n北美洲因交通運輸而排放大量二氧化碳，主因為何？（甲）城郊化顯著；（乙）鐵路網密度高；（丙）都市住商分離明顯；（丁）土地空間競爭激烈；（戊）產業轉型快速。",
+    "options": [
+      "甲丙",
+      "乙戊",
+      "丙丁",
+      "丁戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "北美洲郊區化明顯（甲），住宅區與商業區分離（丙），居民通勤距離長、依賴汽車，汽油消耗量大。\n\n故選 (A)"
+  },
+  {
+    "id": "101-ast-geo-16",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "16-18 為題組\n圖三是蘇花公路改善計畫圖的部分路段。民國90年代末期，政府爲解決蘇花公路災害頻仍的問題，擬定改善計劃。計劃中新闢路線長38.4公里，分隧道（23.4公里）、橋樑（8.5公里）、平面道路（6.5公里）三種工程類型。請問：\n\n圖三中武塔隧道到谷風隧道的山地地形，其絕對高度的空間差異為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-16.png\" alt=\"圖三 蘇花改建工程道路剖面：由左（北）往右（南）依序為武塔高架橋 540 m、武塔隧道 475 m、南澳南溪河川橋 675 m、觀音隧道 7900 m、鼓音橋 60 m、谷風隧道 4645 m，最右為漢本、和平溪、和平工業區；山地剖面由北往南愈來愈高，谷風隧道上方最高\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "北高南低",
+      "北低南高",
+      "西高東低",
+      "西低東高"
+    ],
+    "answerIndex": 1,
+    "explanation": "蘇花公路由北（蘇澳）往南（花蓮），剖面圖左側為北、右側為南。武塔隧道上方的山較低，往南到谷風隧道上方的山最高，北低南高。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-geo-17",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "16-18 為題組\n圖三是蘇花公路改善計畫圖的部分路段。民國90年代末期，政府爲解決蘇花公路災害頻仍的問題，擬定改善計劃。計劃中新闢路線長38.4公里，分隧道（23.4公里）、橋樑（8.5公里）、平面道路（6.5公里）三種工程類型。請問：\n\n在蘇花公路38.4公里的改善工程中，占路線長度比例最高的工程類型，最可能是避免下列哪種災害問題的發生？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-16.png\" alt=\"圖三 蘇花改建工程道路剖面：由左（北）往右（南）依序為武塔高架橋 540 m、武塔隧道 475 m、南澳南溪河川橋 675 m、觀音隧道 7900 m、鼓音橋 60 m、谷風隧道 4645 m，最右為漢本、和平溪、和平工業區；山地剖面由北往南愈來愈高，谷風隧道上方最高\" style=\"width:100%;max-width:560px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "海浪侵蝕沿岸海階，掏空公路路基",
+      "沿岸地層下陷顯著，公路路基凹陷",
+      "暖化造成海面上升，淹沒公路路面",
+      "海岸易受地震影響，土石崩落路面"
+    ],
+    "answerIndex": 3,
+    "explanation": "隧道占 23.4 公里，比例最高。蘇花海岸是陡峭的斷層海岸，地震頻繁、岩層破碎，舊路沿著山壁容易落石坍方，改走隧道可避開邊坡崩落。\n\n故選 (D)"
+  },
+  {
+    "id": "101-ast-geo-18",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "16-18 為題組\n圖三是蘇花公路改善計畫圖的部分路段。民國90年代末期，政府爲解決蘇花公路災害頻仍的問題，擬定改善計劃。計劃中新闢路線長38.4公里，分隧道（23.4公里）、橋樑（8.5公里）、平面道路（6.5公里）三種工程類型。請問：\n\n下列哪一項蘇花公路改善工程的法制步驟，符合現行國土規劃的規範？",
+    "options": [
+      "依區域計畫法必須通過政府核定開發許可",
+      "透過獎勵容積率增加本工程基地開放空間",
+      "提高本工程建蔽率以增進道路使用之效益",
+      "本工程完工後須經環境影響評估才能通車"
+    ],
+    "answerIndex": 0,
+    "explanation": "非都市土地的大型開發依區域計畫法須申請開發許可。容積率、建蔽率是建築管制，不適用道路工程；環境影響評估應在開發「之前」進行。\n\n故選 (A)"
+  },
+  {
+    "id": "101-ast-geo-19",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "19-20 為題組\n照片三是臺灣四種原生樹木的樹葉照片，這四種樹木的天然分布具有明顯空間差異。請問：\n\n導致臺灣這四種樹木分布具有明顯空間差異的最主要因素為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-19.png\" alt=\"照片三 四種樹葉：甲為有白色小花的闊葉灌木；乙為卵形革質葉的闊葉樹；丙為細長披針形葉的闊葉樹；丁為短小線形葉密生的針葉樹\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "高度",
+      "坡度",
+      "緯度",
+      "雨量"
+    ],
+    "answerIndex": 0,
+    "explanation": "臺灣高山多，氣溫隨海拔遞減，植物由低到高呈明顯的垂直分帶，主要因素是高度。\n\n故選 (A)"
+  },
+  {
+    "id": "101-ast-geo-20",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "19-20 為題組\n照片三是臺灣四種原生樹木的樹葉照片，這四種樹木的天然分布具有明顯空間差異。請問：\n\n灰化土壤為冷溫帶地區最常出現的土壤，它最可能出現在哪種樹木的分布區？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-19.png\" alt=\"照片三 四種樹葉：甲為有白色小花的闊葉灌木；乙為卵形革質葉的闊葉樹；丙為細長披針形葉的闊葉樹；丁為短小線形葉密生的針葉樹\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 3,
+    "explanation": "灰化土出現在寒冷潮溼的針葉林區。丁為細小線形葉的針葉樹（如臺灣冷杉、鐵杉），分布於高海拔冷溫帶。\n\n故選 (D)"
+  },
+  {
+    "id": "101-ast-geo-21",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-23 為題組\n中南美洲各國受地形、洋流和盛行風的影響，氣候類型多樣。殖民式經濟色彩濃厚，產業發展多以出口為導向。一些國家為了追求經濟成長，擴張耕地以發展農、牧業，導致熱帶雨林遭到大面積砍伐。砍伐雨林不僅對全球氣候造成衝擊，也使中南美洲生物多樣性降低。請問：\n\n除了巴西以外，下列哪些中南美洲國家，也可能砍伐雨林以增加耕地？",
+    "options": [
+      "智利、委內瑞拉",
+      "巴拉圭、烏拉圭",
+      "墨西哥、阿根廷",
+      "厄瓜多、尼加拉瓜"
+    ],
+    "answerIndex": 3,
+    "explanation": "厄瓜多（亞馬孫盆地上游）與尼加拉瓜（中美洲加勒比海側）都有熱帶雨林。智利、烏拉圭、阿根廷位於中緯度，沒有大片雨林。\n\n故選 (D)"
+  },
+  {
+    "id": "101-ast-geo-22",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-23 為題組\n中南美洲各國受地形、洋流和盛行風的影響，氣候類型多樣。殖民式經濟色彩濃厚，產業發展多以出口為導向。一些國家為了追求經濟成長，擴張耕地以發展農、牧業，導致熱帶雨林遭到大面積砍伐。砍伐雨林不僅對全球氣候造成衝擊，也使中南美洲生物多樣性降低。請問：\n\n中南美洲因砍伐雨林而導致許多動物棲息地遭到嚴重破壞，生物多樣性降低。此一事實最可能對當地農業活動造成下列何種影響？",
+    "options": [
+      "殺蟲劑需求量增加",
+      "灌溉用水需求量減少",
+      "有機肥料需求量減少",
+      "農業勞動力供應量增加"
+    ],
+    "answerIndex": 0,
+    "explanation": "生物多樣性降低，捕食害蟲的天敵（鳥類、昆蟲等）減少，生態平衡被破壞，蟲害增加，殺蟲劑需求上升。\n\n故選 (A)"
+  },
+  {
+    "id": "101-ast-geo-23",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "21-23 為題組\n中南美洲各國受地形、洋流和盛行風的影響，氣候類型多樣。殖民式經濟色彩濃厚，產業發展多以出口為導向。一些國家為了追求經濟成長，擴張耕地以發展農、牧業，導致熱帶雨林遭到大面積砍伐。砍伐雨林不僅對全球氣候造成衝擊，也使中南美洲生物多樣性降低。請問：\n\n下列哪些事實，最足以解釋「中南美洲殖民式經濟色彩濃厚」？（甲）大部分國家平均國民所得屬中高或中低所得國家。（乙）低緯地區熱帶栽培業發達，中緯地帶畜牧業鼎盛。（丙）都市化程度雖高，但首要型的都市體系型態普遍。（丁）從1980至2010年，平均HDI由0.573增加為0.704。（戊）輸出以農牧礦產品為主，輸入以工業產品為大宗。",
+    "options": [
+      "甲乙丙",
+      "甲乙丁",
+      "乙丙戊",
+      "丙丁戊"
+    ],
+    "answerIndex": 2,
+    "explanation": "殖民式經濟的特徵：為宗主國生產熱帶栽培作物與畜產（乙）；資本與機能集中在殖民時期的港口首都，形成首要型都市（丙）；出口原料、進口工業製品（戊）。\n\n故選 (C)"
+  },
+  {
+    "id": "101-ast-geo-24",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "24-26 為題組\n中國於2010年公布了《長江三角洲地區區域規劃》。該規劃的主要目標是，企圖掌握長江三角洲地區當前面臨的有利機遇，在2020年以前發展成以上海（滬）為核心的九個發展帶，包括：(1)沿滬寧（南京）和滬杭甬（寧波）線、(2)沿長江線、(3)沿杭州灣線、(4)沿黃、東海線、(5)沿寧湖杭線、(6)沿太湖線、(7)沿東隴海線（連雲港經徐州、洛陽、西安到蘭州的鐵路線）、(8)沿運河線、(9)沿溫麗金衢線等；並建構成大、中、小規模的都市體系，以發揮協調發展的功能。表一是《長江三角洲地區區域規劃》的都市體系表。請問：\n\n依中國公布的《長江三角洲地區區域規劃》，其都市體系的建構，所依據的立論基礎為何？",
+    "svg": "<svg viewBox=\"0 0 704 176\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"140\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">都市規模（萬人）</text><rect x=\"142\" y=\"4\" width=\"560\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">都市名稱</text><rect x=\"2\" y=\"32\" width=\"140\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1000 以內</text><rect x=\"142\" y=\"32\" width=\"560\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">上海市區</text><rect x=\"2\" y=\"60\" width=\"140\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">700 以內</text><rect x=\"142\" y=\"60\" width=\"560\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">南京、杭州</text><rect x=\"2\" y=\"88\" width=\"140\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">400 以內</text><rect x=\"142\" y=\"88\" width=\"560\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">蘇州、無錫、常州、徐州、寧波、溫州</text><rect x=\"2\" y=\"116\" width=\"140\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100-200</text><rect x=\"142\" y=\"116\" width=\"560\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">鎮江、揚州、泰州、南通、連雲港、鹽城、淮安、湖州、嘉興、紹興、臺州、金華、衢州</text><rect x=\"2\" y=\"144\" width=\"140\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"72\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">50-100</text><rect x=\"142\" y=\"144\" width=\"560\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"422\" y=\"162.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">宿遷、舟山、麗水、江都、高郵等 52 個潛力較大的縣級市</text></svg>",
+    "options": [
+      "推拉因素",
+      "中地理論",
+      "依賴式經濟",
+      "環境負載力"
+    ],
+    "answerIndex": 1,
+    "explanation": "建構大、中、小規模的都市層級，高階都市少、低階都市多，彼此分工協調，是依中地理論建立都市體系。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-geo-25",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "24-26 為題組\n中國於2010年公布了《長江三角洲地區區域規劃》。該規劃的主要目標是，企圖掌握長江三角洲地區當前面臨的有利機遇，在2020年以前發展成以上海（滬）為核心的九個發展帶，包括：(1)沿滬寧（南京）和滬杭甬（寧波）線、(2)沿長江線、(3)沿杭州灣線、(4)沿黃、東海線、(5)沿寧湖杭線、(6)沿太湖線、(7)沿東隴海線（連雲港經徐州、洛陽、西安到蘭州的鐵路線）、(8)沿運河線、(9)沿溫麗金衢線等；並建構成大、中、小規模的都市體系，以發揮協調發展的功能。表一是《長江三角洲地區區域規劃》的都市體系表。請問：\n\n從天然資源分布和勞動力供需的角度判斷，「大力發展勞力密集型產業，積極發展對外貿易，建設資源加工產業基地。」的發展策略，最可能出現在下列哪個發展帶？",
+    "options": [
+      "沿太湖線發展帶",
+      "沿東隴海線發展帶",
+      "沿杭州灣發展帶",
+      "沿滬寧和滬杭甬線發展帶"
+    ],
+    "answerIndex": 1,
+    "explanation": "東隴海線由連雲港經徐州通往西北內陸，沿線是蘇北、西北較落後地區，勞力充沛、煤礦等資源豐富，有連雲港可出口，適合發展勞力密集與資源加工產業。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-geo-26",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "24-26 為題組\n中國於2010年公布了《長江三角洲地區區域規劃》。該規劃的主要目標是，企圖掌握長江三角洲地區當前面臨的有利機遇，在2020年以前發展成以上海（滬）為核心的九個發展帶，包括：(1)沿滬寧（南京）和滬杭甬（寧波）線、(2)沿長江線、(3)沿杭州灣線、(4)沿黃、東海線、(5)沿寧湖杭線、(6)沿太湖線、(7)沿東隴海線（連雲港經徐州、洛陽、西安到蘭州的鐵路線）、(8)沿運河線、(9)沿溫麗金衢線等；並建構成大、中、小規模的都市體系，以發揮協調發展的功能。表一是《長江三角洲地區區域規劃》的都市體系表。請問：\n\n下列哪些事實最可能是「長江三角洲地區當前面臨的有利機遇」？（甲）經濟全球化加速發展；（乙）製造業產品的生命週期日益縮短；（丙）國際能源與原物料價格不斷上漲；（丁）低技術勞工國際遷移現象日趨頻繁；（戊）跨國企業投資方向向亞太地區轉移；（己）亞太地區區域合作與交流日益密切。",
+    "options": [
+      "甲戊己",
+      "乙丁戊",
+      "乙丙己",
+      "丙丁戊"
+    ],
+    "answerIndex": 0,
+    "explanation": "全球化（甲）、跨國企業投資轉向亞太（戊）、亞太區域合作密切（己）都對長三角有利。原物料漲價是不利因素；產品生命週期縮短、勞工移出也不是機遇。\n\n故選 (A)"
+  },
+  {
+    "id": "101-ast-geo-27",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-29 為題組\n2004年和2007年，歐盟兩度東擴，愛沙尼亞、拉脫維亞、立陶宛、波蘭、捷克、斯洛伐克、匈牙利、斯洛維尼亞、羅馬尼亞、保加利亞等「中歐十國」和塞浦路斯、馬爾他相繼加入歐盟。「中歐十國」加入歐盟後，以「歐洲工廠」作為階段性的發展策略。利用歐盟提供的大量經費補助，積極發展基礎建設，改善投資條件，吸引全球各大汽車產業和高科技電子產業的製造與組裝工廠進駐，使國家經濟快速起飛，其中又以捷克因地理位置適中，經濟發展表現最為亮眼。請問：\n\n捷克發展工業過程中，曾發生過化學工廠排放化學藥劑至河川的工安問題，引起位於河川下游國家的緊張。和捷克發生河水污染國際紛爭的國家最可能是下列何國？",
+    "options": [
+      "法國",
+      "芬蘭",
+      "德國",
+      "義大利"
+    ],
+    "answerIndex": 2,
+    "explanation": "易北河發源於捷克，向北流經德國注入北海，德國位於下游。\n\n故選 (C)"
+  },
+  {
+    "id": "101-ast-geo-28",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-29 為題組\n2004年和2007年，歐盟兩度東擴，愛沙尼亞、拉脫維亞、立陶宛、波蘭、捷克、斯洛伐克、匈牙利、斯洛維尼亞、羅馬尼亞、保加利亞等「中歐十國」和塞浦路斯、馬爾他相繼加入歐盟。「中歐十國」加入歐盟後，以「歐洲工廠」作為階段性的發展策略。利用歐盟提供的大量經費補助，積極發展基礎建設，改善投資條件，吸引全球各大汽車產業和高科技電子產業的製造與組裝工廠進駐，使國家經濟快速起飛，其中又以捷克因地理位置適中，經濟發展表現最為亮眼。請問：\n\n「中歐十國」加入歐盟，除了互蒙其利的誘因外，還和近二十餘年來，下列哪項結構性的改變關係最密切？",
+    "options": [
+      "勞工遷移頻繁，跨國社會空間成形",
+      "金融風暴，全球經濟成長速率趨緩",
+      "中國經濟起飛，新興資本市場出現",
+      "蘇聯集團解體，華沙公約組織解散"
+    ],
+    "answerIndex": 3,
+    "explanation": "這些國家原屬蘇聯集團，1989～1991 年東歐劇變、蘇聯解體、華沙公約組織解散後，才轉向西方、申請加入歐盟。\n\n故選 (D)"
+  },
+  {
+    "id": "101-ast-geo-29",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "27-29 為題組\n2004年和2007年，歐盟兩度東擴，愛沙尼亞、拉脫維亞、立陶宛、波蘭、捷克、斯洛伐克、匈牙利、斯洛維尼亞、羅馬尼亞、保加利亞等「中歐十國」和塞浦路斯、馬爾他相繼加入歐盟。「中歐十國」加入歐盟後，以「歐洲工廠」作為階段性的發展策略。利用歐盟提供的大量經費補助，積極發展基礎建設，改善投資條件，吸引全球各大汽車產業和高科技電子產業的製造與組裝工廠進駐，使國家經濟快速起飛，其中又以捷克因地理位置適中，經濟發展表現最為亮眼。請問：\n\n從「歐洲整體」的尺度來看，中歐十國定位為「歐洲工廠」的階段性發展策略，與這些國家擁有下列哪兩項產業發展的區位優勢有關？",
+    "options": [
+      "豐沛的資金、多樣的原料",
+      "溫暖的氣候、便捷的交通",
+      "先進的技術、充足的動力",
+      "廉價的勞工、廣大的市場"
+    ],
+    "answerIndex": 3,
+    "explanation": "中歐工資遠低於西歐，又位於歐盟單一市場內，可以就近供應整個歐洲市場。\n\n故選 (D)"
+  },
+  {
+    "id": "101-ast-geo-30",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-32 為題組\n圖四是甲、乙、丙、丁四地氣候圖，分別代表不同的氣候區。請問：\n\n2012年4月，總統曾訪問我國在非洲的4個友邦，但赤道附近的聖多美普林西比，因該國元首另有行程，以致總統未能造訪該國。該國位於哪個氣候圖代表的氣候區內？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-30.png\" alt=\"圖四 四地氣候圖：甲 1 月約 −8℃、7 月約 18℃，月雨量 30～80 mm、夏季稍多；乙 全年 25～27℃，各月雨量 150～200 mm，12 月約 330 mm；丙 1 月約 −9℃、7 月約 17℃，各月雨量 60～80 mm 平均分布；丁 全年 21～27℃，雨量集中在 6～10 月（8 月約 300 mm），其餘月份幾乎無雨\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 1,
+    "explanation": "聖多美普林西比位於幾內亞灣、赤道附近，屬熱帶雨林氣候：全年高溫（25～27℃）、各月皆多雨，即乙。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-geo-31",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-32 為題組\n圖四是甲、乙、丙、丁四地氣候圖，分別代表不同的氣候區。請問：\n\n四地氣候圖所代表氣候區的國家，何者在21世紀初期，平均的人類發展指標（HDI）最高？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-30.png\" alt=\"圖四 四地氣候圖：甲 1 月約 −8℃、7 月約 18℃，月雨量 30～80 mm、夏季稍多；乙 全年 25～27℃，各月雨量 150～200 mm，12 月約 330 mm；丙 1 月約 −9℃、7 月約 17℃，各月雨量 60～80 mm 平均分布；丁 全年 21～27℃，雨量集中在 6～10 月（8 月約 300 mm），其餘月份幾乎無雨\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answerIndex": 2,
+    "explanation": "丙冬冷夏涼、全年雨量平均，屬溫帶溼潤的大陸型氣候，分布於北美東北部、西歐至東歐、北歐等已開發國家，HDI 最高。甲雨量少、偏乾的大陸內部；乙熱帶雨林、丁熱帶莽原多為開發中國家。\n\n故選 (C)"
+  },
+  {
+    "id": "101-ast-geo-32",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "30-32 為題組\n圖四是甲、乙、丙、丁四地氣候圖，分別代表不同的氣候區。請問：\n\n以下四種景觀，依序最可能出現在哪個氣候圖所代表的氣候區內？（一）大片森林遭受破壞，大力發展油棕、可可、橡膠、甘蔗等熱帶栽培業。（二）天然植物以耐旱的草類為主，開墾成的農田，則多為一望無際的麥田。（三）夏季森林枝繁葉茂、濃蔭密蓋；秋天樹葉轉黃、轉紅，漫山斑斕多彩。（四）羚羊、斑馬等成群地覓食，外圍則有獅子、花豹等肉食動物伺機獵食。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-30.png\" alt=\"圖四 四地氣候圖：甲 1 月約 −8℃、7 月約 18℃，月雨量 30～80 mm、夏季稍多；乙 全年 25～27℃，各月雨量 150～200 mm，12 月約 330 mm；丙 1 月約 −9℃、7 月約 17℃，各月雨量 60～80 mm 平均分布；丁 全年 21～27℃，雨量集中在 6～10 月（8 月約 300 mm），其餘月份幾乎無雨\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "甲乙丙丁",
+      "乙甲丙丁",
+      "丙丁乙甲",
+      "丁甲丙乙"
+    ],
+    "answerIndex": 1,
+    "explanation": "（一）熱帶雨林被砍伐發展栽培業：乙。（二）溫帶半乾燥草原，開墾為麥田：甲（雨量少）。（三）溫帶落葉林：丙。（四）熱帶莽原的大型草食動物：丁（乾溼季分明）。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-geo-33",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "33-35 為題組\n美國蘋果電腦公司所開發的iPod系列產品在全球市場熱賣。該產品的記憶體來自韓國，硬碟出自日本，視訊處理器由美商提供，半導體幾乎都在臺灣生產，整機組裝則在中國進行。iPod系列產品的成功，主要經由現有零組件的改良和創意組裝，如iPod系列透過iTunes軟體進行音樂下載服務，第一年便售出7,000萬首以上的歌曲，不但帶動iPod系列產品的銷售業績，也迫使唱片業者面臨轉型的威脅。請問：\n\n下列哪個概念，最適合用來解釋iPod系列產品的生產形式？",
+    "options": [
+      "產品規格化",
+      "全球在地化",
+      "空間分工鏈",
+      "跨國社會空間"
+    ],
+    "answerIndex": 2,
+    "explanation": "零組件分別在韓、日、美、臺生產，再到中國組裝，各地依專長分工，串成跨國的空間分工鏈。\n\n故選 (C)"
+  },
+  {
+    "id": "101-ast-geo-34",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "33-35 為題組\n美國蘋果電腦公司所開發的iPod系列產品在全球市場熱賣。該產品的記憶體來自韓國，硬碟出自日本，視訊處理器由美商提供，半導體幾乎都在臺灣生產，整機組裝則在中國進行。iPod系列產品的成功，主要經由現有零組件的改良和創意組裝，如iPod系列透過iTunes軟體進行音樂下載服務，第一年便售出7,000萬首以上的歌曲，不但帶動iPod系列產品的銷售業績，也迫使唱片業者面臨轉型的威脅。請問：\n\niPod系列產品在全球市場成功熱賣，反映現代產業的哪項特質？",
+    "options": [
+      "資本移動快速",
+      "知識經濟勃興",
+      "空間移轉快速",
+      "區域結盟緊密"
+    ],
+    "answerIndex": 1,
+    "explanation": "iPod 的成功來自創意設計、軟體服務與品牌等知識與創新，而非硬體製造，反映知識經濟的興起。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-geo-35",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "33-35 為題組\n美國蘋果電腦公司所開發的iPod系列產品在全球市場熱賣。該產品的記憶體來自韓國，硬碟出自日本，視訊處理器由美商提供，半導體幾乎都在臺灣生產，整機組裝則在中國進行。iPod系列產品的成功，主要經由現有零組件的改良和創意組裝，如iPod系列透過iTunes軟體進行音樂下載服務，第一年便售出7,000萬首以上的歌曲，不但帶動iPod系列產品的銷售業績，也迫使唱片業者面臨轉型的威脅。請問：\n\n蘋果電腦公司哪項營運內容，充分反映資訊化社會的特徵？",
+    "options": [
+      "整機組裝在中國進行",
+      "iPod系列產品在全球市場熱賣",
+      "透過iTunes軟體進行音樂下載服務",
+      "記憶體來自韓國，美商提供處理器"
+    ],
+    "answerIndex": 2,
+    "explanation": "透過網路下載數位音樂，取代實體唱片，是資訊化社會的典型特徵。\n\n故選 (C)"
+  },
+  {
+    "id": "101-ast-geo-36",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n1992年東協高峰會決議成立東南亞自由貿易區（AFTA），以消除區域間貿易的關稅與非關稅障礙。2002年AFTA正式啟動，但由於東協各國的優勢產品大致雷同，貿易互補性薄弱，故積極和鄰近國家尋求和東協合作機會，擴大經濟體以尋求專業技術與產業貿易的相互支援來提升和歐盟、美國等經濟體的競爭力。2010年，AFTA首先和中國成立東協－中國自由貿易區（ASEAN-China），也稱「東協加一」。未來還有可能擴大為「東協加三」的東亞自由貿易區（EAFTA），或「東協加六」的東亞綜合經濟夥伴（CEPEA）。請問：\n\n東協各國的優勢產品大致雷同，主要與下列哪項因素有最密切的關連？",
+    "options": [
+      "海運交通發達",
+      "民族組成複雜",
+      "殖民歷史類似",
+      "移民政策寬鬆"
+    ],
+    "answerIndex": 2,
+    "explanation": "東南亞各國多曾為殖民地，被殖民母國發展成橡膠、油棕、稻米、錫礦等原料出口地，產業結構相似，彼此貿易互補性低。\n\n故選 (C)"
+  },
+  {
+    "id": "101-ast-geo-37",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n1992年東協高峰會決議成立東南亞自由貿易區（AFTA），以消除區域間貿易的關稅與非關稅障礙。2002年AFTA正式啟動，但由於東協各國的優勢產品大致雷同，貿易互補性薄弱，故積極和鄰近國家尋求和東協合作機會，擴大經濟體以尋求專業技術與產業貿易的相互支援來提升和歐盟、美國等經濟體的競爭力。2010年，AFTA首先和中國成立東協－中國自由貿易區（ASEAN-China），也稱「東協加一」。未來還有可能擴大為「東協加三」的東亞自由貿易區（EAFTA），或「東協加六」的東亞綜合經濟夥伴（CEPEA）。請問：\n\n東協未來亦可能擴大為「東協加三」。加三除加入中國外，另外二國位於下列哪個氣候區？",
+    "options": [
+      "溫帶季風氣候區",
+      "熱帶季風氣候區",
+      "熱帶雨林氣候區",
+      "溫帶海洋性氣候區"
+    ],
+    "answerIndex": 0,
+    "explanation": "「加三」是中國、日本、韓國。日本、韓國屬溫帶季風氣候。\n\n故選 (A)"
+  },
+  {
+    "id": "101-ast-geo-38",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "single",
+    "points": 2,
+    "question": "36-38 為題組\n1992年東協高峰會決議成立東南亞自由貿易區（AFTA），以消除區域間貿易的關稅與非關稅障礙。2002年AFTA正式啟動，但由於東協各國的優勢產品大致雷同，貿易互補性薄弱，故積極和鄰近國家尋求和東協合作機會，擴大經濟體以尋求專業技術與產業貿易的相互支援來提升和歐盟、美國等經濟體的競爭力。2010年，AFTA首先和中國成立東協－中國自由貿易區（ASEAN-China），也稱「東協加一」。未來還有可能擴大為「東協加三」的東亞自由貿易區（EAFTA），或「東協加六」的東亞綜合經濟夥伴（CEPEA）。請問：\n\n為提升競爭力，東協與鄰近國家除組成「東協加一」外，還可能擴大組成「東協加三」甚或「東協加六」。東協這種擴大結盟國以強化競爭力的理論基礎，與下列哪項概念關係最密切？",
+    "options": [
+      "聚集經濟",
+      "規模經濟",
+      "計畫經濟",
+      "依賴式經濟"
+    ],
+    "answerIndex": 1,
+    "explanation": "擴大結盟可擴大市場規模，使生產量增加、平均成本下降，提升競爭力，是規模經濟的概念。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-geo-non-1-1",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、日本東北部某地區，山坡地土質鬆軟；每年4~10月間，因面迎盛行風而降水豐沛，易發生崩塌災害。地方政府為進行災害風險管理，乃在山坡地以10km×10km的範圍為單位，用地理資訊系統（GIS）建置資料庫。同時，根據以下標準劃定禁止開發建築區：1.平均坡度大於某特定值之陡坡區；2.傾角大於某特定值之順向坡區；3.活動斷層帶兩側一定距離內的影響區。圖五是「劃定禁止開發建築區」的分析架構和各階段成果圖層。\n\n1. 該地區山坡地土質鬆軟，和哪項「內營力」作用，引發地震頻繁有關？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-non1.png\" alt=\"圖五 分析架構：資料圖層有「坡度」、「甲」、「地層傾斜」、「活動斷層」；坡度圖層產生「陡坡區」，甲與地層傾斜圖層共同產生「順向坡區」，活動斷層圖層產生兩側帶狀的「活動斷層影響區」；三個階段成果再合成「最終成果圖」\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "板塊作用（火山作用）"
+    ],
+    "blankLabels": [
+      "內營力"
+    ],
+    "explanation": "日本位於太平洋板塊隱沒到歐亞（北美）板塊之下的交界，板塊運動使地震、火山頻繁，岩層破碎、土質鬆軟。"
+  },
+  {
+    "id": "101-ast-geo-non-1-2",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、日本東北部某地區，山坡地土質鬆軟；每年4~10月間，因面迎盛行風而降水豐沛，易發生崩塌災害。地方政府為進行災害風險管理，乃在山坡地以10km×10km的範圍為單位，用地理資訊系統（GIS）建置資料庫。同時，根據以下標準劃定禁止開發建築區：1.平均坡度大於某特定值之陡坡區；2.傾角大於某特定值之順向坡區；3.活動斷層帶兩側一定距離內的影響區。圖五是「劃定禁止開發建築區」的分析架構和各階段成果圖層。\n\n2. 圖五中資料圖層的甲項，最可能記載何種環境資訊？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-non1.png\" alt=\"圖五 分析架構：資料圖層有「坡度」、「甲」、「地層傾斜」、「活動斷層」；坡度圖層產生「陡坡區」，甲與地層傾斜圖層共同產生「順向坡區」，活動斷層圖層產生兩側帶狀的「活動斷層影響區」；三個階段成果再合成「最終成果圖」\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "坡向"
+    ],
+    "blankLabels": [
+      "環境資訊"
+    ],
+    "explanation": "順向坡是坡面方向與岩層傾斜方向一致的坡，需要「坡向」與「地層傾斜」兩個圖層比對才能判定。"
+  },
+  {
+    "id": "101-ast-geo-non-1-3",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、日本東北部某地區，山坡地土質鬆軟；每年4~10月間，因面迎盛行風而降水豐沛，易發生崩塌災害。地方政府為進行災害風險管理，乃在山坡地以10km×10km的範圍為單位，用地理資訊系統（GIS）建置資料庫。同時，根據以下標準劃定禁止開發建築區：1.平均坡度大於某特定值之陡坡區；2.傾角大於某特定值之順向坡區；3.活動斷層帶兩側一定距離內的影響區。圖五是「劃定禁止開發建築區」的分析架構和各階段成果圖層。\n\n3. 活動斷層影響區的劃定，主要使用到GIS哪項空間分析功能？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-non1.png\" alt=\"圖五 分析架構：資料圖層有「坡度」、「甲」、「地層傾斜」、「活動斷層」；坡度圖層產生「陡坡區」，甲與地層傾斜圖層共同產生「順向坡區」，活動斷層圖層產生兩側帶狀的「活動斷層影響區」；三個階段成果再合成「最終成果圖」\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "環域分析"
+    ],
+    "blankLabels": [
+      "空間分析功能"
+    ],
+    "explanation": "以斷層線為中心，向兩側劃出一定距離的範圍，是環域分析（buffer）。"
+  },
+  {
+    "id": "101-ast-geo-non-1-4",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "一、日本東北部某地區，山坡地土質鬆軟；每年4~10月間，因面迎盛行風而降水豐沛，易發生崩塌災害。地方政府為進行災害風險管理，乃在山坡地以10km×10km的範圍為單位，用地理資訊系統（GIS）建置資料庫。同時，根據以下標準劃定禁止開發建築區：1.平均坡度大於某特定值之陡坡區；2.傾角大於某特定值之順向坡區；3.活動斷層帶兩側一定距離內的影響區。圖五是「劃定禁止開發建築區」的分析架構和各階段成果圖層。\n\n4. 每年4~10月間，吹向該地區的盛行風，來自哪個海洋？盛行「風向」為何？（2 分）（答題說明：必須同時寫出「海洋」和「風向」的正確名稱才予計分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-non1.png\" alt=\"圖五 分析架構：資料圖層有「坡度」、「甲」、「地層傾斜」、「活動斷層」；坡度圖層產生「陡坡區」，甲與地層傾斜圖層共同產生「順向坡區」，活動斷層圖層產生兩側帶狀的「活動斷層影響區」；三個階段成果再合成「最終成果圖」\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "太平洋，東南風"
+    ],
+    "blankLabels": [
+      "海洋與風向"
+    ],
+    "explanation": "夏半年東亞吹夏季季風，日本東北部迎著由太平洋吹來的東南季風，降水豐沛。"
+  },
+  {
+    "id": "101-ast-geo-non-2-1",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、聯合國糧食及農業組織（FAO）的一篇研究報告指出，氣候變遷將導致全球穀物生產發生變化。從1980到2060年，在人為投入條件不變的情況下，四種變遷模式的估算結果顯示，有些區域穀物會增產，糧食供應較充裕；有些區域則會減產，導致糧食不足問題加重。表二是全球各區域在四種氣候變遷模式下穀物產量估計變化（%）表（1980-2060年）。\n\n1. 依全球各區域穀物增產區和減產區分布的差異分析，在人為投入不變的情況下，導致各區域穀物產量增減的變化與哪項氣候要素的關連最密切？該要素的變化趨勢為何？（2 分）（答題說明：必須同時寫出氣候要素（如雲量）和變化趨勢（如變少）才予計分）",
+    "svg": "<svg viewBox=\"0 0 574 268\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">區域別</text><rect x=\"72\" y=\"4\" width=\"180\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">區域</text><rect x=\"252\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式一</text><rect x=\"332\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式二</text><rect x=\"412\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式三</text><rect x=\"492\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式四</text><rect x=\"2\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"30\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">北美洲</text><rect x=\"252\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+10.6</text><rect x=\"332\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+5.9</text><rect x=\"412\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-5.2</text><rect x=\"492\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+4.1</text><rect x=\"2\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"56\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">西歐、南歐、北歐</text><rect x=\"252\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+6.5</text><rect x=\"332\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+7.7</text><rect x=\"412\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+12.2</text><rect x=\"492\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+14.7</text><rect x=\"2\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"82\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中、東歐（含前蘇聯）</text><rect x=\"252\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+24.6</text><rect x=\"332\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+7.6</text><rect x=\"412\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+6.0</text><rect x=\"492\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+19.9</text><rect x=\"2\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"108\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">東亞、澳紐</text><rect x=\"252\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+19.6</text><rect x=\"332\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+31.7</text><rect x=\"412\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+53.2</text><rect x=\"492\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+4.2</text><rect x=\"2\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"134\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">非洲</text><rect x=\"252\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-23.7</text><rect x=\"332\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-24.5</text><rect x=\"412\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-16.2</text><rect x=\"492\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-8.2</text><rect x=\"2\" y=\"160\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"160\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中、南美洲</text><rect x=\"252\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-25.0</text><rect x=\"332\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-17.8</text><rect x=\"412\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-14.5</text><rect x=\"492\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-10.3</text><rect x=\"2\" y=\"186\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"186\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">西亞</text><rect x=\"252\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-13.6</text><rect x=\"332\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-17.0</text><rect x=\"412\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-18.6</text><rect x=\"492\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+2.8</text><rect x=\"2\" y=\"212\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"212\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">南亞</text><rect x=\"252\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-11.9</text><rect x=\"332\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-8.5</text><rect x=\"412\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-26.8</text><rect x=\"492\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-3.5</text><rect x=\"2\" y=\"238\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"238\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">東南亞</text><rect x=\"252\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-12.3</text><rect x=\"332\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+0.3</text><rect x=\"412\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-1.6</text><rect x=\"492\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-12.8</text></svg>",
+    "blanks": [
+      "氣溫，逐漸上升"
+    ],
+    "blankLabels": [
+      "氣候要素與趨勢"
+    ],
+    "explanation": "增產區多在中高緯度（暖化使生長季延長、耕作北界北移），減產區多在低緯度（原本就熱，再升溫造成熱害與乾旱）。關鍵是氣溫上升。"
+  },
+  {
+    "id": "101-ast-geo-non-2-2",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、聯合國糧食及農業組織（FAO）的一篇研究報告指出，氣候變遷將導致全球穀物生產發生變化。從1980到2060年，在人為投入條件不變的情況下，四種變遷模式的估算結果顯示，有些區域穀物會增產，糧食供應較充裕；有些區域則會減產，導致糧食不足問題加重。表二是全球各區域在四種氣候變遷模式下穀物產量估計變化（%）表（1980-2060年）。\n\n2. FAO估算的2060年穀物增產區中，哪種穀類分布最廣，且產量最大，而商品化程度又最高？（2 分）",
+    "svg": "<svg viewBox=\"0 0 574 268\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">區域別</text><rect x=\"72\" y=\"4\" width=\"180\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">區域</text><rect x=\"252\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式一</text><rect x=\"332\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式二</text><rect x=\"412\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式三</text><rect x=\"492\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式四</text><rect x=\"2\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"30\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">北美洲</text><rect x=\"252\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+10.6</text><rect x=\"332\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+5.9</text><rect x=\"412\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-5.2</text><rect x=\"492\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+4.1</text><rect x=\"2\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"56\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">西歐、南歐、北歐</text><rect x=\"252\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+6.5</text><rect x=\"332\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+7.7</text><rect x=\"412\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+12.2</text><rect x=\"492\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+14.7</text><rect x=\"2\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"82\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中、東歐（含前蘇聯）</text><rect x=\"252\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+24.6</text><rect x=\"332\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+7.6</text><rect x=\"412\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+6.0</text><rect x=\"492\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+19.9</text><rect x=\"2\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"108\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">東亞、澳紐</text><rect x=\"252\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+19.6</text><rect x=\"332\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+31.7</text><rect x=\"412\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+53.2</text><rect x=\"492\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+4.2</text><rect x=\"2\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"134\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">非洲</text><rect x=\"252\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-23.7</text><rect x=\"332\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-24.5</text><rect x=\"412\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-16.2</text><rect x=\"492\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-8.2</text><rect x=\"2\" y=\"160\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"160\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中、南美洲</text><rect x=\"252\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-25.0</text><rect x=\"332\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-17.8</text><rect x=\"412\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-14.5</text><rect x=\"492\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-10.3</text><rect x=\"2\" y=\"186\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"186\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">西亞</text><rect x=\"252\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-13.6</text><rect x=\"332\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-17.0</text><rect x=\"412\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-18.6</text><rect x=\"492\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+2.8</text><rect x=\"2\" y=\"212\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"212\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">南亞</text><rect x=\"252\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-11.9</text><rect x=\"332\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-8.5</text><rect x=\"412\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-26.8</text><rect x=\"492\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-3.5</text><rect x=\"2\" y=\"238\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"238\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">東南亞</text><rect x=\"252\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-12.3</text><rect x=\"332\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+0.3</text><rect x=\"412\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-1.6</text><rect x=\"492\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-12.8</text></svg>",
+    "blanks": [
+      "小麥"
+    ],
+    "blankLabels": [
+      "穀類"
+    ],
+    "explanation": "北美、歐洲、前蘇聯、澳洲都是小麥主產區，小麥是國際貿易量最大的穀物。"
+  },
+  {
+    "id": "101-ast-geo-non-2-3",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、聯合國糧食及農業組織（FAO）的一篇研究報告指出，氣候變遷將導致全球穀物生產發生變化。從1980到2060年，在人為投入條件不變的情況下，四種變遷模式的估算結果顯示，有些區域穀物會增產，糧食供應較充裕；有些區域則會減產，導致糧食不足問題加重。表二是全球各區域在四種氣候變遷模式下穀物產量估計變化（%）表（1980-2060年）。\n\n3. 使用聯合國開發計畫署（UNDP）設計的HDI為發展程度指標，「在2009年前」可將世界各國劃分為三類國家。「以2009年的分區為準」，FAO估算的2060年穀物增產區，主要分布於哪類國家？（2 分）",
+    "svg": "<svg viewBox=\"0 0 574 268\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">區域別</text><rect x=\"72\" y=\"4\" width=\"180\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">區域</text><rect x=\"252\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式一</text><rect x=\"332\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式二</text><rect x=\"412\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式三</text><rect x=\"492\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式四</text><rect x=\"2\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"30\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">北美洲</text><rect x=\"252\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+10.6</text><rect x=\"332\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+5.9</text><rect x=\"412\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-5.2</text><rect x=\"492\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+4.1</text><rect x=\"2\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"56\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">西歐、南歐、北歐</text><rect x=\"252\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+6.5</text><rect x=\"332\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+7.7</text><rect x=\"412\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+12.2</text><rect x=\"492\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+14.7</text><rect x=\"2\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"82\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中、東歐（含前蘇聯）</text><rect x=\"252\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+24.6</text><rect x=\"332\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+7.6</text><rect x=\"412\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+6.0</text><rect x=\"492\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+19.9</text><rect x=\"2\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"108\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">東亞、澳紐</text><rect x=\"252\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+19.6</text><rect x=\"332\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+31.7</text><rect x=\"412\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+53.2</text><rect x=\"492\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+4.2</text><rect x=\"2\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"134\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">非洲</text><rect x=\"252\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-23.7</text><rect x=\"332\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-24.5</text><rect x=\"412\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-16.2</text><rect x=\"492\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-8.2</text><rect x=\"2\" y=\"160\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"160\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中、南美洲</text><rect x=\"252\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-25.0</text><rect x=\"332\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-17.8</text><rect x=\"412\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-14.5</text><rect x=\"492\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-10.3</text><rect x=\"2\" y=\"186\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"186\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">西亞</text><rect x=\"252\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-13.6</text><rect x=\"332\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-17.0</text><rect x=\"412\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-18.6</text><rect x=\"492\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+2.8</text><rect x=\"2\" y=\"212\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"212\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">南亞</text><rect x=\"252\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-11.9</text><rect x=\"332\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-8.5</text><rect x=\"412\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-26.8</text><rect x=\"492\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-3.5</text><rect x=\"2\" y=\"238\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"238\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">東南亞</text><rect x=\"252\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-12.3</text><rect x=\"332\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+0.3</text><rect x=\"412\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-1.6</text><rect x=\"492\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-12.8</text></svg>",
+    "blanks": [
+      "高度發展（開發）國家"
+    ],
+    "blankLabels": [
+      "國家類別"
+    ],
+    "explanation": "北美、歐洲、日本、澳紐等增產區多屬高度發展國家。"
+  },
+  {
+    "id": "101-ast-geo-non-2-4",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "二、聯合國糧食及農業組織（FAO）的一篇研究報告指出，氣候變遷將導致全球穀物生產發生變化。從1980到2060年，在人為投入條件不變的情況下，四種變遷模式的估算結果顯示，有些區域穀物會增產，糧食供應較充裕；有些區域則會減產，導致糧食不足問題加重。表二是全球各區域在四種氣候變遷模式下穀物產量估計變化（%）表（1980-2060年）。\n\n4. 從行星風系的角度來看，FAO估算的2060年穀物減產區，主要分布於哪三個氣壓帶或風帶？（2 分）（答題說明：三個氣壓帶或風帶完全答對才予計分）",
+    "svg": "<svg viewBox=\"0 0 574 268\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">區域別</text><rect x=\"72\" y=\"4\" width=\"180\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">區域</text><rect x=\"252\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式一</text><rect x=\"332\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式二</text><rect x=\"412\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式三</text><rect x=\"492\" y=\"4\" width=\"80\" height=\"26\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"21.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">模式四</text><rect x=\"2\" y=\"30\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"30\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">北美洲</text><rect x=\"252\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+10.6</text><rect x=\"332\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+5.9</text><rect x=\"412\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-5.2</text><rect x=\"492\" y=\"30\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"47.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+4.1</text><rect x=\"2\" y=\"56\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"56\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">西歐、南歐、北歐</text><rect x=\"252\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+6.5</text><rect x=\"332\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+7.7</text><rect x=\"412\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+12.2</text><rect x=\"492\" y=\"56\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"73.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+14.7</text><rect x=\"2\" y=\"82\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"82\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中、東歐（含前蘇聯）</text><rect x=\"252\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+24.6</text><rect x=\"332\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+7.6</text><rect x=\"412\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+6.0</text><rect x=\"492\" y=\"82\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"99.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+19.9</text><rect x=\"2\" y=\"108\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">增產區</text><rect x=\"72\" y=\"108\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">東亞、澳紐</text><rect x=\"252\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+19.6</text><rect x=\"332\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+31.7</text><rect x=\"412\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+53.2</text><rect x=\"492\" y=\"108\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"125.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+4.2</text><rect x=\"2\" y=\"134\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"134\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">非洲</text><rect x=\"252\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-23.7</text><rect x=\"332\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-24.5</text><rect x=\"412\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-16.2</text><rect x=\"492\" y=\"134\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"151.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-8.2</text><rect x=\"2\" y=\"160\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"160\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">中、南美洲</text><rect x=\"252\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-25.0</text><rect x=\"332\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-17.8</text><rect x=\"412\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-14.5</text><rect x=\"492\" y=\"160\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"177.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-10.3</text><rect x=\"2\" y=\"186\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"186\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">西亞</text><rect x=\"252\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-13.6</text><rect x=\"332\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-17.0</text><rect x=\"412\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-18.6</text><rect x=\"492\" y=\"186\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"203.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+2.8</text><rect x=\"2\" y=\"212\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"212\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">南亞</text><rect x=\"252\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-11.9</text><rect x=\"332\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-8.5</text><rect x=\"412\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-26.8</text><rect x=\"492\" y=\"212\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"229.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-3.5</text><rect x=\"2\" y=\"238\" width=\"70\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">減產區</text><rect x=\"72\" y=\"238\" width=\"180\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"162\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">東南亞</text><rect x=\"252\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-12.3</text><rect x=\"332\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"372\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">+0.3</text><rect x=\"412\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"452\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-1.6</text><rect x=\"492\" y=\"238\" width=\"80\" height=\"26\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"255.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">-12.8</text></svg>",
+    "blanks": [
+      "間熱帶輻合帶、信風帶、副熱帶高壓帶"
+    ],
+    "blankLabels": [
+      "氣壓帶或風帶"
+    ],
+    "explanation": "非洲、中南美洲、西亞、南亞、東南亞多位於低緯度，屬赤道低壓（間熱帶輻合帶）、信風帶與副熱帶高壓帶。"
+  },
+  {
+    "id": "101-ast-geo-non-3-1",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、某騎士騎乘自行車從甲地到辛地，車上配有全球定位系統（GPS），每30秒自動接收定位一次。假設車行全程使用力氣維持不變，車速變化完全受坡度左右。圖六是某騎士騎乘自行車路線圖，顯示騎乘全程的定位紀錄（圖中小黑點）、沿途的土地利用和乙、丁、己三地點的高程。\n\n1. 根據絕對高度和相對坡度兩項指標判斷，該騎士騎乘自行車的地區，就五大地形類型而言，屬於何種地形？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-non3.png\" alt=\"圖六 自行車路線圖：路線由北方的甲、乙（451 m）向南蜿蜒經丙、丁（451 m）、戊、己（451 m）、庚到辛；路線上的小黑點在丁戊、戊己段間距較大，其他路段間距較小；沿途有聚落、耕地與林地\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "丘陵"
+    ],
+    "blankLabels": [
+      "地形"
+    ],
+    "explanation": "沿線高程約 451 公尺，起伏不大，屬丘陵（海拔 100～1000 公尺、坡度和緩）。"
+  },
+  {
+    "id": "101-ast-geo-non-3-2",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、某騎士騎乘自行車從甲地到辛地，車上配有全球定位系統（GPS），每30秒自動接收定位一次。假設車行全程使用力氣維持不變，車速變化完全受坡度左右。圖六是某騎士騎乘自行車路線圖，顯示騎乘全程的定位紀錄（圖中小黑點）、沿途的土地利用和乙、丁、己三地點的高程。\n\n2. 用象限角（Quadrant angle）表示「辛」地和「乙」地的相對位置時，為辛地在乙地的S30°E。如果改用方位角（Azimuth angle或True bearing）表示，則乙地在辛地的何方？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-non3.png\" alt=\"圖六 自行車路線圖：路線由北方的甲、乙（451 m）向南蜿蜒經丙、丁（451 m）、戊、己（451 m）、庚到辛；路線上的小黑點在丁戊、戊己段間距較大，其他路段間距較小；沿途有聚落、耕地與林地\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "330°"
+    ],
+    "blankLabels": [
+      "方位角"
+    ],
+    "explanation": "辛在乙的 S30°E，則乙在辛的 N30°W；以正北為 0° 順時針量，方位角為 $360° - 30° = 330°$。"
+  },
+  {
+    "id": "101-ast-geo-non-3-3",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、某騎士騎乘自行車從甲地到辛地，車上配有全球定位系統（GPS），每30秒自動接收定位一次。假設車行全程使用力氣維持不變，車速變化完全受坡度左右。圖六是某騎士騎乘自行車路線圖，顯示騎乘全程的定位紀錄（圖中小黑點）、沿途的土地利用和乙、丁、己三地點的高程。\n\n3. 當地聚落在從事社區總體營造時，企圖以清代以來即普遍種植的經濟作物，來塑造社區的歷史感與地方感。該項經濟作物為何？（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-non3.png\" alt=\"圖六 自行車路線圖：路線由北方的甲、乙（451 m）向南蜿蜒經丙、丁（451 m）、戊、己（451 m）、庚到辛；路線上的小黑點在丁戊、戊己段間距較大，其他路段間距較小；沿途有聚落、耕地與林地\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "茶"
+    ],
+    "blankLabels": [
+      "經濟作物"
+    ],
+    "explanation": "此地位於東經 121°42′、北緯 24°55′ 附近的北部丘陵（新北市坪林、石碇一帶），清代以來即普遍種茶。"
+  },
+  {
+    "id": "101-ast-geo-non-3-4",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "地理",
+    "type": "fill",
+    "points": 2,
+    "selfGrade": true,
+    "question": "三、某騎士騎乘自行車從甲地到辛地，車上配有全球定位系統（GPS），每30秒自動接收定位一次。假設車行全程使用力氣維持不變，車速變化完全受坡度左右。圖六是某騎士騎乘自行車路線圖，顯示騎乘全程的定位紀錄（圖中小黑點）、沿途的土地利用和乙、丁、己三地點的高程。\n\n4. 該騎士騎乘路線中，甲乙、乙丙、丙丁、丁戊、戊己、己庚、庚辛等路段，哪兩個路段的坡度相對較平緩？（2 分）（答題說明：二個路段完全答對才予計分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-geo-non3.png\" alt=\"圖六 自行車路線圖：路線由北方的甲、乙（451 m）向南蜿蜒經丙、丁（451 m）、戊、己（451 m）、庚到辛；路線上的小黑點在丁戊、戊己段間距較大，其他路段間距較小；沿途有聚落、耕地與林地\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "丁戊、戊己"
+    ],
+    "blankLabels": [
+      "路段"
+    ],
+    "explanation": "GPS 每 30 秒定位一次，點與點的間距愈大表示車速愈快。力氣不變時，坡度愈平緩車速愈快。丁戊、戊己段點距最大，坡度最平緩（丁、己同為 451 m，中間的戊位於谷地，起伏較小）。"
   }
 ]
