@@ -226871,5 +226871,381 @@
       "最大差距"
     ],
     "explanation": "目標函數 $12x + 2y$ 在頂點的值：$(1, 1)$：14；$\\left(\\dfrac{15}{8}, 1\\right)$：24.5；$\\left(\\dfrac54, 2\\right)$：19；$(1, 2)$：16。\n$x = \\dfrac{15}{8}$、$y = 1$ 時差距最大，為 24.5 萬元。"
+  },
+  {
+    "id": "109-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 已知 $45^\\circ < \\theta < 50^\\circ$，且設 $a = 1 - \\cos^2\\theta$、$b = \\dfrac{1}{\\cos\\theta} - \\cos\\theta$、$c = \\dfrac{\\tan\\theta}{\\tan^2\\theta + 1}$。關於 $a, b, c$ 三個數值的大小，試選出正確的選項。",
+    "options": [
+      "$a < b < c$",
+      "$a < c < b$",
+      "$b < a < c$",
+      "$b < c < a$",
+      "$c < a < b$"
+    ],
+    "answerIndex": 4,
+    "explanation": "• $a = \\sin^2\\theta$。\n• $b = \\dfrac{1 - \\cos^2\\theta}{\\cos\\theta} = \\dfrac{\\sin^2\\theta}{\\cos\\theta} > a$（$0 < \\cos\\theta < 1$）。\n• $c = \\tan\\theta\\cos^2\\theta = \\sin\\theta\\cos\\theta$；$\\theta > 45^\\circ$ 時 $\\sin\\theta > \\cos\\theta$，所以 $c < \\sin^2\\theta = a$。\n$c < a < b$。\n\n故選 (E)"
+  },
+  {
+    "id": "109-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 有 $A, B$ 兩個箱子，其中 $A$ 箱有 6 顆白球與 4 顆紅球，$B$ 箱有 8 顆白球與 2 顆藍球。現有三種抽獎方式（各箱中每顆球被抽取的機率相同）：（一）先在 $A$ 箱中抽取一球，若抽中紅球則停止，若抽到白球則再從 $B$ 箱中抽取一球；（二）先在 $B$ 箱中抽取一球，若抽中藍球則停止，若抽到白球則再從 $A$ 箱中抽取一球；（三）同時分別在 $A, B$ 箱中各抽取一球。給獎方式為：在紅、藍這兩種色球當中，若只抽到紅球得 50 元獎金；若只抽到藍球得 100 元獎金；若兩種色球都抽到，則仍只得 100 元獎金；若都沒抽到，則無獎金。將上列（一）、（二）、（三）這 3 種抽獎方式所得獎金的期望值分別記為 $E_1$、$E_2$、$E_3$，試選出正確的選項。",
+    "options": [
+      "$E_1 > E_2 > E_3$",
+      "$E_1 = E_2 > E_3$",
+      "$E_2 = E_3 > E_1$",
+      "$E_1 = E_3 > E_2$",
+      "$E_3 > E_2 > E_1$"
+    ],
+    "answerIndex": 2,
+    "explanation": "紅球機率 0.4，藍球機率 0.2。\n• $E_1$：紅（停）$0.4\\times50$；白再抽到藍 $0.6\\times0.2\\times100$：$20 + 12 = 32$。\n• $E_2$：藍（停）$0.2\\times100$；白再抽到紅 $0.8\\times0.4\\times50$：$20 + 16 = 36$。\n• $E_3$：抽到藍就是 100 元 $0.2\\times100$；沒藍有紅 $0.8\\times0.4\\times50$：$20 + 16 = 36$。\n$E_2 = E_3 > E_1$。\n\n故選 (C)"
+  },
+  {
+    "id": "109-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 根據實驗統計，某種細菌繁殖，其數量平均每 3.5 小時會擴增為 2.4 倍。假設實驗室的試管一開始有此種細菌 1000 隻，根據指數函數模型，試問大約在多少小時後此種細菌的數量會到達 $4\\times10^{10}$ 隻左右？（註：$\\log2 \\approx 0.3010$，$\\log3 \\approx 0.4771$）",
+    "options": [
+      "63 小時",
+      "70 小時",
+      "77 小時",
+      "84 小時",
+      "91 小時"
+    ],
+    "answerIndex": 1,
+    "explanation": "$1000\\times2.4^{t/3.5} = 4\\times10^{10}$，$2.4^{t/3.5} = 4\\times10^7$。\n取對數：$\\log2.4 = 3\\log2 + \\log3 - 1 \\approx 0.3801$，右邊 $2\\log2 + 7 \\approx 7.602$。\n$\\dfrac{t}{3.5} \\approx \\dfrac{7.602}{0.3801} = 20$，$t \\approx 70$ 小時。\n\n故選 (B)"
+  },
+  {
+    "id": "109-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 在坐標平面上，設 $O$ 為原點，且 $A$、$B$ 為異於 $O$ 的相異兩點。令 $C_1, C_2, C_3$ 為平面上三個點，且滿足 $\\overrightarrow{OC_n} = \\overrightarrow{OA} + n\\overrightarrow{OB}$，$n = 1, 2, 3$，試選出正確的選項。",
+    "options": [
+      "$\\overrightarrow{OC_1} \\ne \\vec 0$",
+      "$\\overline{OC_1} < \\overline{OC_2} < \\overline{OC_3}$",
+      "$\\overrightarrow{OC_1}\\cdot\\overrightarrow{OA} < \\overrightarrow{OC_2}\\cdot\\overrightarrow{OA} < \\overrightarrow{OC_3}\\cdot\\overrightarrow{OA}$",
+      "$\\overrightarrow{OC_1}\\cdot\\overrightarrow{OB} < \\overrightarrow{OC_2}\\cdot\\overrightarrow{OB} < \\overrightarrow{OC_3}\\cdot\\overrightarrow{OB}$",
+      "$C_1, C_2, C_3$ 在同一直線上"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "• (A) 錯誤：$B$ 為 $A$ 對 $O$ 的對稱點時 $\\overrightarrow{OC_1} = \\vec 0$。\n• (B) 錯誤：例如 $\\overrightarrow{OB} = -\\dfrac12\\overrightarrow{OA}$，長度依序為 $\\dfrac12, 0, \\dfrac12$ 倍。\n• (C) 錯誤：$\\overrightarrow{OC_n}\\cdot\\overrightarrow{OA} = |OA|^2 + n\\,\\overrightarrow{OB}\\cdot\\overrightarrow{OA}$，只有 $\\overrightarrow{OA}\\cdot\\overrightarrow{OB} > 0$ 時才遞增。\n• (D) 正確：$\\overrightarrow{OC_n}\\cdot\\overrightarrow{OB} = \\overrightarrow{OA}\\cdot\\overrightarrow{OB} + n|OB|^2$，嚴格遞增。\n• (E) 正確：三點都在過 $A$、方向 $\\overrightarrow{OB}$ 的直線上。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "109-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 對一實數 $a$，以 $[a]$ 表示不大於 $a$ 的最大整數，例如：$[1.2] = [\\sqrt2] = 1$，$[-1.2] = -2$。考慮無理數 $\\theta = \\sqrt{10001}$，試選出正確的選項。",
+    "options": [
+      "$a - 1 < [a] \\le a$ 對任意實數 $a$ 均成立",
+      "數列 $b_n = \\dfrac{[n\\theta]}{n}$ 發散，$n$ 為正整數",
+      "數列 $c_n = \\dfrac{[-n\\theta]}{n}$ 發散，$n$ 為正整數",
+      "數列 $d_n = n\\left[\\dfrac{\\theta}{n}\\right]$ 發散，$n$ 為正整數",
+      "數列 $e_n = n\\left[\\dfrac{-\\theta}{n}\\right]$ 發散，$n$ 為正整數"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "$\\theta \\approx 100.005$。\n• (A) 正確：高斯符號的定義。\n• (B) 錯誤：$\\theta - \\dfrac1n < b_n \\le \\theta$，夾擠收斂到 $\\theta$。\n• (C) 錯誤：同理收斂到 $-\\theta$。\n• (D) 錯誤：$n > \\theta$ 時 $0 < \\dfrac{\\theta}{n} < 1$，$d_n = 0$，收斂。\n• (E) 正確：$n > \\theta$ 時 $-1 < -\\dfrac{\\theta}{n} < 0$，$e_n = -n$，發散。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "109-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 設 $F(x)$、$f(x)$ 皆為實係數多項式函數。已知 $F'(x) = f(x)$，試選出正確的選項。",
+    "options": [
+      "若 $a \\ge 0$，則 $F(a) - F(0) = \\displaystyle\\int_0^a f(t)\\,dt$",
+      "若 $F(x)$ 除以 $x$ 的商式為 $Q(x)$，則 $Q(0) = f(0)$",
+      "若 $f(x)$ 可被 $x + 1$ 整除，則 $F(x) - F(0)$ 可被 $(x + 1)^2$ 整除",
+      "若對所有實數 $x$，$F(x) \\ge \\dfrac{x^2}{2}$ 都成立，則對所有實數 $x$，$f(x) \\ge x$ 也都成立",
+      "若對所有 $x > 0$，$f(x) \\ge x$ 都成立，則對所有 $x > 0$，$F(x) \\ge \\dfrac{x^2}{2}$ 也都成立"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "• (A) 正確：微積分基本定理。\n• (B) 正確：$F(x) = xQ(x) + F(0)$，$F'(x) = Q(x) + xQ'(x)$，$f(0) = Q(0)$。\n• (C) 錯誤：例如 $f = x + 1$，$F(x) - F(0) = \\dfrac{x^2}{2} + x$，在 $x = -1$ 不為 0。\n• (D) 錯誤：例如 $F = \\dfrac32x^2$，$f = 3x$，$x < 0$ 時 $3x < x$。\n• (E) 錯誤：$F(x) \\ge F(0) + \\dfrac{x^2}{2}$，但 $F(0)$ 可以是負數，例如 $F = \\dfrac{x^2}{2} - 1$。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "109-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 在複數平面上，設 $O$ 為原點，且 $A$、$B$ 分別表示坐標為複數 $z$、$z + 1$ 的點。已知點 $A$、點 $B$ 都在以 $O$ 為圓心的單位圓上，試選出正確的選項。",
+    "options": [
+      "直線 $AB$ 與實數軸平行",
+      "$\\triangle OAB$ 為直角三角形",
+      "點 $A$ 在第二象限",
+      "$z^3 = 1$",
+      "坐標為 $1 + \\dfrac1z$ 的點也在同一單位圓上"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "$|z| = |z + 1| = 1$，解得 $z = -\\dfrac12 \\pm \\dfrac{\\sqrt3}{2}i$。\n• (A) 正確：$\\overrightarrow{AB}$ 對應複數 1，為水平方向。\n• (B) 錯誤：三邊長都是 1，正三角形。\n• (C) 錯誤：也可能在第三象限。\n• (D) 正確：$z$ 是 1 的虛立方根。\n• (E) 正確：$\\dfrac1z = \\bar z$，$1 + \\bar z = \\overline{1 + z}$，絕對值為 1。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "109-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 設二階實係數方陣 $A$ 代表坐標平面的一個鏡射變換且滿足 $A^3 = \\begin{bmatrix} 0 & -1 \\\\ -1 & 0 \\end{bmatrix}$；另設二階實係數方陣 $B$ 代表坐標平面的一個（以原點為中心的）旋轉變換且滿足 $B^3 = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix}$，試選出正確的選項。",
+    "options": [
+      "$A$ 恰有三種可能",
+      "$B$ 恰有三種可能",
+      "$AB = BA$",
+      "二階方陣 $AB$ 代表坐標平面的一個旋轉變換",
+      "$BABA = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "• (A) 錯誤：鏡射滿足 $A^2 = I$，$A^3 = A$，只有一種。\n• (B) 正確：$B^3$ 是旋轉 $180^\\circ$，$3\\theta \\equiv 180^\\circ$（模 $360^\\circ$），$\\theta = 60^\\circ, 180^\\circ, 300^\\circ$。\n• (C) 錯誤：鏡射與旋轉一般不可交換（$\\theta = 60^\\circ$ 時 $AB \\ne BA$）。\n• (D) 錯誤：鏡射乘旋轉仍是鏡射（行列式為 $-1$）。\n• (E) 正確：$BA$ 是鏡射，$(BA)^2 = I$。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "109-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "A. 在坐標空間中，設 $O$ 為原點，且點 $P$ 為三平面 $x - 3y - 5z = 0$、$x - 3y + 2z = 0$、$x + y = t$ 的交點，其中 $t > 0$。若 $\\overline{OP} = 10$，則 $t = ⑨\\sqrt{⑩⑪}$。（化成最簡根式）",
+    "blanks": [
+      "4",
+      "1",
+      "0"
+    ],
+    "blankLabels": [
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation": "前兩式相減 $7z = 0$，$z = 0$、$x = 3y$；代入 $x + y = t$：$y = \\dfrac t4$、$x = \\dfrac{3t}{4}$。\n$\\overline{OP}^2 = \\dfrac{10t^2}{16} = 100$，$t^2 = 160$，$t = 4\\sqrt{10}$。"
+  },
+  {
+    "id": "109-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "B. 考慮坐標平面上相異三點 $A$、$B$、$C$，其中點 $A$ 為 $(1, 1)$。分別以線段 $\\overline{AB}$、$\\overline{AC}$ 為直徑作圓，此兩圓交於點 $A$ 及點 $P(4, 2)$。已知 $\\overline{PB} = 3\\sqrt{10}$ 且點 $B$ 在第四象限，則點 $B$ 的坐標為 (⑫, ⑬⑭)。",
+    "blanks": [
+      "7",
+      "-",
+      "7"
+    ],
+    "acceptedBlanks": [
+      [
+        "7"
+      ],
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "7"
+      ]
+    ],
+    "blankLabels": [
+      "12",
+      "13",
+      "14"
+    ],
+    "explanation": "$P$ 在以 $\\overline{AB}$ 為直徑的圓上，$\\angle APB = 90^\\circ$。$\\overrightarrow{PA} = (-3, -1)$，$\\overrightarrow{PB}$ 垂直它且長 $3\\sqrt{10}$：$\\overrightarrow{PB} = \\pm(3, -9)$。\n$B = (7, -7)$ 或 $(1, 11)$，在第四象限的是 $(7, -7)$。"
+  },
+  {
+    "id": "109-ast-ma-C",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "C. 有一個三角形公園，其三頂點為 $O$、$A$、$B$，在頂點 $O$ 處有一座 150 公尺高的觀景台，某人站在觀景台上觀測地面上另兩個頂點 $A$、$B$ 與 $\\overline{AB}$ 的中點 $C$，測得其俯角分別為 $30^\\circ$、$60^\\circ$、$45^\\circ$。則此三角形公園的面積為 $⑮⑯⑰⑱\\sqrt{⑲}$ 平方公尺。（化成最簡根式）",
+    "blanks": [
+      "7",
+      "5",
+      "0",
+      "0",
+      "2"
+    ],
+    "blankLabels": [
+      "15",
+      "16",
+      "17",
+      "18",
+      "19"
+    ],
+    "explanation": "地面距離 = 高 ÷ tan(俯角)：$\\overline{OA} = 150\\sqrt3$、$\\overline{OB} = 50\\sqrt3$、$\\overline{OC} = 150$。\n中線定理 $4\\overline{OC}^2 = 2\\overline{OA}^2 + 2\\overline{OB}^2 - \\overline{AB}^2$：$90000 = 135000 + 15000 - \\overline{AB}^2$，$\\overline{AB}^2 = 60000$。\n$\\cos\\angle AOB = \\dfrac{67500 + 7500 - 60000}{2\\cdot150\\sqrt3\\cdot50\\sqrt3} = \\dfrac13$，$\\sin = \\dfrac{2\\sqrt2}{3}$。\n面積 $= \\dfrac12\\cdot150\\sqrt3\\cdot50\\sqrt3\\cdot\\dfrac{2\\sqrt2}{3} = 7500\\sqrt2$。"
+  },
+  {
+    "id": "109-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標平面上，由 $A$、$B$、$C$、$D$ 四點所決定的「貝茲曲線」（Bézier curve）指的是次數不超過 3 的多項式函數，其圖形通過 $A, D$ 兩點，且在點 $A$ 的切線通過點 $B$，在點 $D$ 的切線通過點 $C$。令 $y = f(x)$ 是由 $A(0, 0)$、$B(1, 4)$、$C(3, 2)$、$D(4, 0)$ 四點所決定的「貝茲曲線」，試回答下列問題。\n(1) 設 $y = f(x)$ 的圖形在點 $D$ 的切線方程式為 $y = ax + b$，其中 $a, b$ 為實數。求 $a, b$ 之值。（2 分）",
+    "points": 2,
+    "blanks": [
+      "a = −2",
+      "b = 8"
+    ],
+    "blankLabels": [
+      "a",
+      "b"
+    ],
+    "explanation": "切線過 $D(4, 0)$ 與 $C(3, 2)$，斜率 $-2$，$y = -2x + 8$。$a = -2$、$b = 8$。"
+  },
+  {
+    "id": "109-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標平面上，由 $A$、$B$、$C$、$D$ 四點所決定的「貝茲曲線」（Bézier curve）指的是次數不超過 3 的多項式函數，其圖形通過 $A, D$ 兩點，且在點 $A$ 的切線通過點 $B$，在點 $D$ 的切線通過點 $C$。令 $y = f(x)$ 是由 $A(0, 0)$、$B(1, 4)$、$C(3, 2)$、$D(4, 0)$ 四點所決定的「貝茲曲線」，試回答下列問題。\n(2) 試證明多項式 $f(x)$ 可以被 $x^2 - 4x$ 所整除。（2 分）",
+    "points": 2,
+    "blanks": [
+      "$f(0) = f(4) = 0$"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "設 $f(x) = (x^2 - 4x)Q(x) + rx + s$。圖形過 $A(0, 0)$、$D(4, 0)$：$f(0) = s = 0$、$f(4) = 4r = 0$，餘式為 0。"
+  },
+  {
+    "id": "109-ast-ma-non-1-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標平面上，由 $A$、$B$、$C$、$D$ 四點所決定的「貝茲曲線」（Bézier curve）指的是次數不超過 3 的多項式函數，其圖形通過 $A, D$ 兩點，且在點 $A$ 的切線通過點 $B$，在點 $D$ 的切線通過點 $C$。令 $y = f(x)$ 是由 $A(0, 0)$、$B(1, 4)$、$C(3, 2)$、$D(4, 0)$ 四點所決定的「貝茲曲線」，試回答下列問題。\n(3) 試求 $f(x)$。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$f(x) = \\dfrac18x^3 - \\dfrac32x^2 + 4x$"
+    ],
+    "blankLabels": [
+      "f(x)"
+    ],
+    "explanation": "切線 $AB$ 斜率 4、$CD$ 斜率 $-2$：$f'(0) = 4$、$f'(4) = -2$。\n設 $f(x) = (cx + d)(x^2 - 4x)$，$f'(x) = c(x^2 - 4x) + (cx + d)(2x - 4)$：\n$f'(0) = -4d = 4$，$d = -1$；$f'(4) = 4(4c - 1) = -2$，$c = \\dfrac18$。\n$f(x) = \\dfrac18x(x - 4)(x - 8) = \\dfrac18x^3 - \\dfrac32x^2 + 4x$。"
+  },
+  {
+    "id": "109-ast-ma-non-1-4",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】坐標平面上，由 $A$、$B$、$C$、$D$ 四點所決定的「貝茲曲線」（Bézier curve）指的是次數不超過 3 的多項式函數，其圖形通過 $A, D$ 兩點，且在點 $A$ 的切線通過點 $B$，在點 $D$ 的切線通過點 $C$。令 $y = f(x)$ 是由 $A(0, 0)$、$B(1, 4)$、$C(3, 2)$、$D(4, 0)$ 四點所決定的「貝茲曲線」，試回答下列問題。\n(4) 求定積分 $\\displaystyle\\int_2^6|8f(x)|\\,dx$ 之值。（4 分）",
+    "points": 4,
+    "blanks": [
+      "56"
+    ],
+    "blankLabels": [
+      "定積分"
+    ],
+    "explanation": "$8f(x) = x(x - 4)(x - 8) = x^3 - 12x^2 + 32x$，在 $[2, 4]$ 為正、$[4, 6]$ 為負。反導函數 $G(x) = \\dfrac{x^4}{4} - 4x^3 + 16x^2$：\n$\\displaystyle\\int_2^4 = G(4) - G(2) = 64 - 36 = 28$，$\\displaystyle\\int_4^6 = G(6) - G(4) = 36 - 64 = -28$。\n所求 $= 28 + 28 = 56$。"
+  },
+  {
+    "id": "109-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】一個邊長為 1 的正立方體 $ABCD\\text{-}EFGH$，點 $P$ 為稜邊 $\\overline{CG}$ 的中點，點 $Q$、$R$ 分別在稜邊 $\\overline{BF}$、$\\overline{DH}$ 上，且 $A, Q, P, R$ 為一平行四邊形的四個頂點，如圖所示。今設定坐標系，使得 $D$、$A$、$C$、$H$ 的坐標分別為 $(0,0,0)$、$(1,0,0)$、$(0,1,0)$、$(0,0,1)$，且 $\\overline{BQ} = t$，試回答下列問題。\n(1) 試求點 P 的坐標。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-ma-non2.png\" alt=\"正立方體中的平行四邊形 AQPR\" style=\"width:100%;max-width:230px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "$P\\left(0, 1, \\dfrac12\\right)$"
+    ],
+    "blankLabels": [
+      "P"
+    ],
+    "explanation": "$C(0, 1, 0)$、$G(0, 1, 1)$，中點 $P\\left(0, 1, \\dfrac12\\right)$。"
+  },
+  {
+    "id": "109-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】一個邊長為 1 的正立方體 $ABCD\\text{-}EFGH$，點 $P$ 為稜邊 $\\overline{CG}$ 的中點，點 $Q$、$R$ 分別在稜邊 $\\overline{BF}$、$\\overline{DH}$ 上，且 $A, Q, P, R$ 為一平行四邊形的四個頂點，如圖所示。今設定坐標系，使得 $D$、$A$、$C$、$H$ 的坐標分別為 $(0,0,0)$、$(1,0,0)$、$(0,1,0)$、$(0,0,1)$，且 $\\overline{BQ} = t$，試回答下列問題。\n(2) 試求向量 $\\overrightarrow{AR}$（以 $t$ 的式子來表示）。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-ma-non2.png\" alt=\"正立方體中的平行四邊形 AQPR\" style=\"width:100%;max-width:230px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "$\\overrightarrow{AR} = \\left(-1, 0, \\dfrac12 - t\\right)$"
+    ],
+    "blankLabels": [
+      "向量 AR"
+    ],
+    "explanation": "$B(1, 1, 0)$，$Q(1, 1, t)$，$R(0, 0, r)$。平行四邊形 $AQPR$：$A + P = Q + R$，$\\left(1, 1, \\dfrac12\\right) = (1, 1, t + r)$，$r = \\dfrac12 - t$。\n$\\overrightarrow{AR} = \\left(-1, 0, \\dfrac12 - t\\right)$。"
+  },
+  {
+    "id": "109-ast-ma-non-2-3",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】一個邊長為 1 的正立方體 $ABCD\\text{-}EFGH$，點 $P$ 為稜邊 $\\overline{CG}$ 的中點，點 $Q$、$R$ 分別在稜邊 $\\overline{BF}$、$\\overline{DH}$ 上，且 $A, Q, P, R$ 為一平行四邊形的四個頂點，如圖所示。今設定坐標系，使得 $D$、$A$、$C$、$H$ 的坐標分別為 $(0,0,0)$、$(1,0,0)$、$(0,1,0)$、$(0,0,1)$，且 $\\overline{BQ} = t$，試回答下列問題。\n(3) 試證明四角錐 $G\\text{-}AQPR$ 的體積是一個定值（與 $t$ 無關），並求此定值。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-ma-non2.png\" alt=\"正立方體中的平行四邊形 AQPR\" style=\"width:100%;max-width:230px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "blanks": [
+      "$\\dfrac16$"
+    ],
+    "blankLabels": [
+      "體積"
+    ],
+    "explanation": "四角錐體積 = 2 倍四面體 $G\\text{-}AQP$。$\\overrightarrow{AQ} = (0, 1, t)$、$\\overrightarrow{AP} = \\left(-1, 1, \\dfrac12\\right)$、$\\overrightarrow{AG} = (-1, 1, 1)$。\n$\\overrightarrow{AP}\\times\\overrightarrow{AG} = \\left(\\dfrac12, \\dfrac12, 0\\right)$，$\\overrightarrow{AQ}\\cdot\\left(\\dfrac12, \\dfrac12, 0\\right) = \\dfrac12$（與 $t$ 無關）。\n四面體 $= \\dfrac16\\cdot\\dfrac12 = \\dfrac{1}{12}$，四角錐 $= \\dfrac16$。"
+  },
+  {
+    "id": "109-ast-ma-non-2-4",
+    "examType": "分科/指考",
+    "year": 109,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】一個邊長為 1 的正立方體 $ABCD\\text{-}EFGH$，點 $P$ 為稜邊 $\\overline{CG}$ 的中點，點 $Q$、$R$ 分別在稜邊 $\\overline{BF}$、$\\overline{DH}$ 上，且 $A, Q, P, R$ 為一平行四邊形的四個頂點，如圖所示。今設定坐標系，使得 $D$、$A$、$C$、$H$ 的坐標分別為 $(0,0,0)$、$(1,0,0)$、$(0,1,0)$、$(0,0,1)$，且 $\\overline{BQ} = t$，試回答下列問題。\n(4) 當 $t = \\dfrac14$ 時，求點 $G$ 到平行四邊形 $AQPR$ 所在平面的距離。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/109-ast-ma-non2.png\" alt=\"正立方體中的平行四邊形 AQPR\" style=\"width:100%;max-width:230px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "blanks": [
+      "$\\dfrac{\\sqrt2}{3}$"
+    ],
+    "blankLabels": [
+      "距離"
+    ],
+    "explanation": "$t = \\dfrac14$：$\\overrightarrow{AQ} = \\left(0, 1, \\dfrac14\\right)$、$\\overrightarrow{AR} = \\left(-1, 0, \\dfrac14\\right)$，$\\overrightarrow{AQ}\\times\\overrightarrow{AR} = \\left(\\dfrac14, -\\dfrac14, 1\\right)$，平行四邊形面積 $= \\sqrt{\\dfrac{1}{16} + \\dfrac{1}{16} + 1} = \\dfrac{3\\sqrt2}{4}$。\n距離 $= \\dfrac{3V}{\\text{底面積}} = \\dfrac{3\\cdot\\frac16}{\\frac{3\\sqrt2}{4}} = \\dfrac{\\sqrt2}{3}$。"
   }
 ]
