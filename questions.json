@@ -263724,5 +263724,903 @@
       1
     ],
     "explanation": "以消費選擇表達政治與環境立場（A）、參與社會及政治團體（B），都是主動參與公共事務、促成改變的行動。守法、納稅是消極義務；理解他人意見屬個人態度。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "107-ast-civ-01",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "秘魯首都利馬以防止竊盜與犯罪為由，在山脊豎立綿延數里的牆，將富裕與貧困兩區分隔，被當地人稱為「恥辱之牆」。這道牆最可能產生何種社會影響？",
+    "options": [
+      "鞏固文化位階",
+      "增加文化認同",
+      "減少政府濫權",
+      "提高社會資本"
+    ],
+    "answerIndex": 0,
+    "explanation": "以牆隔離貧富，使不同階層的生活方式與文化互不交流，強化上下階層的區隔，鞏固文化位階。\n\n故選 (A)"
+  },
+  {
+    "id": "107-ast-civ-02",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "甲乙討論某項現代國家的制度，甲認為此制度受重視，代表人權保障擴展至社會權；乙認為若要發揮其功能，不能僅依賴國家，亦需公民支持資源共享與互助的理念。依據題文訊息，下列何者最可能為此制度的相應措施？",
+    "options": [
+      "政府將公民編組以便參與防災救助",
+      "政府補助社區成立巡守隊共維治安",
+      "政府對低收入戶提供基本生活補助",
+      "政府鼓勵非營利組織投入慈善救助"
+    ],
+    "answerIndex": 2,
+    "explanation": "該制度是社會福利（社會安全）制度，保障人民的生存權等社會權，並靠全民納稅、資源共享支持。對低收入戶提供生活補助是典型措施。\n\n故選 (C)"
+  },
+  {
+    "id": "107-ast-civ-03",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "記者小光製作影片介紹某族群文化，遭記者專業自律團體批評影片內容多有錯誤，甚至傳遞對該族群的偏見，而反對播出影片；但小光主張記者有權評論社會現象。從媒體近用權觀點來詮釋此事件，下列何者最恰當？",
+    "options": [
+      "接近權保障人人有機會接近媒體，故小光可以記者身分實現言論自由",
+      "使用權保障人民有權製作媒體訊息，但內容須符合媒體專業倫理規範",
+      "媒體近用權乃為確保人民知的權利，故記者之言論不得任意加以限制",
+      "記者的自製影片內容若有不妥，相關當事人仍可基於接近權要求更正"
+    ],
+    "answerIndex": 3,
+    "explanation": "媒體近用權是讓被報導者或弱勢群體能使用媒體；影片若有錯誤，相關族群可要求更正或答辯。近用權是一般民眾對媒體的權利，不是記者的權利。\n\n故選 (D)"
+  },
+  {
+    "id": "107-ast-civ-04",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "右圖的統計資料反映出「子女數目」在「男性與女性」間，存在著「平均個人月收入」有所差異的社會現象。下列何者最能詮釋此三者的關係？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/107-ast-civ-04.png\" alt=\"平均個人月收入（元）依子女數目（無、1 個、2 個、3 個以上）：男性約 40,000、41,000、43,000、44,000，子女愈多收入愈高；女性約 35,000、34,000、33,000、32,500，子女愈多收入愈低\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "女性擔任親職與否和工作收入間呈負相關",
+      "子女數目與男性工作收入間的關聯不明顯",
+      "男性與女性皆會因為收入增加而生育更多子女",
+      "男性與女性月收入差距隨著子女數增加而減少"
+    ],
+    "answerIndex": 0,
+    "explanation": "女性子女愈多收入愈低，男性則相反；兩性收入差距隨子女數增加而擴大。圖只顯示相關，無法推論收入增加會使人多生子女。\n\n故選 (A)"
+  },
+  {
+    "id": "107-ast-civ-05",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "非政府或非營利組織提供公共服務並倡議公共政策，對民主政治日益重要。為實現其公共性，下列何者是此類組織不可為之事？",
+    "options": [
+      "從事營利行為",
+      "接受企業捐款",
+      "分配盈餘給成員",
+      "依法納稅給政府"
+    ],
+    "answerIndex": 2,
+    "explanation": "非營利組織可以有收入（如義賣），但盈餘必須用於組織宗旨，不能分配給成員。\n\n故選 (C)"
+  },
+  {
+    "id": "107-ast-civ-06",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "某福利國家有7%的獨居人口長期受孤獨之苦，該國政府因而決定設立新部門，專責處理獨居者因缺乏社會互動而產生的身心健康需求，也獲得不少民眾在網路留言支持。從國家存在的目的而言，以下四項支持的意見，何者最能彰顯該國設立獨居者專責部門的理由？",
+    "options": [
+      "國家應解決獨居者身心失衡問題以維護社會秩序",
+      "國家應保障人民基本權利並提升人民的生活品質",
+      "國家應盡力滿足人民的需求才能提高統治合法性",
+      "國家應盡力確保孤獨者不會遭受他人漠視與排擠"
+    ],
+    "answerIndex": 1,
+    "explanation": "福利國家的目的在保障人民權利、增進福祉；關照獨居者的身心健康，是提升人民生活品質。\n\n故選 (B)"
+  },
+  {
+    "id": "107-ast-civ-07",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "美國政府如果要宣布新的對臺軍售案，下列何者是其最可能提出的政策正當性說明？",
+    "options": [
+      "「一個中國、各自表述」是美國制定臺海政策時的基本原則",
+      "美臺簽訂之「共同防禦條約」明定美國有義務維護臺灣安全",
+      "「臺灣關係法」雖非國際條約，但對於政府政策具有拘束力",
+      "美國自冷戰初期即強力支持民主臺灣，此立場不會輕易改變"
+    ],
+    "answerIndex": 2,
+    "explanation": "臺灣關係法是美國國內法，規定美國提供臺灣防禦性武器，是對臺軍售的法律依據。中美共同防禦條約已於 1980 年終止；一中各表是我方說法。\n\n故選 (C)"
+  },
+  {
+    "id": "107-ast-civ-08",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "小君為了完成課堂報告，需蒐集俗稱「兩會」的全國人民代表大會（簡稱「全國人大」）與中國人民政治協商會議全國委員會（簡稱「全國政協」）的資料，因此到「兩會」的官方網站搜尋。下列何者是小君可能搜尋到的資料？",
+    "options": [
+      "中國公民選舉「兩會」代表的投票率",
+      "國務院總理主持「全國人大」的會議",
+      "「全國人大」審查並核可年度預算案",
+      "「全國政協」選舉國家主席和副主席"
+    ],
+    "answerIndex": 2,
+    "explanation": "全國人大是最高權力機關，審查批准國家預算。人大代表由下級人大間接選舉，政協委員則是協商產生；國務院總理不主持人大；國家主席由人大選舉。\n\n故選 (C)"
+  },
+  {
+    "id": "107-ast-civ-09",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "某國舉行國會大選，某選區共有38位參選人競爭8席，下表是該選區8位得票最高當選人的資料。該國某政治學者據此結果撰文評論其選舉制度問題。下列何者最可能是該學者提出的問題？\n\n<svg viewBox=\"0 0 462 92\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:554.4px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"90\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">當選名次</text><rect x=\"92\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"115\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"138\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"161\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"184\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"207\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"230\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"253\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"276\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"299\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">5</text><rect x=\"322\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"345\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"368\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"391\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"414\" y=\"4\" width=\"46\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"2\" y=\"32\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">所屬政黨</text><rect x=\"92\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"115\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"138\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"161\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"184\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"207\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">乙</text><rect x=\"230\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"253\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丙</text><rect x=\"276\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"299\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"322\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"345\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"368\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"391\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">甲</text><rect x=\"414\" y=\"32\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">丁</text><rect x=\"2\" y=\"60\" width=\"90\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"47\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">得票率(%)</text><rect x=\"92\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"115\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">19.8</text><rect x=\"138\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"161\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9.4</text><rect x=\"184\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"207\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6.9</text><rect x=\"230\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"253\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">4.6</text><rect x=\"276\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"299\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.5</text><rect x=\"322\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"345\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3.4</text><rect x=\"368\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"391\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.8</text><rect x=\"414\" y=\"60\" width=\"46\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"437\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2.7</text></svg>",
+    "options": [
+      "造成勝者全拿，未充分反映民意",
+      "讓同選區當選者的民意基礎差距過大",
+      "易獨厚大黨，小黨勝選機率過低",
+      "讓落選者得票數總和高於當選者總和"
+    ],
+    "answerIndex": 1,
+    "explanation": "這是複數選區制，第一名得票 19.8%，第八名只有 2.7%，當選者的民意基礎差距很大。8 席分屬四黨，不是勝者全拿，小黨也能當選。\n\n故選 (B)"
+  },
+  {
+    "id": "107-ast-civ-10",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "某官員甲被人檢舉收賄而遭檢察官起訴，偵查時有媒體向檢察官探知案情但遭拒絕；其後地方法院審理時，認為全案未有足夠明確的索賄證據，乃判決甲無罪。本案檢察官行使職權涉及的法律問題，下列敘述何者正確？",
+    "options": [
+      "檢察官拒絕向媒體說明偵查情況，侵害新聞自由，檢察官違反法律",
+      "檢察官因有人檢舉而偵查起訴，所以本案係屬於刑事上的公訴程序",
+      "偵查時如果沒有辦法取得甲承認有罪之自白，檢察官就不應起訴甲",
+      "為保障被告甲之權利，如果經地院判決無罪，檢察官即不能再上訴"
+    ],
+    "answerIndex": 1,
+    "explanation": "由檢察官偵查後起訴，屬公訴程序。偵查不公開；起訴不以自白為要件；檢察官對無罪判決可以上訴。\n\n故選 (B)"
+  },
+  {
+    "id": "107-ast-civ-11",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "為遏止頻繁的酒駕肇事，甲主張應立法增加鞭刑以處罰酒駕者，且應對曾經酒駕者追加鞭刑處罰，以維護公平。乙則反對以鞭刑解決酒駕問題，主張雖可維持酒駕刑罰，但應以教育宣導來提醒喝酒不開車，並鼓勵餐廳提供代駕措施，減低酒駕的發生。僅就甲乙兩人對酒駕刑罰的主張，下列敘述何者正確？",
+    "options": [
+      "甲主張所依據的刑罰理論，與「死刑可遏止犯罪率上升」之主張相同",
+      "甲主張對違法酒駕者一律追加處以鞭刑，可落實罪刑法定主義的要求",
+      "乙反對鞭刑係因希望將酒駕行為除罪化，改以其他法律措施解決問題",
+      "乙主張仍可維持酒駕刑罰，顯示乙不同意「刑罰應屬國家最後手段」"
+    ],
+    "answerIndex": 0,
+    "explanation": "甲以重刑嚇阻犯罪，與「死刑可遏止犯罪」同屬一般預防（威嚇）理論。對過去的酒駕者追加處罰違反罪刑法定（不溯及既往）；乙仍維持刑罰並非除罪化；乙主張優先以教育等手段，正符合刑罰最後手段。\n\n故選 (A)"
+  },
+  {
+    "id": "107-ast-civ-12",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "甲依規定上傳碩士學位論文到指定的網站後，被人檢舉部分章節大幅抄襲乙的碩士學位論文，甲除可能被學校撤銷學位外，尚可能須負擔何種民事法律責任？",
+    "options": [
+      "侵害乙著作財產權的損害賠償",
+      "侵害乙名譽與人格權的損害賠償",
+      "侵害乙論文所有權的損害賠償",
+      "侵害乙論文公開傳輸權的損害賠償"
+    ],
+    "answerIndex": 0,
+    "explanation": "抄襲並上傳，侵害乙的重製權等著作財產權，須負損害賠償。公開傳輸權也屬著作財產權的一種，但抄襲主要侵害的是重製權，(A) 涵蓋較完整。\n\n故選 (A)"
+  },
+  {
+    "id": "107-ast-civ-13",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "近年常發生民眾集會遊行衝撞體制事件，引發「惡法亦法」或「惡法非法」與法律修廢的爭議。從法治理念思考上述爭議，何者最符合保障人權的精神？",
+    "options": [
+      "無論法律是否為惡法，修法之前政府和人民仍應遵守以免造成社會混亂",
+      "法律代表國民主權下的主流民意，少數人應該服從而不應違法衝撞體制",
+      "政府執法旨在維護憲政核心價值，不應因形式違法而剝奪意見表達自由",
+      "法律是否為惡法應該由司法院認定，民眾無權指稱法律違憲而拒絕遵守"
+    ],
+    "answerIndex": 2,
+    "explanation": "實質法治國重視法律內容是否保障人權；不應只因形式上違法就剝奪人民表達意見的自由。(A)(B)(D) 偏重形式法治。\n\n故選 (C)"
+  },
+  {
+    "id": "107-ast-civ-14",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "某校因宿舍內學生吸菸情況嚴重，決定嚴加查辦。校方公告如寢室內發現有人吸菸，則全寢室所有人皆處以退學處分，引發侵害學生權益的批評。依據法治國原則，此種處罰的不當之處與下列何者最類似？",
+    "options": [
+      "給予優惠利益之法規廢止時，未能顧及依舊法享有權益者的權利保障",
+      "政黨推薦的候選人得減半繳納保證金，但未獲推薦者則必須全額繳納",
+      "法律規定父母對於未成年子女權利之行使不一致時，應由父親來行使",
+      "修法將易肇事路段之超速處罰，由依情節輕重罰款改為一律吊銷駕照"
+    ],
+    "answerIndex": 3,
+    "explanation": "不分情節、一律科以最重處罰，違反比例原則；一律吊銷駕照同樣不考慮情節輕重。(A) 是信賴保護；(B)(C) 是平等原則。\n\n故選 (D)"
+  },
+  {
+    "id": "107-ast-civ-15",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "股票與公司債為企業於資本市場取得資金的主要工具，若甲僅持有某企業的股票，而乙僅持有該企業的公司債。以下有關甲和乙的敘述何者正確？",
+    "options": [
+      "無論甲持有股票或乙持有債券，每年皆獲得利息",
+      "甲的投資存在市場性風險，乙的投資則無該風險",
+      "甲可在所持有的股票到期後取回所有投資的資金",
+      "雖該企業稅後盈餘高於預期，但不影響乙的報酬"
+    ],
+    "answerIndex": 3,
+    "explanation": "公司債依約定利率付息，報酬與公司盈餘無關。股票配發股利而非利息，也沒有到期日；債券同樣有市場風險。\n\n故選 (D)"
+  },
+  {
+    "id": "107-ast-civ-16",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "有甲乙兩國，其中甲國有許多海盜，這些海盜原本常攻擊掠奪國際商船，但後來有些海盜改為收取保護費後保障繳費商船安全。另外，乙國某企業則是教導甲國海盜捕魚技術並借予漁船，且保證收購其漁獲。經此，攻擊事件即鮮少再發生。以下有關甲國海盜行為的改變以及乙國企業的作為，對於兩國經濟影響之推論，何者正確？",
+    "options": [
+      "甲國海盜改索取保護費，使甲國的生產力增加",
+      "甲國海盜轉行捕魚，使甲國國內生產毛額增加",
+      "乙國企業教導甲國海盜捕魚技術，乙國的生產力增加",
+      "乙國進口甲國海盜之漁獲，使乙國國內生產毛額增加"
+    ],
+    "answerIndex": 1,
+    "explanation": "海盜轉行捕魚，在甲國境內生產漁獲，甲國 GDP 增加。收保護費沒有生產；進口不會增加乙國 GDP。\n\n故選 (B)"
+  },
+  {
+    "id": "107-ast-civ-17",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "17-18 為題組\n近年來，小芸積極參與地方文史團體，該團體號召當地民眾共同蒐集及調查地方相關史蹟與史料，也配合政府文化政策與作為，致力於營造水（水湳洞）金（金瓜石）九（九份）成為世界文化遺產的潛力點。\n\n對於小芸所參與團體能發揮的社會功能，下列敘述何者最為恰當？",
+    "options": [
+      "規劃與執行文化相關的政策",
+      "提升該團體成員的文化資本",
+      "提升水金九居民的文化認同",
+      "推動水金九社區的流行文化"
+    ],
+    "answerIndex": 2,
+    "explanation": "號召居民共同調查地方史蹟、申請世界遺產，能讓居民更認識並認同在地文化。政策由政府規劃執行。\n\n故選 (C)"
+  },
+  {
+    "id": "107-ast-civ-18",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "17-18 為題組\n近年來，小芸積極參與地方文史團體，該團體號召當地民眾共同蒐集及調查地方相關史蹟與史料，也配合政府文化政策與作為，致力於營造水（水湳洞）金（金瓜石）九（九份）成為世界文化遺產的潛力點。\n\n下列何者最能說明小芸所參與團體的工作目標？",
+    "options": [
+      "形成生活風格",
+      "消弭文化位階",
+      "倡議資源國有化",
+      "落實全球在地化"
+    ],
+    "answerIndex": 3,
+    "explanation": "把地方文化推向世界文化遺產，讓在地特色在全球被看見，是全球在地化。\n\n故選 (D)"
+  },
+  {
+    "id": "107-ast-civ-19",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "19-20 為題組\n下表是某國三個所得階層的相關調查結果。學者對此提出不同見解：\n\n<svg viewBox=\"0 0 804 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">所得階層</text><rect x=\"82\" y=\"4\" width=\"200\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">體重過重者占各階層人口百分比</text><rect x=\"282\" y=\"4\" width=\"160\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"362\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">年平均家戶所得（萬元）</text><rect x=\"442\" y=\"4\" width=\"180\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">年平均家戶美容支出（萬元）</text><rect x=\"622\" y=\"4\" width=\"180\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"712\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">年平均家戶保健支出（萬元）</text><rect x=\"2\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">高所得</text><rect x=\"82\" y=\"32\" width=\"200\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">32%</text><rect x=\"282\" y=\"32\" width=\"160\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"362\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">203</text><rect x=\"442\" y=\"32\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">40</text><rect x=\"622\" y=\"32\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"712\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">50</text><rect x=\"2\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">中所得</text><rect x=\"82\" y=\"60\" width=\"200\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">40%</text><rect x=\"282\" y=\"60\" width=\"160\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"362\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">127</text><rect x=\"442\" y=\"60\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10</text><rect x=\"622\" y=\"60\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"712\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">15</text><rect x=\"2\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">低所得</text><rect x=\"82\" y=\"88\" width=\"200\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">46%</text><rect x=\"282\" y=\"88\" width=\"160\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"362\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">80</text><rect x=\"442\" y=\"88\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">5</text><rect x=\"622\" y=\"88\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"712\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10</text></svg>\n\n甲學者主張表中數據顯示，經濟資源不平等帶來生活品質與生活型態之社會階層化現象。此學者所指稱的階層化現象，最可能為下列何者？",
+    "options": [
+      "個人健康狀態的好壞可能與其所屬所得階層有關",
+      "較高所得階層因較為健康故其保健支出相對較少",
+      "各所得階層的經濟資源有所落差，其消費慾望的多寡也不同",
+      "較高所得階層的消費能力相對較強，較易形成營養過剩現象"
+    ],
+    "answerIndex": 0,
+    "explanation": "所得愈低，體重過重比例愈高、保健支出愈少，顯示健康狀態與所得階層相關。高所得者保健支出反而最多；營養過剩比例最低的是高所得。\n\n故選 (A)"
+  },
+  {
+    "id": "107-ast-civ-20",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "19-20 為題組\n下表是某國三個所得階層的相關調查結果。學者對此提出不同見解：\n\n<svg viewBox=\"0 0 804 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">所得階層</text><rect x=\"82\" y=\"4\" width=\"200\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">體重過重者占各階層人口百分比</text><rect x=\"282\" y=\"4\" width=\"160\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"362\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">年平均家戶所得（萬元）</text><rect x=\"442\" y=\"4\" width=\"180\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">年平均家戶美容支出（萬元）</text><rect x=\"622\" y=\"4\" width=\"180\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"712\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">年平均家戶保健支出（萬元）</text><rect x=\"2\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">高所得</text><rect x=\"82\" y=\"32\" width=\"200\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">32%</text><rect x=\"282\" y=\"32\" width=\"160\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"362\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">203</text><rect x=\"442\" y=\"32\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">40</text><rect x=\"622\" y=\"32\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"712\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">50</text><rect x=\"2\" y=\"60\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">中所得</text><rect x=\"82\" y=\"60\" width=\"200\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">40%</text><rect x=\"282\" y=\"60\" width=\"160\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"362\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">127</text><rect x=\"442\" y=\"60\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10</text><rect x=\"622\" y=\"60\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"712\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">15</text><rect x=\"2\" y=\"88\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"42\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">低所得</text><rect x=\"82\" y=\"88\" width=\"200\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"182\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">46%</text><rect x=\"282\" y=\"88\" width=\"160\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"362\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">80</text><rect x=\"442\" y=\"88\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"532\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">5</text><rect x=\"622\" y=\"88\" width=\"180\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"712\" y=\"106\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">10</text></svg>\n\n乙學者認為，高所得民眾之消費模式，乃呼應顧里與米德理論所主張自我概念是與他人交互作用所形成。此學者的意見與下列哪項敘述最吻合？",
+    "options": [
+      "所得越高者，越有閒暇時間管理自我身體外貌",
+      "身體狀況越佳者，越具自信心以追求經濟成就",
+      "所得越高的人們，越重視他人對自我身體形象之評價",
+      "所得越低的人們，則花費在美容相關的支出金額越低"
+    ],
+    "answerIndex": 2,
+    "explanation": "顧里的「鏡中自我」與米德的理論認為，自我是透過他人的眼光與互動形成。高所得者美容支出高，反映他們重視他人對自己形象的評價。\n\n故選 (C)"
+  },
+  {
+    "id": "107-ast-civ-21",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "21-22 為題組\n近年英國某些政治人物及民眾，不滿歐盟主導的區域整合所衍生的跨國移民與跨國就業問題，並批評歐洲政府及議會決策專斷，主張取回國家自主權；後來以公民投票通過脫離歐盟。而美國現任總統川普上任後，亦對多邊貿易組織與協定抱持懷疑態度，強調美國優先，受到不少民意支持。\n\n下列哪一個現象最適於解釋上述英國與美國國情發展的共同現象？",
+    "options": [
+      "經濟衝突導致國家主權概念出現",
+      "跨國人權保障引發國家危機意識",
+      "大國利益與南北經濟衝突的糾結",
+      "國家利益與全球化趨勢間的對抗"
+    ],
+    "answerIndex": 3,
+    "explanation": "英國脫歐、美國優先，都是以本國利益對抗區域整合與全球化。\n\n故選 (D)"
+  },
+  {
+    "id": "107-ast-civ-22",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "21-22 為題組\n近年英國某些政治人物及民眾，不滿歐盟主導的區域整合所衍生的跨國移民與跨國就業問題，並批評歐洲政府及議會決策專斷，主張取回國家自主權；後來以公民投票通過脫離歐盟。而美國現任總統川普上任後，亦對多邊貿易組織與協定抱持懷疑態度，強調美國優先，受到不少民意支持。\n\n依據題文訊息，對兩國政治人物及其支持者而言，以下哪項政策最可能皆具有優先性？",
+    "options": [
+      "強化勞動就業市場的競爭性",
+      "提高國內的市場勞動參與率",
+      "建立跨國移民就業訓練機制",
+      "增進跨國政治經濟合作關係"
+    ],
+    "answerIndex": 1,
+    "explanation": "他們不滿跨國移民搶工作、產業外移，最重視讓本國人民有工作，提高國內勞動參與。\n\n故選 (B)"
+  },
+  {
+    "id": "107-ast-civ-23",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "23-24 為題組\n冷戰結束後，蘇聯解體使美國成為全球事務主導者，但隨著國際事務日趨複雜及其本身面臨的國內政治經濟困境，美國逐漸無法獨力處理紛亂的國際問題，而經濟實力增強的中國，開始成為美國和其他大國尋求合作的對象。\n\n依據題文訊息及當前國際政治的權力結構變化，下列敘述何者最適當？",
+    "options": [
+      "中國成為新霸權並取代美國國際地位成為全球政治領導者",
+      "美國被迫與中國共享國際政治領導權並共同維護世界秩序",
+      "美、中兩國以及其他多個大國共同分享國際政治的領導權",
+      "美國仍為主要的領導者但多個大國共同扮演重要影響角色"
+    ],
+    "answerIndex": 3,
+    "explanation": "美國仍是唯一超強，但需要中國等大國合作，屬「一超多強」。\n\n故選 (D)"
+  },
+  {
+    "id": "107-ast-civ-24",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "23-24 為題組\n冷戰結束後，蘇聯解體使美國成為全球事務主導者，但隨著國際事務日趨複雜及其本身面臨的國內政治經濟困境，美國逐漸無法獨力處理紛亂的國際問題，而經濟實力增強的中國，開始成為美國和其他大國尋求合作的對象。\n\n題文所述的國際權力結構變化，對臺灣拓展國際參與的哪項努力，會產生最不利的影響？",
+    "options": [
+      "持續對邦交國家提供經濟上的援助",
+      "提供國際人道救援以提昇國際形象",
+      "透過非政府組織參與國際社會事務",
+      "爭取我國成為重要國際組織的會員"
+    ],
+    "answerIndex": 3,
+    "explanation": "中國影響力上升，大國又需與中國合作，臺灣要加入以國家為會員的政府間國際組織將更加困難。\n\n故選 (D)"
+  },
+  {
+    "id": "107-ast-civ-25",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "25-26 為題組\n某國股巿和房巿泡沫破滅後出現下列現象：資產價格崩跌，房地產與股票財富大幅縮水；某些銀行不良債權遽升，出現存款擠兌風潮，連帶使其他沒有不良債權的銀行倒閉；民眾為減輕債務負擔，不敢擴大消費而使民間需求轉弱；因民間需求不足，連續數年物價上漲率出現負成長，發生「通貨緊縮」。\n\n該國發生的情況，何者具有外部成本的現象？",
+    "options": [
+      "民眾財產減少使民間總合消費下降",
+      "某些銀行擠兌風潮使得其他銀行倒閉",
+      "民間需求明顯不足使物價指數下跌",
+      "資產價格崩跌使股票持有人財富縮水"
+    ],
+    "answerIndex": 1,
+    "explanation": "問題銀行的擠兌連累沒有不良債權的銀行倒閉，使未參與該交易的第三者受損，是外部成本。\n\n故選 (B)"
+  },
+  {
+    "id": "107-ast-civ-26",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "25-26 為題組\n某國股巿和房巿泡沫破滅後出現下列現象：資產價格崩跌，房地產與股票財富大幅縮水；某些銀行不良債權遽升，出現存款擠兌風潮，連帶使其他沒有不良債權的銀行倒閉；民眾為減輕債務負擔，不敢擴大消費而使民間需求轉弱；因民間需求不足，連續數年物價上漲率出現負成長，發生「通貨緊縮」。\n\n該國此一時期最有可能出現下列何種現象？",
+    "options": [
+      "重貼現率提高",
+      "個人所得增加",
+      "平均生活成本提高",
+      "政府支出增加"
+    ],
+    "answerIndex": 3,
+    "explanation": "景氣衰退、需求不足時，政府會擴大支出刺激景氣。央行會降低重貼現率；通貨緊縮使生活成本下降；所得減少。\n\n故選 (D)"
+  },
+  {
+    "id": "107-ast-civ-27",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "27-28 為題組\n假設某國的一般家庭每年只購買高麗菜和高麗菜水餃兩種商品，該國統計資料如下表所示。\n\n<svg viewBox=\"0 0 554 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">年度</text><rect x=\"62\" y=\"4\" width=\"100\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">高麗菜單價</text><rect x=\"162\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">高麗菜消費數量</text><rect x=\"282\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">高麗菜水餃單價</text><rect x=\"402\" y=\"4\" width=\"150\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">高麗菜水餃消費數量</text><rect x=\"2\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2014</text><rect x=\"62\" y=\"32\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40</text><rect x=\"162\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">90</text><rect x=\"282\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"402\" y=\"32\" width=\"150\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">800</text><rect x=\"2\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2015</text><rect x=\"62\" y=\"60\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">20</text><rect x=\"162\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"282\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"402\" y=\"60\" width=\"150\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1000</text><rect x=\"2\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2016</text><rect x=\"62\" y=\"88\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40</text><rect x=\"162\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">80</text><rect x=\"282\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"402\" y=\"88\" width=\"150\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">900</text><rect x=\"2\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2017</text><rect x=\"62\" y=\"116\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">60</text><rect x=\"162\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">50</text><rect x=\"282\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"402\" y=\"116\" width=\"150\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">500</text></svg>\n\n依據表中資料，可於設定基期年後計算各年度的消費者物價指數。以下敘述何者正確？",
+    "options": [
+      "以2016年為基期，2017年消費數量雖然較少，但該年的物價指數高於2016年",
+      "以2017年為基期，2015年消費數量只要增加，該年物價指數可能高於2017年",
+      "2015至2017年兩種商品單價年增金額相同，故此三年的物價指數成長率皆同",
+      "以2014年為基期，2014年和2016年兩種商品單價雖相同，但物價指數卻不同"
+    ],
+    "answerIndex": 0,
+    "explanation": "以 2016 年的消費數量為權數：2016 年支出 $40 \\times 80 + 6 \\times 900 = 8600$，2017 年價格計算 $60 \\times 80 + 9 \\times 900 = 12900$，物價指數約 150，高於 2016 年。物價指數以基期數量固定計算，與當年消費數量無關；單價相同則指數相同。\n\n故選 (A)"
+  },
+  {
+    "id": "107-ast-civ-28",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "27-28 為題組\n假設某國的一般家庭每年只購買高麗菜和高麗菜水餃兩種商品，該國統計資料如下表所示。\n\n<svg viewBox=\"0 0 554 148\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">年度</text><rect x=\"62\" y=\"4\" width=\"100\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">高麗菜單價</text><rect x=\"162\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">高麗菜消費數量</text><rect x=\"282\" y=\"4\" width=\"120\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">高麗菜水餃單價</text><rect x=\"402\" y=\"4\" width=\"150\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">高麗菜水餃消費數量</text><rect x=\"2\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2014</text><rect x=\"62\" y=\"32\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40</text><rect x=\"162\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">90</text><rect x=\"282\" y=\"32\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"402\" y=\"32\" width=\"150\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">800</text><rect x=\"2\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2015</text><rect x=\"62\" y=\"60\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">20</text><rect x=\"162\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">100</text><rect x=\"282\" y=\"60\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"402\" y=\"60\" width=\"150\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"78.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">1000</text><rect x=\"2\" y=\"88\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2016</text><rect x=\"62\" y=\"88\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">40</text><rect x=\"162\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">80</text><rect x=\"282\" y=\"88\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">6</text><rect x=\"402\" y=\"88\" width=\"150\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"106.33333333333333\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">900</text><rect x=\"2\" y=\"116\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">2017</text><rect x=\"62\" y=\"116\" width=\"100\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">60</text><rect x=\"162\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"222\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">50</text><rect x=\"282\" y=\"116\" width=\"120\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"342\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"402\" y=\"116\" width=\"150\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"477\" y=\"134.33333333333334\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">500</text></svg>\n\n若2015年以來，因病蟲害蔓延，使高麗菜年產量持續下降，導致高麗菜價格上揚。在其他條件不變下，下列對高麗菜水餃市場供需的敘述，何者正確？",
+    "options": [
+      "高麗菜水餃供給增加",
+      "高麗菜水餃需求減少",
+      "高麗菜水餃供給減少",
+      "高麗菜水餃需求增加"
+    ],
+    "answerIndex": 2,
+    "explanation": "高麗菜是水餃的原料，原料漲價使生產成本上升，水餃供給減少。\n\n故選 (C)"
+  },
+  {
+    "id": "107-ast-civ-29",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "29-30 為題組\n某國因為經濟快速發展使人口逐漸往大都市聚集，加上國內外資金不斷流入房地產市場，雖然大都市的房屋數量增加，房價卻也居高不下。不斷攀升的房價引起無力購屋者的不滿，也促使該國政府計畫採取相關措施以平抑房價。\n\n依據上述房地產市場的價量變化，若其他條件不變，下列敘述何者最為可能？",
+    "options": [
+      "需求量變動引起數量改變，導致供給變動",
+      "需求量變動使價格改變，導致供給量變動",
+      "需求變動引起數量改變，導致供給的變動",
+      "需求變動使價格改變，導致供給量的變動"
+    ],
+    "answerIndex": 3,
+    "explanation": "人口集中與資金湧入使需求線右移（需求變動），價格上升，廠商沿著供給線增加供給量，房屋數量增加。\n\n故選 (D)"
+  },
+  {
+    "id": "107-ast-civ-30",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "29-30 為題組\n某國因為經濟快速發展使人口逐漸往大都市聚集，加上國內外資金不斷流入房地產市場，雖然大都市的房屋數量增加，房價卻也居高不下。不斷攀升的房價引起無力購屋者的不滿，也促使該國政府計畫採取相關措施以平抑房價。\n\n下列哪項措施最可能可以達到該國政府的政策目標？",
+    "options": [
+      "降低房屋稅的稅率",
+      "提高房屋交易稅率",
+      "放寬外國資金流入",
+      "降低房屋貸款利率"
+    ],
+    "answerIndex": 1,
+    "explanation": "提高交易稅可抑制短期炒作的需求，平抑房價。降稅、降息、放寬外資都會增加需求。\n\n故選 (B)"
+  },
+  {
+    "id": "107-ast-civ-31",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "31-32 為題組\n某國經過大規模非暴力抗爭之後，推翻統治數十年的舊政府，並以全民普選方式選出新政府。新政府採取一系列手段處理過去長期以來人權侵害問題，以利國家發展。這些手段包括追訴舊政權時期人權侵害者的責任，成立委員會以還原過去歷史真相，並制定受難者賠償法律，讓倖存者或受害者親屬提出賠償申請。\n\n依據題文訊息推論該國舊政府時期的政治特性，下列何者最可能？",
+    "options": [
+      "長期專政體制",
+      "經歷頻繁修憲",
+      "未曾舉行選舉",
+      "國家認同分歧"
+    ],
+    "answerIndex": 0,
+    "explanation": "舊政府統治數十年且長期侵害人權，最後被人民推翻，屬長期專政的威權體制。\n\n故選 (A)"
+  },
+  {
+    "id": "107-ast-civ-32",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "31-32 為題組\n某國經過大規模非暴力抗爭之後，推翻統治數十年的舊政府，並以全民普選方式選出新政府。新政府採取一系列手段處理過去長期以來人權侵害問題，以利國家發展。這些手段包括追訴舊政權時期人權侵害者的責任，成立委員會以還原過去歷史真相，並制定受難者賠償法律，讓倖存者或受害者親屬提出賠償申請。\n\n新政府對受害者應負賠償責任的類型，與下列哪項事件的政府責任最接近？",
+    "options": [
+      "政府為興建大型育樂中心，徵收農民私人所有的土地",
+      "公務員執行勤務時，利用職務之便乘機竊取人民財物",
+      "警匪槍戰中，路人閃避不及遭流彈射中導致終身殘廢",
+      "政府勒令撲殺感染口蹄疫牛隻，導致畜產業血本無歸"
+    ],
+    "answerIndex": 1,
+    "explanation": "舊政權公務員違法侵害人權，國家應負賠償責任，與公務員執行職務時違法侵害人民財產相同，屬國家賠償。徵收、撲殺是合法行為造成的特別犧牲，給予損失補償。\n\n故選 (B)"
+  },
+  {
+    "id": "107-ast-civ-33",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "33-35 為題組\n環保局發現某化工廠違法排放廢水，以致超過1/3的河段遭受污染，無法提供農業灌溉用水。環保局遂依違反水污染防治法規定，勒令該公司即日起停工並予以重罰。雖然停工當天該公司股票配發每股2元現金股利，但收盤時股價仍自100元下跌10%。\n\n上述的河川水資源，具有下列何種特性？",
+    "options": [
+      "可共享亦可排他",
+      "可共享但無法排他",
+      "無法共享但可排他",
+      "無法共享亦無法排他"
+    ],
+    "answerIndex": 3,
+    "explanation": "河川任何人都可取用（無法排他），但被污染或使用後，其他人可用的就減少（無法共享，具敵對性），屬共有資源。\n\n故選 (D)"
+  },
+  {
+    "id": "107-ast-civ-34",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "33-35 為題組\n環保局發現某化工廠違法排放廢水，以致超過1/3的河段遭受污染，無法提供農業灌溉用水。環保局遂依違反水污染防治法規定，勒令該公司即日起停工並予以重罰。雖然停工當天該公司股票配發每股2元現金股利，但收盤時股價仍自100元下跌10%。\n\n假設某甲半年前以每股100元買進該公司股票，若不考慮股票交易的相關租稅和手續費下，停工當天某甲以收盤價賣出股票，其買賣該公司股票的報酬率為何？",
+    "options": [
+      "負10%",
+      "負8%",
+      "正10%",
+      "正2%"
+    ],
+    "answerIndex": 1,
+    "explanation": "賣出價 90 元，加上現金股利 2 元：$(90 + 2 - 100) \\div 100 = -8\\%$。\n\n故選 (B)"
+  },
+  {
+    "id": "107-ast-civ-35",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "33-35 為題組\n環保局發現某化工廠違法排放廢水，以致超過1/3的河段遭受污染，無法提供農業灌溉用水。環保局遂依違反水污染防治法規定，勒令該公司即日起停工並予以重罰。雖然停工當天該公司股票配發每股2元現金股利，但收盤時股價仍自100元下跌10%。\n\n依題旨，環保局所為之行政行為類型與下列何者性質最為接近？",
+    "options": [
+      "社會局修正低收入戶生活補助規定",
+      "教育局訂定學生獎學金的申請要點",
+      "營建署核定某公司設置大型停車場",
+      "地政處發布違規罰鍰繳納統計資料"
+    ],
+    "answerIndex": 2,
+    "explanation": "勒令停工並處罰鍰，是對特定對象的行政處分；核定某公司設置停車場也是行政處分。修正規定、訂定要點是抽象規範；發布統計是事實行為。\n\n故選 (C)"
+  },
+  {
+    "id": "107-ast-civ-36",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "36-39 為題組\n某國為乳品進口國，最近該國某連鎖量販店發布新聞稿表示，因國際乳品價格持續上揚和國內運輸物流勞動成本增加，數家主要供應商近期將調漲嬰兒奶粉價格最多達35%。消息披露後，新聞媒體紛紛大幅報導，也引發搶購風潮，各大銷售通路均出現嚴重缺貨的現象。嬰兒奶粉搶購、缺貨的話題也在網路社群媒體延燒，多家新聞媒體又不斷發布「漲價前搶最後一波便宜嬰兒奶粉，一張表秒懂何處下手」訊息，更強化搶購風潮。該國政府面對這波漲價和搶購風潮，除向民眾保證嬰兒奶粉不會短缺，也向主要供應商和量販業者進行「不要調漲」的道德勸說，但沒有進一步採取其他作為。許多網友留言批評該國政府缺乏效能，既未鼓勵哺育母乳，又放任嬰兒奶粉廠商漲價；此外，也有網友主張政府消保官應主動查訪廠商是否涉及集體漲價。\n\n在此事件中，大眾傳播學者批評新聞媒體未能善盡社會責任，造成負面影響。依據題文資訊，下列何者最可能是學者評論的內容？",
+    "options": [
+      "媒體傳播假新聞使民眾誤認即將漲價，顯示媒體時常錯誤影響民眾認知",
+      "媒體對公共議題未能呈現多元訊息並查證，反映媒體公共性不足的問題",
+      "媒體輕易接受廠商的置入性行銷，未能適切發揮媒體應有的第四權功能",
+      "媒體未防止嬰兒奶粉漲價消息擴散傳播，造成民眾恐慌，違反專業倫理"
+    ],
+    "answerIndex": 1,
+    "explanation": "媒體只放大搶購訊息，未提供政府保證不缺貨等多元資訊、也未查證，助長恐慌，未善盡公共性。漲價消息是真的，不是假新聞；題文看不出置入性行銷。\n\n故選 (B)"
+  },
+  {
+    "id": "107-ast-civ-37",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "36-39 為題組\n某國為乳品進口國，最近該國某連鎖量販店發布新聞稿表示，因國際乳品價格持續上揚和國內運輸物流勞動成本增加，數家主要供應商近期將調漲嬰兒奶粉價格最多達35%。消息披露後，新聞媒體紛紛大幅報導，也引發搶購風潮，各大銷售通路均出現嚴重缺貨的現象。嬰兒奶粉搶購、缺貨的話題也在網路社群媒體延燒，多家新聞媒體又不斷發布「漲價前搶最後一波便宜嬰兒奶粉，一張表秒懂何處下手」訊息，更強化搶購風潮。該國政府面對這波漲價和搶購風潮，除向民眾保證嬰兒奶粉不會短缺，也向主要供應商和量販業者進行「不要調漲」的道德勸說，但沒有進一步採取其他作為。許多網友留言批評該國政府缺乏效能，既未鼓勵哺育母乳，又放任嬰兒奶粉廠商漲價；此外，也有網友主張政府消保官應主動查訪廠商是否涉及集體漲價。\n\n從「效能政府」的角度思考，下列網友留言批評該國政府作為的內容，何者最為恰當？",
+    "options": [
+      "政府運作越來越傾向以企業為顧客的服務管理，以致削弱政府效能",
+      "政府長期受乳品利益團體的包圍和遊說，造成角色模糊及功能不彰",
+      "政府對漲價搶購問題束手無策，是政府組織去任務與民營化的惡果",
+      "政府對漲價搶購問題缺乏有效的評估，產生政策和行政的雙重缺失"
+    ],
+    "answerIndex": 3,
+    "explanation": "政府只做道德勸說，沒有評估問題、提出有效政策，也未積極查處，是政策與行政的雙重缺失。題文看不出利益團體遊說或民營化。\n\n故選 (D)"
+  },
+  {
+    "id": "107-ast-civ-38",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "36-39 為題組\n某國為乳品進口國，最近該國某連鎖量販店發布新聞稿表示，因國際乳品價格持續上揚和國內運輸物流勞動成本增加，數家主要供應商近期將調漲嬰兒奶粉價格最多達35%。消息披露後，新聞媒體紛紛大幅報導，也引發搶購風潮，各大銷售通路均出現嚴重缺貨的現象。嬰兒奶粉搶購、缺貨的話題也在網路社群媒體延燒，多家新聞媒體又不斷發布「漲價前搶最後一波便宜嬰兒奶粉，一張表秒懂何處下手」訊息，更強化搶購風潮。該國政府面對這波漲價和搶購風潮，除向民眾保證嬰兒奶粉不會短缺，也向主要供應商和量販業者進行「不要調漲」的道德勸說，但沒有進一步採取其他作為。許多網友留言批評該國政府缺乏效能，既未鼓勵哺育母乳，又放任嬰兒奶粉廠商漲價；此外，也有網友主張政府消保官應主動查訪廠商是否涉及集體漲價。\n\n若依據我國的法律，政府對廠商及量販店可能採取的作為，下列敘述何者正確？",
+    "options": [
+      "奶粉廠商如果聯手調漲價格，政府可依法禁止該漲價行為",
+      "政府若採取網友要求的作為，係依據消費者保護法之授權",
+      "量販店的行為可能構成暴利行為，政府消保官可撤銷契約",
+      "政府對廠商所採取的措施，因無強制力故不屬於行政行為"
+    ],
+    "answerIndex": 0,
+    "explanation": "廠商聯合漲價屬公平交易法禁止的聯合行為，主管機關可依法禁止並處罰。查訪聯合漲價的依據是公平交易法；消保官不能撤銷私人契約；道德勸說是行政指導，也屬行政行為。\n\n故選 (A)"
+  },
+  {
+    "id": "107-ast-civ-39",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "single",
+    "points": 2,
+    "question": "36-39 為題組\n某國為乳品進口國，最近該國某連鎖量販店發布新聞稿表示，因國際乳品價格持續上揚和國內運輸物流勞動成本增加，數家主要供應商近期將調漲嬰兒奶粉價格最多達35%。消息披露後，新聞媒體紛紛大幅報導，也引發搶購風潮，各大銷售通路均出現嚴重缺貨的現象。嬰兒奶粉搶購、缺貨的話題也在網路社群媒體延燒，多家新聞媒體又不斷發布「漲價前搶最後一波便宜嬰兒奶粉，一張表秒懂何處下手」訊息，更強化搶購風潮。該國政府面對這波漲價和搶購風潮，除向民眾保證嬰兒奶粉不會短缺，也向主要供應商和量販業者進行「不要調漲」的道德勸說，但沒有進一步採取其他作為。許多網友留言批評該國政府缺乏效能，既未鼓勵哺育母乳，又放任嬰兒奶粉廠商漲價；此外，也有網友主張政府消保官應主動查訪廠商是否涉及集體漲價。\n\n若其他條件不變，上述價量變動的現象及搶購風潮因應政策的效果，下列敘述何者正確？",
+    "options": [
+      "該現象的發生是需求增加，但供給不變",
+      "該現象的發生是需求不變，但供給減少",
+      "若實施限購六罐政策，亦無助紓解漲價壓力",
+      "若保證一個月內不漲價，則可減緩搶購風潮"
+    ],
+    "answerIndex": 2,
+    "explanation": "漲價的根源是國際乳價與物流成本上升造成的供給減少，搶購又使需求增加。限購只能抑制部分需求，無法改變成本上升的漲價壓力。保證一個月不漲，消費者仍會在一個月內搶購。\n\n故選 (C)"
+  },
+  {
+    "id": "107-ast-civ-40",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "某國資料顯示，有三種職業長期為收入排行榜前幾名，且大學相關科系學生多來自高社經階層。下列哪些是功能論與衝突論對此現象較可能的解釋？",
+    "options": [
+      "衝突論強調高薪的誘因，促使高階層家庭要求其子女就讀這些科系",
+      "衝突論認為個人能否從事這些職業，往往取決於其既有的經濟資源",
+      "功能論主張高階層家庭子女較有機會從事這些職業意味著階級再製",
+      "衝突論批判這些專業的從業者坐領高薪，卻未對社會做出等值貢獻",
+      "功能論主張這些專業職業的高薪，能有效吸引優秀人才選擇該職業"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "衝突論認為優勢階層利用經濟資源讓子女占據好職位（B）；功能論認為高薪是吸引人才擔任重要職位的必要誘因（E）。強調高薪誘因的是功能論；階級再製是衝突論的觀點。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "107-ast-civ-41",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "下表是甲乙丙丁四個家庭在2000年和2015年兩次調查中（兩次調查對象均相同），親子兩代的職業轉變狀況。根據下表，關於表中四個家庭的社會流動，下列敘述哪些較為恰當？\n\n<svg viewBox=\"0 0 574 92\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\"></text><rect x=\"62\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">甲 親代</text><rect x=\"132\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">甲 子代</text><rect x=\"202\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">乙 親代</text><rect x=\"262\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">乙 子代</text><rect x=\"322\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">丙 親代</text><rect x=\"382\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"417\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">丙 子代</text><rect x=\"452\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"482\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">丁 親代</text><rect x=\"512\" y=\"4\" width=\"60\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"542\" y=\"22\" fill=\"#ffeb3b\" font-size=\"12\" text-anchor=\"middle\">丁 子代</text><rect x=\"2\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">2000年</text><rect x=\"62\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">工廠工人</text><rect x=\"132\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">學生</text><rect x=\"202\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">法官</text><rect x=\"262\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">學生</text><rect x=\"322\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">木工</text><rect x=\"382\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"417\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">水泥工</text><rect x=\"452\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"482\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">教師</text><rect x=\"512\" y=\"32\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"542\" y=\"50\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">學生</text><rect x=\"2\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">2015年</text><rect x=\"62\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"97\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">工廠老闆</text><rect x=\"132\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"167\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">工廠老闆</text><rect x=\"202\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"232\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">法官</text><rect x=\"262\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"292\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">檢察官</text><rect x=\"322\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">水泥工</text><rect x=\"382\" y=\"60\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"417\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">公司老闆</text><rect x=\"452\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"482\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">教師</text><rect x=\"512\" y=\"60\" width=\"60\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"542\" y=\"78\" fill=\"#ffffff\" font-size=\"12\" text-anchor=\"middle\">教師</text></svg>",
+    "options": [
+      "甲丙家子代均是代內的向上流動",
+      "乙丁家兩代之間均是代間水平流動",
+      "乙家兩代社會聲望與所得均最高",
+      "甲家代內垂直和代間水平流動皆有",
+      "四個家庭均呈現階級複製的現象"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "乙家法官與檢察官、丁家教師與教師，兩代地位相當，是代間水平流動（B）。甲家父親由工人變老闆是代內垂直流動，2015 年父子都是老闆是代間水平流動（D）。甲家子代由學生變老闆，學生不算職業；丙家由木工之子到公司老闆，並非階級複製。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "107-ast-civ-42",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "我國目前多種法律制度皆強調程序正義的保障，關於我國基於正當法律程序而發展的法律制度現狀，下列敘述哪些正確？",
+    "options": [
+      "為保障人民，若警察臨檢未遵正當法律程序，人民可向高等法院按鈴申告",
+      "為使紛爭能進入訴訟體制接受正當法律程序檢驗，應禁止訴訟外紛爭調解",
+      "為維護被告的權利，檢察官必須經過法官同意才可以進行羈押等強制處分",
+      "憲法保障法官獨立審判之權，如依法裁判，即使判決違背輿論也不能撤銷",
+      "為保障被害者之權利，律師應自律，不為犯罪情節重大的嫌疑犯進行辯護"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "羈押須由法官裁定（C）；法官依法獨立審判，不受輿論左右（D）。按鈴申告是向地檢署；調解是重要的紛爭解決管道；任何被告都有受辯護的權利。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "107-ast-civ-43",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "甲就讀某公立高中，因為學習成績不佳，經常被老師訓斥其將來沒有出息。某次期末考試時，一位老師指控甲作弊，當天經由校長裁處給予甲記一次大過處分。就本事件所涉及的校園人權問題，下列敘述哪些是正確的？",
+    "options": [
+      "學校老師訓斥甲沒有出息的言行，涉及侵害甲的人格權利",
+      "甲若作弊被依校規處罰，校方亦應給甲申訴及答辯的機會",
+      "老師不會故意汙衊學生，若罪證確鑿則無申訴與答辯必要",
+      "甲遭受記過處分，依大法官釋憲結果可提起行政爭訟救濟",
+      "該高中對甲記過處分屬於行政指導，故甲可以提行政救濟"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "公開貶抑學生侵害其人格尊嚴（A）；處分前應給予答辯、處分後可申訴（B）。依當時釋憲結果（釋字第 382 號），記過等未改變學生身分的處分不能提起行政爭訟；記過是行政處分而非行政指導。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "107-ast-civ-44",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "某公司因景氣不佳，要求員工減薪。員工認為該公司並未虧損，不應減薪。該公司工會出面與老闆協商，老闆出示員工受雇時簽訂的契約，契約記載員工不能授權給工會代替其談判薪資，且不可以罷工，因此拒絕與工會協商，該工會乃發動罷工。此事件涉及的勞動權利，下列敘述哪些正確？",
+    "options": [
+      "罷工常會造成勞資雙方損失，因此該公司的契約對於勞方並非不利",
+      "勞資雙方因為經濟實力不平等，應該有工會協助勞工進行薪資協商",
+      "基於私法自治原則，工會的罷工行為因為明確違反勞動契約而無效",
+      "契約條款明訂員工不能授權工會進行薪資談判，工會談判行為無效",
+      "該公司與員工簽訂的契約內容違反勞動相關法規，其契約因而無效"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "勞工個人力量弱，需要工會團體協商（B）；契約剝奪團結權、協商權與爭議權，違反勞動法規，該條款無效（E）。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "107-ast-civ-45",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "甲乙是夫妻，因車禍同時去世，其家庭成員關係如圖。本案涉及的遺產繼承，下列敘述哪些正確？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/107-ast-civ-45.png\" alt=\"家族圖：丙為甲之父親；丁為甲之手足；甲（夫）與乙（妻）的子女有三人：戊（甲乙兩人婚前所生）、己（甲乙婚姻期間所生）、庚（甲乙婚姻期間收養）\" style=\"width:100%;max-width:340px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "若丁願意撫養甲乙遺留子女，即有優先繼承權",
+      "己是真正婚生子女應由其繼承，他人不能繼承",
+      "丙可優先繼承遺產，讓甲死後仍能盡孝親責任",
+      "戊非婚生子女，但因甲乙後來結婚，仍可繼承",
+      "庚雖非婚生子女，仍可以優先於丙丁繼承遺產"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "婚前所生的戊因父母結婚而視為婚生子女（準正），可繼承（D）；養子女與婚生子女同為第一順位，優先於父母（丙）、兄弟姊妹（丁）（E）。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "107-ast-civ-46",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "我國大法官的部分職權已採用憲法法庭形式審理，下列哪些屬於此種形式？",
+    "options": [
+      "政黨違憲解散案件",
+      "審查法律或命令違憲",
+      "統一解釋法律及命令",
+      "憲法疑義解釋案件",
+      "總統副總統彈劾案件"
+    ],
+    "answerIndices": [
+      0,
+      4
+    ],
+    "explanation": "當時（憲法訴訟法施行前）以憲法法庭言詞辯論審理的是政黨違憲解散案（A）與總統副總統彈劾案（E）；其他解釋案以大法官會議方式審理。\n\n故選 (A)(E)"
+  },
+  {
+    "id": "107-ast-civ-47",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "借貸市場裡存款者提供資金給銀行屬於資金供給，借款者向銀行借入資金屬於資金需求，其中存款者和借款者除了一般民眾和企業外，政府也可扮演這兩種角色。下列政府政策何者直接造成資金供給的變動？",
+    "options": [
+      "政府編列預算設立初創基金，存入商業銀行貸放給青年創業",
+      "政府取消廠商投資的租稅抵免措施，造成國內投資意願下降",
+      "政府簡化企業設廠前的環境評估，提高國內企業的投資誘因",
+      "央行實施量化寬鬆買入政府公債，政府將收入存入商業銀行",
+      "央行調降商業銀行的重貼現率，商業銀行跟著降低存款利率"
+    ],
+    "answerIndices": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "政府把資金存入銀行（A、D）直接增加資金供給；降低存款利率使民眾存款意願下降，影響資金供給（E）。(B)(C) 改變的是企業借款的資金需求。\n\n故選 (A)(D)(E)"
+  },
+  {
+    "id": "107-ast-civ-48",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "若國際食用油市場有甲乙丙三國，甲乙兩國每年都從丙國進口食用油，但甲乙兩國間並無食用油貿易。乙國發生假油事件，使其國產食用油銷售量慘跌，並使得由丙國進口數量大增，導致丙國食用油的國內及出口價格攀升。根據以上條件，有關三國食用油市場消費者與生產者剩餘和社會福祉的變動，下列敘述哪些正確？",
+    "options": [
+      "甲國消費者剩餘上升",
+      "甲國生產者剩餘上升",
+      "乙國生產者剩餘下降",
+      "丙國消費者剩餘下降",
+      "丙國的社會福祉下降"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "丙國油價上漲：甲國進口油變貴，國內價格上升，生產者剩餘上升（B）、消費者剩餘下降；乙國國產油銷量慘跌，生產者剩餘下降（C）；丙國國內價格上升，消費者剩餘下降（D），但出口增加使生產者剩餘增加更多，整體福祉上升。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "107-ast-civ-49",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "49-50 為題組\n大華為我國某地方自治團體行政機關的科長，小明則受該行政機關首長邀請，自企業界轉任而成為大華的上級局長。最近為某項政策是否要徵詢民意，兩人意見相左。小明主張直接辦理公投，但大華認為無法舉辦公投，應辦理電話民意調查。\n\n依現行法律規定與實務經驗，對兩種徵詢民意方式的評析，下列哪些最適當？",
+    "options": [
+      "小明主張的方式可由該機關逕行辦理，大華的方式需委託專業機構",
+      "小明主張的方式較具有公信力，大華的方式則成本較低且節省公帑",
+      "小明主張的方式屬於直接民主，大華的方式則未必與直接民主有關",
+      "兩種方式皆可以提升政策決策品質，並避免政策受特定利益的操控",
+      "兩種方式皆為民意政治的展現，其結果對政策的制訂具有法律效力"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "公投由全體公民投票，較具公信力；民調抽樣成本較低（B）。公投是直接民主，民調只是蒐集民意（C）。地方公投須依法定程序提出，不能由機關逕行辦理；民調結果沒有法律效力。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "107-ast-civ-50",
+    "examType": "分科/指考",
+    "year": 107,
+    "subject": "公民與社會",
+    "type": "multiple",
+    "points": 2,
+    "question": "49-50 為題組\n大華為我國某地方自治團體行政機關的科長，小明則受該行政機關首長邀請，自企業界轉任而成為大華的上級局長。最近為某項政策是否要徵詢民意，兩人意見相左。小明主張直接辦理公投，但大華認為無法舉辦公投，應辦理電話民意調查。\n\n依據題文判斷，該地方自治團體之政府組織與權責，下列推論哪些最可能？",
+    "options": [
+      "其行政機關之首長係由行政院院長依法任命",
+      "其組織依法僅設有行政機關而沒有立法機關",
+      "須執行上級政府委辦事項但可制定地方法規",
+      "依法可以引進第三部門參與政府的公共服務",
+      "其預算執行與財政收支依法須受行政院監督"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "地方自治團體有自治立法權，也須執行委辦事項（C）；可與非營利組織合作提供公共服務（D）。首長由人民選舉；設有地方議會；預算由地方議會監督。\n\n故選 (C)(D)"
   }
 ]
