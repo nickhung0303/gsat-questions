@@ -229923,5 +229923,328 @@
       "34"
     ],
     "explanation": "$t$ 秒時兩人在 $(4t, 0)$、$(0, 3t)$，視線所在直線 $3x + 4y = 12t$。這些直線互相平行，與出發點的距離 $\\dfrac{12t}{5} = 2.4t$，以每秒 2.4 公尺平移。\n視線被擋住的時間就是平移掃過圓柱底圓直徑的時間：直徑 $= 2.4\\times6 = 14.4$ 公尺。"
+  },
+  {
+    "id": "106-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 從所有二位正整數中隨機選取一個數，設 $p$ 是其十位數字小於個位數字的機率。關於 $p$ 值的範圍，試選出正確的選項。",
+    "options": [
+      "$0.22 \\le p < 0.33$",
+      "$0.33 \\le p < 0.44$",
+      "$0.44 \\le p < 0.55$",
+      "$0.55 \\le p < 0.66$",
+      "$0.66 \\le p < 0.77$"
+    ],
+    "answerIndex": 1,
+    "explanation": "二位數共 90 個。十位數字 $a$（1～8）時個位可為 $a + 1$～9，共 $8 + 7 + \\cdots + 1 = 36$ 個。\n$p = \\dfrac{36}{90} = 0.4$。\n\n故選 (B)"
+  },
+  {
+    "id": "106-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 設 $a = \\sqrt[3]{10}$。關於 $a^5$ 的範圍，試選出正確的選項。",
+    "options": [
+      "$25 \\le a^5 < 30$",
+      "$30 \\le a^5 < 35$",
+      "$35 \\le a^5 < 40$",
+      "$40 \\le a^5 < 45$",
+      "$45 \\le a^5 < 50$"
+    ],
+    "answerIndex": 4,
+    "explanation": "$a^5 = 10^{5/3} = 10\\cdot10^{2/3} = 10\\sqrt[3]{100}$。$4.6^3 \\approx 97.3$、$4.7^3 \\approx 103.8$，所以 $\\sqrt[3]{100} \\approx 4.64$，$a^5 \\approx 46.4$。\n\n故選 (E)"
+  },
+  {
+    "id": "106-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 試問在 $0 \\le x \\le 2\\pi$ 的範圍中，$y = 3\\sin x$ 的函數圖形與 $y = 2\\sin2x$ 的函數圖形有幾個交點？",
+    "options": [
+      "2 個交點",
+      "3 個交點",
+      "4 個交點",
+      "5 個交點",
+      "6 個交點"
+    ],
+    "answerIndex": 3,
+    "explanation": "$3\\sin x = 4\\sin x\\cos x \\iff \\sin x(3 - 4\\cos x) = 0$。\n• $\\sin x = 0$：$x = 0, \\pi, 2\\pi$。\n• $\\cos x = \\dfrac34$：在 $[0, 2\\pi]$ 內 2 個。\n共 5 個。\n\n故選 (D)"
+  },
+  {
+    "id": "106-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "4. 已知一實係數三次多項式 $f(x)$ 在 $x = 1$ 有極大值 3，且圖形 $y = f(x)$ 在 $(4, f(4))$ 之切線方程式為 $y - f(4) + 5(x - 4) = 0$，試問 $\\displaystyle\\int_1^4 f''(x)\\,dx$ 之值為下列哪一選項？",
+    "options": [
+      "−5",
+      "−3",
+      "0",
+      "3",
+      "5"
+    ],
+    "answerIndex": 0,
+    "explanation": "極值處 $f'(1) = 0$；切線斜率 $f'(4) = -5$。\n$\\displaystyle\\int_1^4 f''(x)\\,dx = f'(4) - f'(1) = -5$。\n\n故選 (A)"
+  },
+  {
+    "id": "106-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 設 $\\vec u$ 與 $\\vec v$ 為兩非零向量，夾角為 $120^\\circ$。若 $\\vec u$ 與 $\\vec u + \\vec v$ 垂直，試選出正確的選項。",
+    "options": [
+      "$\\vec u$ 的長度是 $\\vec v$ 的長度的 2 倍",
+      "$\\vec v$ 與 $\\vec u + \\vec v$ 的夾角為 $30^\\circ$",
+      "$\\vec u$ 與 $\\vec u - \\vec v$ 的夾角為銳角",
+      "$\\vec v$ 與 $\\vec u - \\vec v$ 的夾角為銳角",
+      "$\\vec u + \\vec v$ 的長度大於 $\\vec u - \\vec v$ 的長度"
+    ],
+    "answerIndices": [
+      1,
+      2
+    ],
+    "explanation": "$\\vec u\\cdot(\\vec u + \\vec v) = |\\vec u|^2 - \\dfrac12|\\vec u||\\vec v| = 0$，$|\\vec v| = 2|\\vec u|$。取 $|\\vec u| = 1$、$|\\vec v| = 2$、$\\vec u\\cdot\\vec v = -1$。\n• (A) 錯誤：是 $\\vec v$ 為 $\\vec u$ 的 2 倍。\n• (B) 正確：$|\\vec u + \\vec v|^2 = 1 + 4 - 2 = 3$，$\\vec v\\cdot(\\vec u + \\vec v) = -1 + 4 = 3$，$\\cos = \\dfrac{3}{2\\sqrt3} = \\dfrac{\\sqrt3}{2}$。\n• (C) 正確：$\\vec u\\cdot(\\vec u - \\vec v) = 1 + 1 = 2 > 0$。\n• (D) 錯誤：$\\vec v\\cdot(\\vec u - \\vec v) = -1 - 4 < 0$。\n• (E) 錯誤：$|\\vec u - \\vec v|^2 = 1 + 4 + 2 = 7 > 3$。\n\n故選 (B)(C)"
+  },
+  {
+    "id": "106-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 已知複數 $z$ 滿足 $z^n + z^{-n} + 2 = 0$，其中 $n$ 為正整數。將 $z$ 用極式表示為 $r(\\cos\\theta + i\\sin\\theta)$，且 $r > 0$。試選出正確的選項。",
+    "options": [
+      "$r = 1$",
+      "$n$ 不能是偶數",
+      "對給定的 $n$，恰有 $2n$ 個不同的複數 $z$ 滿足題設",
+      "$\\theta$ 可能是 $\\dfrac{3\\pi}{7}$",
+      "$\\theta$ 可能是 $\\dfrac{4\\pi}{7}$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "令 $w = z^n$：$w + \\dfrac1w = -2 \\iff (w + 1)^2 = 0$，$z^n = -1$。\n• (A) 正確：$|z|^n = 1$。\n• (B) 錯誤：例如 $n = 2$，$z = \\pm i$。\n• (C) 錯誤：$z^n = -1$ 恰有 $n$ 個解。\n• (D) 正確：$\\theta = \\dfrac{(2k + 1)\\pi}{n}$，$n = 7$、$k = 1$ 得 $\\dfrac{3\\pi}{7}$。\n• (E) 錯誤：$\\dfrac{2k + 1}{n} = \\dfrac47$（模 2）會得 $7(2k + 1 + 2m n) = 4n$，左奇右偶，不可能。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "106-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 設實係數三次多項式 $f(x)$ 的首項係數為正。已知 $y = f(x)$ 的圖形和直線 $y = g(x)$ 在 $x = 1$ 相切，且兩圖形只有一個交點。試選出正確的選項。",
+    "options": [
+      "$f(1) = g(1)$",
+      "$f'(1) = g'(1)$",
+      "$f''(1) = 0$",
+      "存在實數 $a \\ne 1$ 使得 $f'(a) = g'(a)$",
+      "存在實數 $a \\ne 1$ 使得 $f''(a) = g''(a)$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "相切於 $x = 1$：$f - g$ 有重根 1，$f - g = c(x - 1)^2(x - r)$。只有一個交點，所以 $r = 1$：$f(x) - g(x) = c(x - 1)^3$（$c > 0$）。\n• (A)(B) 正確。\n• (C) 正確：$g$ 是一次，$f''(x) = 6c(x - 1)$，$f''(1) = 0$。\n• (D) 錯誤：$f' - g' = 3c(x - 1)^2 = 0$ 只有 $x = 1$。\n• (E) 錯誤：$f'' - g'' = 6c(x - 1) = 0$ 只有 $x = 1$。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "106-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "A. 某高中一年級有忠、孝、仁、愛四班的籃球隊，擬由經抽籤決定的下列賽程進行單淘汰賽（輸一場即被淘汰）：第一輪忠對孝、仁對愛，勝者進入冠軍戰。假設忠班勝過其他任何一班的機率為 $\\dfrac45$，孝班勝過其他任何一班的機率為 $\\dfrac15$，仁、愛兩班的實力相當，勝負機率各為 $\\dfrac12$。若任一場比賽皆須分出勝負，沒有和局。如果冠軍隊可獲得 6000 元獎學金，亞軍隊可獲得 4000 元獎學金，則孝班可獲得獎學金的期望值為 ⑧⑨⑩ 元。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-ma-A.png\" alt=\"賽程：忠對孝、仁對愛，勝者爭冠\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "8",
+      "8",
+      "0"
+    ],
+    "blankLabels": [
+      "8",
+      "9",
+      "10"
+    ],
+    "explanation": "孝班要先勝忠班（$\\dfrac15$）才進冠軍戰，對手不論仁或愛，孝勝的機率都是 $\\dfrac15$：\n• 冠軍：$\\dfrac15\\cdot\\dfrac15 = \\dfrac{1}{25}$；亞軍：$\\dfrac15\\cdot\\dfrac45 = \\dfrac{4}{25}$。\n期望值 $= 6000\\cdot\\dfrac{1}{25} + 4000\\cdot\\dfrac{4}{25} = 240 + 640 = 880$ 元。"
+  },
+  {
+    "id": "106-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "B. 坐標平面上有三條直線 $L$、$L_1$、$L_2$，其中 $L$ 為水平線，$L_1$、$L_2$ 的斜率分別為 $\\dfrac34$、$-\\dfrac43$。已知 $L$ 被 $L_1$、$L_2$ 所截出的線段長為 30，則 $L$、$L_1$、$L_2$ 所決定的三角形的面積為 ⑪⑫⑬。",
+    "blanks": [
+      "2",
+      "1",
+      "6"
+    ],
+    "blankLabels": [
+      "11",
+      "12",
+      "13"
+    ],
+    "explanation": "$\\dfrac34\\cdot\\left(-\\dfrac43\\right) = -1$，$L_1 \\perp L_2$。三角形為直角三角形，斜邊在 $L$ 上長 30，一銳角的正切 $\\dfrac34$（$\\sin = \\dfrac35$、$\\cos = \\dfrac45$）。\n兩股 $30\\cdot\\dfrac35 = 18$、$30\\cdot\\dfrac45 = 24$，面積 $\\dfrac12\\cdot18\\cdot24 = 216$。"
+  },
+  {
+    "id": "106-ast-ma-C",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "C. 坐標平面上，$x$ 坐標與 $y$ 坐標均為整數的點稱為格子點。令 $n$ 為正整數，$T_n$ 為平面上以直線 $y = \\dfrac{-1}{2n}x + 3$，以及 $x$ 軸、$y$ 軸所圍成的三角形區域（包含邊界），而 $a_n$ 為 $T_n$ 上的格子點數目，則 $\\displaystyle\\lim_{n\\to\\infty}\\frac{a_n}{n} =$ ⑭⑮。",
+    "blanks": [
+      "1",
+      "2"
+    ],
+    "blankLabels": [
+      "14",
+      "15"
+    ],
+    "explanation": "直線交 $x$ 軸於 $6n$、交 $y$ 軸於 3。依 $y$ 分層：$y = 0$：$x = 0$～$6n$，$6n + 1$ 個；$y = 1$：$x \\le 4n$，$4n + 1$ 個；$y = 2$：$2n + 1$ 個；$y = 3$：1 個。\n$a_n = 12n + 4$，$\\dfrac{a_n}{n} \\to 12$。"
+  },
+  {
+    "id": "106-ast-ma-D",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "D. 坐標空間中，平面 $ax + by + cz = 0$ 與平面 $x = 0$、$x + \\sqrt3y = 0$ 的夾角（介於 $0^\\circ$ 到 $90^\\circ$ 之間）都是 $60^\\circ$，且 $a^2 + b^2 + c^2 = 12$，則 $(a^2, b^2, c^2) =$ (⑯, ⑰, ⑱)。（大考中心公告 (3, 1, 8) 與 (3, 9, 0) 皆給分）",
+    "blanks": [
+      "3",
+      "1",
+      "8"
+    ],
+    "acceptedBlankSets": [
+      [
+        "3",
+        "9",
+        "0"
+      ]
+    ],
+    "blankLabels": [
+      "16",
+      "17",
+      "18"
+    ],
+    "explanation": "法向量 $\\vec n = (a, b, c)$，$|\\vec n| = 2\\sqrt3$。\n• 與 $(1, 0, 0)$ 夾 $60^\\circ$（取銳角）：$\\dfrac{|a|}{2\\sqrt3} = \\dfrac12$，$a^2 = 3$。\n• 與 $(1, \\sqrt3, 0)$：$\\dfrac{|a + \\sqrt3b|}{2\\sqrt3\\cdot2} = \\dfrac12$，$|a + \\sqrt3b| = 2\\sqrt3$。取 $a = \\sqrt3$：$b = 1$ 或 $-3$。\n所以 $b^2 = 1$、$c^2 = 8$，或 $b^2 = 9$、$c^2 = 0$。題目沒有限制 $abc \\ne 0$，兩組都正確。"
+  },
+  {
+    "id": "106-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】在坐標平面上，考慮二階方陣 $A = \\dfrac15\\begin{bmatrix} 4 & -3 \\\\ 3 & 4 \\end{bmatrix}$ 所定義的線性變換。對於平面上異於原點 $O$ 的點 $P_1$，設 $P_1$ 經 $A$ 變換成 $P_2$，$P_2$ 經 $A$ 變換成 $P_3$。令 $a = \\overline{OP_1}$。試回答下列問題。\n(1) 試求 $\\sin(\\angle P_1OP_3)$。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$\\dfrac{24}{25}$"
+    ],
+    "blankLabels": [
+      "sin"
+    ],
+    "explanation": "$A = \\begin{bmatrix} \\cos\\theta & -\\sin\\theta \\\\ \\sin\\theta & \\cos\\theta \\end{bmatrix}$，$\\cos\\theta = \\dfrac45$、$\\sin\\theta = \\dfrac35$，是旋轉 $\\theta$。$P_3$ 是 $P_1$ 旋轉 $2\\theta$：\n$\\sin2\\theta = 2\\cdot\\dfrac35\\cdot\\dfrac45 = \\dfrac{24}{25}$。"
+  },
+  {
+    "id": "106-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】在坐標平面上，考慮二階方陣 $A = \\dfrac15\\begin{bmatrix} 4 & -3 \\\\ 3 & 4 \\end{bmatrix}$ 所定義的線性變換。對於平面上異於原點 $O$ 的點 $P_1$，設 $P_1$ 經 $A$ 變換成 $P_2$，$P_2$ 經 $A$ 變換成 $P_3$。令 $a = \\overline{OP_1}$。試回答下列問題。\n(2) 試以 $a$ 表示 $\\triangle P_1P_2P_3$ 的面積。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$\\dfrac{3a^2}{25}$"
+    ],
+    "blankLabels": [
+      "面積"
+    ],
+    "explanation": "三點都在半徑 $a$ 的圓上，$\\angle P_1OP_2 = \\angle P_2OP_3 = \\theta$：\n$$\\triangle P_1P_2P_3 = \\triangle OP_1P_2 + \\triangle OP_2P_3 - \\triangle OP_1P_3 = a^2\\sin\\theta - \\frac12a^2\\sin2\\theta = \\frac35a^2 - \\frac{12}{25}a^2 = \\frac{3a^2}{25}$$"
+  },
+  {
+    "id": "106-ast-ma-non-1-3",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】在坐標平面上，考慮二階方陣 $A = \\dfrac15\\begin{bmatrix} 4 & -3 \\\\ 3 & 4 \\end{bmatrix}$ 所定義的線性變換。對於平面上異於原點 $O$ 的點 $P_1$，設 $P_1$ 經 $A$ 變換成 $P_2$，$P_2$ 經 $A$ 變換成 $P_3$。令 $a = \\overline{OP_1}$。試回答下列問題。\n(3) 假設 $P_1$ 是圖形 $y = \\dfrac{1}{10}x^2 - 10$ 上的動點，試求 $\\triangle P_1P_2P_3$ 面積的最小可能值。（4 分）",
+    "points": 4,
+    "blanks": [
+      "9"
+    ],
+    "blankLabels": [
+      "最小面積"
+    ],
+    "explanation": "$a^2 = x^2 + \\left(\\dfrac{x^2}{10} - 10\\right)^2 = \\dfrac{x^4}{100} - x^2 + 100 = \\dfrac{(x^2 - 50)^2}{100} + 75 \\ge 75$（$x = \\pm5\\sqrt2$ 時等號成立）。\n最小面積 $= \\dfrac{3\\times75}{25} = 9$。"
+  },
+  {
+    "id": "106-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】坐標空間中，$O(0, 0, 0)$ 為原點。平面 $z = h$（其中 $0 \\le h \\le 1$）上有一以 $(0, 0, h)$ 為圓心的圓，在此圓上依逆時鐘順序取 8 點構成正八邊形 $P_0P_1P_2P_3P_4P_5P_6P_7$，使得各線段 $\\overline{OP_j}$（$0 \\le j \\le 7$）的長度都是 1。請參見示意圖。試回答下列問題。\n(1) 試以 $h$ 表示向量內積 $\\overrightarrow{OP_0}\\cdot\\overrightarrow{OP_4}$。（4 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-ma-non2.png\" alt=\"原點 O 與平面 z = h 上的正八邊形 P0～P7，各 OPj 長為 1\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 4,
+    "blanks": [
+      "$2h^2 - 1$"
+    ],
+    "blankLabels": [
+      "內積"
+    ],
+    "explanation": "圓半徑 $\\sqrt{1 - h^2}$。$P_0$、$P_4$ 是正八邊形的對頂點，可設 $P_0 = (\\sqrt{1 - h^2}, 0, h)$、$P_4 = (-\\sqrt{1 - h^2}, 0, h)$。\n內積 $= -(1 - h^2) + h^2 = 2h^2 - 1$。"
+  },
+  {
+    "id": "106-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】坐標空間中，$O(0, 0, 0)$ 為原點。平面 $z = h$（其中 $0 \\le h \\le 1$）上有一以 $(0, 0, h)$ 為圓心的圓，在此圓上依逆時鐘順序取 8 點構成正八邊形 $P_0P_1P_2P_3P_4P_5P_6P_7$，使得各線段 $\\overline{OP_j}$（$0 \\le j \\le 7$）的長度都是 1。請參見示意圖。試回答下列問題。\n(2) 若 $V(h)$ 為以 $O$ 為頂點、正八邊形 $P_0P_1\\cdots P_7$ 為底的正八角錐體積，試將 $V(h)$ 表為 $h$ 的函數（註：角錐體積 $= \\dfrac13$ 底面積 $\\times$ 高）。（2 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-ma-non2.png\" alt=\"原點 O 與平面 z = h 上的正八邊形 P0～P7，各 OPj 長為 1\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 2,
+    "blanks": [
+      "$V(h) = \\dfrac{2\\sqrt2}{3}(h - h^3)$"
+    ],
+    "blankLabels": [
+      "V(h)"
+    ],
+    "explanation": "正八邊形面積 $= 8\\cdot\\dfrac12r^2\\sin45^\\circ = 2\\sqrt2r^2 = 2\\sqrt2(1 - h^2)$，高 $h$：\n$V(h) = \\dfrac13\\cdot2\\sqrt2(1 - h^2)h = \\dfrac{2\\sqrt2}{3}(h - h^3)$。"
+  },
+  {
+    "id": "106-ast-ma-non-2-3",
+    "examType": "分科/指考",
+    "year": 106,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】坐標空間中，$O(0, 0, 0)$ 為原點。平面 $z = h$（其中 $0 \\le h \\le 1$）上有一以 $(0, 0, h)$ 為圓心的圓，在此圓上依逆時鐘順序取 8 點構成正八邊形 $P_0P_1P_2P_3P_4P_5P_6P_7$，使得各線段 $\\overline{OP_j}$（$0 \\le j \\le 7$）的長度都是 1。請參見示意圖。試回答下列問題。\n(3) 在 $\\overrightarrow{OP_0}$ 和 $\\overrightarrow{OP_4}$ 夾角不超過 $90^\\circ$ 的條件下，試問正八角錐體積 $V(h)$ 的最大值為何？（6 分）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/106-ast-ma-non2.png\" alt=\"原點 O 與平面 z = h 上的正八邊形 P0～P7，各 OPj 長為 1\" style=\"width:100%;max-width:300px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "points": 6,
+    "blanks": [
+      "$\\dfrac13$"
+    ],
+    "blankLabels": [
+      "最大值"
+    ],
+    "explanation": "夾角不超過 $90^\\circ$：$2h^2 - 1 \\ge 0$，$\\dfrac{\\sqrt2}{2} \\le h \\le 1$。\n$V'(h) = \\dfrac{2\\sqrt2}{3}(1 - 3h^2)$，在 $h > \\dfrac{\\sqrt3}{3}$ 為負；而 $\\dfrac{\\sqrt2}{2} > \\dfrac{\\sqrt3}{3}$，$V$ 在 $\\left[\\dfrac{\\sqrt2}{2}, 1\\right]$ 遞減。\n最大值 $V\\left(\\dfrac{\\sqrt2}{2}\\right) = \\dfrac{2\\sqrt2}{3}\\left(\\dfrac{\\sqrt2}{2} - \\dfrac{\\sqrt2}{4}\\right) = \\dfrac13$。"
   }
 ]
