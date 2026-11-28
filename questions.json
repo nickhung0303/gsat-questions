@@ -224521,5 +224521,348 @@
       "BC"
     ],
     "explanation": "$\\vec u\\perp\\overrightarrow{CA}$，所以 $\\vec u\\cdot\\overrightarrow{CB} = \\vec u\\cdot(\\overrightarrow{CA} + \\overrightarrow{AB}) = \\vec u\\cdot\\overrightarrow{AB} = (1, 2)\\cdot(3, 1) = 5$。\n又 $\\vec u\\cdot\\overrightarrow{CB} = |\\vec u|\\,|\\overrightarrow{CB}|\\cos\\theta = \\sqrt5\\cdot\\overline{BC}\\cdot\\dfrac{1}{\\sqrt{10}}$，\n$$5 = \\frac{\\overline{BC}}{\\sqrt2} \\implies \\overline{BC} = 5\\sqrt2$$\n（此時 $t = 2$，$C(-3, 3)$ 確實在第二象限。）"
+  },
+  {
+    "id": "114-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 坐標平面上，函數 $y = \\sin x$ 的圖形對稱於 $x = \\dfrac{\\pi}{2}$，如圖所示。試選出在 $0 < \\theta \\le \\pi$ 的範圍中滿足 $\\sin\\theta = \\sin\\left(\\theta + \\dfrac{\\pi}{5}\\right)$ 的 $\\theta$ 值。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-ma-01.png\" alt=\"y = sin x 的圖形，對稱於 x = π/2\" style=\"width:100%;max-width:360px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\dfrac{\\pi}{5}$",
+      "$\\dfrac{2\\pi}{5}$",
+      "$\\dfrac{3\\pi}{5}$",
+      "$\\dfrac{4\\pi}{5}$",
+      "$\\pi$"
+    ],
+    "answerIndex": 1,
+    "explanation": "$\\theta$ 與 $\\theta + \\dfrac{\\pi}{5}$ 的函數值相等且相差不到一個週期，兩點要對稱於 $x = \\dfrac{\\pi}{2}$：\n$$\\frac{\\theta + \\left(\\theta + \\frac{\\pi}{5}\\right)}{2} = \\frac{\\pi}{2} \\implies \\theta = \\frac{2\\pi}{5}$$\n（驗算：$\\sin\\dfrac{2\\pi}{5} = \\sin\\dfrac{3\\pi}{5}$ ✓）\n\n故選 (B)"
+  },
+  {
+    "id": "114-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 空間中一正立方體 $ABCD\\text{-}EFGH$，其中頂點 $A$、$B$、$C$、$D$ 在同一個平面上，且 $\\overline{AE}$ 為其中一個邊，如圖所示。下列選項中，試選出與平面 $BGH$ 以及平面 $CFE$ 皆垂直的平面。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/114-ast-ma-02.png\" alt=\"正立方體 ABCD-EFGH，ABCD 為底面，E、F、G、H 分別在 A、B、C、D 正上方\" style=\"width:100%;max-width:200px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "平面 ADH",
+      "平面 BCD",
+      "平面 CDG",
+      "平面 DFG",
+      "平面 DFH"
+    ],
+    "answerIndex": 0,
+    "explanation": "設 $A(0,0,0)$、$B(1,0,0)$、$C(1,1,0)$、$D(0,1,0)$，$E, F, G, H$ 在其正上方（$z = 1$）。\n• 平面 $BGH$ 含 $\\overrightarrow{HG} = (1, 0, 0)$ 與 $\\overrightarrow{BG} = (0, 1, 1)$，法向量 $(0, -1, 1)$。\n• 平面 $CFE$ 含 $\\overrightarrow{EF} = (1, 0, 0)$ 與 $\\overrightarrow{FC} = (0, 1, -1)$，法向量 $(0, 1, 1)$。\n• 與兩平面都垂直的平面，法向量要同時垂直上面兩個法向量，即平行 $(1, 0, 0)$，平面形如 $x = k$。\n平面 $ADH$ 的三點 $x$ 坐標都是 0，就是 $x = 0$。\n\n故選 (A)"
+  },
+  {
+    "id": "114-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 《幾何原本》上說：「給定相異兩點可決定一條直線」。一般來說，相異三點可決定 $C^3_2 = 3$ 條直線；但若這三點共線，此時僅決定一條直線。坐標平面上，已知圓 $\\Gamma_1: x^2 + y^2 = 4$ 與兩坐標軸交於 4 點、圓 $\\Gamma_2: x^2 + y^2 = 2$ 與直線 $x - y = 0$ 交於 2 點、圓 $\\Gamma_2$ 與直線 $x + y = 0$ 交於 2 點。試問這 8 點共可決定幾條不同的直線？",
+    "options": [
+      "12",
+      "16",
+      "20",
+      "24",
+      "28"
+    ],
+    "answerIndex": 2,
+    "explanation": "8 點為 $(\\pm2, 0)$、$(0, \\pm2)$ 與 $(\\pm1, \\pm1)$。\n$(1, 1)$ 是 $(2, 0)$、$(0, 2)$ 的中點，同理 $(\\pm1, \\pm1)$ 剛好是正方形 $(\\pm2,0),(0,\\pm2)$ 四邊的中點，形成 4 組三點共線（$x \\pm y = \\pm2$），其他沒有三點共線。\n每組三點共線原本算 3 條，實際 1 條，少 2 條：\n$$\\binom82 - 4\\times2 = 28 - 8 = 20$$\n\n故選 (C)"
+  },
+  {
+    "id": "114-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 試從下列坐標平面上的二次曲線中，選出與所有的鉛直線都相交的選項。",
+    "options": [
+      "$\\dfrac{x^2}{9} + \\dfrac{y^2}{4} = 1$",
+      "$\\dfrac{x^2}{9} - \\dfrac{y^2}{4} = 1$",
+      "$-\\dfrac{x^2}{9} + \\dfrac{y^2}{4} = 1$",
+      "$y = \\dfrac49x^2$",
+      "$x = \\dfrac49y^2$"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "與所有鉛直線 $x = c$ 都相交，表示對每個實數 $c$ 都解得出 $y$。\n• (A) 錯誤：只有 $|x| \\le 3$。\n• (B) 錯誤：需 $|x| \\ge 3$。\n• (C) 正確：$y^2 = 4\\left(1 + \\dfrac{c^2}{9}\\right) > 0$，恆有解。\n• (D) 正確：$y = \\dfrac49c^2$。\n• (E) 錯誤：需 $x \\ge 0$。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "114-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 有一實數數列 $\\langle a_n\\rangle$，其中 $a_n = \\cos\\left(n\\pi - \\dfrac{\\pi}{6}\\right)$，$n$ 為正整數。試選出正確的選項。",
+    "options": [
+      "$a_1 = -\\dfrac12$",
+      "$a_2 = a_3$",
+      "$a_4 = a_{24}$",
+      "$\\langle a_n\\rangle$ 為收斂數列，且 $\\displaystyle\\lim_{n\\to\\infty}a_n < 1$",
+      "$\\displaystyle\\sum_{n=1}^{\\infty}(a_n)^n = 3 - 2\\sqrt3$"
+    ],
+    "answerIndices": [
+      2,
+      4
+    ],
+    "explanation": "$\\cos(n\\pi - \\alpha) = (-1)^n\\cos\\alpha$，所以 $a_n = (-1)^n\\dfrac{\\sqrt3}{2}$。\n• (A) 錯誤：$a_1 = -\\dfrac{\\sqrt3}{2}$。\n• (B) 錯誤：$a_2 = \\dfrac{\\sqrt3}{2}$，$a_3 = -\\dfrac{\\sqrt3}{2}$。\n• (C) 正確：4、24 都是偶數，皆為 $\\dfrac{\\sqrt3}{2}$。\n• (D) 錯誤：正負交替，發散。\n• (E) 正確：$(a_n)^n = \\left((-1)^n\\dfrac{\\sqrt3}{2}\\right)^n = \\left(-\\dfrac{\\sqrt3}{2}\\right)^n$（因為 $n^2$ 與 $n$ 同奇偶），公比 $-\\dfrac{\\sqrt3}{2}$ 的等比級數：\n$$\\frac{-\\frac{\\sqrt3}{2}}{1 + \\frac{\\sqrt3}{2}} = \\frac{-\\sqrt3}{2 + \\sqrt3} = -\\sqrt3(2 - \\sqrt3) = 3 - 2\\sqrt3$$\n\n故選 (C)(E)"
+  },
+  {
+    "id": "114-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 設指數函數 $f(x) = 1.2^x$。試選出正確的選項。",
+    "options": [
+      "$f(0) > 0$",
+      "$f(10) > 10$",
+      "坐標平面上，$y = 1.2^x$ 的圖形與直線 $y = x$ 相交",
+      "坐標平面上，$y = 1.2^x$ 與 $y = \\log(1.2^x)$ 的圖形對稱於直線 $y = x$",
+      "對任意正實數 $b$，$\\log_{1.2}b \\ne 1.2^b$"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "• (A) 正確：$f(0) = 1$。\n• (B) 錯誤：$\\log(1.2^{10}) = 10\\log1.2 = 10(\\log12 - 1) = 10(2\\log2 + \\log3 - 1) \\approx 0.792$，$1.2^{10} \\approx 6.2 < 10$。\n• (C) 正確：$1.2^{10} < 10$，但 $1.2^{x}$ 最後會超過 $x$（例如 $1.2^{40} > 40$），由連續性中間必相交。\n• (D) 錯誤：$\\log(1.2^x) = x\\log1.2$ 是直線；$1.2^x$ 的反函數是 $\\log_{1.2}x$。\n• (E) 錯誤：由 (C)，存在 $b$ 使 $1.2^b = b$，此時 $\\log_{1.2}b = b = 1.2^b$。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "114-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 已知實係數多項式 $f(x)$ 的次數大於 5，且其最高次項係數為正。又 $f(x)$ 在 $x = 1$、2、4 處有極小值，且在 $x = 3$、5 處有極大值。根據上述，試選出正確的選項。",
+    "options": [
+      "$f(1) < f(3)$",
+      "存在實數 $a, b$ 滿足 $1 < a < b < 2$，使得 $f'(a) > 0$ 且 $f'(b) < 0$",
+      "$f''(3) > 0$",
+      "存在實數 $c > 5$，使得 $f'(c) > 0$",
+      "$f(x)$ 的次數大於 7"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "• (A) 錯誤：題目只給極值的位置，沒有給大小，$f(1)$ 可以比 $f(3)$ 大。\n• (B) 正確：1、2 都是極小值，兩者之間函數必先增後減，有一個極大值；在它左側取 $a$（$f' > 0$），右側取 $b$（$f' < 0$）。\n• (C) 錯誤：$x = 3$ 是極大值，$f''(3) \\le 0$。\n• (D) 正確：$x = 5$ 是極大值，之後先遞減；但最高次項係數為正，$x \\to \\infty$ 時 $f \\to \\infty$，之後必有遞增處。\n• (E) 正確：極值至少有 $1$、$(1, 2)$ 中的極大值、$2, 3, 4, 5$，以及 5 之後的極小值，共 7 個，$f'$ 至少有 7 個相異實根，$\\deg f' \\ge 7$，$\\deg f \\ge 8$。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "114-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 設複數 $z$ 的虛部不為 0 且 $|z| = 2$。已知在複數平面上，1、$z$、$z^3$ 共線。試選出正確的選項。",
+    "options": [
+      "$z\\cdot\\bar z = 2$",
+      "$\\dfrac{z^3 - z}{z - 1}$ 的虛部為 0",
+      "$z$ 的實部為 $-\\dfrac12$",
+      "$z$ 滿足 $z^2 - z + 4 = 0$",
+      "在複數平面上，$-2$、$z$、$z^2$ 共線"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "1、$z$、$z^3$ 共線 $\\iff \\dfrac{z^3 - 1}{z - 1} = z^2 + z + 1$ 為實數 $\\iff z^2 + z$ 為實數。\n設 $z = 2(\\cos\\theta + i\\sin\\theta)$，$\\sin\\theta \\ne 0$：$\\operatorname{Im}(z^2 + z) = 4\\sin2\\theta + 2\\sin\\theta = 2\\sin\\theta(4\\cos\\theta + 1) = 0$，$\\cos\\theta = -\\dfrac14$。\n• (A) 錯誤：$z\\bar z = |z|^2 = 4$。\n• (B) 正確：$\\dfrac{z(z - 1)(z + 1)}{z - 1} = z^2 + z$，為實數。\n• (C) 正確：實部 $2\\cos\\theta = -\\dfrac12$。\n• (D) 錯誤：$z$ 滿足 $z^2 - 2\\operatorname{Re}(z)\\,z + |z|^2 = z^2 + z + 4 = 0$。\n• (E) 正確：$z^2 + 2 = -z - 2$，所以 $\\dfrac{z^2 - (-2)}{z - (-2)} = -1$ 為實數，三點共線。\n\n故選 (B)(C)(E)"
+  },
+  {
+    "id": "114-ast-ma-09",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "9. 令 $A$ 為以原點為中心逆時針旋轉 $\\theta$ 角的旋轉矩陣，且令 $B$ 為以 $x$ 軸為鏡射軸（對稱軸）的鏡射矩陣。令 $A = \\begin{bmatrix} a_1 & a_2 \\\\ a_3 & a_4 \\end{bmatrix}$、$BA = \\begin{bmatrix} c_1 & c_2 \\\\ c_3 & c_4 \\end{bmatrix}$。已知 $a_1 + a_2 + a_3 + a_4 = 2(c_1 + c_2 + c_3 + c_4)$，則 $\\tan\\theta = \\dfrac{⑨\\text{-}1\\ ⑨\\text{-}2}{⑨\\text{-}3}$。（化為最簡分數）",
+    "blanks": [
+      "-",
+      "1",
+      "2"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "1"
+      ],
+      [
+        "2"
+      ]
+    ],
+    "blankLabels": [
+      "9-1",
+      "9-2",
+      "9-3"
+    ],
+    "explanation": "$A = \\begin{bmatrix} \\cos\\theta & -\\sin\\theta \\\\ \\sin\\theta & \\cos\\theta \\end{bmatrix}$，$B = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}$，$BA = \\begin{bmatrix} \\cos\\theta & -\\sin\\theta \\\\ -\\sin\\theta & -\\cos\\theta \\end{bmatrix}$。\n元素和：$A$ 為 $2\\cos\\theta$，$BA$ 為 $-2\\sin\\theta$。\n$2\\cos\\theta = -4\\sin\\theta$，$\\tan\\theta = -\\dfrac12$。"
+  },
+  {
+    "id": "114-ast-ma-10",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "10. 坐標空間中一平面與平面 $x = 0$、平面 $z = 0$ 分別交於直線 $L_1$、$L_2$。已知 $L_1$、$L_2$ 互相平行，且 $L_1$ 通過點 $(0, 2, -11)$、$L_2$ 通過點 $(8, 21, 0)$，則 $L_1$、$L_2$ 的距離為 $\\sqrt{⑩\\text{-}1\\ ⑩\\text{-}2\\ ⑩\\text{-}3}$。（化為最簡根式）",
+    "blanks": [
+      "1",
+      "8",
+      "5"
+    ],
+    "blankLabels": [
+      "10-1",
+      "10-2",
+      "10-3"
+    ],
+    "explanation": "$L_1$ 在平面 $x = 0$ 上、$L_2$ 在平面 $z = 0$ 上，兩線平行，共同方向必須同時平行這兩個平面，只能是 $y$ 軸方向 $(0, 1, 0)$。\n所以 $L_1: x = 0, z = -11$；$L_2: x = 8, z = 0$。兩平行線的距離就是在 $xz$ 方向的差：\n$$\\sqrt{8^2 + 11^2} = \\sqrt{185}$$"
+  },
+  {
+    "id": "114-ast-ma-11",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "11. 坐標平面上有一平行四邊形 $\\Gamma$，其中兩邊所在的直線與 $5x - y = 0$ 平行、另兩邊所在的直線與 $3x - 2y = 0$ 垂直。令 $\\Gamma$ 的兩對角線交點為 $Q$。已知 $\\Gamma$ 有一頂點 $P$，滿足 $\\overrightarrow{PQ} = (10, -1)$，則 $\\Gamma$ 的面積為 ⑪-1 ⑪-2 ⑪-3。",
+    "blanks": [
+      "2",
+      "0",
+      "4"
+    ],
+    "blankLabels": [
+      "11-1",
+      "11-2",
+      "11-3"
+    ],
+    "explanation": "兩組邊的方向為 $(1, 5)$ 與 $(3, -2)$（垂直於 $3x - 2y = 0$）。$P$ 到對角頂點的向量 $= 2\\overrightarrow{PQ} = (20, -2) = \\alpha(1, 5) + \\beta(3, -2)$：\n$\\alpha + 3\\beta = 20$、$5\\alpha - 2\\beta = -2$，解得 $\\alpha = 2$、$\\beta = 6$。\n兩邊向量 $(2, 10)$、$(18, -12)$，面積 $= |2\\cdot(-12) - 10\\cdot18| = |-24 - 180| = 204$。"
+  },
+  {
+    "id": "114-ast-ma-12",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "points": 2,
+    "question": "【第 12-14 題為題組】某商店以抽獎方式販售一熱門公仔，每次抽獎都互相獨立且抽中的機率為 $\\dfrac25$。參加者可用以下兩種方式參加抽獎。\n方式一：先付 225 元得到兩次抽獎機會，只要抽中即停止抽獎且得到一個公仔；若這兩次皆未抽中，則必須再多付 75 元得到一個公仔。\n方式二：抽獎次數不限，每抽獎一次付 100 元。\n根據上述，試回答下列問題。\n12. 若以方式一抽獎，則共需付 300 元才能得到一個公仔的機率為何？（單選題，2 分）",
+    "options": [
+      "$\\left(\\dfrac25\\right)^2$",
+      "$\\left(\\dfrac25\\right)^3$",
+      "$\\left(\\dfrac35\\right)^2$",
+      "$\\left(\\dfrac35\\right)^3$",
+      "$\\left(\\dfrac25\\right)\\times\\left(\\dfrac35\\right)^2$"
+    ],
+    "answerIndex": 2,
+    "explanation": "付 300 元表示兩次都沒抽中：$\\left(\\dfrac35\\right)^2$。\n\n故選 (C)"
+  },
+  {
+    "id": "114-ast-ma-13",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 4,
+    "question": "【第 12-14 題為題組】某商店以抽獎方式販售一熱門公仔，每次抽獎都互相獨立且抽中的機率為 $\\dfrac25$。參加者可用以下兩種方式參加抽獎。\n方式一：先付 225 元得到兩次抽獎機會，只要抽中即停止抽獎且得到一個公仔；若這兩次皆未抽中，則必須再多付 75 元得到一個公仔。\n方式二：抽獎次數不限，每抽獎一次付 100 元。\n根據上述，試回答下列問題。\n13. 若以方式二抽獎直到抽中一個公仔為止，試依期望值定義，使用 $\\Sigma$ 符號表示所需抽獎次數的期望值，並求其值。（非選擇題，4 分）",
+    "selfGrade": true,
+    "blanks": [
+      "$\\displaystyle\\sum_{k=1}^{\\infty}k\\left(\\frac35\\right)^{k-1}\\frac25 = \\frac52$"
+    ],
+    "blankLabels": [
+      "期望值"
+    ],
+    "explanation": "第 $k$ 次才抽中的機率為 $\\left(\\dfrac35\\right)^{k-1}\\dfrac25$，\n$$E = \\sum_{k=1}^{\\infty}k\\left(\\frac35\\right)^{k-1}\\frac25$$\n令 $S = \\displaystyle\\sum_{k=1}^{\\infty}kr^{k-1}$（$r = \\dfrac35$），$S - rS = 1 + r + r^2 + \\cdots = \\dfrac{1}{1 - r}$，$S = \\dfrac{1}{(1 - r)^2} = \\dfrac{25}{4}$。\n$E = \\dfrac25\\cdot\\dfrac{25}{4} = \\dfrac52$。"
+  },
+  {
+    "id": "114-ast-ma-14",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 12-14 題為題組】某商店以抽獎方式販售一熱門公仔，每次抽獎都互相獨立且抽中的機率為 $\\dfrac25$。參加者可用以下兩種方式參加抽獎。\n方式一：先付 225 元得到兩次抽獎機會，只要抽中即停止抽獎且得到一個公仔；若這兩次皆未抽中，則必須再多付 75 元得到一個公仔。\n方式二：抽獎次數不限，每抽獎一次付 100 元。\n根據上述，試回答下列問題。\n14. 假設花費金額不設限直到得到一個公仔為止，試分別求出這兩種抽獎方式得到一個公仔所需付金額的期望值，並說明這兩個期望值的大小關係。（非選擇題，6 分）",
+    "selfGrade": true,
+    "blanks": [
+      "方式一 252 元",
+      "方式二 250 元",
+      "方式二的期望值較小"
+    ],
+    "blankLabels": [
+      "方式一",
+      "方式二",
+      "大小關係"
+    ],
+    "explanation": "• 方式一：付 225 元的機率 $1 - \\left(\\dfrac35\\right)^2 = \\dfrac{16}{25}$，付 300 元的機率 $\\dfrac{9}{25}$，\n期望值 $225\\cdot\\dfrac{16}{25} + 300\\cdot\\dfrac{9}{25} = 144 + 108 = 252$ 元。\n• 方式二：$100 \\times \\dfrac52 = 250$ 元。\n方式二的期望值較小（$250 < 252$）。"
+  },
+  {
+    "id": "114-ast-ma-15",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 4,
+    "question": "【第 15-17 題為題組】設實係數多項式函數 $f(x) = 3ax^2 + (1 - a)$，其中 $-\\dfrac12 \\le a \\le 1$。在坐標平面上，令 $\\Gamma$ 為 $y = f(x)$ 與 $x$ 軸在 $-1 \\le x \\le 1$ 所圍的區域。根據上述，試回答下列問題。\n15. 證明當 $-1 \\le x \\le 1$ 時，$f(x) \\ge 0$ 皆成立。（非選擇題，4 分）",
+    "selfGrade": true,
+    "blanks": [
+      "令 $t = x^2 \\in [0, 1]$，$f$ 是 $t$ 的一次函數，兩端點 $1 - a \\ge 0$、$2a + 1 \\ge 0$"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "令 $t = x^2$，$-1 \\le x \\le 1$ 時 $0 \\le t \\le 1$，且 $f = 3at + (1 - a)$ 是 $t$ 的一次函數，最小值發生在端點：\n• $t = 0$：$1 - a \\ge 0$（因 $a \\le 1$）。\n• $t = 1$：$3a + 1 - a = 2a + 1 \\ge 0$（因 $a \\ge -\\dfrac12$）。\n兩端點都 $\\ge 0$，所以整段 $f(x) \\ge 0$。"
+  },
+  {
+    "id": "114-ast-ma-16",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 2,
+    "question": "【第 15-17 題為題組】設實係數多項式函數 $f(x) = 3ax^2 + (1 - a)$，其中 $-\\dfrac12 \\le a \\le 1$。在坐標平面上，令 $\\Gamma$ 為 $y = f(x)$ 與 $x$ 軸在 $-1 \\le x \\le 1$ 所圍的區域。根據上述，試回答下列問題。\n16. 證明對於所有 $a \\in \\left[-\\dfrac12, 1\\right]$，$\\Gamma$ 的面積皆為 2。（非選擇題，2 分）",
+    "selfGrade": true,
+    "blanks": [
+      "$\\displaystyle\\int_{-1}^{1}(3ax^2 + 1 - a)\\,dx = 2a + 2(1 - a) = 2$"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "由 15 題 $f \\ge 0$，面積 $= \\displaystyle\\int_{-1}^{1}(3ax^2 + 1 - a)\\,dx = \\Big[ax^3 + (1 - a)x\\Big]_{-1}^{1} = 2a + 2(1 - a) = 2$，與 $a$ 無關。"
+  },
+  {
+    "id": "114-ast-ma-17",
+    "examType": "分科/指考",
+    "year": 114,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 6,
+    "question": "【第 15-17 題為題組】設實係數多項式函數 $f(x) = 3ax^2 + (1 - a)$，其中 $-\\dfrac12 \\le a \\le 1$。在坐標平面上，令 $\\Gamma$ 為 $y = f(x)$ 與 $x$ 軸在 $-1 \\le x \\le 1$ 所圍的區域。根據上述，試回答下列問題。\n17. 令 $V$ 為 $\\Gamma$ 繞 $x$ 軸旋轉所得旋轉體的體積。試問對所有 $a \\in \\left[-\\dfrac12, 1\\right]$，$V$ 是否都相等？若相等，則求其值；若不相等，則當 $a$ 為多少時，$V$ 有最大值，並求此最大值。（非選擇題，6 分）",
+    "selfGrade": true,
+    "blanks": [
+      "不相等",
+      "a = 1",
+      "最大值 $\\dfrac{18\\pi}{5}$"
+    ],
+    "blankLabels": [
+      "是否相等",
+      "a",
+      "最大值"
+    ],
+    "explanation": "$$V = \\pi\\int_{-1}^{1}\\big(3ax^2 + 1 - a\\big)^2dx = \\pi\\int_{-1}^{1}\\big(9a^2x^4 + 6a(1 - a)x^2 + (1 - a)^2\\big)dx$$\n$$= \\pi\\left(\\frac{18a^2}{5} + 4a(1 - a) + 2(1 - a)^2\\right) = \\pi\\left(\\frac85a^2 + 2\\right)$$\n隨 $a$ 改變，不都相等。$a \\in \\left[-\\dfrac12, 1\\right]$ 時 $a^2$ 最大在 $a = 1$，$V$ 的最大值 $= \\pi\\left(\\dfrac85 + 2\\right) = \\dfrac{18\\pi}{5}$。"
   }
 ]
