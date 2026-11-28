@@ -243613,5 +243613,301 @@
       "圓心"
     ],
     "explanation": "圓心在切點 $(1, 2)$ 的法線上：$y - 2 = -\\dfrac12(x - 1)$。與對稱軸 $x = 0$ 交於 $\\left(0, \\dfrac52\\right)$。"
+  },
+  {
+    "id": "93m-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "points": 7,
+    "question": "1. 張三所就讀的高中有 200 位學生，學生的體重分佈呈常態，平均體重是 50 公斤，體重的變異係數是 10%。張三的體重為 65 公斤，請問張三體重在全校學生中的排名（體重最重的為第 1 名，次重者為第 2 名，依此類推）大約在哪一區間？（在常態分佈下，估算大約有 68% 的資料落在以平均值為中心的一個標準差之內，大約有 95% 的資料落在兩個標準差之內，大約有 99.7% 的資料落在三個標準差之內。）［註：變異係數的定義是標準差除以平均數］",
+    "options": [
+      "1～10",
+      "11～20",
+      "21～32",
+      "33～64",
+      "65～80"
+    ],
+    "answerIndex": 0,
+    "explanation": "標準差 $50\\times10\\% = 5$，65 公斤是平均數加 3 個標準差。高於此的約 $\\dfrac{1 - 0.997}2 = 0.15\\%$，200 人中不到 1 人，張三幾乎是第 1 名。\n\n故選 (A)"
+  },
+  {
+    "id": "93m-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "points": 7,
+    "question": "2. 標準身材的定義是 $\\dfrac{\\text{肚臍高度}}{\\text{身高}} = \\dfrac{\\text{肚臍與頭頂距離}}{\\text{肚臍高度}}$。有一身高 150 公分，肚臍高度 90 公分的女孩，欲借穿高跟鞋來提高身高與肚臍高度，滿足標準身材的定義。試問該女孩穿多少公分的高跟鞋較恰當。（取最接近的整數）",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "answerIndex": 3,
+    "explanation": "鞋高 $h$：肚臍高 $90 + h$、身高 $150 + h$，肚臍到頭頂仍是 60。\n$\\dfrac{90 + h}{150 + h} = \\dfrac{60}{90 + h}$ ⇒ $h^2 + 120h - 900 = 0$，$h = -60 + \\sqrt{4500} \\approx 7.08$，約 7 公分。\n\n故選 (D)"
+  },
+  {
+    "id": "93m-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "points": 7,
+    "question": "3. 下圖為函數 $f(x) = 2x^2$ 與 $g(x) = 3x^2$ 的圖形，過原點 O 作直線分別交兩圖形於 A, B 兩點。則 $\\dfrac{\\overline{OB}}{\\overline{OA}}$ 的最大值 $m$ 為",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-mb-03.png\" alt=\"兩拋物線 y = 2x² 與 y = 3x²，過原點的直線先交內側曲線於 A，再交外側曲線於 B\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "2",
+      "3",
+      "1.5",
+      "1.3",
+      "0.6"
+    ],
+    "answerIndex": 2,
+    "explanation": "直線 $y = kx$ 交 $y = 3x^2$ 於 $x = \\dfrac k3$（較近，即圖中的 $A$），交 $y = 2x^2$ 於 $x = \\dfrac k2$（較遠，即 $B$）。兩點在同一直線上，$\\dfrac{\\overline{OB}}{\\overline{OA}} = \\dfrac{k/2}{k/3} = 1.5$，對任何直線都相同，最大值為 1.5。\n\n故選 (C)"
+  },
+  {
+    "id": "93m-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 7,
+    "question": "4. 給定三次方程式 $(x - 4)(x - 6)(x - 8) + (x - 5)(x - 7)(x - 9) = 0$，試問下列哪兩個正整數之間有這方程式的實根？",
+    "options": [
+      "4 與 5 之間",
+      "5 與 6 之間",
+      "6 與 7 之間",
+      "7 與 8 之間",
+      "8 與 9 之間"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "令左式為 $f(x)$：$f(4) = -15$、$f(5) = 3$、$f(6) = 3$、$f(7) = -3$、$f(8) = -3$、$f(9) = 15$。\n由勘根定理，$(4, 5)$、$(6, 7)$、$(8, 9)$ 各有一根，三次方程式的三個根都找到了。\n\n故選 (A)(C)(E)"
+  },
+  {
+    "id": "93m-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 7,
+    "question": "5. 經濟學上有所謂『72 規則』：意指當經濟年成長率維持在 $r\\%$ 時，經濟規模實際達到兩倍所需要的最少時間約為 $\\dfrac{72}r$ 年。試利用下表的數據，從選項中選出符合此規則的年成長率。",
+    "svg": "<svg viewBox=\"0 0 554 64\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"70\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">x</text><rect x=\"72\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1.03</text><rect x=\"152\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1.04</text><rect x=\"232\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1.06</text><rect x=\"312\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1.08</text><rect x=\"392\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"432\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">1.09</text><rect x=\"472\" y=\"4\" width=\"80\" height=\"28\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"22.333333333333332\" fill=\"#ffeb3b\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"2\" y=\"32\" width=\"70\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"37\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">log x</text><rect x=\"72\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"112\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.0128</text><rect x=\"152\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"192\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.0170</text><rect x=\"232\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"272\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.0253</text><rect x=\"312\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"352\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.0334</text><rect x=\"392\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"432\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.0374</text><rect x=\"472\" y=\"32\" width=\"80\" height=\"28\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"512\" y=\"50.333333333333336\" fill=\"#ffffff\" font-size=\"13\" text-anchor=\"middle\">0.3010</text></svg>",
+    "options": [
+      "9%",
+      "8%",
+      "6%",
+      "4%",
+      "3%"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "達到兩倍的最少整數年數 $n$：$n\\log(1 + r) \\ge \\log2$。\n• 9%：$\\dfrac{0.3010}{0.0374} \\approx 8.05$，需 9 年，規則給 8 年 ✗。\n• 8%：$\\approx 9.01$，需 10 年，規則給 9 年 ✗。\n• 6%：$\\approx 11.9$，需 12 年，規則 12 年 ✓。\n• 4%：$\\approx 17.7$，需 18 年 ✓。\n• 3%：$\\approx 23.5$，需 24 年 ✓。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "93m-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 7,
+    "question": "6. 遊樂區中有一圓形摩天輪，中心軸高 22 公尺，直徑 40 公尺，逆時針方向運轉一圈需時 15 分鐘。當摩天輪開始運轉時，阿美恰坐在離地最近的位置上，$x$ 分鐘後，阿美離地的高度可表為 $y = a\\sin(bx + c) + d$，$a > 0$ 且 $b > 0$。試問下列選項有哪些是正確的？",
+    "options": [
+      "$a = 20$",
+      "$a = 40$",
+      "$b = \\dfrac{2\\pi}{15}$",
+      "$c = 0$",
+      "$d = 2$"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "振幅為半徑 20，中心高 22，週期 15：$y = 22 - 20\\cos\\dfrac{2\\pi x}{15} = 20\\sin\\left(\\dfrac{2\\pi}{15}x - \\dfrac\\pi2\\right) + 22$。\n$a = 20$、$b = \\dfrac{2\\pi}{15}$、$d = 22$；$c$ 必須使 $x = 0$ 時為最低點，$c = -\\dfrac\\pi2 + 2k\\pi$，不為 0。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "93m-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 7,
+    "question": "A. 已知有 5% 的男性及 0.3% 的女性為色盲，又據統計台灣地區新生兒之男女比率為 1.1 : 1，則台灣地區新生兒色盲者中男女比率約為 ⑦⑧ : 1（取至整數位，以下捨去）。",
+    "blanks": [
+      "1",
+      "8"
+    ],
+    "blankLabels": [
+      "7",
+      "8"
+    ],
+    "explanation": "$\\dfrac{1.1\\times0.05}{1\\times0.003} = \\dfrac{0.055}{0.003} \\approx 18.3$，取 18。"
+  },
+  {
+    "id": "93m-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 7,
+    "question": "B. 設 $k$ 為一實數，若坐標空間中四個平面 $E_1: x + y + 3z = 1$，$E_2: 2x + 3y - z = 3$，$E_3: 5x + 7y + z = 7$，$E_4: x + 2y - kz = 2$ 恰交於一直線，則 $k =$ ⑨。",
+    "blanks": [
+      "4"
+    ],
+    "blankLabels": [
+      "9"
+    ],
+    "explanation": "$E_3 = E_1 + 2E_2$，前三個平面交於 $E_1$、$E_2$ 的交線：方向 $(1, 1, 3)\\times(2, 3, -1) = (-10, 7, 1)$，過點 $(0, 1, 0)$。\n$E_4$ 要包含此直線：點代入 $0 + 2 - 0 = 2$ ✓；法向量與方向垂直：$-10 + 14 - k = 0$，$k = 4$。"
+  },
+  {
+    "id": "93m-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 7,
+    "question": "C. 某校辯論社由 5 名男生及 5 名女生組成。現從其中選出 5 人組成代表隊，且男生、女生均至少要有 1 人，則組隊方法共有多少種？答：⑩⑪⑫ 種方法。",
+    "blanks": [
+      "2",
+      "5",
+      "0"
+    ],
+    "blankLabels": [
+      "10",
+      "11",
+      "12"
+    ],
+    "explanation": "$\\dbinom{10}5 - 2 = 252 - 2 = 250$（扣掉全男、全女）。"
+  },
+  {
+    "id": "93m-ast-mb-D",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 7,
+    "question": "D. 在坐標平面上，$\\triangle ABC$ 的三個頂點坐標分別為 $A(0, 0)$，$B(2, 1)$，$C(3, 0)$，作 $\\triangle ABC$ 的一個內接正方形 $DEFG$，使 $DE$ 落在 $AC$ 邊上。則此內接正方形 $DEFG$ 的面積為 $\\dfrac{⑬}{⑭⑮}$。",
+    "blanks": [
+      "9",
+      "1",
+      "6"
+    ],
+    "blankLabels": [
+      "13",
+      "14",
+      "15"
+    ],
+    "explanation": "底 $\\overline{AC} = 3$、高 1。邊長 $s$ 的正方形上緣在高度 $s$ 處，該處三角形寬 $3(1 - s) = s$，$s = \\dfrac34$，面積 $\\dfrac9{16}$。"
+  },
+  {
+    "id": "93m-ast-mb-E",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 7,
+    "question": "E. 圖案是由 11 個正三角形形成，形成過程中內一層的正三角形頂點落在外一層三角形的邊上，且頂點的分點比例一定是 $1 : 9$，如下圖所示，即 $\\overline{AA_1} : \\overline{A_1B} = \\overline{BB_1} : \\overline{B_1C} = \\overline{CC_1} : \\overline{C_1A} = 1 : 9$。則 $\\dfrac{\\overline{A_1B_1}}{\\overline{AB}} = \\dfrac{\\sqrt{⑯⑰}}{10}$。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-mb-E1.png\" alt=\"11 個正三角形層層內接旋轉的圖案\" style=\"width:100%;max-width:100px;height:auto;border-radius:8px;background:#ffffff;display:block;\" /><img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/93m-ast-mb-E2.png\" alt=\"正三角形 ABC 與內接正三角形 A1B1C1\" style=\"width:100%;max-width:150px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "7",
+      "3"
+    ],
+    "blankLabels": [
+      "16",
+      "17"
+    ],
+    "explanation": "設 $\\overline{AB} = 10$：$\\overline{A_1B} = 9$、$\\overline{BB_1} = 1$，夾角 $60^\\circ$。$\\overline{A_1B_1}^2 = 81 + 1 - 9 = 73$，比值 $\\dfrac{\\sqrt{73}}{10}$。"
+  },
+  {
+    "id": "93m-ast-mb-non-1-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設 $k$ 為一正整數，令 $N = 10k + 5$。\n(1) 求 $N^2$ 除以 100 的商與餘數（以符號 $k$ 表之）。（6 分）",
+    "points": 6,
+    "blanks": [
+      "商 $k^2 + k$，餘數 25"
+    ],
+    "blankLabels": [
+      "商與餘數"
+    ],
+    "explanation": "$N^2 = 100k^2 + 100k + 25 = 100(k^2 + k) + 25$，商 $k^2 + k$、餘數 25。"
+  },
+  {
+    "id": "93m-ast-mb-non-1-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設 $k$ 為一正整數，令 $N = 10k + 5$。\n(2) 證明 $N^2$ 的百位數字是偶數。（5 分）",
+    "points": 5,
+    "blanks": [
+      "百位數字是 $k(k + 1)$ 的個位數，而 $k(k + 1)$ 為偶數"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "由 (1)，$N^2$ 的末兩位是 25，百位數字是商 $k(k + 1)$ 的個位數字。連續兩整數之積為偶數，個位數字也是偶數。"
+  },
+  {
+    "id": "93m-ast-mb-non-2-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】在 1766 年，天文學家波德提出有名的『波德法則』：行星與太陽的平均距離 $d$（天文單位）可以用數學式子 $d = \\alpha + \\beta\\cdot2^n$ 表示。行星所對應的 $n$ 值：金星 0、地球 1、火星 2、木星 4、土星 5、天王星 6。\n(1) 設金星與太陽的平均距離為 $d_{\\text{金}}$，請以 $\\alpha$ 及 $\\beta$ 表示 $d_{\\text{金}}$。（2 分）",
+    "points": 2,
+    "blanks": [
+      "$\\alpha + \\beta$"
+    ],
+    "blankLabels": [
+      "d金"
+    ],
+    "explanation": "金星 $n = 0$，$d = \\alpha + \\beta\\cdot2^0 = \\alpha + \\beta$。"
+  },
+  {
+    "id": "93m-ast-mb-non-2-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】在 1766 年，天文學家波德提出有名的『波德法則』：行星與太陽的平均距離 $d$（天文單位）可以用數學式子 $d = \\alpha + \\beta\\cdot2^n$ 表示。行星所對應的 $n$ 值：金星 0、地球 1、火星 2、木星 4、土星 5、天王星 6。\n(2) 若 $d_{\\text{金}}$ 為 0.7 天文單位，且火星與太陽的平均距離比金星與太陽的平均距離多 0.9（天文單位），請求出 $\\alpha$ 及 $\\beta$。（8 分）",
+    "points": 8,
+    "blanks": [
+      "$\\alpha = 0.4$，$\\beta = 0.3$"
+    ],
+    "blankLabels": [
+      "α, β"
+    ],
+    "explanation": "$\\alpha + \\beta = 0.7$；火星 $n = 2$：$(\\alpha + 4\\beta) - (\\alpha + \\beta) = 3\\beta = 0.9$，$\\beta = 0.3$、$\\alpha = 0.4$。"
+  },
+  {
+    "id": "93m-ast-mb-non-2-3",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】在 1766 年，天文學家波德提出有名的『波德法則』：行星與太陽的平均距離 $d$（天文單位）可以用數學式子 $d = \\alpha + \\beta\\cdot2^n$ 表示。行星所對應的 $n$ 值：金星 0、地球 1、火星 2、木星 4、土星 5、天王星 6。\n(3) 承上題，請求出地球與太陽的平均距離。（2 分）",
+    "points": 2,
+    "blanks": [
+      "1.0 天文單位"
+    ],
+    "blankLabels": [
+      "距離"
+    ],
+    "explanation": "$n = 1$：$0.4 + 0.3\\times2 = 1.0$。"
   }
 ]
