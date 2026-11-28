@@ -236010,5 +236010,277 @@
       "35"
     ],
     "explanation": "方向向量同時垂直 $H$ 的法向量 $(1, -1, 1)$ 與 $\\overrightarrow{OP} = (2, 1, 1)$：\n$(1, -1, 1)\\times(2, 1, 1) = (-2, 1, 3)$，取 $(2, -1, -3)$。"
+  },
+  {
+    "id": "100-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 考慮坐標平面上滿足 $2^x = 5^y$ 的點 $P(x, y)$，試問下列哪一個選項是**錯誤的**？",
+    "options": [
+      "$(0, 0)$ 是一個可能的 $P$ 點",
+      "$(\\log5, \\log2)$ 是一個可能的 $P$ 點",
+      "點 $P(x, y)$ 滿足 $xy \\ge 0$",
+      "所有可能的點 $P(x, y)$ 構成的圖形為一直線",
+      "點 $P$ 的 $x, y$ 坐標可以同時為正整數"
+    ],
+    "answerIndex": 4,
+    "explanation": "取對數：$x\\log2 = y\\log5$，是過原點的直線 $y = \\dfrac{\\log2}{\\log5}x$。\n(A)(B)(D) 正確；斜率為正，$x, y$ 同號，(C) 正確。\n(E) 錯誤：$2^x$ 為偶數、$5^y$ 為奇數，正整數時不可能相等。\n\n故選 (E)"
+  },
+  {
+    "id": "100-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 將 1、2、3、4 四個數字隨機填入下方 2×2 的方格中，每個方格中恰填一數字，但數字可重複使用。試問事件「A 方格的數字大於 B 方格的數字、且 C 方格的數字大於 D 方格的數字」的機率為多少？",
+    "svg": "<svg viewBox=\"0 0 124 104\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:148.79999999999998px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"48\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"34\" fill=\"#ffeb3b\" font-size=\"18\" text-anchor=\"middle\">A</text><rect x=\"62\" y=\"4\" width=\"60\" height=\"48\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"34\" fill=\"#ffeb3b\" font-size=\"18\" text-anchor=\"middle\">B</text><rect x=\"2\" y=\"52\" width=\"60\" height=\"48\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"82\" fill=\"#ffffff\" font-size=\"18\" text-anchor=\"middle\">C</text><rect x=\"62\" y=\"52\" width=\"60\" height=\"48\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"92\" y=\"82\" fill=\"#ffffff\" font-size=\"18\" text-anchor=\"middle\">D</text></svg>",
+    "options": [
+      "$\\dfrac1{16}$",
+      "$\\dfrac9{64}$",
+      "$\\dfrac{25}{64}$",
+      "$\\dfrac9{256}$",
+      "$\\dfrac{25}{256}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "$A > B$ 的情形：從 4 個數取 2 個相異數，大的放 $A$，$\\dbinom42 = 6$ 種，機率 $\\dfrac6{16} = \\dfrac38$。兩列獨立，所求 $\\left(\\dfrac38\\right)^2 = \\dfrac9{64}$。\n\n故選 (B)"
+  },
+  {
+    "id": "100-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 將一圓的六個等分點分成兩組相間的三點，它們所構成的兩個正三角形扣除內部六條線段後可以形成一正六角星，如圖所示的正六角星是以原點 $O$ 為中心，其中 $\\vec x$、$\\vec y$ 分別為原點 $O$ 到兩個頂點的向量。若將原點 $O$ 到正六角星 12 個頂點的向量，都寫成為 $a\\vec x + b\\vec y$ 的形式，則 $a + b$ 的最大值為何？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-ma-03.png\" alt=\"正六角星，x 向量指向右側凹頂點，y 向量指向左上尖頂點\" style=\"width:100%;max-width:180px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answerIndex": 3,
+    "explanation": "設凹頂點到 $O$ 的距離為 1，則尖頂點距離為 $\\sqrt3$。取 $\\vec x = (1, 0)$（凹頂點，$0^\\circ$）、$\\vec y = \\sqrt3(\\cos150^\\circ, \\sin150^\\circ) = \\left(-\\dfrac32, \\dfrac{\\sqrt3}2\\right)$。\n向量 $(p, q) = a\\vec x + b\\vec y$：$b = \\dfrac{2q}{\\sqrt3}$，$a = p + \\dfrac32b$，$a + b = p + \\dfrac{5}{\\sqrt3}q$。\n逐一代入：最上方尖頂點 $(0, \\sqrt3)$ 得 5；$(\\tfrac32, \\tfrac{\\sqrt3}2)$ 得 4；凹頂點 $(\\tfrac12, \\tfrac{\\sqrt3}2)$ 得 3……最大值為 5。\n\n故選 (D)"
+  },
+  {
+    "id": "100-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "4. 設 $f$ 為實係數三次多項式函數。已知五個方程式的相異實根個數如下表所述。關於 $f$ 的極小值 $\\alpha$，試問下列哪一個選項是正確的？（註：極小值是指相對極小值，或稱為局部極小值。）",
+    "svg": "<svg viewBox=\"0 0 324 188\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:388.8px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"170\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"87\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">方程式</text><rect x=\"172\" y=\"4\" width=\"150\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">相異實根的個數</text><rect x=\"2\" y=\"34\" width=\"170\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"87\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">f(x) − 20 = 0</text><rect x=\"172\" y=\"34\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1</text><rect x=\"2\" y=\"64\" width=\"170\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"87\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">f(x) − 10 = 0</text><rect x=\"172\" y=\"64\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"83.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3</text><rect x=\"2\" y=\"94\" width=\"170\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"87\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">f(x) = 0</text><rect x=\"172\" y=\"94\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"113.66666666666667\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">3</text><rect x=\"2\" y=\"124\" width=\"170\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"87\" y=\"143.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">f(x) + 10 = 0</text><rect x=\"172\" y=\"124\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"143.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1</text><rect x=\"2\" y=\"154\" width=\"170\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"87\" y=\"173.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">f(x) + 20 = 0</text><rect x=\"172\" y=\"154\" width=\"150\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"247\" y=\"173.66666666666666\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">1</text></svg>",
+    "options": [
+      "$\\alpha$ 不存在",
+      "$-20 < \\alpha < -10$",
+      "$-10 < \\alpha < 0$",
+      "$0 < \\alpha < 10$",
+      "$10 < \\alpha < 20$"
+    ],
+    "answerIndex": 2,
+    "explanation": "$f(x) = k$ 有三相異實根 ⇔ $k$ 介於極小值與極大值之間。$k = 10, 0$ 時有三根，$k = 20, -10, -20$ 時只有一根，所以極大值在 10 與 20 之間，極小值 $\\alpha$ 在 $-10$ 與 0 之間。\n\n故選 (C)"
+  },
+  {
+    "id": "100-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 設 $A = \\begin{bmatrix} 4 & a \\\\ 9 & b \\end{bmatrix}$、$B = \\begin{bmatrix} 6 & 7 \\\\ c & d \\end{bmatrix}$。已知 $AB = \\begin{bmatrix} 3 & 10 \\\\ -2 & 15 \\end{bmatrix}$ 且 $A$ 的行列式之值為 2，試問下列哪些選項是正確的？",
+    "options": [
+      "$9a - 4b = -2$",
+      "$ac = -24$",
+      "$d = -15$",
+      "$\\begin{bmatrix} b & -a \\\\ -9 & 4 \\end{bmatrix}\\begin{bmatrix} 4 & a \\\\ 9 & b \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "• (A) ✓：$4b - 9a = 2$。\n• (B) ✗：$AB$ 左上角 $24 + ac = 3$，$ac = -21$。\n• (C) ✓：$B = A^{-1}(AB)$，$A^{-1} = \\dfrac12\\begin{bmatrix} b & -a \\\\ -9 & 4 \\end{bmatrix}$，$d = \\dfrac12(-9\\cdot10 + 4\\cdot15) = -15$。\n• (D) ✗：乘積為 $\\det A\\cdot I = 2I$。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "100-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 假設兩地之間的通話費，第一個半分鐘是 5 元，之後每半分鐘是 2 元，不滿半分鐘以半分鐘計算，則 $t$ 分鐘的通話費 $C(t)$ 公式如下（單位元）：$C(t) = 5 - 2[1 - 2t]$，其中 $[x]$ 表示小於或等於 $x$ 的最大整數，例如：$[3.5] = 3$，$[-3.1] = -4$，$[-5] = -5$ 等。試問下列哪些選項是正確的？",
+    "options": [
+      "10 分鐘的通話費是 43 元",
+      "在 $t \\ge 0$ 時，$[1 - 2t] = -[2t - 1]$ 恆成立",
+      "$\\displaystyle\\lim_{t\\to10.5}C(t) = 45$",
+      "$\\displaystyle\\lim_{t\\to11.2}C(t) = 49$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "• (A) ✓：$[1 - 20] = -19$，$C = 5 + 38 = 43$。\n• (B) ✗：$2t - 1$ 不是整數時 $[-u] = -[u] - 1$，例如 $t = 0.3$：$[0.4] = 0$，$-[-0.4] = 1$。\n• (C) ✗：$t \\to 10.5^-$ 時 $[1 - 2t] = -20$，$C \\to 45$；$t \\to 10.5^+$ 時為 $-21$，$C \\to 47$，極限不存在。\n• (D) ✓：$t$ 在 11.2 附近，$1 - 2t$ 在 $-21.4$ 附近，$[1 - 2t] = -22$，$C = 49$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "100-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 在坐標空間中，有一邊長為 2、中心在原點 $O$ 的正立方體，且各稜邊都與三坐標平面平行或垂直，如圖所示。已知 $A(1, -1, 0)$、$B(0, 1, -1)$、$C(-1, 0, 1)$ 這三點都是某平面 $E$ 和正立方體稜邊的交點。試問下列哪些點也是平面 $E$ 和正立方體稜邊的交點？",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-ma-07.png\" alt=\"中心在原點、邊長 2 的正立方體與 A、B、C 三點\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\left(\\dfrac12, \\dfrac12, -1\\right)$",
+      "$(-1, 1, 0)$",
+      "$(0, -1, -1)$",
+      "$(-2, 1, 1)$"
+    ],
+    "answerIndices": [
+      1
+    ],
+    "explanation": "$\\overrightarrow{AB} = (-1, 2, -1)$、$\\overrightarrow{AC} = (-2, 1, 1)$，法向量 $(3, 3, 3)$，$E: x + y + z = 0$。\n稜邊上的點有兩個坐標為 $\\pm1$，第三個坐標在 $[-1, 1]$。\n• (A) 雖在 $E$ 上，但只有一個坐標為 $\\pm1$，在面上而不在稜邊上 ✗。\n• (B) ✓。\n• (C) 不在 $E$ 上 ✗。\n• (D) 不在立方體上 ✗。\n\n故選 (B)"
+  },
+  {
+    "id": "100-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "A. 如圖所示，$PQRS$ 為一給定的矩形，長 $\\overline{PQ} = 12$、寬 $\\overline{QR} = 5$，而 $\\triangle ABC$ 為等腰三角形，其中 $\\overline{AB} = \\overline{AC}$，$P$、$Q$ 在 $\\overline{BC}$ 邊上，$R$、$S$ 分別在 $\\overline{CA}$、$\\overline{AB}$ 邊上，則當 $\\triangle ABC$ 中 $\\overline{BC}$ 邊上的高為 ⑧⑨ 時，$\\triangle ABC$ 的面積為最小。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/100-ast-ma-A.png\" alt=\"等腰三角形 ABC 內接矩形 PQRS\" style=\"width:100%;max-width:240px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "1",
+      "0"
+    ],
+    "blankLabels": [
+      "8",
+      "9"
+    ],
+    "explanation": "設高為 $h$，由相似：$\\dfrac{12}{\\overline{BC}} = \\dfrac{h - 5}h$，$\\overline{BC} = \\dfrac{12h}{h - 5}$，面積 $S = \\dfrac{6h^2}{h - 5}$。\n$S' = \\dfrac{6h(h - 10)}{(h - 5)^2}$，$h = 10$ 時最小。"
+  },
+  {
+    "id": "100-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "B. 某手機公司共有甲、乙、丙三個生產線，依據統計，甲、乙、丙所製造的手機中分別有 5%、3%、3% 是瑕疵品。若公司希望在全部的瑕疵品中，由甲生產線所製造的比例不得超過 $\\dfrac5{12}$，則甲生產線所製造的手機數量可占全部手機產量的百分比至多為 ⑩⑪ %。",
+    "blanks": [
+      "3",
+      "0"
+    ],
+    "blankLabels": [
+      "10",
+      "11"
+    ],
+    "explanation": "設甲占比例 $p$，乙丙合占 $1 - p$（瑕疵率都是 3%）。\n$\\dfrac{0.05p}{0.05p + 0.03(1 - p)} \\le \\dfrac5{12}$ ⇒ $0.6p \\le 0.1p + 0.15$ ⇒ $p \\le 0.3$，即 30%。"
+  },
+  {
+    "id": "100-ast-ma-C",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "C. 坐標平面上，已知函數 $f(x) = 4x^3 + x - 2$ 的圖形以 $A(1, 3)$ 為切點的切線為 $L$，則以切線 $L$ 及曲線 $y = f(x)$ 為界所圍成區域的面積為 ⑫⑬。",
+    "blanks": [
+      "2",
+      "7"
+    ],
+    "blankLabels": [
+      "12",
+      "13"
+    ],
+    "explanation": "$f'(1) = 13$，$L: y = 13x - 10$。$f(x) - (13x - 10) = 4x^3 - 12x + 8 = 4(x - 1)^2(x + 2)$。\n面積 $\\displaystyle\\int_{-2}^1 4(x - 1)^2(x + 2)\\,dx = 4\\cdot\\dfrac{3^4}{12} = 27$。"
+  },
+  {
+    "id": "100-ast-ma-D",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "D. 坐標空間中，若平面 $E: ax + by + cz = 1$ 滿足以下三條件：(1) 平面 $E$ 與平面 $F: x + y + z = 1$ 有一夾角為 $30^\\circ$，(2) 點 $A(1, 1, 1)$ 到平面 $E$ 的距離等於 3，(3) $a + b + c > 0$，則 $a + b + c$ 的值為 $\\dfrac{⑭}{⑮}$。（化成最簡分數）",
+    "blanks": [
+      "1",
+      "3"
+    ],
+    "blankLabels": [
+      "14",
+      "15"
+    ],
+    "explanation": "令 $s = a + b + c > 0$，$n = \\sqrt{a^2 + b^2 + c^2}$。\n夾角：$\\dfrac{s}{n\\sqrt3} = \\cos30^\\circ$ ⇒ $s = \\dfrac32n$。\n距離：$\\dfrac{|s - 1|}n = 3$ ⇒ $|s - 1| = 2s$ ⇒ $s = \\dfrac13$（$s = -1$ 不合）。"
+  },
+  {
+    "id": "100-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】已知實係數三次多項式函數 $y = f(x)$ 的最高次項係數為 12，其圖形與水平線 $y = 25$ 交於相異的三點 $(0, 25)$、$(1, 25)$ 及 $(2, 25)$。\n(1) 試求曲線 y = f(x) 圖形上的反曲點坐標。（6 分）",
+    "points": 6,
+    "blanks": [
+      "$(1, 25)$"
+    ],
+    "blankLabels": [
+      "反曲點"
+    ],
+    "explanation": "$f(x) - 25 = 12x(x - 1)(x - 2)$，$f(x) = 12x^3 - 36x^2 + 24x + 25$。\n$f''(x) = 72x - 72 = 0$，$x = 1$，反曲點 $(1, 25)$。"
+  },
+  {
+    "id": "100-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】已知實係數三次多項式函數 $y = f(x)$ 的最高次項係數為 12，其圖形與水平線 $y = 25$ 交於相異的三點 $(0, 25)$、$(1, 25)$ 及 $(2, 25)$。\n(2) 試求定積分 $\\displaystyle\\int_0^2 f(x)\\,dx$ 之值。（6 分）",
+    "points": 6,
+    "blanks": [
+      "50"
+    ],
+    "blankLabels": [
+      "積分值"
+    ],
+    "explanation": "$12x(x - 1)(x - 2)$ 的圖形對稱於反曲點 $(1, 0)$，在 $[0, 2]$ 上積分為 0。所以 $\\displaystyle\\int_0^2 f(x)\\,dx = \\int_0^2 25\\,dx = 50$。"
+  },
+  {
+    "id": "100-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】(1) 試求所有滿足 $\\log(x^3 - 12x^2 + 41x - 20) \\ge 1$ 的 $x$ 值之範圍。（6 分）",
+    "points": 6,
+    "blanks": [
+      "$1 \\le x \\le 5$ 或 $x \\ge 6$"
+    ],
+    "blankLabels": [
+      "範圍"
+    ],
+    "explanation": "$x^3 - 12x^2 + 41x - 20 \\ge 10$（此時真數自然為正）：$x^3 - 12x^2 + 41x - 30 = (x - 1)(x - 5)(x - 6) \\ge 0$。\n解得 $1 \\le x \\le 5$ 或 $x \\ge 6$。"
+  },
+  {
+    "id": "100-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 100,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】(2) 試證：當 $\\dfrac{3\\pi}2 \\le \\theta \\le 2\\pi$ 時，$3^{\\cos\\theta} \\ge 3^{1 + \\sin\\theta}$。（6 分）",
+    "points": 6,
+    "blanks": [
+      "$\\cos\\theta - \\sin\\theta = \\sqrt2\\cos\\left(\\theta + \\dfrac\\pi4\\right) \\ge 1$"
+    ],
+    "blankLabels": [
+      "證明"
+    ],
+    "explanation": "$3^t$ 遞增，只需證 $\\cos\\theta \\ge 1 + \\sin\\theta$，即 $\\cos\\theta - \\sin\\theta \\ge 1$。\n$\\cos\\theta - \\sin\\theta = \\sqrt2\\cos\\left(\\theta + \\dfrac\\pi4\\right)$，而 $\\theta + \\dfrac\\pi4 \\in \\left[\\dfrac{7\\pi}4, \\dfrac{9\\pi}4\\right]$，此時 $\\cos\\left(\\theta + \\dfrac\\pi4\\right) \\ge \\dfrac{\\sqrt2}2$，得證。"
   }
 ]
