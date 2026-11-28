@@ -235045,5 +235045,320 @@
       "33"
     ],
     "explanation": "長方體長、寬、高為 1、2、3，$\\dbinom82 = 28$ 對頂點。距離大於 3 的有：面對角線 $\\sqrt{10}$（$1\\times3$ 面，4 條）、$\\sqrt{13}$（$2\\times3$ 面，4 條）與體對角線 $\\sqrt{14}$（4 條），共 12 對。\n機率 $\\dfrac{12}{28} = \\dfrac37$。"
+  },
+  {
+    "id": "101-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 令 $f(x) = x(x - 1)(x^3 - 2)$，試問有多少個實數 $a$ 滿足 $\\displaystyle\\int_0^a f'(x)\\,dx = 0$？",
+    "options": [
+      "1 個",
+      "2 個",
+      "3 個",
+      "4 個",
+      "5 個"
+    ],
+    "answerIndex": 2,
+    "explanation": "$\\displaystyle\\int_0^a f'(x)\\,dx = f(a) - f(0) = f(a) = 0$，$a = 0, 1, \\sqrt[3]2$，共 3 個。\n\n故選 (C)"
+  },
+  {
+    "id": "101-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 某公司員工中有 15% 為行政人員，35% 為技術人員，50% 為研發人員。這些員工中，60% 的行政人員有大學文憑，40% 的技術人員有大學文憑，80% 的研發人員有大學文憑。從有大學文憑的員工中隨機抽選一人，他（或她）是技術人員的機率是下列哪一個選項？",
+    "options": [
+      "$\\dfrac29$",
+      "$\\dfrac13$",
+      "$\\dfrac49$",
+      "$\\dfrac15$",
+      "$\\dfrac25$"
+    ],
+    "answerIndex": 0,
+    "explanation": "有文憑：行政 $0.09$、技術 $0.14$、研發 $0.40$，共 $0.63$。所求 $\\dfrac{0.14}{0.63} = \\dfrac29$。\n\n故選 (A)"
+  },
+  {
+    "id": "101-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 作某項科學實驗共有三種可能結果 $A$、$B$、$C$，其發生的機率分別為 $p_A = \\log_2a$、$p_B = \\log_4a$、$p_C = \\log_8a$；其中 $a$ 為一正實數。試問 $p_A$ 為下列哪一個選項？",
+    "options": [
+      "$\\dfrac59$",
+      "$\\dfrac6{11}$",
+      "$\\dfrac7{13}$",
+      "$\\dfrac8{15}$",
+      "$\\dfrac9{17}$"
+    ],
+    "answerIndex": 1,
+    "explanation": "令 $L = \\log_2a$，則 $p_B = \\dfrac L2$、$p_C = \\dfrac L3$。三者和為 1：$\\dfrac{11}{6}L = 1$，$p_A = L = \\dfrac6{11}$。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "4. 已知方陣 $\\begin{bmatrix} a & b & c \\\\ d & e & f \\\\ g & h & i \\end{bmatrix}$ 的反方陣為 $\\begin{bmatrix} a' & b' & c' \\\\ d' & e' & f' \\\\ g' & h' & i' \\end{bmatrix}$。試問下列哪一個選項為 $\\begin{bmatrix} g & h & i \\\\ a & b & c \\\\ d & e & f \\end{bmatrix}$ 的反方陣？",
+    "options": [
+      "$\\begin{bmatrix} a' & b' & c' \\\\ d' & e' & f' \\\\ g' & h' & i' \\end{bmatrix}$",
+      "$\\begin{bmatrix} a' & d' & g' \\\\ b' & e' & h' \\\\ c' & f' & i' \\end{bmatrix}$",
+      "$\\begin{bmatrix} g' & h' & i' \\\\ a' & b' & c' \\\\ d' & e' & f' \\end{bmatrix}$",
+      "$\\begin{bmatrix} g' & a' & d' \\\\ h' & b' & e' \\\\ i' & c' & f' \\end{bmatrix}$",
+      "$\\begin{bmatrix} c' & a' & b' \\\\ f' & d' & e' \\\\ i' & g' & h' \\end{bmatrix}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "設原方陣為 $M$，新方陣為 $PM$，其中 $P$ 把第 3 列移到最上面。$(PM)^{-1} = M^{-1}P^{-1}$：右乘 $P^{-1}$ 是對 $M^{-1}$ 的「行」作對應的重排。\n檢驗：$PM$ 的第 1 列是 $(g, h, i)$，要與反方陣第 1 行內積為 1、與其他行為 0，而 $(g, h, i)$ 只與 $M^{-1}$ 的第 3 行 $(c', f', i')$ 內積為 1，所以新的第 1 行是 $(c', f', i')$；同理第 2、3 行為 $(a', d', g')$、$(b', e', h')$。\n\n故選 (E)"
+  },
+  {
+    "id": "101-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "5. 當 $(x, y)$ 在直線 $2x + y = 3$ 上變動時，關於 $K = 9^x + 3^y$ 的敘述，試問下列哪個選項是正確的？",
+    "options": [
+      "$K$ 有最大值 28、最小值 $6\\sqrt3$",
+      "$K$ 有最大值 28、但沒有最小值",
+      "$K$ 沒有最大值、但有最小值 12",
+      "$K$ 沒有最大值、但有最小值 $6\\sqrt3$",
+      "$K$ 沒有最大值也沒有最小值"
+    ],
+    "answerIndex": 3,
+    "explanation": "令 $u = 9^x > 0$，$3^y = 3^{3 - 2x} = \\dfrac{27}{u}$。$K = u + \\dfrac{27}u \\ge 2\\sqrt{27} = 6\\sqrt3$（$u = 3\\sqrt3$ 時等號成立），且 $u \\to \\infty$ 時 $K \\to \\infty$，沒有最大值。\n\n故選 (D)"
+  },
+  {
+    "id": "101-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 設 $0 \\le \\theta < 2\\pi$，且方程式 $x^2 - a = 0$ 之兩根恰為 $\\sin\\theta$ 與 $\\cos\\theta$。請選出正確的選項。",
+    "options": [
+      "$\\tan\\theta = 1$",
+      "$\\sin\\left(\\theta + \\dfrac\\pi4\\right) = 0$",
+      "$\\sin2\\theta = -1$",
+      "$a = \\dfrac12$",
+      "滿足題設的 $\\theta$ 只有一個"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "根與係數：$\\sin\\theta + \\cos\\theta = 0$，$\\sin\\theta\\cos\\theta = -a$。\n• (A) ✗：$\\tan\\theta = -1$。\n• (B) ✓：$\\sin\\theta + \\cos\\theta = \\sqrt2\\sin\\left(\\theta + \\dfrac\\pi4\\right) = 0$。\n• (C) ✓：平方得 $1 + \\sin2\\theta = 0$。\n• (D) ✓：$a = -\\sin\\theta\\cos\\theta = -\\dfrac12\\sin2\\theta = \\dfrac12$。\n• (E) ✗：$\\theta = \\dfrac{3\\pi}4$ 或 $\\dfrac{7\\pi}4$。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "101-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 平面上有一 $\\triangle ABC$，$G$ 為 $\\triangle ABC$ 的重心。$O$、$D$ 為此平面上的相異二點，且滿足 $\\overrightarrow{OD} = \\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC}$。請選出正確的選項。",
+    "options": [
+      "$O$、$G$、$D$ 三點共線",
+      "$\\overline{OD} = 2\\overline{OG}$",
+      "$\\overrightarrow{AD} + \\overrightarrow{BD} + \\overrightarrow{CD} = 2\\overrightarrow{OD}$",
+      "$G$ 位於 $\\triangle ABC$ 的內部",
+      "$D$ 位於 $\\triangle ABC$ 的外部"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "$\\overrightarrow{OD} = 3\\overrightarrow{OG}$。\n• (A) ✓。\n• (B) ✗：應為 3 倍。\n• (C) ✓：$\\overrightarrow{AD} + \\overrightarrow{BD} + \\overrightarrow{CD} = 3\\overrightarrow{OD} - (\\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC}) = 2\\overrightarrow{OD}$。\n• (D) ✓：重心必在三角形內部。\n• (E) ✗：$\\overrightarrow{GD} = 2\\overrightarrow{OG}$，取 $O$ 很靠近 $G$ 時，$D$ 也靠近 $G$，會在內部。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "101-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "8. 已知一個 $n$ 次實係數多項式 $f(x)$ 滿足下列性質：\n當 $x < 0$ 時，$f'(x) < 0$ 且 $f''(x) > 0$；\n當 $0 < x < 1$ 時，$f'(x) < 0$ 且 $f''(x) < 0$；\n當 $1 < x < 4$ 時，$f'(x) < 0$ 且 $f''(x) > 0$；\n當 $x > 4$ 時，$f'(x) > 0$ 且 $f''(x) > 0$。\n請選出正確的選項。",
+    "options": [
+      "$f'(2) > f'(3)$",
+      "$f(x)$ 在 $x = 4$ 時有最小值",
+      "$f(x)$ 的圖形只有一個反曲點",
+      "$n$ 可能為 3",
+      "$f(x)$ 的最高次項係數必為正"
+    ],
+    "answerIndices": [
+      1,
+      4
+    ],
+    "explanation": "• (A) ✗：$1 < x < 4$ 時 $f'' > 0$，$f'$ 遞增，$f'(2) < f'(3)$。\n• (B) ✓：$x < 4$ 遞減、$x > 4$ 遞增，$x = 4$ 為最小值。\n• (C) ✗：凹向在 $x = 0$、$x = 1$ 各改變一次，有兩個反曲點。\n• (D) ✗：$n = 3$ 時 $f''$ 為一次式，正負最多改變一次。\n• (E) ✓：$x$ 很大與很小時 $f''$ 都 $> 0$，$f''$ 為偶數次且領導係數為正，所以 $f$ 的領導係數也為正。\n\n故選 (B)(E)"
+  },
+  {
+    "id": "101-ast-ma-09",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "9. 如圖所示，正立方體的邊長為 2，其中點 $E$ 為原點，點 $F$、點 $H$、點 $A$ 的坐標分別為 $(2, 0, 0)$、$(0, 2, 0)$、$(0, 0, 2)$。令 $\\Omega$ 表示四面體 $CBGD$ 與四面體 $BAFC$ 相交所形成的四面體。請選出正確的選項。（註：四面體的體積為 $\\dfrac13\\times$底面積$\\times$高）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-ma-09.png\" alt=\"正立方體 ABCD-EFGH，E 為原點\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "$\\Omega$ 有一頂點坐標為 $(1, 1, 2)$",
+      "$\\Omega$ 有一稜線其方向向量為 $(1, 0, -1)$",
+      "$\\Omega$ 有兩個側面互相垂直",
+      "$\\Omega$ 僅有一個側面是正三角形",
+      "$\\Omega$ 的體積為 $\\dfrac23$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "$B(2, 0, 2)$、$C(2, 2, 2)$、$D(0, 2, 2)$、$G(2, 2, 0)$。\n四面體 $CBGD$（在 $C$ 角）：$x + y + z \\ge 4$；四面體 $BAFC$（在 $B$ 角）：$x - y + z \\ge 2$（皆在立方體內）。\n兩平面的交線 $y = 1$、$x + z = 3$，與面 $x = 2$、$z = 2$ 交於 $P(2, 1, 1)$、$Q(1, 1, 2)$。所以 $\\Omega = BCPQ$。\n• (A) ✓：$Q$。\n• (B) ✓：$\\overrightarrow{PQ} = (-1, 0, 1)$。\n• (C) ✓：面 $BCP$ 在 $x = 2$、面 $BCQ$ 在 $z = 2$，互相垂直。\n• (D) ✗：$BPQ$、$CPQ$ 的三邊都是 $\\sqrt2$，有兩個正三角形。\n• (E) ✗：底 $BCP$ 面積 $\\dfrac12\\cdot2\\cdot1 = 1$，高（$Q$ 到 $x = 2$）為 1，體積 $\\dfrac13$。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "101-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "A. 設 $a, b, c, d, e$ 為實數。已知一次方程組 $\\begin{cases} ax + 3y + 5z = b \\\\ y + cz = 0 \\\\ 2y + dz = e \\end{cases}$ 的解的圖形是坐標空間中包含 $x$ 軸的一個平面，則 $a =$ ⑩，$b =$ ⑪，$c = \\dfrac{⑫}{⑬}$。（化成最簡分數）",
+    "blanks": [
+      "0",
+      "0",
+      "5",
+      "3"
+    ],
+    "blankLabels": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "explanation": "$x$ 軸上所有點 $(t, 0, 0)$ 都是解：$at = b$ 對所有 $t$ 成立，$a = b = 0$（且 $e = 0$）。\n三個方程式都代表同一個平面：$3y + 5z = 0$ 與 $y + cz = 0$ 相同，$c = \\dfrac53$。"
+  },
+  {
+    "id": "101-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "B. 空間中，以 $\\overline{AB}$ 為共同邊的兩正方形 $ABCD$、$ABEF$，其邊長皆為 4。已知內積 $\\overrightarrow{AD}\\cdot\\overrightarrow{AF} = 11$，則 $\\overrightarrow{AC}\\cdot\\overrightarrow{AE} =$ ⑭⑮。",
+    "blanks": [
+      "2",
+      "7"
+    ],
+    "blankLabels": [
+      "14",
+      "15"
+    ],
+    "explanation": "$\\overrightarrow{AC} = \\overrightarrow{AB} + \\overrightarrow{AD}$、$\\overrightarrow{AE} = \\overrightarrow{AB} + \\overrightarrow{AF}$，且 $\\overrightarrow{AD}$、$\\overrightarrow{AF}$ 都垂直 $\\overrightarrow{AB}$。\n內積 $= 16 + 0 + 0 + 11 = 27$。"
+  },
+  {
+    "id": "101-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設 $f$ 為一實係數多項式函數。\n(1) 設 $\\langle a_n\\rangle$ 為一數列，其中 $a_n = \\dfrac{f(n)}{n^4}$。若 $\\displaystyle\\lim_{n\\to\\infty}a_n = 5$，試求 $f$ 的次數與最高次項係數。（3 分）",
+    "points": 3,
+    "blanks": [
+      "4 次，最高次項係數 5"
+    ],
+    "blankLabels": [
+      "次數與係數"
+    ],
+    "explanation": "若次數 $> 4$，極限不存在；若 $< 4$，極限為 0。所以 $f$ 為 4 次，且 $\\dfrac{f(n)}{n^4}$ 的極限等於最高次項係數，為 5。"
+  },
+  {
+    "id": "101-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設 $f$ 為一實係數多項式函數。\n(2) 若 $\\displaystyle\\lim_{x\\to0}\\dfrac{f(x)}{x} = 3$，試求 $f$ 的函數圖形在 $x = 0$ 時的切線方程式。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$y = 3x$"
+    ],
+    "blankLabels": [
+      "切線"
+    ],
+    "explanation": "極限存在且分母趨近 0，所以 $f(0) = \\displaystyle\\lim_{x\\to0}\\dfrac{f(x)}{x}\\cdot x = 0$。$f'(0) = \\displaystyle\\lim_{x\\to0}\\dfrac{f(x) - f(0)}{x} = 3$，切線 $y = 3x$。"
+  },
+  {
+    "id": "101-ast-ma-non-1-3",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設 $f$ 為一實係數多項式函數。\n(3) 若 $f$ 滿足上面 (1) 與 (2) 的假設，且 $f''(0) = 2$，試求 $\\displaystyle\\int_{-1}^1 f(x)\\,dx$ 之值。（5 分）",
+    "points": 5,
+    "blanks": [
+      "$\\dfrac83$"
+    ],
+    "blankLabels": [
+      "積分值"
+    ],
+    "explanation": "$f(x) = 5x^4 + bx^3 + cx^2 + 3x$，$f''(0) = 2c = 2$，$c = 1$。\n奇次項在 $[-1, 1]$ 積分為 0：$\\displaystyle\\int_{-1}^1(5x^4 + x^2)\\,dx = 2\\left(1 + \\dfrac13\\right) = \\dfrac83$。"
+  },
+  {
+    "id": "101-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】在 $\\triangle ABC$ 中，$D$ 為 $\\overline{BC}$ 邊上一點且 $\\overline{AD}$ 平分 $\\angle BAC$。已知 $\\overline{BD} = 5$、$\\overline{DC} = 7$，且 $\\angle ABC = 60^\\circ$。\n(1) 試求 $\\sin\\angle ACB$ 之值。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$\\dfrac{5\\sqrt3}{14}$"
+    ],
+    "blankLabels": [
+      "sin∠ACB"
+    ],
+    "explanation": "角平分線定理：$\\overline{AB} : \\overline{AC} = 5 : 7$。正弦定理：$\\dfrac{\\sin C}{\\sin B} = \\dfrac{\\overline{AB}}{\\overline{AC}} = \\dfrac57$，$\\sin C = \\dfrac57\\cdot\\dfrac{\\sqrt3}2 = \\dfrac{5\\sqrt3}{14}$。"
+  },
+  {
+    "id": "101-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】在 $\\triangle ABC$ 中，$D$ 為 $\\overline{BC}$ 邊上一點且 $\\overline{AD}$ 平分 $\\angle BAC$。已知 $\\overline{BD} = 5$、$\\overline{DC} = 7$，且 $\\angle ABC = 60^\\circ$。\n(2) 試求 $\\sin\\angle BAC$ 之值。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$\\dfrac{4\\sqrt3}{7}$"
+    ],
+    "blankLabels": [
+      "sin∠BAC"
+    ],
+    "explanation": "$\\overline{AB} < \\overline{AC}$，所以 $C < B = 60^\\circ$，$\\cos C = \\sqrt{1 - \\dfrac{75}{196}} = \\dfrac{11}{14}$。\n$\\sin A = \\sin(B + C) = \\dfrac{\\sqrt3}2\\cdot\\dfrac{11}{14} + \\dfrac12\\cdot\\dfrac{5\\sqrt3}{14} = \\dfrac{16\\sqrt3}{28} = \\dfrac{4\\sqrt3}7$。"
+  },
+  {
+    "id": "101-ast-ma-non-2-3",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】在 $\\triangle ABC$ 中，$D$ 為 $\\overline{BC}$ 邊上一點且 $\\overline{AD}$ 平分 $\\angle BAC$。已知 $\\overline{BD} = 5$、$\\overline{DC} = 7$，且 $\\angle ABC = 60^\\circ$。\n(3) 試求 $\\overline{AB}$ 邊之長。（4 分）",
+    "points": 4,
+    "blanks": [
+      "$\\dfrac{15}{2}$"
+    ],
+    "blankLabels": [
+      "AB"
+    ],
+    "explanation": "正弦定理：$\\overline{AB} = \\dfrac{\\overline{BC}\\sin C}{\\sin A} = \\dfrac{12\\cdot\\dfrac{5\\sqrt3}{14}}{\\dfrac{4\\sqrt3}7} = \\dfrac{15}2$。\n（驗算：$\\overline{AC} = \\dfrac{21}2$，餘弦定理 $\\left(\\dfrac{15}2\\right)^2 + 12^2 - 2\\cdot\\dfrac{15}2\\cdot12\\cdot\\dfrac12 = \\dfrac{441}4$ ✓）"
   }
 ]
