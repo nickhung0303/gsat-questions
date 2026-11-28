@@ -233564,5 +233564,429 @@
       "最低成本"
     ],
     "explanation": "頂點代入 $400x + 320y$：2240、1760、1920、2400。最低成本 1760 元（甲 2 塊、乙 3 塊）。"
+  },
+  {
+    "id": "102-gsat-math-01",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "points": 5,
+    "question": "1. 學校規定上學期成績需同時滿足以下兩項要求，才有資格參選模範生。一、國文成績或英文成績 70 分（含）以上；二、數學成績及格。已知小文上學期國文 65 分而且他不符合參選模範生資格。請問下列哪一個選項的推論是正確的？",
+    "options": [
+      "小文的英文成績未達 70 分",
+      "小文的數學成績不及格",
+      "小文的英文成績 70 分以上但數學成績不及格",
+      "小文的英文成績未達 70 分且數學成績不及格",
+      "小文的英文成績未達 70 分或數學成績不及格"
+    ],
+    "answerIndex": 4,
+    "explanation": "國文未達 70，條件一變成「英文 70 分以上」。資格 ⇔ 英文 $\\ge 70$ 且數學及格；不符資格 ⇔ 英文未達 70 **或** 數學不及格。單獨的 (A)(B)(C)(D) 都無法確定。\n\n故選 (E)"
+  },
+  {
+    "id": "102-gsat-math-02",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "points": 5,
+    "question": "2. 令 $a = 2.6^{10} - 2.6^9$，$b = 2.6^{11} - 2.6^{10}$，$c = \\dfrac{2.6^{11} - 2.6^9}{2}$。請選出正確的大小關係。",
+    "options": [
+      "$a > b > c$",
+      "$a > c > b$",
+      "$b > a > c$",
+      "$b > c > a$",
+      "$c > b > a$"
+    ],
+    "answerIndex": 3,
+    "explanation": "以 $2.6^9$ 為單位：$a = 1.6$、$b = 2.6\\times1.6 = 4.16$、$c = \\dfrac{2.6^2 - 1}{2} = 2.88$。$b > c > a$。\n\n故選 (D)"
+  },
+  {
+    "id": "102-gsat-math-03",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "points": 5,
+    "question": "3. 袋子裡有 3 顆白球，2 顆黑球。由甲、乙、丙三人依序各抽取 1 顆球，抽取後不放回。若每顆球被取出的機會相等，請問在甲和乙抽到相同顏色球的條件下，丙抽到白球之條件機率為何？",
+    "options": [
+      "$\\dfrac13$",
+      "$\\dfrac{5}{12}$",
+      "$\\dfrac12$",
+      "$\\dfrac35$",
+      "$\\dfrac23$"
+    ],
+    "answerIndex": 2,
+    "explanation": "甲乙同白 $\\dfrac35\\cdot\\dfrac24 = \\dfrac{6}{20}$，之後丙白 $\\dfrac13$；同黑 $\\dfrac{2}{20}$，之後丙必白。\n$$P = \\frac{\\frac{6}{20}\\cdot\\frac13 + \\frac{2}{20}\\cdot1}{\\frac{8}{20}} = \\frac{4}{8} = \\frac12$$\n\n故選 (C)"
+  },
+  {
+    "id": "102-gsat-math-04",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "points": 5,
+    "question": "4. 已知以下各選項資料的迴歸直線（最適合直線）皆相同且皆為負相關，請選出相關係數最小的選項。（各選項的 x 皆為 2、3、5）",
+    "options": [
+      "y 依序為 1、13、1",
+      "y 依序為 3、10、2",
+      "y 依序為 5、7、3",
+      "y 依序為 9、1、5",
+      "y 依序為 7、4、4"
+    ],
+    "answerIndex": 4,
+    "explanation": "迴歸斜率 $= r\\dfrac{\\sigma_y}{\\sigma_x}$，各選項斜率（負）與 $\\sigma_x$ 都相同，所以 $|r|$ 與 $\\sigma_y$ 成反比；$\\sigma_y$ 越小，$r$ 越負（越小）。\n各選項 $y$ 的平均都是 5，離差平方和：(A) 96、(B) 38、(C) 8、(D) 32、(E) 6。最小在 (E)。\n\n故選 (E)"
+  },
+  {
+    "id": "102-gsat-math-05",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "points": 5,
+    "question": "5. 將 24 顆雞蛋分裝到紅、黃、綠的三個籃子。每個籃子都要有雞蛋，且黃、綠兩個籃子裡都裝奇數顆。請選出分裝的方法數。",
+    "options": [
+      "55",
+      "66",
+      "132",
+      "198",
+      "253"
+    ],
+    "answerIndex": 1,
+    "explanation": "黃 $2a + 1$、綠 $2b + 1$，紅 $= 22 - 2(a + b) \\ge 1$，所以 $a + b \\le 10$（$a, b \\ge 0$）。\n非負整數解個數 $\\dbinom{12}{2} = 66$。\n\n故選 (B)"
+  },
+  {
+    "id": "102-gsat-math-06",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "points": 5,
+    "question": "6. 莎韻觀測遠方等速率垂直上升的熱氣球。在上午 10:00 熱氣球的仰角為 30°，到上午 10:10 仰角變成 34°。請利用下表判斷到上午 10:30 時，熱氣球的仰角最接近下列哪一個度數？",
+    "svg": "<svg viewBox=\"0 0 470 68\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:560px;height:auto;display:block;\"><rect x=\"2\" y=\"4\" width=\"60\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">θ</text><rect x=\"62\" y=\"4\" width=\"58\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"91\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">30°</text><rect x=\"120\" y=\"4\" width=\"58\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"149\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">34°</text><rect x=\"178\" y=\"4\" width=\"58\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"207\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">39°</text><rect x=\"236\" y=\"4\" width=\"58\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"265\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">40°</text><rect x=\"294\" y=\"4\" width=\"58\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"323\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">41°</text><rect x=\"352\" y=\"4\" width=\"58\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"381\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">42°</text><rect x=\"410\" y=\"4\" width=\"58\" height=\"30\" fill=\"#2e5d4b\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"439\" y=\"23.666666666666668\" fill=\"#ffeb3b\" font-size=\"14\" text-anchor=\"middle\">43°</text><rect x=\"2\" y=\"34\" width=\"60\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"32\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">tan θ</text><rect x=\"62\" y=\"34\" width=\"58\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"91\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.577</text><rect x=\"120\" y=\"34\" width=\"58\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"149\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.675</text><rect x=\"178\" y=\"34\" width=\"58\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"207\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.810</text><rect x=\"236\" y=\"34\" width=\"58\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"265\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.839</text><rect x=\"294\" y=\"34\" width=\"58\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"323\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.869</text><rect x=\"352\" y=\"34\" width=\"58\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"381\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.900</text><rect x=\"410\" y=\"34\" width=\"58\" height=\"30\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"1\"/><text x=\"439\" y=\"53.666666666666664\" fill=\"#ffffff\" font-size=\"14\" text-anchor=\"middle\">0.933</text></svg>",
+    "options": [
+      "39°",
+      "40°",
+      "41°",
+      "42°",
+      "43°"
+    ],
+    "answerIndex": 2,
+    "explanation": "水平距離固定，$\\tan\\theta$ 與高度成正比，等速上升時 $\\tan\\theta$ 隨時間線性增加：10 分鐘增加 $0.675 - 0.577 = 0.098$。\n10:30 時 $\\tan\\theta \\approx 0.577 + 3\\times0.098 = 0.871$，最接近 $41^\\circ$。\n\n故選 (C)"
+  },
+  {
+    "id": "102-gsat-math-07",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "7. 設 $n$ 為正整數，符號 $\\begin{bmatrix} 1 & 1 \\\\ 0 & 2 \\end{bmatrix}^n$ 代表矩陣 $\\begin{bmatrix} 1 & 1 \\\\ 0 & 2 \\end{bmatrix}$ 自乘 $n$ 次。令 $\\begin{bmatrix} 1 & 1 \\\\ 0 & 2 \\end{bmatrix}^n = \\begin{bmatrix} a_n & b_n \\\\ c_n & d_n \\end{bmatrix}$，請選出正確的選項。",
+    "options": [
+      "$a_2 = 1$",
+      "$a_1, a_2, a_3$ 為等比數列",
+      "$d_1, d_2, d_3$ 為等比數列",
+      "$b_1, b_2, b_3$ 為等差數列",
+      "$c_1, c_2, c_3$ 為等差數列"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "$M^2 = \\begin{bmatrix} 1 & 3 \\\\ 0 & 4 \\end{bmatrix}$、$M^3 = \\begin{bmatrix} 1 & 7 \\\\ 0 & 8 \\end{bmatrix}$。\n• (A) 正確。\n• (B) 正確：1、1、1（公比 1）。\n• (C) 正確：2、4、8。\n• (D) 錯誤：1、3、7。\n• (E) 正確：0、0、0（公差 0）。\n\n故選 (A)(B)(C)(E)"
+  },
+  {
+    "id": "102-gsat-math-08",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "8. 設 $a > 1 > b > 0$，關於下列不等式，請選出正確的選項。",
+    "options": [
+      "$(-a)^7 > (-a)^9$",
+      "$b^{-9} > b^{-7}$",
+      "$\\log_{10}\\dfrac1a > \\log_{10}\\dfrac1b$",
+      "$\\log_a1 > \\log_b1$",
+      "$\\log_ab \\ge \\log_ba$"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "• (A) 正確：$-a^7 > -a^9$（$a^9 > a^7$）。\n• (B) 正確：$\\dfrac1b > 1$，$\\left(\\dfrac1b\\right)^9 > \\left(\\dfrac1b\\right)^7$。\n• (C) 錯誤：$\\log\\dfrac1a < 0 < \\log\\dfrac1b$。\n• (D) 錯誤：都是 0。\n• (E) 錯誤：令 $t = \\log_ab < 0$，$\\log_ba = \\dfrac1t$；$t \\ge \\dfrac1t$ 只在 $-1 \\le t < 0$ 成立，不一定。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "102-gsat-math-09",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "9. 設 $a < b < c$。已知實係數多項式函數 $y = f(x)$ 的圖形為一開口向上的拋物線，且與 $x$ 軸交於 $(a, 0)$、$(b, 0)$ 兩點；實係數多項式函數 $y = g(x)$ 的圖形亦為一開口向上的拋物線，且跟 $x$ 軸相交於 $(b, 0)$、$(c, 0)$ 兩點。請選出 $y = f(x) + g(x)$ 的圖形可能的選項。",
+    "options": [
+      "水平直線",
+      "和 x 軸僅交於一點的直線",
+      "和 x 軸無交點的拋物線",
+      "和 x 軸僅交於一點的拋物線",
+      "和 x 軸交於兩點的拋物線"
+    ],
+    "answerIndices": [
+      3,
+      4
+    ],
+    "explanation": "$f = p(x - a)(x - b)$、$g = q(x - b)(x - c)$，$p, q > 0$。\n$f + g = (x - b)\\big[(p + q)x - (pa + qc)\\big]$，首項係數 $p + q > 0$，是開口向上的拋物線，必過 $(b, 0)$。另一根 $\\dfrac{pa + qc}{p + q}$ 在 $a$、$c$ 之間，若恰等於 $b$ 則與 $x$ 軸相切（一點），否則交兩點。\n\n故選 (D)(E)"
+  },
+  {
+    "id": "102-gsat-math-10",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "10. 坐標平面上考慮兩點 $Q_1(1, 0)$，$Q_2(-1, 0)$。在下列各方程式的圖形中，請選出其上至少有一點 $P$ 滿足內積 $\\overrightarrow{PQ_1}\\cdot\\overrightarrow{PQ_2} < 0$ 的選項。",
+    "options": [
+      "$y = \\dfrac12$",
+      "$y = x^2 + 1$",
+      "$-x^2 + 2y^2 = 1$",
+      "$4x^2 + y^2 = 1$",
+      "$\\dfrac{x^2}{2} - \\dfrac{y^2}{2} = 1$"
+    ],
+    "answerIndices": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "$P(x, y)$：$\\overrightarrow{PQ_1}\\cdot\\overrightarrow{PQ_2} = x^2 - 1 + y^2 < 0 \\iff P$ 在單位圓內。\n• (A) $\\left(0, \\dfrac12\\right)$ 在圓內 ✓。\n• (B) $y \\ge 1$，$x^2 + y^2 \\ge 1$ ✗。\n• (C) $\\left(0, \\dfrac{1}{\\sqrt2}\\right)$ ✓。\n• (D) $\\left(\\dfrac12, 0\\right)$ ✓。\n• (E) $x^2 \\ge 2$ ✗。\n\n故選 (A)(C)(D)"
+  },
+  {
+    "id": "102-gsat-math-11",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "11. 設 $F_1, F_2$ 為橢圓 $\\Gamma$ 的兩個焦點。$S$ 為以 $F_1$ 為中心的正方形（$S$ 的各邊可不與 $\\Gamma$ 的對稱軸平行）。試問 $S$ 可能有幾個頂點落在 $\\Gamma$ 上？",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "0"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "正方形的四個頂點到中心 $F_1$ 的距離都相同。橢圓上的點到 $F_1$ 的距離是 $x$ 坐標的一次函數（焦半徑公式），所以距離為定值的點至多 2 個（對長軸對稱），頂點至多 2 個在 $\\Gamma$ 上，3、4 不可能。\n• 0 個、1 個都容易做到（正方形很小，或轉一個角度讓恰好一個頂點碰到 $\\Gamma$）。\n• 2 個：取正焦弦兩端點，它們在過 $F_1$ 且垂直長軸的直線上、到 $F_1$ 等距，可作為正方形的兩個對頂點。\n\n故選 (A)(B)(E)"
+  },
+  {
+    "id": "102-gsat-math-12",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "multiple",
+    "points": 5,
+    "question": "12. 設實數組成的數列 $\\langle a_n\\rangle$ 是公比為 $-0.8$ 的等比數列，實數組成的數列 $\\langle b_n\\rangle$ 是首項為 10 的等差數列。已知 $a_9 > b_9$ 且 $a_{10} > b_{10}$。請選出正確的選項。",
+    "options": [
+      "$a_9\\times a_{10} < 0$",
+      "$b_{10} > 0$",
+      "$b_9 > b_{10}$",
+      "$a_9 > a_{10}$",
+      "$a_8 > b_8$"
+    ],
+    "answerIndices": [
+      0,
+      2
+    ],
+    "explanation": "• (A) 正確：公比為負，相鄰兩項異號。\n• (B) 錯誤：$a_9, a_{10}$ 有一個為負，對應的 $b$ 更小、為負；$b_1 = 10 > 0$ 而之後出現負值，$\\langle b_n\\rangle$ 遞減，所以 $b_{10} < 0$。\n• (C) 正確：由 (B) 公差為負。\n• (D) 錯誤：例如 $a_9 = -1$、$a_{10} = 0.8$，公差 $-2$（$b_9 = -6$、$b_{10} = -8$）滿足條件，但 $a_9 < a_{10}$。\n• (E) 錯誤：例如 $a_9 = 10$（$a_{10} = -8$、$a_8 = -12.5$），公差 $-3$（$b_8 = -11$、$b_9 = -14$、$b_{10} = -17$）滿足條件，但 $a_8 < b_8$。\n\n故選 (A)(C)"
+  },
+  {
+    "id": "102-gsat-math-A",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "A. 設 $k$ 為一整數。已知 $\\dfrac k3 < \\sqrt{31} < \\dfrac{k + 1}{3}$，則 $k =$ ⑬⑭。",
+    "blanks": [
+      "1",
+      "6"
+    ],
+    "blankLabels": [
+      "13",
+      "14"
+    ],
+    "explanation": "$k < 3\\sqrt{31} = \\sqrt{279} < k + 1$，$16^2 = 256 < 279 < 289 = 17^2$，$k = 16$。"
+  },
+  {
+    "id": "102-gsat-math-B",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "B. 設 $a, b$ 為實數且 $(a + bi)(2 + 6i) = -80$，其中 $i^2 = -1$。則 $(a, b) =$ (⑮⑯, ⑰⑱)。",
+    "blanks": [
+      "-",
+      "4",
+      "1",
+      "2"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "4"
+      ],
+      [
+        "1"
+      ],
+      [
+        "2"
+      ]
+    ],
+    "blankLabels": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "explanation": "$a + bi = \\dfrac{-80}{2 + 6i} = \\dfrac{-80(2 - 6i)}{40} = -4 + 12i$。"
+  },
+  {
+    "id": "102-gsat-math-C",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "C. 坐標平面中 $A(a, 3)$，$B(16, b)$，$C(19, 12)$ 三點共線。已知 $C$ 不在 $A, B$ 之間，且 $\\overline{AC} : \\overline{BC} = 3 : 1$，則 $a + b =$ ⑲⑳。",
+    "blanks": [
+      "1",
+      "9"
+    ],
+    "blankLabels": [
+      "19",
+      "20"
+    ],
+    "explanation": "$C$ 不在中間且 $\\overline{AC} = 3\\overline{BC}$，所以 $B$ 在 $\\overline{AC}$ 上且 $\\overline{AB} : \\overline{BC} = 2 : 1$：$B = A + \\dfrac23(C - A)$。\n$16 = a + \\dfrac23(19 - a)$，$a = 10$；$b = 3 + \\dfrac23\\cdot9 = 9$。$a + b = 19$。"
+  },
+  {
+    "id": "102-gsat-math-D",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "D. 阿德賣 100 公斤的香蕉，第一天每公斤賣 40 元；沒賣完的部份，第二天降價為每公斤 36 元；第三天再降為每公斤 32 元，到第三天全部賣完，三天所得共為 3720 元。假設阿德在第三天所賣香蕉的公斤數為 $t$，可算得第二天賣出香蕉的公斤數為 $at + b$，其中 $a =$ ㉑㉒，$b =$ ㉓㉔。",
+    "blanks": [
+      "-",
+      "2",
+      "7",
+      "0"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "2"
+      ],
+      [
+        "7"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "blankLabels": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "explanation": "第一天 $x$、第二天 $y$：$x + y + t = 100$、$40x + 36y + 32t = 3720$。消去 $x$：$4000 - 4y - 8t = 3720$，$y = 70 - 2t$。$a = -2$、$b = 70$。"
+  },
+  {
+    "id": "102-gsat-math-E",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "E. 坐標平面上，一圓與直線 $x - y = 1$ 以及直線 $x - y = 5$ 所截的弦長皆為 14。則此圓的面積為 ㉕㉖ $\\pi$。",
+    "blanks": [
+      "5",
+      "1"
+    ],
+    "blankLabels": [
+      "25",
+      "26"
+    ],
+    "explanation": "弦長相同，圓心到兩平行線等距，圓心在 $x - y = 3$ 上，距離 $\\dfrac{2}{\\sqrt2} = \\sqrt2$。\n$r^2 = 7^2 + 2 = 51$，面積 $51\\pi$。"
+  },
+  {
+    "id": "102-gsat-math-F",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "F. 令 $\\vec A$，$\\vec B$ 為坐標平面上兩向量。已知 $\\vec A$ 的長度為 1，$\\vec B$ 的長度為 2 且 $\\vec A$ 與 $\\vec B$ 之間的夾角為 $60^\\circ$。令 $\\vec u = \\vec A + \\vec B$，$\\vec v = x\\vec A + y\\vec B$，其中 $x, y$ 為實數且符合 $6 \\le x + y \\le 8$ 以及 $-2 \\le x - y \\le 0$，則內積 $\\vec u\\cdot\\vec v$ 的最大值為 ㉗㉘。",
+    "blanks": [
+      "3",
+      "1"
+    ],
+    "blankLabels": [
+      "27",
+      "28"
+    ],
+    "explanation": "$\\vec A\\cdot\\vec A = 1$、$\\vec B\\cdot\\vec B = 4$、$\\vec A\\cdot\\vec B = 1$，$\\vec u\\cdot\\vec v = 2x + 5y$。\n令 $s = x + y$、$d = x - y$：$2x + 5y = \\dfrac{7s - 3d}{2}$，在 $s = 8$、$d = -2$ 最大：$\\dfrac{56 + 6}{2} = 31$。"
+  },
+  {
+    "id": "102-gsat-math-G",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "G. 設銳角三角形 $ABC$ 的外接圓半徑為 8。已知外接圓圓心到 $\\overline{AB}$ 的距離為 2，而到 $\\overline{BC}$ 的距離為 7，則 $\\overline{AC} =$ ㉙$\\sqrt{㉚㉛}$。（化成最簡根式）",
+    "blanks": [
+      "4",
+      "1",
+      "5"
+    ],
+    "blankLabels": [
+      "29",
+      "30",
+      "31"
+    ],
+    "explanation": "銳角三角形中，外心到 $\\overline{AB}$ 的距離 $= R\\cos C$，到 $\\overline{BC}$ 的距離 $= R\\cos A$：$\\cos C = \\dfrac14$、$\\cos A = \\dfrac78$，$\\sin C = \\dfrac{\\sqrt{15}}{4}$、$\\sin A = \\dfrac{\\sqrt{15}}{8}$。\n$\\sin B = \\sin(A + C) = \\dfrac{\\sqrt{15}}{8}\\cdot\\dfrac14 + \\dfrac78\\cdot\\dfrac{\\sqrt{15}}{4} = \\dfrac{\\sqrt{15}}{4}$。\n$\\overline{AC} = 2R\\sin B = 4\\sqrt{15}$。"
+  },
+  {
+    "id": "102-gsat-math-H",
+    "examType": "學測",
+    "year": 102,
+    "subject": "數學",
+    "type": "fill",
+    "points": 5,
+    "question": "H. 如下圖，在坐標空間中，$A, B, C, D, E, F, G, H$ 為正立方體的八個頂點，已知其中四個點的坐標 $A(0, 0, 0)$、$B(6, 0, 0)$、$D(0, 6, 0)$ 及 $E(0, 0, 6)$，$P$ 在線段 $\\overline{CG}$ 上且 $\\overline{CP} : \\overline{PG} = 1 : 5$，$R$ 在線段 $\\overline{EH}$ 上且 $\\overline{ER} : \\overline{RH} = 1 : 1$，$Q$ 在線段 $\\overline{AD}$ 上。若空間中通過 $P, Q, R$ 這三點的平面，與直線 $AG$ 不相交，則 $Q$ 點的 $y$ 坐標為 $\\dfrac{㉜㉝}{㉞㉟}$。（化成最簡分數）",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/102-gsat-math-H.png\" alt=\"正立方體 ABCD-EFGH 與 P、Q、R 三點\" style=\"width:100%;max-width:260px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "blanks": [
+      "1",
+      "5",
+      "1",
+      "1"
+    ],
+    "blankLabels": [
+      "32",
+      "33",
+      "34",
+      "35"
+    ],
+    "explanation": "$C(6, 6, 0)$、$G(6, 6, 6)$，$P(6, 6, 1)$；$H(0, 6, 6)$，$R(0, 3, 6)$；$Q(0, q, 0)$。\n平面與直線 $AG$（方向 $(1, 1, 1)$）不相交 ⇒ 平行。法向量同時垂直 $(1, 1, 1)$ 與 $\\overrightarrow{RP} = (6, 3, -5)$：$(1, 1, 1)\\times(6, 3, -5) = (-8, 11, -3)$。\n$\\overrightarrow{RQ} = (0, q - 3, -6)$ 要垂直法向量：$11(q - 3) + 18 = 0$，$q = \\dfrac{15}{11}$。（此時 $A$ 不在平面上，確實不相交。）"
   }
 ]
