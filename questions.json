@@ -235360,5 +235360,243 @@
       "AB"
     ],
     "explanation": "正弦定理：$\\overline{AB} = \\dfrac{\\overline{BC}\\sin C}{\\sin A} = \\dfrac{12\\cdot\\dfrac{5\\sqrt3}{14}}{\\dfrac{4\\sqrt3}7} = \\dfrac{15}2$。\n（驗算：$\\overline{AC} = \\dfrac{21}2$，餘弦定理 $\\left(\\dfrac{15}2\\right)^2 + 12^2 - 2\\cdot\\dfrac{15}2\\cdot12\\cdot\\dfrac12 = \\dfrac{441}4$ ✓）"
+  },
+  {
+    "id": "101-ast-mb-01",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "1. 已知實係數多項式方程式 $x^3 + ax^2 + bx + 8 = 0$ 的三根相同，請問 $b$ 的值等於下列哪一個選項？",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answerIndex": 3,
+    "explanation": "設三根皆為 $r$，則 $-r^3 = 8$，$r = -2$。$(x + 2)^3 = x^3 + 6x^2 + 12x + 8$，$b = 12$。\n\n故選 (D)"
+  },
+  {
+    "id": "101-ast-mb-02",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "2. 請問下列哪一個選項中的矩陣乘積等於 $\\begin{bmatrix} 2a & 3b \\\\ 2c & 3d \\end{bmatrix}$？",
+    "options": [
+      "$\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}\\begin{bmatrix} 2 \\\\ 3 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 2 & 3 \\end{bmatrix}\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$",
+      "$\\begin{bmatrix} 2 & 3 \\\\ 2 & 3 \\end{bmatrix}\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$",
+      "$\\begin{bmatrix} 2 & 0 \\\\ 0 & 3 \\end{bmatrix}\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$",
+      "$\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}\\begin{bmatrix} 2 & 0 \\\\ 0 & 3 \\end{bmatrix}$"
+    ],
+    "answerIndex": 4,
+    "explanation": "要把第 1 行乘 2、第 2 行乘 3，是「右乘」對角矩陣：$\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}\\begin{bmatrix} 2 & 0 \\\\ 0 & 3 \\end{bmatrix} = \\begin{bmatrix} 2a & 3b \\\\ 2c & 3d \\end{bmatrix}$。左乘 (D) 則是第 1 列乘 2、第 2 列乘 3。\n\n故選 (E)"
+  },
+  {
+    "id": "101-ast-mb-03",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學乙",
+    "points": 6,
+    "question": "3. 一乒乓球隊有 6 位選手，其中甲、乙、丙為右手持拍的選手，丁、戊為左手持拍的選手，而己為左右手皆可持拍的選手。現在要派出兩名選手參加雙打，規定由一名可以右手持拍的選手與一名可以左手持拍的選手搭配。請問共有多少種可能的搭配？",
+    "options": [
+      "7",
+      "9",
+      "11",
+      "13",
+      "15"
+    ],
+    "answerIndex": 2,
+    "explanation": "• 不含己：右手 3 人 × 左手 2 人 = 6。\n• 含己：己可搭配其餘 5 人中任一人（己當左手配甲乙丙，或當右手配丁戊），5 種。\n共 11 種。\n\n故選 (C)"
+  },
+  {
+    "id": "101-ast-mb-04",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 某個城市的普查（全面調查）發現 60% 的高中生有打工的經驗，也發現 70% 的高中生有意願就讀大學。如果使用簡單隨機抽樣，由該城市的高中生中抽出一位同學。請選出正確的選項。",
+    "options": [
+      "被抽出同學有意願就讀大學的機率為 0.7",
+      "被抽出同學有打工的經驗、且有意願就讀大學的機率至多為 0.6",
+      "被抽出同學有打工的經驗、且有意願就讀大學的機率至少為 0.35",
+      "被抽出同學有打工的經驗、但是無意願就讀大學的機率為 0.18"
+    ],
+    "answerIndices": [
+      0,
+      1
+    ],
+    "explanation": "• (A) ✓。\n• (B) ✓：$P(A\\cap B) \\le \\min(0.6, 0.7) = 0.6$。\n• (C) ✗：$P(A\\cap B) \\ge 0.6 + 0.7 - 1 = 0.3$，最小可到 0.3，不一定至少 0.35。\n• (D) ✗：要兩事件獨立才是 $0.6\\times0.3 = 0.18$，題目沒有這個條件。\n\n故選 (A)(B)"
+  },
+  {
+    "id": "101-ast-mb-05",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 將 $(x^2 + y)^{12}$ 展開集項後，請選出正確的選項。",
+    "options": [
+      "$x^{24}$ 的係數小於 $x^{10}y^7$ 的係數",
+      "$x^{12}y^6$ 的係數小於 $x^{10}y^7$ 的係數",
+      "$x^{14}y^5$ 的係數小於 $x^{10}y^7$ 的係數",
+      "$x^8y^8$ 的係數小於 $x^{10}y^7$ 的係數"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "$x^{2(12 - k)}y^k$ 的係數為 $\\dbinom{12}{k}$。$x^{10}y^7$：$\\dbinom{12}7 = 792$。\n• (A) $\\dbinom{12}0 = 1$ ✓。\n• (B) $\\dbinom{12}6 = 924$ ✗。\n• (C) $\\dbinom{12}5 = 792$，相等 ✗。\n• (D) $\\dbinom{12}8 = 495$ ✓。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "101-ast-mb-06",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 設 $0 < x < 1$。請選出正確的選項。",
+    "options": [
+      "$x^2 < \\sqrt x < x$",
+      "$\\log_{10}(x^2) < \\log_{10}x < \\log_{10}\\sqrt x$",
+      "$\\log_2(x^2) < \\log_{10}(x^2) < \\log_2x$",
+      "$\\log_{10}(x^2) < \\log_2\\sqrt x < \\log_{10}x$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "令 $L = \\log_{10}x < 0$，則 $\\log_2x = \\dfrac{L}{\\log_{10}2} \\approx 3.32L$。\n• (A) ✗：$x^2 < x < \\sqrt x$。\n• (B) ✓：$2L < L < \\dfrac L2$。\n• (C) ✗：$\\log_{10}(x^2) = 2L$，$\\log_2x \\approx 3.32L < 2L$。\n• (D) ✓：$2L < 1.66L < L$。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "101-ast-mb-07",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學乙",
+    "type": "multiple",
+    "points": 8,
+    "question": "7. 所謂個人稅前所得，是指納稅義務人在納稅前之個人所得，以下簡稱所得。依照某國 1997 年的官方資料，依每人所得高低將人數等分為 5 組，最高 20% 的人的總所得占全體總所得的 44.6%，而最低 20% 的人的總所得占全體總所得的 3.6%，所有資料如下圖所示。所得差距倍數是指最高 20% 的個人平均所得與最低 20% 的個人平均所得的比值。請選出正確的選項。",
+    "svg": "<img src=\"https://raw.githubusercontent.com/nickhung0303/gsat-questions/main/images/101-ast-mb-07.png\" alt=\"五組所得占全體總所得的百分比：3.6%、8.9%、14.9%、28.0%、44.6%\" style=\"width:100%;max-width:420px;height:auto;border-radius:8px;background:#ffffff;display:block;\" />",
+    "options": [
+      "此項資料顯示所得差距倍數超過 13 倍",
+      "最高 30% 的人的總所得超過全體總所得的 55%",
+      "最少有 60% 的人，其個人所得低於全體平均所得",
+      "最低 20% 的人的平均所得為全體平均所得的 3.6%"
+    ],
+    "answerIndices": [
+      1
+    ],
+    "explanation": "• (A) ✗：$\\dfrac{44.6}{3.6} \\approx 12.4$。\n• (B) ✓：最高 30% = 最高 20% 加上第四組中較高的一半人；第四組較高的一半占第四組所得至少一半，所以至少 $44.6\\% + 14\\% = 58.6\\% > 55\\%$。\n• (C) ✗：第三組的平均所得是全體平均的 $\\dfrac{14.9}{20} = 0.745$ 倍，但組內所得較高的人仍可能超過全體平均，無法保證。\n• (D) ✗：應為 $\\dfrac{3.6\\%}{20\\%} = 18\\%$。\n\n故選 (B)"
+  },
+  {
+    "id": "101-ast-mb-A",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "A. 設 $a, b$ 均為正整數，而方程式 $x^2 - ax + 15 = 0$ 與 $x^2 - bx + 3b - 1 = 0$ 有一共同根，且此共同根為質數，則 $b =$ ⑧⑨。",
+    "blanks": [
+      "1",
+      "2"
+    ],
+    "blankLabels": [
+      "8",
+      "9"
+    ],
+    "explanation": "共同根為質數 $p$，兩根之積 15 且另一根 $\\dfrac{15}p$、和 $a$ 為正整數，所以 $p = 3$ 或 5。\n代入第二式 $p^2 - bp + 3b - 1 = 0$：$p = 3$ 得 $8 = 0$ 不合；$p = 5$ 得 $24 - 2b = 0$，$b = 12$（此時 $a = 8$）。"
+  },
+  {
+    "id": "101-ast-mb-B",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "B. 一顆特別的骰子，其六個面中有兩面為 2 點、兩面為 4 點、其餘兩面為 5 點。假設投擲這顆骰子每面出現的機率都相等。擲這顆骰子兩次，所得點數和的數學期望值為 $\\dfrac{⑩⑪}{⑫}$。（化為最簡分數）",
+    "blanks": [
+      "2",
+      "2",
+      "3"
+    ],
+    "blankLabels": [
+      "10",
+      "11",
+      "12"
+    ],
+    "explanation": "一次的期望值 $\\dfrac{2 + 4 + 5}{3} = \\dfrac{11}3$，兩次和的期望值 $\\dfrac{22}3$。"
+  },
+  {
+    "id": "101-ast-mb-C",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學乙",
+    "type": "fill",
+    "points": 8,
+    "question": "C. 觀察 2 的次方所形成的等比數列：$2, 2^2, 2^3, 2^4, \\cdots$，設其中出現的第一個 13 位數為 $2^n$，則 $n =$ ⑬⑭。（註：$\\log_{10}2 \\approx 0.3010$）",
+    "blanks": [
+      "4",
+      "0"
+    ],
+    "blankLabels": [
+      "13",
+      "14"
+    ],
+    "explanation": "13 位數 ⇔ $12 \\le \\log_{10}2^n < 13$，$0.3010n \\ge 12$，$n \\ge 39.87$，最小 $n = 40$（$40\\times0.3010 = 12.04$）。"
+  },
+  {
+    "id": "101-ast-mb-non-1",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】設二次實係數多項式函數 $f(x) = ax^2 + 2ax + b$ 在區間 $-1 \\le x \\le 1$ 上的最大值為 7、最小值為 3。試求數對 $(a, b)$ 的所有可能值。（13 分）",
+    "points": 13,
+    "blanks": [
+      "$(1, 4)$ 或 $(-1, 6)$"
+    ],
+    "blankLabels": [
+      "(a, b)"
+    ],
+    "explanation": "$f(x) = a(x + 1)^2 + b - a$，頂點在 $x = -1$（區間左端點），所以 $f$ 在區間上單調：$f(-1) = b - a$，$f(1) = 3a + b$。\n• $a > 0$：最小 $b - a = 3$、最大 $3a + b = 7$，$a = 1$、$b = 4$。\n• $a < 0$：最大 $b - a = 7$、最小 $3a + b = 3$，$a = -1$、$b = 6$。"
+  },
+  {
+    "id": "101-ast-mb-non-2-1",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某公司生產兩種商品，均以同型的箱子裝運，其中甲商品每箱重 20 公斤，乙商品每箱重 10 公斤。公司出貨時，每趟貨車最多能運送 100 箱，最大載重為 1600 公斤。設甲商品每箱的利潤為 1200 元，乙商品每箱的利潤為 1000 元。\n(1) 設公司調配運送時，每趟貨車裏的甲商品為 $x$ 箱，乙商品為 $y$ 箱。試列出 $x, y$ 必須滿足的聯立不等式。（2 分）",
+    "points": 2,
+    "blanks": [
+      "$x + y \\le 100$，$20x + 10y \\le 1600$，$x \\ge 0$，$y \\ge 0$（$x, y$ 為整數）"
+    ],
+    "blankLabels": [
+      "不等式"
+    ],
+    "explanation": "箱數限制 $x + y \\le 100$；載重限制 $20x + 10y \\le 1600$（即 $2x + y \\le 160$）；箱數為非負整數。"
+  },
+  {
+    "id": "101-ast-mb-non-2-2",
+    "examType": "分科/指考",
+    "year": 101,
+    "subject": "數學乙",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】某公司生產兩種商品，均以同型的箱子裝運，其中甲商品每箱重 20 公斤，乙商品每箱重 10 公斤。公司出貨時，每趟貨車最多能運送 100 箱，最大載重為 1600 公斤。設甲商品每箱的利潤為 1200 元，乙商品每箱的利潤為 1000 元。\n(2) 當 $x, y$ 的值各為多少時，可使每趟貨車出貨所能獲得的利潤為最大？此時利潤為多少元？（11 分）",
+    "points": 11,
+    "blanks": [
+      "$x = 60$、$y = 40$，利潤 112000 元"
+    ],
+    "blankLabels": [
+      "最大利潤"
+    ],
+    "explanation": "可行區域頂點：$(0, 0)$、$(80, 0)$、$(60, 40)$、$(0, 100)$。\n利潤 $P = 1200x + 1000y$：$(80, 0)$ 得 96000；$(60, 40)$ 得 112000；$(0, 100)$ 得 100000。\n最大為 $x = 60$、$y = 40$ 時的 112000 元。"
   }
 ]
