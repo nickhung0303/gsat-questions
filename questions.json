@@ -240821,5 +240821,369 @@
       "32"
     ],
     "explanation": "把矩形分成等面積兩塊的直線必通過中心 $(5, 3)$：$3 = m(5 - 7) + 4$，$m = \\dfrac12$。（分母 ㉛ 填 2，分子 ㉜ 填 1。）"
+  },
+  {
+    "id": "95-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 試問方程式 $(x^2 + x + 1)^3 + 1 = 0$ 有幾個相異實數解？",
+    "options": [
+      "0 個",
+      "1 個",
+      "2 個",
+      "3 個",
+      "6 個"
+    ],
+    "answerIndex": 0,
+    "explanation": "實數 $x$ 使 $x^2 + x + 1$ 為實數，其立方 $= -1$ ⇒ $x^2 + x + 1 = -1$，即 $x^2 + x + 2 = 0$，判別式 $1 - 8 < 0$，沒有實根。（其實 $x^2 + x + 1 \\ge \\dfrac34$ 恆正。）\n\n故選 (A)"
+  },
+  {
+    "id": "95-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "2. 在坐標平面上，設 $P$ 為 $y = 2 + x - x^2$ 圖形上的一點。若 $P$ 的 $x$ 坐標為 $\\log_310$，則 $P$ 點的位置在",
+    "options": [
+      "第一象限",
+      "第二象限",
+      "第三象限",
+      "第四象限",
+      "坐標軸上"
+    ],
+    "answerIndex": 3,
+    "explanation": "$y = -(x - 2)(x + 1)$，$x > 2$ 時 $y < 0$。$\\log_310 > \\log_39 = 2$，所以 $x > 0$、$y < 0$，在第四象限。\n\n故選 (D)"
+  },
+  {
+    "id": "95-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "3. 在坐標平面上給定兩點 $A(1, 3)$ 與 $B(5, 6)$。考慮坐標平面上的點集合 $S = \\{P \\mid \\triangle PAB \\text{ 之面積為 } 10 \\text{ 且周長為 } 15\\}$，則",
+    "options": [
+      "$S$ 為空集合",
+      "$S$ 恰含 2 個點",
+      "$S$ 恰含 4 個點",
+      "$S$ 為兩線段之聯集",
+      "$S$ 為兩直線之聯集"
+    ],
+    "answerIndex": 2,
+    "explanation": "$\\overline{AB} = 5$。面積 10 ⇒ $P$ 到直線 $AB$ 的距離為 4，$P$ 在兩條平行線上。\n周長 15 ⇒ $\\overline{PA} + \\overline{PB} = 10$，$P$ 在以 $A, B$ 為焦點、$a = 5$、$c = \\dfrac52$ 的橢圓上，短半軸 $b = \\sqrt{25 - \\dfrac{25}4} = \\dfrac{5\\sqrt3}2 \\approx 4.33 > 4$。\n所以每條平行線與橢圓交 2 點，共 4 點。\n\n故選 (C)"
+  },
+  {
+    "id": "95-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 擲一枚均勻硬幣 4 次，恰好出現 $n$ 次正面的機率記為 $a_n$；擲一枚均勻硬幣 8 次，恰好出現 $n$ 次正面的機率記為 $b_n$。試問以下哪些選項是正確的？",
+    "options": [
+      "$a_2 = \\dfrac12$",
+      "$a_2 = b_4$",
+      "$b_2 = b_6$",
+      "$a_3 > b_3$",
+      "$b_0, b_1, b_2, \\cdots, b_8$ 中的最大值是 $b_4$"
+    ],
+    "answerIndices": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "$a_n = \\dfrac{\\binom4n}{16}$，$b_n = \\dfrac{\\binom8n}{256}$。\n• (A) ✗：$a_2 = \\dfrac6{16} = \\dfrac38$。\n• (B) ✗：$b_4 = \\dfrac{70}{256} \\ne \\dfrac38$。\n• (C) ✓：$\\dbinom82 = \\dbinom86$。\n• (D) ✓：$a_3 = \\dfrac{64}{256}$，$b_3 = \\dfrac{56}{256}$。\n• (E) ✓：$\\dbinom8n$ 在 $n = 4$ 最大。\n\n故選 (C)(D)(E)"
+  },
+  {
+    "id": "95-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 在坐標平面上以 $\\Gamma$ 表示拋物線 $y = x^2$ 的圖形。試問以下哪些方程式的圖形可以由 $\\Gamma$ 經適當的平移或旋轉得到？",
+    "options": [
+      "$y = 2x^2$",
+      "$y = -x^2$",
+      "$x = y^2$",
+      "$y = x^2 + 4x + 3$",
+      "$(x + y) = (x - y)^2$"
+    ],
+    "answerIndices": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "平移、旋轉不改變拋物線的「焦距」，$y = x^2$ 即 $x^2 = 4\\cdot\\dfrac14y$，焦距 $\\dfrac14$。\n• (A) ✗：$x^2 = \\dfrac12y$，焦距 $\\dfrac18$。\n• (B) ✓：旋轉 $180^\\circ$。\n• (C) ✓：旋轉 $90^\\circ$。\n• (D) ✓：$y = (x + 2)^2 - 1$，平移。\n• (E) ✗：令 $u = \\dfrac{x + y}{\\sqrt2}$、$v = \\dfrac{x - y}{\\sqrt2}$（旋轉 $45^\\circ$），得 $\\sqrt2u = 2v^2$，即 $v^2 = \\dfrac1{\\sqrt2}u$，焦距 $\\dfrac1{4\\sqrt2} \\ne \\dfrac14$。\n\n故選 (B)(C)(D)"
+  },
+  {
+    "id": "95-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "6. 考慮多項式函數 $f(x) = x^5 + 2x^4 - x^3 - 5x^2 + 3$，試問以下哪些選項是正確的？",
+    "options": [
+      "$\\displaystyle\\lim_{k\\to\\infty}\\dfrac{f(k)}{f(k + 100)} = 0$（$k$ 為正整數）",
+      "$\\displaystyle\\lim_{x\\to1}\\dfrac{f(x) - f(1)}{x - 1} = 0$",
+      "函數 $f$ 在區間 $\\left[\\dfrac12, 1\\right]$ 遞增",
+      "若 $x \\ge 0$，則 $f(x) \\ge 0$",
+      "在坐標平面上 $y = f(x)$ 的圖形與直線 $y = 3$ 恰有兩個交點"
+    ],
+    "answerIndices": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "$f(x) = (x - 1)^2(x^3 + 4x^2 + 6x + 3)$。\n• (A) ✗：兩者同為五次，比值 $\\to 1$。\n• (B) ✓：$f'(1) = 5 + 8 - 3 - 10 = 0$。\n• (C) ✗：$f'(x) = x(5x^3 + 8x^2 - 3x - 10)$，在 $\\left[\\dfrac12, 1\\right)$ 中括號內為負，$f$ 遞減。\n• (D) ✓：$x \\ge 0$ 時第二個因式為正。\n• (E) ✓：$f(x) = 3$ ⇔ $x^2(x^3 + 2x^2 - x - 5) = 0$。三次式 $g(x) = x^3 + 2x^2 - x - 5$ 的極大值在 $x \\approx -1.55$，$g(-1.55) < 0$，所以 $g$ 只有一個實根（在 1 與 2 之間）。相異交點為 $x = 0$ 與此根，共兩個。\n\n故選 (B)(D)(E)"
+  },
+  {
+    "id": "95-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "A. 設 $\\vec u$，$\\vec v$ 為兩非零向量。以 $|\\vec u|$ 表 $\\vec u$ 之長度，若 $|\\vec u| = 2|\\vec v| = |2\\vec u + 3\\vec v|$，且 $\\theta$ 表 $\\vec u$ 與 $\\vec v$ 之夾角，則 $\\cos\\theta = \\dfrac{⑦⑧}{⑨}$。（化成最簡分數）",
+    "blanks": [
+      "-",
+      "7",
+      "8"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "7"
+      ],
+      [
+        "8"
+      ]
+    ],
+    "blankLabels": [
+      "7",
+      "8",
+      "9"
+    ],
+    "explanation": "設 $|\\vec v| = 1$、$|\\vec u| = 2$：$|2\\vec u + 3\\vec v|^2 = 16 + 12\\vec u\\cdot\\vec v + 9 = 4$，$\\vec u\\cdot\\vec v = -\\dfrac74$。$\\cos\\theta = \\dfrac{-7/4}{2} = -\\dfrac78$。"
+  },
+  {
+    "id": "95-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "B. 在坐標空間中，球面 $S$ 交 $xy$ 平面於一半徑為 $\\sqrt{13}$、圓心為 $(2, 3, 0)$ 的圓，且 $S$ 通過點 $(6, 6, 6)$，則 $S$ 的半徑為 $\\sqrt{⑩⑪}$。",
+    "blanks": [
+      "2",
+      "9"
+    ],
+    "blankLabels": [
+      "10",
+      "11"
+    ],
+    "explanation": "球心 $(2, 3, k)$，$r^2 = 13 + k^2$。通過 $(6, 6, 6)$：$16 + 9 + (6 - k)^2 = 13 + k^2$，$k = 4$，$r^2 = 29$。"
+  },
+  {
+    "id": "95-ast-ma-C",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "C. 設實係數二階方陣 $A$ 滿足 $A\\begin{pmatrix} 7 \\\\ 3 \\end{pmatrix} = \\begin{pmatrix} 2 \\\\ 1 \\end{pmatrix}$，$A\\begin{pmatrix} 9 \\\\ 4 \\end{pmatrix} = \\begin{pmatrix} 1 \\\\ 5 \\end{pmatrix}$。若 $A = \\begin{pmatrix} 2 & 1 \\\\ 1 & 5 \\end{pmatrix}\\begin{pmatrix} a & c \\\\ b & d \\end{pmatrix}$，則 $a =$ ⑫，$b =$ ⑬⑭，$c =$ ⑮⑯，$d =$ ⑰。",
+    "blanks": [
+      "4",
+      "-",
+      "3",
+      "-",
+      "9",
+      "7"
+    ],
+    "acceptedBlanks": [
+      [
+        "4"
+      ],
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "3"
+      ],
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "9"
+      ],
+      [
+        "7"
+      ]
+    ],
+    "blankLabels": [
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "explanation": "$A\\begin{pmatrix} 7 & 9 \\\\ 3 & 4 \\end{pmatrix} = \\begin{pmatrix} 2 & 1 \\\\ 1 & 5 \\end{pmatrix}$，$\\begin{pmatrix} 7 & 9 \\\\ 3 & 4 \\end{pmatrix}^{-1} = \\begin{pmatrix} 4 & -9 \\\\ -3 & 7 \\end{pmatrix}$（行列式為 1）。\n所以 $\\begin{pmatrix} a & c \\\\ b & d \\end{pmatrix} = \\begin{pmatrix} 4 & -9 \\\\ -3 & 7 \\end{pmatrix}$。"
+  },
+  {
+    "id": "95-ast-ma-D",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "D. 不透明箱內有編號分別為 1 至 9 的九個球，每次隨機取出一個，記錄其編號後放回箱內；以 $P(n)$ 表示前 $n$ 次取球的編號之總和為偶數的機率。已知存在常數 $r$, $s$ 使得 $P(n + 1) = r + sP(n)$ 對任意正整數 $n$ 都成立，則 $r = \\dfrac{⑱}{⑲}$，$s = \\dfrac{⑳㉑}{㉒}$。（化成最簡分數）",
+    "blanks": [
+      "5",
+      "9",
+      "-",
+      "1",
+      "9"
+    ],
+    "acceptedBlanks": [
+      [
+        "5"
+      ],
+      [
+        "9"
+      ],
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "1"
+      ],
+      [
+        "9"
+      ]
+    ],
+    "blankLabels": [
+      "18",
+      "19",
+      "20",
+      "21",
+      "22"
+    ],
+    "explanation": "奇數球 5 個、偶數球 4 個。總和為偶數：前 $n$ 次偶數且第 $n + 1$ 次取偶數，或前 $n$ 次奇數且取奇數。\n$P(n + 1) = \\dfrac49P(n) + \\dfrac59(1 - P(n)) = \\dfrac59 - \\dfrac19P(n)$。"
+  },
+  {
+    "id": "95-ast-ma-E",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 7,
+    "question": "E. 以 $O$ 表坐標平面的原點。給定一點 $A(4, 3)$，而點 $B(x, 0)$ 在正 $x$ 軸上變動。若 $l(x)$ 表 $\\overline{AB}$ 長，則 $\\triangle OAB$ 中**兩邊長比值** $\\dfrac x{l(x)}$ 的最大值為 $\\dfrac{㉓}{㉔}$。（化成最簡分數）",
+    "blanks": [
+      "5",
+      "3"
+    ],
+    "blankLabels": [
+      "23",
+      "24"
+    ],
+    "explanation": "正弦定理：$\\dfrac{\\overline{OB}}{\\overline{AB}} = \\dfrac{\\sin\\angle OAB}{\\sin\\angle AOB}$，而 $\\sin\\angle AOB = \\dfrac35$ 固定。$\\sin\\angle OAB$ 最大為 1（$\\angle OAB = 90^\\circ$ 時），最大值 $\\dfrac53$。"
+  },
+  {
+    "id": "95-ast-ma-non-1-1",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】(1) 將 48510 分解成質因數的乘積。（3 分）",
+    "points": 3,
+    "blanks": [
+      "$2\\times3^2\\times5\\times7^2\\times11$"
+    ],
+    "blankLabels": [
+      "質因數分解"
+    ],
+    "explanation": "$48510 = 10\\times4851 = 10\\times9\\times539 = 10\\times9\\times7\\times77 = 2\\times3^2\\times5\\times7^2\\times11$。"
+  },
+  {
+    "id": "95-ast-ma-non-1-2",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】(2) 寫出在 1 和 250 之間且與 48510 互質的所有合數（合數就是比 1 大而不是質數的整數）。（7 分）",
+    "points": 7,
+    "blanks": [
+      "169、221、247"
+    ],
+    "blankLabels": [
+      "合數"
+    ],
+    "explanation": "與 48510 互質 ⇔ 不含質因數 2, 3, 5, 7, 11。這樣的合數至少是兩個 $\\ge 13$ 的質數之積：$13^2 = 169$、$13\\times17 = 221$、$13\\times19 = 247$；$13\\times23 = 299$、$17^2 = 289$ 都超過 250。"
+  },
+  {
+    "id": "95-ast-ma-non-2-1",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】傳說中孫悟空的「如意金箍棒」是由「定海神針」變形得來的。這定海神針在變形時永遠保持為圓柱體，其底圓半徑原為 12 公分且以每秒 1 公分的等速率縮短，而長度以每秒 20 公分的等速率增長。已知神針之底圓半徑只能從 12 公分縮到 4 公分為止，且知在這段變形過程中，當底圓半徑為 10 公分時其體積最大。\n(1) 試問神針在變形開始幾秒時其體積最大？（2 分）",
+    "points": 2,
+    "blanks": [
+      "2 秒"
+    ],
+    "blankLabels": [
+      "秒數"
+    ],
+    "explanation": "半徑 $12 - t$，等於 10 時 $t = 2$。"
+  },
+  {
+    "id": "95-ast-ma-non-2-2",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】傳說中孫悟空的「如意金箍棒」是由「定海神針」變形得來的。這定海神針在變形時永遠保持為圓柱體，其底圓半徑原為 12 公分且以每秒 1 公分的等速率縮短，而長度以每秒 20 公分的等速率增長。已知神針之底圓半徑只能從 12 公分縮到 4 公分為止，且知在這段變形過程中，當底圓半徑為 10 公分時其體積最大。\n(2) 試求定海神針原來的長度。（6 分）",
+    "points": 6,
+    "blanks": [
+      "60 公分"
+    ],
+    "blankLabels": [
+      "原長"
+    ],
+    "explanation": "設原長 $L_0$，$V(t) = \\pi(12 - t)^2(L_0 + 20t)$。\n$V'(t) = \\pi(12 - t)[-2(L_0 + 20t) + 20(12 - t)]$，$t = 2$ 時為 0：$-2(L_0 + 40) + 200 = 0$，$L_0 = 60$。"
+  },
+  {
+    "id": "95-ast-ma-non-2-3",
+    "examType": "分科/指考",
+    "year": 95,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】傳說中孫悟空的「如意金箍棒」是由「定海神針」變形得來的。這定海神針在變形時永遠保持為圓柱體，其底圓半徑原為 12 公分且以每秒 1 公分的等速率縮短，而長度以每秒 20 公分的等速率增長。已知神針之底圓半徑只能從 12 公分縮到 4 公分為止，且知在這段變形過程中，當底圓半徑為 10 公分時其體積最大。\n(3) 假設孫悟空將神針體積最小時定形成金箍棒，試求金箍棒的長度。（5 分）",
+    "points": 5,
+    "blanks": [
+      "220 公分"
+    ],
+    "blankLabels": [
+      "長度"
+    ],
+    "explanation": "$V(t) = \\pi(12 - t)^2(60 + 20t)$，$0 \\le t \\le 8$。$V'(t) = 60\\pi(12 - t)(2 - t)$，只在 $t = 2$ 為 0（極大），所以最小值在端點：\n$V(0) = 8640\\pi$，$V(8) = 16\\times220\\pi = 3520\\pi$。最小在 $t = 8$，長度 $60 + 160 = 220$ 公分。"
   }
 ]
