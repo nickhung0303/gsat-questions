@@ -242806,5 +242806,240 @@
       "31"
     ],
     "explanation": "$x^2 = 4x + 8$，$x_1 + x_2 = 4$，$y_1 + y_2 = 4 + 4 = 8$。拋物線上點到焦點的距離等於到準線 $y = -1$ 的距離：$\\overline{PF} + \\overline{QF} = (y_1 + 1) + (y_2 + 1) = 10$。"
+  },
+  {
+    "id": "93-ast-ma-01",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "1. 設方程式 $x^5 = 1$ 的五個根為 $1, \\omega_1, \\omega_2, \\omega_3, \\omega_4$，則 $(3 - \\omega_1)(3 - \\omega_2)(3 - \\omega_3)(3 - \\omega_4) =$",
+    "options": [
+      "81",
+      "162",
+      "121",
+      "242"
+    ],
+    "answerIndex": 2,
+    "explanation": "$(x - \\omega_1)\\cdots(x - \\omega_4) = \\dfrac{x^5 - 1}{x - 1} = x^4 + x^3 + x^2 + x + 1$，代 $x = 3$：$81 + 27 + 9 + 3 + 1 = 121$。\n\n故選 (C)"
+  },
+  {
+    "id": "93-ast-ma-02",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "2. 根據對數表，$\\log2$ 的近似值是 0.3010，$\\log3$ 的近似值是 0.4771。下列選項有哪些是正確的？",
+    "options": [
+      "$10^9 > 9^{10}$",
+      "$10^{12} < 12^{10}$",
+      "$10^{11} > 11^{10}$",
+      "方程式 $10^x = x^{10}$ 有一負根"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "• (A) ✗：$\\log9^{10} = 9.542 > 9$。\n• (B) ✗：$\\log12^{10} = 10.79 < 12$。\n• (C) ✓：$\\log11^{10} = 10.41 < 11$。\n• (D) ✓：$x \\to 0^-$ 時 $10^x \\to 1 > x^{10} \\to 0$；$x = -1$ 時 $10^{-1} < 1$。由勘根，$(-1, 0)$ 內有一根。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "93-ast-ma-03",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "3. 正四面體的四個頂點落在以原點 $O(0, 0, 0)$ 為球心、半徑為 1 的球面上，已知一頂點 $P$ 的坐標為 $(0, 0, 1)$，另一頂點 $Q$ 的坐標為 $(a, b, c)$。下列選項有哪些必定是正確的？",
+    "options": [
+      "$\\overrightarrow{OP}$ 與 $\\overrightarrow{OQ}$ 的夾角為 $120^\\circ$",
+      "$a^2 + b^2 > c^2$",
+      "$ab > 0$",
+      "$c < 0$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "正四面體中心到兩頂點的夾角 $\\theta$ 滿足 $\\cos\\theta = -\\dfrac13$（約 $109.5^\\circ$），(A) ✗。\n$c = \\overrightarrow{OP}\\cdot\\overrightarrow{OQ} = -\\dfrac13 < 0$，(D) ✓；$a^2 + b^2 = 1 - \\dfrac19 = \\dfrac89 > c^2$，(B) ✓。\n$Q$ 可繞 $z$ 軸任意旋轉，$ab$ 的正負不定，(C) ✗。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "93-ast-ma-04",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "4. 設 $a > 0$，令 $A(a)$ 表示 $x$ 軸、$y$ 軸、直線 $x = a$ 與函數 $y = 2 + \\sin x$ 的圖形所圍成的面積。下列選項有哪些是正確的？",
+    "options": [
+      "$A(a + 2\\pi) = A(a)$ 恆成立",
+      "$A(2\\pi) = 2A(\\pi)$",
+      "$A(4\\pi) = 2A(2\\pi)$",
+      "$A(3\\pi) - A(2\\pi) > A(2\\pi) - A(\\pi)$"
+    ],
+    "answerIndices": [
+      2,
+      3
+    ],
+    "explanation": "$A(a) = \\displaystyle\\int_0^a(2 + \\sin x)\\,dx = 2a + 1 - \\cos a$。\n• (A) ✗：$A(a + 2\\pi) = A(a) + 4\\pi$。\n• (B) ✗：$4\\pi \\ne 2(2\\pi + 2)$。\n• (C) ✓：$8\\pi = 2\\cdot4\\pi$。\n• (D) ✓：左邊 $2\\pi + 2$，右邊 $2\\pi - 2$。\n\n故選 (C)(D)"
+  },
+  {
+    "id": "93-ast-ma-05",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "5. 已知整係數多項式 $f(x)$ 滿足 $f(2) = f(4) = f(6) = 0$，而且除了 $x = 2, 4, 6$ 之外，$f(x)$ 的函數值恆正。下列選項有哪些必定是正確的？",
+    "options": [
+      "$f(x)$ 的次數至少為 6",
+      "$f(x)$ 的次數為奇數",
+      "$f(1)$ 為奇數",
+      "$f'(4) = 0$"
+    ],
+    "answerIndices": [
+      0,
+      3
+    ],
+    "explanation": "函數值不變號，每個根都是偶重根：$f(x) = (x - 2)^{2a}(x - 4)^{2b}(x - 6)^{2c}g(x)$。\n• (A) ✓、(B) ✗：次數至少 6，且為偶數。\n• (C) ✗：如 $f(x) = 2(x - 2)^2(x - 4)^2(x - 6)^2$，$f(1)$ 為偶數。\n• (D) ✓：4 是重根，$f'(4) = 0$。\n\n故選 (A)(D)"
+  },
+  {
+    "id": "93-ast-ma-06",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學甲",
+    "points": 6,
+    "question": "【題組】使用圓球和球袋作機率實驗。球只有黑白兩色，袋中裝有兩顆球，因此只有三種可能情況：把雙白球稱為狀態 1，一白球一黑球稱為狀態 2，雙黑球稱為狀態 3。對這袋球做如下操作：自袋中隨機移走一球後，再隨機移入一顆白球或黑球（移入白球或黑球的機率相等）。每次操作可能會改變袋中球的狀態。\n6. 如果現在袋子內的球是一白一黑（即狀態 2），請問經過一次操作後，袋中會變成兩顆黑球（狀態 3）的機率是多少？",
+    "options": [
+      "$\\dfrac14$",
+      "$\\dfrac13$",
+      "$\\dfrac12$",
+      "$\\dfrac23$"
+    ],
+    "answerIndex": 0,
+    "explanation": "要移走白球（$\\dfrac12$）再移入黑球（$\\dfrac12$），機率 $\\dfrac14$。\n\n故選 (A)"
+  },
+  {
+    "id": "93-ast-ma-07",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "【題組】使用圓球和球袋作機率實驗。球只有黑白兩色，袋中裝有兩顆球，因此只有三種可能情況：把雙白球稱為狀態 1，一白球一黑球稱為狀態 2，雙黑球稱為狀態 3。對這袋球做如下操作：自袋中隨機移走一球後，再隨機移入一顆白球或黑球（移入白球或黑球的機率相等）。每次操作可能會改變袋中球的狀態。\n把從狀態 $j$ 經過一次操作後會變成狀態 $i$ 的機率記為 $p_{ij}$（例如第 6 題的機率就是 $p_{32}$），由此構成一 $3\\times3$ 矩陣 $P$。\n7. 針對矩陣 $P$，下列選項有哪些是正確的？",
+    "options": [
+      "矩陣 $P$ 滿足 $p_{ij} = p_{ji}$",
+      "$P$ 是轉移矩陣（即每行之和皆為 1）",
+      "$P$ 的行列式值為正",
+      "$p_{11} = p_{33}$"
+    ],
+    "answerIndices": [
+      1,
+      3
+    ],
+    "explanation": "逐一計算各狀態的去向：$P = \\begin{bmatrix} \\frac12 & \\frac14 & 0 \\\\ \\frac12 & \\frac12 & \\frac12 \\\\ 0 & \\frac14 & \\frac12 \\end{bmatrix}$。\n• (A) ✗：$p_{12} = \\dfrac14 \\ne p_{21} = \\dfrac12$。\n• (B) ✓。\n• (C) ✗：$\\det P = \\dfrac12\\left(\\dfrac14 - \\dfrac18\\right) - \\dfrac14\\cdot\\dfrac14 = 0$。\n• (D) ✓：都是 $\\dfrac12$。\n\n故選 (B)(D)"
+  },
+  {
+    "id": "93-ast-ma-08",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學甲",
+    "type": "multiple",
+    "points": 8,
+    "question": "【題組】使用圓球和球袋作機率實驗。球只有黑白兩色，袋中裝有兩顆球，因此只有三種可能情況：把雙白球稱為狀態 1，一白球一黑球稱為狀態 2，雙黑球稱為狀態 3。對這袋球做如下操作：自袋中隨機移走一球後，再隨機移入一顆白球或黑球（移入白球或黑球的機率相等）。每次操作可能會改變袋中球的狀態。\n把從狀態 $j$ 經過一次操作後會變成狀態 $i$ 的機率記為 $p_{ij}$（例如第 6 題的機率就是 $p_{32}$），由此構成一 $3\\times3$ 矩陣 $P$。\n把矩陣 $P$ 連續自乘 $k$ 次後的矩陣記為 $P^k$。已知矩陣 $P^k$ 中 $(i, j)$ 位置的值，等於從狀態 $j$ 經過 $k$ 次操作後，變成狀態 $i$ 的機率。\n8. 針對多次操作，下列選項有哪些是正確的？",
+    "options": [
+      "從一白一黑（狀態 2）開始，經過 k 次操作後，變成雙白（狀態 1）的機率與變成雙黑（狀態 3）的機率相等",
+      "從雙白（狀態 1）開始，經過 k 次操作後，回到雙白（狀態 1）的機率，比變成雙黑（狀態 3）的機率大",
+      "從雙白（狀態 1）開始，經過 k 次操作後，回到雙白（狀態 1）的機率，會隨著次數 k 的增加而遞減",
+      "不論從哪種狀態開始，經過 $k$ 次操作後，變成任何一種狀態的機率，會隨著 $k$ 趨近於無窮大而趨近於 $\\dfrac13$"
+    ],
+    "answerIndices": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "• (A) ✓：黑白對調的對稱性。\n• (B)(C) ✓：從狀態 1 出發，$P$、$P^2$、$P^3$ 第 1 行依序為 $\\left(\\tfrac12, \\tfrac12, 0\\right)$、$\\left(\\tfrac38, \\tfrac12, \\tfrac18\\right)$、$\\left(\\tfrac5{16}, \\tfrac12, \\tfrac3{16}\\right)$……一般為 $\\left(\\tfrac14 + \\tfrac1{2^{k+1}}, \\tfrac12, \\tfrac14 - \\tfrac1{2^{k+1}}\\right)$，回到狀態 1 的機率遞減且大於變成狀態 3 的機率。\n• (D) ✗：極限分布為 $\\left(\\dfrac14, \\dfrac12, \\dfrac14\\right)$。\n\n故選 (A)(B)(C)"
+  },
+  {
+    "id": "93-ast-ma-A",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 8,
+    "question": "A. 若坐標平面上滿足 $2x^2 + axy + 2y^2 = 1$ 的點 $(x, y)$，都滿足 $x^2 + y^2 \\le 1$，則 $a$ 的最小可能值為 ⑨⑩。",
+    "blanks": [
+      "-",
+      "2"
+    ],
+    "acceptedBlanks": [
+      [
+        "-",
+        "−",
+        "－"
+      ],
+      [
+        "2"
+      ]
+    ],
+    "blankLabels": [
+      "9",
+      "10"
+    ],
+    "explanation": "用極坐標 $(r\\cos\\theta, r\\sin\\theta)$：$r^2\\left(2 + \\dfrac a2\\sin2\\theta\\right) = 1$。要所有點 $r^2 \\le 1$，需 $2 + \\dfrac a2\\sin2\\theta \\ge 1$ 對所有 $\\theta$ 成立，即 $\\dfrac{|a|}2 \\le 1$，$-2 \\le a \\le 2$。最小值 $-2$。"
+  },
+  {
+    "id": "93-ast-ma-B",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學甲",
+    "type": "fill",
+    "points": 8,
+    "question": "B. 將 $\\tan x = x$ 的所有正實根由小到大排列，得一無窮數列 $x_1, x_2, \\cdots, x_n, \\cdots$，則 $\\displaystyle\\lim_{n\\to\\infty}(x_{n+1} - x_n) =$ ⑪.⑫⑬（四捨五入到小數第二位）。",
+    "blanks": [
+      "3",
+      "1",
+      "4"
+    ],
+    "blankLabels": [
+      "11",
+      "12",
+      "13"
+    ],
+    "explanation": "每個區間 $\\left(n\\pi, n\\pi + \\dfrac\\pi2\\right)$ 各有一根，且 $x$ 越大，根越接近 $n\\pi + \\dfrac\\pi2$。相鄰兩根的差趨近 $\\pi \\approx 3.14$。"
+  },
+  {
+    "id": "93-ast-ma-non-1",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題一】若有 $\\theta$ 使下述方程組不只有一組解，求 $\\sin\\theta + \\cos\\theta$ 的值。（12 分）\n$\\begin{cases} (1 + \\cos\\theta)x - y = 0 \\\\ -x + (1 + \\sin\\theta)y = 0 \\end{cases}$",
+    "points": 12,
+    "blanks": [
+      "$\\sqrt2 - 1$"
+    ],
+    "blankLabels": [
+      "sinθ + cosθ"
+    ],
+    "explanation": "齊次方程組有非零解 ⇔ 係數行列式為 0：$(1 + \\cos\\theta)(1 + \\sin\\theta) - 1 = 0$，即 $\\sin\\theta + \\cos\\theta + \\sin\\theta\\cos\\theta = 0$。\n令 $t = \\sin\\theta + \\cos\\theta$，$\\sin\\theta\\cos\\theta = \\dfrac{t^2 - 1}2$：$t^2 + 2t - 1 = 0$，$t = -1 \\pm \\sqrt2$。又 $|t| \\le \\sqrt2$，所以 $t = \\sqrt2 - 1$。"
+  },
+  {
+    "id": "93-ast-ma-non-2",
+    "examType": "分科/指考",
+    "year": 93,
+    "subject": "數學甲",
+    "type": "fill",
+    "selfGrade": true,
+    "question": "【非選擇題二】設 $k$ 為一常數。已知一拋物線通過點 $(2, 0)$，且焦點為 $(1, 2)$，準線為 $kx + y + 1 = 0$，求此拋物線頂點的坐標。（12 分）",
+    "points": 12,
+    "blanks": [
+      "$\\left(0, \\dfrac32\\right)$"
+    ],
+    "blankLabels": [
+      "頂點"
+    ],
+    "explanation": "$(2, 0)$ 到焦點距離 $\\sqrt5$，到準線距離 $\\dfrac{|2k + 1|}{\\sqrt{k^2 + 1}} = \\sqrt5$：$k^2 - 4k + 4 = 0$，$k = 2$。\n準線 $2x + y + 1 = 0$。焦點 $(1, 2)$ 到準線的垂足為 $(1, 2) - \\dfrac{5}{5}(2, 1) = (-1, 1)$，頂點為焦點與垂足的中點 $\\left(0, \\dfrac32\\right)$。"
   }
 ]
